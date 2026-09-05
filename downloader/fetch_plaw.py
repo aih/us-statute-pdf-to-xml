@@ -165,7 +165,10 @@ def run(args) -> int:
     data_dir = Path(args.data_dir)
     failures: dict[str, str] = {}
     with GovInfoClient(govinfo_api_key(), max_connections=args.workers * args.parts + 4) as client:
-        package_ids = select_packages(client, args.since, args.limit, args.congress, args.doc_class, args.any_date)
+        if args.package:
+            package_ids = list(args.package)
+        else:
+            package_ids = select_packages(client, args.since, args.limit, args.congress, args.doc_class, args.any_date)
         logger.info("%d package(s) selected", len(package_ids))
         with ThreadPoolExecutor(max_workers=args.workers, thread_name_prefix="plaw") as pool:
             futures = {
@@ -188,7 +191,8 @@ def run(args) -> int:
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(prog="python -m downloader.fetch_plaw", description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
-    p.add_argument("--since", required=True, help="ISO date, e.g. 2023-01-01 (lastModified filter and dateIssued floor)")
+    p.add_argument("--since", default=None, help="ISO date, e.g. 2023-01-01 (lastModified filter and dateIssued floor)")
+    p.add_argument("--package", action="append", default=None, help="explicit package id, e.g. PLAW-118publ5 (repeatable)")
     p.add_argument("--limit", type=int, default=None, help="stop after N laws")
     p.add_argument("--congress", type=int, default=None, help="restrict to one Congress, e.g. 118")
     p.add_argument("--doc-class", default="PUBLIC", help="PUBLIC (default), PRIVATE, or '' for both")
@@ -204,6 +208,8 @@ def build_parser() -> argparse.ArgumentParser:
 @exit_on_missing_env
 def main(argv: Optional[list[str]] = None) -> int:
     args = build_parser().parse_args(argv)
+    if not args.since and not args.package:
+        build_parser().error("--since or --package is required")
     if args.doc_class == "":
         args.doc_class = None
     return run(args)

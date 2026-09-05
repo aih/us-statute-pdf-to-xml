@@ -15,3 +15,6 @@ granules:
   - granule_id: STATUTE-32-Pg1
     era: scanned-pre-1951
     granule_class: PUBLICLAW
+  - granule_id: STATUTE-64-Pg873
+    era: scanned-1951-2002
+    granule_class: PUBLICLAW

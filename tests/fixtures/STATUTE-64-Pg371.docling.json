@@ -1,0 +1,2460 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "STATUTE-64-Pg371",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 17914935870630717431,
+    "filename": "STATUTE-64-Pg371.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.0,
+            "t": 727.0833333333334,
+            "r": 358.6666666666667,
+            "b": 719.0833333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "64 Srar.] Sisr CONG. 2p SESS\u2014CHS. 485, 480\u2014JULY 21, 22, 1960",
+      "text": "64 Srar.] Sisr CONG. 2p SESS\u2014CHS. 485, 480\u2014JULY 21, 22, 1960"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 439.6666666666667,
+            "t": 730.0833333333334,
+            "r": 457.0,
+            "b": 721.0833333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "371",
+      "text": "371"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 67.0,
+            "t": 708.75,
+            "r": 384.0,
+            "b": 597.4166666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            716
+          ]
+        }
+      ],
+      "orig": "office space in the District of Columbia and in the field; (d) the purchase of reprints from trade journals or other periodicals of articles repared officially by Government employees; (e) the furnishing of 'ood and shelter without repayment therefor to employees of the Government at Arctic stations; and (f) in the conduct of observations on radio propagation phenomena in the Arctic region, the ap intment of employees at base rates estublished by the Secretary of Commerce which shall not exceed such maximum rates as may be specified from time to time in the appropriation concerned, and without regard to the civil service and classification laws and titles IT and ITI of the Federal Employees Pay Act of 1945,",
+      "text": "office space in the District of Columbia and in the field; (d) the purchase of reprints from trade journals or other periodicals of articles repared officially by Government employees; (e) the furnishing of 'ood and shelter without repayment therefor to employees of the Government at Arctic stations; and (f) in the conduct of observations on radio propagation phenomena in the Arctic region, the ap intment of employees at base rates estublished by the Secretary of Commerce which shall not exceed such maximum rates as may be specified from time to time in the appropriation concerned, and without regard to the civil service and classification laws and titles IT and ITI of the Federal Employees Pay Act of 1945,"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 66.66666666666667,
+            "t": 597.75,
+            "r": 384.0,
+            "b": 496.75,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            626
+          ]
+        }
+      ],
+      "orig": "Spe, 2. Within the limits of funds which may be appropriated therefor, the Secretary of Commerce is authorized to make improvements to existing buildings, grounds, and other plant facilities, including construction of minor buildings and other facilities of the Nati Bureau of Standards in the District of Columbia and in the field to house special apparatus or material which must be isolated from other activities: Provided, That no improvement shall be made nor shall any building be constructed under this authority at a cost in excess of $25,000, unless specific provision is made therefor in the appropriation concerned.",
+      "text": "Spe, 2. Within the limits of funds which may be appropriated therefor, the Secretary of Commerce is authorized to make improvements to existing buildings, grounds, and other plant facilities, including construction of minor buildings and other facilities of the Nati Bureau of Standards in the District of Columbia and in the field to house special apparatus or material which must be isolated from other activities: Provided, That no improvement shall be made nor shall any building be constructed under this authority at a cost in excess of $25,000, unless specific provision is made therefor in the appropriation concerned."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.33333333333333,
+            "t": 495.75,
+            "r": 189.66666666666666,
+            "b": 485.0833333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Approved July 21, 1950.",
+      "text": "Approved July 21, 1950."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.33333333333333,
+            "t": 467.75,
+            "r": 137.0,
+            "b": 459.4166666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "(CHAPTER 456}",
+      "text": "(CHAPTER 456}"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 208.33333333333334,
+            "t": 459.4166666666667,
+            "r": 245.66666666666666,
+            "b": 452.75,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "AN ACT",
+      "text": "AN ACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.33333333333333,
+            "t": 449.4166666666667,
+            "r": 385.0,
+            "b": 423.4166666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "To amend section 2 of the Act of March 3, 1001 (31 Stat. 1449), to provide basic authority for the performance of certain functions and activities of the ment of Commerce, and for other purposes.",
+      "text": "To amend section 2 of the Act of March 3, 1001 (31 Stat. 1449), to provide basic authority for the performance of certain functions and activities of the ment of Commerce, and for other purposes."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.33333333333333,
+            "t": 416.0833333333333,
+            "r": 384.3333333333333,
+            "b": 374.75,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            261
+          ]
+        }
+      ],
+      "orig": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That section 2 of the Act of March 3, 1901 (31 Stat. 1449), as amended, be, and the same hereby is, further amended \u00a2o as to read in full as follows:",
+      "text": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That section 2 of the Act of March 3, 1901 (31 Stat. 1449), as amended, be, and the same hereby is, further amended \u00a2o as to read in full as follows:"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.0,
+            "t": 355.4166666666667,
+            "r": 385.3333333333333,
+            "b": 296.08333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            352
+          ]
+        }
+      ],
+      "orig": "\"(a) The custody, maintenance, and development of the national standards of measurement, and the provision of means and methods for making measurements consistent with those standards, including the comparison of standards used in scientific investigations, engineering, manufacturing, commerce, and educational institutions with the or the Government.",
+      "text": "\"(a) The custody, maintenance, and development of the national standards of measurement, and the provision of means and methods for making measurements consistent with those standards, including the comparison of standards used in scientific investigations, engineering, manufacturing, commerce, and educational institutions with the or the Government."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.0,
+            "t": 375.4166666666667,
+            "r": 384.3333333333333,
+            "b": 345.75,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "\"See, 2. The Secretary of Commerce (hereinafter referred to as the be vera & is authorized to undertake the following functions:",
+      "text": "\"See, 2. The Secretary of Commerce (hereinafter referred to as the be vera & is authorized to undertake the following functions:"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.33333333333333,
+            "t": 306.41666666666663,
+            "r": 230.0,
+            "b": 285.08333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "standards ag v0 recognized by",
+      "text": "standards ag v0 recognized by"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 67.33333333333333,
+            "t": 294.75,
+            "r": 385.3333333333333,
+            "b": 256.08333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "\"(b) The determination of physical constants and properties of materials when such data are of great importance to scientific or manufacturing interests and are not to be obtained of sufficient accuracy elsewhere.",
+      "text": "\"(b) The determination of physical constants and properties of materials when such data are of great importance to scientific or manufacturing interests and are not to be obtained of sufficient accuracy elsewhere."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.0,
+            "t": 254.41666666666663,
+            "r": 385.0,
+            "b": 215.75,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            248
+          ]
+        }
+      ],
+      "orig": "\"(c) The abl, Fy of methods for testing materials, mechanisms, and structures, and the testing of materials, supplies, and equipmen| including items pure! 'or use 0 vernment departments an including i hased f \u00a3 Go ta pai independent establishments,",
+      "text": "\"(c) The abl, Fy of methods for testing materials, mechanisms, and structures, and the testing of materials, supplies, and equipmen| including items pure! 'or use 0 vernment departments an including i hased f \u00a3 Go ta pai independent establishments,"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.0,
+            "t": 213.75,
+            "r": 385.0,
+            "b": 185.08333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "Cooperation with other governmental cies and with private organizations in the establishment of standard practices, incorin codes and",
+      "text": "Cooperation with other governmental cies and with private organizations in the establishment of standard practices, incorin codes and"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 183.08333333333337,
+            "r": 384.6666666666667,
+            "b": 165.08333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "\"(e) Advisory service to Government agencies on scientific and technical",
+      "text": "\"(e) Advisory service to Government agencies on scientific and technical"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.0,
+            "t": 222.75,
+            "r": 226.33333333333334,
+            "b": 181.41666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "\u00ab() porated specifications.",
+      "text": "\u00ab() porated specifications."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.66666666666667,
+            "t": 173.41666666666663,
+            "r": 155.0,
+            "b": 162.75,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "problems,",
+      "text": "problems,"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.0,
+            "t": 163.08333333333337,
+            "r": 385.0,
+            "b": 144.75,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "\"(f) Invention and development of devices to serve special needs of the Government,",
+      "text": "\"(f) Invention and development of devices to serve special needs of the Government,"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.0,
+            "t": 142.75,
+            "r": 385.0,
+            "b": 122.41666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "\"In carrying out the functions enumerated in this section, the Secretary is authorized to undertake the following activities and similar",
+      "text": "\"In carrying out the functions enumerated in this section, the Secretary is authorized to undertake the following activities and similar"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 397.6666666666667,
+            "t": 617.4166666666666,
+            "r": 457.3333333333333,
+            "b": 599.0833333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "50 Rtas, om, 294, $U. 8. C., \u00a7\u00a7 Se, Sap. It,",
+      "text": "50 Rtas, om, 294, $U. 8. C., \u00a7\u00a7 Se, Sap. It,"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 392.6666666666667,
+            "t": 588.0833333333334,
+            "r": 426.3333333333333,
+            "b": 579.75,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "ments, ete.",
+      "text": "ments, ete."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 390.6666666666667,
+            "t": 610.75,
+            "r": 458.0,
+            "b": 587.0833333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "*%} 911$18, ads, Halling imgeove-",
+      "text": "*%} 911$18, ads, Halling imgeove-"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 406.3333333333333,
+            "t": 453.75,
+            "r": 457.6666666666667,
+            "b": 434.0833333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "oa St ay",
+      "text": "oa St ay"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 397.3333333333333,
+            "t": 404.4166666666667,
+            "r": 458.0,
+            "b": 393.0833333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Department of Ome",
+      "text": "Department of Ome"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 392.6666666666667,
+            "t": 392.0833333333333,
+            "r": 457.6666666666667,
+            "b": 379.75,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "15 U. 8, O, mn Sup. UL, \u00a7 272 notes.",
+      "text": "15 U. 8, O, mn Sup. UL, \u00a7 272 notes."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 419.3333333333333,
+            "t": 398.0833333333333,
+            "r": 427.3333333333333,
+            "b": 390.4166666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "or",
+      "text": "or"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 392.3333333333333,
+            "t": 374.0833333333333,
+            "r": 458.3333333333333,
+            "b": 356.75,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Authority to under. take designated fanothas.",
+      "text": "Authority to under. take designated fanothas."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.0,
+            "t": 730.8,
+            "r": 102.66666666666667,
+            "b": 721.8,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "372",
+      "text": "372"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 231.33333333333334,
+            "t": 727.8,
+            "r": 402.0,
+            "b": 720.4666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "PUBLIC LAWS\u2014CH. 486\u2014JULY 22, 100",
+      "text": "PUBLIC LAWS\u2014CH. 486\u2014JULY 22, 100"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 438.0,
+            "t": 726.8,
+            "r": 474.0,
+            "b": 719.4666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "[04 Svar.",
+      "text": "[04 Svar."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 158.0,
+            "t": 709.4666666666666,
+            "r": 474.6666666666667,
+            "b": 687.8,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "ones for which need may arise in the operations of Government ies, scientific institutions, and industrial enterprises:",
+      "text": "ones for which need may arise in the operations of Government ies, scientific institutions, and industrial enterprises:"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 177.33333333333334,
+            "t": 679.1333333333333,
+            "r": 474.6666666666667,
+            "b": 660.4666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "\"(2) the testing, calibration, and certification of standards and standard",
+      "text": "\"(2) the testing, calibration, and certification of standards and standard"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 187.0,
+            "t": 697.8,
+            "r": 208.0,
+            "b": 668.1333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 213.33333333333334,
+            "t": 689.4666666666666,
+            "r": 393.0,
+            "b": 678.8,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            4,
+            43
+          ]
+        }
+      ],
+      "orig": "\"tb the construction of physical standards;",
+      "text": "\"tb the construction of physical standards;"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 241.33333333333334,
+            "t": 668.8,
+            "r": 340.6666666666667,
+            "b": 656.8,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "measuring apparatus;",
+      "text": "measuring apparatus;"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 178.0,
+            "t": 659.1333333333333,
+            "r": 474.6666666666667,
+            "b": 638.8,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "\"(3) the study and improvement of instruments and methods of measurements;",
+      "text": "\"(3) the study and improvement of instruments and methods of measurements;"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 178.0,
+            "t": 638.8,
+            "r": 474.6666666666667,
+            "b": 610.8,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "\"(4) the investigation and testing of railroad track scales, elevator scales, and other scales used in weighing commodities for interstate",
+      "text": "\"(4) the investigation and testing of railroad track scales, elevator scales, and other scales used in weighing commodities for interstate"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 178.66666666666666,
+            "t": 608.8,
+            "r": 474.0,
+            "b": 586.1333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "\"(5) cooperation with the States in securing uniformity in weights and measures laws and methods of inspection ;",
+      "text": "\"(5) cooperation with the States in securing uniformity in weights and measures laws and methods of inspection ;"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 224.33333333333334,
+            "t": 618.8,
+            "r": 270.0,
+            "b": 608.1333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "shipment;",
+      "text": "shipment;"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 176.33333333333334,
+            "t": 588.8,
+            "r": 474.6666666666667,
+            "b": 527.8,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "\"(6) the preparation and distribution of standard samples such as those used in checking chemical analyses, temperature, color, viscosity, heat of combustion, and other basic properties of materials; also the preparation and sale or other distribution of standard instruments, apparatus and materials for calibration of measuring equipment;",
+      "text": "\"(6) the preparation and distribution of standard samples such as those used in checking chemical analyses, temperature, color, viscosity, heat of combustion, and other basic properties of materials; also the preparation and sale or other distribution of standard instruments, apparatus and materials for calibration of measuring equipment;"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.33333333333334,
+            "t": 508.46666666666664,
+            "r": 251.33333333333334,
+            "b": 498.13333333333327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "substances;",
+      "text": "substances;"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 178.33333333333334,
+            "t": 528.4666666666667,
+            "r": 474.3333333333333,
+            "b": 500.46666666666664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "\"(7) the development of methods of chemical analysis and synthesis of materials, and the investigation of the properties of rare",
+      "text": "\"(7) the development of methods of chemical analysis and synthesis of materials, and the investigation of the properties of rare"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 178.0,
+            "t": 498.46666666666664,
+            "r": 475.0,
+            "b": 469.79999999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "\"(8) the study of methods of producing and of measurin; high and low temperatures; and the behavior of materials at high a at low",
+      "text": "\"(8) the study of methods of producing and of measurin; high and low temperatures; and the behavior of materials at high a at low"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 177.33333333333334,
+            "t": 468.13333333333327,
+            "r": 474.6666666666667,
+            "b": 438.13333333333327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "\"(9) the investigation of radiation, radioactive substances, and X-rays, their uses, and means of protection of persons from their harmful effects;",
+      "text": "\"(9) the investigation of radiation, radioactive substances, and X-rays, their uses, and means of protection of persons from their harmful effects;"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 229.66666666666666,
+            "t": 479.79999999999995,
+            "r": 295.0,
+            "b": 466.46666666666664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "temperatures ;",
+      "text": "temperatures ;"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 177.0,
+            "t": 438.13333333333327,
+            "r": 474.6666666666667,
+            "b": 386.79999999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            317
+          ]
+        }
+      ],
+      "orig": "*(10) the stady of the atomic and molecular structure of the chemical elements, with particular reference to the characteristics of the spectra emitted, the use of spectral observations in determining chemical composition of materials, and the relation of molecular structure to the practical usefulness of materials;",
+      "text": "*(10) the stady of the atomic and molecular structure of the chemical elements, with particular reference to the characteristics of the spectra emitted, the use of spectral observations in determining chemical composition of materials, and the relation of molecular structure to the practical usefulness of materials;"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 425.0,
+            "t": 386.13333333333327,
+            "r": 473.6666666666667,
+            "b": 375.79999999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "frequency;",
+      "text": "frequency;"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 187.0,
+            "t": 387.46666666666664,
+            "r": 421.6666666666667,
+            "b": 376.79999999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "\"(11) the broadcasting of radio signals of standard",
+      "text": "\"(11) the broadcasting of radio signals of standard"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 177.0,
+            "t": 357.46666666666664,
+            "r": 474.0,
+            "b": 326.79999999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "\"(18) the compilation and distribution of information on such transmission of radio waves as a basis for choice of frequencies to be used in radio operations;",
+      "text": "\"(18) the compilation and distribution of information on such transmission of radio waves as a basis for choice of frequencies to be used in radio operations;"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 177.0,
+            "t": 377.46666666666664,
+            "r": 473.6666666666667,
+            "b": 356.79999999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "(12) the investigation of the conditions which affect the transmission of radio waves from their source to a receiver:",
+      "text": "(12) the investigation of the conditions which affect the transmission of radio waves from their source to a receiver:"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 177.0,
+            "t": 327.13333333333327,
+            "r": 474.0,
+            "b": 275.79999999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            298
+          ]
+        }
+      ],
+      "orig": "\"(14) the study of new technical processes and methods of fabrication of materials in which the Government has a special interest; also the study of methods of measurement and technical rocesses used in the manufacture of optical glass and pottery, rick, tile, terra cotta, and other clay products;",
+      "text": "\"(14) the study of new technical processes and methods of fabrication of materials in which the Government has a special interest; also the study of methods of measurement and technical rocesses used in the manufacture of optical glass and pottery, rick, tile, terra cotta, and other clay products;"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 177.0,
+            "t": 215.79999999999995,
+            "r": 473.6666666666667,
+            "b": 165.79999999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            272
+          ]
+        }
+      ],
+      "orig": "(16) metallurgical research, including study of alloy steels and light metal alloys; investigation of foundry practice, casting, rolling, and forging; prevention of corrosion of metals and allo 85 avior of bearing metals; and development of standards for metals and sands;",
+      "text": "(16) metallurgical research, including study of alloy steels and light metal alloys; investigation of foundry practice, casting, rolling, and forging; prevention of corrosion of metals and allo 85 avior of bearing metals; and development of standards for metals and sands;"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 176.0,
+            "t": 281.1333333333333,
+            "r": 474.0,
+            "b": 210.46666666666658,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            356
+          ]
+        }
+      ],
+      "orig": "\"(15) the determination of properties of building materials and structural elements, and encouragement of their standardization and most, effective use, including investigation of fire-resisting properties of milsing materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;",
+      "text": "\"(15) the determination of properties of building materials and structural elements, and encouragement of their standardization and most, effective use, including investigation of fire-resisting properties of milsing materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 187.0,
+            "t": 165.46666666666658,
+            "r": 459.6666666666667,
+            "b": 145.46666666666658,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "4 13 the operation of a laboratory of applied mathematics;",
+      "text": "4 13 the operation of a laboratory of applied mathematics;"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 176.33333333333334,
+            "t": 124.79999999999995,
+            "r": 472.6666666666667,
+            "b": 104.13333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "\"(19) the compilation and publication of general scientific and technical data resulting from the performance of the functions",
+      "text": "\"(19) the compilation and publication of general scientific and technical data resulting from the performance of the functions"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 176.66666666666666,
+            "t": 155.46666666666658,
+            "r": 473.0,
+            "b": 122.46666666666658,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 88.33333333333333,
+            "t": 707.8,
+            "r": 384.6666666666667,
+            "b": 658.8,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            184,
+            474
+          ]
+        }
+      ],
+      "orig": "\"(18) the prosecution of such research in engineering, mathematics, and the physical sciences as may be necessary to obtain basic data pertinent to the functions specified herein; and specified herein or from other sources when such data are of importance to scientific or manufacturing interests or to the general public, and are not available elsewhere, including demonstration of the results of the Bureau's work by exhibits or otherwise as may be deemed most effective,\"",
+      "text": "\"(18) the prosecution of such research in engineering, mathematics, and the physical sciences as may be necessary to obtain basic data pertinent to the functions specified herein; and specified herein or from other sources when such data are of importance to scientific or manufacturing interests or to the general public, and are not available elsewhere, including demonstration of the results of the Bureau's work by exhibits or otherwise as may be deemed most effective,\""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 69.66666666666667,
+            "t": 727.9333333333334,
+            "r": 365.6666666666667,
+            "b": 719.9333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "G4 Stat.) Siar CONG,, 2p SHSS\u2014OHS. 486, 487, 40I\u2014JULY 22, on, 1950",
+      "text": "G4 Stat.) Siar CONG,, 2p SHSS\u2014OHS. 486, 487, 40I\u2014JULY 22, on, 1950"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 659.6,
+            "r": 384.6666666666667,
+            "b": 630.9333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "Src. 2, The Act of March 3, 1901 (31 Stat. 1449), as amended, be, and the same hereby is, farther amended by inserting at the end thereof the following sections:",
+      "text": "Src. 2, The Act of March 3, 1901 (31 Stat. 1449), as amended, be, and the same hereby is, farther amended by inserting at the end thereof the following sections:"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.0,
+            "t": 629.2666666666667,
+            "r": 384.3333333333333,
+            "b": 588.6,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            245
+          ]
+        }
+      ],
+      "orig": "\"Sec. 11. For all services rendered for other Government agencies by the Secretary in the performance of functions specified herein, the Dopartient of Commerce may be reimbursed in accordance with section 601 of the Economy Act of June 30, 1932.",
+      "text": "\"Sec. 11. For all services rendered for other Government agencies by the Secretary in the performance of functions specified herein, the Dopartient of Commerce may be reimbursed in accordance with section 601 of the Economy Act of June 30, 1932."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.0,
+            "t": 539.2666666666667,
+            "r": 383.6666666666667,
+            "b": 508.2666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "\"Spo. 13. (a) The Secretary of Commerce is authorized to acce and utilize gifts or cere of real or personal property for the purpose of aiding and facilitating the work authorized herein.",
+      "text": "\"Spo. 13. (a) The Secretary of Commerce is authorized to acce and utilize gifts or cere of real or personal property for the purpose of aiding and facilitating the work authorized herein."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.33333333333333,
+            "t": 589.2666666666667,
+            "r": 384.3333333333333,
+            "b": 538.6,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            329
+          ]
+        }
+      ],
+      "orig": "\"Spo. 12, In the absence of specific agreement to the contrary, equipment purchased by the Department of Commerce from transferred or advanced funds in order to carry out an investigation authorized herein for another Government agency shall become the property of the Department of Commerce for use in subsequent investigations.",
+      "text": "\"Spo. 12, In the absence of specific agreement to the contrary, equipment purchased by the Department of Commerce from transferred or advanced funds in order to carry out an investigation authorized herein for another Government agency shall become the property of the Department of Commerce for use in subsequent investigations."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.0,
+            "t": 509.2666666666667,
+            "r": 384.0,
+            "b": 470.6,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            234
+          ]
+        }
+      ],
+      "orig": "\"(b) For the purpose of Federal income, estate, and gift taxes, gifts and bequests accepted by the Secretary of Commerce under the authority of this Act shall be deemed to be gifts and bequests to or for the use of the United States.\"",
+      "text": "\"(b) For the purpose of Federal income, estate, and gift taxes, gifts and bequests accepted by the Secretary of Commerce under the authority of this Act shall be deemed to be gifts and bequests to or for the use of the United States.\""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.0,
+            "t": 466.93333333333334,
+            "r": 189.0,
+            "b": 456.2666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Approved July 22, 1950.",
+      "text": "Approved July 22, 1950."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.0,
+            "t": 443.2666666666667,
+            "r": 135.33333333333334,
+            "b": 435.2666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "(CHAPTER 487]",
+      "text": "(CHAPTER 487]"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 207.0,
+            "t": 434.6,
+            "r": 244.0,
+            "b": 428.2666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "AN ACT",
+      "text": "AN ACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 67.0,
+            "t": 422.93333333333334,
+            "r": 384.0,
+            "b": 382.6,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            327
+          ]
+        }
+      ],
+      "orig": "To authorize the Secretary of Commerce to grant to the East Bay Municipal Utility District, an agency of the State of California, an easement for the construction and operation of an interceptor sewer pipe line in and under certain Government-owned lands comprising a part of the Maritime Alameda Shipyard, Alameda, California.",
+      "text": "To authorize the Secretary of Commerce to grant to the East Bay Municipal Utility District, an agency of the State of California, an easement for the construction and operation of an interceptor sewer pipe line in and under certain Government-owned lands comprising a part of the Maritime Alameda Shipyard, Alameda, California."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0,
+            "t": 374.93333333333334,
+            "r": 383.3333333333333,
+            "b": 193.9333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1162
+          ]
+        }
+      ],
+      "orig": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the Secretary of Commerce is authorized to grant and convey to the East Bay Municipal Utility District, an agency of the State of California, without cost to the said utility district, and subject to such terms and conditions as the Secretary of Commerce may deem proper, a perpetual easement for the construction, maintenance, operation, renewal, replacement, and repair of an interceptor sewer pipe line or pipe lines within two strips of land twenty feet wide each, one extending a distance of seven hundred and thirty-nine and thirty-seven one-hundredths feet northerly from Tynan Avenue and the other extending # distance of one thousand two hundred and eighty-five and seventyfour one-hundredths feet southerly from Tynan Avenue, both lyin along the easterly boundary of lands comprising a part of the Maritime Alameda ony Alameda, California, and contiguous to the westerly boundary line of the Central Pacific Railway Company rightof-way, metes and bounds descriptions of such strips of land being on file with the Secretary of Commurce,",
+      "text": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the Secretary of Commerce is authorized to grant and convey to the East Bay Municipal Utility District, an agency of the State of California, without cost to the said utility district, and subject to such terms and conditions as the Secretary of Commerce may deem proper, a perpetual easement for the construction, maintenance, operation, renewal, replacement, and repair of an interceptor sewer pipe line or pipe lines within two strips of land twenty feet wide each, one extending a distance of seven hundred and thirty-nine and thirty-seven one-hundredths feet northerly from Tynan Avenue and the other extending # distance of one thousand two hundred and eighty-five and seventyfour one-hundredths feet southerly from Tynan Avenue, both lyin along the easterly boundary of lands comprising a part of the Maritime Alameda ony Alameda, California, and contiguous to the westerly boundary line of the Central Pacific Railway Company rightof-way, metes and bounds descriptions of such strips of land being on file with the Secretary of Commurce,"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 76.66666666666667,
+            "t": 192.60000000000002,
+            "r": 188.0,
+            "b": 181.9333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Approved July 22, 1950.",
+      "text": "Approved July 22, 1950."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0,
+            "t": 168.9333333333334,
+            "r": 134.33333333333334,
+            "b": 160.9333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "[CHAPTER 491]",
+      "text": "[CHAPTER 491]"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 206.33333333333334,
+            "t": 160.9333333333334,
+            "r": 242.66666666666666,
+            "b": 154.26666666666665,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "AN ACT",
+      "text": "AN ACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 117.0,
+            "t": 148.60000000000002,
+            "r": 330.6666666666667,
+            "b": 141.26666666666665,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "To amend the Mutua! Defense Assistance Act of 1949,",
+      "text": "To amend the Mutua! Defense Assistance Act of 1949,"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.66666666666667,
+            "t": 133.26666666666665,
+            "r": 381.6666666666667,
+            "b": 112.26666666666665,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That section 101 of",
+      "text": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That section 101 of"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 392.6666666666667,
+            "t": 659.9333333333334,
+            "r": 458.0,
+            "b": 639.2666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "18 U, B.C, \u00a7 i-2; Sup. $ it PR? notes.",
+      "text": "18 U, B.C, \u00a7 i-2; Sup. $ it PR? notes."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 397.6666666666667,
+            "t": 600.2666666666667,
+            "r": 448.0,
+            "b": 586.6,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "47 Stat. 417. U.S. C. (658.",
+      "text": "47 Stat. 417. U.S. C. (658."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 393.3333333333333,
+            "t": 429.2666666666667,
+            "r": 450.3333333333333,
+            "b": 406.2666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "ve! oe | [Pubtle Law Gai]",
+      "text": "ve! oe | [Pubtle Law Gai]"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 391.6666666666667,
+            "t": 364.2666666666667,
+            "r": 457.6666666666667,
+            "b": 338.93333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "East Bay Montel Gel User District, \"wi Conveyance,",
+      "text": "East Bay Montel Gel User District, \"wi Conveyance,"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 397.6666666666667,
+            "t": 153.60000000000002,
+            "r": 447.6666666666667,
+            "b": 133.26666666666665,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "q 1980 (Pubile Lew @i]",
+      "text": "q 1980 (Pubile Lew @i]"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 389.6666666666667,
+            "t": 121.9333333333334,
+            "r": 455.3333333333333,
+            "b": 104.60000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Mutual Defonae Aasistance Act, 1940, inente.",
+      "text": "Mutual Defonae Aasistance Act, 1940, inente."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/74"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 394.14924391852486,
+            "t": 430.4361681393543,
+            "r": 456.62803976553454,
+            "b": 406.3612892684017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 538.4,
+        "height": 826.75
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 543.6,
+        "height": 827.8
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 539.65,
+        "height": 829.6
+      },
+      "page_no": 3
+    }
+  }
+}
