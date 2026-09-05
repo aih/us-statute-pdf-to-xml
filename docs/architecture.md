@@ -22,7 +22,7 @@ downloader/
 pipeline/
   profiles.py        Docling options: scanned (Tesseract CLI, eng, force full-page OCR, 2x render) and digital
                      (no OCR, backend text layer); profile chosen by volume (<= 116 scanned)
-  convert.py         ProcessPoolExecutor, one DocumentConverter per worker per profile, page_range,
+  convert.py         ProcessPoolExecutor (default 2 workers, memory-bound), one DocumentConverter per worker per profile, page_range,
                      skip when outputs exist and input sha256 unchanged, conversions rows
   uslm.py            DoclingDocument -> USLM (lxml): meta, preface, longTitle, enactingFormula, section /
                      subsection / paragraph / subparagraph / clause with identifier and id, page markers,
@@ -58,8 +58,8 @@ generated XML + ground truth XML ──metrics──> benchmarks row ──judge
 ```
 
 Concurrency: threads for network I/O (`ThreadPoolExecutor` for range requests and for volumes, one uploader
-thread behind a bounded queue), processes for Docling (`ProcessPoolExecutor`, `min(4, cpu_count // 2)`
-workers, one converter per worker), threads for judge calls (4 in flight).
+thread behind a bounded queue), processes for Docling (`ProcessPoolExecutor`, `min(2, cpu_count // 2)`
+workers by default, one converter per worker; four OCR workers peaked at 6 GB and were OOM-killed in the 8 GB container), threads for judge calls (4 in flight).
 
 ## Source facts verified on 2026-09-05
 
@@ -116,6 +116,15 @@ statutesAtLarge xmlns="http://schemas.gpo.gov/xml/uslm"
 - Splitting result for volume 64: 1,393 documents produced for 1,393 granules; 1,385 ids match GovInfo's.
   The eight differences come from the two class groups whose counts differ (resolutions, private laws)
   and the back matter GovInfo splits in two.
+
+### Born-digital volumes (STATUTE-124.xml)
+
+Each `component[@role=statutesPart]` holds `meta`, `preface`, `main`, `backMatter`, with the law
+containers under `main`. GovInfo's granulation differs from the XML document boundaries in this era:
+volume 124 has 172 `presidentialDoc` elements for 153 PROCLAMATION granules and 38 `resolution`
+elements for 2 HCONRES granules (GovInfo groups all concurrent resolutions of a session into one or
+two granules). Public and private laws align exactly. The splitter emits one file per XML document,
+so proclamation and resolution granules from 2003 on have no one-to-one ground-truth slice.
 
 ### PLAW USLM (PLAW-119publ1.xml)
 
