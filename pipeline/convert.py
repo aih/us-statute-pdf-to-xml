@@ -90,11 +90,18 @@ def parse_page_range(spec: Optional[str]) -> Optional[tuple[int, int]]:
     return a, b
 
 
+DEFAULT_MAX_WORKERS = 2
+
+
 def workers_for_container(requested: Optional[int]) -> int:
-    """min(4, cpu_count // 2) unless overridden; the 8 GB container fits about four converters."""
+    """min(2, cpu_count // 2) unless overridden.
+
+    Four Docling workers with Tesseract OCR peaked at 6 GB and were OOM-killed in the 8 GB container;
+    two workers stay under 4 GB. Raise --workers on hosts with more memory (about 1.5 GB per worker).
+    """
     if requested:
         return max(1, requested)
-    return max(1, min(4, (os.cpu_count() or 2) // 2))
+    return max(1, min(DEFAULT_MAX_WORKERS, (os.cpu_count() or 2) // 2))
 
 
 # ---------------------------------------------------------------------------- skip logic
@@ -300,7 +307,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--congress", type=int)
     p.add_argument("--law-number", type=int)
     p.add_argument("--page-range", help="e.g. 1-20")
-    p.add_argument("--workers", type=int, default=None, help="default min(4, cpu_count // 2)")
+    p.add_argument("--workers", type=int, default=None, help="default min(2, cpu_count // 2); about 1.5 GB RAM per worker")
     p.add_argument("--threads", type=int, default=2, help="torch/OMP threads per worker (default 2)")
     p.add_argument("--force", action="store_true", help="convert even when outputs exist")
     p.add_argument("--log-dir", default=str(LOG_DIR))

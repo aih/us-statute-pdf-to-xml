@@ -30,8 +30,8 @@ def test_parse_page_range():
         parse_page_range("20-1")
 
 
-def test_workers_default_capped_at_four():
-    assert 1 <= workers_for_container(None) <= 4
+def test_workers_default_capped_for_memory():
+    assert 1 <= workers_for_container(None) <= 2
     assert workers_for_container(7) == 7
 
 
