@@ -16,7 +16,7 @@ RUN pip install --no-cache-dir uv
 WORKDIR /app
 
 COPY pyproject.toml README.md ./
-RUN uv pip install --system -e ".[dev]"
+RUN uv pip install --system --torch-backend cpu -e ".[dev]"
 
 # Pre-fetch the Docling layout and table models so the first conversion does not download them.
 # docker-compose.yml mounts a named volume at /root/.cache/docling; Docker seeds it from this directory.
