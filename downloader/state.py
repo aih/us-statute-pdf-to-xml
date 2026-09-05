@@ -9,7 +9,7 @@ from pathlib import Path
 from typing import Iterable, Mapping, Optional
 
 from . import db
-from .config import HISTORICAL_DIR, is_scanned_volume
+from .config import HISTORICAL_DIR, REPO_ROOT, is_scanned_volume
 
 logger = logging.getLogger(__name__)
 
@@ -121,6 +121,15 @@ def decide(
         return Decision(package_id, "skip", "complete locally (uploads disabled)", files)
     missing = [f.hub_path for f in files if not f.local_complete]
     return Decision(package_id, "download", f"missing or incomplete locally: {', '.join(missing)}", files)
+
+
+def relative_to_repo(path: Path | str) -> str:
+    """Store paths relative to the repository root so host and container agree."""
+    path = Path(path)
+    try:
+        return str(path.resolve().relative_to(REPO_ROOT))
+    except ValueError:
+        return str(path)
 
 
 def local_size(path: Path) -> Optional[int]:
@@ -240,7 +249,7 @@ def set_file_state(conn, package_id: str, kind: str, *, status: Optional[str] = 
         params.append(sha256)
     if local_path is not None:
         sets.append(f"{kind}_local_path = %s")
-        params.append(str(local_path))
+        params.append(relative_to_repo(local_path))
     if clear_local:
         sets.append(f"{kind}_local_path = NULL")
     if hub_path is not None:
