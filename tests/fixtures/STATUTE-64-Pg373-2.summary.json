@@ -1,0 +1,38 @@
+{
+    "dateIssued": "1951-01-02",
+    "pagePosition": "2",
+    "identifier": {"publicLawCitation": "Public Law 81-621"},
+    "chapter": "491",
+    "references": [{
+        "contents": [{
+            "number": "3809",
+            "congress": "81",
+            "type": "S"
+        }],
+        "collectionCode": "BILLS",
+        "collectionName": "Congressional Bills"
+    }],
+    "packageId": "STATUTE-64",
+    "packageLink": "https://api.govinfo.gov/packages/STATUTE-64/summary",
+    "collectionCode": "STATUTE",
+    "detailsLink": "https://www.govinfo.gov/app/details/STATUTE-64/STATUTE-64-Pg373-2",
+    "title": "AN ACT To amend the Mutual Defense Assistance Act of 1949.",
+    "isAppropriation": "false",
+    "collectionName": "United States Statutes at Large",
+    "granuleClass": "PUBLICLAW",
+    "number": "621",
+    "granuleId": "STATUTE-64-Pg373-2",
+    "download": {
+        "premisLink": "https://api.govinfo.gov/packages/STATUTE-64/premis",
+        "zipLink": "https://api.govinfo.gov/packages/STATUTE-64/zip",
+        "modsLink": "https://api.govinfo.gov/packages/STATUTE-64/granules/STATUTE-64-Pg373-2/mods",
+        "pdfLink": "https://api.govinfo.gov/packages/STATUTE-64/granules/STATUTE-64-Pg373-2/pdf"
+    },
+    "relatedLink": "https://api.govinfo.gov/related/STATUTE-64-Pg373-2",
+    "partNumber": "1",
+    "docClass": "STATUTE",
+    "lastModified": "2026-02-11T17:34:58Z",
+    "category": "Bills and Statutes",
+    "granulesLink": "https://api.govinfo.gov/packages/STATUTE-64/granules?offsetMark=*&pageSize=100",
+    "granuleDate": "1950-07-26"
+}

@@ -1,0 +1,176 @@
+{
+    "dateIssued": "2023-06-03",
+    "references": [
+        {
+            "contents": [
+                {
+                    "label": "U.S.C",
+                    "title": "2",
+                    "sections": [
+                        "621",
+                        "632",
+                        "633",
+                        "642",
+                        "644",
+                        "900",
+                        "901",
+                        "904"
+                    ]
+                },
+                {
+                    "label": "U.S.C",
+                    "title": "5",
+                    "sections": [
+                        "801",
+                        "804"
+                    ]
+                },
+                {
+                    "label": "U.S.C",
+                    "title": "7",
+                    "sections": [
+                        "2011",
+                        "2015"
+                    ]
+                },
+                {
+                    "label": "U.S.C",
+                    "title": "12",
+                    "sections": ["4701"]
+                },
+                {
+                    "label": "U.S.C",
+                    "title": "15",
+                    "sections": ["695"]
+                },
+                {
+                    "label": "U.S.C",
+                    "title": "20",
+                    "sections": ["1001"]
+                },
+                {
+                    "label": "U.S.C",
+                    "title": "31",
+                    "sections": [
+                        "1105",
+                        "1106",
+                        "3101"
+                    ]
+                },
+                {
+                    "label": "U.S.C",
+                    "title": "38",
+                    "sections": ["324"]
+                },
+                {
+                    "label": "U.S.C",
+                    "title": "42",
+                    "sections": [
+                        "2992d",
+                        "4321",
+                        "4332",
+                        "4370m",
+                        "5121",
+                        "607",
+                        "611",
+                        "675"
+                    ]
+                },
+                {
+                    "label": "U.S.C",
+                    "title": "44",
+                    "sections": ["3502"]
+                },
+                {
+                    "label": "U.S.C",
+                    "title": "45",
+                    "sections": ["352"]
+                }
+            ],
+            "collectionCode": "USCODE",
+            "collectionName": "U.S. Code"
+        },
+        {
+            "contents": [{
+                "pages": [
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20",
+                    "21",
+                    "22",
+                    "23",
+                    "24",
+                    "25",
+                    "26",
+                    "27",
+                    "28",
+                    "29",
+                    "30",
+                    "31",
+                    "32",
+                    "33",
+                    "34",
+                    "35",
+                    "36",
+                    "37",
+                    "38",
+                    "39",
+                    "40",
+                    "41",
+                    "42",
+                    "43",
+                    "44",
+                    "45",
+                    "46",
+                    "47",
+                    "48",
+                    "49"
+                ],
+                "label": "Stat.",
+                "title": "137"
+            }],
+            "collectionCode": "STATUTE",
+            "collectionName": "Statutes at Large"
+        }
+    ],
+    "documentType": "PUBLIC",
+    "congress": "118",
+    "documentNumber": "5",
+    "packageId": "PLAW-118publ5",
+    "collectionCode": "PLAW",
+    "detailsLink": "https://www.govinfo.gov/app/details/PLAW-118publ5",
+    "shortTitle": [{"title": "Fiscal Responsibility Act of 2023"}],
+    "title": "An act to provide for a responsible increase to the debt ceiling.",
+    "branch": "legislative",
+    "isAppropriation": "true",
+    "collectionName": "Public and Private Laws",
+    "download": {
+        "premisLink": "https://api.govinfo.gov/packages/PLAW-118publ5/premis",
+        "txtLink": "https://api.govinfo.gov/packages/PLAW-118publ5/htm",
+        "zipLink": "https://api.govinfo.gov/packages/PLAW-118publ5/zip",
+        "modsLink": "https://api.govinfo.gov/packages/PLAW-118publ5/mods",
+        "pdfLink": "https://api.govinfo.gov/packages/PLAW-118publ5/pdf",
+        "uslmLink": "https://api.govinfo.gov/packages/PLAW-118publ5/uslm"
+    },
+    "pages": "41",
+    "governmentAuthor2": "Office of the Federal Register",
+    "relatedLink": "https://api.govinfo.gov/related/PLAW-118publ5",
+    "governmentAuthor1": "National Archives and Records Administration",
+    "publisher": "U.S. Government Publishing Office",
+    "suDocClassNumber": "AE 2.110:, AE 2.110/3:, AE 2.110:118-5",
+    "docClass": "PUBLIC",
+    "lastModified": "2026-06-03T18:05:35Z",
+    "category": "Bills and Statutes",
+    "otherIdentifier": {
+        "migrated-doc-id": "f:publ005_118",
+        "ils-system-id": "001230436"
+    }
+}

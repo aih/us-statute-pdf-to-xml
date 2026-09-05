@@ -84,7 +84,7 @@ def test_package_row_marks_digital_volumes():
 
 def test_plaw_pages_from_summary():
     summary = {
-        "packageId": "PLAW-118publ5", "collectionCode": "PLAW", "congress": "118",
+        "packageId": "PLAW-118publ5", "collectionCode": "PLAW", "congress": "118", "pages": "40",
         "references": [
             {"collectionCode": "USCODE", "contents": [{"title": "2", "sections": ["621"]}]},
             {"collectionCode": "STATUTE", "contents": [{"title": "137", "pages": [str(p) for p in range(10, 50)]}]},
@@ -108,3 +108,29 @@ def test_metadata_rows_only_uploaded_statute_volumes():
     assert [r["package_id"] for r in rows] == ["STATUTE-2"]
     assert rows[0]["file_name"] == "pdfs/STATUTE-2.pdf" and rows[0]["xml_file"] == "xmls/STATUTE-2.xml"
     assert rows[0]["date_issued"] == "1799-01-01"
+
+
+def test_plaw_pages_prefers_entry_matching_page_count():
+    summary = {
+        "packageId": "PLAW-119publ75", "collectionCode": "PLAW", "pages": "3",
+        "references": [
+            {"collectionCode": "STATUTE", "contents": [
+                {"title": "37", "pages": ["736"]},
+                {"title": "112", "pages": ["107", "2681-822"]},
+                {"title": "140", "pages": ["173", "174", "175"]},
+            ]},
+        ],
+    }
+    assert state.plaw_pages_from_summary(summary) == (140, 173, 175)
+    summary["pages"] = None  # falls back to the entry with the most pages
+    assert state.plaw_pages_from_summary(summary) == (140, 173, 175)
+
+
+def test_plaw_pages_from_uslm_fixture():
+    from pathlib import Path
+
+    xml = (Path(__file__).parent / "fixtures" / "PLAW-114publ176.uslm.xml").read_bytes()
+    assert state.plaw_pages_from_uslm(xml) == (130, 430, 430)
+    assert state.plaw_pages_from_uslm(b"<pLaw/>") == (None, None, None)
+    multi = b'<citableAs>140 Stat. 173</citableAs><page identifier="/us/stat/140/173"/><page identifier="/us/stat/140/739"/>'
+    assert state.plaw_pages_from_uslm(multi) == (140, 173, 739)

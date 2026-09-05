@@ -1,0 +1,17 @@
+# Five granules for smoke-testing fetch_granules and the pipeline. benchmark/sample.py writes the full sample.yaml.
+granules:
+  - granule_id: STATUTE-64-Pg371
+    era: scanned-1951-2002
+    granule_class: PUBLICLAW
+  - granule_id: STATUTE-64-Pg373-2
+    era: scanned-1951-2002
+    granule_class: PUBLICLAW
+  - granule_id: STATUTE-64-PgB3
+    era: scanned-1951-2002
+    granule_class: TREATY
+  - granule_id: STATUTE-119-Pg3
+    era: digital-2003+
+    granule_class: PUBLICLAW
+  - granule_id: STATUTE-32-Pg1
+    era: scanned-pre-1951
+    granule_class: PUBLICLAW

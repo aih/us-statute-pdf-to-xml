@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import logging
+import re
 from dataclasses import dataclass, field
 from datetime import date
 from pathlib import Path
@@ -195,17 +196,45 @@ def package_row_from_summary(summary: dict) -> dict:
 
 
 def plaw_pages_from_summary(summary: dict) -> tuple[Optional[int], Optional[int], Optional[int]]:
-    """(volume, start_page, end_page) from a PLAW summary's Statutes at Large reference."""
+    """(volume, start_page, end_page) for a public law from its summary's Statutes at Large references.
+
+    The references list every Statutes at Large citation in the law, including earlier statutes it
+    amends. The law's own entry is the one whose page count equals the summary's `pages`; when no
+    entry matches, the entry with the most pages is used.
+    """
+    total = _int_or_none(summary.get("pages"))
+    candidates = []
     for ref in summary.get("references", []) or []:
         if ref.get("collectionCode") != "STATUTE":
             continue
         for item in ref.get("contents", []) or []:
             volume = _int_or_none(item.get("title"))
             pages = [p for p in (_int_or_none(x) for x in item.get("pages", []) or []) if p is not None]
-            if pages:
-                return volume, min(pages), max(pages)
-            return volume, None, None
-    return None, None, None
+            candidates.append((volume, pages))
+    if not candidates:
+        return None, None, None
+    exact = [c for c in candidates if total and len(c[1]) == total]
+    volume, pages = (exact or sorted(candidates, key=lambda c: len(c[1]), reverse=True))[0]
+    if pages:
+        return volume, min(pages), max(pages)
+    return volume, None, None
+
+
+_CITABLE_AS = re.compile(r"<citableAs>\s*(\d+)\s+Stat\.\s+(\d+)\s*</citableAs>")
+_PAGE_ID = re.compile(r'<page[^>]*identifier="/us/stat/(\d+)/(\d+)"')
+
+
+def plaw_pages_from_uslm(xml: bytes | str) -> tuple[Optional[int], Optional[int], Optional[int]]:
+    """(volume, start_page, end_page) from a PLAW USLM: <citableAs>N Stat. P</citableAs> and <page> markers."""
+    if isinstance(xml, bytes):
+        xml = xml.decode("utf-8", errors="replace")
+    m = _CITABLE_AS.search(xml)
+    if not m:
+        return None, None, None
+    volume, start = int(m.group(1)), int(m.group(2))
+    pages = [int(p) for v, p in _PAGE_ID.findall(xml) if int(v) == volume]
+    end = max(pages) if pages else start
+    return volume, start, max(start, end)
 
 
 # ---------------------------------------------------------------------------- persistence
