@@ -19,11 +19,25 @@ The project consists of three main modules:
 ## Setup Instructions
 
 1. **Environment Variables**:
-   Copy the example environment file and add your Anthropic API key.
+   Copy the example environment file and fill in every value. `docker-compose.yml` loads `.env` with
+   `env_file`; no key appears in compose or in source.
    ```bash
    cp .env.example .env
-   # Edit .env and insert your ANTHROPIC_API_KEY
    ```
+
+   | Variable | Used by |
+   |---|---|
+   | `GOVINFO_API_KEY` | every downloader script. Request one at https://api.govinfo.gov/docs/ |
+   | `HF_TOKEN` | uploads to the HuggingFace dataset. Fine-grained token with `repo.write` on `HF_REPO_ID` |
+   | `HF_REPO_ID` | dataset repository, e.g. `dreamproit/us-statutes-at-large` |
+   | `ANTHROPIC_API_KEY` | benchmark judge |
+   | `JUDGE_MODEL` | optional; defaults to `claude-opus-5` |
+
+   Scripts exit with status 2 and name the variable when a required one is missing.
+
+   **Key rotation.** A GovInfo API key was committed to this repository in earlier revisions
+   (`docker-compose.yml` and the downloader scripts) and pushed to GitHub. That key is compromised.
+   Revoke it and request a new one at https://api.govinfo.gov/docs/ before running the downloader.
 
 2. **Start the Infrastructure**:
    Build and start the Docker containers. The `app` container installs all Python dependencies (managed by `uv`) including `docling`, `OpenCV`, and `Tesseract`.
