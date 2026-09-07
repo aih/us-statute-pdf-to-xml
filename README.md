@@ -177,6 +177,15 @@ data/reports/                  benchmark reports
 data/logs/                     one log per script per day
 ```
 
+## Plans
+
+| Document | Content |
+|---|---|
+| [docs/plans/2026-09-05-downloader-and-pipeline-plan.md](docs/plans/2026-09-05-downloader-and-pipeline-plan.md) | downloader rewrite, pipeline, benchmark (WP1 to WP7, implemented) |
+| [docs/plans/2026-09-07-ocr-pipeline-evaluation-plan.md](docs/plans/2026-09-07-ocr-pipeline-evaluation-plan.md) | benchmark defects found on 2026-09-07, two-tier ground truth, OCR candidates, reprocessing run (WP8 to WP12) |
+| [docs/plans/2026-09-07-statutes-api-design.md](docs/plans/2026-09-07-statutes-api-design.md) | API for statutes.linkedlegislation.org: identifiers, enacted and compiled views, currency notes, storage |
+| [docs/prompts/](docs/prompts/) | kickoff prompts for each plan |
+
 ## License
 
 MIT. The statutes are works of the United States Government (17 U.S.C. 105).
