@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="id-STATUTE-64-Pg371">
+    <name type="corporate">
+        <namePart>United States Government Publishing Office</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+            <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+            <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+        </role>
+    </name>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>National Archives and Records Administration</namePart>
+        <namePart>Office of the Federal Register</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+        </role>
+        <description>Government Organization</description>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">government publication</genre>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <extension>
+        <collectionCode>STATUTE</collectionCode>
+        <category>Bills and Statutes</category>
+        <branch>legislative</branch>
+        <dateIngested>2024-04-10</dateIngested>
+    </extension>
+    <titleInfo>
+        <title>AN ACT To amend section 2 of the Act of March 3, 1901 (31 Stat. 1449), to provide basic authority for the performance of certain functions and activities of the Department of Commerce, and for other purposes.</title>
+        <partNumber>Part 1</partNumber>
+        <partName>Public Laws</partName>
+    </titleInfo>
+    <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/STATUTE-64/pdf/STATUTE-64-Pg371.pdf">
+        <identifier type="FDsys Unique ID">D09002ee1de48b23b</identifier>
+    </relatedItem>
+    <identifier type="uri">https://www.govinfo.gov/app/details/STATUTE-64/STATUTE-64-Pg371</identifier>
+    <identifier type="former granule identifier">STATUTE-064-1-00180.pdf</identifier>
+    <identifier type="preferred citation">64 Stat. 371</identifier>
+    <identifier type="Statute citation">64 Stat. 371</identifier>
+    <location>
+        <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/STATUTE-64/STATUTE-64-Pg371</url>
+        <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/STATUTE-64/pdf/STATUTE-64-Pg371.pdf</url>
+    </location>
+    <physicalDescription>
+        <extent>3 p.</extent>
+    </physicalDescription>
+    <part type="article">
+        <extent unit="pages">
+            <start>371</start>
+            <end>373</end>
+        </extent>
+    </part>
+    <extension>
+        <searchTitle>64 Stat. 371; United States Statutes at Large, Volume 64, 81st Congress, 2nd Session; AN ACT To amend section 2 of the Act of March 3, 1901 (31 Stat. 1449), to provide basic authority for the performance of certain functions and activities of the Department of Commerce, and for other purposes.;
+                Public Law 81-619</searchTitle>
+        <granuleClass>PUBLICLAW</granuleClass>
+        <accessId>STATUTE-64-Pg371</accessId>
+        <granuleDate>1950-07-22</granuleDate>
+        <congress endDate="1951-01-02" startDate="1949-01-03" years="1949-1950">81</congress>
+        <number>619</number>
+        <session sequence="2">2</session>
+        <sessionYear>1950</sessionYear>
+        <volume>64</volume>
+        <partNumber>1</partNumber>
+        <totalPages>3</totalPages>
+        <isAppropriation>false</isAppropriation>
+        <pagePosition>1</pagePosition>
+        <chapter>486</chapter>
+        <bill congress="81" number="2201" priority="primary" type="S"/>
+        <originChamber>SENATE</originChamber>
+        <law congress="81" isPrivate="false" number="619"/>
+        <statuteAtLarge volume="64">
+                                    
+            <pages pages="371-373"/>
+                                
+        </statuteAtLarge>
+        <submittedGranuleFileName>STATUTE-064-1-00180.pdf</submittedGranuleFileName>
+        <associatedBills>S. 2201</associatedBills>
+    </extension>
+    <identifier type="public law citation">Public Law 81-619</identifier>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>Congress</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+            <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+        </role>
+    </name>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>United States Senate Bill 2201 (81st Congress)</title>
+        </titleInfo>
+        <identifier type="Congressional Bill citation">S. 2201</identifier>
+        <extension>
+            <congress>81</congress>
+        </extension>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>United States Statutes at Large</title>
+            <partNumber>Volume 64 Page 371-373</partNumber>
+        </titleInfo>
+        <identifier type="Statute citation">64 Stat. 371-373</identifier>
+    </relatedItem>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>United States Public Law 619 (81st Congress)</title>
+        </titleInfo>
+        <identifier type="public law citation">Public Law 81-486</identifier>
+        <identifier type="public law citation">Public Law No 81-486</identifier>
+    </relatedItem>
+    <relatedItem type="host" ID="P0b002ee1c62808ee">
+        <originInfo>
+            <publisher>U.S. Government Printing Office</publisher>
+            <dateIssued encoding="w3cdtf">1951-01-02</dateIssued>
+            <issuance>continuing</issuance>
+            <frequency authority="marcfrequency">annual</frequency>
+        </originInfo>
+        <physicalDescription>
+            <note type="source content type">deposited</note>
+            <digitalOrigin>born digital</digitalOrigin>
+            <extent>3266 digital object pages</extent>
+        </physicalDescription>
+        <classification authority="sudocs">AE 2.111:</classification>
+        <identifier type="uri">https://www.govinfo.gov/app/details/STATUTE-64</identifier>
+        <identifier type="local">P0b002ee1c62808ee</identifier>
+        <identifier type="former package identifier">STATUTE-64.pdf</identifier>
+        <recordInfo>
+            <recordContentSource authority="marcorg">DGPO</recordContentSource>
+            <recordCreationDate encoding="w3cdtf">2024-04-10</recordCreationDate>
+            <recordChangeDate encoding="w3cdtf">2026-02-11</recordChangeDate>
+            <recordIdentifier source="DGPO">STATUTE-64</recordIdentifier>
+            <recordOrigin>machine generated</recordOrigin>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        <accessCondition type="GPO scope determination">fdlp</accessCondition>
+        <extension>
+            <docClass>STATUTE</docClass>
+            <accessId>STATUTE-64</accessId>
+            <congress years="1949-1950">81</congress>
+            <congressBegin years="1945-1946">79</congressBegin>
+            <session sequence="2">2</session>
+            <sessionYear>1950</sessionYear>
+            <volume>64</volume>
+            <dateBegun>1950-01-03</dateBegun>
+            <totalParts>3</totalParts>
+        </extension>
+        <titleInfo>
+            <title>United States Statutes at Large, Volume 64, 81st Congress, 2nd Session</title>
+            <partNumber>Vol. 64</partNumber>
+        </titleInfo>
+        <location>
+            <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/STATUTE-64</url>
+            <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/STATUTE-64/pdf/STATUTE-64.pdf</url>
+            <url displayLabel="USLM rendition" access="raw object">https://www.govinfo.gov/content/pkg/STATUTE-64/uslm/STATUTE-64.xml</url>
+        </location>
+        <identifier type="preferred citation">Statutes at Large, Vol. 64, January 2, 1951</identifier>
+    </relatedItem>
+</mods>

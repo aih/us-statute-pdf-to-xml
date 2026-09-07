@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="id-STATUTE-64-PgB3">
+    <name type="corporate">
+        <namePart>United States Government Publishing Office</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+            <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+            <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+        </role>
+    </name>
+    <name type="corporate">
+        <namePart>United States</namePart>
+        <namePart>National Archives and Records Administration</namePart>
+        <namePart>Office of the Federal Register</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+            <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+        </role>
+        <description>Government Organization</description>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">government publication</genre>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <extension>
+        <collectionCode>STATUTE</collectionCode>
+        <category>Bills and Statutes</category>
+        <branch>legislative</branch>
+        <dateIngested>2024-04-10</dateIngested>
+    </extension>
+    <titleInfo>
+        <title>Convention and supplementary protocol between the United States of America and France respecting double taxation and taxes on estates, inheritances, and income, and modifying and supplementing the convention of July 25, 1939. Convention signed at Paris October 18, 1946; and supplementary protocol signed at Washington May 17, 1948; ratification advised by the Senate of the United States of America June 2, 1948; ratified by the President of the United States of America June 18, 1948; ratified by France September 5, 1949; ratifications exchanged at Washington October 17, 1949; proclaimed by the President of the United States of America October 27, 1949.</title>
+        <partNumber>Part 3</partNumber>
+        <partName>Treaty</partName>
+    </titleInfo>
+    <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/STATUTE-64/pdf/STATUTE-64-PgB3.pdf">
+        <identifier type="FDsys Unique ID">D09002ee1de48b67d</identifier>
+    </relatedItem>
+    <identifier type="uri">https://www.govinfo.gov/app/details/STATUTE-64/STATUTE-64-PgB3</identifier>
+    <identifier type="former granule identifier">STATUTE-064-3-00002.pdf</identifier>
+    <identifier type="preferred citation">64 Stat. B3</identifier>
+    <identifier type="Statute citation">64 Stat. B3</identifier>
+    <location>
+        <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/STATUTE-64/STATUTE-64-PgB3</url>
+        <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/STATUTE-64/pdf/STATUTE-64-PgB3.pdf</url>
+    </location>
+    <physicalDescription>
+        <extent>32 p.</extent>
+    </physicalDescription>
+    <part type="article">
+        <extent unit="pages">
+            <start>B3</start>
+            <end>B32</end>
+        </extent>
+    </part>
+    <extension>
+        <searchTitle>64 Stat. B3; United States Statutes at Large, Volume 64, 81st Congress, 2nd Session; Convention and supplementary protocol between the United States of America and France respecting double taxation and taxes on estates, inheritances, and income, and modifying and supplementing the convention of July 25, 1939. Convention signed at Paris October 18, 1946; and supplementary protocol signed at Washington May 17, 1948; ratification advised by the Senate of the United States of America June 2, 1948; ratified by the President of the United States of America June 18, 1948; ratified by France September 5, 1949; ratifications exchanged at Washington October 17, 1949; proclaimed by the President of the United States of America October 27, 1949.;
+                </searchTitle>
+        <granuleClass>TREATY</granuleClass>
+        <accessId>STATUTE-64-PgB3</accessId>
+        <granuleDate>1946-10-18</granuleDate>
+        <congress endDate="1946-08-02" startDate="1945-01-03" years="1945-1946">79</congress>
+        <number>1982</number>
+        <session sequence="2">2</session>
+        <sessionYear>1946</sessionYear>
+        <volume>64</volume>
+        <partNumber>3</partNumber>
+        <totalPages>32</totalPages>
+        <isAppropriation>false</isAppropriation>
+        <pagePosition>1</pagePosition>
+        <statuteAtLarge volume="64">
+                                    
+            <pages pages="B3-B32"/>
+                                
+        </statuteAtLarge>
+        <submittedGranuleFileName>STATUTE-064-3-00002.pdf</submittedGranuleFileName>
+    </extension>
+    <relatedItem type="isReferencedBy">
+        <titleInfo>
+            <title>United States Statutes at Large</title>
+            <partNumber>Volume 64 Page B3-B32</partNumber>
+        </titleInfo>
+        <identifier type="Statute citation">64 Stat. B3-B32</identifier>
+    </relatedItem>
+    <relatedItem type="host" ID="P0b002ee1c62808ee">
+        <originInfo>
+            <publisher>U.S. Government Printing Office</publisher>
+            <dateIssued encoding="w3cdtf">1951-01-02</dateIssued>
+            <issuance>continuing</issuance>
+            <frequency authority="marcfrequency">annual</frequency>
+        </originInfo>
+        <physicalDescription>
+            <note type="source content type">deposited</note>
+            <digitalOrigin>born digital</digitalOrigin>
+            <extent>3266 digital object pages</extent>
+        </physicalDescription>
+        <classification authority="sudocs">AE 2.111:</classification>
+        <identifier type="uri">https://www.govinfo.gov/app/details/STATUTE-64</identifier>
+        <identifier type="local">P0b002ee1c62808ee</identifier>
+        <identifier type="former package identifier">STATUTE-64.pdf</identifier>
+        <recordInfo>
+            <recordContentSource authority="marcorg">DGPO</recordContentSource>
+            <recordCreationDate encoding="w3cdtf">2024-04-10</recordCreationDate>
+            <recordChangeDate encoding="w3cdtf">2026-02-11</recordChangeDate>
+            <recordIdentifier source="DGPO">STATUTE-64</recordIdentifier>
+            <recordOrigin>machine generated</recordOrigin>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        <accessCondition type="GPO scope determination">fdlp</accessCondition>
+        <extension>
+            <docClass>STATUTE</docClass>
+            <accessId>STATUTE-64</accessId>
+            <congress years="1949-1950">81</congress>
+            <congressBegin years="1945-1946">79</congressBegin>
+            <session sequence="2">2</session>
+            <sessionYear>1950</sessionYear>
+            <volume>64</volume>
+            <dateBegun>1950-01-03</dateBegun>
+            <totalParts>3</totalParts>
+        </extension>
+        <titleInfo>
+            <title>United States Statutes at Large, Volume 64, 81st Congress, 2nd Session</title>
+            <partNumber>Vol. 64</partNumber>
+        </titleInfo>
+        <location>
+            <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/STATUTE-64</url>
+            <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/STATUTE-64/pdf/STATUTE-64.pdf</url>
+            <url displayLabel="USLM rendition" access="raw object">https://www.govinfo.gov/content/pkg/STATUTE-64/uslm/STATUTE-64.xml</url>
+        </location>
+        <identifier type="preferred citation">Statutes at Large, Vol. 64, January 2, 1951</identifier>
+    </relatedItem>
+</mods>

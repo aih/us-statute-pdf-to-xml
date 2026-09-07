@@ -1,0 +1,764 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "STATUTE-119-Pg3",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5463539209923835307,
+    "filename": "STATUTE-119-Pg3.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 177.0199,
+            "t": 697.942,
+            "r": 362.9396999999998,
+            "b": 687.790895522388,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "PUBLIC LAW 109-1-JAN. 7, 2005",
+      "text": "PUBLIC LAW 109-1-JAN. 7, 2005"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 436.72,
+            "t": 697.942,
+            "r": 501.06339999999994,
+            "b": 687.790895522388,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "119 STAT. 3",
+      "text": "119 STAT. 3"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.0,
+            "t": 593.664,
+            "r": 211.21920000000003,
+            "b": 569.5904678426052,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Public Law 109-1 109th Congress",
+      "text": "Public Law 109-1 109th Congress",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 250.7004,
+            "t": 566.664,
+            "r": 289.33199999999994,
+            "b": 555.5900678426052,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "An Act",
+      "text": "An Act",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 127.22,
+            "t": 547.776,
+            "r": 412.9439999999999,
+            "b": 531.3933785617368,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "To accelerate the income tax benefits for charitable cash contributions for the relief of victims of the Indian Ocean tsunami.",
+      "text": "To accelerate the income tax benefits for charitable cash contributions for the relief of victims of the Indian Ocean tsunami."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.0,
+            "t": 522.22,
+            "r": 429.0399999999999,
+            "b": 502.991723202171,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "Be  it  enacted  by  the  Senate  and  House  of  Representatives  of the United States of America in Congress assembled ,",
+      "text": "Be  it  enacted  by  the  Senate  and  House  of  Representatives  of the United States of America in Congress assembled ,"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.0,
+            "t": 496.776,
+            "r": 429.11199999999997,
+            "b": 469.39337856173677,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "SECTION  1.  ACCELERATION  OF  INCOME  TAX  BENEFITS  FOR  CHARITABLE  CASH  CONTRIBUTIONS  FOR  RELIEF  OF  INDIAN OCEAN TSUNAMI VICTIMS.",
+      "text": "SECTION  1.  ACCELERATION  OF  INCOME  TAX  BENEFITS  FOR  CHARITABLE  CASH  CONTRIBUTIONS  FOR  RELIEF  OF  INDIAN OCEAN TSUNAMI VICTIMS.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.99990000000001,
+            "t": 464.22,
+            "r": 429.01889999999986,
+            "b": 414.991723202171,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            286
+          ]
+        }
+      ],
+      "orig": "(a)  IN GENERAL.-For  purposes  of  section  170  of  the  Internal Revenue  Code  of  1986,  a  taxpayer  may  treat  any  contribution described  in  subsection  (b)  made  in  January  2005  as  if  such  contribution  was  made  on  December  31,  2004,  and  not  in  January 2005.",
+      "text": "(a)  IN GENERAL.-For  purposes  of  section  170  of  the  Internal Revenue  Code  of  1986,  a  taxpayer  may  treat  any  contribution described  in  subsection  (b)  made  in  January  2005  as  if  such  contribution  was  made  on  December  31,  2004,  and  not  in  January 2005."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.0,
+            "t": 414.2201,
+            "r": 429.0199999999999,
+            "b": 354.99182320217096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            371
+          ]
+        }
+      ],
+      "orig": "(b)  CONTRIBUTION DESCRIBED.-A  contribution  is  described  in this  subsection  if  such  contribution  is  a  cash  contribution  made for  the  relief  of  victims  in  areas  affected  by  the  December  26, 2004,  Indian  Ocean  tsunami  for  which  a  charitable  contribution deduction  is  allowable  under  section  170  of  the  Internal  Revenue Code of 1986.",
+      "text": "(b)  CONTRIBUTION DESCRIBED.-A  contribution  is  described  in this  subsection  if  such  contribution  is  a  cash  contribution  made for  the  relief  of  victims  in  areas  affected  by  the  December  26, 2004,  Indian  Ocean  tsunami  for  which  a  charitable  contribution deduction  is  allowable  under  section  170  of  the  Internal  Revenue Code of 1986."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 121.0,
+            "t": 342.2201,
+            "r": 247.22000000000008,
+            "b": 332.99182320217096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Approved January 7, 2005.",
+      "text": "Approved January 7, 2005."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 111.0,
+            "t": 132.87599999999998,
+            "r": 251.55509999999995,
+            "b": 125.49337856173679,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "LEGISLATIVE HISTORY-H.R. 241:",
+      "text": "LEGISLATIVE HISTORY-H.R. 241:"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.9999,
+            "t": 120.87599999999998,
+            "r": 320.4518999999999,
+            "b": 105.49337856173679,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "CONGRESSIONAL RECORD, Vol. 151 (2005): Jan. 6, considered and passed House and Senate.",
+      "text": "CONGRESSIONAL RECORD, Vol. 151 (2005): Jan. 6, considered and passed House and Senate."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.0,
+            "t": 24.66700000000003,
+            "r": 90.38350000000001,
+            "b": 18.654499999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "VerDate 14-DEC-2004",
+      "text": "VerDate 14-DEC-2004"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.38335000000001,
+            "t": 24.66700000000003,
+            "r": 152.67235000000002,
+            "b": 18.654499999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "08:19 Oct 26, 2006",
+      "text": "08:19 Oct 26, 2006"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 159.67220000000003,
+            "t": 24.66700000000003,
+            "r": 191.47020000000003,
+            "b": 18.654499999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Jkt 039194",
+      "text": "Jkt 039194"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 198.47005000000004,
+            "t": 24.66700000000003,
+            "r": 227.73955000000004,
+            "b": 18.654499999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "PO 00001",
+      "text": "PO 00001"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 234.73940000000005,
+            "t": 24.66700000000003,
+            "r": 266.1669,
+            "b": 18.654499999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Frm 00001",
+      "text": "Frm 00001"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 273.16675,
+            "t": 24.66700000000003,
+            "r": 300.6227499999999,
+            "b": 18.654499999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Fmt 6580",
+      "text": "Fmt 6580"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 307.62259999999986,
+            "t": 24.66700000000003,
+            "r": 337.2495999999998,
+            "b": 18.654499999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Sfmt 6580",
+      "text": "Sfmt 6580"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 344.2494499999998,
+            "t": 24.66700000000003,
+            "r": 421.9244499999998,
+            "b": 18.654499999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "E:\\PUBLAW\\PUBL001.119",
+      "text": "E:\\PUBLAW\\PUBL001.119"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 428.9242999999998,
+            "t": 24.66700000000003,
+            "r": 453.49429999999984,
+            "b": 18.654499999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "APPS06",
+      "text": "APPS06"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 460.4941499999998,
+            "t": 24.66700000000003,
+            "r": 504.2066499999998,
+            "b": 18.654499999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "PsN: PUBL001",
+      "text": "PsN: PUBL001"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 448.4,
+            "t": 547.776,
+            "r": 491.633,
+            "b": 540.3933785617368,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Jan. 7, 2005",
+      "text": "Jan. 7, 2005"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 452.02,
+            "t": 536.376,
+            "r": 488.00275,
+            "b": 528.9933785617368,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "[H.R. 241]",
+      "text": "[H.R. 241]"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

@@ -1,4 +1,4 @@
--- PostgreSQL initialization schema
+-- Initial schema. Idempotent so that init_db can rerun it against an existing database.
 
 CREATE TABLE IF NOT EXISTS statutes (
     id SERIAL PRIMARY KEY,
@@ -36,5 +36,9 @@ CREATE TABLE IF NOT EXISTS benchmarks (
     benchmark_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
--- Unique constraint for statutes
-ALTER TABLE statutes ADD CONSTRAINT unique_pl_number UNIQUE (pl_number);
+DO $$
+BEGIN
+    IF NOT EXISTS (SELECT 1 FROM pg_constraint WHERE conname = 'unique_pl_number') THEN
+        ALTER TABLE statutes ADD CONSTRAINT unique_pl_number UNIQUE (pl_number);
+    END IF;
+END $$;

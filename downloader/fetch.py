@@ -7,7 +7,9 @@ from .db import insert_statute
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-API_KEY = os.getenv("GOVINFO_API_KEY", "861dPygDW6DkZBGEWA10SbjRcHdbQxgBxyJ7ikHt")
+from .config import govinfo_api_key
+
+API_KEY = govinfo_api_key()  # raises MissingEnv when unset; no default
 BASE_URL = "https://api.govinfo.gov"
 
 def fetch_package_summary(package_id):
@@ -114,4 +116,4 @@ def process_recent_statutes(limit=10):
         congress += 1
 
 if __name__ == "__main__":
-    process_recent_statutes(5)
+    process_recent_statutes(300)
