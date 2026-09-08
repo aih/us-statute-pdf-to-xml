@@ -20,6 +20,10 @@ dependencies = [
 dev = [
     "pytest>=8.0",
 ]
+# VLM profiles (pipeline.vlm): Docling's inline VLM runtime; mlx-vlm on Apple silicon, transformers elsewhere.
+vlm = [
+    "docling[vlm]>=2.126.0",
+]
 
 [build-system]
 requires = ["hatchling"]
