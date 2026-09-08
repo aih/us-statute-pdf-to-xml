@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pLaw xmlns="http://schemas.gpo.gov/xml/uslm" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.gpo.gov/xml/uslm https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.17.xsd">
+<meta>
+<dc:title>Chap. CXXI: for the Relief of Robert Gibson.</dc:title>
+<citableAs>10 Stat. 764</citableAs>
+<dc:date>1853-03-03</dc:date>
+<dc:type>Chapter</dc:type>
+<docNumber>CXXI</docNumber>
+<dc:publisher>Little, Brown and Company.</dc:publisher>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<processedBy>Digitization Vendor</processedBy>
+<processedDate>2025-12-24</processedDate>
+<congress>32</congress>
+<session>2</session>
+<publicPrivate>private</publicPrivate>
+</meta>
+<preface>
+<p class="smallCaps"><dc:type>Chap.</dc:type> <docNumber>CXXI.—</docNumber></p>
+</preface>
+<main>
+<longTitle><docTitle class="inline italic">An Act </docTitle><officialTitle class="inline"><i>for the Relief of Robert Gibson.</i></officialTitle>
+<sidenote><p class="centered fontsize8"><approvedDate date="1853-03-03">March 3, 1853</approvedDate>.</p></sidenote>
+</longTitle>
+<enactingFormula><i>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</i></enactingFormula>
+<section class="inline"><content class="inline">That the Secretary of the Interior <sidenote><p class="firstIndent1 fontsize8">Robert Gibson to be placed on the pension roll at $8 per month, from January 1, 1852, for life.</p></sidenote>be, and lie is hereby directed to place the name of Robert Gibson, of Greenbriar County, Virginia, upon the roll of invalid pensioners, at the rate of eight dollars per month, to commence on the first day of January, eighteen hundred and fifty-two, and to continue during his natural life.</content></section>
+<action><actionDescription class="smallCaps">Approved, </actionDescription><date date="1853-03-03">March 3, 1853</date>.</action>
+</main>
+</pLaw>
