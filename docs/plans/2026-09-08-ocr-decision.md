@@ -221,14 +221,19 @@ Laws from 1901 to 1957 carry both forms; the chapter form goes on `meta/property
 
 ## 7. Judge pass
 
-`claude-opus-5` judged the `hybrid:vlm:glm_ocr` output of @@JUDGE_N@@ sample granules against the granule PDF
-and the GovInfo USLM (`data/reports/2026-09-08-wp11-judge.md`, run `wp11-judge`, @@JUDGE_COST@@):
+`claude-opus-5` judged the `hybrid:vlm:glm_ocr` output of 20 sample granules against the granule PDF
+and the GovInfo USLM (`data/reports/2026-09-08-wp11-judge.md`, run `wp11-judge`, $2.34):
 
 | Score (0 to 100) | Mean | Range |
 |---|---|---|
-| Text | @@JUDGE_TEXT@@ |
-| Structure | @@JUDGE_STRUCT@@ |
-| Tagging | @@JUDGE_TAG@@ |
+| Text | 75.1 | 18 to 93 |
+| Structure | 64.7 | 15 to 86 |
+| Tagging | 62.6 | 22 to 80 |
+
+By era (mean of the three scores): digital 80.6 (3 granules), 1951 to 2002 73.5 (5), pre-1951 61.7 (12).
+The 13 public and private laws score text 83.5, structure 71.5, tagging 68.4; the seven resolutions,
+proclamations, and treaties pull the means down (STATUTE-39-Pg1738 scores 18 / 15 / 22, STATUTE-10-Pg1177-2
+62 / 28 / 33).
 
 Findings that recur across granules:
 
@@ -241,6 +246,10 @@ Findings that recur across granules:
 4. No `page` marker for the first page of the granule when the marker sits in the previous document.
 5. In volumes 10 and 39 the chapter designator ("Chap. CXXI.—") is split from its long title across
    `preface` and `main`.
+6. Two VLM failure modes on the non-law granules: on STATUTE-39-Pg1738 page 1739, a map overlaid on the
+   text, GLM-OCR invented forest names and paragraphs ("almost entirely hallucinated"); on the treaty
+   STATUTE-10-Pg954 one phrase of Article 4 repeats about 150 times, and on STATUTE-39-Pg1645 Spanish
+   column text is spliced into the English articles. Section recall and CER do not catch the first case.
 
 ## 8. Open items
 
@@ -260,7 +269,10 @@ Findings that recur across granules:
    chapter designator).
 6. The gold set's C0 column is undefined on the 12 pages whose volume USLM lacks a page marker; a page
    split by PDF page position instead of the marker would score them.
-7. GLM-OCR drops a region of the page on about one page in fifteen (10 of 150 gold pages above CER 0.1,
+7. GLM-OCR invents text on a page it cannot read (the map page of STATUTE-39-Pg1738) and loops on a phrase
+   (STATUTE-10-Pg954); judge finding 6. A repetition cap on the output and a per-page agreement check
+   against the text layer would flag both; not built.
+8. GLM-OCR drops a region of the page on about one page in fifteen (10 of 150 gold pages above CER 0.1,
    2 above 0.5; 5 of 21 non-law sample granules). A per-page guard in the hybrid, falling back to the text
    layer when the VLM page text is much shorter than the text layer's, would bound the damage; not built.
 
