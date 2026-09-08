@@ -1,0 +1,974 @@
+{
+ "granule_id": "STATUTE-69-Pg397",
+ "package_id": "STATUTE-69",
+ "volume": 69,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act making appropriations for the Department of Labor, and Health, Education, and Welfare, and related agencies, for the fiscal year ending June 30, 1956, and for other purposes",
+ "date_issued": "1955-08-01",
+ "pdf_page": 10,
+ "pdf_pages": 16,
+ "stat_page": "406",
+ "image": "data/gold/STATUTE-69-Pg397/p10.png",
+ "image_sha256": "8be48428f68118fb3a1e6bd515e57e469780a46fe5129ab316e884cb9d358ef2",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 195—AUG. 1, 1955        [69 STAT."
+    },
+    {
+     "role": "page-number",
+     "text": "406"
+    },
+    {
+     "role": "body",
+     "text": "Public Health Service are not available, including insurance of official"
+    },
+    {
+     "role": "body",
+     "text": "motor vehicles in foreign countries when required by law of such"
+    },
+    {
+     "role": "body",
+     "text": "countries; purchase of not to exceed thirteen passenger motor vehicles"
+    },
+    {
+     "role": "body",
+     "text": "for replacement only; $3,000,000."
+    },
+    {
+     "role": "body",
+     "text": "Indian health activities: For expenses necessary to enable the Sur-"
+    },
+    {
+     "role": "body",
+     "text": "geon General to carry out the purposes of the Act of August 5, 1954"
+    },
+    {
+     "role": "sidenote",
+     "text": "68 Stat. 674."
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 2001-"
+    },
+    {
+     "role": "sidenote",
+     "text": "2004."
+    },
+    {
+     "role": "body",
+     "text": "(Public Law 568), including services as authorized by section 15 of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "60 Stat. 810."
+    },
+    {
+     "role": "body",
+     "text": "Act of August 2, 1946 (5 U. S. C. 55a) (including not to exceed $10,000"
+    },
+    {
+     "role": "body",
+     "text": "for such services at rates not to exceed $100 per diem for individuals,"
+    },
+    {
+     "role": "body",
+     "text": "when authorized by the Surgeon General); purchase of not to exceed"
+    },
+    {
+     "role": "body",
+     "text": "seventy-two passenger motor vehicles, of which forty-seven shall be"
+    },
+    {
+     "role": "body",
+     "text": "for replacement only; hire of passenger motor vehicles and aircraft;"
+    },
+    {
+     "role": "body",
+     "text": "purchase of reprints; payment for telephone service in private resi-"
+    },
+    {
+     "role": "body",
+     "text": "dences in the field, when authorized under regulations approved by the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary; and the purposes set forth in sections 321 and 509 of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 248, 227."
+    },
+    {
+     "role": "body",
+     "text": "Public Health Service Act; $33,840,000: Provided, That the Surgeon"
+    },
+    {
+     "role": "body",
+     "text": "General is authorized to transfer from this appropriation to other"
+    },
+    {
+     "role": "body",
+     "text": "appropriations of the Public Health Service such amounts as he may"
+    },
+    {
+     "role": "body",
+     "text": "determine are required in such appropriations for Indian health"
+    },
+    {
+     "role": "body",
+     "text": "activities."
+    },
+    {
+     "role": "body",
+     "text": "Construction of Indian health facilities: For construction, major"
+    },
+    {
+     "role": "body",
+     "text": "repair, improvement, and equipment of health and related auxiliary"
+    },
+    {
+     "role": "body",
+     "text": "facilities, including quarters for personnel; preparation of plans,"
+    },
+    {
+     "role": "body",
+     "text": "specifications, and drawings; acquisition of sites; purchase and erec-"
+    },
+    {
+     "role": "body",
+     "text": "tion of portable buildings; and purchase of trailers; $5,000,000, to"
+    },
+    {
+     "role": "body",
+     "text": "remain available until expended: Provided, That such expenditures"
+    },
+    {
+     "role": "body",
+     "text": "may be made through the Department of the Interior."
+    },
+    {
+     "role": "body",
+     "text": "National Institutes of Health, operating expenses: For the activities"
+    },
+    {
+     "role": "body",
+     "text": "of the National Institutes of Health, not otherwise provided for, in-"
+    },
+    {
+     "role": "body",
+     "text": "cluding research fellowships and grants for research projects pursuant"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 241."
+    },
+    {
+     "role": "body",
+     "text": "to section 301 of the Act; not to exceed $1,000 for entertainment of vis-"
+    },
+    {
+     "role": "body",
+     "text": "iting scientists when specifically approved by the Surgeon General;"
+    },
+    {
+     "role": "body",
+     "text": "erection of temporary structures; and grants of therapeutic and"
+    },
+    {
+     "role": "body",
+     "text": "chemical substances for demonstrations and research; $5,899,000: Pro-"
+    },
+    {
+     "role": "body",
+     "text": "vided, That the Surgeon General is authorized to advance to this"
+    },
+    {
+     "role": "body",
+     "text": "appropriation from other appropriations to the Public Health Service"
+    },
+    {
+     "role": "body",
+     "text": "such amounts as are determined to be necessary for the foregoing"
+    },
+    {
+     "role": "body",
+     "text": "purposes and for activities performed on a centralized basis: Pro-"
+    },
+    {
+     "role": "body",
+     "text": "vided further, That the Surgeon General is authorized to operate"
+    },
+    {
+     "role": "body",
+     "text": "facilities at the National Institutes of Health for the sale of meals to"
+    },
+    {
+     "role": "body",
+     "text": "employees and others at rates determined by him to be sufficient to"
+    },
+    {
+     "role": "body",
+     "text": "recover the cost of such operation and the proceeds thereof shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Release of cer-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tain research"
+    },
+    {
+     "role": "sidenote",
+     "text": "equipment."
+    },
+    {
+     "role": "body",
+     "text": "credited to this appropriation: Provided further, That the Surgeon"
+    },
+    {
+     "role": "body",
+     "text": "General is authorized, upon recommendation of the National Advi-"
+    },
+    {
+     "role": "body",
+     "text": "sory Health Council, to donate or release to a university, hospital, or"
+    },
+    {
+     "role": "body",
+     "text": "other nonprofit organization any right, title, claim, or interest of"
+    },
+    {
+     "role": "body",
+     "text": "the United States with respect to research and related equipment"
+    },
+    {
+     "role": "body",
+     "text": "and other tangible property under the jurisdiction of the Service and"
+    },
+    {
+     "role": "body",
+     "text": "acquired by such institutions prior to December 1946 pursuant to"
+    },
+    {
+     "role": "body",
+     "text": "its contract with the United States through the Office of Scientific"
+    },
+    {
+     "role": "body",
+     "text": "Research and Development."
+    },
+    {
+     "role": "body",
+     "text": "National Cancer Institute: To enable the Surgeon General, upon"
+    },
+    {
+     "role": "body",
+     "text": "the recommendations of the National Advisory Cancer Council, to"
+    },
+    {
+     "role": "body",
+     "text": "make grants-in-aid for research and training projects relating to"
+    },
+    {
+     "role": "body",
+     "text": "cancer; to cooperate with State health agencies, and other public and"
+    },
+    {
+     "role": "body",
+     "text": "private nonprofit institutions, in the prevention, control, and eradica-"
+    },
+    {
+     "role": "body",
+     "text": "tion of cancer by providing consultative services, demonstrations, and"
+    },
+    {
+     "role": "body",
+     "text": "grants-in-aid; and to contract for supplies and services by negotiation,"
+    },
+    {
+     "role": "sidenote",
+     "text": "41 USC 5."
+    },
+    {
+     "role": "body",
+     "text": "without regard to section 3709 of the Revised Statutes, in connection"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5186,
+    "output_tokens": 2443,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08739,
+   "seconds": 30.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "406"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 195—AUG. 1, 1955"
+    },
+    {
+     "role": "running-head",
+     "text": "[69 STAT."
+    },
+    {
+     "role": "body",
+     "text": "Public Health Service are not available, including insurance of official"
+    },
+    {
+     "role": "body",
+     "text": "motor vehicles in foreign countries when required by law of such"
+    },
+    {
+     "role": "body",
+     "text": "countries; purchase of not to exceed thirteen passenger motor vehicles"
+    },
+    {
+     "role": "body",
+     "text": "for replacement only; $3,000,000."
+    },
+    {
+     "role": "body",
+     "text": "Indian health activities: For expenses necessary to enable the Sur-"
+    },
+    {
+     "role": "body",
+     "text": "geon General to carry out the purposes of the Act of August 5, 1954"
+    },
+    {
+     "role": "sidenote",
+     "text": "68 Stat. 674."
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 2001-"
+    },
+    {
+     "role": "sidenote",
+     "text": "2004."
+    },
+    {
+     "role": "sidenote",
+     "text": "60 Stat. 810."
+    },
+    {
+     "role": "body",
+     "text": "(Public Law 568), including services as authorized by section 15 of the"
+    },
+    {
+     "role": "body",
+     "text": "Act of August 2, 1946 (5 U. S. C. 55a) (including not to exceed $10,000"
+    },
+    {
+     "role": "body",
+     "text": "for such services at rates not to exceed $100 per diem for individuals,"
+    },
+    {
+     "role": "body",
+     "text": "when authorized by the Surgeon General); purchase of not to exceed"
+    },
+    {
+     "role": "body",
+     "text": "seventy-two passenger motor vehicles, of which forty-seven shall be"
+    },
+    {
+     "role": "body",
+     "text": "for replacement only; hire of passenger motor vehicles and aircraft;"
+    },
+    {
+     "role": "body",
+     "text": "purchase of reprints; payment for telephone service in private resi-"
+    },
+    {
+     "role": "body",
+     "text": "dences in the field, when authorized under regulations approved by the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary; and the purposes set forth in sections 321 and 509 of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 248, 227."
+    },
+    {
+     "role": "body",
+     "text": "Public Health Service Act; $33,840,000: Provided, That the Surgeon"
+    },
+    {
+     "role": "body",
+     "text": "General is authorized to transfer from this appropriation to other"
+    },
+    {
+     "role": "body",
+     "text": "appropriations of the Public Health Service such amounts as he may"
+    },
+    {
+     "role": "body",
+     "text": "determine are required in such appropriations for Indian health"
+    },
+    {
+     "role": "body",
+     "text": "activities."
+    },
+    {
+     "role": "body",
+     "text": "Construction of Indian health facilities: For construction, major"
+    },
+    {
+     "role": "body",
+     "text": "repair, improvement, and equipment of health and related auxiliary"
+    },
+    {
+     "role": "body",
+     "text": "facilities, including quarters for personnel; preparation of plans,"
+    },
+    {
+     "role": "body",
+     "text": "specifications, and drawings; acquisition of sites; purchase and erec-"
+    },
+    {
+     "role": "body",
+     "text": "tion of portable buildings; and purchase of trailers; $5,000,000, to"
+    },
+    {
+     "role": "body",
+     "text": "remain available until expended: Provided, That such expenditures"
+    },
+    {
+     "role": "body",
+     "text": "may be made through the Department of the Interior."
+    },
+    {
+     "role": "body",
+     "text": "National Institutes of Health, operating expenses: For the activities"
+    },
+    {
+     "role": "body",
+     "text": "of the National Institutes of Health, not otherwise provided for, in-"
+    },
+    {
+     "role": "body",
+     "text": "cluding research fellowships and grants for research projects pursuant"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 241."
+    },
+    {
+     "role": "body",
+     "text": "to section 301 of the Act; not to exceed $1,000 for entertainment of vis-"
+    },
+    {
+     "role": "body",
+     "text": "iting scientists when specifically approved by the Surgeon General;"
+    },
+    {
+     "role": "body",
+     "text": "erection of temporary structures; and grants of therapeutic and"
+    },
+    {
+     "role": "body",
+     "text": "chemical substances for demonstrations and research; $5,899,000: Pro-"
+    },
+    {
+     "role": "body",
+     "text": "vided, That the Surgeon General is authorized to advance to this"
+    },
+    {
+     "role": "body",
+     "text": "appropriation from other appropriations to the Public Health Service"
+    },
+    {
+     "role": "body",
+     "text": "such amounts as are determined to be necessary for the foregoing"
+    },
+    {
+     "role": "body",
+     "text": "purposes and for activities performed on a centralized basis: Pro-"
+    },
+    {
+     "role": "body",
+     "text": "vided further, That the Surgeon General is authorized to operate"
+    },
+    {
+     "role": "body",
+     "text": "facilities at the National Institutes of Health for the sale of meals to"
+    },
+    {
+     "role": "body",
+     "text": "employees and others at rates determined by him to be sufficient to"
+    },
+    {
+     "role": "body",
+     "text": "recover the cost of such operation and the proceeds thereof shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Release of cer-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tain research"
+    },
+    {
+     "role": "sidenote",
+     "text": "equipment."
+    },
+    {
+     "role": "body",
+     "text": "credited to this appropriation: Provided further, That the Surgeon"
+    },
+    {
+     "role": "body",
+     "text": "General is authorized, upon recommendation of the National Advi-"
+    },
+    {
+     "role": "body",
+     "text": "sory Health Council, to donate or release to a university, hospital, or"
+    },
+    {
+     "role": "body",
+     "text": "other nonprofit organization any right, title, claim, or interest of"
+    },
+    {
+     "role": "body",
+     "text": "the United States with respect to research and related equipment"
+    },
+    {
+     "role": "body",
+     "text": "and other tangible property under the jurisdiction of the Service and"
+    },
+    {
+     "role": "body",
+     "text": "acquired by such institutions prior to December 1946 pursuant to"
+    },
+    {
+     "role": "body",
+     "text": "its contract with the United States through the Office of Scientific"
+    },
+    {
+     "role": "body",
+     "text": "Research and Development."
+    },
+    {
+     "role": "body",
+     "text": "National Cancer Institute: To enable the Surgeon General, upon"
+    },
+    {
+     "role": "body",
+     "text": "the recommendations of the National Advisory Cancer Council, to"
+    },
+    {
+     "role": "body",
+     "text": "make grants-in-aid for research and training projects relating to"
+    },
+    {
+     "role": "body",
+     "text": "cancer; to cooperate with State health agencies, and other public and"
+    },
+    {
+     "role": "body",
+     "text": "private nonprofit institutions, in the prevention, control, and eradica-"
+    },
+    {
+     "role": "body",
+     "text": "tion of cancer by providing consultative services, demonstrations, and"
+    },
+    {
+     "role": "body",
+     "text": "grants-in-aid; and to contract for supplies and services by negotiation,"
+    },
+    {
+     "role": "sidenote",
+     "text": "41 USC 5."
+    },
+    {
+     "role": "body",
+     "text": "without regard to section 3709 of the Revised Statutes, in connection"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5189,
+    "output_tokens": 2176,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08071,
+   "seconds": 26.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11285,
+   "output_tokens": 623,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.07242,
+  "seconds": 10.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "PUBLIC LAW 195—AUG. 1, 1955        [69 STAT.",
+    "b": "",
+    "kept": "",
+    "reason": "The page number 406 is printed at the far left before the running head, so the head does not precede it."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "PUBLIC LAW 195—AUG. 1, 1955\n[69 STAT.",
+    "kept": "PUBLIC LAW 195—AUG. 1, 1955        [69 STAT.",
+    "reason": "Running head follows the page number on the same printed line; kept as a single line."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "60 Stat. 810.",
+    "kept": "",
+    "reason": "The '60 Stat. 810.' sidenote is set lower, level with the 'Act of August 2, 1946' line, not here."
+   },
+   {
+    "run": 4,
+    "a": "60 Stat. 810.",
+    "b": "",
+    "kept": "60 Stat. 810.",
+    "reason": "Sidenote appears opposite the 'Act of August 2, 1946' line, i.e., after the '(Public Law 568)' body line."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "406"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 195—AUG. 1, 1955        [69 STAT."
+  },
+  {
+   "role": "body",
+   "text": "Public Health Service are not available, including insurance of official"
+  },
+  {
+   "role": "body",
+   "text": "motor vehicles in foreign countries when required by law of such"
+  },
+  {
+   "role": "body",
+   "text": "countries; purchase of not to exceed thirteen passenger motor vehicles"
+  },
+  {
+   "role": "body",
+   "text": "for replacement only; $3,000,000."
+  },
+  {
+   "role": "body",
+   "text": "Indian health activities: For expenses necessary to enable the Sur-"
+  },
+  {
+   "role": "body",
+   "text": "geon General to carry out the purposes of the Act of August 5, 1954"
+  },
+  {
+   "role": "sidenote",
+   "text": "68 Stat. 674."
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 2001-"
+  },
+  {
+   "role": "sidenote",
+   "text": "2004."
+  },
+  {
+   "role": "body",
+   "text": "(Public Law 568), including services as authorized by section 15 of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "60 Stat. 810."
+  },
+  {
+   "role": "body",
+   "text": "Act of August 2, 1946 (5 U. S. C. 55a) (including not to exceed $10,000"
+  },
+  {
+   "role": "body",
+   "text": "for such services at rates not to exceed $100 per diem for individuals,"
+  },
+  {
+   "role": "body",
+   "text": "when authorized by the Surgeon General); purchase of not to exceed"
+  },
+  {
+   "role": "body",
+   "text": "seventy-two passenger motor vehicles, of which forty-seven shall be"
+  },
+  {
+   "role": "body",
+   "text": "for replacement only; hire of passenger motor vehicles and aircraft;"
+  },
+  {
+   "role": "body",
+   "text": "purchase of reprints; payment for telephone service in private resi-"
+  },
+  {
+   "role": "body",
+   "text": "dences in the field, when authorized under regulations approved by the"
+  },
+  {
+   "role": "body",
+   "text": "Secretary; and the purposes set forth in sections 321 and 509 of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 248, 227."
+  },
+  {
+   "role": "body",
+   "text": "Public Health Service Act; $33,840,000: Provided, That the Surgeon"
+  },
+  {
+   "role": "body",
+   "text": "General is authorized to transfer from this appropriation to other"
+  },
+  {
+   "role": "body",
+   "text": "appropriations of the Public Health Service such amounts as he may"
+  },
+  {
+   "role": "body",
+   "text": "determine are required in such appropriations for Indian health"
+  },
+  {
+   "role": "body",
+   "text": "activities."
+  },
+  {
+   "role": "body",
+   "text": "Construction of Indian health facilities: For construction, major"
+  },
+  {
+   "role": "body",
+   "text": "repair, improvement, and equipment of health and related auxiliary"
+  },
+  {
+   "role": "body",
+   "text": "facilities, including quarters for personnel; preparation of plans,"
+  },
+  {
+   "role": "body",
+   "text": "specifications, and drawings; acquisition of sites; purchase and erec-"
+  },
+  {
+   "role": "body",
+   "text": "tion of portable buildings; and purchase of trailers; $5,000,000, to"
+  },
+  {
+   "role": "body",
+   "text": "remain available until expended: Provided, That such expenditures"
+  },
+  {
+   "role": "body",
+   "text": "may be made through the Department of the Interior."
+  },
+  {
+   "role": "body",
+   "text": "National Institutes of Health, operating expenses: For the activities"
+  },
+  {
+   "role": "body",
+   "text": "of the National Institutes of Health, not otherwise provided for, in-"
+  },
+  {
+   "role": "body",
+   "text": "cluding research fellowships and grants for research projects pursuant"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 241."
+  },
+  {
+   "role": "body",
+   "text": "to section 301 of the Act; not to exceed $1,000 for entertainment of vis-"
+  },
+  {
+   "role": "body",
+   "text": "iting scientists when specifically approved by the Surgeon General;"
+  },
+  {
+   "role": "body",
+   "text": "erection of temporary structures; and grants of therapeutic and"
+  },
+  {
+   "role": "body",
+   "text": "chemical substances for demonstrations and research; $5,899,000: Pro-"
+  },
+  {
+   "role": "body",
+   "text": "vided, That the Surgeon General is authorized to advance to this"
+  },
+  {
+   "role": "body",
+   "text": "appropriation from other appropriations to the Public Health Service"
+  },
+  {
+   "role": "body",
+   "text": "such amounts as are determined to be necessary for the foregoing"
+  },
+  {
+   "role": "body",
+   "text": "purposes and for activities performed on a centralized basis: Pro-"
+  },
+  {
+   "role": "body",
+   "text": "vided further, That the Surgeon General is authorized to operate"
+  },
+  {
+   "role": "body",
+   "text": "facilities at the National Institutes of Health for the sale of meals to"
+  },
+  {
+   "role": "body",
+   "text": "employees and others at rates determined by him to be sufficient to"
+  },
+  {
+   "role": "body",
+   "text": "recover the cost of such operation and the proceeds thereof shall be"
+  },
+  {
+   "role": "sidenote",
+   "text": "Release of cer-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tain research"
+  },
+  {
+   "role": "sidenote",
+   "text": "equipment."
+  },
+  {
+   "role": "body",
+   "text": "credited to this appropriation: Provided further, That the Surgeon"
+  },
+  {
+   "role": "body",
+   "text": "General is authorized, upon recommendation of the National Advi-"
+  },
+  {
+   "role": "body",
+   "text": "sory Health Council, to donate or release to a university, hospital, or"
+  },
+  {
+   "role": "body",
+   "text": "other nonprofit organization any right, title, claim, or interest of"
+  },
+  {
+   "role": "body",
+   "text": "the United States with respect to research and related equipment"
+  },
+  {
+   "role": "body",
+   "text": "and other tangible property under the jurisdiction of the Service and"
+  },
+  {
+   "role": "body",
+   "text": "acquired by such institutions prior to December 1946 pursuant to"
+  },
+  {
+   "role": "body",
+   "text": "its contract with the United States through the Office of Scientific"
+  },
+  {
+   "role": "body",
+   "text": "Research and Development."
+  },
+  {
+   "role": "body",
+   "text": "National Cancer Institute: To enable the Surgeon General, upon"
+  },
+  {
+   "role": "body",
+   "text": "the recommendations of the National Advisory Cancer Council, to"
+  },
+  {
+   "role": "body",
+   "text": "make grants-in-aid for research and training projects relating to"
+  },
+  {
+   "role": "body",
+   "text": "cancer; to cooperate with State health agencies, and other public and"
+  },
+  {
+   "role": "body",
+   "text": "private nonprofit institutions, in the prevention, control, and eradica-"
+  },
+  {
+   "role": "body",
+   "text": "tion of cancer by providing consultative services, demonstrations, and"
+  },
+  {
+   "role": "body",
+   "text": "grants-in-aid; and to contract for supplies and services by negotiation,"
+  },
+  {
+   "role": "sidenote",
+   "text": "41 USC 5."
+  },
+  {
+   "role": "body",
+   "text": "without regard to section 3709 of the Revised Statutes, in connection"
+  }
+ ],
+ "disagreement_count": 4,
+ "tokens": {
+  "input_tokens": 21660,
+  "output_tokens": 5242,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.24052,
+ "seconds": 67.3,
+ "created": "2026-09-08T11:18:59"
+}

@@ -1,0 +1,893 @@
+{
+ "granule_id": "STATUTE-69-Pg397",
+ "package_id": "STATUTE-69",
+ "volume": 69,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act making appropriations for the Department of Labor, and Health, Education, and Welfare, and related agencies, for the fiscal year ending June 30, 1956, and for other purposes",
+ "date_issued": "1955-08-01",
+ "pdf_page": 13,
+ "pdf_pages": 16,
+ "stat_page": "409",
+ "image": "data/gold/STATUTE-69-Pg397/p13.png",
+ "image_sha256": "055eaf26eb527ba140466c55fe4b929a1335381a8d394cc22be4482fbc37904f",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "69 STAT.]          PUBLIC LAW 195—AUG. 1, 1955                    409"
+    },
+    {
+     "role": "body",
+     "text": "only for grants to States for services for crippled children: Provided,"
+    },
+    {
+     "role": "body",
+     "text": "That any allotment to a State pursuant to section 502 (b) or 512 (b)"
+    },
+    {
+     "role": "body",
+     "text": "of such Act shall not be included in computing for the purposes of"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 702, 712,"
+    },
+    {
+     "role": "sidenote",
+     "text": "704, 714."
+    },
+    {
+     "role": "body",
+     "text": "subsections (a) and (b) of sections 504 and 514 of such Act an amount"
+    },
+    {
+     "role": "body",
+     "text": "expended or estimated to be expended by the State."
+    },
+    {
+     "role": "body",
+     "text": "Salaries and expenses, Office of the Commissioner: For expenses"
+    },
+    {
+     "role": "body",
+     "text": "necessary for the Office of the Commissioner of Social Security,"
+    },
+    {
+     "role": "body",
+     "text": "$173,000, together with not to exceed $130,000 to be transferred from"
+    },
+    {
+     "role": "body",
+     "text": "the Federal old-age and survivors insurance trust fund."
+    },
+    {
+     "role": "body",
+     "text": "Grants to States, next succeeding fiscal year: For making, after"
+    },
+    {
+     "role": "body",
+     "text": "May 31 of the current fiscal year, payments to States under titles I,"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC ch. 7."
+    },
+    {
+     "role": "body",
+     "text": "IV, V, X, and XIV, respectively, of the Social Security Act, as"
+    },
+    {
+     "role": "body",
+     "text": "amended, for the first quarter of the next succeeding fiscal year,"
+    },
+    {
+     "role": "body",
+     "text": "such sums as may be necessary, the obligations incurred and the"
+    },
+    {
+     "role": "body",
+     "text": "expenditures made thereunder for payments under each of such titles"
+    },
+    {
+     "role": "body",
+     "text": "to be charged to the appropriation therefor for that fiscal year."
+    },
+    {
+     "role": "body",
+     "text": "In the administration of titles I, IV, V, X, and XIV, respectively,"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC ch. 7."
+    },
+    {
+     "role": "body",
+     "text": "of the Social Security Act, as amended, payments to a State under"
+    },
+    {
+     "role": "body",
+     "text": "any of such titles for any quarter in the period beginning April 1"
+    },
+    {
+     "role": "body",
+     "text": "of the prior year, and ending June 30 of the current year, may be"
+    },
+    {
+     "role": "body",
+     "text": "made with respect to a State plan approved under such title prior"
+    },
+    {
+     "role": "body",
+     "text": "to or during such period, but no such payment shall be made with"
+    },
+    {
+     "role": "body",
+     "text": "respect to any plan for any quarter prior to the quarter in which such"
+    },
+    {
+     "role": "body",
+     "text": "plan was submitted for approval."
+    },
+    {
+     "role": "body",
+     "text": "OFFICE OF THE SECRETARY"
+    },
+    {
+     "role": "body",
+     "text": "Salaries and expenses, Office of the Secretary: For expenses neces-"
+    },
+    {
+     "role": "body",
+     "text": "sary for the Office of the Secretary, $1,400,000, together with not to"
+    },
+    {
+     "role": "body",
+     "text": "exceed $200,000 to be transferred from the Federal old-age and survi-"
+    },
+    {
+     "role": "body",
+     "text": "vors insurance trust fund."
+    },
+    {
+     "role": "body",
+     "text": "Salaries and expenses, Office of Field Administration: For expenses"
+    },
+    {
+     "role": "body",
+     "text": "necessary for the Office of Field Administration, $1,800,000, together"
+    },
+    {
+     "role": "body",
+     "text": "with not to exceed $400,000 to be transferred from the Federal old-age"
+    },
+    {
+     "role": "body",
+     "text": "and survivors insurance trust fund."
+    },
+    {
+     "role": "body",
+     "text": "Salaries and expenses, Office of the General Counsel: For expenses"
+    },
+    {
+     "role": "body",
+     "text": "necessary for the Office of the General Counsel, $372,500, together"
+    },
+    {
+     "role": "body",
+     "text": "with not to exceed $22,500 to be transferred from the appropriation"
+    },
+    {
+     "role": "body",
+     "text": "\"Salaries and expenses, certification and inspection services\", and not"
+    },
+    {
+     "role": "body",
+     "text": "to exceed $370,000 to be transferred from the Federal old-age and"
+    },
+    {
+     "role": "body",
+     "text": "survivors insurance trust fund."
+    },
+    {
+     "role": "body",
+     "text": "Surplus property utilization: For expenses necessary for carrying"
+    },
+    {
+     "role": "body",
+     "text": "out the provisions of subsections 203 (j) and (k) of the Federal"
+    },
+    {
+     "role": "sidenote",
+     "text": "63 Stat. 386."
+    },
+    {
+     "role": "sidenote",
+     "text": "40 USC 484."
+    },
+    {
+     "role": "body",
+     "text": "Property and Administrative Services Act of 1949, as amended,"
+    },
+    {
+     "role": "body",
+     "text": "relating to disposal of real and personal excess property for educa-"
+    },
+    {
+     "role": "body",
+     "text": "tional purposes and protection of public health, $400,000."
+    },
+    {
+     "role": "body",
+     "text": "REDUCTION IN CONTRACT AUTHORIZATION"
+    },
+    {
+     "role": "body",
+     "text": "Howard University: The contract authorization heretofore granted"
+    },
+    {
+     "role": "body",
+     "text": "under the head \"Construction, Howard University\", for the women's"
+    },
+    {
+     "role": "body",
+     "text": "dormitory units is reduced in the amount of $179,200."
+    },
+    {
+     "role": "body",
+     "text": "GENERAL PROVISIONS"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 202. Appropriations under this title available for salaries and"
+    },
+    {
+     "role": "body",
+     "text": "expenses shall be available for payment in advance for dues or fees"
+    },
+    {
+     "role": "body",
+     "text": "for library membership in organizations whose publications are avail-"
+    },
+    {
+     "role": "body",
+     "text": "able to members only or to members at a price lower than to the gen-"
+    },
+    {
+     "role": "body",
+     "text": "eral public."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5186,
+    "output_tokens": 2069,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07804,
+   "seconds": 22.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "69 STAT.]"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 195—AUG. 1, 1955"
+    },
+    {
+     "role": "page-number",
+     "text": "409"
+    },
+    {
+     "role": "body",
+     "text": "only for grants to States for services for crippled children: Provided,"
+    },
+    {
+     "role": "body",
+     "text": "That any allotment to a State pursuant to section 502 (b) or 512 (b)"
+    },
+    {
+     "role": "body",
+     "text": "of such Act shall not be included in computing for the purposes of"
+    },
+    {
+     "role": "body",
+     "text": "subsections (a) and (b) of sections 504 and 514 of such Act an amount"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 702, 712, 704, 714."
+    },
+    {
+     "role": "body",
+     "text": "expended or estimated to be expended by the State."
+    },
+    {
+     "role": "body",
+     "text": "Salaries and expenses, Office of the Commissioner: For expenses"
+    },
+    {
+     "role": "body",
+     "text": "necessary for the Office of the Commissioner of Social Security,"
+    },
+    {
+     "role": "body",
+     "text": "$173,000, together with not to exceed $130,000 to be transferred from"
+    },
+    {
+     "role": "body",
+     "text": "the Federal old-age and survivors insurance trust fund."
+    },
+    {
+     "role": "body",
+     "text": "Grants to States, next succeeding fiscal year: For making, after"
+    },
+    {
+     "role": "body",
+     "text": "May 31 of the current fiscal year, payments to States under titles I,"
+    },
+    {
+     "role": "body",
+     "text": "IV, V, X, and XIV, respectively, of the Social Security Act, as"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC ch. 7."
+    },
+    {
+     "role": "body",
+     "text": "amended, for the first quarter of the next succeeding fiscal year,"
+    },
+    {
+     "role": "body",
+     "text": "such sums as may be necessary, the obligations incurred and the"
+    },
+    {
+     "role": "body",
+     "text": "expenditures made thereunder for payments under each of such titles"
+    },
+    {
+     "role": "body",
+     "text": "to be charged to the appropriation therefor for that fiscal year."
+    },
+    {
+     "role": "body",
+     "text": "In the administration of titles I, IV, V, X, and XIV, respectively,"
+    },
+    {
+     "role": "body",
+     "text": "of the Social Security Act, as amended, payments to a State under"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC ch. 7."
+    },
+    {
+     "role": "body",
+     "text": "any of such titles for any quarter in the period beginning April 1"
+    },
+    {
+     "role": "body",
+     "text": "of the prior year, and ending June 30 of the current year, may be"
+    },
+    {
+     "role": "body",
+     "text": "made with respect to a State plan approved under such title prior"
+    },
+    {
+     "role": "body",
+     "text": "to or during such period, but no such payment shall be made with"
+    },
+    {
+     "role": "body",
+     "text": "respect to any plan for any quarter prior to the quarter in which such"
+    },
+    {
+     "role": "body",
+     "text": "plan was submitted for approval."
+    },
+    {
+     "role": "body",
+     "text": "OFFICE OF THE SECRETARY"
+    },
+    {
+     "role": "body",
+     "text": "Salaries and expenses, Office of the Secretary: For expenses neces-"
+    },
+    {
+     "role": "body",
+     "text": "sary for the Office of the Secretary, $1,400,000, together with not to"
+    },
+    {
+     "role": "body",
+     "text": "exceed $200,000 to be transferred from the Federal old-age and survi-"
+    },
+    {
+     "role": "body",
+     "text": "vors insurance trust fund."
+    },
+    {
+     "role": "body",
+     "text": "Salaries and expenses, Office of Field Administration: For expenses"
+    },
+    {
+     "role": "body",
+     "text": "necessary for the Office of Field Administration, $1,800,000, together"
+    },
+    {
+     "role": "body",
+     "text": "with not to exceed $400,000 to be transferred from the Federal old-age"
+    },
+    {
+     "role": "body",
+     "text": "and survivors insurance trust fund."
+    },
+    {
+     "role": "body",
+     "text": "Salaries and expenses, Office of the General Counsel: For expenses"
+    },
+    {
+     "role": "body",
+     "text": "necessary for the Office of the General Counsel, $372,500, together"
+    },
+    {
+     "role": "body",
+     "text": "with not to exceed $22,500 to be transferred from the appropriation"
+    },
+    {
+     "role": "body",
+     "text": "\"Salaries and expenses, certification and inspection services\", and not"
+    },
+    {
+     "role": "body",
+     "text": "to exceed $370,000 to be transferred from the Federal old-age and"
+    },
+    {
+     "role": "body",
+     "text": "survivors insurance trust fund."
+    },
+    {
+     "role": "body",
+     "text": "Surplus property utilization: For expenses necessary for carrying"
+    },
+    {
+     "role": "body",
+     "text": "out the provisions of subsections 203 (j) and (k) of the Federal"
+    },
+    {
+     "role": "body",
+     "text": "Property and Administrative Services Act of 1949, as amended,"
+    },
+    {
+     "role": "sidenote",
+     "text": "63 Stat. 386. 40 USC 484."
+    },
+    {
+     "role": "body",
+     "text": "relating to disposal of real and personal excess property for educa-"
+    },
+    {
+     "role": "body",
+     "text": "tional purposes and protection of public health, $400,000."
+    },
+    {
+     "role": "body",
+     "text": "REDUCTION IN CONTRACT AUTHORIZATION"
+    },
+    {
+     "role": "body",
+     "text": "Howard University: The contract authorization heretofore granted"
+    },
+    {
+     "role": "body",
+     "text": "under the head \"Construction, Howard University\", for the women's"
+    },
+    {
+     "role": "body",
+     "text": "dormitory units is reduced in the amount of $179,200."
+    },
+    {
+     "role": "body",
+     "text": "GENERAL PROVISIONS"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 202. Appropriations under this title available for salaries and"
+    },
+    {
+     "role": "body",
+     "text": "expenses shall be available for payment in advance for dues or fees"
+    },
+    {
+     "role": "body",
+     "text": "for library membership in organizations whose publications are avail-"
+    },
+    {
+     "role": "body",
+     "text": "able to members only or to members at a price lower than to the gen-"
+    },
+    {
+     "role": "body",
+     "text": "eral public."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5189,
+    "output_tokens": 1881,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07333,
+   "seconds": 21.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11164,
+   "output_tokens": 1483,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.09331,
+  "seconds": 21.0,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "69 STAT.]          PUBLIC LAW 195—AUG. 1, 1955                    409",
+    "b": "69 STAT.]\nPUBLIC LAW 195—AUG. 1, 1955\n409",
+    "kept": "69 STAT.]\nPUBLIC LAW 195—AUG. 1, 1955\n409",
+    "reason": "The header consists of the volume tag, the centered running title, and the page number set at the outer margin; treating them as separate lines matches the printed layout."
+   },
+   {
+    "run": 2,
+    "a": "42 USC 702, 712,\n704, 714.",
+    "b": "",
+    "kept": "42 USC 702, 712,\n704, 714.",
+    "reason": "The marginal note is printed on two lines beside the 'subsections' line; placed immediately before that body line."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "42 USC 702, 712, 704, 714.",
+    "kept": "",
+    "reason": "The sidenote is given once, at the preceding position; nothing else printed here."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "IV, V, X, and XIV, respectively, of the Social Security Act, as",
+    "kept": "",
+    "reason": "The sidenote '42 USC ch. 7.' precedes the body line, which is given at the next position."
+   },
+   {
+    "run": 5,
+    "a": "IV, V, X, and XIV, respectively, of the Social Security Act, as",
+    "b": "",
+    "kept": "IV, V, X, and XIV, respectively, of the Social Security Act, as",
+    "reason": "This body line is printed once, alongside the sidenote."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "of the Social Security Act, as amended, payments to a State under",
+    "kept": "",
+    "reason": "The second '42 USC ch. 7.' sidenote precedes the body line, which follows."
+   },
+   {
+    "run": 7,
+    "a": "of the Social Security Act, as amended, payments to a State under",
+    "b": "",
+    "kept": "of the Social Security Act, as amended, payments to a State under",
+    "reason": "This body line is printed once, alongside the sidenote."
+   },
+   {
+    "run": 8,
+    "a": "63 Stat. 386.\n40 USC 484.",
+    "b": "",
+    "kept": "63 Stat. 386.\n40 USC 484.",
+    "reason": "The margin note is set on two separate lines opposite the 'Property and Administrative' line."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "63 Stat. 386. 40 USC 484.",
+    "kept": "",
+    "reason": "The sidenote is already given at the preceding position; nothing printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "69 STAT.]"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 195—AUG. 1, 1955"
+  },
+  {
+   "role": "page-number",
+   "text": "409"
+  },
+  {
+   "role": "body",
+   "text": "only for grants to States for services for crippled children: Provided,"
+  },
+  {
+   "role": "body",
+   "text": "That any allotment to a State pursuant to section 502 (b) or 512 (b)"
+  },
+  {
+   "role": "body",
+   "text": "of such Act shall not be included in computing for the purposes of"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 702, 712,"
+  },
+  {
+   "role": "sidenote",
+   "text": "704, 714."
+  },
+  {
+   "role": "body",
+   "text": "subsections (a) and (b) of sections 504 and 514 of such Act an amount"
+  },
+  {
+   "role": "body",
+   "text": "expended or estimated to be expended by the State."
+  },
+  {
+   "role": "body",
+   "text": "Salaries and expenses, Office of the Commissioner: For expenses"
+  },
+  {
+   "role": "body",
+   "text": "necessary for the Office of the Commissioner of Social Security,"
+  },
+  {
+   "role": "body",
+   "text": "$173,000, together with not to exceed $130,000 to be transferred from"
+  },
+  {
+   "role": "body",
+   "text": "the Federal old-age and survivors insurance trust fund."
+  },
+  {
+   "role": "body",
+   "text": "Grants to States, next succeeding fiscal year: For making, after"
+  },
+  {
+   "role": "body",
+   "text": "May 31 of the current fiscal year, payments to States under titles I,"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC ch. 7."
+  },
+  {
+   "role": "body",
+   "text": "IV, V, X, and XIV, respectively, of the Social Security Act, as"
+  },
+  {
+   "role": "body",
+   "text": "amended, for the first quarter of the next succeeding fiscal year,"
+  },
+  {
+   "role": "body",
+   "text": "such sums as may be necessary, the obligations incurred and the"
+  },
+  {
+   "role": "body",
+   "text": "expenditures made thereunder for payments under each of such titles"
+  },
+  {
+   "role": "body",
+   "text": "to be charged to the appropriation therefor for that fiscal year."
+  },
+  {
+   "role": "body",
+   "text": "In the administration of titles I, IV, V, X, and XIV, respectively,"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC ch. 7."
+  },
+  {
+   "role": "body",
+   "text": "of the Social Security Act, as amended, payments to a State under"
+  },
+  {
+   "role": "body",
+   "text": "any of such titles for any quarter in the period beginning April 1"
+  },
+  {
+   "role": "body",
+   "text": "of the prior year, and ending June 30 of the current year, may be"
+  },
+  {
+   "role": "body",
+   "text": "made with respect to a State plan approved under such title prior"
+  },
+  {
+   "role": "body",
+   "text": "to or during such period, but no such payment shall be made with"
+  },
+  {
+   "role": "body",
+   "text": "respect to any plan for any quarter prior to the quarter in which such"
+  },
+  {
+   "role": "body",
+   "text": "plan was submitted for approval."
+  },
+  {
+   "role": "body",
+   "text": "OFFICE OF THE SECRETARY"
+  },
+  {
+   "role": "body",
+   "text": "Salaries and expenses, Office of the Secretary: For expenses neces-"
+  },
+  {
+   "role": "body",
+   "text": "sary for the Office of the Secretary, $1,400,000, together with not to"
+  },
+  {
+   "role": "body",
+   "text": "exceed $200,000 to be transferred from the Federal old-age and survi-"
+  },
+  {
+   "role": "body",
+   "text": "vors insurance trust fund."
+  },
+  {
+   "role": "body",
+   "text": "Salaries and expenses, Office of Field Administration: For expenses"
+  },
+  {
+   "role": "body",
+   "text": "necessary for the Office of Field Administration, $1,800,000, together"
+  },
+  {
+   "role": "body",
+   "text": "with not to exceed $400,000 to be transferred from the Federal old-age"
+  },
+  {
+   "role": "body",
+   "text": "and survivors insurance trust fund."
+  },
+  {
+   "role": "body",
+   "text": "Salaries and expenses, Office of the General Counsel: For expenses"
+  },
+  {
+   "role": "body",
+   "text": "necessary for the Office of the General Counsel, $372,500, together"
+  },
+  {
+   "role": "body",
+   "text": "with not to exceed $22,500 to be transferred from the appropriation"
+  },
+  {
+   "role": "body",
+   "text": "\"Salaries and expenses, certification and inspection services\", and not"
+  },
+  {
+   "role": "body",
+   "text": "to exceed $370,000 to be transferred from the Federal old-age and"
+  },
+  {
+   "role": "body",
+   "text": "survivors insurance trust fund."
+  },
+  {
+   "role": "body",
+   "text": "Surplus property utilization: For expenses necessary for carrying"
+  },
+  {
+   "role": "body",
+   "text": "out the provisions of subsections 203 (j) and (k) of the Federal"
+  },
+  {
+   "role": "sidenote",
+   "text": "63 Stat. 386."
+  },
+  {
+   "role": "sidenote",
+   "text": "40 USC 484."
+  },
+  {
+   "role": "body",
+   "text": "Property and Administrative Services Act of 1949, as amended,"
+  },
+  {
+   "role": "body",
+   "text": "relating to disposal of real and personal excess property for educa-"
+  },
+  {
+   "role": "body",
+   "text": "tional purposes and protection of public health, $400,000."
+  },
+  {
+   "role": "body",
+   "text": "REDUCTION IN CONTRACT AUTHORIZATION"
+  },
+  {
+   "role": "body",
+   "text": "Howard University: The contract authorization heretofore granted"
+  },
+  {
+   "role": "body",
+   "text": "under the head \"Construction, Howard University\", for the women's"
+  },
+  {
+   "role": "body",
+   "text": "dormitory units is reduced in the amount of $179,200."
+  },
+  {
+   "role": "body",
+   "text": "GENERAL PROVISIONS"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 202. Appropriations under this title available for salaries and"
+  },
+  {
+   "role": "body",
+   "text": "expenses shall be available for payment in advance for dues or fees"
+  },
+  {
+   "role": "body",
+   "text": "for library membership in organizations whose publications are avail-"
+  },
+  {
+   "role": "body",
+   "text": "able to members only or to members at a price lower than to the gen-"
+  },
+  {
+   "role": "body",
+   "text": "eral public."
+  }
+ ],
+ "disagreement_count": 9,
+ "tokens": {
+  "input_tokens": 21539,
+  "output_tokens": 5433,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.24468,
+ "seconds": 65.4,
+ "created": "2026-09-08T11:21:19"
+}

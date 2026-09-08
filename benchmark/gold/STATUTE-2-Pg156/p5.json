@@ -1,0 +1,1114 @@
+{
+ "granule_id": "STATUTE-2-Pg156",
+ "package_id": "STATUTE-2",
+ "volume": 2,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend the Judicial System of the United States.(a)",
+ "date_issued": "1802-04-29",
+ "pdf_page": 5,
+ "pdf_pages": 12,
+ "stat_page": "160",
+ "image": "data/gold/STATUTE-2-Pg156/p5.png",
+ "image_sha256": "5a689c495eef6e2af54138b7ae415f3351a3552cb3b0a84fe7b65bf9c90dc92c",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "high"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "160\tSEVENTH CONGRESS.  Sess. 1. Ch. 31.  1802."
+    },
+    {
+     "role": "sidenote",
+     "text": "Decision of the"
+    },
+    {
+     "role": "body",
+     "text": "of the supreme court, and their order in the premises, shall be remitted"
+    },
+    {
+     "role": "sidenote",
+     "text": "supreme to be"
+    },
+    {
+     "role": "body",
+     "text": "to the circuit court, and be there entered of record, and shall have effect"
+    },
+    {
+     "role": "sidenote",
+     "text": "remitted to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "circuit court and"
+    },
+    {
+     "role": "body",
+     "text": "according to the nature of the said judgment and order : Provided, that"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be of effect."
+    },
+    {
+     "role": "body",
+     "text": "nothing herein contained shall prevent the cause from proceeding, if, in"
+    },
+    {
+     "role": "footnote",
+     "text": "whether a writ of habere facias possessionem should be issued ; the defendant, in the circuit court of"
+    },
+    {
+     "role": "footnote",
+     "text": "Maryland, having obtained, in a state court, an order for the injunction of the proceedings in the circuit"
+    },
+    {
+     "role": "footnote",
+     "text": "court.   The supreme court directed that the writ be issued.   M‘Kim v. Voorhies, 7 Cranch, 279 ; 2"
+    },
+    {
+     "role": "footnote",
+     "text": "Cond. Rep. 492."
+    },
+    {
+     "role": "footnote",
+     "text": "The defendant was indicted in the circuit court of Vermont, under embargo laws, for loading carriages"
+    },
+    {
+     "role": "footnote",
+     "text": "with pearl ashes, with intent to export them.   The jury found him guilty ; and that the ashes were worth"
+    },
+    {
+     "role": "footnote",
+     "text": "two hundred and eighty dollars.   The defendant moved in arrest of judgment, for defect in the finding ;"
+    },
+    {
+     "role": "footnote",
+     "text": "and on the question presented by the motion, the judges were divided in opinion ; which division was"
+    },
+    {
+     "role": "footnote",
+     "text": "certified to the supreme court.   United States v. John Tyler, 7 Cranch, 285 ;  2 Cond. Rep. 492."
+    },
+    {
+     "role": "footnote",
+     "text": "The question certified to the supreme court, from the circuit court of West Tennessee, was on the"
+    },
+    {
+     "role": "footnote",
+     "text": "construction of the act of the legislature of Tennessee, relative to possession of lands.   Patton's Lessee"
+    },
+    {
+     "role": "footnote",
+     "text": "v. Easton, 1 Wheat. 476 ; 3 Cond. Rep. 631."
+    },
+    {
+     "role": "footnote",
+     "text": "The supreme court of the United States has no jurisdiction of causes brought before it, on a certificate"
+    },
+    {
+     "role": "footnote",
+     "text": "of division of opinion of the judges of the circuit court, for the District of Columbia.   The appellate"
+    },
+    {
+     "role": "footnote",
+     "text": "jurisdiction extends, only, to the final judgment and decrees of that court.   Ross v. Triplett, 3 Wheat."
+    },
+    {
+     "role": "footnote",
+     "text": "600 ; 4 Cond. Rep. 351."
+    },
+    {
+     "role": "footnote",
+     "text": "The question referred to the supreme court, by a certificate of division between the judges of the cir-"
+    },
+    {
+     "role": "footnote",
+     "text": "cuit court, on facts stated by the court, was, whether the circuit court of Kentucky could take jurisdic-"
+    },
+    {
+     "role": "footnote",
+     "text": "tion of a case, when one of the grants for the land in controversy was issued out by the state of Virginia,"
+    },
+    {
+     "role": "footnote",
+     "text": "the other by the state of Kentucky, both grants being founded upon warrants and locations made under"
+    },
+    {
+     "role": "footnote",
+     "text": "the laws of Virginia.   Colson v. Lewis, 2 Wheat. 377 ;  4 Cond. Rep. 168."
+    },
+    {
+     "role": "footnote",
+     "text": "The facts of the case being found by a special verdict, and the judges being divided in opinion on"
+    },
+    {
+     "role": "footnote",
+     "text": "questions arising on the verdict, the questions were certified to the supreme court.   Somerville's Ex'rs"
+    },
+    {
+     "role": "footnote",
+     "text": "v. Hamilton, 4 Wheat. 230 ; 4 Cond. Rep. 436."
+    },
+    {
+     "role": "footnote",
+     "text": "The difference of opinion of the judges of the circuit court of Delaware, was, whether certain depo-"
+    },
+    {
+     "role": "footnote",
+     "text": "sitions taken under a commission issued from the circuit court of Delaware, could be read in evidence."
+    },
+    {
+     "role": "footnote",
+     "text": "This difference was certified to the supreme court, and the question decided.   Sergeant's Lessee v. Bid-"
+    },
+    {
+     "role": "footnote",
+     "text": "dle et al., 4 Wheat. 508 ; 4 Cond. Rep. 522."
+    },
+    {
+     "role": "footnote",
+     "text": "On an indictment for manslaughter, the defendant was found guilty, subject to the opinion of the court,"
+    },
+    {
+     "role": "footnote",
+     "text": "whether the circuit court of Pennsylvania had jurisdiction in a case where the offence was committed on"
+    },
+    {
+     "role": "footnote",
+     "text": "board an American ship, lying in the river Tigris, off Wampoa, in the empire of China.   On the question"
+    },
+    {
+     "role": "footnote",
+     "text": "of jurisdiction, the judges were divided in opinion, and the division was certified to the supreme court ;"
+    },
+    {
+     "role": "footnote",
+     "text": "and was decided in favour of the defendant.   United States v. Wiltberger, 5 Wheat. 76 ; 4 Cond. Rep. 593."
+    },
+    {
+     "role": "footnote",
+     "text": "The jury found a special verdict, in the circuit court of Virginia, on a trial of an indictment for"
+    },
+    {
+     "role": "footnote",
+     "text": "piracy ; and on a motion to arrest the judgment, the question whether the acts charged against the de-"
+    },
+    {
+     "role": "footnote",
+     "text": "fendant, and found by the jury, was a piracy by the law of nations, so as to be punishable under the act"
+    },
+    {
+     "role": "footnote",
+     "text": "of Congress of 3d March, 1819, was presented ; and the judges of the circuit court were divided in"
+    },
+    {
+     "role": "footnote",
+     "text": "opinion ; and thereupon, the question was certified to the supreme court.   United States v. Smith, 5"
+    },
+    {
+     "role": "footnote",
+     "text": "Wheat. 153 ; 4 Cond. Rep. 619."
+    },
+    {
+     "role": "footnote",
+     "text": "The prisoners were found guilty in the circuit court of Massachusetts, for murder on the high seas, out"
+    },
+    {
+     "role": "footnote",
+     "text": "of the jurisdiction of a particular state.   The counsel of the prisoners moved the court for a new trial"
+    },
+    {
+     "role": "footnote",
+     "text": "for the misdirection of the court on points of law which arose during the trial.   The judges of the court"
+    },
+    {
+     "role": "footnote",
+     "text": "being opposed in opinion upon questions presented with the motion ; the indictment, and a statement of"
+    },
+    {
+     "role": "footnote",
+     "text": "the evidence, were certified to the supreme court. United States v. Holmes et al., 5 Wheat. 412 ;  4 Cond."
+    },
+    {
+     "role": "footnote",
+     "text": "Rep. 708."
+    },
+    {
+     "role": "footnote",
+     "text": "The defendant was indicted in the circuit court of South Carolina, charging him with wickedly and"
+    },
+    {
+     "role": "footnote",
+     "text": "maliciously concealing a murder committed on the high seas, of which he had knowledge.   The judge"
+    },
+    {
+     "role": "footnote",
+     "text": "charged the jury, that the concealment, under the circumstances, was sufficient to convict the defendant,"
+    },
+    {
+     "role": "footnote",
+     "text": "and the jury found him guilty.   On a motion to arrest the judgment, and for a new trial, the judges were"
+    },
+    {
+     "role": "footnote",
+     "text": "opposed in opinion on the motion, which was certified to the supreme court.   The supreme court said, a"
+    },
+    {
+     "role": "footnote",
+     "text": "motion for a new trial is not a part of the proceedings of the case.   The question must be one which"
+    },
+    {
+     "role": "footnote",
+     "text": "arises in a cause depending before the court, relative to a proceeding belonging to the cause.   A motion"
+    },
+    {
+     "role": "footnote",
+     "text": "for a new trial has never before been brought to this court on a division of opinion in the circuit court."
+    },
+    {
+     "role": "footnote",
+     "text": "United States v. Daniel, 6 Wheat. 542 ; 5 Cond. Rep. 170."
+    },
+    {
+     "role": "footnote",
+     "text": "On a trial of a writ of right in the circuit court of Kentucky, the judges of the court differed in opin-"
+    },
+    {
+     "role": "footnote",
+     "text": "ion on questions as to the constitutionality of certain laws of Kentucky, giving to occupying claimants"
+    },
+    {
+     "role": "footnote",
+     "text": "of land, the value of their improvements.   The questions were certified to the supreme court.   Green v."
+    },
+    {
+     "role": "footnote",
+     "text": "Biddle, 8 Wheat. 1 ; 5 Cond. Rep. 369."
+    },
+    {
+     "role": "footnote",
+     "text": "The question certified from the circuit court of Maryland, in this case, was on a motion to instruct the"
+    },
+    {
+     "role": "footnote",
+     "text": "jury, that, on the whole evidence, the plaintiffs cannot sustain their demand.   All the evidence given on"
+    },
+    {
+     "role": "footnote",
+     "text": "the trial of the cause was before the supreme court.   The supreme court certified their opinion to the"
+    },
+    {
+     "role": "footnote",
+     "text": "circuit court.   Willinks v. Hollingsworth, 6 Wheat. 240 ; 5 Cond. Rep. 79."
+    },
+    {
+     "role": "footnote",
+     "text": "This was a case certified from the circuit court of New Jersey.   The question on which the court was"
+    },
+    {
+     "role": "footnote",
+     "text": "divided was, whether on the special pleadings and demurrer, an alteration in the bond of a collector of"
+    },
+    {
+     "role": "footnote",
+     "text": "taxes, made without the knowledge of his surety, by which the collector was appointed for nine instead"
+    },
+    {
+     "role": "footnote",
+     "text": "of eight townships, discharged the surety from liability for taxes collected after the alteration was made."
+    },
+    {
+     "role": "footnote",
+     "text": "Miller v. Stewart, 9 Wheat. 680 ; 5 Cond. Rep. 727."
+    },
+    {
+     "role": "footnote",
+     "text": "This cause was certified from the circuit court of the district of Kentucky, upon a division of opinion"
+    },
+    {
+     "role": "footnote",
+     "text": "between the judges of that court, on several questions which occurred, on a motion made by the plain-"
+    },
+    {
+     "role": "footnote",
+     "text": "tiff, to quash the marshal's return on an execution issued on a judgment obtained in that court on a replevin"
+    },
+    {
+     "role": "footnote",
+     "text": "bond ; and also to quash the replevin bond taken on the execution, for the causes assigned in the motion."
+    },
+    {
+     "role": "footnote",
+     "text": "The court divided in opinion on the points stated in the motion, and the same were certified to the su-"
+    },
+    {
+     "role": "footnote",
+     "text": "preme court.   Wayman et al. v. Southard, 10 Wheat. 1 ; 6 Cond. Rep. 1."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7608,
+    "output_tokens": 3676,
+    "cache_read_input_tokens": 770,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.13032,
+   "seconds": 104.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "160"
+    },
+    {
+     "role": "running-head",
+     "text": "SEVENTH CONGRESS.  SESS. 1. CH. 31.   1802."
+    },
+    {
+     "role": "sidenote",
+     "text": "Decision of the"
+    },
+    {
+     "role": "body",
+     "text": "of the supreme court, and their order in the premises, shall be remitted"
+    },
+    {
+     "role": "sidenote",
+     "text": "supreme to be"
+    },
+    {
+     "role": "body",
+     "text": "to the circuit court, and be there entered of record, and shall have effect"
+    },
+    {
+     "role": "sidenote",
+     "text": "remitted to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "circuit court and"
+    },
+    {
+     "role": "body",
+     "text": "according to the nature of the said judgment and order : Provided, that"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be of effect."
+    },
+    {
+     "role": "body",
+     "text": "nothing herein contained shall prevent the cause from proceeding, if, in"
+    },
+    {
+     "role": "footnote",
+     "text": "whether a writ of habere facias possessionem should be issued ;  the defendant, in the circuit court of"
+    },
+    {
+     "role": "footnote",
+     "text": "Maryland, having obtained, in a state court, an order for the injunction of the proceedings in the circuit"
+    },
+    {
+     "role": "footnote",
+     "text": "court.   The supreme court directed that the writ be issued.   M‘Kim v. Voorhies, 7 Cranch, 279 ; 2"
+    },
+    {
+     "role": "footnote",
+     "text": "Cond. Rep. 492."
+    },
+    {
+     "role": "footnote",
+     "text": "The defendant was indicted in the circuit court of Vermont, under embargo laws, for loading carriages"
+    },
+    {
+     "role": "footnote",
+     "text": "with pearl ashes, with intent to export them.   The jury found him guilty ;  and that the ashes were worth"
+    },
+    {
+     "role": "footnote",
+     "text": "two hundred and eighty dollars.   The defendant moved in arrest of judgment, for defect in the finding ;"
+    },
+    {
+     "role": "footnote",
+     "text": "and on the question presented by the motion, the judges were divided in opinion ; which division was"
+    },
+    {
+     "role": "footnote",
+     "text": "certified to the supreme court.   United States v. John Tyler, 7 Cranch, 285 ;  2 Cond. Rep. 492."
+    },
+    {
+     "role": "footnote",
+     "text": "The question certified to the supreme court, from the circuit court of West Tennessee, was on the"
+    },
+    {
+     "role": "footnote",
+     "text": "construction of the act of the legislature of Tennessee, relative to possession of lands.   Patton's Lessee"
+    },
+    {
+     "role": "footnote",
+     "text": "v. Easton, 1 Wheat. 476 ; 3 Cond. Rep. 631."
+    },
+    {
+     "role": "footnote",
+     "text": "The supreme court of the United States has no jurisdiction of causes brought before it, on a certificate"
+    },
+    {
+     "role": "footnote",
+     "text": "of division of opinion of the judges of the circuit court, for the District of Columbia.   The appellate"
+    },
+    {
+     "role": "footnote",
+     "text": "jurisdiction extends, only, to the final judgment and decrees of that court.   Ross v. Triplett, 3 Wheat."
+    },
+    {
+     "role": "footnote",
+     "text": "600 ; 4 Cond. Rep. 351."
+    },
+    {
+     "role": "footnote",
+     "text": "The question referred to the supreme court, by a certificate of division between the judges of the cir-"
+    },
+    {
+     "role": "footnote",
+     "text": "cuit court, on facts stated by the court, was, whether the circuit court of Kentucky could take jurisdic-"
+    },
+    {
+     "role": "footnote",
+     "text": "tion of a case, when one of the grants for the land in controversy was issued out by the state of Virginia,"
+    },
+    {
+     "role": "footnote",
+     "text": "the other by the state of Kentucky, both grants being founded upon warrants and locations made under"
+    },
+    {
+     "role": "footnote",
+     "text": "the laws of Virginia.   Colson v. Lewis, 2 Wheat. 377 ;  4 Cond. Rep. 168."
+    },
+    {
+     "role": "footnote",
+     "text": "The facts of the case being found by a special verdict, and the judges being divided in opinion on"
+    },
+    {
+     "role": "footnote",
+     "text": "questions arising on the verdict, the questions were certified to the supreme court.   Somerville's Ex'rs"
+    },
+    {
+     "role": "footnote",
+     "text": "v. Hamilton, 4 Wheat. 230 ; 4 Cond. Rep. 436."
+    },
+    {
+     "role": "footnote",
+     "text": "The difference of opinion of the judges of the circuit court of Delaware, was, whether certain depo-"
+    },
+    {
+     "role": "footnote",
+     "text": "sitions taken under a commission issued from the circuit court of Delaware, could be read in evidence."
+    },
+    {
+     "role": "footnote",
+     "text": "This difference was certified to the supreme court, and the question decided.   Sergeant's Lessee v. Bid-"
+    },
+    {
+     "role": "footnote",
+     "text": "dle et al., 4 Wheat. 508 ; 4 Cond. Rep. 522."
+    },
+    {
+     "role": "footnote",
+     "text": "On an indictment for manslaughter, the defendant was found guilty, subject to the opinion of the court,"
+    },
+    {
+     "role": "footnote",
+     "text": "whether the circuit court of Pennsylvania had jurisdiction in a case where the offence was committed on"
+    },
+    {
+     "role": "footnote",
+     "text": "board an American ship, lying in the river Tigris, off Wampoa, in the empire of China.   On the question"
+    },
+    {
+     "role": "footnote",
+     "text": "of jurisdiction, the judges were divided in opinion, and the division was certified to the supreme court ;"
+    },
+    {
+     "role": "footnote",
+     "text": "and was decided in favour of the defendant.   United States v. Wiltberger, 5 Wheat. 76 ; 4 Cond. Rep. 593."
+    },
+    {
+     "role": "footnote",
+     "text": "The jury found a special verdict, in the circuit court of Virginia, on a trial of an indictment for"
+    },
+    {
+     "role": "footnote",
+     "text": "piracy ; and on a motion to arrest the judgment, the question whether the acts charged against the de-"
+    },
+    {
+     "role": "footnote",
+     "text": "fendant, and found by the jury, was a piracy by the law of nations, so as to be punishable under the act"
+    },
+    {
+     "role": "footnote",
+     "text": "of Congress of 3d March, 1819, was presented ; and the judges of the circuit court were divided in"
+    },
+    {
+     "role": "footnote",
+     "text": "opinion ; and thereupon, the question was certified to the supreme court.   United States v. Smith, 5"
+    },
+    {
+     "role": "footnote",
+     "text": "Wheat. 153 ;  4 Cond. Rep. 619."
+    },
+    {
+     "role": "footnote",
+     "text": "The prisoners were found guilty in the circuit court of Massachusetts, for murder on the high seas, out"
+    },
+    {
+     "role": "footnote",
+     "text": "of the jurisdiction of a particular state.   The counsel of the prisoners moved the court for a new trial"
+    },
+    {
+     "role": "footnote",
+     "text": "for the misdirection of the court on points of law which arose during the trial.   The judges of the court"
+    },
+    {
+     "role": "footnote",
+     "text": "being opposed in opinion upon questions presented with the motion ; the indictment, and a statement of"
+    },
+    {
+     "role": "footnote",
+     "text": "the evidence, were certified to the supreme court.   United States v. Holmes et al., 5 Wheat. 412 ;  4 Cond."
+    },
+    {
+     "role": "footnote",
+     "text": "Rep. 708."
+    },
+    {
+     "role": "footnote",
+     "text": "The defendant was indicted in the circuit court of South Carolina, charging him with wickedly and"
+    },
+    {
+     "role": "footnote",
+     "text": "maliciously concealing a murder committed on the high seas, of which he had knowledge.   The judge"
+    },
+    {
+     "role": "footnote",
+     "text": "charged the jury, that the concealment, under the circumstances, was sufficient to convict the defendant,"
+    },
+    {
+     "role": "footnote",
+     "text": "and the jury found him guilty.   On a motion to arrest the judgment, and for a new trial, the judges were"
+    },
+    {
+     "role": "footnote",
+     "text": "opposed in opinion on the motion, which was certified to the supreme court.   The supreme court said, a"
+    },
+    {
+     "role": "footnote",
+     "text": "motion for a new trial is not a part of the proceedings of the case.   The question must be one which"
+    },
+    {
+     "role": "footnote",
+     "text": "arises in a cause depending before the court, relative to a proceeding belonging to the cause.   A motion"
+    },
+    {
+     "role": "footnote",
+     "text": "for a new trial has never before been brought to this court on a division of opinion in the circuit court."
+    },
+    {
+     "role": "footnote",
+     "text": "United States v. Daniel, 6 Wheat. 542 ;  5 Cond. Rep. 170."
+    },
+    {
+     "role": "footnote",
+     "text": "On a trial of a writ of right in the circuit court of Kentucky, the judges of the court differed in opin-"
+    },
+    {
+     "role": "footnote",
+     "text": "ion on questions as to the constitutionality of certain laws of Kentucky, giving to occupying claimants"
+    },
+    {
+     "role": "footnote",
+     "text": "of land, the value of their improvements.   The questions were certified to the supreme court.   Green v."
+    },
+    {
+     "role": "footnote",
+     "text": "Biddle, 8 Wheat. 1 ; 5 Cond. Rep. 369."
+    },
+    {
+     "role": "footnote",
+     "text": "The question certified from the circuit court of Maryland, in this case, was on a motion to instruct the"
+    },
+    {
+     "role": "footnote",
+     "text": "jury, that, on the whole evidence, the plaintiffs cannot sustain their demand.   All the evidence given on"
+    },
+    {
+     "role": "footnote",
+     "text": "the trial of the cause was before the supreme court.   The supreme court certified their opinion to the"
+    },
+    {
+     "role": "footnote",
+     "text": "circuit court.   Willinks v. Hollingsworth, 6 Wheat. 240 ; 5 Cond. Rep. 79."
+    },
+    {
+     "role": "footnote",
+     "text": "This was a case certified from the circuit court of New Jersey.   The question on which the court was"
+    },
+    {
+     "role": "footnote",
+     "text": "divided was, whether on the special pleadings and demurrer, an alteration in the bond of a collector of"
+    },
+    {
+     "role": "footnote",
+     "text": "taxes, made without the knowledge of his surety, by which the collector was appointed for nine instead"
+    },
+    {
+     "role": "footnote",
+     "text": "of eight townships, discharged the surety from liability for taxes collected after the alteration was made."
+    },
+    {
+     "role": "footnote",
+     "text": "Miller v. Stewart, 9 Wheat. 680 ; 5 Cond. Rep. 727."
+    },
+    {
+     "role": "footnote",
+     "text": "This cause was certified from the circuit court of the district of Kentucky, upon a division of opinion"
+    },
+    {
+     "role": "footnote",
+     "text": "between the judges of that court, on several questions which occurred, on a motion made by the plain-"
+    },
+    {
+     "role": "footnote",
+     "text": "tiff, to quash the marshal's return on an execution issued on a judgment obtained in that court on a replevin"
+    },
+    {
+     "role": "footnote",
+     "text": "bond ; and also to quash the replevin bond taken on the execution, for the causes assigned in the motion."
+    },
+    {
+     "role": "footnote",
+     "text": "The court divided in opinion on the points stated in the motion, and the same were certified to the su-"
+    },
+    {
+     "role": "footnote",
+     "text": "preme court.   Wayman et al. v. Southard, 10 Wheat. 1 ; 6 Cond. Rep. 1."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7611,
+    "output_tokens": 3690,
+    "cache_read_input_tokens": 712,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.13066,
+   "seconds": 50.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "disagreements": [
+   {
+    "a": "160\tSEVENTH CONGRESS.  Sess. 1. Ch. 31.  1802.",
+    "b": "160 (page-number) + SEVENTH CONGRESS.  SESS. 1. CH. 31.   1802. (running-head)",
+    "kept": "160\tSEVENTH CONGRESS.  SESS. 1. CH. 31.  1802.",
+    "reason": "The image shows \"160\" printed on the same line as the running head, so it is kept as one running-head line; the small capitals of SESS. and CH. are rendered as capitals per convention."
+   },
+   {
+    "a": "Wheat. 153 ; 4 Cond. Rep. 619.",
+    "b": "Wheat. 153 ;  4 Cond. Rep. 619.",
+    "kept": "Wheat. 153 ; 4 Cond. Rep. 619.",
+    "reason": "Only interword spacing differs; single space after the semicolon matches the printed spacing."
+   },
+   {
+    "a": "United States v. Daniel, 6 Wheat. 542 ; 5 Cond. Rep. 170.",
+    "b": "United States v. Daniel, 6 Wheat. 542 ;  5 Cond. Rep. 170.",
+    "kept": "United States v. Daniel, 6 Wheat. 542 ; 5 Cond. Rep. 170.",
+    "reason": "Spacing-only difference; normal single space kept."
+   },
+   {
+    "a": "the evidence, were certified to the supreme court. United States v. Holmes et al., 5 Wheat. 412 ;  4 Cond.",
+    "b": "the evidence, were certified to the supreme court.   United States v. Holmes et al., 5 Wheat. 412 ;  4 Cond.",
+    "kept": "the evidence, were certified to the supreme court.   United States v. Holmes et al., 5 Wheat. 412 ;  4 Cond.",
+    "reason": "Image shows the usual wide sentence gap after \"court.\", as in B."
+   }
+  ],
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 14193,
+   "output_tokens": 5062,
+   "cache_read_input_tokens": 885,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.19796,
+  "seconds": 53.7,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "high",
+  "reinserted": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "160\tSEVENTH CONGRESS.  SESS. 1. CH. 31.  1802."
+  },
+  {
+   "role": "sidenote",
+   "text": "Decision of the"
+  },
+  {
+   "role": "body",
+   "text": "of the supreme court, and their order in the premises, shall be remitted"
+  },
+  {
+   "role": "sidenote",
+   "text": "supreme to be"
+  },
+  {
+   "role": "body",
+   "text": "to the circuit court, and be there entered of record, and shall have effect"
+  },
+  {
+   "role": "sidenote",
+   "text": "remitted to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "circuit court and"
+  },
+  {
+   "role": "body",
+   "text": "according to the nature of the said judgment and order : Provided, that"
+  },
+  {
+   "role": "sidenote",
+   "text": "to be of effect."
+  },
+  {
+   "role": "body",
+   "text": "nothing herein contained shall prevent the cause from proceeding, if, in"
+  },
+  {
+   "role": "footnote",
+   "text": "whether a writ of habere facias possessionem should be issued ; the defendant, in the circuit court of"
+  },
+  {
+   "role": "footnote",
+   "text": "Maryland, having obtained, in a state court, an order for the injunction of the proceedings in the circuit"
+  },
+  {
+   "role": "footnote",
+   "text": "court.   The supreme court directed that the writ be issued.   M‘Kim v. Voorhies, 7 Cranch, 279 ; 2"
+  },
+  {
+   "role": "footnote",
+   "text": "Cond. Rep. 492."
+  },
+  {
+   "role": "footnote",
+   "text": "The defendant was indicted in the circuit court of Vermont, under embargo laws, for loading carriages"
+  },
+  {
+   "role": "footnote",
+   "text": "with pearl ashes, with intent to export them.   The jury found him guilty ; and that the ashes were worth"
+  },
+  {
+   "role": "footnote",
+   "text": "two hundred and eighty dollars.   The defendant moved in arrest of judgment, for defect in the finding ;"
+  },
+  {
+   "role": "footnote",
+   "text": "and on the question presented by the motion, the judges were divided in opinion ; which division was"
+  },
+  {
+   "role": "footnote",
+   "text": "certified to the supreme court.   United States v. John Tyler, 7 Cranch, 285 ;  2 Cond. Rep. 492."
+  },
+  {
+   "role": "footnote",
+   "text": "The question certified to the supreme court, from the circuit court of West Tennessee, was on the"
+  },
+  {
+   "role": "footnote",
+   "text": "construction of the act of the legislature of Tennessee, relative to possession of lands.   Patton's Lessee"
+  },
+  {
+   "role": "footnote",
+   "text": "v. Easton, 1 Wheat. 476 ; 3 Cond. Rep. 631."
+  },
+  {
+   "role": "footnote",
+   "text": "The supreme court of the United States has no jurisdiction of causes brought before it, on a certificate"
+  },
+  {
+   "role": "footnote",
+   "text": "of division of opinion of the judges of the circuit court, for the District of Columbia.   The appellate"
+  },
+  {
+   "role": "footnote",
+   "text": "jurisdiction extends, only, to the final judgment and decrees of that court.   Ross v. Triplett, 3 Wheat."
+  },
+  {
+   "role": "footnote",
+   "text": "600 ; 4 Cond. Rep. 351."
+  },
+  {
+   "role": "footnote",
+   "text": "The question referred to the supreme court, by a certificate of division between the judges of the cir-"
+  },
+  {
+   "role": "footnote",
+   "text": "cuit court, on facts stated by the court, was, whether the circuit court of Kentucky could take jurisdic-"
+  },
+  {
+   "role": "footnote",
+   "text": "tion of a case, when one of the grants for the land in controversy was issued out by the state of Virginia,"
+  },
+  {
+   "role": "footnote",
+   "text": "the other by the state of Kentucky, both grants being founded upon warrants and locations made under"
+  },
+  {
+   "role": "footnote",
+   "text": "the laws of Virginia.   Colson v. Lewis, 2 Wheat. 377 ;  4 Cond. Rep. 168."
+  },
+  {
+   "role": "footnote",
+   "text": "The facts of the case being found by a special verdict, and the judges being divided in opinion on"
+  },
+  {
+   "role": "footnote",
+   "text": "questions arising on the verdict, the questions were certified to the supreme court.   Somerville's Ex'rs"
+  },
+  {
+   "role": "footnote",
+   "text": "v. Hamilton, 4 Wheat. 230 ; 4 Cond. Rep. 436."
+  },
+  {
+   "role": "footnote",
+   "text": "The difference of opinion of the judges of the circuit court of Delaware, was, whether certain depo-"
+  },
+  {
+   "role": "footnote",
+   "text": "sitions taken under a commission issued from the circuit court of Delaware, could be read in evidence."
+  },
+  {
+   "role": "footnote",
+   "text": "This difference was certified to the supreme court, and the question decided.   Sergeant's Lessee v. Bid-"
+  },
+  {
+   "role": "footnote",
+   "text": "dle et al., 4 Wheat. 508 ; 4 Cond. Rep. 522."
+  },
+  {
+   "role": "footnote",
+   "text": "On an indictment for manslaughter, the defendant was found guilty, subject to the opinion of the court,"
+  },
+  {
+   "role": "footnote",
+   "text": "whether the circuit court of Pennsylvania had jurisdiction in a case where the offence was committed on"
+  },
+  {
+   "role": "footnote",
+   "text": "board an American ship, lying in the river Tigris, off Wampoa, in the empire of China.   On the question"
+  },
+  {
+   "role": "footnote",
+   "text": "of jurisdiction, the judges were divided in opinion, and the division was certified to the supreme court ;"
+  },
+  {
+   "role": "footnote",
+   "text": "and was decided in favour of the defendant.   United States v. Wiltberger, 5 Wheat. 76 ; 4 Cond. Rep. 593."
+  },
+  {
+   "role": "footnote",
+   "text": "The jury found a special verdict, in the circuit court of Virginia, on a trial of an indictment for"
+  },
+  {
+   "role": "footnote",
+   "text": "piracy ; and on a motion to arrest the judgment, the question whether the acts charged against the de-"
+  },
+  {
+   "role": "footnote",
+   "text": "fendant, and found by the jury, was a piracy by the law of nations, so as to be punishable under the act"
+  },
+  {
+   "role": "footnote",
+   "text": "of Congress of 3d March, 1819, was presented ; and the judges of the circuit court were divided in"
+  },
+  {
+   "role": "footnote",
+   "text": "opinion ; and thereupon, the question was certified to the supreme court.   United States v. Smith, 5"
+  },
+  {
+   "role": "footnote",
+   "text": "Wheat. 153 ; 4 Cond. Rep. 619."
+  },
+  {
+   "role": "footnote",
+   "text": "The prisoners were found guilty in the circuit court of Massachusetts, for murder on the high seas, out"
+  },
+  {
+   "role": "footnote",
+   "text": "of the jurisdiction of a particular state.   The counsel of the prisoners moved the court for a new trial"
+  },
+  {
+   "role": "footnote",
+   "text": "for the misdirection of the court on points of law which arose during the trial.   The judges of the court"
+  },
+  {
+   "role": "footnote",
+   "text": "being opposed in opinion upon questions presented with the motion ; the indictment, and a statement of"
+  },
+  {
+   "role": "footnote",
+   "text": "the evidence, were certified to the supreme court.   United States v. Holmes et al., 5 Wheat. 412 ;  4 Cond."
+  },
+  {
+   "role": "footnote",
+   "text": "Rep. 708."
+  },
+  {
+   "role": "footnote",
+   "text": "The defendant was indicted in the circuit court of South Carolina, charging him with wickedly and"
+  },
+  {
+   "role": "footnote",
+   "text": "maliciously concealing a murder committed on the high seas, of which he had knowledge.   The judge"
+  },
+  {
+   "role": "footnote",
+   "text": "charged the jury, that the concealment, under the circumstances, was sufficient to convict the defendant,"
+  },
+  {
+   "role": "footnote",
+   "text": "and the jury found him guilty.   On a motion to arrest the judgment, and for a new trial, the judges were"
+  },
+  {
+   "role": "footnote",
+   "text": "opposed in opinion on the motion, which was certified to the supreme court.   The supreme court said, a"
+  },
+  {
+   "role": "footnote",
+   "text": "motion for a new trial is not a part of the proceedings of the case.   The question must be one which"
+  },
+  {
+   "role": "footnote",
+   "text": "arises in a cause depending before the court, relative to a proceeding belonging to the cause.   A motion"
+  },
+  {
+   "role": "footnote",
+   "text": "for a new trial has never before been brought to this court on a division of opinion in the circuit court."
+  },
+  {
+   "role": "footnote",
+   "text": "United States v. Daniel, 6 Wheat. 542 ; 5 Cond. Rep. 170."
+  },
+  {
+   "role": "footnote",
+   "text": "On a trial of a writ of right in the circuit court of Kentucky, the judges of the court differed in opin-"
+  },
+  {
+   "role": "footnote",
+   "text": "ion on questions as to the constitutionality of certain laws of Kentucky, giving to occupying claimants"
+  },
+  {
+   "role": "footnote",
+   "text": "of land, the value of their improvements.   The questions were certified to the supreme court.   Green v."
+  },
+  {
+   "role": "footnote",
+   "text": "Biddle, 8 Wheat. 1 ; 5 Cond. Rep. 369."
+  },
+  {
+   "role": "footnote",
+   "text": "The question certified from the circuit court of Maryland, in this case, was on a motion to instruct the"
+  },
+  {
+   "role": "footnote",
+   "text": "jury, that, on the whole evidence, the plaintiffs cannot sustain their demand.   All the evidence given on"
+  },
+  {
+   "role": "footnote",
+   "text": "the trial of the cause was before the supreme court.   The supreme court certified their opinion to the"
+  },
+  {
+   "role": "footnote",
+   "text": "circuit court.   Willinks v. Hollingsworth, 6 Wheat. 240 ; 5 Cond. Rep. 79."
+  },
+  {
+   "role": "footnote",
+   "text": "This was a case certified from the circuit court of New Jersey.   The question on which the court was"
+  },
+  {
+   "role": "footnote",
+   "text": "divided was, whether on the special pleadings and demurrer, an alteration in the bond of a collector of"
+  },
+  {
+   "role": "footnote",
+   "text": "taxes, made without the knowledge of his surety, by which the collector was appointed for nine instead"
+  },
+  {
+   "role": "footnote",
+   "text": "of eight townships, discharged the surety from liability for taxes collected after the alteration was made."
+  },
+  {
+   "role": "footnote",
+   "text": "Miller v. Stewart, 9 Wheat. 680 ; 5 Cond. Rep. 727."
+  },
+  {
+   "role": "footnote",
+   "text": "This cause was certified from the circuit court of the district of Kentucky, upon a division of opinion"
+  },
+  {
+   "role": "footnote",
+   "text": "between the judges of that court, on several questions which occurred, on a motion made by the plain-"
+  },
+  {
+   "role": "footnote",
+   "text": "tiff, to quash the marshal's return on an execution issued on a judgment obtained in that court on a replevin"
+  },
+  {
+   "role": "footnote",
+   "text": "bond ; and also to quash the replevin bond taken on the execution, for the causes assigned in the motion."
+  },
+  {
+   "role": "footnote",
+   "text": "The court divided in opinion on the points stated in the motion, and the same were certified to the su-"
+  },
+  {
+   "role": "footnote",
+   "text": "preme court.   Wayman et al. v. Southard, 10 Wheat. 1 ; 6 Cond. Rep. 1."
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 29412,
+  "output_tokens": 12428,
+  "cache_read_input_tokens": 2367,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.45894,
+ "seconds": 208.5,
+ "created": "2026-09-08T10:49:19"
+}

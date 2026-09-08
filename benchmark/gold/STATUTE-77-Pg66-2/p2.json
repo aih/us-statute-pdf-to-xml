@@ -1,0 +1,1044 @@
+{
+ "granule_id": "STATUTE-77-Pg66-2",
+ "package_id": "STATUTE-77",
+ "volume": 77,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to authorize the Secretary of Defense to lend certain Army, Navy, and Air Force equipment and provide certain services to the Boy Scouts of America for use in the 1964 National Jamboree, and fo",
+ "date_issued": "1963-06-21",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "67",
+ "image": "data/gold/STATUTE-77-Pg66-2/p2.png",
+ "image_sha256": "76f6c139854fd43d7dc91fe6225d0f242e6bbf811f3c43ab06c56a3274578717",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "77 STAT. ]        PUBLIC LAW 88-43-JUNE 21, 1963                    67"
+    },
+    {
+     "role": "sidenote",
+     "text": "Bond."
+    },
+    {
+     "role": "body",
+     "text": "(c) The Secretary of Defense, before delivering such property,"
+    },
+    {
+     "role": "body",
+     "text": "shall take from the Boy Scouts of America a good and sufficient bond"
+    },
+    {
+     "role": "body",
+     "text": "for the safe return of such property in good order and condition, and"
+    },
+    {
+     "role": "body",
+     "text": "the whole without expense to the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Logistical"
+    },
+    {
+     "role": "sidenote",
+     "text": "services."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The Secretary of Defense is hereby authorized, under such"
+    },
+    {
+     "role": "body",
+     "text": "regulations as he may prescribe, to provide to the Boy Scouts of"
+    },
+    {
+     "role": "body",
+     "text": "America, in support of the encampment referred to in subsection (a)"
+    },
+    {
+     "role": "body",
+     "text": "of the first section of this Act, such communication, medical, engineer-"
+    },
+    {
+     "role": "body",
+     "text": "ing, protective, and other logistical services as may be necessary or"
+    },
+    {
+     "role": "body",
+     "text": "useful to the extent that such services are available and the providing"
+    },
+    {
+     "role": "body",
+     "text": "of them will not jeopardize the national defense program."
+    },
+    {
+     "role": "sidenote",
+     "text": "Agency assist-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ance."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. Each department of the Federal Government is hereby"
+    },
+    {
+     "role": "body",
+     "text": "authorized under such regulations as may be prescribed by the Secre-"
+    },
+    {
+     "role": "body",
+     "text": "tary thereof to assist the Boy Scouts of America in the carrying out"
+    },
+    {
+     "role": "body",
+     "text": "and the fulfillment of the plans for the encampment referred to in"
+    },
+    {
+     "role": "body",
+     "text": "subsection (a) of the first section of this Act."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 21, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-42"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 21, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6441]"
+    },
+    {
+     "role": "body",
+     "text": "To amend Public Law 86-272, as amended, with respect to the reporting date."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 202 of"
+    },
+    {
+     "role": "sidenote",
+     "text": "15 USC 381"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 86-272 (73 Stat. 556), as amended, is amended to read as"
+    },
+    {
+     "role": "body",
+     "text": "follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 202. The committees shall report to their respective Houses"
+    },
+    {
+     "role": "body",
+     "text": "the results of such studies, together with their proposals for legislation"
+    },
+    {
+     "role": "body",
+     "text": "on or before March 31, 1964.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved June 21, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-43"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 21, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 2821]"
+    },
+    {
+     "role": "body",
+     "text": "To authorize modification of the repayment contract with the Grand Valley"
+    },
+    {
+     "role": "body",
+     "text": "Water Users' Association."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Grand Valley"
+    },
+    {
+     "role": "sidenote",
+     "text": "Water Users'"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Secretary"
+    },
+    {
+     "role": "sidenote",
+     "text": "Association,"
+    },
+    {
+     "role": "body",
+     "text": "of the Interior is authorized, pursuant to subsection 8(i) of the Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Colo., contract"
+    },
+    {
+     "role": "body",
+     "text": "of August 4, 1939 (53 Stat. 1187), to modify the contractual obligation"
+    },
+    {
+     "role": "sidenote",
+     "text": "modification."
+    },
+    {
+     "role": "body",
+     "text": "of the Grand Valley Water Users' Association (1) by deducting from"
+    },
+    {
+     "role": "sidenote",
+     "text": "43 USC 485g."
+    },
+    {
+     "role": "body",
+     "text": "such obligation the unaccrued construction charges in the amount of"
+    },
+    {
+     "role": "body",
+     "text": "$109,158.19 against one thousand three hundred sixty-six and two-"
+    },
+    {
+     "role": "body",
+     "text": "tenths acres originally classified as productive and now reclassified as"
+    },
+    {
+     "role": "body",
+     "text": "permanently unproductive; (2) by crediting to the next annual"
+    },
+    {
+     "role": "body",
+     "text": "installment from the Grand Valley Water Users' Association due to"
+    },
+    {
+     "role": "body",
+     "text": "the United States under its contract of January 27, 1945, after enact-"
+    },
+    {
+     "role": "body",
+     "text": "ment of this Act, the sum of $4,531.93, which represents construction"
+    },
+    {
+     "role": "body",
+     "text": "charges paid by the association on one hundred twenty-three and six-"
+    },
+    {
+     "role": "body",
+     "text": "tenths acres of land in canceled farm units included in the above"
+    },
+    {
+     "role": "body",
+     "text": "acreage."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 21, 1963."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 1952,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07623,
+   "seconds": 22.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "77 STAT. ]        PUBLIC LAW 88-43–JUNE 21, 1963"
+    },
+    {
+     "role": "page-number",
+     "text": "67"
+    },
+    {
+     "role": "body",
+     "text": "(c) The Secretary of Defense, before delivering such property,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Bond."
+    },
+    {
+     "role": "body",
+     "text": "shall take from the Boy Scouts of America a good and sufficient bond"
+    },
+    {
+     "role": "body",
+     "text": "for the safe return of such property in good order and condition, and"
+    },
+    {
+     "role": "body",
+     "text": "the whole without expense to the United States."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The Secretary of Defense is hereby authorized, under such"
+    },
+    {
+     "role": "sidenote",
+     "text": "Logistical"
+    },
+    {
+     "role": "body",
+     "text": "regulations as he may prescribe, to provide to the Boy Scouts of"
+    },
+    {
+     "role": "sidenote",
+     "text": "services."
+    },
+    {
+     "role": "body",
+     "text": "America, in support of the encampment referred to in subsection (a)"
+    },
+    {
+     "role": "body",
+     "text": "of the first section of this Act, such communication, medical, engineer-"
+    },
+    {
+     "role": "body",
+     "text": "ing, protective, and other logistical services as may be necessary or"
+    },
+    {
+     "role": "body",
+     "text": "useful to the extent that such services are available and the providing"
+    },
+    {
+     "role": "body",
+     "text": "of them will not jeopardize the national defense program."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. Each department of the Federal Government is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "Agency assist-"
+    },
+    {
+     "role": "body",
+     "text": "authorized under such regulations as may be prescribed by the Secre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ance."
+    },
+    {
+     "role": "body",
+     "text": "tary thereof to assist the Boy Scouts of America in the carrying out"
+    },
+    {
+     "role": "body",
+     "text": "and the fulfillment of the plans for the encampment referred to in"
+    },
+    {
+     "role": "body",
+     "text": "subsection (a) of the first section of this Act."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 21, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-42"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 21, 1963"
+    },
+    {
+     "role": "body",
+     "text": "To amend Public Law 86–272, as amended, with respect to the reporting date."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6441]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 202 of"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 86–272 (73 Stat. 556), as amended, is amended to read as"
+    },
+    {
+     "role": "sidenote",
+     "text": "15 USC 381"
+    },
+    {
+     "role": "body",
+     "text": "follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 202. The committees shall report to their respective Houses"
+    },
+    {
+     "role": "body",
+     "text": "the results of such studies, together with their proposals for legislation"
+    },
+    {
+     "role": "body",
+     "text": "on or before March 31, 1964.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved June 21, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-43"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 21, 1963"
+    },
+    {
+     "role": "body",
+     "text": "To authorize modification of the repayment contract with the Grand Valley"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 2821]"
+    },
+    {
+     "role": "body",
+     "text": "Water Users' Association."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Secretary"
+    },
+    {
+     "role": "sidenote",
+     "text": "Grand Valley"
+    },
+    {
+     "role": "body",
+     "text": "of the Interior is authorized, pursuant to subsection 8(i) of the Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Water Users'"
+    },
+    {
+     "role": "body",
+     "text": "of August 4, 1939 (53 Stat. 1187), to modify the contractual obligation"
+    },
+    {
+     "role": "sidenote",
+     "text": "Association,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Colo., contract"
+    },
+    {
+     "role": "body",
+     "text": "of the Grand Valley Water Users' Association (1) by deducting from"
+    },
+    {
+     "role": "sidenote",
+     "text": "modification."
+    },
+    {
+     "role": "body",
+     "text": "such obligation the unaccrued construction charges in the amount of"
+    },
+    {
+     "role": "sidenote",
+     "text": "43 USC 485g."
+    },
+    {
+     "role": "body",
+     "text": "$109,158.19 against one thousand three hundred sixty-six and two-"
+    },
+    {
+     "role": "body",
+     "text": "tenths acres originally classified as productive and now reclassified as"
+    },
+    {
+     "role": "body",
+     "text": "permanently unproductive; (2) by crediting to the next annual"
+    },
+    {
+     "role": "body",
+     "text": "installment from the Grand Valley Water Users' Association due to"
+    },
+    {
+     "role": "body",
+     "text": "the United States under its contract of January 27, 1945, after enact-"
+    },
+    {
+     "role": "body",
+     "text": "ment of this Act, the sum of $4,531.93, which represents construction"
+    },
+    {
+     "role": "body",
+     "text": "charges paid by the association on one hundred twenty-three and six-"
+    },
+    {
+     "role": "body",
+     "text": "tenths acres of land in canceled farm units included in the above"
+    },
+    {
+     "role": "body",
+     "text": "acreage."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 21, 1963."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 1965,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07655,
+   "seconds": 22.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11989,
+   "output_tokens": 2885,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.13249,
+  "seconds": 35.7,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "77 STAT. ]        PUBLIC LAW 88-43-JUNE 21, 1963                    67",
+    "b": "77 STAT. ]        PUBLIC LAW 88-43–JUNE 21, 1963\n67\n(c) The Secretary of Defense, before delivering such property,",
+    "kept": "77 STAT. ]        PUBLIC LAW 88-43-JUNE 21, 1963\n67",
+    "reason": "The head line carries the title at left and the folio 67 at the far right; the folio is recorded as a separate page-number line."
+   },
+   {
+    "run": 2,
+    "a": "(c) The Secretary of Defense, before delivering such property,",
+    "b": "",
+    "kept": "(c) The Secretary of Defense, before delivering such property,",
+    "reason": "This body line is printed once, after the marginal note 'Bond.' is keyed to it; sidenotes are placed before the line they mark."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "SEC. 2. The Secretary of Defense is hereby authorized, under such",
+    "kept": "",
+    "reason": "Duplicate placement; the SEC. 2 line belongs after its sidenotes."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "regulations as he may prescribe, to provide to the Boy Scouts of",
+    "kept": "",
+    "reason": "Duplicate placement of the 'regulations as he may prescribe' line."
+   },
+   {
+    "run": 5,
+    "a": "SEC. 2. The Secretary of Defense is hereby authorized, under such\nregulations as he may prescribe, to provide to the Boy Scouts of",
+    "b": "",
+    "kept": "SEC. 2. The Secretary of Defense is hereby authorized, under such\nregulations as he may prescribe, to provide to the Boy Scouts of",
+    "reason": "These two body lines follow the 'Logistical services.' sidenote block."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "SEC. 3. Each department of the Federal Government is hereby",
+    "kept": "",
+    "reason": "Duplicate placement; SEC. 3 line belongs after its sidenotes."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "authorized under such regulations as may be prescribed by the Secre-",
+    "kept": "",
+    "reason": "Duplicate placement of the 'authorized under such regulations' line."
+   },
+   {
+    "run": 8,
+    "a": "SEC. 3. Each department of the Federal Government is hereby\nauthorized under such regulations as may be prescribed by the Secre-",
+    "b": "",
+    "kept": "SEC. 3. Each department of the Federal Government is hereby\nauthorized under such regulations as may be prescribed by the Secre-",
+    "reason": "These body lines follow the 'Agency assistance.' sidenote block."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "To amend Public Law 86–272, as amended, with respect to the reporting date.",
+    "kept": "",
+    "reason": "Duplicate placement; the act title follows the date/bill sidenotes."
+   },
+   {
+    "run": 10,
+    "a": "To amend Public Law 86-272, as amended, with respect to the reporting date.",
+    "b": "",
+    "kept": "To amend Public Law 86–272, as amended, with respect to the reporting date.",
+    "reason": "Title line of Public Law 88-42, printed once after the sidenotes."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "Public Law 86–272 (73 Stat. 556), as amended, is amended to read as",
+    "kept": "",
+    "reason": "Duplicate placement of the 'Public Law 86–272 (73 Stat. 556)' line."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "follows:",
+    "kept": "",
+    "reason": "Duplicate placement of the 'follows:' line."
+   },
+   {
+    "run": 13,
+    "a": "Public Law 86-272 (73 Stat. 556), as amended, is amended to read as\nfollows:",
+    "b": "",
+    "kept": "Public Law 86–272 (73 Stat. 556), as amended, is amended to read as\nfollows:",
+    "reason": "These body lines follow the '15 USC 381 note.' sidenote block."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "To authorize modification of the repayment contract with the Grand Valley",
+    "kept": "",
+    "reason": "Duplicate placement; the title line follows the date/bill sidenotes."
+   },
+   {
+    "run": 15,
+    "a": "To authorize modification of the repayment contract with the Grand Valley",
+    "b": "",
+    "kept": "To authorize modification of the repayment contract with the Grand Valley",
+    "reason": "First line of the Public Law 88-43 title, printed once."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "United States of America in Congress assembled, That the Secretary",
+    "kept": "",
+    "reason": "Duplicate placement of the 'United States of America in Congress assembled' line."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "of the Interior is authorized, pursuant to subsection 8(i) of the Act",
+    "kept": "",
+    "reason": "Duplicate placement of the 'of the Interior is authorized' line."
+   },
+   {
+    "run": 18,
+    "a": "United States of America in Congress assembled, That the Secretary",
+    "b": "of August 4, 1939 (53 Stat. 1187), to modify the contractual obligation",
+    "kept": "United States of America in Congress assembled, That the Secretary",
+    "reason": "Body line printed here, opposite the 'Grand Valley' sidenote."
+   },
+   {
+    "run": 19,
+    "a": "of the Interior is authorized, pursuant to subsection 8(i) of the Act",
+    "b": "",
+    "kept": "of the Interior is authorized, pursuant to subsection 8(i) of the Act",
+    "reason": "Body line printed here, opposite the 'Water Users'' sidenote."
+   },
+   {
+    "run": 20,
+    "a": "of August 4, 1939 (53 Stat. 1187), to modify the contractual obligation",
+    "b": "of the Grand Valley Water Users' Association (1) by deducting from",
+    "kept": "of August 4, 1939 (53 Stat. 1187), to modify the contractual obligation",
+    "reason": "Body line printed here, opposite the 'Association, Colo., contract' sidenotes."
+   },
+   {
+    "run": 21,
+    "a": "of the Grand Valley Water Users' Association (1) by deducting from",
+    "b": "such obligation the unaccrued construction charges in the amount of",
+    "kept": "of the Grand Valley Water Users' Association (1) by deducting from",
+    "reason": "Body line printed here, opposite the 'modification.' sidenote."
+   },
+   {
+    "run": 22,
+    "a": "such obligation the unaccrued construction charges in the amount of",
+    "b": "",
+    "kept": "such obligation the unaccrued construction charges in the amount of",
+    "reason": "Body line printed here, opposite the '43 USC 485g.' sidenote."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "77 STAT. ]        PUBLIC LAW 88-43-JUNE 21, 1963"
+  },
+  {
+   "role": "page-number",
+   "text": "67"
+  },
+  {
+   "role": "sidenote",
+   "text": "Bond."
+  },
+  {
+   "role": "body",
+   "text": "(c) The Secretary of Defense, before delivering such property,"
+  },
+  {
+   "role": "body",
+   "text": "shall take from the Boy Scouts of America a good and sufficient bond"
+  },
+  {
+   "role": "body",
+   "text": "for the safe return of such property in good order and condition, and"
+  },
+  {
+   "role": "body",
+   "text": "the whole without expense to the United States."
+  },
+  {
+   "role": "sidenote",
+   "text": "Logistical"
+  },
+  {
+   "role": "sidenote",
+   "text": "services."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The Secretary of Defense is hereby authorized, under such"
+  },
+  {
+   "role": "body",
+   "text": "regulations as he may prescribe, to provide to the Boy Scouts of"
+  },
+  {
+   "role": "body",
+   "text": "America, in support of the encampment referred to in subsection (a)"
+  },
+  {
+   "role": "body",
+   "text": "of the first section of this Act, such communication, medical, engineer-"
+  },
+  {
+   "role": "body",
+   "text": "ing, protective, and other logistical services as may be necessary or"
+  },
+  {
+   "role": "body",
+   "text": "useful to the extent that such services are available and the providing"
+  },
+  {
+   "role": "body",
+   "text": "of them will not jeopardize the national defense program."
+  },
+  {
+   "role": "sidenote",
+   "text": "Agency assist-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ance."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. Each department of the Federal Government is hereby"
+  },
+  {
+   "role": "body",
+   "text": "authorized under such regulations as may be prescribed by the Secre-"
+  },
+  {
+   "role": "body",
+   "text": "tary thereof to assist the Boy Scouts of America in the carrying out"
+  },
+  {
+   "role": "body",
+   "text": "and the fulfillment of the plans for the encampment referred to in"
+  },
+  {
+   "role": "body",
+   "text": "subsection (a) of the first section of this Act."
+  },
+  {
+   "role": "body",
+   "text": "Approved June 21, 1963."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 88-42"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 21, 1963"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 6441]"
+  },
+  {
+   "role": "body",
+   "text": "To amend Public Law 86–272, as amended, with respect to the reporting date."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That section 202 of"
+  },
+  {
+   "role": "sidenote",
+   "text": "15 USC 381"
+  },
+  {
+   "role": "sidenote",
+   "text": "note."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 86–272 (73 Stat. 556), as amended, is amended to read as"
+  },
+  {
+   "role": "body",
+   "text": "follows:"
+  },
+  {
+   "role": "body",
+   "text": "\"SEC. 202. The committees shall report to their respective Houses"
+  },
+  {
+   "role": "body",
+   "text": "the results of such studies, together with their proposals for legislation"
+  },
+  {
+   "role": "body",
+   "text": "on or before March 31, 1964.\""
+  },
+  {
+   "role": "body",
+   "text": "Approved June 21, 1963."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 88-43"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 21, 1963"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 2821]"
+  },
+  {
+   "role": "body",
+   "text": "To authorize modification of the repayment contract with the Grand Valley"
+  },
+  {
+   "role": "body",
+   "text": "Water Users' Association."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Grand Valley"
+  },
+  {
+   "role": "sidenote",
+   "text": "Water Users'"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Secretary"
+  },
+  {
+   "role": "sidenote",
+   "text": "Association,"
+  },
+  {
+   "role": "body",
+   "text": "of the Interior is authorized, pursuant to subsection 8(i) of the Act"
+  },
+  {
+   "role": "sidenote",
+   "text": "Colo., contract"
+  },
+  {
+   "role": "body",
+   "text": "of August 4, 1939 (53 Stat. 1187), to modify the contractual obligation"
+  },
+  {
+   "role": "sidenote",
+   "text": "modification."
+  },
+  {
+   "role": "body",
+   "text": "of the Grand Valley Water Users' Association (1) by deducting from"
+  },
+  {
+   "role": "sidenote",
+   "text": "43 USC 485g."
+  },
+  {
+   "role": "body",
+   "text": "such obligation the unaccrued construction charges in the amount of"
+  },
+  {
+   "role": "body",
+   "text": "$109,158.19 against one thousand three hundred sixty-six and two-"
+  },
+  {
+   "role": "body",
+   "text": "tenths acres originally classified as productive and now reclassified as"
+  },
+  {
+   "role": "body",
+   "text": "permanently unproductive; (2) by crediting to the next annual"
+  },
+  {
+   "role": "body",
+   "text": "installment from the Grand Valley Water Users' Association due to"
+  },
+  {
+   "role": "body",
+   "text": "the United States under its contract of January 27, 1945, after enact-"
+  },
+  {
+   "role": "body",
+   "text": "ment of this Act, the sum of $4,531.93, which represents construction"
+  },
+  {
+   "role": "body",
+   "text": "charges paid by the association on one hundred twenty-three and six-"
+  },
+  {
+   "role": "body",
+   "text": "tenths acres of land in canceled farm units included in the above"
+  },
+  {
+   "role": "body",
+   "text": "acreage."
+  },
+  {
+   "role": "body",
+   "text": "Approved June 21, 1963."
+  }
+ ],
+ "disagreement_count": 22,
+ "tokens": {
+  "input_tokens": 22812,
+  "output_tokens": 6802,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.28527,
+ "seconds": 80.3,
+ "created": "2026-09-08T11:58:55"
+}

@@ -1,0 +1,1124 @@
+{
+ "granule_id": "STATUTE-11-Pg292",
+ "package_id": "STATUTE-11",
+ "volume": 11,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend an Act entitled \"An Act to authorize the President of the United States to cause to be surveyed the Tract of Land, in the Territory of Minnesota, belonging to the Half breeds or mixed ",
+ "date_issued": "1858-05-19",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "292",
+ "image": "data/gold/STATUTE-11-Pg292/p1.png",
+ "image_sha256": "4a835b3f336144f992b061cbf26ea488d0f7cc0a527140795a113d370075a748",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "292"
+    },
+    {
+     "role": "running-head",
+     "text": "THIRTY-FIFTH CONGRESS.  SESS. I.  CH. 43, 44.  1858."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 19, 1858."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLIII.—An Act to amend an Act entitled \" An Act to authorize the President of"
+    },
+    {
+     "role": "body",
+     "text": "the United States to cause to be surveyed the Tract of Land, in the Territory of Minne-"
+    },
+    {
+     "role": "body",
+     "text": "sota, belonging to the Half-breeds or mixed Bloods of the Dacotah or Sioux Nation of"
+    },
+    {
+     "role": "sidenote",
+     "text": "1854, ch. 83."
+    },
+    {
+     "role": "body",
+     "text": "Indians, and for other Purposes,\" approved seventeenth July, eighteen hundred and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. x. p. 304."
+    },
+    {
+     "role": "body",
+     "text": "fifty-four."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the act approved seven-"
+    },
+    {
+     "role": "body",
+     "text": "teenth July, eighteen hundred and fifty-four, above referred to, chapter"
+    },
+    {
+     "role": "body",
+     "text": "eighty-three, be, and the same is hereby, amended, so that the body of"
+    },
+    {
+     "role": "sidenote",
+     "text": "The half-breed"
+    },
+    {
+     "role": "body",
+     "text": "land known as the half-breed tract, lying on the west side of Lake Pepin"
+    },
+    {
+     "role": "sidenote",
+     "text": "tract of land in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Minnesota, west"
+    },
+    {
+     "role": "body",
+     "text": "and the Mississippi River, in the Territory of Minnesota, and which is"
+    },
+    {
+     "role": "sidenote",
+     "text": "of Lake Pepin"
+    },
+    {
+     "role": "body",
+     "text": "authorized to be surveyed by the said act of eighteen hundred and fifty-"
+    },
+    {
+     "role": "sidenote",
+     "text": "and the Missis-"
+    },
+    {
+     "role": "body",
+     "text": "four, shall be subject to the operation of the laws regulating the sale and"
+    },
+    {
+     "role": "sidenote",
+     "text": "sippi, made sub-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ject to the laws"
+    },
+    {
+     "role": "body",
+     "text": "disposition of the public lands; and settlements heretofore made thereon"
+    },
+    {
+     "role": "sidenote",
+     "text": "relating to sales,"
+    },
+    {
+     "role": "body",
+     "text": "are declared valid so far as they do not conflict with settlements made by"
+    },
+    {
+     "role": "sidenote",
+     "text": "preëmption, &c."
+    },
+    {
+     "role": "body",
+     "text": "half-breeds, and that the settlers shall have the benefit of the preëmption"
+    },
+    {
+     "role": "body",
+     "text": "laws of the United States, any location of half-breed scrip thereon, after"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "the date of the settlement, notwithstanding: Provided, The declaration of"
+    },
+    {
+     "role": "body",
+     "text": "preëmption be filed within three months after public notice is given of the"
+    },
+    {
+     "role": "body",
+     "text": "passage of this act in the proper land district: And provided, That when"
+    },
+    {
+     "role": "body",
+     "text": "two or more persons have settled on the same quarter section, prior to the"
+    },
+    {
+     "role": "body",
+     "text": "passage of this act, they shall be permitted to enter the same, and the"
+    },
+    {
+     "role": "body",
+     "text": "rights of each shall be determined according to the provisions of the act"
+    },
+    {
+     "role": "sidenote",
+     "text": "1843, ch. 86."
+    },
+    {
+     "role": "body",
+     "text": "relating to preëmptions, passed March third, eighteen hundred and forty-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. v. p. 619."
+    },
+    {
+     "role": "body",
+     "text": "three."
+    },
+    {
+     "role": "sidenote",
+     "text": "Act not to apply"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the provisions of this act shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "to lands in actual"
+    },
+    {
+     "role": "body",
+     "text": "not extend to any tract or subdivision, within the body of land aforesaid,"
+    },
+    {
+     "role": "sidenote",
+     "text": "occupancy of"
+    },
+    {
+     "role": "sidenote",
+     "text": "half-breeds, &c."
+    },
+    {
+     "role": "body",
+     "text": "which shall have been settled upon in good faith by, and is in the occu-"
+    },
+    {
+     "role": "body",
+     "text": "pancy of, any of the said half-breeds or mixed bloods; which lands, so"
+    },
+    {
+     "role": "body",
+     "text": "settled upon and occupied by the half-breeds, are hereby expressly declared"
+    },
+    {
+     "role": "body",
+     "text": "to be subject to no other disposition than location by the \" certificates \" or"
+    },
+    {
+     "role": "body",
+     "text": "\" scrip \" authorized to be issued by the said act of eighteen hundred and"
+    },
+    {
+     "role": "body",
+     "text": "fifty-four, for the benefit of said Indians.  Nor shall the provisions of this"
+    },
+    {
+     "role": "body",
+     "text": "act extend to any lands which may have been located prior to its passage"
+    },
+    {
+     "role": "body",
+     "text": "with half-breed scrip, with the consent of the settlers thereon."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 19, 1858."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 24, 1858."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLIV.—An Act to create a Land District in the Territory of New Mexico."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the public lands in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of New"
+    },
+    {
+     "role": "body",
+     "text": "Territory of New Mexico, to which the Indian title shall have been ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mexico land dis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "trict."
+    },
+    {
+     "role": "body",
+     "text": "tinguished, shall constitute a land district to be called the \" District of"
+    },
+    {
+     "role": "body",
+     "text": "New Mexico,\" the office for which shall be established at such place within"
+    },
+    {
+     "role": "body",
+     "text": "said district as the President of the United States may from time to time"
+    },
+    {
+     "role": "body",
+     "text": "direct."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That, for the purpose of carrying"
+    },
+    {
+     "role": "body",
+     "text": "this act into effect, the President shall be, and he is hereby, authorized to"
+    },
+    {
+     "role": "body",
+     "text": "appoint, by and with the advice and consent of the Senate, or during the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Register and"
+    },
+    {
+     "role": "body",
+     "text": "recess thereof, a register and receiver for the district hereby created, who"
+    },
+    {
+     "role": "sidenote",
+     "text": "receiver author-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ized."
+    },
+    {
+     "role": "body",
+     "text": "shall be required to reside at the site of the office, and whose powers,"
+    },
+    {
+     "role": "body",
+     "text": "duties, obligations, and responsibilities shall be the same as are now pre-"
+    },
+    {
+     "role": "body",
+     "text": "scribed by law for other land officers, (so far as they apply to these"
+    },
+    {
+     "role": "body",
+     "text": "officers.)"
+    },
+    {
+     "role": "sidenote",
+     "text": "When to take"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That this act shall not take effect in"
+    },
+    {
+     "role": "sidenote",
+     "text": "effect."
+    },
+    {
+     "role": "body",
+     "text": "less than six months after its passage."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED May 24, 1858."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 2491,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09027,
+   "seconds": 97.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "292"
+    },
+    {
+     "role": "running-head",
+     "text": "THIRTY-FIFTH CONGRESS.  SESS. I.  CH. 43, 44.  1858."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 19, 1858."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLIII.—An Act to amend an Act entitled \" An Act to authorize the President of"
+    },
+    {
+     "role": "body",
+     "text": "the United States to cause to be surveyed the Tract of Land, in the Territory of Minne-"
+    },
+    {
+     "role": "body",
+     "text": "sota, belonging to the Half-breeds or mixed Bloods of the Dacotah or Sioux Nation of"
+    },
+    {
+     "role": "sidenote",
+     "text": "1854, ch. 83."
+    },
+    {
+     "role": "body",
+     "text": "Indians, and for other Purposes,\" approved seventeenth July, eighteen hundred and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. x. p. 304."
+    },
+    {
+     "role": "body",
+     "text": "fifty-four."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the act approved seven-"
+    },
+    {
+     "role": "body",
+     "text": "teenth July, eighteen hundred and fifty-four, above referred to, chapter"
+    },
+    {
+     "role": "body",
+     "text": "eighty-three, be, and the same is hereby, amended, so that the body of"
+    },
+    {
+     "role": "sidenote",
+     "text": "The half-breed"
+    },
+    {
+     "role": "body",
+     "text": "land known as the half-breed tract, lying on the west side of Lake Pepin"
+    },
+    {
+     "role": "sidenote",
+     "text": "tract of land in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Minnesota, west"
+    },
+    {
+     "role": "body",
+     "text": "and the Mississippi River, in the Territory of Minnesota, and which is"
+    },
+    {
+     "role": "sidenote",
+     "text": "of Lake Pepin"
+    },
+    {
+     "role": "body",
+     "text": "authorized to be surveyed by the said act of eighteen hundred and fifty-"
+    },
+    {
+     "role": "sidenote",
+     "text": "and the Missis-"
+    },
+    {
+     "role": "body",
+     "text": "four, shall be subject to the operation of the laws regulating the sale and"
+    },
+    {
+     "role": "sidenote",
+     "text": "sippi, made sub-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ject to the laws"
+    },
+    {
+     "role": "body",
+     "text": "disposition of the public lands; and settlements heretofore made thereon"
+    },
+    {
+     "role": "sidenote",
+     "text": "relating to sales,"
+    },
+    {
+     "role": "body",
+     "text": "are declared valid so far as they do not conflict with settlements made by"
+    },
+    {
+     "role": "sidenote",
+     "text": "preëmption, &c."
+    },
+    {
+     "role": "body",
+     "text": "half-breeds, and that the settlers shall have the benefit of the preëmption"
+    },
+    {
+     "role": "body",
+     "text": "laws of the United States, any location of half-breed scrip thereon, after"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "the date of the settlement, notwithstanding: Provided, The declaration of"
+    },
+    {
+     "role": "body",
+     "text": "preëmption be filed within three months after public notice is given of the"
+    },
+    {
+     "role": "body",
+     "text": "passage of this act in the proper land district: And provided, That when"
+    },
+    {
+     "role": "body",
+     "text": "two or more persons have settled on the same quarter section, prior to the"
+    },
+    {
+     "role": "body",
+     "text": "passage of this act, they shall be permitted to enter the same, and the"
+    },
+    {
+     "role": "body",
+     "text": "rights of each shall be determined according to the provisions of the act"
+    },
+    {
+     "role": "sidenote",
+     "text": "1843, ch. 86."
+    },
+    {
+     "role": "body",
+     "text": "relating to preëmptions, passed March third, eighteen hundred and forty-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. v. p. 619."
+    },
+    {
+     "role": "body",
+     "text": "three."
+    },
+    {
+     "role": "sidenote",
+     "text": "Act not to apply"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the provisions of this act shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "to lands in actual"
+    },
+    {
+     "role": "body",
+     "text": "not extend to any tract or subdivision, within the body of land aforesaid,"
+    },
+    {
+     "role": "sidenote",
+     "text": "occupancy of"
+    },
+    {
+     "role": "sidenote",
+     "text": "half-breeds, &c."
+    },
+    {
+     "role": "body",
+     "text": "which shall have been settled upon in good faith by, and is in the occu-"
+    },
+    {
+     "role": "body",
+     "text": "pancy of, any of the said half-breeds or mixed bloods ; which lands, so"
+    },
+    {
+     "role": "body",
+     "text": "settled upon and occupied by the half-breeds, are hereby expressly declared"
+    },
+    {
+     "role": "body",
+     "text": "to be subject to no other disposition than location by the \" certificates \" or"
+    },
+    {
+     "role": "body",
+     "text": "\" scrip \" authorized to be issued by the said act of eighteen hundred and"
+    },
+    {
+     "role": "body",
+     "text": "fifty-four, for the benefit of said Indians.  Nor shall the provisions of this"
+    },
+    {
+     "role": "body",
+     "text": "act extend to any lands which may have been located prior to its passage"
+    },
+    {
+     "role": "body",
+     "text": "with half-breed scrip, with the consent of the settlers thereon."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 19, 1858."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 24, 1858."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLIV.—An Act to create a Land District in the Territory of New Mexico."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the public lands in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of New"
+    },
+    {
+     "role": "body",
+     "text": "Territory of New Mexico, to which the Indian title shall have been ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mexico land dis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "trict."
+    },
+    {
+     "role": "body",
+     "text": "tinguished, shall constitute a land district to be called the \" District of"
+    },
+    {
+     "role": "body",
+     "text": "New Mexico,\" the office for which shall be established at such place within"
+    },
+    {
+     "role": "body",
+     "text": "said district as the President of the United States may from time to time"
+    },
+    {
+     "role": "body",
+     "text": "direct."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That, for the purpose of carrying"
+    },
+    {
+     "role": "body",
+     "text": "this act into effect, the President shall be, and he is hereby, authorized to"
+    },
+    {
+     "role": "body",
+     "text": "appoint, by and with the advice and consent of the Senate, or during the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Register and"
+    },
+    {
+     "role": "body",
+     "text": "recess thereof, a register and receiver for the district hereby created, who"
+    },
+    {
+     "role": "sidenote",
+     "text": "receiver author-"
+    },
+    {
+     "role": "body",
+     "text": "shall be required to reside at the site of the office, and whose powers,"
+    },
+    {
+     "role": "sidenote",
+     "text": "ized."
+    },
+    {
+     "role": "body",
+     "text": "duties, obligations, and responsibilities shall be the same as are now pre-"
+    },
+    {
+     "role": "body",
+     "text": "scribed by law for other land officers, (so far as they apply to these"
+    },
+    {
+     "role": "body",
+     "text": "officers.)"
+    },
+    {
+     "role": "sidenote",
+     "text": "When to take"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That this act shall not take effect in"
+    },
+    {
+     "role": "sidenote",
+     "text": "effect."
+    },
+    {
+     "role": "body",
+     "text": "less than six months after its passage."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED May 24, 1858."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 2492,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09029,
+   "seconds": 105.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11879,
+   "output_tokens": 379,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06929,
+  "seconds": 126.7,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "shall be required to reside at the site of the office, and whose powers,",
+    "kept": "shall be required to reside at the site of the office, and whose powers,",
+    "reason": "The sidenote \"receiver author-\" aligns with this body line, and \"ized.\" aligns with the following \"duties\" line, so the body line comes before \"ized.\""
+   },
+   {
+    "run": 2,
+    "a": "shall be required to reside at the site of the office, and whose powers,",
+    "b": "",
+    "kept": "",
+    "reason": "This body line was already placed before the sidenote \"ized.\"; it is not printed again after it."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "292"
+  },
+  {
+   "role": "running-head",
+   "text": "THIRTY-FIFTH CONGRESS.  SESS. I.  CH. 43, 44.  1858."
+  },
+  {
+   "role": "sidenote",
+   "text": "May 19, 1858."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XLIII.—An Act to amend an Act entitled \" An Act to authorize the President of"
+  },
+  {
+   "role": "body",
+   "text": "the United States to cause to be surveyed the Tract of Land, in the Territory of Minne-"
+  },
+  {
+   "role": "body",
+   "text": "sota, belonging to the Half-breeds or mixed Bloods of the Dacotah or Sioux Nation of"
+  },
+  {
+   "role": "sidenote",
+   "text": "1854, ch. 83."
+  },
+  {
+   "role": "body",
+   "text": "Indians, and for other Purposes,\" approved seventeenth July, eighteen hundred and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. x. p. 304."
+  },
+  {
+   "role": "body",
+   "text": "fifty-four."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the act approved seven-"
+  },
+  {
+   "role": "body",
+   "text": "teenth July, eighteen hundred and fifty-four, above referred to, chapter"
+  },
+  {
+   "role": "body",
+   "text": "eighty-three, be, and the same is hereby, amended, so that the body of"
+  },
+  {
+   "role": "sidenote",
+   "text": "The half-breed"
+  },
+  {
+   "role": "body",
+   "text": "land known as the half-breed tract, lying on the west side of Lake Pepin"
+  },
+  {
+   "role": "sidenote",
+   "text": "tract of land in"
+  },
+  {
+   "role": "sidenote",
+   "text": "Minnesota, west"
+  },
+  {
+   "role": "body",
+   "text": "and the Mississippi River, in the Territory of Minnesota, and which is"
+  },
+  {
+   "role": "sidenote",
+   "text": "of Lake Pepin"
+  },
+  {
+   "role": "body",
+   "text": "authorized to be surveyed by the said act of eighteen hundred and fifty-"
+  },
+  {
+   "role": "sidenote",
+   "text": "and the Missis-"
+  },
+  {
+   "role": "body",
+   "text": "four, shall be subject to the operation of the laws regulating the sale and"
+  },
+  {
+   "role": "sidenote",
+   "text": "sippi, made sub-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ject to the laws"
+  },
+  {
+   "role": "body",
+   "text": "disposition of the public lands; and settlements heretofore made thereon"
+  },
+  {
+   "role": "sidenote",
+   "text": "relating to sales,"
+  },
+  {
+   "role": "body",
+   "text": "are declared valid so far as they do not conflict with settlements made by"
+  },
+  {
+   "role": "sidenote",
+   "text": "preëmption, &c."
+  },
+  {
+   "role": "body",
+   "text": "half-breeds, and that the settlers shall have the benefit of the preëmption"
+  },
+  {
+   "role": "body",
+   "text": "laws of the United States, any location of half-breed scrip thereon, after"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "the date of the settlement, notwithstanding: Provided, The declaration of"
+  },
+  {
+   "role": "body",
+   "text": "preëmption be filed within three months after public notice is given of the"
+  },
+  {
+   "role": "body",
+   "text": "passage of this act in the proper land district: And provided, That when"
+  },
+  {
+   "role": "body",
+   "text": "two or more persons have settled on the same quarter section, prior to the"
+  },
+  {
+   "role": "body",
+   "text": "passage of this act, they shall be permitted to enter the same, and the"
+  },
+  {
+   "role": "body",
+   "text": "rights of each shall be determined according to the provisions of the act"
+  },
+  {
+   "role": "sidenote",
+   "text": "1843, ch. 86."
+  },
+  {
+   "role": "body",
+   "text": "relating to preëmptions, passed March third, eighteen hundred and forty-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. v. p. 619."
+  },
+  {
+   "role": "body",
+   "text": "three."
+  },
+  {
+   "role": "sidenote",
+   "text": "Act not to apply"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the provisions of this act shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "to lands in actual"
+  },
+  {
+   "role": "body",
+   "text": "not extend to any tract or subdivision, within the body of land aforesaid,"
+  },
+  {
+   "role": "sidenote",
+   "text": "occupancy of"
+  },
+  {
+   "role": "sidenote",
+   "text": "half-breeds, &c."
+  },
+  {
+   "role": "body",
+   "text": "which shall have been settled upon in good faith by, and is in the occu-"
+  },
+  {
+   "role": "body",
+   "text": "pancy of, any of the said half-breeds or mixed bloods; which lands, so"
+  },
+  {
+   "role": "body",
+   "text": "settled upon and occupied by the half-breeds, are hereby expressly declared"
+  },
+  {
+   "role": "body",
+   "text": "to be subject to no other disposition than location by the \" certificates \" or"
+  },
+  {
+   "role": "body",
+   "text": "\" scrip \" authorized to be issued by the said act of eighteen hundred and"
+  },
+  {
+   "role": "body",
+   "text": "fifty-four, for the benefit of said Indians.  Nor shall the provisions of this"
+  },
+  {
+   "role": "body",
+   "text": "act extend to any lands which may have been located prior to its passage"
+  },
+  {
+   "role": "body",
+   "text": "with half-breed scrip, with the consent of the settlers thereon."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, May 19, 1858."
+  },
+  {
+   "role": "sidenote",
+   "text": "May 24, 1858."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XLIV.—An Act to create a Land District in the Territory of New Mexico."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the public lands in the"
+  },
+  {
+   "role": "sidenote",
+   "text": "District of New"
+  },
+  {
+   "role": "body",
+   "text": "Territory of New Mexico, to which the Indian title shall have been ex-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Mexico land dis-"
+  },
+  {
+   "role": "sidenote",
+   "text": "trict."
+  },
+  {
+   "role": "body",
+   "text": "tinguished, shall constitute a land district to be called the \" District of"
+  },
+  {
+   "role": "body",
+   "text": "New Mexico,\" the office for which shall be established at such place within"
+  },
+  {
+   "role": "body",
+   "text": "said district as the President of the United States may from time to time"
+  },
+  {
+   "role": "body",
+   "text": "direct."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That, for the purpose of carrying"
+  },
+  {
+   "role": "body",
+   "text": "this act into effect, the President shall be, and he is hereby, authorized to"
+  },
+  {
+   "role": "body",
+   "text": "appoint, by and with the advice and consent of the Senate, or during the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Register and"
+  },
+  {
+   "role": "body",
+   "text": "recess thereof, a register and receiver for the district hereby created, who"
+  },
+  {
+   "role": "sidenote",
+   "text": "receiver author-"
+  },
+  {
+   "role": "body",
+   "text": "shall be required to reside at the site of the office, and whose powers,"
+  },
+  {
+   "role": "sidenote",
+   "text": "ized."
+  },
+  {
+   "role": "body",
+   "text": "duties, obligations, and responsibilities shall be the same as are now pre-"
+  },
+  {
+   "role": "body",
+   "text": "scribed by law for other land officers, (so far as they apply to these"
+  },
+  {
+   "role": "body",
+   "text": "officers.)"
+  },
+  {
+   "role": "sidenote",
+   "text": "When to take"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That this act shall not take effect in"
+  },
+  {
+   "role": "sidenote",
+   "text": "effect."
+  },
+  {
+   "role": "body",
+   "text": "less than six months after its passage."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED May 24, 1858."
+  }
+ ],
+ "disagreement_count": 2,
+ "tokens": {
+  "input_tokens": 22926,
+  "output_tokens": 5362,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.24985,
+ "seconds": 329.6,
+ "created": "2026-09-08T11:48:11"
+}

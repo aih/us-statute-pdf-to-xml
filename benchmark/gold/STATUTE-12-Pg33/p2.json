@@ -1,0 +1,1514 @@
+{
+ "granule_id": "STATUTE-12-Pg33",
+ "package_id": "STATUTE-12",
+ "volume": 12,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend an Act entitled an Act to define and regulate the Jurisdiction of the District Courts of the United States in California in Regard to the Survey and Location of confirmed Private Land ",
+ "date_issued": "1860-06-14",
+ "pdf_page": 2,
+ "pdf_pages": 3,
+ "stat_page": "34",
+ "image": "data/gold/STATUTE-12-Pg33/p2.png",
+ "image_sha256": "4faf5eb3983c661b07f86cb56c9e27f188de400a2f1426b10fdd1e2aad0305c7",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "34"
+    },
+    {
+     "role": "running-head",
+     "text": "THIRTY-SIXTH CONGRESS.  SESS. I.  CH. 128.  1860."
+    },
+    {
+     "role": "body",
+     "text": "interest, and shall, in its discretion, determine whether the applicant has"
+    },
+    {
+     "role": "body",
+     "text": "such an interest therein, as under the circumstances of the case, to make"
+    },
+    {
+     "role": "body",
+     "text": "it proper that he should be heard in opposition to the survey, and shall"
+    },
+    {
+     "role": "body",
+     "text": "grant or refuse the order to return the survey and location, as shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Parties claim-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing under the"
+    },
+    {
+     "role": "sidenote",
+     "text": "United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "how to intervene."
+    },
+    {
+     "role": "body",
+     "text": "just : Provided, however, That all parties claiming interest under pre-"
+    },
+    {
+     "role": "body",
+     "text": "emption, settlement, or other right or title derived from the United States,"
+    },
+    {
+     "role": "body",
+     "text": "shall not be permitted to intervene separately ; but the rights and inter-"
+    },
+    {
+     "role": "body",
+     "text": "ests of said parties shall be represented by the district attorney of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, intervening in the name of the United States, aided by"
+    },
+    {
+     "role": "body",
+     "text": "counsel acting for said parties jointly if they think proper to employ such"
+    },
+    {
+     "role": "body",
+     "text": "counsel ; And provided further, That before proceeding to take the testi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Notice to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "given before testi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "mony is taken."
+    },
+    {
+     "role": "body",
+     "text": "mony, or to determine on the validity of any objection so made to the"
+    },
+    {
+     "role": "body",
+     "text": "survey and location as aforesaid, the said courts shall cause notice to be"
+    },
+    {
+     "role": "body",
+     "text": "given, by public advertisement, or in some other form to be prescribed by"
+    },
+    {
+     "role": "body",
+     "text": "their rules, to all parties in interest, that objection has been made to such"
+    },
+    {
+     "role": "body",
+     "text": "survey and location, and admonishing all parties in interest to intervene"
+    },
+    {
+     "role": "sidenote",
+     "text": "Courts to make"
+    },
+    {
+     "role": "sidenote",
+     "text": "rules, &c."
+    },
+    {
+     "role": "body",
+     "text": "for the protection of such interest ; and the said courts shall adopt rules"
+    },
+    {
+     "role": "body",
+     "text": "providing for the prompt and summary decision of all controversies on"
+    },
+    {
+     "role": "body",
+     "text": "surveys and locations that may arise under the provisions of this act."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That when on the application of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "When parties"
+    },
+    {
+     "role": "sidenote",
+     "text": "interested may"
+    },
+    {
+     "role": "sidenote",
+     "text": "take testimony"
+    },
+    {
+     "role": "sidenote",
+     "text": "and how."
+    },
+    {
+     "role": "body",
+     "text": "party or parties interested as aforesaid, in said survey and location, the"
+    },
+    {
+     "role": "body",
+     "text": "same shall be returned into court, the said parties may proceed to take"
+    },
+    {
+     "role": "body",
+     "text": "testimony as to any matters necessary to show the true and proper loca-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the claim ; such testimony to be taken in such manner, by deposi-"
+    },
+    {
+     "role": "body",
+     "text": "tion or otherwise, or by commission, as the court may direct, and, on"
+    },
+    {
+     "role": "sidenote",
+     "text": "Court to decide"
+    },
+    {
+     "role": "sidenote",
+     "text": "on proof."
+    },
+    {
+     "role": "body",
+     "text": "hearing the allegations and proofs, the court shall render judgment"
+    },
+    {
+     "role": "body",
+     "text": "thereon ; and if, in its opinion, the location and survey are erroneous, it is"
+    },
+    {
+     "role": "body",
+     "text": "hereby authorized to set aside and annul the same, or correct and modify"
+    },
+    {
+     "role": "sidenote",
+     "text": "Surveyor-gen-"
+    },
+    {
+     "role": "sidenote",
+     "text": "eral to make sur-"
+    },
+    {
+     "role": "sidenote",
+     "text": "vey conform to"
+    },
+    {
+     "role": "sidenote",
+     "text": "decree of court."
+    },
+    {
+     "role": "body",
+     "text": "it ; and it is hereby made the duty of the surveyor-general, on being"
+    },
+    {
+     "role": "body",
+     "text": "served with a certified copy of the decree of said court, forthwith to cause"
+    },
+    {
+     "role": "body",
+     "text": "a new survey and location to be made, or to correct and reform the survey"
+    },
+    {
+     "role": "body",
+     "text": "and location already made, so as to conform to the decree of the district"
+    },
+    {
+     "role": "body",
+     "text": "court, to whom it shall be returned for confirmation and approval."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That when, after publication as"
+    },
+    {
+     "role": "body",
+     "text": "aforesaid, no application shall be made to the said court for the said order,"
+    },
+    {
+     "role": "sidenote",
+     "text": "When surveyor-"
+    },
+    {
+     "role": "sidenote",
+     "text": "general is to send"
+    },
+    {
+     "role": "sidenote",
+     "text": "plat or survey to"
+    },
+    {
+     "role": "sidenote",
+     "text": "general land of-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ficer, and patent"
+    },
+    {
+     "role": "sidenote",
+     "text": "to issue."
+    },
+    {
+     "role": "body",
+     "text": "or when said order has been refused, or when an order shall have been"
+    },
+    {
+     "role": "body",
+     "text": "obtained as aforesaid, and when the district court by its decree shall have"
+    },
+    {
+     "role": "body",
+     "text": "finally approved said survey and location, or shall have reformed or"
+    },
+    {
+     "role": "body",
+     "text": "modified the same, and determined the true location of the claim, it shall"
+    },
+    {
+     "role": "body",
+     "text": "be the duty of the surveyor-general to transmit, without delay, the plat or"
+    },
+    {
+     "role": "body",
+     "text": "survey of the said claim to the General Land Office, and the patent for"
+    },
+    {
+     "role": "body",
+     "text": "the land as surveyed shall forthwith be issued therefor, and no appeal"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appeal from"
+    },
+    {
+     "role": "sidenote",
+     "text": "decree of court,"
+    },
+    {
+     "role": "sidenote",
+     "text": "how made."
+    },
+    {
+     "role": "body",
+     "text": "shall be allowed from the order or decree as aforesaid of the said district"
+    },
+    {
+     "role": "body",
+     "text": "court, unless applied for within six months from the date of the decree of"
+    },
+    {
+     "role": "body",
+     "text": "said district courts, but not afterwards ; and the said plat and survey so"
+    },
+    {
+     "role": "body",
+     "text": "finally determined by publication, order, or decree, as the case may be,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Effect of such"
+    },
+    {
+     "role": "sidenote",
+     "text": "plat and survey."
+    },
+    {
+     "role": "body",
+     "text": "shall have the same effect and validity in law as if a patent for the land"
+    },
+    {
+     "role": "body",
+     "text": "so surveyed had been issued by the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Former sur-"
+    },
+    {
+     "role": "sidenote",
+     "text": "veys and loca-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tions made sub-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ject to this act,"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. And be it further enacted, That all surveys and locations here-"
+    },
+    {
+     "role": "body",
+     "text": "tofore made and approved by the surveyor-general of California, which"
+    },
+    {
+     "role": "body",
+     "text": "have been returned into the said district courts, or either of them, or in"
+    },
+    {
+     "role": "body",
+     "text": "which proceedings are now pending for the purpose of contesting or re-"
+    },
+    {
+     "role": "body",
+     "text": "forming the same, are hereby made subject to the provisions of this act,"
+    },
+    {
+     "role": "sidenote",
+     "text": "except, &c."
+    },
+    {
+     "role": "body",
+     "text": "except that in the cases so returned or pending no publication shall be"
+    },
+    {
+     "role": "body",
+     "text": "necessary on the part of the surveyor-general."
+    },
+    {
+     "role": "sidenote",
+     "text": "Compensation"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the judges."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. And be it further enacted, That, for the performance of the"
+    },
+    {
+     "role": "body",
+     "text": "duties imposed by this act, and the act entitled “ An act to ascertain and"
+    },
+    {
+     "role": "sidenote",
+     "text": "1851, ch. 41,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. ix. p. 631."
+    },
+    {
+     "role": "body",
+     "text": "settle [the] private land claims in the State of California, passed March"
+    },
+    {
+     "role": "body",
+     "text": "third eighteen hundred and fifty-one,” there shall be allowed to the judges"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2783,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09701,
+   "seconds": 115.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "34"
+    },
+    {
+     "role": "running-head",
+     "text": "THIRTY-SIXTH CONGRESS.  SESS. I.  CH. 128.  1860."
+    },
+    {
+     "role": "body",
+     "text": "interest, and shall, in its discretion, determine whether the applicant has"
+    },
+    {
+     "role": "body",
+     "text": "such an interest therein, as under the circumstances of the case, to make"
+    },
+    {
+     "role": "body",
+     "text": "it proper that he should be heard in opposition to the survey, and shall"
+    },
+    {
+     "role": "body",
+     "text": "grant or refuse the order to return the survey and location, as shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Parties claim-"
+    },
+    {
+     "role": "body",
+     "text": "just : Provided, however, That all parties claiming interest under pre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing under the"
+    },
+    {
+     "role": "body",
+     "text": "emption, settlement, or other right or title derived from the United States,"
+    },
+    {
+     "role": "sidenote",
+     "text": "United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "how to intervene."
+    },
+    {
+     "role": "body",
+     "text": "shall not be permitted to intervene separately ; but the rights and inter-"
+    },
+    {
+     "role": "body",
+     "text": "ests of said parties shall be represented by the district attorney of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, intervening in the name of the United States, aided by"
+    },
+    {
+     "role": "body",
+     "text": "counsel acting for said parties jointly if they think proper to employ such"
+    },
+    {
+     "role": "body",
+     "text": "counsel ; And provided further, That before proceeding to take the testi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Notice to be"
+    },
+    {
+     "role": "body",
+     "text": "mony, or to determine on the validity of any objection so made to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "given before testi-"
+    },
+    {
+     "role": "body",
+     "text": "survey and location as aforesaid, the said courts shall cause notice to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "mony is taken."
+    },
+    {
+     "role": "body",
+     "text": "given, by public advertisement, or in some other form to be prescribed by"
+    },
+    {
+     "role": "body",
+     "text": "their rules, to all parties in interest, that objection has been made to such"
+    },
+    {
+     "role": "body",
+     "text": "survey and location, and admonishing all parties in interest to intervene"
+    },
+    {
+     "role": "sidenote",
+     "text": "Courts to make"
+    },
+    {
+     "role": "body",
+     "text": "for the protection of such interest ; and the said courts shall adopt rules"
+    },
+    {
+     "role": "sidenote",
+     "text": "rules, &c."
+    },
+    {
+     "role": "body",
+     "text": "providing for the prompt and summary decision of all controversies on"
+    },
+    {
+     "role": "body",
+     "text": "surveys and locations that may arise under the provisions of this act."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That when on the application of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "When parties"
+    },
+    {
+     "role": "body",
+     "text": "party or parties interested as aforesaid, in said survey and location, the"
+    },
+    {
+     "role": "sidenote",
+     "text": "interested may"
+    },
+    {
+     "role": "body",
+     "text": "same shall be returned into court, the said parties may proceed to take"
+    },
+    {
+     "role": "sidenote",
+     "text": "take testimony"
+    },
+    {
+     "role": "sidenote",
+     "text": "and how."
+    },
+    {
+     "role": "body",
+     "text": "testimony as to any matters necessary to show the true and proper loca-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the claim ; such testimony to be taken in such manner, by deposi-"
+    },
+    {
+     "role": "body",
+     "text": "tion or otherwise, or by commission, as the court may direct, and, on"
+    },
+    {
+     "role": "sidenote",
+     "text": "Court to decide"
+    },
+    {
+     "role": "body",
+     "text": "hearing the allegations and proofs, the court shall render judgment"
+    },
+    {
+     "role": "sidenote",
+     "text": "on proof."
+    },
+    {
+     "role": "body",
+     "text": "thereon ; and if, in its opinion, the location and survey are erroneous, it is"
+    },
+    {
+     "role": "body",
+     "text": "hereby authorized to set aside and annul the same, or correct and modify"
+    },
+    {
+     "role": "sidenote",
+     "text": "Surveyor-gen-"
+    },
+    {
+     "role": "body",
+     "text": "it ; and it is hereby made the duty of the surveyor-general, on being"
+    },
+    {
+     "role": "sidenote",
+     "text": "eral to make sur-"
+    },
+    {
+     "role": "body",
+     "text": "served with a certified copy of the decree of said court, forthwith to cause"
+    },
+    {
+     "role": "sidenote",
+     "text": "vey conform to"
+    },
+    {
+     "role": "sidenote",
+     "text": "decree of court."
+    },
+    {
+     "role": "body",
+     "text": "a new survey and location to be made, or to correct and reform the survey"
+    },
+    {
+     "role": "body",
+     "text": "and location already made, so as to conform to the decree of the district"
+    },
+    {
+     "role": "body",
+     "text": "court, to whom it shall be returned for confirmation and approval."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That when, after publication as"
+    },
+    {
+     "role": "body",
+     "text": "aforesaid, no application shall be made to the said court for the said order,"
+    },
+    {
+     "role": "sidenote",
+     "text": "When surveyor-"
+    },
+    {
+     "role": "body",
+     "text": "or when said order has been refused, or when an order shall have been"
+    },
+    {
+     "role": "sidenote",
+     "text": "general is to send"
+    },
+    {
+     "role": "body",
+     "text": "obtained as aforesaid, and when the district court by its decree shall have"
+    },
+    {
+     "role": "sidenote",
+     "text": "plat or survey to"
+    },
+    {
+     "role": "sidenote",
+     "text": "general land of-"
+    },
+    {
+     "role": "body",
+     "text": "finally approved said survey and location, or shall have reformed or"
+    },
+    {
+     "role": "sidenote",
+     "text": "ficer, and patent"
+    },
+    {
+     "role": "body",
+     "text": "modified the same, and determined the true location of the claim, it shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "to issue."
+    },
+    {
+     "role": "body",
+     "text": "be the duty of the surveyor-general to transmit, without delay, the plat or"
+    },
+    {
+     "role": "body",
+     "text": "survey of the said claim to the General Land Office, and the patent for"
+    },
+    {
+     "role": "body",
+     "text": "the land as surveyed shall forthwith be issued therefor, and no appeal"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appeal from"
+    },
+    {
+     "role": "body",
+     "text": "shall be allowed from the order or decree as aforesaid of the said district"
+    },
+    {
+     "role": "sidenote",
+     "text": "decree of court,"
+    },
+    {
+     "role": "sidenote",
+     "text": "how made."
+    },
+    {
+     "role": "body",
+     "text": "court, unless applied for within six months from the date of the decree of"
+    },
+    {
+     "role": "body",
+     "text": "said district courts, but not afterwards ; and the said plat and survey so"
+    },
+    {
+     "role": "body",
+     "text": "finally determined by publication, order, or decree, as the case may be,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Effect of such"
+    },
+    {
+     "role": "body",
+     "text": "shall have the same effect and validity in law as if a patent for the land"
+    },
+    {
+     "role": "sidenote",
+     "text": "plat and survey."
+    },
+    {
+     "role": "body",
+     "text": "so surveyed had been issued by the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Former sur-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. And be it further enacted, That all surveys and locations here-"
+    },
+    {
+     "role": "sidenote",
+     "text": "veys and loca-"
+    },
+    {
+     "role": "body",
+     "text": "tofore made and approved by the surveyor-general of California, which"
+    },
+    {
+     "role": "sidenote",
+     "text": "tions made sub-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ject to this act,"
+    },
+    {
+     "role": "body",
+     "text": "have been returned into the said district courts, or either of them, or in"
+    },
+    {
+     "role": "body",
+     "text": "which proceedings are now pending for the purpose of contesting or re-"
+    },
+    {
+     "role": "body",
+     "text": "forming the same, are hereby made subject to the provisions of this act,"
+    },
+    {
+     "role": "sidenote",
+     "text": "except, &c."
+    },
+    {
+     "role": "body",
+     "text": "except that in the cases so returned or pending no publication shall be"
+    },
+    {
+     "role": "body",
+     "text": "necessary on the part of the surveyor-general."
+    },
+    {
+     "role": "sidenote",
+     "text": "Compensation"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. And be it further enacted, That, for the performance of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the judges."
+    },
+    {
+     "role": "body",
+     "text": "duties imposed by this act, and the act entitled \" An act to ascertain and"
+    },
+    {
+     "role": "sidenote",
+     "text": "1851, ch. 41,"
+    },
+    {
+     "role": "body",
+     "text": "settle [the] private land claims in the State of California, passed March"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. ix. p. 631."
+    },
+    {
+     "role": "body",
+     "text": "third eighteen hundred and fifty-one,\" there shall be allowed to the judges"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2784,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09703,
+   "seconds": 119.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 14076,
+   "output_tokens": 2299,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.12827,
+  "seconds": 193.4,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "just : Provided, however, That all parties claiming interest under pre-",
+    "kept": "",
+    "reason": "Sidenote block is kept together; body line appears after the full sidenote group."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "emption, settlement, or other right or title derived from the United States,",
+    "kept": "",
+    "reason": "Sidenote block kept together; body line belongs after it."
+   },
+   {
+    "run": 3,
+    "a": "just : Provided, however, That all parties claiming interest under pre-\nemption, settlement, or other right or title derived from the United States,",
+    "b": "",
+    "kept": "just : Provided, however, That all parties claiming interest under pre-\nemption, settlement, or other right or title derived from the United States,",
+    "reason": "Body text resumes after the four-line sidenote block."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "mony, or to determine on the validity of any objection so made to the",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "survey and location as aforesaid, the said courts shall cause notice to be",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 6,
+    "a": "mony, or to determine on the validity of any objection so made to the\nsurvey and location as aforesaid, the said courts shall cause notice to be",
+    "b": "",
+    "kept": "mony, or to determine on the validity of any objection so made to the\nsurvey and location as aforesaid, the said courts shall cause notice to be",
+    "reason": "Body lines follow the completed sidenote block."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "for the protection of such interest ; and the said courts shall adopt rules",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 8,
+    "a": "for the protection of such interest ; and the said courts shall adopt rules",
+    "b": "",
+    "kept": "for the protection of such interest ; and the said courts shall adopt rules",
+    "reason": "Body line follows the two-line sidenote."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "party or parties interested as aforesaid, in said survey and location, the",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "same shall be returned into court, the said parties may proceed to take",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 11,
+    "a": "party or parties interested as aforesaid, in said survey and location, the\nsame shall be returned into court, the said parties may proceed to take",
+    "b": "",
+    "kept": "party or parties interested as aforesaid, in said survey and location, the\nsame shall be returned into court, the said parties may proceed to take",
+    "reason": "Body lines follow the four-line sidenote block."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "hearing the allegations and proofs, the court shall render judgment",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 13,
+    "a": "hearing the allegations and proofs, the court shall render judgment",
+    "b": "",
+    "kept": "hearing the allegations and proofs, the court shall render judgment",
+    "reason": "Body line follows the two-line sidenote."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "it ; and it is hereby made the duty of the surveyor-general, on being",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "served with a certified copy of the decree of said court, forthwith to cause",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 16,
+    "a": "it ; and it is hereby made the duty of the surveyor-general, on being\nserved with a certified copy of the decree of said court, forthwith to cause",
+    "b": "",
+    "kept": "it ; and it is hereby made the duty of the surveyor-general, on being\nserved with a certified copy of the decree of said court, forthwith to cause",
+    "reason": "Body lines follow the four-line sidenote block."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "or when said order has been refused, or when an order shall have been",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "obtained as aforesaid, and when the district court by its decree shall have",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "finally approved said survey and location, or shall have reformed or",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "modified the same, and determined the true location of the claim, it shall",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 21,
+    "a": "or when said order has been refused, or when an order shall have been\nobtained as aforesaid, and when the district court by its decree shall have\nfinally approved said survey and location, or shall have reformed or\nmodified the same, and determined the true location of the claim, it shall",
+    "b": "",
+    "kept": "or when said order has been refused, or when an order shall have been\nobtained as aforesaid, and when the district court by its decree shall have\nfinally approved said survey and location, or shall have reformed or\nmodified the same, and determined the true location of the claim, it shall",
+    "reason": "Body lines follow the six-line sidenote block."
+   },
+   {
+    "run": 22,
+    "a": "",
+    "b": "shall be allowed from the order or decree as aforesaid of the said district",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 23,
+    "a": "shall be allowed from the order or decree as aforesaid of the said district",
+    "b": "",
+    "kept": "shall be allowed from the order or decree as aforesaid of the said district",
+    "reason": "Body line follows the three-line sidenote."
+   },
+   {
+    "run": 24,
+    "a": "",
+    "b": "shall have the same effect and validity in law as if a patent for the land",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 25,
+    "a": "shall have the same effect and validity in law as if a patent for the land",
+    "b": "",
+    "kept": "shall have the same effect and validity in law as if a patent for the land",
+    "reason": "Body line follows the two-line sidenote."
+   },
+   {
+    "run": 26,
+    "a": "",
+    "b": "SEC. 6. And be it further enacted, That all surveys and locations here-",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 27,
+    "a": "",
+    "b": "tofore made and approved by the surveyor-general of California, which",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 28,
+    "a": "SEC. 6. And be it further enacted, That all surveys and locations here-\ntofore made and approved by the surveyor-general of California, which",
+    "b": "",
+    "kept": "SEC. 6. And be it further enacted, That all surveys and locations here-\ntofore made and approved by the surveyor-general of California, which",
+    "reason": "Body lines follow the four-line sidenote block."
+   },
+   {
+    "run": 29,
+    "a": "",
+    "b": "SEC. 7. And be it further enacted, That, for the performance of the",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 30,
+    "a": "SEC. 7. And be it further enacted, That, for the performance of the",
+    "b": "",
+    "kept": "SEC. 7. And be it further enacted, That, for the performance of the",
+    "reason": "Body line follows the two-line sidenote."
+   },
+   {
+    "run": 31,
+    "a": "",
+    "b": "settle [the] private land claims in the State of California, passed March",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 32,
+    "a": "settle [the] private land claims in the State of California, passed March",
+    "b": "",
+    "kept": "settle [the] private land claims in the State of California, passed March",
+    "reason": "Body line follows the two-line citation sidenote."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "34"
+  },
+  {
+   "role": "running-head",
+   "text": "THIRTY-SIXTH CONGRESS.  SESS. I.  CH. 128.  1860."
+  },
+  {
+   "role": "body",
+   "text": "interest, and shall, in its discretion, determine whether the applicant has"
+  },
+  {
+   "role": "body",
+   "text": "such an interest therein, as under the circumstances of the case, to make"
+  },
+  {
+   "role": "body",
+   "text": "it proper that he should be heard in opposition to the survey, and shall"
+  },
+  {
+   "role": "body",
+   "text": "grant or refuse the order to return the survey and location, as shall be"
+  },
+  {
+   "role": "sidenote",
+   "text": "Parties claim-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ing under the"
+  },
+  {
+   "role": "sidenote",
+   "text": "United States"
+  },
+  {
+   "role": "sidenote",
+   "text": "how to intervene."
+  },
+  {
+   "role": "body",
+   "text": "just : Provided, however, That all parties claiming interest under pre-"
+  },
+  {
+   "role": "body",
+   "text": "emption, settlement, or other right or title derived from the United States,"
+  },
+  {
+   "role": "body",
+   "text": "shall not be permitted to intervene separately ; but the rights and inter-"
+  },
+  {
+   "role": "body",
+   "text": "ests of said parties shall be represented by the district attorney of the"
+  },
+  {
+   "role": "body",
+   "text": "United States, intervening in the name of the United States, aided by"
+  },
+  {
+   "role": "body",
+   "text": "counsel acting for said parties jointly if they think proper to employ such"
+  },
+  {
+   "role": "body",
+   "text": "counsel ; And provided further, That before proceeding to take the testi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Notice to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "given before testi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "mony is taken."
+  },
+  {
+   "role": "body",
+   "text": "mony, or to determine on the validity of any objection so made to the"
+  },
+  {
+   "role": "body",
+   "text": "survey and location as aforesaid, the said courts shall cause notice to be"
+  },
+  {
+   "role": "body",
+   "text": "given, by public advertisement, or in some other form to be prescribed by"
+  },
+  {
+   "role": "body",
+   "text": "their rules, to all parties in interest, that objection has been made to such"
+  },
+  {
+   "role": "body",
+   "text": "survey and location, and admonishing all parties in interest to intervene"
+  },
+  {
+   "role": "sidenote",
+   "text": "Courts to make"
+  },
+  {
+   "role": "sidenote",
+   "text": "rules, &c."
+  },
+  {
+   "role": "body",
+   "text": "for the protection of such interest ; and the said courts shall adopt rules"
+  },
+  {
+   "role": "body",
+   "text": "providing for the prompt and summary decision of all controversies on"
+  },
+  {
+   "role": "body",
+   "text": "surveys and locations that may arise under the provisions of this act."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. And be it further enacted, That when on the application of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "When parties"
+  },
+  {
+   "role": "sidenote",
+   "text": "interested may"
+  },
+  {
+   "role": "sidenote",
+   "text": "take testimony"
+  },
+  {
+   "role": "sidenote",
+   "text": "and how."
+  },
+  {
+   "role": "body",
+   "text": "party or parties interested as aforesaid, in said survey and location, the"
+  },
+  {
+   "role": "body",
+   "text": "same shall be returned into court, the said parties may proceed to take"
+  },
+  {
+   "role": "body",
+   "text": "testimony as to any matters necessary to show the true and proper loca-"
+  },
+  {
+   "role": "body",
+   "text": "tion of the claim ; such testimony to be taken in such manner, by deposi-"
+  },
+  {
+   "role": "body",
+   "text": "tion or otherwise, or by commission, as the court may direct, and, on"
+  },
+  {
+   "role": "sidenote",
+   "text": "Court to decide"
+  },
+  {
+   "role": "sidenote",
+   "text": "on proof."
+  },
+  {
+   "role": "body",
+   "text": "hearing the allegations and proofs, the court shall render judgment"
+  },
+  {
+   "role": "body",
+   "text": "thereon ; and if, in its opinion, the location and survey are erroneous, it is"
+  },
+  {
+   "role": "body",
+   "text": "hereby authorized to set aside and annul the same, or correct and modify"
+  },
+  {
+   "role": "sidenote",
+   "text": "Surveyor-gen-"
+  },
+  {
+   "role": "sidenote",
+   "text": "eral to make sur-"
+  },
+  {
+   "role": "sidenote",
+   "text": "vey conform to"
+  },
+  {
+   "role": "sidenote",
+   "text": "decree of court."
+  },
+  {
+   "role": "body",
+   "text": "it ; and it is hereby made the duty of the surveyor-general, on being"
+  },
+  {
+   "role": "body",
+   "text": "served with a certified copy of the decree of said court, forthwith to cause"
+  },
+  {
+   "role": "body",
+   "text": "a new survey and location to be made, or to correct and reform the survey"
+  },
+  {
+   "role": "body",
+   "text": "and location already made, so as to conform to the decree of the district"
+  },
+  {
+   "role": "body",
+   "text": "court, to whom it shall be returned for confirmation and approval."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. And be it further enacted, That when, after publication as"
+  },
+  {
+   "role": "body",
+   "text": "aforesaid, no application shall be made to the said court for the said order,"
+  },
+  {
+   "role": "sidenote",
+   "text": "When surveyor-"
+  },
+  {
+   "role": "sidenote",
+   "text": "general is to send"
+  },
+  {
+   "role": "sidenote",
+   "text": "plat or survey to"
+  },
+  {
+   "role": "sidenote",
+   "text": "general land of-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ficer, and patent"
+  },
+  {
+   "role": "sidenote",
+   "text": "to issue."
+  },
+  {
+   "role": "body",
+   "text": "or when said order has been refused, or when an order shall have been"
+  },
+  {
+   "role": "body",
+   "text": "obtained as aforesaid, and when the district court by its decree shall have"
+  },
+  {
+   "role": "body",
+   "text": "finally approved said survey and location, or shall have reformed or"
+  },
+  {
+   "role": "body",
+   "text": "modified the same, and determined the true location of the claim, it shall"
+  },
+  {
+   "role": "body",
+   "text": "be the duty of the surveyor-general to transmit, without delay, the plat or"
+  },
+  {
+   "role": "body",
+   "text": "survey of the said claim to the General Land Office, and the patent for"
+  },
+  {
+   "role": "body",
+   "text": "the land as surveyed shall forthwith be issued therefor, and no appeal"
+  },
+  {
+   "role": "sidenote",
+   "text": "Appeal from"
+  },
+  {
+   "role": "sidenote",
+   "text": "decree of court,"
+  },
+  {
+   "role": "sidenote",
+   "text": "how made."
+  },
+  {
+   "role": "body",
+   "text": "shall be allowed from the order or decree as aforesaid of the said district"
+  },
+  {
+   "role": "body",
+   "text": "court, unless applied for within six months from the date of the decree of"
+  },
+  {
+   "role": "body",
+   "text": "said district courts, but not afterwards ; and the said plat and survey so"
+  },
+  {
+   "role": "body",
+   "text": "finally determined by publication, order, or decree, as the case may be,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Effect of such"
+  },
+  {
+   "role": "sidenote",
+   "text": "plat and survey."
+  },
+  {
+   "role": "body",
+   "text": "shall have the same effect and validity in law as if a patent for the land"
+  },
+  {
+   "role": "body",
+   "text": "so surveyed had been issued by the United States."
+  },
+  {
+   "role": "sidenote",
+   "text": "Former sur-"
+  },
+  {
+   "role": "sidenote",
+   "text": "veys and loca-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tions made sub-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ject to this act,"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 6. And be it further enacted, That all surveys and locations here-"
+  },
+  {
+   "role": "body",
+   "text": "tofore made and approved by the surveyor-general of California, which"
+  },
+  {
+   "role": "body",
+   "text": "have been returned into the said district courts, or either of them, or in"
+  },
+  {
+   "role": "body",
+   "text": "which proceedings are now pending for the purpose of contesting or re-"
+  },
+  {
+   "role": "body",
+   "text": "forming the same, are hereby made subject to the provisions of this act,"
+  },
+  {
+   "role": "sidenote",
+   "text": "except, &c."
+  },
+  {
+   "role": "body",
+   "text": "except that in the cases so returned or pending no publication shall be"
+  },
+  {
+   "role": "body",
+   "text": "necessary on the part of the surveyor-general."
+  },
+  {
+   "role": "sidenote",
+   "text": "Compensation"
+  },
+  {
+   "role": "sidenote",
+   "text": "of the judges."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 7. And be it further enacted, That, for the performance of the"
+  },
+  {
+   "role": "body",
+   "text": "duties imposed by this act, and the act entitled “ An act to ascertain and"
+  },
+  {
+   "role": "sidenote",
+   "text": "1851, ch. 41,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. ix. p. 631."
+  },
+  {
+   "role": "body",
+   "text": "settle [the] private land claims in the State of California, passed March"
+  },
+  {
+   "role": "body",
+   "text": "third eighteen hundred and fifty-one,” there shall be allowed to the judges"
+  }
+ ],
+ "disagreement_count": 32,
+ "tokens": {
+  "input_tokens": 24899,
+  "output_tokens": 7866,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.32231,
+ "seconds": 428.2,
+ "created": "2026-09-08T12:11:20"
+}

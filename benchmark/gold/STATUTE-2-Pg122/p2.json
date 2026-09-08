@@ -1,0 +1,1235 @@
+{
+ "granule_id": "STATUTE-2-Pg122",
+ "package_id": "STATUTE-2",
+ "volume": 2,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act making appropriations for the Navy of the United States, for the year one thousand eight hundred and one.",
+ "date_issued": "1801-03-03",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "123",
+ "image": "data/gold/STATUTE-2-Pg122/p2.png",
+ "image_sha256": "c3267fab56c8bc5493dec2911832243c8c1a99978ab1962b56cf6d9d7d8b026c",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTH CONGRESS.  SESS. II. CH. 32.  1801."
+    },
+    {
+     "role": "page-number",
+     "text": "123"
+    },
+    {
+     "role": "body",
+     "text": "For the expenses attending six seventy-four gun ships, and for com-"
+    },
+    {
+     "role": "body",
+     "text": "pleting navy yards, docks, and wharves, the sum of five hundred thou-"
+    },
+    {
+     "role": "body",
+     "text": "sand dollars."
+    },
+    {
+     "role": "body",
+     "text": "For erecting marine barracks, the sum of twenty thousand dollars."
+    },
+    {
+     "role": "body",
+     "text": "For maintenance of French prisoners, the sum of thirty thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "For making up deficiency of former appropriations for the mainte-"
+    },
+    {
+     "role": "body",
+     "text": "nance of French prisoners, the sum of forty-five thousand dollars."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the several appropriations"
+    },
+    {
+     "role": "body",
+     "text": "herein before made shall be paid out of the unexpended balance of"
+    },
+    {
+     "role": "body",
+     "text": "appropriations for the navy, at the close of the last year, and out of any"
+    },
+    {
+     "role": "body",
+     "text": "other monies in the treasury not otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1801."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1801."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXII.—An Act for altering the times and places of holding certain"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Repealed.]"
+    },
+    {
+     "role": "body",
+     "text": "Courts therein mentioned, and for other purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of March,"
+    },
+    {
+     "role": "sidenote",
+     "text": "1802, ch. 8."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That the cir-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Times and"
+    },
+    {
+     "role": "sidenote",
+     "text": "places of hold-"
+    },
+    {
+     "role": "body",
+     "text": "cuit courts of the United States, within the districts of Maine, New"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing the circuit"
+    },
+    {
+     "role": "body",
+     "text": "Hampshire, Massachusetts and Rhode Island, shall, after the passing of"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts of Maine,"
+    },
+    {
+     "role": "body",
+     "text": "this act, commence and be respectively held on the several days herein"
+    },
+    {
+     "role": "sidenote",
+     "text": "New Hampshire"
+    },
+    {
+     "role": "body",
+     "text": "after expressed, instead of the times heretofore established by law, that"
+    },
+    {
+     "role": "sidenote",
+     "text": "and Massachu-"
+    },
+    {
+     "role": "body",
+     "text": "is to say: In and for the district of Rhode Island, at Providence, on"
+    },
+    {
+     "role": "sidenote",
+     "text": "setts, altered."
+    },
+    {
+     "role": "body",
+     "text": "every first day of April, and at Newport on every eleventh day of Novem-"
+    },
+    {
+     "role": "body",
+     "text": "ber; in and for the district of Massachusetts, on every eighth day of"
+    },
+    {
+     "role": "body",
+     "text": "April and twenty-fifth day of October; in and for the district of New"
+    },
+    {
+     "role": "body",
+     "text": "Hampshire, at Portsmouth, on every twenty-third day of April, and at"
+    },
+    {
+     "role": "body",
+     "text": "Exeter on every fifteenth day of October; in and for the district of"
+    },
+    {
+     "role": "body",
+     "text": "Maine, at Portland, on every first day of May, and at Wiscasset on"
+    },
+    {
+     "role": "body",
+     "text": "every sixth day of October, except when any of those days shall hap-"
+    },
+    {
+     "role": "body",
+     "text": "pen on a Sunday, and then the session shall commence on the next day"
+    },
+    {
+     "role": "body",
+     "text": "following."
+    },
+    {
+     "role": "sidenote",
+     "text": "Continuances"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That all actions, suits, process"
+    },
+    {
+     "role": "sidenote",
+     "text": "to those courts."
+    },
+    {
+     "role": "body",
+     "text": "and other proceedings of what nature or kind soever, depending and"
+    },
+    {
+     "role": "body",
+     "text": "undetermined before the circuit courts aforesaid respectively, or that"
+    },
+    {
+     "role": "body",
+     "text": "shall be depending and undetermined on the first day of April next,"
+    },
+    {
+     "role": "body",
+     "text": "before the district court for the district of Maine, acting as a circuit"
+    },
+    {
+     "role": "body",
+     "text": "court, shall be continued to the next circuit courts respectively hereby"
+    },
+    {
+     "role": "body",
+     "text": "directed to be holden in and for the districts aforesaid, respectively."
+    },
+    {
+     "role": "sidenote",
+     "text": "Causes to be"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That all writs and processes which"
+    },
+    {
+     "role": "sidenote",
+     "text": "proceeded on"
+    },
+    {
+     "role": "body",
+     "text": "have been, or shall be duly sued out and made returnable to either of"
+    },
+    {
+     "role": "sidenote",
+     "text": "therein."
+    },
+    {
+     "role": "body",
+     "text": "the circuit courts aforesaid, or to the district court for the district of"
+    },
+    {
+     "role": "body",
+     "text": "Maine, acting as a circuit court, on either of the days on which the"
+    },
+    {
+     "role": "body",
+     "text": "same courts were respectively to have been held prior to the passing of"
+    },
+    {
+     "role": "body",
+     "text": "this act, and all recognizances that have been or shall be duly taken and"
+    },
+    {
+     "role": "body",
+     "text": "made so returnable (said writs and processes having been duly and sea-"
+    },
+    {
+     "role": "body",
+     "text": "sonably served) shall be returned to and proceeded upon in the said"
+    },
+    {
+     "role": "body",
+     "text": "next circuit courts respectively, which are next to be holden in and for"
+    },
+    {
+     "role": "body",
+     "text": "the districts aforesaid, respectively, as hereby directed; and all property"
+    },
+    {
+     "role": "body",
+     "text": "attached by virtue of such writs or processes, shall be held in due form"
+    },
+    {
+     "role": "body",
+     "text": "of law to respond the final judgments that shall be obtained upon the same"
+    },
+    {
+     "role": "body",
+     "text": "respectively."
+    },
+    {
+     "role": "sidenote",
+     "text": "Times and"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That the district courts of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "places of hold-"
+    },
+    {
+     "role": "body",
+     "text": "United States, in the state of North Carolina, shall, after the passing of"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing the district"
+    },
+    {
+     "role": "body",
+     "text": "this act, commence and be held on the several days herein after expressed,"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts in North"
+    },
+    {
+     "role": "body",
+     "text": "instead of the times heretofore established by law, that is to say: at"
+    },
+    {
+     "role": "sidenote",
+     "text": "Carolina, alter-"
+    },
+    {
+     "role": "body",
+     "text": "Edenton in and for the district of Albemarle on every last Monday of"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed."
+    },
+    {
+     "role": "body",
+     "text": "March, third Monday of June, and last Monday of November; at Newbern"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2518,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09038,
+   "seconds": 46.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTH CONGRESS.  SESS. II. CH. 32.  1801."
+    },
+    {
+     "role": "page-number",
+     "text": "123"
+    },
+    {
+     "role": "body",
+     "text": "For the expenses attending six seventy-four gun ships, and for com-"
+    },
+    {
+     "role": "body",
+     "text": "pleting navy yards, docks, and wharves, the sum of five hundred thou-"
+    },
+    {
+     "role": "body",
+     "text": "sand dollars."
+    },
+    {
+     "role": "body",
+     "text": "For erecting marine barracks, the sum of twenty thousand dollars."
+    },
+    {
+     "role": "body",
+     "text": "For maintenance of French prisoners, the sum of thirty thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "For making up deficiency of former appropriations for the mainte-"
+    },
+    {
+     "role": "body",
+     "text": "nance of French prisoners, the sum of forty-five thousand dollars."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the several appropriations"
+    },
+    {
+     "role": "body",
+     "text": "herein before made shall be paid out of the unexpended balance of"
+    },
+    {
+     "role": "body",
+     "text": "appropriations for the navy, at the close of the last year, and out of any"
+    },
+    {
+     "role": "body",
+     "text": "other monies in the treasury not otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1801."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXII.—An Act for altering the times and places of holding certain"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1801."
+    },
+    {
+     "role": "body",
+     "text": "Courts therein mentioned, and for other purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Repealed.]"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of March,"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That the cir-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1802, ch. 8."
+    },
+    {
+     "role": "body",
+     "text": "cuit courts of the United States, within the districts of Maine, New"
+    },
+    {
+     "role": "sidenote",
+     "text": "Times and"
+    },
+    {
+     "role": "body",
+     "text": "Hampshire, Massachusetts and Rhode Island, shall, after the passing of"
+    },
+    {
+     "role": "sidenote",
+     "text": "places of hold-"
+    },
+    {
+     "role": "body",
+     "text": "this act, commence and be respectively held on the several days herein"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing the circuit"
+    },
+    {
+     "role": "body",
+     "text": "after expressed, instead of the times heretofore established by law, that"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts of Maine,"
+    },
+    {
+     "role": "body",
+     "text": "is to say: In and for the district of Rhode Island, at Providence, on"
+    },
+    {
+     "role": "sidenote",
+     "text": "New Hampshire"
+    },
+    {
+     "role": "body",
+     "text": "every first day of April, and at Newport on every eleventh day of Novem-"
+    },
+    {
+     "role": "sidenote",
+     "text": "and Massachu-"
+    },
+    {
+     "role": "body",
+     "text": "ber; in and for the district of Massachusetts, on every eighth day of"
+    },
+    {
+     "role": "sidenote",
+     "text": "setts, altered."
+    },
+    {
+     "role": "body",
+     "text": "April and twenty-fifth day of October; in and for the district of New"
+    },
+    {
+     "role": "body",
+     "text": "Hampshire, at Portsmouth, on every twenty-third day of April, and at"
+    },
+    {
+     "role": "body",
+     "text": "Exeter on every fifteenth day of October; in and for the district of"
+    },
+    {
+     "role": "body",
+     "text": "Maine, at Portland, on every first day of May, and at Wiscasset on"
+    },
+    {
+     "role": "body",
+     "text": "every sixth day of October, except when any of those days shall hap-"
+    },
+    {
+     "role": "body",
+     "text": "pen on a Sunday, and then the session shall commence on the next day"
+    },
+    {
+     "role": "body",
+     "text": "following."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That all actions, suits, process"
+    },
+    {
+     "role": "sidenote",
+     "text": "Continuances"
+    },
+    {
+     "role": "body",
+     "text": "and other proceedings of what nature or kind soever, depending and"
+    },
+    {
+     "role": "sidenote",
+     "text": "to those courts."
+    },
+    {
+     "role": "body",
+     "text": "undetermined before the circuit courts aforesaid respectively, or that"
+    },
+    {
+     "role": "body",
+     "text": "shall be depending and undetermined on the first day of April next,"
+    },
+    {
+     "role": "body",
+     "text": "before the district court for the district of Maine, acting as a circuit"
+    },
+    {
+     "role": "body",
+     "text": "court, shall be continued to the next circuit courts respectively hereby"
+    },
+    {
+     "role": "body",
+     "text": "directed to be holden in and for the districts aforesaid, respectively."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That all writs and processes which"
+    },
+    {
+     "role": "sidenote",
+     "text": "Causes to be"
+    },
+    {
+     "role": "body",
+     "text": "have been, or shall be duly sued out and made returnable to either of"
+    },
+    {
+     "role": "sidenote",
+     "text": "proceeded on"
+    },
+    {
+     "role": "body",
+     "text": "the circuit courts aforesaid, or to the district court for the district of"
+    },
+    {
+     "role": "sidenote",
+     "text": "therein."
+    },
+    {
+     "role": "body",
+     "text": "Maine, acting as a circuit court, on either of the days on which the"
+    },
+    {
+     "role": "body",
+     "text": "same courts were respectively to have been held prior to the passing of"
+    },
+    {
+     "role": "body",
+     "text": "this act, and all recognizances that have been or shall be duly taken and"
+    },
+    {
+     "role": "body",
+     "text": "made so returnable (said writs and processes having been duly and sea-"
+    },
+    {
+     "role": "body",
+     "text": "sonably served) shall be returned to and proceeded upon in the said"
+    },
+    {
+     "role": "body",
+     "text": "next circuit courts respectively, which are next to be holden in and for"
+    },
+    {
+     "role": "body",
+     "text": "the districts aforesaid, respectively, as hereby directed; and all property"
+    },
+    {
+     "role": "body",
+     "text": "attached by virtue of such writs or processes, shall be held in due form"
+    },
+    {
+     "role": "body",
+     "text": "of law to respond the final judgments that shall be obtained upon the same"
+    },
+    {
+     "role": "body",
+     "text": "respectively."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That the district courts of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Times and"
+    },
+    {
+     "role": "body",
+     "text": "United States, in the state of North Carolina, shall, after the passing of"
+    },
+    {
+     "role": "sidenote",
+     "text": "places of hold-"
+    },
+    {
+     "role": "body",
+     "text": "this act, commence and be held on the several days herein after expressed,"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing the district"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts in North"
+    },
+    {
+     "role": "body",
+     "text": "instead of the times heretofore established by law, that is to say: at"
+    },
+    {
+     "role": "sidenote",
+     "text": "Carolina, alter-"
+    },
+    {
+     "role": "body",
+     "text": "Edenton in and for the district of Albemarle on every last Monday of"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed."
+    },
+    {
+     "role": "body",
+     "text": "March, third Monday of June, and last Monday of November; at Newbern"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2429,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08815,
+   "seconds": 48.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13022,
+   "output_tokens": 4261,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.17205,
+  "seconds": 183.3,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "CHAP. XXXII.—An Act for altering the times and places of holding certain",
+    "kept": "CHAP. XXXII.—An Act for altering the times and places of holding certain",
+    "reason": "The chapter heading's first line follows the STATUTE II sidenote, with the March 3, 1801 sidenote on its right."
+   },
+   {
+    "run": 2,
+    "a": "CHAP. XXXII.—An Act for altering the times and places of holding certain",
+    "b": "Courts therein mentioned, and for other purposes.",
+    "kept": "Courts therein mentioned, and for other purposes.",
+    "reason": "Second line of the chapter heading comes next after the March 3, 1801 sidenote."
+   },
+   {
+    "run": 3,
+    "a": "Courts therein mentioned, and for other purposes.",
+    "b": "SECTION 1. Be it enacted by the Senate and House of Representatives",
+    "kept": "SECTION 1. Be it enacted by the Senate and House of Representatives",
+    "reason": "Body text resumes after the [Repealed.] sidenote."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "of the United States of America in Congress assembled, That the cir-",
+    "kept": "of the United States of America in Congress assembled, That the cir-",
+    "reason": "Next body line, aligned beside the 'Act of March,' sidenote."
+   },
+   {
+    "run": 5,
+    "a": "SECTION 1. Be it enacted by the Senate and House of Representatives\nof the United States of America in Congress assembled, That the cir-",
+    "b": "cuit courts of the United States, within the districts of Maine, New",
+    "kept": "cuit courts of the United States, within the districts of Maine, New",
+    "reason": "Only this body line follows the '1802, ch. 8.' sidenote; earlier lines already placed."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "Hampshire, Massachusetts and Rhode Island, shall, after the passing of",
+    "kept": "Hampshire, Massachusetts and Rhode Island, shall, after the passing of",
+    "reason": "Body line printed beside the 'Times and' sidenote."
+   },
+   {
+    "run": 7,
+    "a": "cuit courts of the United States, within the districts of Maine, New",
+    "b": "this act, commence and be respectively held on the several days herein",
+    "kept": "this act, commence and be respectively held on the several days herein",
+    "reason": "Next body line after the 'places of hold-' sidenote."
+   },
+   {
+    "run": 8,
+    "a": "Hampshire, Massachusetts and Rhode Island, shall, after the passing of",
+    "b": "after expressed, instead of the times heretofore established by law, that",
+    "kept": "after expressed, instead of the times heretofore established by law, that",
+    "reason": "Next body line after the 'ing the circuit' sidenote."
+   },
+   {
+    "run": 9,
+    "a": "this act, commence and be respectively held on the several days herein",
+    "b": "is to say: In and for the district of Rhode Island, at Providence, on",
+    "kept": "is to say: In and for the district of Rhode Island, at Providence, on",
+    "reason": "Next body line after the 'courts of Maine,' sidenote."
+   },
+   {
+    "run": 10,
+    "a": "after expressed, instead of the times heretofore established by law, that",
+    "b": "every first day of April, and at Newport on every eleventh day of Novem-",
+    "kept": "every first day of April, and at Newport on every eleventh day of Novem-",
+    "reason": "Next body line after the 'New Hampshire' sidenote."
+   },
+   {
+    "run": 11,
+    "a": "is to say: In and for the district of Rhode Island, at Providence, on",
+    "b": "ber; in and for the district of Massachusetts, on every eighth day of",
+    "kept": "ber; in and for the district of Massachusetts, on every eighth day of",
+    "reason": "Next body line after the 'and Massachu-' sidenote."
+   },
+   {
+    "run": 12,
+    "a": "every first day of April, and at Newport on every eleventh day of Novem-\nber; in and for the district of Massachusetts, on every eighth day of",
+    "b": "",
+    "kept": "",
+    "reason": "Nothing further at this point; the following body line is already agreed."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "SEC. 2. And be it further enacted, That all actions, suits, process",
+    "kept": "SEC. 2. And be it further enacted, That all actions, suits, process",
+    "reason": "Section 2 opening line stands beside the 'Continuances' sidenote."
+   },
+   {
+    "run": 14,
+    "a": "SEC. 2. And be it further enacted, That all actions, suits, process",
+    "b": "and other proceedings of what nature or kind soever, depending and",
+    "kept": "and other proceedings of what nature or kind soever, depending and",
+    "reason": "Next body line after the 'Continuances' sidenote."
+   },
+   {
+    "run": 15,
+    "a": "and other proceedings of what nature or kind soever, depending and",
+    "b": "",
+    "kept": "",
+    "reason": "No line printed here; the body line was already placed."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "SEC. 3. And be it further enacted, That all writs and processes which",
+    "kept": "SEC. 3. And be it further enacted, That all writs and processes which",
+    "reason": "Section 3 opening line precedes the 'Causes to be' sidenote."
+   },
+   {
+    "run": 17,
+    "a": "SEC. 3. And be it further enacted, That all writs and processes which",
+    "b": "have been, or shall be duly sued out and made returnable to either of",
+    "kept": "have been, or shall be duly sued out and made returnable to either of",
+    "reason": "Next body line after the 'Causes to be' sidenote."
+   },
+   {
+    "run": 18,
+    "a": "have been, or shall be duly sued out and made returnable to either of",
+    "b": "the circuit courts aforesaid, or to the district court for the district of",
+    "kept": "the circuit courts aforesaid, or to the district court for the district of",
+    "reason": "Next body line after the 'proceeded on' sidenote."
+   },
+   {
+    "run": 19,
+    "a": "the circuit courts aforesaid, or to the district court for the district of",
+    "b": "",
+    "kept": "",
+    "reason": "No line printed here; body line already placed."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "SEC. 4. And be it further enacted, That the district courts of the",
+    "kept": "SEC. 4. And be it further enacted, That the district courts of the",
+    "reason": "Section 4 opening line stands beside the 'Times and' sidenote."
+   },
+   {
+    "run": 21,
+    "a": "SEC. 4. And be it further enacted, That the district courts of the",
+    "b": "United States, in the state of North Carolina, shall, after the passing of",
+    "kept": "United States, in the state of North Carolina, shall, after the passing of",
+    "reason": "Next body line after the 'Times and' sidenote."
+   },
+   {
+    "run": 22,
+    "a": "United States, in the state of North Carolina, shall, after the passing of",
+    "b": "this act, commence and be held on the several days herein after expressed,",
+    "kept": "this act, commence and be held on the several days herein after expressed,",
+    "reason": "Next body line after the 'places of hold-' sidenote."
+   },
+   {
+    "run": 23,
+    "a": "this act, commence and be held on the several days herein after expressed,",
+    "b": "",
+    "kept": "",
+    "reason": "Nothing printed here; this body line was already placed before the 'ing the district' sidenote."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "SIXTH CONGRESS.  SESS. II. CH. 32.  1801."
+  },
+  {
+   "role": "page-number",
+   "text": "123"
+  },
+  {
+   "role": "body",
+   "text": "For the expenses attending six seventy-four gun ships, and for com-"
+  },
+  {
+   "role": "body",
+   "text": "pleting navy yards, docks, and wharves, the sum of five hundred thou-"
+  },
+  {
+   "role": "body",
+   "text": "sand dollars."
+  },
+  {
+   "role": "body",
+   "text": "For erecting marine barracks, the sum of twenty thousand dollars."
+  },
+  {
+   "role": "body",
+   "text": "For maintenance of French prisoners, the sum of thirty thousand"
+  },
+  {
+   "role": "body",
+   "text": "dollars."
+  },
+  {
+   "role": "body",
+   "text": "For making up deficiency of former appropriations for the mainte-"
+  },
+  {
+   "role": "body",
+   "text": "nance of French prisoners, the sum of forty-five thousand dollars."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the several appropriations"
+  },
+  {
+   "role": "body",
+   "text": "herein before made shall be paid out of the unexpended balance of"
+  },
+  {
+   "role": "body",
+   "text": "appropriations for the navy, at the close of the last year, and out of any"
+  },
+  {
+   "role": "body",
+   "text": "other monies in the treasury not otherwise appropriated."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1801."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXXII.—An Act for altering the times and places of holding certain"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1801."
+  },
+  {
+   "role": "body",
+   "text": "Courts therein mentioned, and for other purposes."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Repealed.]"
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of March,"
+  },
+  {
+   "role": "body",
+   "text": "of the United States of America in Congress assembled, That the cir-"
+  },
+  {
+   "role": "sidenote",
+   "text": "1802, ch. 8."
+  },
+  {
+   "role": "body",
+   "text": "cuit courts of the United States, within the districts of Maine, New"
+  },
+  {
+   "role": "sidenote",
+   "text": "Times and"
+  },
+  {
+   "role": "body",
+   "text": "Hampshire, Massachusetts and Rhode Island, shall, after the passing of"
+  },
+  {
+   "role": "sidenote",
+   "text": "places of hold-"
+  },
+  {
+   "role": "body",
+   "text": "this act, commence and be respectively held on the several days herein"
+  },
+  {
+   "role": "sidenote",
+   "text": "ing the circuit"
+  },
+  {
+   "role": "body",
+   "text": "after expressed, instead of the times heretofore established by law, that"
+  },
+  {
+   "role": "sidenote",
+   "text": "courts of Maine,"
+  },
+  {
+   "role": "body",
+   "text": "is to say: In and for the district of Rhode Island, at Providence, on"
+  },
+  {
+   "role": "sidenote",
+   "text": "New Hampshire"
+  },
+  {
+   "role": "body",
+   "text": "every first day of April, and at Newport on every eleventh day of Novem-"
+  },
+  {
+   "role": "sidenote",
+   "text": "and Massachu-"
+  },
+  {
+   "role": "body",
+   "text": "ber; in and for the district of Massachusetts, on every eighth day of"
+  },
+  {
+   "role": "sidenote",
+   "text": "setts, altered."
+  },
+  {
+   "role": "body",
+   "text": "April and twenty-fifth day of October; in and for the district of New"
+  },
+  {
+   "role": "body",
+   "text": "Hampshire, at Portsmouth, on every twenty-third day of April, and at"
+  },
+  {
+   "role": "body",
+   "text": "Exeter on every fifteenth day of October; in and for the district of"
+  },
+  {
+   "role": "body",
+   "text": "Maine, at Portland, on every first day of May, and at Wiscasset on"
+  },
+  {
+   "role": "body",
+   "text": "every sixth day of October, except when any of those days shall hap-"
+  },
+  {
+   "role": "body",
+   "text": "pen on a Sunday, and then the session shall commence on the next day"
+  },
+  {
+   "role": "body",
+   "text": "following."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That all actions, suits, process"
+  },
+  {
+   "role": "sidenote",
+   "text": "Continuances"
+  },
+  {
+   "role": "body",
+   "text": "and other proceedings of what nature or kind soever, depending and"
+  },
+  {
+   "role": "sidenote",
+   "text": "to those courts."
+  },
+  {
+   "role": "body",
+   "text": "undetermined before the circuit courts aforesaid respectively, or that"
+  },
+  {
+   "role": "body",
+   "text": "shall be depending and undetermined on the first day of April next,"
+  },
+  {
+   "role": "body",
+   "text": "before the district court for the district of Maine, acting as a circuit"
+  },
+  {
+   "role": "body",
+   "text": "court, shall be continued to the next circuit courts respectively hereby"
+  },
+  {
+   "role": "body",
+   "text": "directed to be holden in and for the districts aforesaid, respectively."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That all writs and processes which"
+  },
+  {
+   "role": "sidenote",
+   "text": "Causes to be"
+  },
+  {
+   "role": "body",
+   "text": "have been, or shall be duly sued out and made returnable to either of"
+  },
+  {
+   "role": "sidenote",
+   "text": "proceeded on"
+  },
+  {
+   "role": "body",
+   "text": "the circuit courts aforesaid, or to the district court for the district of"
+  },
+  {
+   "role": "sidenote",
+   "text": "therein."
+  },
+  {
+   "role": "body",
+   "text": "Maine, acting as a circuit court, on either of the days on which the"
+  },
+  {
+   "role": "body",
+   "text": "same courts were respectively to have been held prior to the passing of"
+  },
+  {
+   "role": "body",
+   "text": "this act, and all recognizances that have been or shall be duly taken and"
+  },
+  {
+   "role": "body",
+   "text": "made so returnable (said writs and processes having been duly and sea-"
+  },
+  {
+   "role": "body",
+   "text": "sonably served) shall be returned to and proceeded upon in the said"
+  },
+  {
+   "role": "body",
+   "text": "next circuit courts respectively, which are next to be holden in and for"
+  },
+  {
+   "role": "body",
+   "text": "the districts aforesaid, respectively, as hereby directed; and all property"
+  },
+  {
+   "role": "body",
+   "text": "attached by virtue of such writs or processes, shall be held in due form"
+  },
+  {
+   "role": "body",
+   "text": "of law to respond the final judgments that shall be obtained upon the same"
+  },
+  {
+   "role": "body",
+   "text": "respectively."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. And be it further enacted, That the district courts of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Times and"
+  },
+  {
+   "role": "body",
+   "text": "United States, in the state of North Carolina, shall, after the passing of"
+  },
+  {
+   "role": "sidenote",
+   "text": "places of hold-"
+  },
+  {
+   "role": "body",
+   "text": "this act, commence and be held on the several days herein after expressed,"
+  },
+  {
+   "role": "sidenote",
+   "text": "ing the district"
+  },
+  {
+   "role": "sidenote",
+   "text": "courts in North"
+  },
+  {
+   "role": "body",
+   "text": "instead of the times heretofore established by law, that is to say: at"
+  },
+  {
+   "role": "sidenote",
+   "text": "Carolina, alter-"
+  },
+  {
+   "role": "body",
+   "text": "Edenton in and for the district of Albemarle on every last Monday of"
+  },
+  {
+   "role": "sidenote",
+   "text": "ed."
+  },
+  {
+   "role": "body",
+   "text": "March, third Monday of June, and last Monday of November; at Newbern"
+  }
+ ],
+ "disagreement_count": 23,
+ "tokens": {
+  "input_tokens": 23845,
+  "output_tokens": 9208,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.35058,
+ "seconds": 278.3,
+ "created": "2026-09-08T11:32:34"
+}

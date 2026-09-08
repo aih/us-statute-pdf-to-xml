@@ -1,0 +1,1152 @@
+{
+ "granule_id": "STATUTE-12-Pg198-2",
+ "package_id": "STATUTE-12",
+ "volume": 12,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to provide for the Payment of Expenses incurred by the Territories of Washington and Oregon in the Suppression of Indian Hostilities therein, in the Years eighteen hundred and fifty-five and ei",
+ "date_issued": "1861-03-02",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "198",
+ "image": "data/gold/STATUTE-12-Pg198-2/p1.png",
+ "image_sha256": "67d1939429699c3a5e1239f37fd17eed0ddd1ceae33142109a8a3475e0979f1d",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-SIXTH CONGRESS.  SESS. II.  CH. 69, 70.  1861."
+    },
+    {
+     "role": "body",
+     "text": "chandise in deposit in warehouse or public store on the first day of April,"
+    },
+    {
+     "role": "body",
+     "text": "eighteen hundred and sixty-one, shall be subject to pay such duties as"
+    },
+    {
+     "role": "body",
+     "text": "provided by law before and at the time of the passage of this act; and"
+    },
+    {
+     "role": "body",
+     "text": "all goods in warehouse at the time this act takes effect, on which the du-"
+    },
+    {
+     "role": "body",
+     "text": "ties are lessened by its provisions, may be withdrawn on payment of the"
+    },
+    {
+     "role": "body",
+     "text": "duties herein provided."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 2, 1861."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1861."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXIX. — An Act to provide for bringing up the Arrearages of Work of the"
+    },
+    {
+     "role": "body",
+     "text": "Land Office at Olympia, Washington Territory."
+    },
+    {
+     "role": "sidenote",
+     "text": "Clerical ser-"
+    },
+    {
+     "role": "sidenote",
+     "text": "vices in land-"
+    },
+    {
+     "role": "sidenote",
+     "text": "office at Olympia,"
+    },
+    {
+     "role": "sidenote",
+     "text": "W. T."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the"
+    },
+    {
+     "role": "body",
+     "text": "Interior be authorized to make such allowances for clerical services in"
+    },
+    {
+     "role": "body",
+     "text": "bringing up the arrearages of business at the land office at Olympia,"
+    },
+    {
+     "role": "body",
+     "text": "Washington Territory, including payment of clerical services already"
+    },
+    {
+     "role": "body",
+     "text": "necessarily incurred, as, on the production of the proper evidence, he"
+    },
+    {
+     "role": "body",
+     "text": "may deem equitable and just, the amount not to exceed the sum of three"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars, and to be paid out of the appropriation for incidental"
+    },
+    {
+     "role": "body",
+     "text": "expenses of district land offices."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 2, 1861."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1861."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXX. — An Act to provide for the Payment of Expenses incurred by the Ter-"
+    },
+    {
+     "role": "body",
+     "text": "ritories of Washington and Oregon in the Suppression of Indian Hostilities therein, in"
+    },
+    {
+     "role": "body",
+     "text": "the Years eighteen hundred and fifty-five and eighteen hundred and fifty-six."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Expenses of In-"
+    },
+    {
+     "role": "sidenote",
+     "text": "dian hostilities in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Washington and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Oregon."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the following sums, or so"
+    },
+    {
+     "role": "body",
+     "text": "much thereof as may be necessary, be and they are hereby appropriated"
+    },
+    {
+     "role": "body",
+     "text": "out of any money in the Treasury not otherwise appropriated, to defray"
+    },
+    {
+     "role": "body",
+     "text": "the expenses incurred in the Territories of Washington and Oregon, in"
+    },
+    {
+     "role": "body",
+     "text": "the suppression of Indian hostilities therein in the years eighteen hundred"
+    },
+    {
+     "role": "body",
+     "text": "and fifty-five and eighteen hundred and fifty-six."
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay of volun-"
+    },
+    {
+     "role": "sidenote",
+     "text": "teers."
+    },
+    {
+     "role": "body",
+     "text": "For the payment of volunteers, embracing the first, second, and ninth"
+    },
+    {
+     "role": "body",
+     "text": "Oregon regiments, and the three companies of minute-men, numbered"
+    },
+    {
+     "role": "body",
+     "text": "sixty, sixty-one, and sixty-two, and the first and second Washington regi-"
+    },
+    {
+     "role": "body",
+     "text": "ments and promiscuous companies, including the companies of Captain"
+    },
+    {
+     "role": "body",
+     "text": "Strong and Captain Hays, four hundred thousand dollars, after deducting"
+    },
+    {
+     "role": "body",
+     "text": "stoppages as ascertained by the Third Auditor of the Treasury in his re-"
+    },
+    {
+     "role": "body",
+     "text": "port of the seventh of February, eighteen hundred and sixty, made in"
+    },
+    {
+     "role": "body",
+     "text": "pursuance of a resolution of the House of Representatives passed the"
+    },
+    {
+     "role": "body",
+     "text": "eighth of February, eighteen hundred and fifty-nine; said claims to"
+    },
+    {
+     "role": "body",
+     "text": "be examined and audited by the Third Auditor of the Treasury, who"
+    },
+    {
+     "role": "body",
+     "text": "shall allow to said volunteers the same pay and allowances as were paid"
+    },
+    {
+     "role": "body",
+     "text": "to officers and soldiers of equal grade at that period in the United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "made only for"
+    },
+    {
+     "role": "sidenote",
+     "text": "those in actual"
+    },
+    {
+     "role": "sidenote",
+     "text": "service."
+    },
+    {
+     "role": "body",
+     "text": "army serving in that country: Provided, That payment shall only be"
+    },
+    {
+     "role": "body",
+     "text": "made to such of the above-named companies as shall be shown by satis-"
+    },
+    {
+     "role": "body",
+     "text": "factory proof to have been engaged in actual service in the field for the"
+    },
+    {
+     "role": "body",
+     "text": "period and in the manner claimed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay for main-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tenance of volun-"
+    },
+    {
+     "role": "sidenote",
+     "text": "teers."
+    },
+    {
+     "role": "body",
+     "text": "For the payment of claims for services, supplies, transportation, and so"
+    },
+    {
+     "role": "body",
+     "text": "forth, incurred in the maintenance of said volunteers, two million four"
+    },
+    {
+     "role": "body",
+     "text": "hundred thousand dollars, to be paid upon the principle, and agreeably"
+    },
+    {
+     "role": "body",
+     "text": "to the rates for services, supplies, transportation, and so forth, allowed"
+    },
+    {
+     "role": "body",
+     "text": "and reported by the Third Auditor of the Treasury in his aforesaid re-"
+    },
+    {
+     "role": "body",
+     "text": "port of the seventh of February, eighteen hundred and sixty: Provided,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "That said Auditor be and he hereby is authorized and directed to receive"
+    },
+    {
+     "role": "body",
+     "text": "additional evidence as to the amount or value of supplies, transportation,"
+    },
+    {
+     "role": "body",
+     "text": "and personal services, and to correct errors in his former report touching"
+    },
+    {
+     "role": "body",
+     "text": "the same ; and in cases where supplies were furnished at points in either"
+    },
+    {
+     "role": "body",
+     "text": "of said Territories, where similar supplies were not furnished for the"
+    },
+    {
+     "role": "page-number",
+     "text": "198"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 2549,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09172,
+   "seconds": 82.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "198"
+    },
+    {
+     "role": "running-head",
+     "text": "THIRTY-SIXTH CONGRESS.  SESS. II.  CH. 69, 70.  1861."
+    },
+    {
+     "role": "body",
+     "text": "chandise in deposit in warehouse or public store on the first day of April,"
+    },
+    {
+     "role": "body",
+     "text": "eighteen hundred and sixty-one, shall be subject to pay such duties as"
+    },
+    {
+     "role": "body",
+     "text": "provided by law before and at the time of the passage of this act; and"
+    },
+    {
+     "role": "body",
+     "text": "all goods in warehouse at the time this act takes effect, on which the du-"
+    },
+    {
+     "role": "body",
+     "text": "ties are lessened by its provisions, may be withdrawn on payment of the"
+    },
+    {
+     "role": "body",
+     "text": "duties herein provided."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 2, 1861."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1861."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXIX. — An Act to provide for bringing up the Arrearages of Work of the"
+    },
+    {
+     "role": "body",
+     "text": "Land Office at Olympia, Washington Territory."
+    },
+    {
+     "role": "sidenote",
+     "text": "Clerical ser-"
+    },
+    {
+     "role": "sidenote",
+     "text": "vices in land-"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "office at Olympia,"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "W. T."
+    },
+    {
+     "role": "body",
+     "text": "Interior be authorized to make such allowances for clerical services in"
+    },
+    {
+     "role": "body",
+     "text": "bringing up the arrearages of business at the land office at Olympia,"
+    },
+    {
+     "role": "body",
+     "text": "Washington Territory, including payment of clerical services already"
+    },
+    {
+     "role": "body",
+     "text": "necessarily incurred, as, on the production of the proper evidence, he"
+    },
+    {
+     "role": "body",
+     "text": "may deem equitable and just, the amount not to exceed the sum of three"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars, and to be paid out of the appropriation for incidental"
+    },
+    {
+     "role": "body",
+     "text": "expenses of district land offices."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 2, 1861."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1861."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXX. — An Act to provide for the Payment of Expenses incurred by the Ter-"
+    },
+    {
+     "role": "body",
+     "text": "ritories of Washington and Oregon in the Suppression of Indian Hostilities therein, in"
+    },
+    {
+     "role": "body",
+     "text": "the Years eighteen hundred and fifty-five and eighteen hundred and fifty-six."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Expenses of In-"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the following sums, or so"
+    },
+    {
+     "role": "sidenote",
+     "text": "dian hostilities in"
+    },
+    {
+     "role": "body",
+     "text": "much thereof as may be necessary, be and they are hereby appropriated"
+    },
+    {
+     "role": "sidenote",
+     "text": "Washington and"
+    },
+    {
+     "role": "body",
+     "text": "out of any money in the Treasury not otherwise appropriated, to defray"
+    },
+    {
+     "role": "sidenote",
+     "text": "Oregon."
+    },
+    {
+     "role": "body",
+     "text": "the expenses incurred in the Territories of Washington and Oregon, in"
+    },
+    {
+     "role": "body",
+     "text": "the suppression of Indian hostilities therein in the years eighteen hundred"
+    },
+    {
+     "role": "body",
+     "text": "and fifty-five and eighteen hundred and fifty-six."
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay of volun-"
+    },
+    {
+     "role": "body",
+     "text": "For the payment of volunteers, embracing the first, second, and ninth"
+    },
+    {
+     "role": "sidenote",
+     "text": "teers."
+    },
+    {
+     "role": "body",
+     "text": "Oregon regiments, and the three companies of minute-men, numbered"
+    },
+    {
+     "role": "body",
+     "text": "sixty, sixty-one, and sixty-two, and the first and second Washington regi-"
+    },
+    {
+     "role": "body",
+     "text": "ments and promiscuous companies, including the companies of Captain"
+    },
+    {
+     "role": "body",
+     "text": "Strong and Captain Hays, four hundred thousand dollars, after deducting"
+    },
+    {
+     "role": "body",
+     "text": "stoppages as ascertained by the Third Auditor of the Treasury in his re-"
+    },
+    {
+     "role": "body",
+     "text": "port of the seventh of February, eighteen hundred and sixty, made in"
+    },
+    {
+     "role": "body",
+     "text": "pursuance of a resolution of the House of Representatives passed the"
+    },
+    {
+     "role": "body",
+     "text": "eighth of February, eighteen hundred and fifty-nine; said claims to"
+    },
+    {
+     "role": "body",
+     "text": "be examined and audited by the Third Auditor of the Treasury, who"
+    },
+    {
+     "role": "body",
+     "text": "shall allow to said volunteers the same pay and allowances as were paid"
+    },
+    {
+     "role": "body",
+     "text": "to officers and soldiers of equal grade at that period in the United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment to be"
+    },
+    {
+     "role": "body",
+     "text": "army serving in that country: Provided, That payment shall only be"
+    },
+    {
+     "role": "sidenote",
+     "text": "made only for"
+    },
+    {
+     "role": "body",
+     "text": "made to such of the above-named companies as shall be shown by satis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "those in actual"
+    },
+    {
+     "role": "body",
+     "text": "factory proof to have been engaged in actual service in the field for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "service."
+    },
+    {
+     "role": "body",
+     "text": "period and in the manner claimed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay for main-"
+    },
+    {
+     "role": "body",
+     "text": "For the payment of claims for services, supplies, transportation, and so"
+    },
+    {
+     "role": "sidenote",
+     "text": "tenance of volun-"
+    },
+    {
+     "role": "body",
+     "text": "forth, incurred in the maintenance of said volunteers, two million four"
+    },
+    {
+     "role": "sidenote",
+     "text": "teers."
+    },
+    {
+     "role": "body",
+     "text": "hundred thousand dollars, to be paid upon the principle, and agreeably"
+    },
+    {
+     "role": "body",
+     "text": "to the rates for services, supplies, transportation, and so forth, allowed"
+    },
+    {
+     "role": "body",
+     "text": "and reported by the Third Auditor of the Treasury in his aforesaid re-"
+    },
+    {
+     "role": "body",
+     "text": "port of the seventh of February, eighteen hundred and sixty: Provided,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "That said Auditor be and he hereby is authorized and directed to receive"
+    },
+    {
+     "role": "body",
+     "text": "additional evidence as to the amount or value of supplies, transportation,"
+    },
+    {
+     "role": "body",
+     "text": "and personal services, and to correct errors in his former report touching"
+    },
+    {
+     "role": "body",
+     "text": "the same ; and in cases where supplies were furnished at points in either"
+    },
+    {
+     "role": "body",
+     "text": "of said Territories, where similar supplies were not furnished for the"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 2343,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08656,
+   "seconds": 170.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12670,
+   "output_tokens": 1593,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.10359,
+  "seconds": 19.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "198",
+    "kept": "198",
+    "reason": "Page number 198 is printed at the top left, before the running head."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the United",
+    "kept": "",
+    "reason": "Body line belongs after the complete sidenote block, not interleaved here."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "States of America in Congress assembled, That the Secretary of the",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 4,
+    "a": "Be it enacted by the Senate and House of Representatives of the United\nStates of America in Congress assembled, That the Secretary of the",
+    "b": "",
+    "kept": "Be it enacted by the Senate and House of Representatives of the United\nStates of America in Congress assembled, That the Secretary of the",
+    "reason": "These two body lines follow the four-line sidenote block."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "States of America in Congress assembled, That the following sums, or so",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "much thereof as may be necessary, be and they are hereby appropriated",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "out of any money in the Treasury not otherwise appropriated, to defray",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 8,
+    "a": "States of America in Congress assembled, That the following sums, or so\nmuch thereof as may be necessary, be and they are hereby appropriated\nout of any money in the Treasury not otherwise appropriated, to defray",
+    "b": "",
+    "kept": "States of America in Congress assembled, That the following sums, or so\nmuch thereof as may be necessary, be and they are hereby appropriated\nout of any money in the Treasury not otherwise appropriated, to defray",
+    "reason": "Body lines follow the complete four-line sidenote."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "For the payment of volunteers, embracing the first, second, and ninth",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 10,
+    "a": "For the payment of volunteers, embracing the first, second, and ninth",
+    "b": "",
+    "kept": "For the payment of volunteers, embracing the first, second, and ninth",
+    "reason": "Body line follows the two-line sidenote 'Pay of volunteers.'"
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "army serving in that country: Provided, That payment shall only be",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "made to such of the above-named companies as shall be shown by satis-",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "factory proof to have been engaged in actual service in the field for the",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 14,
+    "a": "army serving in that country: Provided, That payment shall only be\nmade to such of the above-named companies as shall be shown by satis-\nfactory proof to have been engaged in actual service in the field for the",
+    "b": "",
+    "kept": "army serving in that country: Provided, That payment shall only be\nmade to such of the above-named companies as shall be shown by satis-\nfactory proof to have been engaged in actual service in the field for the",
+    "reason": "Body lines follow the four-line sidenote block."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "For the payment of claims for services, supplies, transportation, and so",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "forth, incurred in the maintenance of said volunteers, two million four",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 17,
+    "a": "For the payment of claims for services, supplies, transportation, and so\nforth, incurred in the maintenance of said volunteers, two million four",
+    "b": "",
+    "kept": "For the payment of claims for services, supplies, transportation, and so\nforth, incurred in the maintenance of said volunteers, two million four",
+    "reason": "Body lines follow the three-line sidenote block."
+   },
+   {
+    "run": 18,
+    "a": "198",
+    "b": "",
+    "kept": "",
+    "reason": "The page number appears at the top of the page, not at the bottom."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "198"
+  },
+  {
+   "role": "running-head",
+   "text": "THIRTY-SIXTH CONGRESS.  SESS. II.  CH. 69, 70.  1861."
+  },
+  {
+   "role": "body",
+   "text": "chandise in deposit in warehouse or public store on the first day of April,"
+  },
+  {
+   "role": "body",
+   "text": "eighteen hundred and sixty-one, shall be subject to pay such duties as"
+  },
+  {
+   "role": "body",
+   "text": "provided by law before and at the time of the passage of this act; and"
+  },
+  {
+   "role": "body",
+   "text": "all goods in warehouse at the time this act takes effect, on which the du-"
+  },
+  {
+   "role": "body",
+   "text": "ties are lessened by its provisions, may be withdrawn on payment of the"
+  },
+  {
+   "role": "body",
+   "text": "duties herein provided."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 2, 1861."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 2, 1861."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LXIX. — An Act to provide for bringing up the Arrearages of Work of the"
+  },
+  {
+   "role": "body",
+   "text": "Land Office at Olympia, Washington Territory."
+  },
+  {
+   "role": "sidenote",
+   "text": "Clerical ser-"
+  },
+  {
+   "role": "sidenote",
+   "text": "vices in land-"
+  },
+  {
+   "role": "sidenote",
+   "text": "office at Olympia,"
+  },
+  {
+   "role": "sidenote",
+   "text": "W. T."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the Secretary of the"
+  },
+  {
+   "role": "body",
+   "text": "Interior be authorized to make such allowances for clerical services in"
+  },
+  {
+   "role": "body",
+   "text": "bringing up the arrearages of business at the land office at Olympia,"
+  },
+  {
+   "role": "body",
+   "text": "Washington Territory, including payment of clerical services already"
+  },
+  {
+   "role": "body",
+   "text": "necessarily incurred, as, on the production of the proper evidence, he"
+  },
+  {
+   "role": "body",
+   "text": "may deem equitable and just, the amount not to exceed the sum of three"
+  },
+  {
+   "role": "body",
+   "text": "thousand dollars, and to be paid out of the appropriation for incidental"
+  },
+  {
+   "role": "body",
+   "text": "expenses of district land offices."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 2, 1861."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 2, 1861."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LXX. — An Act to provide for the Payment of Expenses incurred by the Ter-"
+  },
+  {
+   "role": "body",
+   "text": "ritories of Washington and Oregon in the Suppression of Indian Hostilities therein, in"
+  },
+  {
+   "role": "body",
+   "text": "the Years eighteen hundred and fifty-five and eighteen hundred and fifty-six."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Expenses of In-"
+  },
+  {
+   "role": "sidenote",
+   "text": "dian hostilities in"
+  },
+  {
+   "role": "sidenote",
+   "text": "Washington and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Oregon."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the following sums, or so"
+  },
+  {
+   "role": "body",
+   "text": "much thereof as may be necessary, be and they are hereby appropriated"
+  },
+  {
+   "role": "body",
+   "text": "out of any money in the Treasury not otherwise appropriated, to defray"
+  },
+  {
+   "role": "body",
+   "text": "the expenses incurred in the Territories of Washington and Oregon, in"
+  },
+  {
+   "role": "body",
+   "text": "the suppression of Indian hostilities therein in the years eighteen hundred"
+  },
+  {
+   "role": "body",
+   "text": "and fifty-five and eighteen hundred and fifty-six."
+  },
+  {
+   "role": "sidenote",
+   "text": "Pay of volun-"
+  },
+  {
+   "role": "sidenote",
+   "text": "teers."
+  },
+  {
+   "role": "body",
+   "text": "For the payment of volunteers, embracing the first, second, and ninth"
+  },
+  {
+   "role": "body",
+   "text": "Oregon regiments, and the three companies of minute-men, numbered"
+  },
+  {
+   "role": "body",
+   "text": "sixty, sixty-one, and sixty-two, and the first and second Washington regi-"
+  },
+  {
+   "role": "body",
+   "text": "ments and promiscuous companies, including the companies of Captain"
+  },
+  {
+   "role": "body",
+   "text": "Strong and Captain Hays, four hundred thousand dollars, after deducting"
+  },
+  {
+   "role": "body",
+   "text": "stoppages as ascertained by the Third Auditor of the Treasury in his re-"
+  },
+  {
+   "role": "body",
+   "text": "port of the seventh of February, eighteen hundred and sixty, made in"
+  },
+  {
+   "role": "body",
+   "text": "pursuance of a resolution of the House of Representatives passed the"
+  },
+  {
+   "role": "body",
+   "text": "eighth of February, eighteen hundred and fifty-nine; said claims to"
+  },
+  {
+   "role": "body",
+   "text": "be examined and audited by the Third Auditor of the Treasury, who"
+  },
+  {
+   "role": "body",
+   "text": "shall allow to said volunteers the same pay and allowances as were paid"
+  },
+  {
+   "role": "body",
+   "text": "to officers and soldiers of equal grade at that period in the United States"
+  },
+  {
+   "role": "sidenote",
+   "text": "Payment to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "made only for"
+  },
+  {
+   "role": "sidenote",
+   "text": "those in actual"
+  },
+  {
+   "role": "sidenote",
+   "text": "service."
+  },
+  {
+   "role": "body",
+   "text": "army serving in that country: Provided, That payment shall only be"
+  },
+  {
+   "role": "body",
+   "text": "made to such of the above-named companies as shall be shown by satis-"
+  },
+  {
+   "role": "body",
+   "text": "factory proof to have been engaged in actual service in the field for the"
+  },
+  {
+   "role": "body",
+   "text": "period and in the manner claimed."
+  },
+  {
+   "role": "sidenote",
+   "text": "Pay for main-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tenance of volun-"
+  },
+  {
+   "role": "sidenote",
+   "text": "teers."
+  },
+  {
+   "role": "body",
+   "text": "For the payment of claims for services, supplies, transportation, and so"
+  },
+  {
+   "role": "body",
+   "text": "forth, incurred in the maintenance of said volunteers, two million four"
+  },
+  {
+   "role": "body",
+   "text": "hundred thousand dollars, to be paid upon the principle, and agreeably"
+  },
+  {
+   "role": "body",
+   "text": "to the rates for services, supplies, transportation, and so forth, allowed"
+  },
+  {
+   "role": "body",
+   "text": "and reported by the Third Auditor of the Treasury in his aforesaid re-"
+  },
+  {
+   "role": "body",
+   "text": "port of the seventh of February, eighteen hundred and sixty: Provided,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "That said Auditor be and he hereby is authorized and directed to receive"
+  },
+  {
+   "role": "body",
+   "text": "additional evidence as to the amount or value of supplies, transportation,"
+  },
+  {
+   "role": "body",
+   "text": "and personal services, and to correct errors in his former report touching"
+  },
+  {
+   "role": "body",
+   "text": "the same ; and in cases where supplies were furnished at points in either"
+  },
+  {
+   "role": "body",
+   "text": "of said Territories, where similar supplies were not furnished for the"
+  }
+ ],
+ "disagreement_count": 18,
+ "tokens": {
+  "input_tokens": 23717,
+  "output_tokens": 6485,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.28187,
+ "seconds": 273.1,
+ "created": "2026-09-08T11:52:34"
+}

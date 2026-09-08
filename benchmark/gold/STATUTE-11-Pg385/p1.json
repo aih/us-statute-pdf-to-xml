@@ -1,0 +1,1359 @@
+{
+ "granule_id": "STATUTE-11-Pg385",
+ "package_id": "STATUTE-11",
+ "volume": 11,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to authorize Settlers upon sixteenth and thirty-six[th] Sections, who settled before the Surveys of the Public Lands, to preëmpt their Settlements.",
+ "date_issued": "1859-02-26",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "385",
+ "image": "data/gold/STATUTE-11-Pg385/p1.png",
+ "image_sha256": "1e2914364f6e4e74812a31a2ce668e03a4c51a2ea9a0dc97047954f4772f3d1c",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-FIFTH CONGRESS.  SESS. II.  CH. 58, 59.  1859."
+    },
+    {
+     "role": "page-number",
+     "text": "385"
+    },
+    {
+     "role": "body",
+     "text": "nothing herein contained shall be construed so as to release the States of"
+    },
+    {
+     "role": "body",
+     "text": "Mississippi or Alabama from any liability imposed upon them by the said"
+    },
+    {
+     "role": "body",
+     "text": "act of September twentieth, eighteen hundred and fifty."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 18, 1859."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 26, 1859."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LVIII.—An Act to authorize Settlers upon sixteenth and thirty-six[th] Sections,"
+    },
+    {
+     "role": "body",
+     "text": "who settled before the Surveys of the Public Lands, to preëmpt their Settlements."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Settlers upon"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That where settlements, with a"
+    },
+    {
+     "role": "sidenote",
+     "text": "sections 16 and"
+    },
+    {
+     "role": "body",
+     "text": "view to preëmption, have been been made before the survey of the lands in"
+    },
+    {
+     "role": "sidenote",
+     "text": "36 may preëmpt"
+    },
+    {
+     "role": "body",
+     "text": "the field which shall be found to have been made on sections sixteen or"
+    },
+    {
+     "role": "sidenote",
+     "text": "their settlements"
+    },
+    {
+     "role": "body",
+     "text": "thirty-six, said sections shall be subject to the preëmption claim of such"
+    },
+    {
+     "role": "sidenote",
+     "text": "when made be-"
+    },
+    {
+     "role": "body",
+     "text": "settler; and if they, or either of them, shall have been or shall be re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "fore survey and"
+    },
+    {
+     "role": "body",
+     "text": "served or pledged for the use of schools or colleges in the State or Terri-"
+    },
+    {
+     "role": "sidenote",
+     "text": "with a view to"
+    },
+    {
+     "role": "body",
+     "text": "tory in which the lands lie, other lands of like quantity are hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "preëmption; and"
+    },
+    {
+     "role": "body",
+     "text": "appropriated in lieu of such as may be patented by preëmptors; and"
+    },
+    {
+     "role": "sidenote",
+     "text": "other lands may"
+    },
+    {
+     "role": "body",
+     "text": "other lands are also hereby appropriated to compensate deficiencies for"
+    },
+    {
+     "role": "sidenote",
+     "text": "be appropriated"
+    },
+    {
+     "role": "body",
+     "text": "school purposes, where said sections sixteen or thirty-six are fractional in"
+    },
+    {
+     "role": "sidenote",
+     "text": "in lieu thereof"
+    },
+    {
+     "role": "body",
+     "text": "quantity, or where one or both are wanting by reason of the township be-"
+    },
+    {
+     "role": "sidenote",
+     "text": "and for deficien-"
+    },
+    {
+     "role": "body",
+     "text": "ing fractional, or from any natural cause whatever: Provided, That the"
+    },
+    {
+     "role": "sidenote",
+     "text": "cies in fractional"
+    },
+    {
+     "role": "sidenote",
+     "text": "sections."
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso. Mode"
+    },
+    {
+     "role": "body",
+     "text": "lands by this section appropriated, shall be selected and appropriated in"
+    },
+    {
+     "role": "sidenote",
+     "text": "of selection and"
+    },
+    {
+     "role": "body",
+     "text": "accordance with the principles of adjustment and the provisions of the act"
+    },
+    {
+     "role": "sidenote",
+     "text": "appropriation."
+    },
+    {
+     "role": "body",
+     "text": "of Congress of May twentieth, eighteen hundred and twenty-six, entitled"
+    },
+    {
+     "role": "sidenote",
+     "text": "1826, ch. 83."
+    },
+    {
+     "role": "body",
+     "text": "“An act to appropriate lands for the support of schools in certain town-"
+    },
+    {
+     "role": "sidenote",
+     "text": "vol. iv. p. 179."
+    },
+    {
+     "role": "body",
+     "text": "ships and fractional townships not before provided for.”"
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 26, 1859."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 26, 1859."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LIX.—An Act to protect the Land Fund for School Purposes in Sarpy County,"
+    },
+    {
+     "role": "body",
+     "text": "Nebraska Territory."
+    },
+    {
+     "role": "sidenote",
+     "text": "Preamble."
+    },
+    {
+     "role": "body",
+     "text": "Whereas by the treaty between the United States and the Omaha tribe"
+    },
+    {
+     "role": "body",
+     "text": "of Indians, by which said Indian tribe ceded their lands in the Terri-"
+    },
+    {
+     "role": "body",
+     "text": "tory of Nebraska to the United States, a reservation was made of a"
+    },
+    {
+     "role": "body",
+     "text": "part of section thirty-six, in town[ship] fourteen north, range thirteen"
+    },
+    {
+     "role": "body",
+     "text": "east, for the Presbyterian Board of Foreign Missions; and whereas, by"
+    },
+    {
+     "role": "body",
+     "text": "virtue of a joint resolution of Congress, approved March third, eighteen"
+    },
+    {
+     "role": "body",
+     "text": "hundred and fifty-seven, a large portion of the remainder of said section"
+    },
+    {
+     "role": "body",
+     "text": "thirfy-six has been preëmpted, leaving but a fraction for the use of"
+    },
+    {
+     "role": "body",
+     "text": "schools: Therefore,—"
+    },
+    {
+     "role": "sidenote",
+     "text": "Superintendent"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "of schools for"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the superintendent of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Sarpy county,"
+    },
+    {
+     "role": "body",
+     "text": "common schools of the county of Sarpy, in which said land is situated,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Nebraska terri-"
+    },
+    {
+     "role": "body",
+     "text": "shall be, and [he] hereby is, authorized to select six hundred and forty acres"
+    },
+    {
+     "role": "sidenote",
+     "text": "tory, may select"
+    },
+    {
+     "role": "body",
+     "text": "of any unoccupied public lands in said county in subdivisions of not less"
+    },
+    {
+     "role": "sidenote",
+     "text": "public lands in"
+    },
+    {
+     "role": "body",
+     "text": "than one quarter section, in lieu of the aforesaid section thirty-six: Pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "lieu of lands pre-"
+    },
+    {
+     "role": "body",
+     "text": "vided, That as soon as such selection shall be made it shall be the duty of"
+    },
+    {
+     "role": "sidenote",
+     "text": "empted and re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "served."
+    },
+    {
+     "role": "body",
+     "text": "such superintendent to file a notice thereof, with a description of the land"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "selected, in the office of the register of the land-office in the Omaha land"
+    },
+    {
+     "role": "body",
+     "text": "district, who shall thereupon withdraw such land so selected from the list"
+    },
+    {
+     "role": "body",
+     "text": "of lands subject to preëmption, or public or private sale in said land dis-"
+    },
+    {
+     "role": "body",
+     "text": "trict, and shall report the fact to the United States Commissioner of Pub-"
+    },
+    {
+     "role": "body",
+     "text": "lic Lands, and the land so selected shall, after such filing with the register,"
+    },
+    {
+     "role": "body",
+     "text": "belong to the school fund of said county in all respects the same as other"
+    },
+    {
+     "role": "body",
+     "text": "school lands; and the fraction of said section thirty-six remaining after"
+    },
+    {
+     "role": "body",
+     "text": "satisfying the terms of said treaty, and after said preëmptions as men-"
+    },
+    {
+     "role": "body",
+     "text": "tioned in the foregoing preamble, shall be subject to preëmption, public"
+    },
+    {
+     "role": "body",
+     "text": "sale, or private entry, the same as other public lands."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 26, 1859."
+    },
+    {
+     "role": "body",
+     "text": "VOL. XI.  PUB.—49"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 2628,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09369,
+   "seconds": 30.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-FIFTH  CONGRESS.  SESS. II.  CH. 58, 59.  1859."
+    },
+    {
+     "role": "page-number",
+     "text": "385"
+    },
+    {
+     "role": "body",
+     "text": "nothing herein contained shall be construed so as to release the States of"
+    },
+    {
+     "role": "body",
+     "text": "Mississippi or Alabama from any liability imposed upon them by the said"
+    },
+    {
+     "role": "body",
+     "text": "act of September twentieth, eighteen hundred and fifty."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 18, 1859."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LVIII.—An Act to authorize Settlers upon sixteenth and thirty-six[th] Sections,"
+    },
+    {
+     "role": "body",
+     "text": "who settled before the Surveys of the Public Lands, to preëmpt their Settlements."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 26, 1859."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That where settlements, with a"
+    },
+    {
+     "role": "sidenote",
+     "text": "Settlers upon"
+    },
+    {
+     "role": "body",
+     "text": "view to preëmption, have been been made before the survey of the lands in"
+    },
+    {
+     "role": "sidenote",
+     "text": "sections 16 and"
+    },
+    {
+     "role": "body",
+     "text": "the field which shall be found to have been made on sections sixteen or"
+    },
+    {
+     "role": "sidenote",
+     "text": "36 may preëmpt"
+    },
+    {
+     "role": "sidenote",
+     "text": "their settlements"
+    },
+    {
+     "role": "body",
+     "text": "thirty-six, said sections shall be subject to the preëmption claim of such"
+    },
+    {
+     "role": "sidenote",
+     "text": "when made be-"
+    },
+    {
+     "role": "body",
+     "text": "settler; and if they, or either of them, shall have been or shall be re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "fore survey and"
+    },
+    {
+     "role": "sidenote",
+     "text": "with a view to"
+    },
+    {
+     "role": "body",
+     "text": "served or pledged for the use of schools or colleges in the State or Terri-"
+    },
+    {
+     "role": "sidenote",
+     "text": "preëmption; and"
+    },
+    {
+     "role": "body",
+     "text": "tory in which the lands lie, other lands of like quantity are hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "other lands may"
+    },
+    {
+     "role": "sidenote",
+     "text": "be appropriated"
+    },
+    {
+     "role": "body",
+     "text": "appropriated in lieu of such as may be patented by preëmptors; and"
+    },
+    {
+     "role": "sidenote",
+     "text": "in lieu thereof"
+    },
+    {
+     "role": "body",
+     "text": "other lands are also hereby appropriated to compensate deficiencies for"
+    },
+    {
+     "role": "sidenote",
+     "text": "and for deficien-"
+    },
+    {
+     "role": "body",
+     "text": "school purposes, where said sections sixteen or thirty-six are fractional in"
+    },
+    {
+     "role": "sidenote",
+     "text": "cies in fractional"
+    },
+    {
+     "role": "sidenote",
+     "text": "sections."
+    },
+    {
+     "role": "body",
+     "text": "quantity, or where one or both are wanting by reason of the township be-"
+    },
+    {
+     "role": "body",
+     "text": "ing fractional, or from any natural cause whatever: Provided, That the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso. Mode"
+    },
+    {
+     "role": "body",
+     "text": "lands by this section appropriated, shall be selected and appropriated in"
+    },
+    {
+     "role": "sidenote",
+     "text": "of selection and"
+    },
+    {
+     "role": "sidenote",
+     "text": "appropriation."
+    },
+    {
+     "role": "body",
+     "text": "accordance with the principles of adjustment and the provisions of the act"
+    },
+    {
+     "role": "body",
+     "text": "of Congress of May twentieth, eighteen hundred and twenty-six, entitled"
+    },
+    {
+     "role": "sidenote",
+     "text": "1826, ch. 83."
+    },
+    {
+     "role": "body",
+     "text": "\"An act to appropriate lands for the support of schools in certain town-"
+    },
+    {
+     "role": "sidenote",
+     "text": "vol. iv. p. 179."
+    },
+    {
+     "role": "body",
+     "text": "ships and fractional townships not before provided for.\""
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 26, 1859."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LIX.—An Act to protect the Land Fund for School Purposes in Sarpy County,"
+    },
+    {
+     "role": "body",
+     "text": "Nebraska Territory."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 26, 1859."
+    },
+    {
+     "role": "body",
+     "text": "Whereas by the treaty between the United States and the Omaha tribe"
+    },
+    {
+     "role": "sidenote",
+     "text": "Preamble."
+    },
+    {
+     "role": "body",
+     "text": "of Indians, by which said Indian tribe ceded their lands in the Terri-"
+    },
+    {
+     "role": "body",
+     "text": "tory of Nebraska to the United States, a reservation was made of a"
+    },
+    {
+     "role": "body",
+     "text": "part of section thirty-six, in town[ship] fourteen north, range thirteen"
+    },
+    {
+     "role": "body",
+     "text": "east, for the Presbyterian Board of Foreign Missions; and whereas, by"
+    },
+    {
+     "role": "body",
+     "text": "virtue of a joint resolution of Congress, approved March third, eighteen"
+    },
+    {
+     "role": "body",
+     "text": "hundred and fifty-seven, a large portion of the remainder of said section"
+    },
+    {
+     "role": "body",
+     "text": "thirfy-six has been preëmpted, leaving but a fraction for the use of"
+    },
+    {
+     "role": "body",
+     "text": "schools : Therefore,—"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Superintendent"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the superintendent of"
+    },
+    {
+     "role": "sidenote",
+     "text": "of  schools  for"
+    },
+    {
+     "role": "sidenote",
+     "text": "Sarpy    county,"
+    },
+    {
+     "role": "body",
+     "text": "common schools of the county of Sarpy, in which said land is situated,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Nebraska  terri-"
+    },
+    {
+     "role": "body",
+     "text": "shall be, and [he] hereby is, authorized to select six hundred and forty acres"
+    },
+    {
+     "role": "sidenote",
+     "text": "tory, may select"
+    },
+    {
+     "role": "sidenote",
+     "text": "public  lands in"
+    },
+    {
+     "role": "body",
+     "text": "of any unoccupied public lands in said county in subdivisions of not less"
+    },
+    {
+     "role": "sidenote",
+     "text": "lieu of lands pre-"
+    },
+    {
+     "role": "body",
+     "text": "than one quarter section, in lieu of the aforesaid section thirty-six: Pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "empted and re-"
+    },
+    {
+     "role": "body",
+     "text": "vided, That as soon as such selection shall be made it shall be the duty of"
+    },
+    {
+     "role": "sidenote",
+     "text": "served."
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "such superintendent to file a notice thereof, with a description of the land"
+    },
+    {
+     "role": "body",
+     "text": "selected, in the office of the register of the land-office in the Omaha land"
+    },
+    {
+     "role": "body",
+     "text": "district, who shall thereupon withdraw such land so selected from the list"
+    },
+    {
+     "role": "body",
+     "text": "of lands subject to preëmption, or public or private sale in said land dis-"
+    },
+    {
+     "role": "body",
+     "text": "trict, and shall report the fact to the United States Commissioner of Pub-"
+    },
+    {
+     "role": "body",
+     "text": "lic Lands, and the land so selected shall, after such filing with the register,"
+    },
+    {
+     "role": "body",
+     "text": "belong to the school fund of said county in all respects the same as other"
+    },
+    {
+     "role": "body",
+     "text": "school lands; and the fraction of said section thirty-six remaining after"
+    },
+    {
+     "role": "body",
+     "text": "satisfying the terms of said treaty, and after said preëmptions as men-"
+    },
+    {
+     "role": "body",
+     "text": "tioned in the foregoing preamble, shall be subject to preëmption, public"
+    },
+    {
+     "role": "body",
+     "text": "sale, or private entry, the same as other public lands."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 26, 1859."
+    },
+    {
+     "role": "body",
+     "text": "VOL. XI.   PUB.—49"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 2635,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09386,
+   "seconds": 30.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13546,
+   "output_tokens": 3682,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.1602,
+  "seconds": 45.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "Feb. 26, 1859.",
+    "b": "",
+    "kept": "Feb. 26, 1859.",
+    "reason": "The date sidenote sits at the level of the chapter heading; placed before the block it annotates, consistent with the page's sidenote/body interleaving."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "Feb. 26, 1859.",
+    "kept": "",
+    "reason": "The date sidenote is given once, at the head of the chapter; nothing printed here."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "States of America in Congress assembled, That where settlements, with a",
+    "kept": "",
+    "reason": "The body line belongs after the 'Settlers upon' sidenote, not here."
+   },
+   {
+    "run": 4,
+    "a": "States of America in Congress assembled, That where settlements, with a",
+    "b": "view to preëmption, have been been made before the survey of the lands in",
+    "kept": "States of America in Congress assembled, That where settlements, with a",
+    "reason": "This body line is aligned with the sidenote 'Settlers upon' and follows it."
+   },
+   {
+    "run": 5,
+    "a": "view to preëmption, have been been made before the survey of the lands in",
+    "b": "the field which shall be found to have been made on sections sixteen or",
+    "kept": "view to preëmption, have been been made before the survey of the lands in",
+    "reason": "Body line aligned with sidenote 'sections 16 and'."
+   },
+   {
+    "run": 6,
+    "a": "the field which shall be found to have been made on sections sixteen or",
+    "b": "",
+    "kept": "the field which shall be found to have been made on sections sixteen or",
+    "reason": "Body line aligned with sidenote '36 may preëmpt'; sidenote 'their settlements' follows."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "with a view to",
+    "kept": "",
+    "reason": "'with a view to' comes after 'fore survey and' and before its body line; nothing extra here."
+   },
+   {
+    "run": 8,
+    "a": "with a view to",
+    "b": "preëmption; and",
+    "kept": "with a view to",
+    "reason": "Sidenote printed at this point, preceding its aligned body line."
+   },
+   {
+    "run": 9,
+    "a": "preëmption; and",
+    "b": "other lands may\nbe appropriated",
+    "kept": "preëmption; and",
+    "reason": "Next sidenote line in sequence at this position."
+   },
+   {
+    "run": 10,
+    "a": "other lands may",
+    "b": "in lieu thereof",
+    "kept": "other lands may",
+    "reason": "Sidenote line printed here, before the following body line."
+   },
+   {
+    "run": 11,
+    "a": "be appropriated",
+    "b": "and for deficien-",
+    "kept": "be appropriated",
+    "reason": "Sidenote line printed here in sequence."
+   },
+   {
+    "run": 12,
+    "a": "in lieu thereof\nquantity, or where one or both are wanting by reason of the township be-\nand for deficien-\ning fractional, or from any natural cause whatever: Provided, That the",
+    "b": "",
+    "kept": "in lieu thereof\nquantity, or where one or both are wanting by reason of the township be-\nand for deficien-\ning fractional, or from any natural cause whatever: Provided, That the",
+    "reason": "These sidenote and body lines are interleaved here as printed."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "quantity, or where one or both are wanting by reason of the township be-\ning fractional, or from any natural cause whatever: Provided, That the",
+    "kept": "",
+    "reason": "Those body lines already appear above; nothing printed here."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "appropriation.",
+    "kept": "",
+    "reason": "'appropriation.' follows the next body line, not here."
+   },
+   {
+    "run": 15,
+    "a": "appropriation.",
+    "b": "",
+    "kept": "appropriation.",
+    "reason": "Third line of the Proviso sidenote printed at this level."
+   },
+   {
+    "run": 16,
+    "a": "Feb. 26, 1859.",
+    "b": "",
+    "kept": "Feb. 26, 1859.",
+    "reason": "Date sidenote aligned with the CHAP. LIX heading, placed before it as elsewhere."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "Feb. 26, 1859.\nWhereas by the treaty between the United States and the Omaha tribe",
+    "kept": "",
+    "reason": "Date sidenote already given; the body line follows the 'Preamble.' sidenote."
+   },
+   {
+    "run": 18,
+    "a": "Whereas by the treaty between the United States and the Omaha tribe",
+    "b": "",
+    "kept": "Whereas by the treaty between the United States and the Omaha tribe",
+    "reason": "Body line aligned with the 'Preamble.' sidenote follows it."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the United",
+    "kept": "",
+    "reason": "This body line follows the 'Superintendent' sidenote."
+   },
+   {
+    "run": 20,
+    "a": "Be it enacted by the Senate and House of Representatives of the United",
+    "b": "States of America in Congress assembled, That the superintendent of",
+    "kept": "Be it enacted by the Senate and House of Representatives of the United",
+    "reason": "Body line aligned with sidenote 'Superintendent'."
+   },
+   {
+    "run": 21,
+    "a": "States of America in Congress assembled, That the superintendent of",
+    "b": "",
+    "kept": "States of America in Congress assembled, That the superintendent of",
+    "reason": "Body line printed here, between sidenote lines 'of schools for' and 'Sarpy county,'."
+   },
+   {
+    "run": 22,
+    "a": "",
+    "b": "public  lands in",
+    "kept": "",
+    "reason": "'public lands in' precedes its body line, appearing later."
+   },
+   {
+    "run": 23,
+    "a": "public lands in",
+    "b": "lieu of lands pre-",
+    "kept": "public lands in",
+    "reason": "Sidenote line printed at this position."
+   },
+   {
+    "run": 24,
+    "a": "lieu of lands pre-",
+    "b": "empted and re-",
+    "kept": "lieu of lands pre-",
+    "reason": "Next sidenote line in sequence here."
+   },
+   {
+    "run": 25,
+    "a": "empted and re-",
+    "b": "",
+    "kept": "empted and re-",
+    "reason": "Sidenote line printed here before the following body line."
+   },
+   {
+    "run": 26,
+    "a": "",
+    "b": "Proviso.",
+    "kept": "",
+    "reason": "'Proviso.' comes after 'served.' and its body line, not here."
+   },
+   {
+    "run": 27,
+    "a": "Proviso.",
+    "b": "",
+    "kept": "Proviso.",
+    "reason": "Separate short sidenote printed at this level."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "THIRTY-FIFTH CONGRESS.  SESS. II.  CH. 58, 59.  1859."
+  },
+  {
+   "role": "page-number",
+   "text": "385"
+  },
+  {
+   "role": "body",
+   "text": "nothing herein contained shall be construed so as to release the States of"
+  },
+  {
+   "role": "body",
+   "text": "Mississippi or Alabama from any liability imposed upon them by the said"
+  },
+  {
+   "role": "body",
+   "text": "act of September twentieth, eighteen hundred and fifty."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 18, 1859."
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 26, 1859."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LVIII.—An Act to authorize Settlers upon sixteenth and thirty-six[th] Sections,"
+  },
+  {
+   "role": "body",
+   "text": "who settled before the Surveys of the Public Lands, to preëmpt their Settlements."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Settlers upon"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That where settlements, with a"
+  },
+  {
+   "role": "sidenote",
+   "text": "sections 16 and"
+  },
+  {
+   "role": "body",
+   "text": "view to preëmption, have been been made before the survey of the lands in"
+  },
+  {
+   "role": "sidenote",
+   "text": "36 may preëmpt"
+  },
+  {
+   "role": "body",
+   "text": "the field which shall be found to have been made on sections sixteen or"
+  },
+  {
+   "role": "sidenote",
+   "text": "their settlements"
+  },
+  {
+   "role": "body",
+   "text": "thirty-six, said sections shall be subject to the preëmption claim of such"
+  },
+  {
+   "role": "sidenote",
+   "text": "when made be-"
+  },
+  {
+   "role": "body",
+   "text": "settler; and if they, or either of them, shall have been or shall be re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "fore survey and"
+  },
+  {
+   "role": "body",
+   "text": "served or pledged for the use of schools or colleges in the State or Terri-"
+  },
+  {
+   "role": "sidenote",
+   "text": "with a view to"
+  },
+  {
+   "role": "body",
+   "text": "tory in which the lands lie, other lands of like quantity are hereby"
+  },
+  {
+   "role": "sidenote",
+   "text": "preëmption; and"
+  },
+  {
+   "role": "body",
+   "text": "appropriated in lieu of such as may be patented by preëmptors; and"
+  },
+  {
+   "role": "sidenote",
+   "text": "other lands may"
+  },
+  {
+   "role": "body",
+   "text": "other lands are also hereby appropriated to compensate deficiencies for"
+  },
+  {
+   "role": "sidenote",
+   "text": "be appropriated"
+  },
+  {
+   "role": "body",
+   "text": "school purposes, where said sections sixteen or thirty-six are fractional in"
+  },
+  {
+   "role": "sidenote",
+   "text": "in lieu thereof"
+  },
+  {
+   "role": "body",
+   "text": "quantity, or where one or both are wanting by reason of the township be-"
+  },
+  {
+   "role": "sidenote",
+   "text": "and for deficien-"
+  },
+  {
+   "role": "body",
+   "text": "ing fractional, or from any natural cause whatever: Provided, That the"
+  },
+  {
+   "role": "sidenote",
+   "text": "cies in fractional"
+  },
+  {
+   "role": "sidenote",
+   "text": "sections."
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso. Mode"
+  },
+  {
+   "role": "body",
+   "text": "lands by this section appropriated, shall be selected and appropriated in"
+  },
+  {
+   "role": "sidenote",
+   "text": "of selection and"
+  },
+  {
+   "role": "body",
+   "text": "accordance with the principles of adjustment and the provisions of the act"
+  },
+  {
+   "role": "sidenote",
+   "text": "appropriation."
+  },
+  {
+   "role": "body",
+   "text": "of Congress of May twentieth, eighteen hundred and twenty-six, entitled"
+  },
+  {
+   "role": "sidenote",
+   "text": "1826, ch. 83."
+  },
+  {
+   "role": "body",
+   "text": "“An act to appropriate lands for the support of schools in certain town-"
+  },
+  {
+   "role": "sidenote",
+   "text": "vol. iv. p. 179."
+  },
+  {
+   "role": "body",
+   "text": "ships and fractional townships not before provided for.”"
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 26, 1859."
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 26, 1859."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LIX.—An Act to protect the Land Fund for School Purposes in Sarpy County,"
+  },
+  {
+   "role": "body",
+   "text": "Nebraska Territory."
+  },
+  {
+   "role": "sidenote",
+   "text": "Preamble."
+  },
+  {
+   "role": "body",
+   "text": "Whereas by the treaty between the United States and the Omaha tribe"
+  },
+  {
+   "role": "body",
+   "text": "of Indians, by which said Indian tribe ceded their lands in the Terri-"
+  },
+  {
+   "role": "body",
+   "text": "tory of Nebraska to the United States, a reservation was made of a"
+  },
+  {
+   "role": "body",
+   "text": "part of section thirty-six, in town[ship] fourteen north, range thirteen"
+  },
+  {
+   "role": "body",
+   "text": "east, for the Presbyterian Board of Foreign Missions; and whereas, by"
+  },
+  {
+   "role": "body",
+   "text": "virtue of a joint resolution of Congress, approved March third, eighteen"
+  },
+  {
+   "role": "body",
+   "text": "hundred and fifty-seven, a large portion of the remainder of said section"
+  },
+  {
+   "role": "body",
+   "text": "thirfy-six has been preëmpted, leaving but a fraction for the use of"
+  },
+  {
+   "role": "body",
+   "text": "schools: Therefore,—"
+  },
+  {
+   "role": "sidenote",
+   "text": "Superintendent"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "of schools for"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the superintendent of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Sarpy county,"
+  },
+  {
+   "role": "body",
+   "text": "common schools of the county of Sarpy, in which said land is situated,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Nebraska terri-"
+  },
+  {
+   "role": "body",
+   "text": "shall be, and [he] hereby is, authorized to select six hundred and forty acres"
+  },
+  {
+   "role": "sidenote",
+   "text": "tory, may select"
+  },
+  {
+   "role": "body",
+   "text": "of any unoccupied public lands in said county in subdivisions of not less"
+  },
+  {
+   "role": "sidenote",
+   "text": "public lands in"
+  },
+  {
+   "role": "body",
+   "text": "than one quarter section, in lieu of the aforesaid section thirty-six: Pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "lieu of lands pre-"
+  },
+  {
+   "role": "body",
+   "text": "vided, That as soon as such selection shall be made it shall be the duty of"
+  },
+  {
+   "role": "sidenote",
+   "text": "empted and re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "served."
+  },
+  {
+   "role": "body",
+   "text": "such superintendent to file a notice thereof, with a description of the land"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "selected, in the office of the register of the land-office in the Omaha land"
+  },
+  {
+   "role": "body",
+   "text": "district, who shall thereupon withdraw such land so selected from the list"
+  },
+  {
+   "role": "body",
+   "text": "of lands subject to preëmption, or public or private sale in said land dis-"
+  },
+  {
+   "role": "body",
+   "text": "trict, and shall report the fact to the United States Commissioner of Pub-"
+  },
+  {
+   "role": "body",
+   "text": "lic Lands, and the land so selected shall, after such filing with the register,"
+  },
+  {
+   "role": "body",
+   "text": "belong to the school fund of said county in all respects the same as other"
+  },
+  {
+   "role": "body",
+   "text": "school lands; and the fraction of said section thirty-six remaining after"
+  },
+  {
+   "role": "body",
+   "text": "satisfying the terms of said treaty, and after said preëmptions as men-"
+  },
+  {
+   "role": "body",
+   "text": "tioned in the foregoing preamble, shall be subject to preëmption, public"
+  },
+  {
+   "role": "body",
+   "text": "sale, or private entry, the same as other public lands."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 26, 1859."
+  },
+  {
+   "role": "body",
+   "text": "VOL. XI.  PUB.—49"
+  }
+ ],
+ "disagreement_count": 27,
+ "tokens": {
+  "input_tokens": 24593,
+  "output_tokens": 8945,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.34775,
+ "seconds": 105.7,
+ "created": "2026-09-08T11:56:23"
+}

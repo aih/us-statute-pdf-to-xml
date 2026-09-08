@@ -1,0 +1,838 @@
+{
+ "granule_id": "STATUTE-115-Pg900",
+ "package_id": "STATUTE-115",
+ "volume": 115,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Veterans' Compensation Rate Amendments of 2001",
+ "date_issued": "2001-12-21",
+ "pdf_page": 2,
+ "pdf_pages": 3,
+ "stat_page": "901",
+ "image": "data/gold/STATUTE-115-Pg900/p2.png",
+ "image_sha256": "0e31666fd8c1671cc93ed37b972d9783e25280004382528032d9bee703a93ff3",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 107–94—DEC. 21, 2001          115 STAT. 901"
+    },
+    {
+     "role": "body",
+     "text": "(15) by striking \"$3,553\" each place it appears in sub-"
+    },
+    {
+     "role": "body",
+     "text": "sections (o) and (p) and inserting \"$3,775\";"
+    },
+    {
+     "role": "body",
+     "text": "(16) by striking \"$1,525\" and \"$2,271\" in subsection (r)"
+    },
+    {
+     "role": "body",
+     "text": "and inserting \"$1,621\" and \"$2,413\", respectively; and"
+    },
+    {
+     "role": "body",
+     "text": "(17) by striking \"$2,280\" in subsection (s) and inserting"
+    },
+    {
+     "role": "body",
+     "text": "\"$2,422\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "38 USC 1114"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "(b) SPECIAL RULE.—The Secretary of Veterans Affairs may"
+    },
+    {
+     "role": "body",
+     "text": "authorize administratively, consistent with the increases authorized"
+    },
+    {
+     "role": "body",
+     "text": "by this section, the rates of disability compensation payable to"
+    },
+    {
+     "role": "body",
+     "text": "persons within the purview of section 10 of Public Law 85–857"
+    },
+    {
+     "role": "body",
+     "text": "who are not in receipt of compensation payable pursuant to chapter"
+    },
+    {
+     "role": "body",
+     "text": "11 of title 38, United States Code."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. ADDITIONAL COMPENSATION FOR DEPENDENTS."
+    },
+    {
+     "role": "body",
+     "text": "Section 1115(1) is amended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by striking \"$117\" in clause (A) and inserting \"$124\";"
+    },
+    {
+     "role": "body",
+     "text": "(2) by striking \"$201\" and \"$61\" in clause (B) and inserting"
+    },
+    {
+     "role": "body",
+     "text": "\"$213\" and \"$64\", respectively;"
+    },
+    {
+     "role": "body",
+     "text": "(3) by striking \"$80\" and \"$61\" in clause (C) and inserting"
+    },
+    {
+     "role": "body",
+     "text": "\"$84\" and \"$64\", respectively;"
+    },
+    {
+     "role": "body",
+     "text": "(4) by striking \"$95\" in clause (D) and inserting \"$100\";"
+    },
+    {
+     "role": "body",
+     "text": "(5) by striking \"$222\" in clause (E) and inserting \"$234\";"
+    },
+    {
+     "role": "body",
+     "text": "and"
+    },
+    {
+     "role": "body",
+     "text": "(6) by striking \"$186\" in clause (F) and inserting \"$196\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. CLOTHING ALLOWANCE FOR CERTAIN DISABLED VETERANS."
+    },
+    {
+     "role": "body",
+     "text": "Section 1162 is amended by striking \"$546\" and inserting"
+    },
+    {
+     "role": "body",
+     "text": "\"$580\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. DEPENDENCY AND INDEMNITY COMPENSATION FOR SUR-"
+    },
+    {
+     "role": "body",
+     "text": "VIVING SPOUSES."
+    },
+    {
+     "role": "body",
+     "text": "(a) NEW LAW RATES.—Section 1311(a) is amended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by striking \"$881\" in paragraph (1) and inserting \"$935\";"
+    },
+    {
+     "role": "body",
+     "text": "and"
+    },
+    {
+     "role": "body",
+     "text": "(2) by striking \"$191\" in paragraph (2) and inserting \"$202\"."
+    },
+    {
+     "role": "body",
+     "text": "(b) OLD LAW RATES.—The table in section 1311(a)(3) is amended"
+    },
+    {
+     "role": "body",
+     "text": "to read as follows:"
+    },
+    {
+     "role": "body",
+     "text": "Monthly                                        Monthly"
+    },
+    {
+     "role": "body",
+     "text": "\"Pay grade                                    rate  Pay grade                                    rate"
+    },
+    {
+     "role": "body",
+     "text": "E–1 ................................    $935     W–4 ................................  $1,119"
+    },
+    {
+     "role": "body",
+     "text": "E–2 ................................      935     O–1 ................................      988"
+    },
+    {
+     "role": "body",
+     "text": "E–3 ................................      935     O–2 ................................   1,021"
+    },
+    {
+     "role": "body",
+     "text": "E–4 ................................      935     O–3 ................................   1,092"
+    },
+    {
+     "role": "body",
+     "text": "E–5 ................................      935     O–4 ................................   1,155"
+    },
+    {
+     "role": "body",
+     "text": "E–6 ................................      935     O–5 ................................   1,272"
+    },
+    {
+     "role": "body",
+     "text": "E–7 ................................      967     O–6 ................................   1,433"
+    },
+    {
+     "role": "body",
+     "text": "E–8 ................................   1,021     O–7 ................................   1,549"
+    },
+    {
+     "role": "body",
+     "text": "E–9 ................................   1,066 1  O–8 ................................   1,699"
+    },
+    {
+     "role": "body",
+     "text": "W–1 ................................      988     O–9 ................................   1,818"
+    },
+    {
+     "role": "body",
+     "text": "W–2 ................................   1,028     O–10 ................................  1,994 2"
+    },
+    {
+     "role": "body",
+     "text": "W–3 ................................   1,058"
+    },
+    {
+     "role": "footnote",
+     "text": "\"1If the veteran served as Sergeant Major of the Army, Senior Enlisted Advisor of"
+    },
+    {
+     "role": "footnote",
+     "text": "the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine"
+    },
+    {
+     "role": "footnote",
+     "text": "Corps, or Master Chief Petty Officer of the Coast Guard, at the applicable time des-"
+    },
+    {
+     "role": "footnote",
+     "text": "ignated by section 1302 of this title, the surviving spouse's rate shall be $1,149."
+    },
+    {
+     "role": "footnote",
+     "text": "\"2If the veteran served as Chairman or Vice Chairman of the Joint Chiefs of Staff,"
+    },
+    {
+     "role": "footnote",
+     "text": "Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force,"
+    },
+    {
+     "role": "footnote",
+     "text": "Commandant of the Marine Corps, or Commandant of the Coast Guard, at the appli-"
+    },
+    {
+     "role": "footnote",
+     "text": "cable time designated by section 1302 of this title, the surviving spouse's rate shall be"
+    },
+    {
+     "role": "footnote",
+     "text": "$2,139.\"."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2092,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07917,
+   "seconds": 21.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 107–94—DEC. 21, 2001          115 STAT. 901"
+    },
+    {
+     "role": "body",
+     "text": "(15) by striking \"$3,553\" each place it appears in sub-"
+    },
+    {
+     "role": "body",
+     "text": "sections (o) and (p) and inserting \"$3,775\";"
+    },
+    {
+     "role": "body",
+     "text": "(16) by striking \"$1,525\" and \"$2,271\" in subsection (r)"
+    },
+    {
+     "role": "body",
+     "text": "and inserting \"$1,621\" and \"$2,413\", respectively; and"
+    },
+    {
+     "role": "body",
+     "text": "(17) by striking \"$2,280\" in subsection (s) and inserting"
+    },
+    {
+     "role": "body",
+     "text": "\"$2,422\"."
+    },
+    {
+     "role": "body",
+     "text": "(b) SPECIAL RULE.—The Secretary of Veterans Affairs may"
+    },
+    {
+     "role": "sidenote",
+     "text": "38 USC 1114"
+    },
+    {
+     "role": "body",
+     "text": "authorize administratively, consistent with the increases authorized"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "by this section, the rates of disability compensation payable to"
+    },
+    {
+     "role": "body",
+     "text": "persons within the purview of section 10 of Public Law 85–857"
+    },
+    {
+     "role": "body",
+     "text": "who are not in receipt of compensation payable pursuant to chapter"
+    },
+    {
+     "role": "body",
+     "text": "11 of title 38, United States Code."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. ADDITIONAL COMPENSATION FOR DEPENDENTS."
+    },
+    {
+     "role": "body",
+     "text": "Section 1115(1) is amended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by striking \"$117\" in clause (A) and inserting \"$124\";"
+    },
+    {
+     "role": "body",
+     "text": "(2) by striking \"$201\" and \"$61\" in clause (B) and inserting"
+    },
+    {
+     "role": "body",
+     "text": "\"$213\" and \"$64\", respectively;"
+    },
+    {
+     "role": "body",
+     "text": "(3) by striking \"$80\" and \"$61\" in clause (C) and inserting"
+    },
+    {
+     "role": "body",
+     "text": "\"$84\" and \"$64\", respectively;"
+    },
+    {
+     "role": "body",
+     "text": "(4) by striking \"$95\" in clause (D) and inserting \"$100\";"
+    },
+    {
+     "role": "body",
+     "text": "(5) by striking \"$222\" in clause (E) and inserting \"$234\";"
+    },
+    {
+     "role": "body",
+     "text": "and"
+    },
+    {
+     "role": "body",
+     "text": "(6) by striking \"$186\" in clause (F) and inserting \"$196\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. CLOTHING ALLOWANCE FOR CERTAIN DISABLED VETERANS."
+    },
+    {
+     "role": "body",
+     "text": "Section 1162 is amended by striking \"$546\" and inserting"
+    },
+    {
+     "role": "body",
+     "text": "\"$580\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. DEPENDENCY AND INDEMNITY COMPENSATION FOR SUR-"
+    },
+    {
+     "role": "body",
+     "text": "VIVING SPOUSES."
+    },
+    {
+     "role": "body",
+     "text": "(a) NEW LAW RATES.—Section 1311(a) is amended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by striking \"$881\" in paragraph (1) and inserting \"$935\";"
+    },
+    {
+     "role": "body",
+     "text": "and"
+    },
+    {
+     "role": "body",
+     "text": "(2) by striking \"$191\" in paragraph (2) and inserting \"$202\"."
+    },
+    {
+     "role": "body",
+     "text": "(b) OLD LAW RATES.—The table in section 1311(a)(3) is amended"
+    },
+    {
+     "role": "body",
+     "text": "to read as follows:"
+    },
+    {
+     "role": "body",
+     "text": "Monthly                                        Monthly"
+    },
+    {
+     "role": "body",
+     "text": "\"Pay grade                                    rate  Pay grade                                    rate"
+    },
+    {
+     "role": "body",
+     "text": "E–1 ...................................  $935      W–4 ...................................  $1,119"
+    },
+    {
+     "role": "body",
+     "text": "E–2 ...................................   935      O–1 ...................................    988"
+    },
+    {
+     "role": "body",
+     "text": "E–3 ...................................   935      O–2 ...................................  1,021"
+    },
+    {
+     "role": "body",
+     "text": "E–4 ...................................   935      O–3 ...................................  1,092"
+    },
+    {
+     "role": "body",
+     "text": "E–5 ...................................   935      O–4 ...................................  1,155"
+    },
+    {
+     "role": "body",
+     "text": "E–6 ...................................   935      O–5 ...................................  1,272"
+    },
+    {
+     "role": "body",
+     "text": "E–7 ...................................   967      O–6 ...................................  1,433"
+    },
+    {
+     "role": "body",
+     "text": "E–8 ...................................  1,021     O–7 ...................................  1,549"
+    },
+    {
+     "role": "body",
+     "text": "E–9 ...................................  1,066 1   O–8 ...................................  1,699"
+    },
+    {
+     "role": "body",
+     "text": "W–1 ...................................   988      O–9 ...................................  1,818"
+    },
+    {
+     "role": "body",
+     "text": "W–2 ...................................  1,028     O–10 ...................................  1,994 2"
+    },
+    {
+     "role": "body",
+     "text": "W–3 ...................................  1,058"
+    },
+    {
+     "role": "body",
+     "text": "\"1If the veteran served as Sergeant Major of the Army, Senior Enlisted Advisor of"
+    },
+    {
+     "role": "body",
+     "text": "the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine"
+    },
+    {
+     "role": "body",
+     "text": "Corps, or Master Chief Petty Officer of the Coast Guard, at the applicable time des-"
+    },
+    {
+     "role": "body",
+     "text": "ignated by section 1302 of this title, the surviving spouse's rate shall be $1,149."
+    },
+    {
+     "role": "body",
+     "text": "\"2If the veteran served as Chairman or Vice Chairman of the Joint Chiefs of Staff,"
+    },
+    {
+     "role": "body",
+     "text": "Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force,"
+    },
+    {
+     "role": "body",
+     "text": "Commandant of the Marine Corps, or Commandant of the Coast Guard, at the appli-"
+    },
+    {
+     "role": "body",
+     "text": "cable time designated by section 1302 of this title, the surviving spouse's rate shall be"
+    },
+    {
+     "role": "body",
+     "text": "$2,139.\"."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2097,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07929,
+   "seconds": 22.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12562,
+   "output_tokens": 1577,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.10265,
+  "seconds": 18.9,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "(b) SPECIAL RULE.—The Secretary of Veterans Affairs may",
+    "kept": "(b) SPECIAL RULE.—The Secretary of Veterans Affairs may",
+    "reason": "The body line beginning \"(b) SPECIAL RULE\" is printed level with the sidenote \"38 USC 1114\", so it comes first."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "authorize administratively, consistent with the increases authorized",
+    "kept": "authorize administratively, consistent with the increases authorized",
+    "reason": "This body line is printed level with the sidenote \"note.\", following the interleaved layout."
+   },
+   {
+    "run": 3,
+    "a": "(b) SPECIAL RULE.—The Secretary of Veterans Affairs may\nauthorize administratively, consistent with the increases authorized",
+    "b": "",
+    "kept": "",
+    "reason": "These two body lines were already placed above; nothing further is printed here."
+   },
+   {
+    "run": 4,
+    "a": "E–1 ................................    $935     W–4 ................................  $1,119\nE–2 ................................      935     O–1 ................................      988\nE–3 ................................      935     O–2 ................................   1,021\nE–4 ................................      935     O–3 ................................   1,092\nE–5 ................................      935     O–4 ................................   1,155\nE–6 ................................      935     O–5 ................................   1,272\nE–7 ................................      967     O–6 ................................   1,433\nE–8 ................................   1,021     O–7 ................................   1,549\nE–9 ................................   1,066 1  O–8 ................................   1,699\nW–1 ................................      988     O–9 ................................   1,818\nW–2 ................................   1,028     O–10 ................................  1,994 2\nW–3 ................................   1,058\n\"1If the veteran served as Sergeant Major of the Army, Senior Enlisted Advisor of\nthe Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine\nCorps, or Master Chief Petty Officer of the Coast Guard, at the applicable time des-\nignated by section 1302 of this title, the surviving spouse's rate shall be $1,149.\n\"2If the veteran served as Chairman or Vice Chairman of the Joint Chiefs of Staff,\nChief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force,\nCommandant of the Marine Corps, or Commandant of the Coast Guard, at the appli-\ncable time designated by section 1302 of this title, the surviving spouse's rate shall be\n$2,139.\".",
+    "b": "E–1 ...................................  $935      W–4 ...................................  $1,119\nE–2 ...................................   935      O–1 ...................................    988\nE–3 ...................................   935      O–2 ...................................  1,021\nE–4 ...................................   935      O–3 ...................................  1,092\nE–5 ...................................   935      O–4 ...................................  1,155\nE–6 ...................................   935      O–5 ...................................  1,272\nE–7 ...................................   967      O–6 ...................................  1,433\nE–8 ...................................  1,021     O–7 ...................................  1,549\nE–9 ...................................  1,066 1   O–8 ...................................  1,699\nW–1 ...................................   988      O–9 ...................................  1,818\nW–2 ...................................  1,028     O–10 ...................................  1,994 2\nW–3 ...................................  1,058\n\"1If the veteran served as Sergeant Major of the Army, Senior Enlisted Advisor of\nthe Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine\nCorps, or Master Chief Petty Officer of the Coast Guard, at the applicable time des-\nignated by section 1302 of this title, the surviving spouse's rate shall be $1,149.\n\"2If the veteran served as Chairman or Vice Chairman of the Joint Chiefs of Staff,\nChief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force,\nCommandant of the Marine Corps, or Commandant of the Coast Guard, at the appli-\ncable time designated by section 1302 of this title, the surviving spouse's rate shall be\n$2,139.\".",
+    "kept": "E–1 ................................    $935     W–4 ................................  $1,119\nE–2 ................................      935     O–1 ................................      988\nE–3 ................................      935     O–2 ................................   1,021\nE–4 ................................      935     O–3 ................................   1,092\nE–5 ................................      935     O–4 ................................   1,155\nE–6 ................................      935     O–5 ................................   1,272\nE–7 ................................      967     O–6 ................................   1,433\nE–8 ................................   1,021     O–7 ................................   1,549\nE–9 ................................   1,066 1  O–8 ................................   1,699\nW–1 ................................      988     O–9 ................................   1,818\nW–2 ................................   1,028     O–10 ................................  1,994 2\nW–3 ................................   1,058\n\"1If the veteran served as Sergeant Major of the Army, Senior Enlisted Advisor of\nthe Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine\nCorps, or Master Chief Petty Officer of the Coast Guard, at the applicable time des-\nignated by section 1302 of this title, the surviving spouse's rate shall be $1,149.\n\"2If the veteran served as Chairman or Vice Chairman of the Joint Chiefs of Staff,\nChief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force,\nCommandant of the Marine Corps, or Commandant of the Coast Guard, at the appli-\ncable time designated by section 1302 of this title, the surviving spouse's rate shall be\n$2,139.\".",
+    "reason": "Table rows identical apart from spacing; the smaller-type notes keyed to superscripts 1 and 2 are footnotes."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 107–94—DEC. 21, 2001          115 STAT. 901"
+  },
+  {
+   "role": "body",
+   "text": "(15) by striking \"$3,553\" each place it appears in sub-"
+  },
+  {
+   "role": "body",
+   "text": "sections (o) and (p) and inserting \"$3,775\";"
+  },
+  {
+   "role": "body",
+   "text": "(16) by striking \"$1,525\" and \"$2,271\" in subsection (r)"
+  },
+  {
+   "role": "body",
+   "text": "and inserting \"$1,621\" and \"$2,413\", respectively; and"
+  },
+  {
+   "role": "body",
+   "text": "(17) by striking \"$2,280\" in subsection (s) and inserting"
+  },
+  {
+   "role": "body",
+   "text": "\"$2,422\"."
+  },
+  {
+   "role": "body",
+   "text": "(b) SPECIAL RULE.—The Secretary of Veterans Affairs may"
+  },
+  {
+   "role": "sidenote",
+   "text": "38 USC 1114"
+  },
+  {
+   "role": "body",
+   "text": "authorize administratively, consistent with the increases authorized"
+  },
+  {
+   "role": "sidenote",
+   "text": "note."
+  },
+  {
+   "role": "body",
+   "text": "by this section, the rates of disability compensation payable to"
+  },
+  {
+   "role": "body",
+   "text": "persons within the purview of section 10 of Public Law 85–857"
+  },
+  {
+   "role": "body",
+   "text": "who are not in receipt of compensation payable pursuant to chapter"
+  },
+  {
+   "role": "body",
+   "text": "11 of title 38, United States Code."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. ADDITIONAL COMPENSATION FOR DEPENDENTS."
+  },
+  {
+   "role": "body",
+   "text": "Section 1115(1) is amended—"
+  },
+  {
+   "role": "body",
+   "text": "(1) by striking \"$117\" in clause (A) and inserting \"$124\";"
+  },
+  {
+   "role": "body",
+   "text": "(2) by striking \"$201\" and \"$61\" in clause (B) and inserting"
+  },
+  {
+   "role": "body",
+   "text": "\"$213\" and \"$64\", respectively;"
+  },
+  {
+   "role": "body",
+   "text": "(3) by striking \"$80\" and \"$61\" in clause (C) and inserting"
+  },
+  {
+   "role": "body",
+   "text": "\"$84\" and \"$64\", respectively;"
+  },
+  {
+   "role": "body",
+   "text": "(4) by striking \"$95\" in clause (D) and inserting \"$100\";"
+  },
+  {
+   "role": "body",
+   "text": "(5) by striking \"$222\" in clause (E) and inserting \"$234\";"
+  },
+  {
+   "role": "body",
+   "text": "and"
+  },
+  {
+   "role": "body",
+   "text": "(6) by striking \"$186\" in clause (F) and inserting \"$196\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. CLOTHING ALLOWANCE FOR CERTAIN DISABLED VETERANS."
+  },
+  {
+   "role": "body",
+   "text": "Section 1162 is amended by striking \"$546\" and inserting"
+  },
+  {
+   "role": "body",
+   "text": "\"$580\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. DEPENDENCY AND INDEMNITY COMPENSATION FOR SUR-"
+  },
+  {
+   "role": "body",
+   "text": "VIVING SPOUSES."
+  },
+  {
+   "role": "body",
+   "text": "(a) NEW LAW RATES.—Section 1311(a) is amended—"
+  },
+  {
+   "role": "body",
+   "text": "(1) by striking \"$881\" in paragraph (1) and inserting \"$935\";"
+  },
+  {
+   "role": "body",
+   "text": "and"
+  },
+  {
+   "role": "body",
+   "text": "(2) by striking \"$191\" in paragraph (2) and inserting \"$202\"."
+  },
+  {
+   "role": "body",
+   "text": "(b) OLD LAW RATES.—The table in section 1311(a)(3) is amended"
+  },
+  {
+   "role": "body",
+   "text": "to read as follows:"
+  },
+  {
+   "role": "body",
+   "text": "Monthly                                        Monthly"
+  },
+  {
+   "role": "body",
+   "text": "\"Pay grade                                    rate  Pay grade                                    rate"
+  },
+  {
+   "role": "body",
+   "text": "E–1 ................................    $935     W–4 ................................  $1,119"
+  },
+  {
+   "role": "body",
+   "text": "E–2 ................................      935     O–1 ................................      988"
+  },
+  {
+   "role": "body",
+   "text": "E–3 ................................      935     O–2 ................................   1,021"
+  },
+  {
+   "role": "body",
+   "text": "E–4 ................................      935     O–3 ................................   1,092"
+  },
+  {
+   "role": "body",
+   "text": "E–5 ................................      935     O–4 ................................   1,155"
+  },
+  {
+   "role": "body",
+   "text": "E–6 ................................      935     O–5 ................................   1,272"
+  },
+  {
+   "role": "body",
+   "text": "E–7 ................................      967     O–6 ................................   1,433"
+  },
+  {
+   "role": "body",
+   "text": "E–8 ................................   1,021     O–7 ................................   1,549"
+  },
+  {
+   "role": "body",
+   "text": "E–9 ................................   1,066 1  O–8 ................................   1,699"
+  },
+  {
+   "role": "body",
+   "text": "W–1 ................................      988     O–9 ................................   1,818"
+  },
+  {
+   "role": "body",
+   "text": "W–2 ................................   1,028     O–10 ................................  1,994 2"
+  },
+  {
+   "role": "body",
+   "text": "W–3 ................................   1,058"
+  },
+  {
+   "role": "footnote",
+   "text": "\"1If the veteran served as Sergeant Major of the Army, Senior Enlisted Advisor of"
+  },
+  {
+   "role": "footnote",
+   "text": "the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine"
+  },
+  {
+   "role": "footnote",
+   "text": "Corps, or Master Chief Petty Officer of the Coast Guard, at the applicable time des-"
+  },
+  {
+   "role": "footnote",
+   "text": "ignated by section 1302 of this title, the surviving spouse's rate shall be $1,149."
+  },
+  {
+   "role": "footnote",
+   "text": "\"2If the veteran served as Chairman or Vice Chairman of the Joint Chiefs of Staff,"
+  },
+  {
+   "role": "footnote",
+   "text": "Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force,"
+  },
+  {
+   "role": "footnote",
+   "text": "Commandant of the Marine Corps, or Commandant of the Coast Guard, at the appli-"
+  },
+  {
+   "role": "footnote",
+   "text": "cable time designated by section 1302 of this title, the surviving spouse's rate shall be"
+  },
+  {
+   "role": "footnote",
+   "text": "$2,139.\"."
+  }
+ ],
+ "disagreement_count": 4,
+ "tokens": {
+  "input_tokens": 23161,
+  "output_tokens": 5766,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.26111,
+ "seconds": 62.5,
+ "created": "2026-09-08T11:25:00"
+}

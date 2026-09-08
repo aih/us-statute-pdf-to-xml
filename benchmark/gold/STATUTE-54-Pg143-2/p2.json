@@ -1,0 +1,1337 @@
+{
+ "granule_id": "STATUTE-54-Pg143-2",
+ "package_id": "STATUTE-54",
+ "volume": 54,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To amend the Act entitled \"An Act for the grading and classification of clerks in the Foreign Service of the United States of America, and providing compensation therefor\", approved February 23",
+ "date_issued": "1940-04-20",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "144",
+ "image": "data/gold/STATUTE-54-Pg143-2/p2.png",
+ "image_sha256": "c8683e3297ef2b41d04a113475d4acd001910dd775240da5df2363e298718970",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "144"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAWS—CHS. 118, 119—APR. 20, 1940        [54 STAT."
+    },
+    {
+     "role": "body",
+     "text": "have been payable if no option had been elected: Provided fur-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Retired officers re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ceiving annuities on"
+    },
+    {
+     "role": "sidenote",
+     "text": "effective date of Act."
+    },
+    {
+     "role": "body",
+     "text": "ther, That a retired officer who is receiving an annuity on the"
+    },
+    {
+     "role": "body",
+     "text": "effective date of this Act, if the husband of a wife to whom he"
+    },
+    {
+     "role": "body",
+     "text": "was married at the time of his retirement and for a total period"
+    },
+    {
+     "role": "body",
+     "text": "of at least five years, shall be entitled under the same terms and"
+    },
+    {
+     "role": "body",
+     "text": "conditions set forth above, to elect to receive a reduced annuity,"
+    },
+    {
+     "role": "body",
+     "text": "a portion of which will be continued on his death throughout"
+    },
+    {
+     "role": "body",
+     "text": "the life of his surviving widow, but all such elections by retired"
+    },
+    {
+     "role": "body",
+     "text": "officers shall be made within six months following the effective"
+    },
+    {
+     "role": "body",
+     "text": "date of this Act, and they shall all be effective on the same"
+    },
+    {
+     "role": "sidenote",
+     "text": "Increases not to op-"
+    },
+    {
+     "role": "sidenote",
+     "text": "erate retroactively; no"
+    },
+    {
+     "role": "sidenote",
+     "text": "reductions."
+    },
+    {
+     "role": "body",
+     "text": "date, to be prescribed by the President: And provided further,"
+    },
+    {
+     "role": "body",
+     "text": "That no increases in annuities under this Act shall operate retro-"
+    },
+    {
+     "role": "body",
+     "text": "actively and nothing in this Act shall be interpreted as reducing"
+    },
+    {
+     "role": "body",
+     "text": "the rate of the annuity received by any retired officer on the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Exception."
+    },
+    {
+     "role": "body",
+     "text": "effective date of this Act, unless the officer voluntarily elects to"
+    },
+    {
+     "role": "body",
+     "text": "receive a reduced annuity as provided herein.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective  date  of"
+    },
+    {
+     "role": "sidenote",
+     "text": "section 1."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The provisions of section 1 of this Act shall be construed"
+    },
+    {
+     "role": "body",
+     "text": "and interpreted in every respect as having been in effect on and"
+    },
+    {
+     "role": "sidenote",
+     "text": "53 Stat. 583."
+    },
+    {
+     "role": "body",
+     "text": "after July 1, 1939 (the effective date of the Act of April 24, 1939,"
+    },
+    {
+     "role": "body",
+     "text": "which it amends), and, accordingly, any retired officer is hereby"
+    },
+    {
+     "role": "body",
+     "text": "authorized to avail himself of the benefits of these provisions, as"
+    },
+    {
+     "role": "body",
+     "text": "follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Retired officer elect-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing reduced annuity"
+    },
+    {
+     "role": "sidenote",
+     "text": "and life annuity to"
+    },
+    {
+     "role": "sidenote",
+     "text": "widow, amendment of"
+    },
+    {
+     "role": "sidenote",
+     "text": "election."
+    },
+    {
+     "role": "body",
+     "text": "(a) A retired officer who elected to receive a reduced annuity and"
+    },
+    {
+     "role": "body",
+     "text": "a life annuity payable to his surviving widow as provided in section"
+    },
+    {
+     "role": "sidenote",
+     "text": "46  Stat.  1211;  53"
+    },
+    {
+     "role": "sidenote",
+     "text": "Stat. 585."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 U. S. C. § 21 (e);"
+    },
+    {
+     "role": "sidenote",
+     "text": "Supp. V, § 21 (e)."
+    },
+    {
+     "role": "body",
+     "text": "26 (e) of the Act of February 23, 1931, as amended by the Act of"
+    },
+    {
+     "role": "body",
+     "text": "April 24, 1939, is hereby authorized, within six months of the effective"
+    },
+    {
+     "role": "body",
+     "text": "date of this Act, to amend such election in accordance with the addi-"
+    },
+    {
+     "role": "body",
+     "text": "tional provisions of the aforesaid section 26 (e) as established by"
+    },
+    {
+     "role": "body",
+     "text": "section 1 of this Act and to change the amount thereof within the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective  date  of"
+    },
+    {
+     "role": "sidenote",
+     "text": "amended election."
+    },
+    {
+     "role": "body",
+     "text": "limitations established by these provisions: Provided, That such an"
+    },
+    {
+     "role": "body",
+     "text": "amended election shall be effective on the first day of the calendar"
+    },
+    {
+     "role": "body",
+     "text": "month in which the application is filed, except where the wife of"
+    },
+    {
+     "role": "body",
+     "text": "such an officer has died since September 1, 1939, the date heretofore"
+    },
+    {
+     "role": "body",
+     "text": "fixed in accordance with law as the effective date for such elections,"
+    },
+    {
+     "role": "body",
+     "text": "such amended election shall be considered effective as of the latter"
+    },
+    {
+     "role": "body",
+     "text": "date."
+    },
+    {
+     "role": "sidenote",
+     "text": "Extension of time"
+    },
+    {
+     "role": "sidenote",
+     "text": "for making election."
+    },
+    {
+     "role": "body",
+     "text": "(b) A retired officer who did not elect to receive a reduced annuity"
+    },
+    {
+     "role": "body",
+     "text": "and a life annuity payable to his surviving widow, as provided in"
+    },
+    {
+     "role": "body",
+     "text": "section 26 (e) of the Act of February 23, 1931, as amended by the"
+    },
+    {
+     "role": "body",
+     "text": "Act of April 24, 1939, is hereby authorized, within six months of the"
+    },
+    {
+     "role": "body",
+     "text": "effective date of this Act to make such an election, but only in"
+    },
+    {
+     "role": "body",
+     "text": "accordance with the additional provisions of the aforesaid section"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective  date  of"
+    },
+    {
+     "role": "sidenote",
+     "text": "election."
+    },
+    {
+     "role": "body",
+     "text": "26 (e) as provided in section 2 of this Act: Provided, That such an"
+    },
+    {
+     "role": "body",
+     "text": "election shall be effective on the first day of the calendar month in"
+    },
+    {
+     "role": "body",
+     "text": "which the application is filed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective  date  of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. This Act shall take effect on the 1st day of the calendar"
+    },
+    {
+     "role": "body",
+     "text": "month following the date of its approval by the President."
+    },
+    {
+     "role": "body",
+     "text": "Approved, April 20, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 119]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "April 20, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 3067]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 465]"
+    },
+    {
+     "role": "body",
+     "text": "Authorizing appropriations to be made for the disposition of the remains of"
+    },
+    {
+     "role": "body",
+     "text": "personnel of the Navy and Marine Corps and certain civilian employees of the"
+    },
+    {
+     "role": "body",
+     "text": "Navy, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Navy and Marine"
+    },
+    {
+     "role": "sidenote",
+     "text": "Corps."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That funds to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Disposition of re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "mains  of  personnel"
+    },
+    {
+     "role": "sidenote",
+     "text": "and  certain  civilian"
+    },
+    {
+     "role": "sidenote",
+     "text": "employees; funds au-"
+    },
+    {
+     "role": "sidenote",
+     "text": "thorized."
+    },
+    {
+     "role": "body",
+     "text": "expended under such regulations as the Secretary of the Navy may"
+    },
+    {
+     "role": "body",
+     "text": "prescribe are hereby authorized to be appropriated as may be neces-"
+    },
+    {
+     "role": "body",
+     "text": "sary from time to time for the funeral expenses of the deceased per-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 248."
+    },
+    {
+     "role": "body",
+     "text": "sons hereinafter specified."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2769,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09666,
+   "seconds": 29.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "144"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAWS—CHS. 118, 119—APR. 20, 1940        [54 STAT."
+    },
+    {
+     "role": "body",
+     "text": "have been payable if no option had been elected: Provided fur-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Retired officers re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ceiving annuities on"
+    },
+    {
+     "role": "sidenote",
+     "text": "effective date of Act."
+    },
+    {
+     "role": "body",
+     "text": "ther, That a retired officer who is receiving an annuity on the"
+    },
+    {
+     "role": "body",
+     "text": "effective date of this Act, if the husband of a wife to whom he"
+    },
+    {
+     "role": "body",
+     "text": "was married at the time of his retirement and for a total period"
+    },
+    {
+     "role": "body",
+     "text": "of at least five years, shall be entitled under the same terms and"
+    },
+    {
+     "role": "body",
+     "text": "conditions set forth above, to elect to receive a reduced annuity,"
+    },
+    {
+     "role": "body",
+     "text": "a portion of which will be continued on his death throughout"
+    },
+    {
+     "role": "body",
+     "text": "the life of his surviving widow, but all such elections by retired"
+    },
+    {
+     "role": "body",
+     "text": "officers shall be made within six months following the effective"
+    },
+    {
+     "role": "body",
+     "text": "date of this Act, and they shall all be effective on the same"
+    },
+    {
+     "role": "sidenote",
+     "text": "Increases not to op-"
+    },
+    {
+     "role": "sidenote",
+     "text": "erate retroactively; no"
+    },
+    {
+     "role": "sidenote",
+     "text": "reductions."
+    },
+    {
+     "role": "body",
+     "text": "date, to be prescribed by the President: And provided further,"
+    },
+    {
+     "role": "body",
+     "text": "That no increases in annuities under this Act shall operate retro-"
+    },
+    {
+     "role": "body",
+     "text": "actively and nothing in this Act shall be interpreted as reducing"
+    },
+    {
+     "role": "body",
+     "text": "the rate of the annuity received by any retired officer on the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Exception."
+    },
+    {
+     "role": "body",
+     "text": "effective date of this Act, unless the officer voluntarily elects to"
+    },
+    {
+     "role": "body",
+     "text": "receive a reduced annuity as provided herein.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective date of"
+    },
+    {
+     "role": "sidenote",
+     "text": "section 1."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The provisions of section 1 of this Act shall be construed"
+    },
+    {
+     "role": "body",
+     "text": "and interpreted in every respect as having been in effect on and"
+    },
+    {
+     "role": "sidenote",
+     "text": "53 Stat. 583."
+    },
+    {
+     "role": "body",
+     "text": "after July 1, 1939 (the effective date of the Act of April 24, 1939,"
+    },
+    {
+     "role": "body",
+     "text": "which it amends), and, accordingly, any retired officer is hereby"
+    },
+    {
+     "role": "body",
+     "text": "authorized to avail himself of the benefits of these provisions, as"
+    },
+    {
+     "role": "body",
+     "text": "follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Retired officer elect-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing reduced annuity"
+    },
+    {
+     "role": "sidenote",
+     "text": "and life annuity to"
+    },
+    {
+     "role": "sidenote",
+     "text": "widow, amendment of"
+    },
+    {
+     "role": "sidenote",
+     "text": "election."
+    },
+    {
+     "role": "sidenote",
+     "text": "46 Stat. 1211; 53"
+    },
+    {
+     "role": "sidenote",
+     "text": "Stat. 585."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 U. S. C. § 21 (e);"
+    },
+    {
+     "role": "sidenote",
+     "text": "Supp. V, § 21 (e)."
+    },
+    {
+     "role": "body",
+     "text": "(a) A retired officer who elected to receive a reduced annuity and"
+    },
+    {
+     "role": "body",
+     "text": "a life annuity payable to his surviving widow as provided in section"
+    },
+    {
+     "role": "body",
+     "text": "26 (e) of the Act of February 23, 1931, as amended by the Act of"
+    },
+    {
+     "role": "body",
+     "text": "April 24, 1939, is hereby authorized, within six months of the effective"
+    },
+    {
+     "role": "body",
+     "text": "date of this Act, to amend such election in accordance with the addi-"
+    },
+    {
+     "role": "body",
+     "text": "tional provisions of the aforesaid section 26 (e) as established by"
+    },
+    {
+     "role": "body",
+     "text": "section 1 of this Act and to change the amount thereof within the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective date of"
+    },
+    {
+     "role": "sidenote",
+     "text": "amended election."
+    },
+    {
+     "role": "body",
+     "text": "limitations established by these provisions: Provided, That such an"
+    },
+    {
+     "role": "body",
+     "text": "amended election shall be effective on the first day of the calendar"
+    },
+    {
+     "role": "body",
+     "text": "month in which the application is filed, except where the wife of"
+    },
+    {
+     "role": "body",
+     "text": "such an officer has died since September 1, 1939, the date heretofore"
+    },
+    {
+     "role": "body",
+     "text": "fixed in accordance with law as the effective date for such elections,"
+    },
+    {
+     "role": "body",
+     "text": "such amended election shall be considered effective as of the latter"
+    },
+    {
+     "role": "body",
+     "text": "date."
+    },
+    {
+     "role": "sidenote",
+     "text": "Extension of time"
+    },
+    {
+     "role": "sidenote",
+     "text": "for making election."
+    },
+    {
+     "role": "body",
+     "text": "(b) A retired officer who did not elect to receive a reduced annuity"
+    },
+    {
+     "role": "body",
+     "text": "and a life annuity payable to his surviving widow, as provided in"
+    },
+    {
+     "role": "body",
+     "text": "section 26 (e) of the Act of February 23, 1931, as amended by the"
+    },
+    {
+     "role": "body",
+     "text": "Act of April 24, 1939, is hereby authorized, within six months of the"
+    },
+    {
+     "role": "body",
+     "text": "effective date of this Act to make such an election, but only in"
+    },
+    {
+     "role": "body",
+     "text": "accordance with the additional provisions of the aforesaid section"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective date of"
+    },
+    {
+     "role": "sidenote",
+     "text": "election."
+    },
+    {
+     "role": "body",
+     "text": "26 (e) as provided in section 2 of this Act: Provided, That such an"
+    },
+    {
+     "role": "body",
+     "text": "election shall be effective on the first day of the calendar month in"
+    },
+    {
+     "role": "body",
+     "text": "which the application is filed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective date of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. This Act shall take effect on the 1st day of the calendar"
+    },
+    {
+     "role": "body",
+     "text": "month following the date of its approval by the President."
+    },
+    {
+     "role": "body",
+     "text": "Approved, April 20, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 119]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "April 20, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 3067]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 465]"
+    },
+    {
+     "role": "body",
+     "text": "Authorizing appropriations to be made for the disposition of the remains of"
+    },
+    {
+     "role": "body",
+     "text": "personnel of the Navy and Marine Corps and certain civilian employees of the"
+    },
+    {
+     "role": "body",
+     "text": "Navy, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Navy and Marine"
+    },
+    {
+     "role": "sidenote",
+     "text": "Corps."
+    },
+    {
+     "role": "sidenote",
+     "text": "Disposition of re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "mains of personnel"
+    },
+    {
+     "role": "sidenote",
+     "text": "and certain civilian"
+    },
+    {
+     "role": "sidenote",
+     "text": "employees; funds au-"
+    },
+    {
+     "role": "sidenote",
+     "text": "thorized."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 248."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That funds to be"
+    },
+    {
+     "role": "body",
+     "text": "expended under such regulations as the Secretary of the Navy may"
+    },
+    {
+     "role": "body",
+     "text": "prescribe are hereby authorized to be appropriated as may be neces-"
+    },
+    {
+     "role": "body",
+     "text": "sary from time to time for the funeral expenses of the deceased per-"
+    },
+    {
+     "role": "body",
+     "text": "sons hereinafter specified."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2705,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09505,
+   "seconds": 31.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12308,
+   "output_tokens": 903,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.08453,
+  "seconds": 14.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "(a) A retired officer who elected to receive a reduced annuity and\na life annuity payable to his surviving widow as provided in section",
+    "b": "",
+    "kept": "(a) A retired officer who elected to receive a reduced annuity and\na life annuity payable to his surviving widow as provided in section",
+    "reason": "The sidenote block 'Retired officer electing...election.' aligns with these two body lines, which precede the '46 Stat. 1211' citation sidenote."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "(a) A retired officer who elected to receive a reduced annuity and\na life annuity payable to his surviving widow as provided in section",
+    "kept": "",
+    "reason": "These body lines belong earlier (run 1); nothing printed here."
+   },
+   {
+    "run": 3,
+    "a": "United States of America in Congress assembled, That funds to be",
+    "b": "",
+    "kept": "United States of America in Congress assembled, That funds to be",
+    "reason": "'Navy and Marine Corps.' sidenote aligns with this body line, which precedes the 'Disposition of remains' sidenote."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "Post, p. 248.\nUnited States of America in Congress assembled, That funds to be",
+    "kept": "",
+    "reason": "The body line belongs earlier and 'Post, p. 248.' appears lower, beside the later body lines."
+   },
+   {
+    "run": 5,
+    "a": "Post, p. 248.",
+    "b": "",
+    "kept": "Post, p. 248.",
+    "reason": "'Post, p. 248.' is printed in the margin at the level of the last body lines."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "144"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAWS—CHS. 118, 119—APR. 20, 1940        [54 STAT."
+  },
+  {
+   "role": "body",
+   "text": "have been payable if no option had been elected: Provided fur-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Retired officers re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ceiving annuities on"
+  },
+  {
+   "role": "sidenote",
+   "text": "effective date of Act."
+  },
+  {
+   "role": "body",
+   "text": "ther, That a retired officer who is receiving an annuity on the"
+  },
+  {
+   "role": "body",
+   "text": "effective date of this Act, if the husband of a wife to whom he"
+  },
+  {
+   "role": "body",
+   "text": "was married at the time of his retirement and for a total period"
+  },
+  {
+   "role": "body",
+   "text": "of at least five years, shall be entitled under the same terms and"
+  },
+  {
+   "role": "body",
+   "text": "conditions set forth above, to elect to receive a reduced annuity,"
+  },
+  {
+   "role": "body",
+   "text": "a portion of which will be continued on his death throughout"
+  },
+  {
+   "role": "body",
+   "text": "the life of his surviving widow, but all such elections by retired"
+  },
+  {
+   "role": "body",
+   "text": "officers shall be made within six months following the effective"
+  },
+  {
+   "role": "body",
+   "text": "date of this Act, and they shall all be effective on the same"
+  },
+  {
+   "role": "sidenote",
+   "text": "Increases not to op-"
+  },
+  {
+   "role": "sidenote",
+   "text": "erate retroactively; no"
+  },
+  {
+   "role": "sidenote",
+   "text": "reductions."
+  },
+  {
+   "role": "body",
+   "text": "date, to be prescribed by the President: And provided further,"
+  },
+  {
+   "role": "body",
+   "text": "That no increases in annuities under this Act shall operate retro-"
+  },
+  {
+   "role": "body",
+   "text": "actively and nothing in this Act shall be interpreted as reducing"
+  },
+  {
+   "role": "body",
+   "text": "the rate of the annuity received by any retired officer on the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Exception."
+  },
+  {
+   "role": "body",
+   "text": "effective date of this Act, unless the officer voluntarily elects to"
+  },
+  {
+   "role": "body",
+   "text": "receive a reduced annuity as provided herein.\""
+  },
+  {
+   "role": "sidenote",
+   "text": "Effective  date  of"
+  },
+  {
+   "role": "sidenote",
+   "text": "section 1."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The provisions of section 1 of this Act shall be construed"
+  },
+  {
+   "role": "body",
+   "text": "and interpreted in every respect as having been in effect on and"
+  },
+  {
+   "role": "sidenote",
+   "text": "53 Stat. 583."
+  },
+  {
+   "role": "body",
+   "text": "after July 1, 1939 (the effective date of the Act of April 24, 1939,"
+  },
+  {
+   "role": "body",
+   "text": "which it amends), and, accordingly, any retired officer is hereby"
+  },
+  {
+   "role": "body",
+   "text": "authorized to avail himself of the benefits of these provisions, as"
+  },
+  {
+   "role": "body",
+   "text": "follows:"
+  },
+  {
+   "role": "sidenote",
+   "text": "Retired officer elect-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ing reduced annuity"
+  },
+  {
+   "role": "sidenote",
+   "text": "and life annuity to"
+  },
+  {
+   "role": "sidenote",
+   "text": "widow, amendment of"
+  },
+  {
+   "role": "sidenote",
+   "text": "election."
+  },
+  {
+   "role": "body",
+   "text": "(a) A retired officer who elected to receive a reduced annuity and"
+  },
+  {
+   "role": "body",
+   "text": "a life annuity payable to his surviving widow as provided in section"
+  },
+  {
+   "role": "sidenote",
+   "text": "46  Stat.  1211;  53"
+  },
+  {
+   "role": "sidenote",
+   "text": "Stat. 585."
+  },
+  {
+   "role": "sidenote",
+   "text": "22 U. S. C. § 21 (e);"
+  },
+  {
+   "role": "sidenote",
+   "text": "Supp. V, § 21 (e)."
+  },
+  {
+   "role": "body",
+   "text": "26 (e) of the Act of February 23, 1931, as amended by the Act of"
+  },
+  {
+   "role": "body",
+   "text": "April 24, 1939, is hereby authorized, within six months of the effective"
+  },
+  {
+   "role": "body",
+   "text": "date of this Act, to amend such election in accordance with the addi-"
+  },
+  {
+   "role": "body",
+   "text": "tional provisions of the aforesaid section 26 (e) as established by"
+  },
+  {
+   "role": "body",
+   "text": "section 1 of this Act and to change the amount thereof within the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "sidenote",
+   "text": "Effective  date  of"
+  },
+  {
+   "role": "sidenote",
+   "text": "amended election."
+  },
+  {
+   "role": "body",
+   "text": "limitations established by these provisions: Provided, That such an"
+  },
+  {
+   "role": "body",
+   "text": "amended election shall be effective on the first day of the calendar"
+  },
+  {
+   "role": "body",
+   "text": "month in which the application is filed, except where the wife of"
+  },
+  {
+   "role": "body",
+   "text": "such an officer has died since September 1, 1939, the date heretofore"
+  },
+  {
+   "role": "body",
+   "text": "fixed in accordance with law as the effective date for such elections,"
+  },
+  {
+   "role": "body",
+   "text": "such amended election shall be considered effective as of the latter"
+  },
+  {
+   "role": "body",
+   "text": "date."
+  },
+  {
+   "role": "sidenote",
+   "text": "Extension of time"
+  },
+  {
+   "role": "sidenote",
+   "text": "for making election."
+  },
+  {
+   "role": "body",
+   "text": "(b) A retired officer who did not elect to receive a reduced annuity"
+  },
+  {
+   "role": "body",
+   "text": "and a life annuity payable to his surviving widow, as provided in"
+  },
+  {
+   "role": "body",
+   "text": "section 26 (e) of the Act of February 23, 1931, as amended by the"
+  },
+  {
+   "role": "body",
+   "text": "Act of April 24, 1939, is hereby authorized, within six months of the"
+  },
+  {
+   "role": "body",
+   "text": "effective date of this Act to make such an election, but only in"
+  },
+  {
+   "role": "body",
+   "text": "accordance with the additional provisions of the aforesaid section"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "sidenote",
+   "text": "Effective  date  of"
+  },
+  {
+   "role": "sidenote",
+   "text": "election."
+  },
+  {
+   "role": "body",
+   "text": "26 (e) as provided in section 2 of this Act: Provided, That such an"
+  },
+  {
+   "role": "body",
+   "text": "election shall be effective on the first day of the calendar month in"
+  },
+  {
+   "role": "body",
+   "text": "which the application is filed."
+  },
+  {
+   "role": "sidenote",
+   "text": "Effective  date  of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. This Act shall take effect on the 1st day of the calendar"
+  },
+  {
+   "role": "body",
+   "text": "month following the date of its approval by the President."
+  },
+  {
+   "role": "body",
+   "text": "Approved, April 20, 1940."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 119]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "April 20, 1940"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 3067]"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 465]"
+  },
+  {
+   "role": "body",
+   "text": "Authorizing appropriations to be made for the disposition of the remains of"
+  },
+  {
+   "role": "body",
+   "text": "personnel of the Navy and Marine Corps and certain civilian employees of the"
+  },
+  {
+   "role": "body",
+   "text": "Navy, and for other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Navy and Marine"
+  },
+  {
+   "role": "sidenote",
+   "text": "Corps."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That funds to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "Disposition of re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "mains  of  personnel"
+  },
+  {
+   "role": "sidenote",
+   "text": "and  certain  civilian"
+  },
+  {
+   "role": "sidenote",
+   "text": "employees; funds au-"
+  },
+  {
+   "role": "sidenote",
+   "text": "thorized."
+  },
+  {
+   "role": "body",
+   "text": "expended under such regulations as the Secretary of the Navy may"
+  },
+  {
+   "role": "body",
+   "text": "prescribe are hereby authorized to be appropriated as may be neces-"
+  },
+  {
+   "role": "body",
+   "text": "sary from time to time for the funeral expenses of the deceased per-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, p. 248."
+  },
+  {
+   "role": "body",
+   "text": "sons hereinafter specified."
+  }
+ ],
+ "disagreement_count": 5,
+ "tokens": {
+  "input_tokens": 23131,
+  "output_tokens": 6377,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.27624,
+ "seconds": 74.5,
+ "created": "2026-09-08T12:00:10"
+}

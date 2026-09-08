@@ -1,0 +1,953 @@
+{
+ "granule_id": "STATUTE-77-Pg304-2",
+ "package_id": "STATUTE-77",
+ "volume": 77,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to make certain changes in the functions of the Beach Erosion Board and the Board of Engineers for Rivers and Harbors, and for other purposes.",
+ "date_issued": "1963-11-07",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "304",
+ "image": "data/gold/STATUTE-77-Pg304-2/p1.png",
+ "image_sha256": "44d3f12b4e3c5472fed9d74ab04d66948267559311e06b7e073e354025400edd",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "304                    PUBLIC LAW 88-171–NOV. 4, 1963            [77 STAT."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-171"
+    },
+    {
+     "role": "sidenote",
+     "text": "November 4, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6481]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To permit the government of Guam to authorize a public authority to undertake"
+    },
+    {
+     "role": "body",
+     "text": "urban renewal and housing activities."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Guam."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Legisla-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Urban renewal"
+    },
+    {
+     "role": "body",
+     "text": "ture of Guam may by law grant to a public corporate authority,"
+    },
+    {
+     "role": "sidenote",
+     "text": "and housing ac-"
+    },
+    {
+     "role": "body",
+     "text": "existing or to be created by or under such law, powers to undertake"
+    },
+    {
+     "role": "sidenote",
+     "text": "tivities."
+    },
+    {
+     "role": "body",
+     "text": "urban renewal and housing activities in Guam.  Such legislature"
+    },
+    {
+     "role": "body",
+     "text": "may by law provide for the appointment, terms of office, or removal"
+    },
+    {
+     "role": "body",
+     "text": "of the members of such authority and for the powers of such author-"
+    },
+    {
+     "role": "body",
+     "text": "ity, including authority to accept whatever benefits the Federal"
+    },
+    {
+     "role": "body",
+     "text": "Government may make available, and to do all things, to exercise"
+    },
+    {
+     "role": "body",
+     "text": "any and all powers, and to assume and fulfill any and all obligations,"
+    },
+    {
+     "role": "body",
+     "text": "duties, responsibilities, and requirements, including but not limited"
+    },
+    {
+     "role": "body",
+     "text": "to those relating to planning or zoning, necessary or desirable for"
+    },
+    {
+     "role": "body",
+     "text": "receiving such Federal assistance, except that such authority shall"
+    },
+    {
+     "role": "body",
+     "text": "not be given any power of taxation, nor any power to pledge the"
+    },
+    {
+     "role": "body",
+     "text": "faith and credit of the territory of Guam for any loan whatever."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The Legislature of Guam may by law authorize such"
+    },
+    {
+     "role": "sidenote",
+     "text": "64 Stat. 384."
+    },
+    {
+     "role": "body",
+     "text": "authority, any provision of the Organic Act of Guam, or any other"
+    },
+    {
+     "role": "sidenote",
+     "text": "48 USC 1421"
+    },
+    {
+     "role": "body",
+     "text": "Act of Congress to the contrary notwithstanding, to borrow money"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "and to issue notes, bonds, and other obligations of such character and"
+    },
+    {
+     "role": "body",
+     "text": "maturity, with such security, and in such manner as the legislature"
+    },
+    {
+     "role": "body",
+     "text": "may provide.  Such notes, bonds, and other obligations shall not be"
+    },
+    {
+     "role": "body",
+     "text": "a debt of the United States, or of Guam other than such authority,"
+    },
+    {
+     "role": "body",
+     "text": "nor constitute a debt, indebtedness, or the borrowing of money"
+    },
+    {
+     "role": "body",
+     "text": "within the meaning of any limitation or restriction on the issuance of"
+    },
+    {
+     "role": "body",
+     "text": "notes, bonds, or other obligations contained in any laws of the United"
+    },
+    {
+     "role": "body",
+     "text": "States applicable to Guam or to any agency thereof."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. The Legislature of Guam may by law assist such authority"
+    },
+    {
+     "role": "body",
+     "text": "by furnishing, or authorizing the furnishing of, cash donations, loans,"
+    },
+    {
+     "role": "body",
+     "text": "conveyances of real and personal property, facilities, and services,"
+    },
+    {
+     "role": "body",
+     "text": "and otherwise, and may by law take other action in aid of urban"
+    },
+    {
+     "role": "body",
+     "text": "renewal or housing or related activities."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. Each and every part of Public Law 6–135, approved"
+    },
+    {
+     "role": "body",
+     "text": "December 18, 1962, heretofore enacted by the Legislature of Guam"
+    },
+    {
+     "role": "body",
+     "text": "dealing with any part of the subject matter of this Act and not incon-"
+    },
+    {
+     "role": "body",
+     "text": "sistent herewith is ratified and confirmed."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. Powers granted herein shall be in addition to, and not in"
+    },
+    {
+     "role": "body",
+     "text": "derogation of, any powers granted by other law to, or for the benefit"
+    },
+    {
+     "role": "body",
+     "text": "or assistance of, any public corporate authority."
+    },
+    {
+     "role": "body",
+     "text": "Approved November 4, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-172"
+    },
+    {
+     "role": "sidenote",
+     "text": "November 7, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1523]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To make certain changes in the functions of the Beach Erosion Board and the"
+    },
+    {
+     "role": "body",
+     "text": "Board of Engineers for Rivers and Harbors, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Beach Erosion"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Board"
+    },
+    {
+     "role": "sidenote",
+     "text": "Board."
+    },
+    {
+     "role": "body",
+     "text": "established by section 2 of the River and Harbor Act approved"
+    },
+    {
+     "role": "sidenote",
+     "text": "Change in"
+    },
+    {
+     "role": "body",
+     "text": "July 3, 1930, as amended (33 U.S.C. 426), referred to as the Beach"
+    },
+    {
+     "role": "sidenote",
+     "text": "functions."
+    },
+    {
+     "role": "sidenote",
+     "text": "74 Stat. 484."
+    },
+    {
+     "role": "body",
+     "text": "Erosion Board, is hereby abolished.  There shall be established under"
+    },
+    {
+     "role": "body",
+     "text": "the Chief of Engineers, United States Army, a Coastal Engineering"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2019,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07791,
+   "seconds": 24.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "304"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 88-171–NOV. 4, 1963"
+    },
+    {
+     "role": "running-head",
+     "text": "[77 STAT."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-171"
+    },
+    {
+     "role": "sidenote",
+     "text": "November 4, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6481]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To permit the government of Guam to authorize a public authority to undertake"
+    },
+    {
+     "role": "body",
+     "text": "urban renewal and housing activities."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Guam."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Legisla-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Urban renewal"
+    },
+    {
+     "role": "body",
+     "text": "ture of Guam may by law grant to a public corporate authority,"
+    },
+    {
+     "role": "sidenote",
+     "text": "and housing ac-"
+    },
+    {
+     "role": "body",
+     "text": "existing or to be created by or under such law, powers to undertake"
+    },
+    {
+     "role": "sidenote",
+     "text": "tivities."
+    },
+    {
+     "role": "body",
+     "text": "urban renewal and housing activities in Guam. Such legislature"
+    },
+    {
+     "role": "body",
+     "text": "may by law provide for the appointment, terms of office, or removal"
+    },
+    {
+     "role": "body",
+     "text": "of the members of such authority and for the powers of such author-"
+    },
+    {
+     "role": "body",
+     "text": "ity, including authority to accept whatever benefits the Federal"
+    },
+    {
+     "role": "body",
+     "text": "Government may make available, and to do all things, to exercise"
+    },
+    {
+     "role": "body",
+     "text": "any and all powers, and to assume and fulfill any and all obligations,"
+    },
+    {
+     "role": "body",
+     "text": "duties, responsibilities, and requirements, including but not limited"
+    },
+    {
+     "role": "body",
+     "text": "to those relating to planning or zoning, necessary or desirable for"
+    },
+    {
+     "role": "body",
+     "text": "receiving such Federal assistance, except that such authority shall"
+    },
+    {
+     "role": "body",
+     "text": "not be given any power of taxation, nor any power to pledge the"
+    },
+    {
+     "role": "body",
+     "text": "faith and credit of the territory of Guam for any loan whatever."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The Legislature of Guam may by law authorize such"
+    },
+    {
+     "role": "sidenote",
+     "text": "64 Stat. 384."
+    },
+    {
+     "role": "body",
+     "text": "authority, any provision of the Organic Act of Guam, or any other"
+    },
+    {
+     "role": "sidenote",
+     "text": "48 USC 1421"
+    },
+    {
+     "role": "body",
+     "text": "Act of Congress to the contrary notwithstanding, to borrow money"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "and to issue notes, bonds, and other obligations of such character and"
+    },
+    {
+     "role": "body",
+     "text": "maturity, with such security, and in such manner as the legislature"
+    },
+    {
+     "role": "body",
+     "text": "may provide. Such notes, bonds, and other obligations shall not be"
+    },
+    {
+     "role": "body",
+     "text": "a debt of the United States, or of Guam other than such authority,"
+    },
+    {
+     "role": "body",
+     "text": "nor constitute a debt, indebtedness, or the borrowing of money"
+    },
+    {
+     "role": "body",
+     "text": "within the meaning of any limitation or restriction on the issuance of"
+    },
+    {
+     "role": "body",
+     "text": "notes, bonds, or other obligations contained in any laws of the United"
+    },
+    {
+     "role": "body",
+     "text": "States applicable to Guam or to any agency thereof."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. The Legislature of Guam may by law assist such authority"
+    },
+    {
+     "role": "body",
+     "text": "by furnishing, or authorizing the furnishing of, cash donations, loans,"
+    },
+    {
+     "role": "body",
+     "text": "conveyances of real and personal property, facilities, and services,"
+    },
+    {
+     "role": "body",
+     "text": "and otherwise, and may by law take other action in aid of urban"
+    },
+    {
+     "role": "body",
+     "text": "renewal or housing or related activities."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. Each and every part of Public Law 6–135, approved"
+    },
+    {
+     "role": "body",
+     "text": "December 18, 1962, heretofore enacted by the Legislature of Guam"
+    },
+    {
+     "role": "body",
+     "text": "dealing with any part of the subject matter of this Act and not incon-"
+    },
+    {
+     "role": "body",
+     "text": "sistent herewith is ratified and confirmed."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. Powers granted herein shall be in addition to, and not in"
+    },
+    {
+     "role": "body",
+     "text": "derogation of, any powers granted by other law to, or for the benefit"
+    },
+    {
+     "role": "body",
+     "text": "or assistance of, any public corporate authority."
+    },
+    {
+     "role": "body",
+     "text": "Approved November 4, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-172"
+    },
+    {
+     "role": "sidenote",
+     "text": "November 7, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1523]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To make certain changes in the functions of the Beach Erosion Board and the"
+    },
+    {
+     "role": "body",
+     "text": "Board of Engineers for Rivers and Harbors, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Beach Erosion"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Board"
+    },
+    {
+     "role": "sidenote",
+     "text": "Board."
+    },
+    {
+     "role": "body",
+     "text": "established by section 2 of the River and Harbor Act approved"
+    },
+    {
+     "role": "sidenote",
+     "text": "Change in"
+    },
+    {
+     "role": "body",
+     "text": "July 3, 1930, as amended (33 U.S.C. 426), referred to as the Beach"
+    },
+    {
+     "role": "sidenote",
+     "text": "functions."
+    },
+    {
+     "role": "sidenote",
+     "text": "74 Stat. 484."
+    },
+    {
+     "role": "body",
+     "text": "Erosion Board, is hereby abolished. There shall be established under"
+    },
+    {
+     "role": "body",
+     "text": "the Chief of Engineers, United States Army, a Coastal Engineering"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2041,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07845,
+   "seconds": 23.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11015,
+   "output_tokens": 186,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06014,
+  "seconds": 5.4,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "304                    PUBLIC LAW 88-171–NOV. 4, 1963            [77 STAT.",
+    "b": "304\nPUBLIC LAW 88-171–NOV. 4, 1963\n[77 STAT.",
+    "kept": "304\nPUBLIC LAW 88-171–NOV. 4, 1963\n[77 STAT.",
+    "reason": "The header line consists of a distinct page number at the left margin plus the running head and the bracketed volume citation; separating them reflects their distinct roles."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "304"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 88-171–NOV. 4, 1963"
+  },
+  {
+   "role": "running-head",
+   "text": "[77 STAT."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 88-171"
+  },
+  {
+   "role": "sidenote",
+   "text": "November 4, 1963"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 6481]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "body",
+   "text": "To permit the government of Guam to authorize a public authority to undertake"
+  },
+  {
+   "role": "body",
+   "text": "urban renewal and housing activities."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Guam."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Legisla-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Urban renewal"
+  },
+  {
+   "role": "body",
+   "text": "ture of Guam may by law grant to a public corporate authority,"
+  },
+  {
+   "role": "sidenote",
+   "text": "and housing ac-"
+  },
+  {
+   "role": "body",
+   "text": "existing or to be created by or under such law, powers to undertake"
+  },
+  {
+   "role": "sidenote",
+   "text": "tivities."
+  },
+  {
+   "role": "body",
+   "text": "urban renewal and housing activities in Guam.  Such legislature"
+  },
+  {
+   "role": "body",
+   "text": "may by law provide for the appointment, terms of office, or removal"
+  },
+  {
+   "role": "body",
+   "text": "of the members of such authority and for the powers of such author-"
+  },
+  {
+   "role": "body",
+   "text": "ity, including authority to accept whatever benefits the Federal"
+  },
+  {
+   "role": "body",
+   "text": "Government may make available, and to do all things, to exercise"
+  },
+  {
+   "role": "body",
+   "text": "any and all powers, and to assume and fulfill any and all obligations,"
+  },
+  {
+   "role": "body",
+   "text": "duties, responsibilities, and requirements, including but not limited"
+  },
+  {
+   "role": "body",
+   "text": "to those relating to planning or zoning, necessary or desirable for"
+  },
+  {
+   "role": "body",
+   "text": "receiving such Federal assistance, except that such authority shall"
+  },
+  {
+   "role": "body",
+   "text": "not be given any power of taxation, nor any power to pledge the"
+  },
+  {
+   "role": "body",
+   "text": "faith and credit of the territory of Guam for any loan whatever."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The Legislature of Guam may by law authorize such"
+  },
+  {
+   "role": "sidenote",
+   "text": "64 Stat. 384."
+  },
+  {
+   "role": "body",
+   "text": "authority, any provision of the Organic Act of Guam, or any other"
+  },
+  {
+   "role": "sidenote",
+   "text": "48 USC 1421"
+  },
+  {
+   "role": "body",
+   "text": "Act of Congress to the contrary notwithstanding, to borrow money"
+  },
+  {
+   "role": "sidenote",
+   "text": "note."
+  },
+  {
+   "role": "body",
+   "text": "and to issue notes, bonds, and other obligations of such character and"
+  },
+  {
+   "role": "body",
+   "text": "maturity, with such security, and in such manner as the legislature"
+  },
+  {
+   "role": "body",
+   "text": "may provide.  Such notes, bonds, and other obligations shall not be"
+  },
+  {
+   "role": "body",
+   "text": "a debt of the United States, or of Guam other than such authority,"
+  },
+  {
+   "role": "body",
+   "text": "nor constitute a debt, indebtedness, or the borrowing of money"
+  },
+  {
+   "role": "body",
+   "text": "within the meaning of any limitation or restriction on the issuance of"
+  },
+  {
+   "role": "body",
+   "text": "notes, bonds, or other obligations contained in any laws of the United"
+  },
+  {
+   "role": "body",
+   "text": "States applicable to Guam or to any agency thereof."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. The Legislature of Guam may by law assist such authority"
+  },
+  {
+   "role": "body",
+   "text": "by furnishing, or authorizing the furnishing of, cash donations, loans,"
+  },
+  {
+   "role": "body",
+   "text": "conveyances of real and personal property, facilities, and services,"
+  },
+  {
+   "role": "body",
+   "text": "and otherwise, and may by law take other action in aid of urban"
+  },
+  {
+   "role": "body",
+   "text": "renewal or housing or related activities."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. Each and every part of Public Law 6–135, approved"
+  },
+  {
+   "role": "body",
+   "text": "December 18, 1962, heretofore enacted by the Legislature of Guam"
+  },
+  {
+   "role": "body",
+   "text": "dealing with any part of the subject matter of this Act and not incon-"
+  },
+  {
+   "role": "body",
+   "text": "sistent herewith is ratified and confirmed."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. Powers granted herein shall be in addition to, and not in"
+  },
+  {
+   "role": "body",
+   "text": "derogation of, any powers granted by other law to, or for the benefit"
+  },
+  {
+   "role": "body",
+   "text": "or assistance of, any public corporate authority."
+  },
+  {
+   "role": "body",
+   "text": "Approved November 4, 1963."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 88-172"
+  },
+  {
+   "role": "sidenote",
+   "text": "November 7, 1963"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 1523]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "body",
+   "text": "To make certain changes in the functions of the Beach Erosion Board and the"
+  },
+  {
+   "role": "body",
+   "text": "Board of Engineers for Rivers and Harbors, and for other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Beach Erosion"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Board"
+  },
+  {
+   "role": "sidenote",
+   "text": "Board."
+  },
+  {
+   "role": "body",
+   "text": "established by section 2 of the River and Harbor Act approved"
+  },
+  {
+   "role": "sidenote",
+   "text": "Change in"
+  },
+  {
+   "role": "body",
+   "text": "July 3, 1930, as amended (33 U.S.C. 426), referred to as the Beach"
+  },
+  {
+   "role": "sidenote",
+   "text": "functions."
+  },
+  {
+   "role": "sidenote",
+   "text": "74 Stat. 484."
+  },
+  {
+   "role": "body",
+   "text": "Erosion Board, is hereby abolished.  There shall be established under"
+  },
+  {
+   "role": "body",
+   "text": "the Chief of Engineers, United States Army, a Coastal Engineering"
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 21838,
+  "output_tokens": 4246,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.2165,
+ "seconds": 52.9,
+ "created": "2026-09-08T12:29:48"
+}

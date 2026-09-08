@@ -1,0 +1,967 @@
+{
+ "granule_id": "STATUTE-75-Pg131",
+ "package_id": "STATUTE-75",
+ "volume": 75,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to improve benefits under the old-age, survivors, and disability insurance program by increasing the minimum benefits and aged widows benefits and by making additional persons eligible for bene",
+ "date_issued": "1961-06-30",
+ "pdf_page": 3,
+ "pdf_pages": 13,
+ "stat_page": "133",
+ "image": "data/gold/STATUTE-75-Pg131/p3.png",
+ "image_sha256": "8be6d8c3f6e571c619c99d7bbbd73459f2ef4f1cc66f34ad10c5ff179cc845bf",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "75 STAT.]         PUBLIC LAW 87-64–JUNE 30, 1961                    133"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) Any certificate described in subparagraph (A)(i) shall be"
+    },
+    {
+     "role": "body",
+     "text": "effective for purposes of this subsection (and for purposes of pre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "74 Stat. 954."
+    },
+    {
+     "role": "body",
+     "text": "venting deductions under section 203(c)(2))—"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 403."
+    },
+    {
+     "role": "body",
+     "text": "\"(i) for the month in which it is filed and for any month there-"
+    },
+    {
+     "role": "body",
+     "text": "after, and"
+    },
+    {
+     "role": "body",
+     "text": "\"(ii) for months, in the period designated by the woman fil-"
+    },
+    {
+     "role": "body",
+     "text": "ing such certificate, of one or more consecutive months (not ex-"
+    },
+    {
+     "role": "body",
+     "text": "ceeding 12) immediately preceding the month in which such cer-"
+    },
+    {
+     "role": "body",
+     "text": "tificate is filed;"
+    },
+    {
+     "role": "body",
+     "text": "except that such certificate shall not be effective for any month before"
+    },
+    {
+     "role": "body",
+     "text": "the month in which she attains age 62, nor shall it be effective for any"
+    },
+    {
+     "role": "body",
+     "text": "month to which subparagraph (A)(ii) applies."
+    },
+    {
+     "role": "body",
+     "text": "\"(C) If a woman does not have in her care a child described in"
+    },
+    {
+     "role": "body",
+     "text": "subparagraph (A)(ii) in the first month for which she is entitled"
+    },
+    {
+     "role": "body",
+     "text": "to a wife's insurance benefit, and if such first month is a month before"
+    },
+    {
+     "role": "body",
+     "text": "the month in which she attains age 65, she shall be deemed to have"
+    },
+    {
+     "role": "body",
+     "text": "filed in such first month the certificate described in subparagraph"
+    },
+    {
+     "role": "body",
+     "text": "(A)(i)."
+    },
+    {
+     "role": "sidenote",
+     "text": "\"Reduction peri-"
+    },
+    {
+     "role": "sidenote",
+     "text": "od.\""
+    },
+    {
+     "role": "body",
+     "text": "\"(5) For purposes of this subsection, the 'reduction period' for"
+    },
+    {
+     "role": "body",
+     "text": "an individual's old-age, wife's, or husband's insurance benefit is the"
+    },
+    {
+     "role": "body",
+     "text": "period—"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) beginning—"
+    },
+    {
+     "role": "body",
+     "text": "\"(i) in the case of an old-age or husband's insurance bene-"
+    },
+    {
+     "role": "body",
+     "text": "fit, with the first day of the first month for which such in-"
+    },
+    {
+     "role": "body",
+     "text": "dividual is entitled to such benefit, or"
+    },
+    {
+     "role": "body",
+     "text": "\"(ii) in the case of a wife's insurance benefit, with the"
+    },
+    {
+     "role": "body",
+     "text": "first day of the first month for which a certificate described"
+    },
+    {
+     "role": "body",
+     "text": "in paragraph (4)(A)(i) is effective, and"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) ending with the last day of the month before the month"
+    },
+    {
+     "role": "body",
+     "text": "in which such individual attains age 65."
+    },
+    {
+     "role": "sidenote",
+     "text": "\"Adjusted re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "duction period.\""
+    },
+    {
+     "role": "body",
+     "text": "\"(6) For purposes of this subsection, the 'adjusted reduction period'"
+    },
+    {
+     "role": "body",
+     "text": "for an individual's old-age, wife's, or husband's insurance benefit is"
+    },
+    {
+     "role": "body",
+     "text": "the reduction period prescribed by paragraph (5) for such benefit,"
+    },
+    {
+     "role": "body",
+     "text": "excluding from such period—"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) any month in which such benefit was subject to deduc-"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 403, 422."
+    },
+    {
+     "role": "body",
+     "text": "tions under section 203(b), 203(c)(1), 203(d)(1), or 222(b),"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) in the case of wife's insurance benefits, any month in"
+    },
+    {
+     "role": "body",
+     "text": "which she had in her care (individually or jointly with the person"
+    },
+    {
+     "role": "body",
+     "text": "on whose wages and self-employment income such benefit is based)"
+    },
+    {
+     "role": "body",
+     "text": "a child of such person entitled to child's insurance benefits, and"
+    },
+    {
+     "role": "body",
+     "text": "\"(C) in the case of wife's or husband's insurance benefits, any"
+    },
+    {
+     "role": "body",
+     "text": "month for which such individual was not entitled to such benefits"
+    },
+    {
+     "role": "body",
+     "text": "because the spouse on whose wages and self-employment income"
+    },
+    {
+     "role": "body",
+     "text": "such benefits were based ceased to be under a disability."
+    },
+    {
+     "role": "body",
+     "text": "\"(7) This subsection shall be applied after reduction under section"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 403, 415."
+    },
+    {
+     "role": "body",
+     "text": "203(a) and after application of section 215(g). If the amount of"
+    },
+    {
+     "role": "body",
+     "text": "any reduction computed under paragraph (1) or (2) is not a multiple"
+    },
+    {
+     "role": "body",
+     "text": "of $0.10, it shall be reduced to the next lower multiple of $0.10."
+    },
+    {
+     "role": "body",
+     "text": "\"Presumed Filing of Application by Individuals Eligible for Old-"
+    },
+    {
+     "role": "body",
+     "text": "Age Insurance Benefits and for Wife's or Husband's Insurance"
+    },
+    {
+     "role": "body",
+     "text": "Benefits"
+    },
+    {
+     "role": "body",
+     "text": "\"(r)(1) If the first month for which an individual is entitled to"
+    },
+    {
+     "role": "body",
+     "text": "an old-age insurance benefit is a month before the month in which"
+    },
+    {
+     "role": "body",
+     "text": "such individual attains age 65, and if such individual is eligible for a"
+    },
+    {
+     "role": "body",
+     "text": "wife's or husband's insurance benefit for such first month, such in-"
+    },
+    {
+     "role": "body",
+     "text": "dividual shall be deemed to have filed an application in such month"
+    },
+    {
+     "role": "body",
+     "text": "for wife's or husband's insurance benefits."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2066,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07908,
+   "seconds": 24.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "75 STAT.]        PUBLIC LAW 87-64--JUNE 30, 1961"
+    },
+    {
+     "role": "page-number",
+     "text": "133"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) Any certificate described in subparagraph (A)(i) shall be"
+    },
+    {
+     "role": "body",
+     "text": "effective for purposes of this subsection (and for purposes of pre-"
+    },
+    {
+     "role": "body",
+     "text": "venting deductions under section 203(c)(2))—"
+    },
+    {
+     "role": "sidenote",
+     "text": "74 Stat. 954."
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 403."
+    },
+    {
+     "role": "body",
+     "text": "\"(i) for the month in which it is filed and for any month there-"
+    },
+    {
+     "role": "body",
+     "text": "after, and"
+    },
+    {
+     "role": "body",
+     "text": "\"(ii) for months, in the period designated by the woman fil-"
+    },
+    {
+     "role": "body",
+     "text": "ing such certificate, of one or more consecutive months (not ex-"
+    },
+    {
+     "role": "body",
+     "text": "ceeding 12) immediately preceding the month in which such cer-"
+    },
+    {
+     "role": "body",
+     "text": "tificate is filed;"
+    },
+    {
+     "role": "body",
+     "text": "except that such certificate shall not be effective for any month before"
+    },
+    {
+     "role": "body",
+     "text": "the month in which she attains age 62, nor shall it be effective for any"
+    },
+    {
+     "role": "body",
+     "text": "month to which subparagraph (A)(ii) applies."
+    },
+    {
+     "role": "body",
+     "text": "\"(C) If a woman does not have in her care a child described in"
+    },
+    {
+     "role": "body",
+     "text": "subparagraph (A)(ii) in the first month for which she is entitled"
+    },
+    {
+     "role": "body",
+     "text": "to a wife's insurance benefit, and if such first month is a month before"
+    },
+    {
+     "role": "body",
+     "text": "the month in which she attains age 65, she shall be deemed to have"
+    },
+    {
+     "role": "body",
+     "text": "filed in such first month the certificate described in subparagraph"
+    },
+    {
+     "role": "body",
+     "text": "(A)(i)."
+    },
+    {
+     "role": "body",
+     "text": "\"(5) For purposes of this subsection, the 'reduction period' for"
+    },
+    {
+     "role": "sidenote",
+     "text": "\"Reduction peri-"
+    },
+    {
+     "role": "sidenote",
+     "text": "od.\""
+    },
+    {
+     "role": "body",
+     "text": "an individual's old-age, wife's, or husband's insurance benefit is the"
+    },
+    {
+     "role": "body",
+     "text": "period—"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) beginning—"
+    },
+    {
+     "role": "body",
+     "text": "\"(i) in the case of an old-age or husband's insurance bene-"
+    },
+    {
+     "role": "body",
+     "text": "fit, with the first day of the first month for which such in-"
+    },
+    {
+     "role": "body",
+     "text": "dividual is entitled to such benefit, or"
+    },
+    {
+     "role": "body",
+     "text": "\"(ii) in the case of a wife's insurance benefit, with the"
+    },
+    {
+     "role": "body",
+     "text": "first day of the first month for which a certificate described"
+    },
+    {
+     "role": "body",
+     "text": "in paragraph (4)(A)(i) is effective, and"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) ending with the last day of the month before the month"
+    },
+    {
+     "role": "body",
+     "text": "in which such individual attains age 65."
+    },
+    {
+     "role": "body",
+     "text": "\"(6) For purposes of this subsection, the 'adjusted reduction period'"
+    },
+    {
+     "role": "sidenote",
+     "text": "\"Adjusted re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "duction period.\""
+    },
+    {
+     "role": "body",
+     "text": "for an individual's old-age, wife's, or husband's insurance benefit is"
+    },
+    {
+     "role": "body",
+     "text": "the reduction period prescribed by paragraph (5) for such benefit,"
+    },
+    {
+     "role": "body",
+     "text": "excluding from such period—"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) any month in which such benefit was subject to deduc-"
+    },
+    {
+     "role": "body",
+     "text": "tions under section 203(b), 203(c)(1), 203(d)(1), or 222(b),"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 403, 422."
+    },
+    {
+     "role": "body",
+     "text": "\"(B) in the case of wife's insurance benefits, any month in"
+    },
+    {
+     "role": "body",
+     "text": "which she had in her care (individually or jointly with the person"
+    },
+    {
+     "role": "body",
+     "text": "on whose wages and self-employment income such benefit is based)"
+    },
+    {
+     "role": "body",
+     "text": "a child of such person entitled to child's insurance benefits, and"
+    },
+    {
+     "role": "body",
+     "text": "\"(C) in the case of wife's or husband's insurance benefits, any"
+    },
+    {
+     "role": "body",
+     "text": "month for which such individual was not entitled to such benefits"
+    },
+    {
+     "role": "body",
+     "text": "because the spouse on whose wages and self-employment income"
+    },
+    {
+     "role": "body",
+     "text": "such benefits were based ceased to be under a disability."
+    },
+    {
+     "role": "body",
+     "text": "\"(7) This subsection shall be applied after reduction under section"
+    },
+    {
+     "role": "body",
+     "text": "203(a) and after application of section 215(g). If the amount of"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 403, 415."
+    },
+    {
+     "role": "body",
+     "text": "any reduction computed under paragraph (1) or (2) is not a multiple"
+    },
+    {
+     "role": "body",
+     "text": "of $0.10, it shall be reduced to the next lower multiple of $0.10."
+    },
+    {
+     "role": "body",
+     "text": "\"Presumed Filing of Application by Individuals Eligible for Old-"
+    },
+    {
+     "role": "body",
+     "text": "Age Insurance Benefits and for Wife's or Husband's Insurance"
+    },
+    {
+     "role": "body",
+     "text": "Benefits"
+    },
+    {
+     "role": "body",
+     "text": "\"(r)(1) If the first month for which an individual is entitled to"
+    },
+    {
+     "role": "body",
+     "text": "an old-age insurance benefit is a month before the month in which"
+    },
+    {
+     "role": "body",
+     "text": "such individual attains age 65, and if such individual is eligible for a"
+    },
+    {
+     "role": "body",
+     "text": "wife's or husband's insurance benefit for such first month, such in-"
+    },
+    {
+     "role": "body",
+     "text": "dividual shall be deemed to have filed an application in such month"
+    },
+    {
+     "role": "body",
+     "text": "for wife's or husband's insurance benefits."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 1978,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07688,
+   "seconds": 23.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11459,
+   "output_tokens": 1110,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.08546,
+  "seconds": 16.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "75 STAT.]         PUBLIC LAW 87-64–JUNE 30, 1961                    133",
+    "b": "75 STAT.]        PUBLIC LAW 87-64--JUNE 30, 1961\n133",
+    "kept": "75 STAT.]        PUBLIC LAW 87-64—JUNE 30, 1961\n133",
+    "reason": "The head line and the page number 133 are distinct elements at opposite ends of the top line."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "venting deductions under section 203(c)(2))—",
+    "kept": "venting deductions under section 203(c)(2))—",
+    "reason": "The sidenotes '74 Stat. 954.'/'42 USC 403.' sit beside this body line, so the body line precedes them."
+   },
+   {
+    "run": 3,
+    "a": "venting deductions under section 203(c)(2))—",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed before the sidenotes in run 2."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "\"(5) For purposes of this subsection, the 'reduction period' for",
+    "kept": "\"(5) For purposes of this subsection, the 'reduction period' for",
+    "reason": "The 'Reduction period.' sidenote is aligned with this line, which comes first."
+   },
+   {
+    "run": 5,
+    "a": "\"(5) For purposes of this subsection, the 'reduction period' for",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 4."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "\"(6) For purposes of this subsection, the 'adjusted reduction period'",
+    "kept": "\"(6) For purposes of this subsection, the 'adjusted reduction period'",
+    "reason": "The 'Adjusted reduction period.' sidenote is aligned with this line, which comes first."
+   },
+   {
+    "run": 7,
+    "a": "\"(6) For purposes of this subsection, the 'adjusted reduction period'",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 6."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "tions under section 203(b), 203(c)(1), 203(d)(1), or 222(b),",
+    "kept": "tions under section 203(b), 203(c)(1), 203(d)(1), or 222(b),",
+    "reason": "The sidenote '42 USC 403, 422.' is aligned with this line, which comes first."
+   },
+   {
+    "run": 9,
+    "a": "tions under section 203(b), 203(c)(1), 203(d)(1), or 222(b),",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 8."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "203(a) and after application of section 215(g). If the amount of",
+    "kept": "203(a) and after application of section 215(g). If the amount of",
+    "reason": "The sidenote '42 USC 403, 415.' is aligned with this line, which comes first."
+   },
+   {
+    "run": 11,
+    "a": "203(a) and after application of section 215(g). If the amount of",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 10."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "75 STAT.]        PUBLIC LAW 87-64—JUNE 30, 1961"
+  },
+  {
+   "role": "page-number",
+   "text": "133"
+  },
+  {
+   "role": "body",
+   "text": "\"(B) Any certificate described in subparagraph (A)(i) shall be"
+  },
+  {
+   "role": "body",
+   "text": "effective for purposes of this subsection (and for purposes of pre-"
+  },
+  {
+   "role": "body",
+   "text": "venting deductions under section 203(c)(2))—"
+  },
+  {
+   "role": "sidenote",
+   "text": "74 Stat. 954."
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 403."
+  },
+  {
+   "role": "body",
+   "text": "\"(i) for the month in which it is filed and for any month there-"
+  },
+  {
+   "role": "body",
+   "text": "after, and"
+  },
+  {
+   "role": "body",
+   "text": "\"(ii) for months, in the period designated by the woman fil-"
+  },
+  {
+   "role": "body",
+   "text": "ing such certificate, of one or more consecutive months (not ex-"
+  },
+  {
+   "role": "body",
+   "text": "ceeding 12) immediately preceding the month in which such cer-"
+  },
+  {
+   "role": "body",
+   "text": "tificate is filed;"
+  },
+  {
+   "role": "body",
+   "text": "except that such certificate shall not be effective for any month before"
+  },
+  {
+   "role": "body",
+   "text": "the month in which she attains age 62, nor shall it be effective for any"
+  },
+  {
+   "role": "body",
+   "text": "month to which subparagraph (A)(ii) applies."
+  },
+  {
+   "role": "body",
+   "text": "\"(C) If a woman does not have in her care a child described in"
+  },
+  {
+   "role": "body",
+   "text": "subparagraph (A)(ii) in the first month for which she is entitled"
+  },
+  {
+   "role": "body",
+   "text": "to a wife's insurance benefit, and if such first month is a month before"
+  },
+  {
+   "role": "body",
+   "text": "the month in which she attains age 65, she shall be deemed to have"
+  },
+  {
+   "role": "body",
+   "text": "filed in such first month the certificate described in subparagraph"
+  },
+  {
+   "role": "body",
+   "text": "(A)(i)."
+  },
+  {
+   "role": "body",
+   "text": "\"(5) For purposes of this subsection, the 'reduction period' for"
+  },
+  {
+   "role": "sidenote",
+   "text": "\"Reduction peri-"
+  },
+  {
+   "role": "sidenote",
+   "text": "od.\""
+  },
+  {
+   "role": "body",
+   "text": "an individual's old-age, wife's, or husband's insurance benefit is the"
+  },
+  {
+   "role": "body",
+   "text": "period—"
+  },
+  {
+   "role": "body",
+   "text": "\"(A) beginning—"
+  },
+  {
+   "role": "body",
+   "text": "\"(i) in the case of an old-age or husband's insurance bene-"
+  },
+  {
+   "role": "body",
+   "text": "fit, with the first day of the first month for which such in-"
+  },
+  {
+   "role": "body",
+   "text": "dividual is entitled to such benefit, or"
+  },
+  {
+   "role": "body",
+   "text": "\"(ii) in the case of a wife's insurance benefit, with the"
+  },
+  {
+   "role": "body",
+   "text": "first day of the first month for which a certificate described"
+  },
+  {
+   "role": "body",
+   "text": "in paragraph (4)(A)(i) is effective, and"
+  },
+  {
+   "role": "body",
+   "text": "\"(B) ending with the last day of the month before the month"
+  },
+  {
+   "role": "body",
+   "text": "in which such individual attains age 65."
+  },
+  {
+   "role": "body",
+   "text": "\"(6) For purposes of this subsection, the 'adjusted reduction period'"
+  },
+  {
+   "role": "sidenote",
+   "text": "\"Adjusted re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "duction period.\""
+  },
+  {
+   "role": "body",
+   "text": "for an individual's old-age, wife's, or husband's insurance benefit is"
+  },
+  {
+   "role": "body",
+   "text": "the reduction period prescribed by paragraph (5) for such benefit,"
+  },
+  {
+   "role": "body",
+   "text": "excluding from such period—"
+  },
+  {
+   "role": "body",
+   "text": "\"(A) any month in which such benefit was subject to deduc-"
+  },
+  {
+   "role": "body",
+   "text": "tions under section 203(b), 203(c)(1), 203(d)(1), or 222(b),"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 403, 422."
+  },
+  {
+   "role": "body",
+   "text": "\"(B) in the case of wife's insurance benefits, any month in"
+  },
+  {
+   "role": "body",
+   "text": "which she had in her care (individually or jointly with the person"
+  },
+  {
+   "role": "body",
+   "text": "on whose wages and self-employment income such benefit is based)"
+  },
+  {
+   "role": "body",
+   "text": "a child of such person entitled to child's insurance benefits, and"
+  },
+  {
+   "role": "body",
+   "text": "\"(C) in the case of wife's or husband's insurance benefits, any"
+  },
+  {
+   "role": "body",
+   "text": "month for which such individual was not entitled to such benefits"
+  },
+  {
+   "role": "body",
+   "text": "because the spouse on whose wages and self-employment income"
+  },
+  {
+   "role": "body",
+   "text": "such benefits were based ceased to be under a disability."
+  },
+  {
+   "role": "body",
+   "text": "\"(7) This subsection shall be applied after reduction under section"
+  },
+  {
+   "role": "body",
+   "text": "203(a) and after application of section 215(g). If the amount of"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 403, 415."
+  },
+  {
+   "role": "body",
+   "text": "any reduction computed under paragraph (1) or (2) is not a multiple"
+  },
+  {
+   "role": "body",
+   "text": "of $0.10, it shall be reduced to the next lower multiple of $0.10."
+  },
+  {
+   "role": "body",
+   "text": "\"Presumed Filing of Application by Individuals Eligible for Old-"
+  },
+  {
+   "role": "body",
+   "text": "Age Insurance Benefits and for Wife's or Husband's Insurance"
+  },
+  {
+   "role": "body",
+   "text": "Benefits"
+  },
+  {
+   "role": "body",
+   "text": "\"(r)(1) If the first month for which an individual is entitled to"
+  },
+  {
+   "role": "body",
+   "text": "an old-age insurance benefit is a month before the month in which"
+  },
+  {
+   "role": "body",
+   "text": "such individual attains age 65, and if such individual is eligible for a"
+  },
+  {
+   "role": "body",
+   "text": "wife's or husband's insurance benefit for such first month, such in-"
+  },
+  {
+   "role": "body",
+   "text": "dividual shall be deemed to have filed an application in such month"
+  },
+  {
+   "role": "body",
+   "text": "for wife's or husband's insurance benefits."
+  }
+ ],
+ "disagreement_count": 11,
+ "tokens": {
+  "input_tokens": 22282,
+  "output_tokens": 5154,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.24142,
+ "seconds": 64.9,
+ "created": "2026-09-08T11:23:21"
+}

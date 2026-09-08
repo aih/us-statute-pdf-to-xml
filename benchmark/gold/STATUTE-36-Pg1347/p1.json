@@ -1,0 +1,1132 @@
+{
+ "granule_id": "STATUTE-36-Pg1347",
+ "package_id": "STATUTE-36",
+ "volume": 36,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act To authorize the extension of Seventeenth Street northeast.",
+ "date_issued": "1911-03-04",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "1347",
+ "image": "data/gold/STATUTE-36-Pg1347/p1.png",
+ "image_sha256": "76f6d6136d0d41ad8313ae203ac253cef1f33c44743b06ae4303e27b6c44310b",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. III.  CHS. 248–250.  1911."
+    },
+    {
+     "role": "page-number",
+     "text": "1347"
+    },
+    {
+     "role": "sidenote",
+     "text": "Jury to consider appeals."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That if any of the parties interested, their personal repre-"
+    },
+    {
+     "role": "body",
+     "text": "sentatives, or the Commissioners of the District of Columbia shall be"
+    },
+    {
+     "role": "body",
+     "text": "dissatisfied with the appraisement or award of said commission, the"
+    },
+    {
+     "role": "body",
+     "text": "court shall, on motion of the parties so dissatisfied, direct the United"
+    },
+    {
+     "role": "body",
+     "text": "States marshal to summon a jury of seven disinterested men not related"
+    },
+    {
+     "role": "body",
+     "text": "to any person in interest to meet and view the said property, and to"
+    },
+    {
+     "role": "body",
+     "text": "appraise and determine the amount of damages to which the owners of"
+    },
+    {
+     "role": "body",
+     "text": "said property so affected by change of grade may be entitled, as pro-"
+    },
+    {
+     "role": "body",
+     "text": "vided in and by the aforesaid Act of Congress, which was amended"
+    },
+    {
+     "role": "body",
+     "text": "as aforesaid."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation from"
+    },
+    {
+     "role": "sidenote",
+     "text": "District revenues."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That a sufficient sum to pay the compensation and expenses"
+    },
+    {
+     "role": "body",
+     "text": "of said commission and a compensation of said jurors and the amount"
+    },
+    {
+     "role": "body",
+     "text": "of any appraisement or award of damages made in favor of the owners"
+    },
+    {
+     "role": "body",
+     "text": "of said property is hereby appropriated out of the revenues of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Refund of one-half"
+    },
+    {
+     "role": "body",
+     "text": "District of Columbia, and fifty per centum thereof shall be refunded"
+    },
+    {
+     "role": "body",
+     "text": "to said District of Columbia by the United States."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 4, 1911."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 4, 1911."
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 8300.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 249.—An Act To authorize the extension of Seventeenth Street northeast."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 489.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "Seventeenth Street"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That under and in accordance"
+    },
+    {
+     "role": "sidenote",
+     "text": "northeast."
+    },
+    {
+     "role": "body",
+     "text": "with the provisions of subchapter one of chapter fifteen of the Code of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Condemning land"
+    },
+    {
+     "role": "sidenote",
+     "text": "for extending."
+    },
+    {
+     "role": "body",
+     "text": "Law for the District of Columbia, within six months after the passage"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 151."
+    },
+    {
+     "role": "body",
+     "text": "of this Act, the Commissioners of the District of Columbia be, and"
+    },
+    {
+     "role": "body",
+     "text": "they are hereby, authorized and directed to institute in the supreme"
+    },
+    {
+     "role": "body",
+     "text": "court of the District of Columbia a proceeding in rem to condemn the"
+    },
+    {
+     "role": "body",
+     "text": "land that may be necessary for the extension of Seventeenth street"
+    },
+    {
+     "role": "body",
+     "text": "northeast from Brentwood road to Rhode Island avenue, according to"
+    },
+    {
+     "role": "body",
+     "text": "the permanent system of highway plans adopted in and for the District"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Damages assessed as"
+    },
+    {
+     "role": "body",
+     "text": "of Columbia: Provided, however, That the entire amount found to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "benefits."
+    },
+    {
+     "role": "body",
+     "text": "due and awarded by the jury in said proceedings as damages for and in"
+    },
+    {
+     "role": "body",
+     "text": "respect of the land to be condemned for said extension shall be assessed"
+    },
+    {
+     "role": "sidenote",
+     "text": "Minimum assess-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment."
+    },
+    {
+     "role": "body",
+     "text": "by the jury as benefits: And provided further, That nothing in said"
+    },
+    {
+     "role": "body",
+     "text": "subchapter one of chapter fifteen of said code shall be construed to"
+    },
+    {
+     "role": "body",
+     "text": "authorize the jury to assess less than the aggregate amount of the"
+    },
+    {
+     "role": "body",
+     "text": "damages awarded for and in respect of the land to be condemned and"
+    },
+    {
+     "role": "body",
+     "text": "the costs and expenses of the proceedings hereunder."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation for"
+    },
+    {
+     "role": "sidenote",
+     "text": "expenses, etc."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That there is hereby appropriated from the revenues of the"
+    },
+    {
+     "role": "body",
+     "text": "District of Columbia an amount sufficient to pay the necessary costs"
+    },
+    {
+     "role": "body",
+     "text": "and expenses of the condemnation proceedings taken pursuant hereto"
+    },
+    {
+     "role": "sidenote",
+     "text": "Awards."
+    },
+    {
+     "role": "body",
+     "text": "and for the payment of amounts awarded as damages, to be repaid to"
+    },
+    {
+     "role": "body",
+     "text": "the District of Columbia from the assessments for benefits and covered"
+    },
+    {
+     "role": "body",
+     "text": "into the Treasury to the credit of the revenues of the District of"
+    },
+    {
+     "role": "body",
+     "text": "Columbia."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 4, 1911."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 4, 1911."
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 8774.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 250.—An Act To change the name of Messmore place to Mozart place."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 490.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "Messmore Place des-"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the street now known"
+    },
+    {
+     "role": "sidenote",
+     "text": "ignated Mozart Place."
+    },
+    {
+     "role": "body",
+     "text": "and designated as Messmore place and extending from Euclid street"
+    },
+    {
+     "role": "body",
+     "text": "to Columbia road shall hereafter be designated Mozart place, and the"
+    },
+    {
+     "role": "body",
+     "text": "surveyor of the District of Columbia is hereby directed to enter such"
+    },
+    {
+     "role": "body",
+     "text": "change on the records of his office."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 4, 1911."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2285,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08456,
+   "seconds": 26.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. III.  CHS. 248-250.  1911."
+    },
+    {
+     "role": "page-number",
+     "text": "1347"
+    },
+    {
+     "role": "sidenote",
+     "text": "Jury to consider appeals."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That if any of the parties interested, their personal repre-"
+    },
+    {
+     "role": "body",
+     "text": "sentatives, or the Commissioners of the District of Columbia shall be"
+    },
+    {
+     "role": "body",
+     "text": "dissatisfied with the appraisement or award of said commission, the"
+    },
+    {
+     "role": "body",
+     "text": "court shall, on motion of the parties so dissatisfied, direct the United"
+    },
+    {
+     "role": "body",
+     "text": "States marshal to summon a jury of seven disinterested men not related"
+    },
+    {
+     "role": "body",
+     "text": "to any person in interest to meet and view the said property, and to"
+    },
+    {
+     "role": "body",
+     "text": "appraise and determine the amount of damages to which the owners of"
+    },
+    {
+     "role": "body",
+     "text": "said property so affected by change of grade may be entitled, as pro-"
+    },
+    {
+     "role": "body",
+     "text": "vided in and by the aforesaid Act of Congress, which was amended"
+    },
+    {
+     "role": "body",
+     "text": "as aforesaid."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation from District revenues."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That a sufficient sum to pay the compensation and expenses"
+    },
+    {
+     "role": "body",
+     "text": "of said commission and a compensation of said jurors and the amount"
+    },
+    {
+     "role": "body",
+     "text": "of any appraisement or award of damages made in favor of the owners"
+    },
+    {
+     "role": "body",
+     "text": "of said property is hereby appropriated out of the revenues of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Refund of one-half"
+    },
+    {
+     "role": "body",
+     "text": "District of Columbia, and fifty per centum thereof shall be refunded"
+    },
+    {
+     "role": "body",
+     "text": "to said District of Columbia by the United States."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 4, 1911."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 249.—An Act To authorize the extension of Seventeenth Street northeast."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 4, 1911."
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 8300.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 489.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That under and in accordance"
+    },
+    {
+     "role": "sidenote",
+     "text": "Seventeenth Street northeast."
+    },
+    {
+     "role": "body",
+     "text": "with the provisions of subchapter one of chapter fifteen of the Code of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Condemning land for extending."
+    },
+    {
+     "role": "body",
+     "text": "Law for the District of Columbia, within six months after the passage"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 151."
+    },
+    {
+     "role": "body",
+     "text": "of this Act, the Commissioners of the District of Columbia be, and"
+    },
+    {
+     "role": "body",
+     "text": "they are hereby, authorized and directed to institute in the supreme"
+    },
+    {
+     "role": "body",
+     "text": "court of the District of Columbia a proceeding in rem to condemn the"
+    },
+    {
+     "role": "body",
+     "text": "land that may be necessary for the extension of Seventeenth street"
+    },
+    {
+     "role": "body",
+     "text": "northeast from Brentwood road to Rhode Island avenue, according to"
+    },
+    {
+     "role": "body",
+     "text": "the permanent system of highway plans adopted in and for the District"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "body",
+     "text": "of Columbia: Provided, however, That the entire amount found to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Damages assessed as benefits."
+    },
+    {
+     "role": "body",
+     "text": "due and awarded by the jury in said proceedings as damages for and in"
+    },
+    {
+     "role": "body",
+     "text": "respect of the land to be condemned for said extension shall be assessed"
+    },
+    {
+     "role": "sidenote",
+     "text": "Minimum assessment."
+    },
+    {
+     "role": "body",
+     "text": "by the jury as benefits: And provided further, That nothing in said"
+    },
+    {
+     "role": "body",
+     "text": "subchapter one of chapter fifteen of said code shall be construed to"
+    },
+    {
+     "role": "body",
+     "text": "authorize the jury to assess less than the aggregate amount of the"
+    },
+    {
+     "role": "body",
+     "text": "damages awarded for and in respect of the land to be condemned and"
+    },
+    {
+     "role": "body",
+     "text": "the costs and expenses of the proceedings hereunder."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation for expenses, etc."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That there is hereby appropriated from the revenues of the"
+    },
+    {
+     "role": "body",
+     "text": "District of Columbia an amount sufficient to pay the necessary costs"
+    },
+    {
+     "role": "body",
+     "text": "and expenses of the condemnation proceedings taken pursuant hereto"
+    },
+    {
+     "role": "sidenote",
+     "text": "Awards."
+    },
+    {
+     "role": "body",
+     "text": "and for the payment of amounts awarded as damages, to be repaid to"
+    },
+    {
+     "role": "body",
+     "text": "the District of Columbia from the assessments for benefits and covered"
+    },
+    {
+     "role": "body",
+     "text": "into the Treasury to the credit of the revenues of the District of"
+    },
+    {
+     "role": "body",
+     "text": "Columbia."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 4, 1911."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 250.—An Act To change the name of Messmore place to Mozart place."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 4, 1911."
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 8774.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 490.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the street now known"
+    },
+    {
+     "role": "sidenote",
+     "text": "Messmore Place designated Mozart Place."
+    },
+    {
+     "role": "body",
+     "text": "and designated as Messmore place and extending from Euclid street"
+    },
+    {
+     "role": "body",
+     "text": "to Columbia road shall hereafter be designated Mozart place, and the"
+    },
+    {
+     "role": "body",
+     "text": "surveyor of the District of Columbia is hereby directed to enter such"
+    },
+    {
+     "role": "body",
+     "text": "change on the records of his office."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 4, 1911."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2175,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 721
+   },
+   "cost_usd": 0.08595,
+   "seconds": 25.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12149,
+   "output_tokens": 1552,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.09996,
+  "seconds": 22.1,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "Appropriation from\nDistrict revenues.",
+    "b": "Appropriation from District revenues.",
+    "kept": "Appropriation from\nDistrict revenues.",
+    "reason": "The sidenote is printed on two lines in the margin."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "CHAP. 249.—An Act To authorize the extension of Seventeenth Street northeast.",
+    "kept": "CHAP. 249.—An Act To authorize the extension of Seventeenth Street northeast.",
+    "reason": "The chapter heading is at the left, read before the marginal date note on the same line."
+   },
+   {
+    "run": 3,
+    "a": "CHAP. 249.—An Act To authorize the extension of Seventeenth Street northeast.",
+    "b": "",
+    "kept": "",
+    "reason": "The heading is placed at run 2; nothing further printed here."
+   },
+   {
+    "run": 4,
+    "a": "Seventeenth Street",
+    "b": "",
+    "kept": "Seventeenth Street",
+    "reason": "First line of the two-line marginal note, aligned with this body line."
+   },
+   {
+    "run": 5,
+    "a": "northeast.",
+    "b": "Seventeenth Street northeast.",
+    "kept": "northeast.",
+    "reason": "Second line of the marginal note, printed separately."
+   },
+   {
+    "run": 6,
+    "a": "Condemning land\nfor extending.",
+    "b": "Condemning land for extending.",
+    "kept": "Condemning land\nfor extending.",
+    "reason": "Printed as two lines in the margin."
+   },
+   {
+    "run": 7,
+    "a": "Damages assessed as",
+    "b": "",
+    "kept": "Damages assessed as",
+    "reason": "First line of the marginal note printed here."
+   },
+   {
+    "run": 8,
+    "a": "benefits.",
+    "b": "Damages assessed as benefits.",
+    "kept": "benefits.",
+    "reason": "Second line of the marginal note printed on its own line."
+   },
+   {
+    "run": 9,
+    "a": "Minimum assess-\nment.",
+    "b": "Minimum assessment.",
+    "kept": "Minimum assess-\nment.",
+    "reason": "Printed as two lines with end-of-line hyphen."
+   },
+   {
+    "run": 10,
+    "a": "Appropriation for\nexpenses, etc.",
+    "b": "Appropriation for expenses, etc.",
+    "kept": "Appropriation for\nexpenses, etc.",
+    "reason": "Printed as two lines in the margin."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "CHAP. 250.—An Act To change the name of Messmore place to Mozart place.",
+    "kept": "CHAP. 250.—An Act To change the name of Messmore place to Mozart place.",
+    "reason": "The chapter heading is at the left, read before the marginal date note."
+   },
+   {
+    "run": 12,
+    "a": "CHAP. 250.—An Act To change the name of Messmore place to Mozart place.",
+    "b": "",
+    "kept": "",
+    "reason": "The heading is placed at run 11; nothing further printed here."
+   },
+   {
+    "run": 13,
+    "a": "Messmore Place des-",
+    "b": "",
+    "kept": "Messmore Place des-",
+    "reason": "First line of the two-line marginal note with hyphen."
+   },
+   {
+    "run": 14,
+    "a": "ignated Mozart Place.",
+    "b": "Messmore Place designated Mozart Place.",
+    "kept": "ignated Mozart Place.",
+    "reason": "Second line of the marginal note."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "SIXTY-FIRST CONGRESS.  SESS. III.  CHS. 248–250.  1911."
+  },
+  {
+   "role": "page-number",
+   "text": "1347"
+  },
+  {
+   "role": "sidenote",
+   "text": "Jury to consider appeals."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That if any of the parties interested, their personal repre-"
+  },
+  {
+   "role": "body",
+   "text": "sentatives, or the Commissioners of the District of Columbia shall be"
+  },
+  {
+   "role": "body",
+   "text": "dissatisfied with the appraisement or award of said commission, the"
+  },
+  {
+   "role": "body",
+   "text": "court shall, on motion of the parties so dissatisfied, direct the United"
+  },
+  {
+   "role": "body",
+   "text": "States marshal to summon a jury of seven disinterested men not related"
+  },
+  {
+   "role": "body",
+   "text": "to any person in interest to meet and view the said property, and to"
+  },
+  {
+   "role": "body",
+   "text": "appraise and determine the amount of damages to which the owners of"
+  },
+  {
+   "role": "body",
+   "text": "said property so affected by change of grade may be entitled, as pro-"
+  },
+  {
+   "role": "body",
+   "text": "vided in and by the aforesaid Act of Congress, which was amended"
+  },
+  {
+   "role": "body",
+   "text": "as aforesaid."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation from"
+  },
+  {
+   "role": "sidenote",
+   "text": "District revenues."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. That a sufficient sum to pay the compensation and expenses"
+  },
+  {
+   "role": "body",
+   "text": "of said commission and a compensation of said jurors and the amount"
+  },
+  {
+   "role": "body",
+   "text": "of any appraisement or award of damages made in favor of the owners"
+  },
+  {
+   "role": "body",
+   "text": "of said property is hereby appropriated out of the revenues of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Refund of one-half"
+  },
+  {
+   "role": "body",
+   "text": "District of Columbia, and fifty per centum thereof shall be refunded"
+  },
+  {
+   "role": "body",
+   "text": "to said District of Columbia by the United States."
+  },
+  {
+   "role": "body",
+   "text": "Approved, March 4, 1911."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 249.—An Act To authorize the extension of Seventeenth Street northeast."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 4, 1911."
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 8300.]"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 489.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "District of Columbia."
+  },
+  {
+   "role": "sidenote",
+   "text": "Seventeenth Street"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That under and in accordance"
+  },
+  {
+   "role": "sidenote",
+   "text": "northeast."
+  },
+  {
+   "role": "body",
+   "text": "with the provisions of subchapter one of chapter fifteen of the Code of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Condemning land"
+  },
+  {
+   "role": "sidenote",
+   "text": "for extending."
+  },
+  {
+   "role": "body",
+   "text": "Law for the District of Columbia, within six months after the passage"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. 34, p. 151."
+  },
+  {
+   "role": "body",
+   "text": "of this Act, the Commissioners of the District of Columbia be, and"
+  },
+  {
+   "role": "body",
+   "text": "they are hereby, authorized and directed to institute in the supreme"
+  },
+  {
+   "role": "body",
+   "text": "court of the District of Columbia a proceeding in rem to condemn the"
+  },
+  {
+   "role": "body",
+   "text": "land that may be necessary for the extension of Seventeenth street"
+  },
+  {
+   "role": "body",
+   "text": "northeast from Brentwood road to Rhode Island avenue, according to"
+  },
+  {
+   "role": "body",
+   "text": "the permanent system of highway plans adopted in and for the District"
+  },
+  {
+   "role": "sidenote",
+   "text": "Provisos."
+  },
+  {
+   "role": "sidenote",
+   "text": "Damages assessed as"
+  },
+  {
+   "role": "body",
+   "text": "of Columbia: Provided, however, That the entire amount found to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "benefits."
+  },
+  {
+   "role": "body",
+   "text": "due and awarded by the jury in said proceedings as damages for and in"
+  },
+  {
+   "role": "body",
+   "text": "respect of the land to be condemned for said extension shall be assessed"
+  },
+  {
+   "role": "sidenote",
+   "text": "Minimum assess-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ment."
+  },
+  {
+   "role": "body",
+   "text": "by the jury as benefits: And provided further, That nothing in said"
+  },
+  {
+   "role": "body",
+   "text": "subchapter one of chapter fifteen of said code shall be construed to"
+  },
+  {
+   "role": "body",
+   "text": "authorize the jury to assess less than the aggregate amount of the"
+  },
+  {
+   "role": "body",
+   "text": "damages awarded for and in respect of the land to be condemned and"
+  },
+  {
+   "role": "body",
+   "text": "the costs and expenses of the proceedings hereunder."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation for"
+  },
+  {
+   "role": "sidenote",
+   "text": "expenses, etc."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That there is hereby appropriated from the revenues of the"
+  },
+  {
+   "role": "body",
+   "text": "District of Columbia an amount sufficient to pay the necessary costs"
+  },
+  {
+   "role": "body",
+   "text": "and expenses of the condemnation proceedings taken pursuant hereto"
+  },
+  {
+   "role": "sidenote",
+   "text": "Awards."
+  },
+  {
+   "role": "body",
+   "text": "and for the payment of amounts awarded as damages, to be repaid to"
+  },
+  {
+   "role": "body",
+   "text": "the District of Columbia from the assessments for benefits and covered"
+  },
+  {
+   "role": "body",
+   "text": "into the Treasury to the credit of the revenues of the District of"
+  },
+  {
+   "role": "body",
+   "text": "Columbia."
+  },
+  {
+   "role": "body",
+   "text": "Approved, March 4, 1911."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 250.—An Act To change the name of Messmore place to Mozart place."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 4, 1911."
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 8774.]"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 490.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "District of Columbia."
+  },
+  {
+   "role": "sidenote",
+   "text": "Messmore Place des-"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the street now known"
+  },
+  {
+   "role": "sidenote",
+   "text": "ignated Mozart Place."
+  },
+  {
+   "role": "body",
+   "text": "and designated as Messmore place and extending from Euclid street"
+  },
+  {
+   "role": "body",
+   "text": "to Columbia road shall hereafter be designated Mozart place, and the"
+  },
+  {
+   "role": "body",
+   "text": "surveyor of the District of Columbia is hereby directed to enter such"
+  },
+  {
+   "role": "body",
+   "text": "change on the records of his office."
+  },
+  {
+   "role": "body",
+   "text": "Approved, March 4, 1911."
+  }
+ ],
+ "disagreement_count": 14,
+ "tokens": {
+  "input_tokens": 22972,
+  "output_tokens": 6012,
+  "cache_read_input_tokens": 1602,
+  "cache_creation_input_tokens": 721
+ },
+ "cost_usd": 0.27047,
+ "seconds": 74.0,
+ "created": "2026-09-08T11:19:06"
+}

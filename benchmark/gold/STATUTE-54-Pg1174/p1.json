@@ -1,0 +1,1339 @@
+{
+ "granule_id": "STATUTE-54-Pg1174",
+ "package_id": "STATUTE-54",
+ "volume": 54,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To amend the Act of June 23, 1938 (52 Stat. 944).",
+ "date_issued": "1940-10-14",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "1174",
+ "image": "data/gold/STATUTE-54-Pg1174/p1.png",
+ "image_sha256": "b8de7896cd3f3a4c49d98217a2a18a486b568af07357009b958063129d57f60d",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "1174"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAWS—CHS. 876, 877—OCT. 14, 1940"
+    },
+    {
+     "role": "running-head",
+     "text": "[54 STAT."
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 392b-392d."
+    },
+    {
+     "role": "body",
+     "text": "Act of June 24, 1935, chapter 288 (49 Stat. 395);"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 392e-392g."
+    },
+    {
+     "role": "body",
+     "text": "Act of June 24, 1935, chapter 290 (49 Stat. 397);"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 382-382a."
+    },
+    {
+     "role": "body",
+     "text": "Act of June 25, 1936, chapter 811 (49 Stat. 1925-1926);"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§ 9a."
+    },
+    {
+     "role": "body",
+     "text": "Act of June 25, 1936, chapter 801 (49 Stat. 1917);"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§ 388."
+    },
+    {
+     "role": "body",
+     "text": "Section 3, Act of July 30, 1937 (50 Stat. 548);"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 5d, 5e."
+    },
+    {
+     "role": "body",
+     "text": "Act of August 4, 1937, chapter 563 (50 Stat. 558);"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§ 5a-1."
+    },
+    {
+     "role": "body",
+     "text": "Act of May 16, 1938, chapter 225 (52 Stat. 377);"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§ 382."
+    },
+    {
+     "role": "body",
+     "text": "Joint resolution of June 29, 1938 (52 Stat. 1247);"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 373, 379, 381."
+    },
+    {
+     "role": "body",
+     "text": "Act of June 20, 1939, chapter 224 (53 Stat. 843-844);"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 382b, 382c."
+    },
+    {
+     "role": "body",
+     "text": "Act of August 9, 1939, chapter 610 (53 Stat. 1273);"
+    },
+    {
+     "role": "sidenote",
+     "text": "Prior nationality"
+    },
+    {
+     "role": "sidenote",
+     "text": "status."
+    },
+    {
+     "role": "body",
+     "text": "And any other Acts or parts of Acts in conflict with the provisions of"
+    },
+    {
+     "role": "body",
+     "text": "this Act, except for the purposes of section 346 of this Act."
+    },
+    {
+     "role": "body",
+     "text": "The repeal herein provided shall not terminate nationality heretofore"
+    },
+    {
+     "role": "body",
+     "text": "lawfully acquired, nor restore nationality heretofore lost under any law"
+    },
+    {
+     "role": "body",
+     "text": "of the United States or any treaty to which the United States may have"
+    },
+    {
+     "role": "body",
+     "text": "been a party."
+    },
+    {
+     "role": "sidenote",
+     "text": "Separability clause."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 505. If any provision of this Act shall for any reason be declared"
+    },
+    {
+     "role": "body",
+     "text": "by any court of competent jurisdiction to be invalid, such declaration"
+    },
+    {
+     "role": "body",
+     "text": "shall not invalidate the remainder of this Act."
+    },
+    {
+     "role": "body",
+     "text": "TITLE II"
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective date."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 601. This Act shall take effect from and after ninety days from"
+    },
+    {
+     "role": "body",
+     "text": "the date of its approval."
+    },
+    {
+     "role": "body",
+     "text": "Approved, October 14, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 877]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 14, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 10295]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 854]"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Act of June 23, 1938 (52 Stat. 944)."
+    },
+    {
+     "role": "sidenote",
+     "text": "Navy."
+    },
+    {
+     "role": "sidenote",
+     "text": "Promotion, etc., of"
+    },
+    {
+     "role": "sidenote",
+     "text": "officers."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Act of"
+    },
+    {
+     "role": "body",
+     "text": "June 23, 1938 (52 Stat. 944), is hereby amended as follows:"
+    },
+    {
+     "role": "body",
+     "text": "Section 5, strike out subsection (a) and substitute the following:"
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 292 (a)."
+    },
+    {
+     "role": "sidenote",
+     "text": "Selection boards."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appointment, meet-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ings, composition, etc."
+    },
+    {
+     "role": "body",
+     "text": "\"(a) The board for the recommendation of line officers for promo-"
+    },
+    {
+     "role": "body",
+     "text": "tion to the grades of rear admiral and captain shall consist of nine"
+    },
+    {
+     "role": "body",
+     "text": "rear admirals on the active list of the line of the Navy, not restricted"
+    },
+    {
+     "role": "body",
+     "text": "by law to the performance of shore duty only. The board for the"
+    },
+    {
+     "role": "body",
+     "text": "recommendation of line officers for promotion to the grade of com-"
+    },
+    {
+     "role": "body",
+     "text": "mander shall consist of three rear admirals and six captains on the"
+    },
+    {
+     "role": "body",
+     "text": "active list of the line of the Navy, not restricted by law to the"
+    },
+    {
+     "role": "body",
+     "text": "performance of shore duty only. These boards shall be appointed"
+    },
+    {
+     "role": "body",
+     "text": "by the Secretary of the Navy and convened at least once each year"
+    },
+    {
+     "role": "body",
+     "text": "and at such times as the Secretary of the Navy may direct.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, §§ 295, 313."
+    },
+    {
+     "role": "body",
+     "text": "Section 7, in subsections (a) and (b), strike out \"or who is not"
+    },
+    {
+     "role": "body",
+     "text": "physically qualified\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 294 (a)."
+    },
+    {
+     "role": "body",
+     "text": "Section 8, in subsection (a), strike out \"other than medical\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 297 (e)."
+    },
+    {
+     "role": "sidenote",
+     "text": "Recommendations of"
+    },
+    {
+     "role": "sidenote",
+     "text": "line selection board."
+    },
+    {
+     "role": "body",
+     "text": "Section 9, strike out subsection (f) and substitute the following:"
+    },
+    {
+     "role": "body",
+     "text": "\"(f) All reports or recommendations of a line selection board"
+    },
+    {
+     "role": "body",
+     "text": "under any provision of law shall require the concurrence of at least"
+    },
+    {
+     "role": "body",
+     "text": "two-thirds of the members.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 300 (b)."
+    },
+    {
+     "role": "body",
+     "text": "Section 11, in subsection (b), at the end of the second proviso insert"
+    },
+    {
+     "role": "body",
+     "text": "\"with retired pay computed as provided in section 12 (b) of this"
+    },
+    {
+     "role": "body",
+     "text": "Act\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 404 (f)."
+    },
+    {
+     "role": "body",
+     "text": "Section 12, subsection (f), in line 5 change \"from\" to \"to\", and"
+    },
+    {
+     "role": "body",
+     "text": "in line 6, after \"promoted\", insert \"computed as provided in subsec-"
+    },
+    {
+     "role": "body",
+     "text": "tion (b) of this section\"."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 3112,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.10523,
+   "seconds": 31.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "1174"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAWS—CHS. 876, 877—OCT. 14, 1940        [54 STAT."
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 392b-392d."
+    },
+    {
+     "role": "body",
+     "text": "Act of June 24, 1935, chapter 288 (49 Stat. 395) ;"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 392e-392g."
+    },
+    {
+     "role": "body",
+     "text": "Act of June 24, 1935, chapter 290 (49 Stat. 397) ;"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 382-382a."
+    },
+    {
+     "role": "body",
+     "text": "Act of June 25, 1936, chapter 811 (49 Stat. 1925–1926) ;"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§ 9a."
+    },
+    {
+     "role": "body",
+     "text": "Act of June 25, 1936, chapter 801 (49 Stat. 1917) ;"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§ 388."
+    },
+    {
+     "role": "body",
+     "text": "Section 3, Act of July 30, 1937 (50 Stat. 548) ;"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 5d, 5e."
+    },
+    {
+     "role": "body",
+     "text": "Act of August 4, 1937, chapter 563 (50 Stat. 558) ;"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§ 5a-1."
+    },
+    {
+     "role": "body",
+     "text": "Act of May 16, 1938, chapter 225 (52 Stat. 377) ;"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§ 382."
+    },
+    {
+     "role": "body",
+     "text": "Joint resolution of June 29, 1938 (52 Stat. 1247) ;"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 373, 379, 381."
+    },
+    {
+     "role": "body",
+     "text": "Act of June 20, 1939, chapter 224 (53 Stat. 843–844) ;"
+    },
+    {
+     "role": "sidenote",
+     "text": "8 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 382b, 382c."
+    },
+    {
+     "role": "body",
+     "text": "Act of August 9, 1939, chapter 610 (53 Stat. 1273) ;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Prior nationality"
+    },
+    {
+     "role": "sidenote",
+     "text": "status."
+    },
+    {
+     "role": "body",
+     "text": "And any other Acts or parts of Acts in conflict with the provisions of"
+    },
+    {
+     "role": "body",
+     "text": "this Act, except for the purposes of section 346 of this Act."
+    },
+    {
+     "role": "body",
+     "text": "The repeal herein provided shall not terminate nationality heretofore"
+    },
+    {
+     "role": "body",
+     "text": "lawfully acquired, nor restore nationality heretofore lost under any law"
+    },
+    {
+     "role": "body",
+     "text": "of the United States or any treaty to which the United States may have"
+    },
+    {
+     "role": "body",
+     "text": "been a party."
+    },
+    {
+     "role": "sidenote",
+     "text": "Separability clause."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 505. If any provision of this Act shall for any reason be declared"
+    },
+    {
+     "role": "body",
+     "text": "by any court of competent jurisdiction to be invalid, such declaration"
+    },
+    {
+     "role": "body",
+     "text": "shall not invalidate the remainder of this Act."
+    },
+    {
+     "role": "body",
+     "text": "TITLE II"
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective date."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 601. This Act shall take effect from and after ninety days from"
+    },
+    {
+     "role": "body",
+     "text": "the date of its approval."
+    },
+    {
+     "role": "body",
+     "text": "Approved, October 14, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 877]"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 14, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 10295]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 854]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Act of June 23, 1938 (52 Stat. 944)."
+    },
+    {
+     "role": "sidenote",
+     "text": "Navy."
+    },
+    {
+     "role": "sidenote",
+     "text": "Promotion, etc., of"
+    },
+    {
+     "role": "sidenote",
+     "text": "officers."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Act of"
+    },
+    {
+     "role": "body",
+     "text": "June 23, 1938 (52 Stat. 944), is hereby amended as follows:"
+    },
+    {
+     "role": "body",
+     "text": "Section 5, strike out subsection (a) and substitute the following:"
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 292 (a)."
+    },
+    {
+     "role": "sidenote",
+     "text": "Selection boards."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appointment, meet-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ings, composition, etc."
+    },
+    {
+     "role": "body",
+     "text": "“(a) The board for the recommendation of line officers for promo-"
+    },
+    {
+     "role": "body",
+     "text": "tion to the grades of rear admiral and captain shall consist of nine"
+    },
+    {
+     "role": "body",
+     "text": "rear admirals on the active list of the line of the Navy, not restricted"
+    },
+    {
+     "role": "body",
+     "text": "by law to the performance of shore duty only. The board for the"
+    },
+    {
+     "role": "body",
+     "text": "recommendation of line officers for promotion to the grade of com-"
+    },
+    {
+     "role": "body",
+     "text": "mander shall consist of three rear admirals and six captains on the"
+    },
+    {
+     "role": "body",
+     "text": "active list of the line of the Navy, not restricted by law to the"
+    },
+    {
+     "role": "body",
+     "text": "performance of shore duty only. These boards shall be appointed"
+    },
+    {
+     "role": "body",
+     "text": "by the Secretary of the Navy and convened at least once each year"
+    },
+    {
+     "role": "body",
+     "text": "and at such times as the Secretary of the Navy may direct.”"
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, §§ 295, 313."
+    },
+    {
+     "role": "body",
+     "text": "Section 7, in subsections (a) and (b), strike out “or who is not"
+    },
+    {
+     "role": "body",
+     "text": "physically qualified”."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 294 (a)."
+    },
+    {
+     "role": "body",
+     "text": "Section 8, in subsection (a), strike out “other than medical”."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 297 (e)."
+    },
+    {
+     "role": "sidenote",
+     "text": "Recommendations of"
+    },
+    {
+     "role": "sidenote",
+     "text": "line selection board."
+    },
+    {
+     "role": "body",
+     "text": "Section 9, strike out subsection (f) and substitute the following:"
+    },
+    {
+     "role": "body",
+     "text": "“(f) All reports or recommendations of a line selection board"
+    },
+    {
+     "role": "body",
+     "text": "under any provision of law shall require the concurrence of at least"
+    },
+    {
+     "role": "body",
+     "text": "two-thirds of the members.”"
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 300 (b)."
+    },
+    {
+     "role": "body",
+     "text": "Section 11, in subsection (b), at the end of the second proviso insert"
+    },
+    {
+     "role": "body",
+     "text": "“with retired pay computed as provided in section 12 (b) of this"
+    },
+    {
+     "role": "body",
+     "text": "Act”."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 404 (f)."
+    },
+    {
+     "role": "body",
+     "text": "Section 12, subsection (f), in line 5 change “from” to “to”, and"
+    },
+    {
+     "role": "body",
+     "text": "in line 6, after “promoted”, insert “computed as provided in subsec-"
+    },
+    {
+     "role": "body",
+     "text": "tion (b) of this section”."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2999,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.1024,
+   "seconds": 30.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12598,
+   "output_tokens": 458,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.07486,
+  "seconds": 10.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "PUBLIC LAWS—CHS. 876, 877—OCT. 14, 1940\n[54 STAT.",
+    "b": "PUBLIC LAWS—CHS. 876, 877—OCT. 14, 1940        [54 STAT.",
+    "kept": "PUBLIC LAWS—CHS. 876, 877—OCT. 14, 1940        [54 STAT.",
+    "reason": "The head and the bracketed volume reference are printed on one line."
+   },
+   {
+    "run": 2,
+    "a": "AN ACT",
+    "b": "",
+    "kept": "AN ACT",
+    "reason": "\"AN ACT\" is centered directly after the [CHAPTER 877] line in the body column."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "AN ACT",
+    "kept": "",
+    "reason": "\"AN ACT\" already placed earlier; nothing printed here besides the following title line."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "1174"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAWS—CHS. 876, 877—OCT. 14, 1940        [54 STAT."
+  },
+  {
+   "role": "sidenote",
+   "text": "8 U. S. C., Supp. V,"
+  },
+  {
+   "role": "sidenote",
+   "text": "§§ 392b-392d."
+  },
+  {
+   "role": "body",
+   "text": "Act of June 24, 1935, chapter 288 (49 Stat. 395);"
+  },
+  {
+   "role": "sidenote",
+   "text": "8 U. S. C., Supp. V,"
+  },
+  {
+   "role": "sidenote",
+   "text": "§§ 392e-392g."
+  },
+  {
+   "role": "body",
+   "text": "Act of June 24, 1935, chapter 290 (49 Stat. 397);"
+  },
+  {
+   "role": "sidenote",
+   "text": "8 U. S. C., Supp. V,"
+  },
+  {
+   "role": "sidenote",
+   "text": "§§ 382-382a."
+  },
+  {
+   "role": "body",
+   "text": "Act of June 25, 1936, chapter 811 (49 Stat. 1925-1926);"
+  },
+  {
+   "role": "sidenote",
+   "text": "8 U. S. C., Supp. V,"
+  },
+  {
+   "role": "sidenote",
+   "text": "§ 9a."
+  },
+  {
+   "role": "body",
+   "text": "Act of June 25, 1936, chapter 801 (49 Stat. 1917);"
+  },
+  {
+   "role": "sidenote",
+   "text": "8 U. S. C., Supp. V,"
+  },
+  {
+   "role": "sidenote",
+   "text": "§ 388."
+  },
+  {
+   "role": "body",
+   "text": "Section 3, Act of July 30, 1937 (50 Stat. 548);"
+  },
+  {
+   "role": "sidenote",
+   "text": "8 U. S. C., Supp. V,"
+  },
+  {
+   "role": "sidenote",
+   "text": "§§ 5d, 5e."
+  },
+  {
+   "role": "body",
+   "text": "Act of August 4, 1937, chapter 563 (50 Stat. 558);"
+  },
+  {
+   "role": "sidenote",
+   "text": "8 U. S. C., Supp. V,"
+  },
+  {
+   "role": "sidenote",
+   "text": "§ 5a-1."
+  },
+  {
+   "role": "body",
+   "text": "Act of May 16, 1938, chapter 225 (52 Stat. 377);"
+  },
+  {
+   "role": "sidenote",
+   "text": "8 U. S. C., Supp. V,"
+  },
+  {
+   "role": "sidenote",
+   "text": "§ 382."
+  },
+  {
+   "role": "body",
+   "text": "Joint resolution of June 29, 1938 (52 Stat. 1247);"
+  },
+  {
+   "role": "sidenote",
+   "text": "8 U. S. C., Supp. V,"
+  },
+  {
+   "role": "sidenote",
+   "text": "§§ 373, 379, 381."
+  },
+  {
+   "role": "body",
+   "text": "Act of June 20, 1939, chapter 224 (53 Stat. 843-844);"
+  },
+  {
+   "role": "sidenote",
+   "text": "8 U. S. C., Supp. V,"
+  },
+  {
+   "role": "sidenote",
+   "text": "§§ 382b, 382c."
+  },
+  {
+   "role": "body",
+   "text": "Act of August 9, 1939, chapter 610 (53 Stat. 1273);"
+  },
+  {
+   "role": "sidenote",
+   "text": "Prior nationality"
+  },
+  {
+   "role": "sidenote",
+   "text": "status."
+  },
+  {
+   "role": "body",
+   "text": "And any other Acts or parts of Acts in conflict with the provisions of"
+  },
+  {
+   "role": "body",
+   "text": "this Act, except for the purposes of section 346 of this Act."
+  },
+  {
+   "role": "body",
+   "text": "The repeal herein provided shall not terminate nationality heretofore"
+  },
+  {
+   "role": "body",
+   "text": "lawfully acquired, nor restore nationality heretofore lost under any law"
+  },
+  {
+   "role": "body",
+   "text": "of the United States or any treaty to which the United States may have"
+  },
+  {
+   "role": "body",
+   "text": "been a party."
+  },
+  {
+   "role": "sidenote",
+   "text": "Separability clause."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 505. If any provision of this Act shall for any reason be declared"
+  },
+  {
+   "role": "body",
+   "text": "by any court of competent jurisdiction to be invalid, such declaration"
+  },
+  {
+   "role": "body",
+   "text": "shall not invalidate the remainder of this Act."
+  },
+  {
+   "role": "body",
+   "text": "TITLE II"
+  },
+  {
+   "role": "sidenote",
+   "text": "Effective date."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 601. This Act shall take effect from and after ninety days from"
+  },
+  {
+   "role": "body",
+   "text": "the date of its approval."
+  },
+  {
+   "role": "body",
+   "text": "Approved, October 14, 1940."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 877]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "October 14, 1940"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 10295]"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 854]"
+  },
+  {
+   "role": "body",
+   "text": "To amend the Act of June 23, 1938 (52 Stat. 944)."
+  },
+  {
+   "role": "sidenote",
+   "text": "Navy."
+  },
+  {
+   "role": "sidenote",
+   "text": "Promotion, etc., of"
+  },
+  {
+   "role": "sidenote",
+   "text": "officers."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Act of"
+  },
+  {
+   "role": "body",
+   "text": "June 23, 1938 (52 Stat. 944), is hereby amended as follows:"
+  },
+  {
+   "role": "body",
+   "text": "Section 5, strike out subsection (a) and substitute the following:"
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C., Supp."
+  },
+  {
+   "role": "sidenote",
+   "text": "V, § 292 (a)."
+  },
+  {
+   "role": "sidenote",
+   "text": "Selection boards."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appointment, meet-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ings, composition, etc."
+  },
+  {
+   "role": "body",
+   "text": "\"(a) The board for the recommendation of line officers for promo-"
+  },
+  {
+   "role": "body",
+   "text": "tion to the grades of rear admiral and captain shall consist of nine"
+  },
+  {
+   "role": "body",
+   "text": "rear admirals on the active list of the line of the Navy, not restricted"
+  },
+  {
+   "role": "body",
+   "text": "by law to the performance of shore duty only. The board for the"
+  },
+  {
+   "role": "body",
+   "text": "recommendation of line officers for promotion to the grade of com-"
+  },
+  {
+   "role": "body",
+   "text": "mander shall consist of three rear admirals and six captains on the"
+  },
+  {
+   "role": "body",
+   "text": "active list of the line of the Navy, not restricted by law to the"
+  },
+  {
+   "role": "body",
+   "text": "performance of shore duty only. These boards shall be appointed"
+  },
+  {
+   "role": "body",
+   "text": "by the Secretary of the Navy and convened at least once each year"
+  },
+  {
+   "role": "body",
+   "text": "and at such times as the Secretary of the Navy may direct.\""
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C., Supp."
+  },
+  {
+   "role": "sidenote",
+   "text": "V, §§ 295, 313."
+  },
+  {
+   "role": "body",
+   "text": "Section 7, in subsections (a) and (b), strike out \"or who is not"
+  },
+  {
+   "role": "body",
+   "text": "physically qualified\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C., Supp."
+  },
+  {
+   "role": "sidenote",
+   "text": "V, § 294 (a)."
+  },
+  {
+   "role": "body",
+   "text": "Section 8, in subsection (a), strike out \"other than medical\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C., Supp."
+  },
+  {
+   "role": "sidenote",
+   "text": "V, § 297 (e)."
+  },
+  {
+   "role": "sidenote",
+   "text": "Recommendations of"
+  },
+  {
+   "role": "sidenote",
+   "text": "line selection board."
+  },
+  {
+   "role": "body",
+   "text": "Section 9, strike out subsection (f) and substitute the following:"
+  },
+  {
+   "role": "body",
+   "text": "\"(f) All reports or recommendations of a line selection board"
+  },
+  {
+   "role": "body",
+   "text": "under any provision of law shall require the concurrence of at least"
+  },
+  {
+   "role": "body",
+   "text": "two-thirds of the members.\""
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C., Supp."
+  },
+  {
+   "role": "sidenote",
+   "text": "V, § 300 (b)."
+  },
+  {
+   "role": "body",
+   "text": "Section 11, in subsection (b), at the end of the second proviso insert"
+  },
+  {
+   "role": "body",
+   "text": "\"with retired pay computed as provided in section 12 (b) of this"
+  },
+  {
+   "role": "body",
+   "text": "Act\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C., Supp."
+  },
+  {
+   "role": "sidenote",
+   "text": "V, § 404 (f)."
+  },
+  {
+   "role": "body",
+   "text": "Section 12, subsection (f), in line 5 change \"from\" to \"to\", and"
+  },
+  {
+   "role": "body",
+   "text": "in line 6, after \"promoted\", insert \"computed as provided in subsec-"
+  },
+  {
+   "role": "body",
+   "text": "tion (b) of this section\"."
+  }
+ ],
+ "disagreement_count": 3,
+ "tokens": {
+  "input_tokens": 23421,
+  "output_tokens": 6569,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.28249,
+ "seconds": 72.2,
+ "created": "2026-09-08T12:32:05"
+}

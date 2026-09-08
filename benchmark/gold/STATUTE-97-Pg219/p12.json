@@ -1,0 +1,717 @@
+{
+ "granule_id": "STATUTE-97-Pg219",
+ "package_id": "STATUTE-97",
+ "volume": 97,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Department of Housing and Urban Development-Independent Agencies Appropriation Act, 1984",
+ "date_issued": "1983-07-12",
+ "pdf_page": 12,
+ "pdf_pages": 22,
+ "stat_page": "230",
+ "image": "data/gold/STATUTE-97-Pg219/p12.png",
+ "image_sha256": "fe83389962bd0dac2d77f129d2515339dc9d4c5ddf1f65c32803112a48bbd879",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "97 STAT. 230            PUBLIC LAW 98-45—JULY 12, 1983"
+    },
+    {
+     "role": "body",
+     "text": "RESEARCH AND PROGRAM MANAGEMENT"
+    },
+    {
+     "role": "body",
+     "text": "For necessary expenses of research in government laboratories,"
+    },
+    {
+     "role": "body",
+     "text": "management of programs and other activities of the National Aero-"
+    },
+    {
+     "role": "body",
+     "text": "nautics and Space Administration, not otherwise provided for,"
+    },
+    {
+     "role": "body",
+     "text": "including uniforms or allowances therefor, as authorized by law (5"
+    },
+    {
+     "role": "body",
+     "text": "U.S.C. 5901-5902); awards; lease, hire, maintenance and operation of"
+    },
+    {
+     "role": "body",
+     "text": "administrative aircraft; purchase (not to exceed twenty-seven for"
+    },
+    {
+     "role": "body",
+     "text": "replacement only) and hire of passenger motor vehicles; and mainte-"
+    },
+    {
+     "role": "body",
+     "text": "nance and repair of real and personal property, and not in excess of"
+    },
+    {
+     "role": "body",
+     "text": "$75,000 per project for construction of new facilities and additions to"
+    },
+    {
+     "role": "body",
+     "text": "existing facilities, repairs, and rehabilitation and modification of"
+    },
+    {
+     "role": "body",
+     "text": "facilities; $1,238,500,000: Provided, That contracts may be entered"
+    },
+    {
+     "role": "body",
+     "text": "into under this appropriation for maintenance and operation of"
+    },
+    {
+     "role": "body",
+     "text": "facilities, and for other services, to be provided during the next fiscal"
+    },
+    {
+     "role": "body",
+     "text": "year: Provided further, That not to exceed $35,000 of the foregoing"
+    },
+    {
+     "role": "body",
+     "text": "amount shall be available for scientific consultations or extraordi-"
+    },
+    {
+     "role": "body",
+     "text": "nary expense, to be expended upon the approval or authority of the"
+    },
+    {
+     "role": "body",
+     "text": "Administrator and his determination shall be final and conclusive."
+    },
+    {
+     "role": "body",
+     "text": "NATIONAL CREDIT UNION ADMINISTRATION"
+    },
+    {
+     "role": "body",
+     "text": "CENTRAL LIQUIDITY FACILITY"
+    },
+    {
+     "role": "body",
+     "text": "The amount which may be borrowed, from the public or any other"
+    },
+    {
+     "role": "body",
+     "text": "source except the Secretary of the Treasury, by the Central Liquid-"
+    },
+    {
+     "role": "body",
+     "text": "ity Facility as authorized by the National Credit Union Central"
+    },
+    {
+     "role": "body",
+     "text": "Liquidity Facility Act (12 U.S.C. 1795), shall not exceed $600,000,000:"
+    },
+    {
+     "role": "body",
+     "text": "Provided, That administrative expenses of the Central Liquidity"
+    },
+    {
+     "role": "body",
+     "text": "Facility in fiscal year 1984 shall not exceed $850,000."
+    },
+    {
+     "role": "body",
+     "text": "NATIONAL SCIENCE FOUNDATION"
+    },
+    {
+     "role": "body",
+     "text": "RESEARCH AND RELATED ACTIVITIES"
+    },
+    {
+     "role": "body",
+     "text": "For necessary expenses in carrying out the purposes of the Na-"
+    },
+    {
+     "role": "body",
+     "text": "tional Science Foundation Act of 1950, as amended (42 U.S.C. 1861-"
+    },
+    {
+     "role": "body",
+     "text": "1875), title IX of the National Defense Education Act of 1958 (42"
+    },
+    {
+     "role": "body",
+     "text": "U.S.C. 1876-1879), and the Act to establish a National Medal of"
+    },
+    {
+     "role": "body",
+     "text": "Science (42 U.S.C. 1880-1881); services as authorized by 5 U.S.C."
+    },
+    {
+     "role": "body",
+     "text": "3109; maintenance and operation of aircraft and purchase of flight"
+    },
+    {
+     "role": "body",
+     "text": "services for research support; hire of passenger motor vehicles; not"
+    },
+    {
+     "role": "body",
+     "text": "to exceed $2,500 for official reception and representation expenses;"
+    },
+    {
+     "role": "body",
+     "text": "not to exceed $65,000,000 for program development and manage-"
+    },
+    {
+     "role": "body",
+     "text": "ment in fiscal year 1984; uniforms or allowances therefor, as author-"
+    },
+    {
+     "role": "body",
+     "text": "ized by law (5 U.S.C. 5901-5902); rental of conference rooms in the"
+    },
+    {
+     "role": "body",
+     "text": "District of Columbia; and reimbursement of the General Services"
+    },
+    {
+     "role": "body",
+     "text": "Administration for security guard services, $1,140,300,000, to remain"
+    },
+    {
+     "role": "body",
+     "text": "available until September 30, 1985: Provided, That receipts for"
+    },
+    {
+     "role": "body",
+     "text": "scientific support services and materials furnished by the National"
+    },
+    {
+     "role": "body",
+     "text": "Research Centers and other National Science Foundation supported"
+    },
+    {
+     "role": "body",
+     "text": "research facilities may be credited to this appropriation: Provided"
+    },
+    {
+     "role": "body",
+     "text": "further, That to the extent that the amount appropriated is less"
+    },
+    {
+     "role": "body",
+     "text": "than the total amount authorized to be appropriated for included"
+    },
+    {
+     "role": "body",
+     "text": "program activities, all amounts, including floors and ceilings, speci-"
+    },
+    {
+     "role": "body",
+     "text": "fied in the authorizing Act for those program activities or their"
+    },
+    {
+     "role": "body",
+     "text": "subactivities shall be reduced proportionally."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 1705,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0695,
+   "seconds": 93.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "97 STAT. 230"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98-45—JULY 12, 1983"
+    },
+    {
+     "role": "body",
+     "text": "RESEARCH AND PROGRAM MANAGEMENT"
+    },
+    {
+     "role": "body",
+     "text": "For necessary expenses of research in government laboratories,"
+    },
+    {
+     "role": "body",
+     "text": "management of programs and other activities of the National Aero-"
+    },
+    {
+     "role": "body",
+     "text": "nautics and Space Administration, not otherwise provided for,"
+    },
+    {
+     "role": "body",
+     "text": "including uniforms or allowances therefor, as authorized by law (5"
+    },
+    {
+     "role": "body",
+     "text": "U.S.C. 5901-5902); awards; lease, hire, maintenance and operation of"
+    },
+    {
+     "role": "body",
+     "text": "administrative aircraft; purchase (not to exceed twenty-seven for"
+    },
+    {
+     "role": "body",
+     "text": "replacement only) and hire of passenger motor vehicles; and mainte-"
+    },
+    {
+     "role": "body",
+     "text": "nance and repair of real and personal property, and not in excess of"
+    },
+    {
+     "role": "body",
+     "text": "$75,000 per project for construction of new facilities and additions to"
+    },
+    {
+     "role": "body",
+     "text": "existing facilities, repairs, and rehabilitation and modification of"
+    },
+    {
+     "role": "body",
+     "text": "facilities; $1,238,500,000: Provided, That contracts may be entered"
+    },
+    {
+     "role": "body",
+     "text": "into under this appropriation for maintenance and operation of"
+    },
+    {
+     "role": "body",
+     "text": "facilities, and for other services, to be provided during the next fiscal"
+    },
+    {
+     "role": "body",
+     "text": "year: Provided further, That not to exceed $35,000 of the foregoing"
+    },
+    {
+     "role": "body",
+     "text": "amount shall be available for scientific consultations or extraordi-"
+    },
+    {
+     "role": "body",
+     "text": "nary expense, to be expended upon the approval or authority of the"
+    },
+    {
+     "role": "body",
+     "text": "Administrator and his determination shall be final and conclusive."
+    },
+    {
+     "role": "body",
+     "text": "NATIONAL CREDIT UNION ADMINISTRATION"
+    },
+    {
+     "role": "body",
+     "text": "CENTRAL LIQUIDITY FACILITY"
+    },
+    {
+     "role": "body",
+     "text": "The amount which may be borrowed, from the public or any other"
+    },
+    {
+     "role": "body",
+     "text": "source except the Secretary of the Treasury, by the Central Liquid-"
+    },
+    {
+     "role": "body",
+     "text": "ity Facility as authorized by the National Credit Union Central"
+    },
+    {
+     "role": "body",
+     "text": "Liquidity Facility Act (12 U.S.C. 1795), shall not exceed $600,000,000:"
+    },
+    {
+     "role": "body",
+     "text": "Provided, That administrative expenses of the Central Liquidity"
+    },
+    {
+     "role": "body",
+     "text": "Facility in fiscal year 1984 shall not exceed $850,000."
+    },
+    {
+     "role": "body",
+     "text": "NATIONAL SCIENCE FOUNDATION"
+    },
+    {
+     "role": "body",
+     "text": "RESEARCH AND RELATED ACTIVITIES"
+    },
+    {
+     "role": "body",
+     "text": "For necessary expenses in carrying out the purposes of the Na-"
+    },
+    {
+     "role": "body",
+     "text": "tional Science Foundation Act of 1950, as amended (42 U.S.C. 1861-"
+    },
+    {
+     "role": "body",
+     "text": "1875), title IX of the National Defense Education Act of 1958 (42"
+    },
+    {
+     "role": "body",
+     "text": "U.S.C. 1876-1879), and the Act to establish a National Medal of"
+    },
+    {
+     "role": "body",
+     "text": "Science (42 U.S.C. 1880-1881); services as authorized by 5 U.S.C."
+    },
+    {
+     "role": "body",
+     "text": "3109; maintenance and operation of aircraft and purchase of flight"
+    },
+    {
+     "role": "body",
+     "text": "services for research support; hire of passenger motor vehicles; not"
+    },
+    {
+     "role": "body",
+     "text": "to exceed $2,500 for official reception and representation expenses;"
+    },
+    {
+     "role": "body",
+     "text": "not to exceed $65,000,000 for program development and manage-"
+    },
+    {
+     "role": "body",
+     "text": "ment in fiscal year 1984; uniforms or allowances therefor, as author-"
+    },
+    {
+     "role": "body",
+     "text": "ized by law (5 U.S.C. 5901-5902); rental of conference rooms in the"
+    },
+    {
+     "role": "body",
+     "text": "District of Columbia; and reimbursement of the General Services"
+    },
+    {
+     "role": "body",
+     "text": "Administration for security guard services, $1,140,300,000, to remain"
+    },
+    {
+     "role": "body",
+     "text": "available until September 30, 1985: Provided, That receipts for"
+    },
+    {
+     "role": "body",
+     "text": "scientific support services and materials furnished by the National"
+    },
+    {
+     "role": "body",
+     "text": "Research Centers and other National Science Foundation supported"
+    },
+    {
+     "role": "body",
+     "text": "research facilities may be credited to this appropriation: Provided"
+    },
+    {
+     "role": "body",
+     "text": "further, That to the extent that the amount appropriated is less"
+    },
+    {
+     "role": "body",
+     "text": "than the total amount authorized to be appropriated for included"
+    },
+    {
+     "role": "body",
+     "text": "program activities, all amounts, including floors and ceilings, speci-"
+    },
+    {
+     "role": "body",
+     "text": "fied in the authorizing Act for those program activities or their"
+    },
+    {
+     "role": "body",
+     "text": "subactivities shall be reduced proportionally."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 1718,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.06982,
+   "seconds": 116.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 10477,
+   "output_tokens": 116,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.0557,
+  "seconds": 231.1,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "97 STAT. 230            PUBLIC LAW 98-45—JULY 12, 1983",
+    "b": "97 STAT. 230\nPUBLIC LAW 98-45—JULY 12, 1983",
+    "kept": "97 STAT. 230\nPUBLIC LAW 98-45—JULY 12, 1983",
+    "reason": "The header line contains the page/statute number at left and the running head centered; they are separate elements."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "97 STAT. 230"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 98-45—JULY 12, 1983"
+  },
+  {
+   "role": "body",
+   "text": "RESEARCH AND PROGRAM MANAGEMENT"
+  },
+  {
+   "role": "body",
+   "text": "For necessary expenses of research in government laboratories,"
+  },
+  {
+   "role": "body",
+   "text": "management of programs and other activities of the National Aero-"
+  },
+  {
+   "role": "body",
+   "text": "nautics and Space Administration, not otherwise provided for,"
+  },
+  {
+   "role": "body",
+   "text": "including uniforms or allowances therefor, as authorized by law (5"
+  },
+  {
+   "role": "body",
+   "text": "U.S.C. 5901-5902); awards; lease, hire, maintenance and operation of"
+  },
+  {
+   "role": "body",
+   "text": "administrative aircraft; purchase (not to exceed twenty-seven for"
+  },
+  {
+   "role": "body",
+   "text": "replacement only) and hire of passenger motor vehicles; and mainte-"
+  },
+  {
+   "role": "body",
+   "text": "nance and repair of real and personal property, and not in excess of"
+  },
+  {
+   "role": "body",
+   "text": "$75,000 per project for construction of new facilities and additions to"
+  },
+  {
+   "role": "body",
+   "text": "existing facilities, repairs, and rehabilitation and modification of"
+  },
+  {
+   "role": "body",
+   "text": "facilities; $1,238,500,000: Provided, That contracts may be entered"
+  },
+  {
+   "role": "body",
+   "text": "into under this appropriation for maintenance and operation of"
+  },
+  {
+   "role": "body",
+   "text": "facilities, and for other services, to be provided during the next fiscal"
+  },
+  {
+   "role": "body",
+   "text": "year: Provided further, That not to exceed $35,000 of the foregoing"
+  },
+  {
+   "role": "body",
+   "text": "amount shall be available for scientific consultations or extraordi-"
+  },
+  {
+   "role": "body",
+   "text": "nary expense, to be expended upon the approval or authority of the"
+  },
+  {
+   "role": "body",
+   "text": "Administrator and his determination shall be final and conclusive."
+  },
+  {
+   "role": "body",
+   "text": "NATIONAL CREDIT UNION ADMINISTRATION"
+  },
+  {
+   "role": "body",
+   "text": "CENTRAL LIQUIDITY FACILITY"
+  },
+  {
+   "role": "body",
+   "text": "The amount which may be borrowed, from the public or any other"
+  },
+  {
+   "role": "body",
+   "text": "source except the Secretary of the Treasury, by the Central Liquid-"
+  },
+  {
+   "role": "body",
+   "text": "ity Facility as authorized by the National Credit Union Central"
+  },
+  {
+   "role": "body",
+   "text": "Liquidity Facility Act (12 U.S.C. 1795), shall not exceed $600,000,000:"
+  },
+  {
+   "role": "body",
+   "text": "Provided, That administrative expenses of the Central Liquidity"
+  },
+  {
+   "role": "body",
+   "text": "Facility in fiscal year 1984 shall not exceed $850,000."
+  },
+  {
+   "role": "body",
+   "text": "NATIONAL SCIENCE FOUNDATION"
+  },
+  {
+   "role": "body",
+   "text": "RESEARCH AND RELATED ACTIVITIES"
+  },
+  {
+   "role": "body",
+   "text": "For necessary expenses in carrying out the purposes of the Na-"
+  },
+  {
+   "role": "body",
+   "text": "tional Science Foundation Act of 1950, as amended (42 U.S.C. 1861-"
+  },
+  {
+   "role": "body",
+   "text": "1875), title IX of the National Defense Education Act of 1958 (42"
+  },
+  {
+   "role": "body",
+   "text": "U.S.C. 1876-1879), and the Act to establish a National Medal of"
+  },
+  {
+   "role": "body",
+   "text": "Science (42 U.S.C. 1880-1881); services as authorized by 5 U.S.C."
+  },
+  {
+   "role": "body",
+   "text": "3109; maintenance and operation of aircraft and purchase of flight"
+  },
+  {
+   "role": "body",
+   "text": "services for research support; hire of passenger motor vehicles; not"
+  },
+  {
+   "role": "body",
+   "text": "to exceed $2,500 for official reception and representation expenses;"
+  },
+  {
+   "role": "body",
+   "text": "not to exceed $65,000,000 for program development and manage-"
+  },
+  {
+   "role": "body",
+   "text": "ment in fiscal year 1984; uniforms or allowances therefor, as author-"
+  },
+  {
+   "role": "body",
+   "text": "ized by law (5 U.S.C. 5901-5902); rental of conference rooms in the"
+  },
+  {
+   "role": "body",
+   "text": "District of Columbia; and reimbursement of the General Services"
+  },
+  {
+   "role": "body",
+   "text": "Administration for security guard services, $1,140,300,000, to remain"
+  },
+  {
+   "role": "body",
+   "text": "available until September 30, 1985: Provided, That receipts for"
+  },
+  {
+   "role": "body",
+   "text": "scientific support services and materials furnished by the National"
+  },
+  {
+   "role": "body",
+   "text": "Research Centers and other National Science Foundation supported"
+  },
+  {
+   "role": "body",
+   "text": "research facilities may be credited to this appropriation: Provided"
+  },
+  {
+   "role": "body",
+   "text": "further, That to the extent that the amount appropriated is less"
+  },
+  {
+   "role": "body",
+   "text": "than the total amount authorized to be appropriated for included"
+  },
+  {
+   "role": "body",
+   "text": "program activities, all amounts, including floors and ceilings, speci-"
+  },
+  {
+   "role": "body",
+   "text": "fied in the authorizing Act for those program activities or their"
+  },
+  {
+   "role": "body",
+   "text": "subactivities shall be reduced proportionally."
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 21076,
+  "output_tokens": 3539,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.19502,
+ "seconds": 441.7,
+ "created": "2026-09-08T11:51:20"
+}

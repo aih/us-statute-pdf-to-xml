@@ -1,0 +1,1052 @@
+{
+ "granule_id": "STATUTE-1-Pg508",
+ "package_id": "STATUTE-1",
+ "volume": 1,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act making appropriations for the Military and Naval establishments for the year one thousand seven hundred and ninety-seven.",
+ "date_issued": "1797-03-03",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "508",
+ "image": "data/gold/STATUTE-1-Pg508/p1.png",
+ "image_sha256": "8a37a727384a55778d8bbd08ba704ce82370706ae8baec4fc01ea745e90b84aa",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "high"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FOURTH CONGRESS.  SESS. II. CH. 17.   1797."
+    },
+    {
+     "role": "sidenote",
+     "text": "Judge advo-"
+    },
+    {
+     "role": "sidenote",
+     "text": "cate."
+    },
+    {
+     "role": "body",
+     "text": "commissioned officers of the line, and shall be entitled to receive two"
+    },
+    {
+     "role": "body",
+     "text": "rations extra per day, and twenty-five dollars per month, in addition to"
+    },
+    {
+     "role": "body",
+     "text": "his pay in the line; and whenever forage shall not be furnished by the"
+    },
+    {
+     "role": "body",
+     "text": "public, to ten dollars per month in lieu thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "Quarter mas-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ter and pay-"
+    },
+    {
+     "role": "sidenote",
+     "text": "master general."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That there shall be one quarter-"
+    },
+    {
+     "role": "body",
+     "text": "master general and one paymaster general, who shall receive the same"
+    },
+    {
+     "role": "body",
+     "text": "pay and emoluments, respectively, which those officers have  heretofore"
+    },
+    {
+     "role": "body",
+     "text": "been allowed by law."
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay of lieu-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tenants and en-"
+    },
+    {
+     "role": "sidenote",
+     "text": "signs."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That from and after the thirtieth"
+    },
+    {
+     "role": "body",
+     "text": "day of June next, the monthly pay of the lieutenants shall be thirty dol-"
+    },
+    {
+     "role": "body",
+     "text": "lars, and that of the ensigns twenty-five dollars: That to the brigadier,"
+    },
+    {
+     "role": "body",
+     "text": "while commander in chief, and to each officer, while commanding a sepa-"
+    },
+    {
+     "role": "body",
+     "text": "rate post, there shall be allowed twice the number of rations to which"
+    },
+    {
+     "role": "body",
+     "text": "they would otherwise be entitled."
+    },
+    {
+     "role": "sidenote",
+     "text": "Subsistence"
+    },
+    {
+     "role": "sidenote",
+     "text": "allowed to ma-"
+    },
+    {
+     "role": "sidenote",
+     "text": "jors."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That the majors be entitled to"
+    },
+    {
+     "role": "body",
+     "text": "receive four rations per day, for their subsistence."
+    },
+    {
+     "role": "sidenote",
+     "text": "Allowance to"
+    },
+    {
+     "role": "sidenote",
+     "text": "officers derang-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. And be it further enacted, That to each commissioned officer,"
+    },
+    {
+     "role": "body",
+     "text": "who may have been deranged under the act \"to ascertain and fix the"
+    },
+    {
+     "role": "body",
+     "text": "military establishment of the United States,\" there shall be paid the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 483."
+    },
+    {
+     "role": "body",
+     "text": "amount of six months' pay and subsistence."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1797."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1797."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XVII.——An Act making appropriations for the  Military and Naval estab-"
+    },
+    {
+     "role": "body",
+     "text": "lishments for the year one thousand seven hundred and ninety-seven."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Military ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "propriations for"
+    },
+    {
+     "role": "sidenote",
+     "text": "1797."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That for the"
+    },
+    {
+     "role": "body",
+     "text": "support of the military and naval establishments, for the year one thou-"
+    },
+    {
+     "role": "body",
+     "text": "sand seven hundred and ninety-seven, the following sums be respectively"
+    },
+    {
+     "role": "body",
+     "text": "appropriated; that is to say:"
+    },
+    {
+     "role": "body",
+     "text": "For the pay of the army of the United States, the sum of two hundred"
+    },
+    {
+     "role": "body",
+     "text": "and fifty-six thousand four hundred and fifty dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the subsistence of the officers of the army, a sum not exceeding"
+    },
+    {
+     "role": "body",
+     "text": "forty-seven thousand three hundred and ninety-five dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the subsistence of the non-commissioned officers and privates, a"
+    },
+    {
+     "role": "body",
+     "text": "sum not exceeding two hundred and forty-five thousand two hundred"
+    },
+    {
+     "role": "body",
+     "text": "and eighty-three dollars."
+    },
+    {
+     "role": "body",
+     "text": "For forage, the sum of fourteen thousand nine hundred and four"
+    },
+    {
+     "role": "body",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "For clothing, a sum not exceeding eighty-three thousand and fifty"
+    },
+    {
+     "role": "body",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the purchase of horses and equipments for the cavalry, sixteen"
+    },
+    {
+     "role": "body",
+     "text": "thousand and eighty-five dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the hospital department, a sum not exceeding ten thousand dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the ordnance department, a sum not exceeding forty thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the fortifications of the ports and harbors of the United States, a"
+    },
+    {
+     "role": "body",
+     "text": "sum not exceeding twenty-four thousand dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the quartermaster's department, the Indian department, the defen-"
+    },
+    {
+     "role": "body",
+     "text": "sive protection of the frontiers, bounties, and all the contingent expenses"
+    },
+    {
+     "role": "body",
+     "text": "of the war department, a sum not exceeding three hundred thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "To make good deficiencies in the appropriations in the military estab-"
+    },
+    {
+     "role": "body",
+     "text": "lishment, for the year one thousand seven hundred and ninety-six, the"
+    },
+    {
+     "role": "body",
+     "text": "sum of seventy six thousand three hundred and twelve dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the pay and subsistence of three captains in the naval department,"
+    },
+    {
+     "role": "body",
+     "text": "and for the pay of laborers employed in taking care of the frigates, the"
+    },
+    {
+     "role": "body",
+     "text": "sum of five thousand dollars."
+    },
+    {
+     "role": "page-number",
+     "text": "508"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 2377,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08742,
+   "seconds": 28.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "508"
+    },
+    {
+     "role": "running-head",
+     "text": "FOURTH CONGRESS.  SESS. II. CH. 17.   1797."
+    },
+    {
+     "role": "sidenote",
+     "text": "Judge advo-"
+    },
+    {
+     "role": "sidenote",
+     "text": "cate."
+    },
+    {
+     "role": "body",
+     "text": "commissioned officers of the line, and shall be entitled to receive two"
+    },
+    {
+     "role": "body",
+     "text": "rations extra per day, and twenty-five dollars per month, in addition to"
+    },
+    {
+     "role": "body",
+     "text": "his pay in the line; and whenever forage shall not be furnished by the"
+    },
+    {
+     "role": "body",
+     "text": "public, to ten dollars per month in lieu thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "Quarter mas-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ter and pay-"
+    },
+    {
+     "role": "sidenote",
+     "text": "master general."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That there shall be one quarter-"
+    },
+    {
+     "role": "body",
+     "text": "master general and one paymaster general, who shall receive the same"
+    },
+    {
+     "role": "body",
+     "text": "pay and emoluments, respectively, which those officers have  heretofore"
+    },
+    {
+     "role": "body",
+     "text": "been allowed by law."
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay of lieu-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tenants and en-"
+    },
+    {
+     "role": "sidenote",
+     "text": "signs."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That from and after the thirtieth"
+    },
+    {
+     "role": "body",
+     "text": "day of June next, the monthly pay of the lieutenants shall be thirty dol-"
+    },
+    {
+     "role": "body",
+     "text": "lars, and that of the ensigns twenty-five dollars: That to the brigadier,"
+    },
+    {
+     "role": "body",
+     "text": "while commander in chief, and to each officer, while commanding a sepa-"
+    },
+    {
+     "role": "body",
+     "text": "rate post, there shall be allowed twice the number of rations to which"
+    },
+    {
+     "role": "body",
+     "text": "they would otherwise be entitled."
+    },
+    {
+     "role": "sidenote",
+     "text": "Subsistence"
+    },
+    {
+     "role": "sidenote",
+     "text": "allowed to ma-"
+    },
+    {
+     "role": "sidenote",
+     "text": "jors."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That the majors be entitled to"
+    },
+    {
+     "role": "body",
+     "text": "receive four rations per day, for their subsistence."
+    },
+    {
+     "role": "sidenote",
+     "text": "Allowance to"
+    },
+    {
+     "role": "sidenote",
+     "text": "officers derang-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. And be it further enacted, That to each commissioned officer,"
+    },
+    {
+     "role": "body",
+     "text": "who may have been deranged under the act \"to ascertain and fix the"
+    },
+    {
+     "role": "body",
+     "text": "military establishment of the United States,\" there shall be paid the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 483."
+    },
+    {
+     "role": "body",
+     "text": "amount of six months' pay and subsistence."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1797."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1797."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XVII.——An Act making appropriations for the  Military and Naval estab-"
+    },
+    {
+     "role": "body",
+     "text": "lishments for the year one thousand seven hundred and ninety-seven."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Military ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "propriations for"
+    },
+    {
+     "role": "sidenote",
+     "text": "1797."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That for the"
+    },
+    {
+     "role": "body",
+     "text": "support of the military and naval establishments, for the year one thou-"
+    },
+    {
+     "role": "body",
+     "text": "sand seven hundred and ninety-seven, the following sums be respectively"
+    },
+    {
+     "role": "body",
+     "text": "appropriated; that is to say:"
+    },
+    {
+     "role": "body",
+     "text": "For the pay of the army of the United States, the sum of two hundred"
+    },
+    {
+     "role": "body",
+     "text": "and fifty-six thousand four hundred and fifty dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the subsistence of the officers of the army, a sum not exceeding"
+    },
+    {
+     "role": "body",
+     "text": "forty-seven thousand three hundred and ninety-five dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the subsistence of the non-commissioned officers and privates, a"
+    },
+    {
+     "role": "body",
+     "text": "sum not exceeding two hundred and forty-five thousand two hundred"
+    },
+    {
+     "role": "body",
+     "text": "and eighty-three dollars."
+    },
+    {
+     "role": "body",
+     "text": "For forage, the sum of fourteen thousand nine hundred and four"
+    },
+    {
+     "role": "body",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "For clothing, a sum not exceeding eighty-three thousand and fifty"
+    },
+    {
+     "role": "body",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the purchase of horses and equipments for the cavalry, sixteen"
+    },
+    {
+     "role": "body",
+     "text": "thousand and eighty-five dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the hospital department, a sum not exceeding ten thousand dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the ordnance department, a sum not exceeding forty thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the fortifications of the ports and harbors of the United States, a"
+    },
+    {
+     "role": "body",
+     "text": "sum not exceeding twenty-four thousand dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the quartermaster's department, the Indian department, the defen-"
+    },
+    {
+     "role": "body",
+     "text": "sive protection of the frontiers, bounties, and all the contingent expenses"
+    },
+    {
+     "role": "body",
+     "text": "of the war department, a sum not exceeding three hundred thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "To make good deficiencies in the appropriations in the military estab-"
+    },
+    {
+     "role": "body",
+     "text": "lishment, for the year one thousand seven hundred and ninety-six, the"
+    },
+    {
+     "role": "body",
+     "text": "sum of seventy six thousand three hundred and twelve dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the pay and subsistence of three captains in the naval department,"
+    },
+    {
+     "role": "body",
+     "text": "and for the pay of laborers employed in taking care of the frigates, the"
+    },
+    {
+     "role": "body",
+     "text": "sum of five thousand dollars."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 2255,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08436,
+   "seconds": 26.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11314,
+   "output_tokens": 155,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06086,
+  "seconds": 5.0,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "high",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "508",
+    "kept": "508",
+    "reason": "The page number 508 is printed at the top left of the page, on the same line as and preceding the running head."
+   },
+   {
+    "run": 2,
+    "a": "508",
+    "b": "",
+    "kept": "",
+    "reason": "No page number appears at the foot of the page; it is printed only at the top."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "508"
+  },
+  {
+   "role": "running-head",
+   "text": "FOURTH CONGRESS.  SESS. II. CH. 17.   1797."
+  },
+  {
+   "role": "sidenote",
+   "text": "Judge advo-"
+  },
+  {
+   "role": "sidenote",
+   "text": "cate."
+  },
+  {
+   "role": "body",
+   "text": "commissioned officers of the line, and shall be entitled to receive two"
+  },
+  {
+   "role": "body",
+   "text": "rations extra per day, and twenty-five dollars per month, in addition to"
+  },
+  {
+   "role": "body",
+   "text": "his pay in the line; and whenever forage shall not be furnished by the"
+  },
+  {
+   "role": "body",
+   "text": "public, to ten dollars per month in lieu thereof."
+  },
+  {
+   "role": "sidenote",
+   "text": "Quarter mas-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ter and pay-"
+  },
+  {
+   "role": "sidenote",
+   "text": "master general."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That there shall be one quarter-"
+  },
+  {
+   "role": "body",
+   "text": "master general and one paymaster general, who shall receive the same"
+  },
+  {
+   "role": "body",
+   "text": "pay and emoluments, respectively, which those officers have  heretofore"
+  },
+  {
+   "role": "body",
+   "text": "been allowed by law."
+  },
+  {
+   "role": "sidenote",
+   "text": "Pay of lieu-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tenants and en-"
+  },
+  {
+   "role": "sidenote",
+   "text": "signs."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. And be it further enacted, That from and after the thirtieth"
+  },
+  {
+   "role": "body",
+   "text": "day of June next, the monthly pay of the lieutenants shall be thirty dol-"
+  },
+  {
+   "role": "body",
+   "text": "lars, and that of the ensigns twenty-five dollars: That to the brigadier,"
+  },
+  {
+   "role": "body",
+   "text": "while commander in chief, and to each officer, while commanding a sepa-"
+  },
+  {
+   "role": "body",
+   "text": "rate post, there shall be allowed twice the number of rations to which"
+  },
+  {
+   "role": "body",
+   "text": "they would otherwise be entitled."
+  },
+  {
+   "role": "sidenote",
+   "text": "Subsistence"
+  },
+  {
+   "role": "sidenote",
+   "text": "allowed to ma-"
+  },
+  {
+   "role": "sidenote",
+   "text": "jors."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. And be it further enacted, That the majors be entitled to"
+  },
+  {
+   "role": "body",
+   "text": "receive four rations per day, for their subsistence."
+  },
+  {
+   "role": "sidenote",
+   "text": "Allowance to"
+  },
+  {
+   "role": "sidenote",
+   "text": "officers derang-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ed."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 6. And be it further enacted, That to each commissioned officer,"
+  },
+  {
+   "role": "body",
+   "text": "who may have been deranged under the act \"to ascertain and fix the"
+  },
+  {
+   "role": "body",
+   "text": "military establishment of the United States,\" there shall be paid the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 483."
+  },
+  {
+   "role": "body",
+   "text": "amount of six months' pay and subsistence."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1797."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1797."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XVII.——An Act making appropriations for the  Military and Naval estab-"
+  },
+  {
+   "role": "body",
+   "text": "lishments for the year one thousand seven hundred and ninety-seven."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "sidenote",
+   "text": "Military ap-"
+  },
+  {
+   "role": "sidenote",
+   "text": "propriations for"
+  },
+  {
+   "role": "sidenote",
+   "text": "1797."
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+  },
+  {
+   "role": "body",
+   "text": "of the United States of America in Congress assembled, That for the"
+  },
+  {
+   "role": "body",
+   "text": "support of the military and naval establishments, for the year one thou-"
+  },
+  {
+   "role": "body",
+   "text": "sand seven hundred and ninety-seven, the following sums be respectively"
+  },
+  {
+   "role": "body",
+   "text": "appropriated; that is to say:"
+  },
+  {
+   "role": "body",
+   "text": "For the pay of the army of the United States, the sum of two hundred"
+  },
+  {
+   "role": "body",
+   "text": "and fifty-six thousand four hundred and fifty dollars."
+  },
+  {
+   "role": "body",
+   "text": "For the subsistence of the officers of the army, a sum not exceeding"
+  },
+  {
+   "role": "body",
+   "text": "forty-seven thousand three hundred and ninety-five dollars."
+  },
+  {
+   "role": "body",
+   "text": "For the subsistence of the non-commissioned officers and privates, a"
+  },
+  {
+   "role": "body",
+   "text": "sum not exceeding two hundred and forty-five thousand two hundred"
+  },
+  {
+   "role": "body",
+   "text": "and eighty-three dollars."
+  },
+  {
+   "role": "body",
+   "text": "For forage, the sum of fourteen thousand nine hundred and four"
+  },
+  {
+   "role": "body",
+   "text": "dollars."
+  },
+  {
+   "role": "body",
+   "text": "For clothing, a sum not exceeding eighty-three thousand and fifty"
+  },
+  {
+   "role": "body",
+   "text": "dollars."
+  },
+  {
+   "role": "body",
+   "text": "For the purchase of horses and equipments for the cavalry, sixteen"
+  },
+  {
+   "role": "body",
+   "text": "thousand and eighty-five dollars."
+  },
+  {
+   "role": "body",
+   "text": "For the hospital department, a sum not exceeding ten thousand dollars."
+  },
+  {
+   "role": "body",
+   "text": "For the ordnance department, a sum not exceeding forty thousand"
+  },
+  {
+   "role": "body",
+   "text": "dollars."
+  },
+  {
+   "role": "body",
+   "text": "For the fortifications of the ports and harbors of the United States, a"
+  },
+  {
+   "role": "body",
+   "text": "sum not exceeding twenty-four thousand dollars."
+  },
+  {
+   "role": "body",
+   "text": "For the quartermaster's department, the Indian department, the defen-"
+  },
+  {
+   "role": "body",
+   "text": "sive protection of the frontiers, bounties, and all the contingent expenses"
+  },
+  {
+   "role": "body",
+   "text": "of the war department, a sum not exceeding three hundred thousand"
+  },
+  {
+   "role": "body",
+   "text": "dollars."
+  },
+  {
+   "role": "body",
+   "text": "To make good deficiencies in the appropriations in the military estab-"
+  },
+  {
+   "role": "body",
+   "text": "lishment, for the year one thousand seven hundred and ninety-six, the"
+  },
+  {
+   "role": "body",
+   "text": "sum of seventy six thousand three hundred and twelve dollars."
+  },
+  {
+   "role": "body",
+   "text": "For the pay and subsistence of three captains in the naval department,"
+  },
+  {
+   "role": "body",
+   "text": "and for the pay of laborers employed in taking care of the frigates, the"
+  },
+  {
+   "role": "body",
+   "text": "sum of five thousand dollars."
+  }
+ ],
+ "disagreement_count": 2,
+ "tokens": {
+  "input_tokens": 22361,
+  "output_tokens": 4787,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.23264,
+ "seconds": 60.0,
+ "created": "2026-09-08T10:58:47"
+}

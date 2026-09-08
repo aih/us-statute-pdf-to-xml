@@ -1,0 +1,1225 @@
+{
+ "granule_id": "STATUTE-36-Pg1013-3",
+ "package_id": "STATUTE-36",
+ "volume": 36,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act To fix the time of holding the circuit and district courts for the northern district of West Virginia.",
+ "date_issued": "1911-03-02",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "1013",
+ "image": "data/gold/STATUTE-36-Pg1013-3/p1.png",
+ "image_sha256": "229033f98f3916060f1599a076a9170d2fd284ca3cebe1f9dfa997ae3922327e",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. III.  CHS. 194–197.  1911."
+    },
+    {
+     "role": "page-number",
+     "text": "1013"
+    },
+    {
+     "role": "body",
+     "text": "military reservation to the southeast corner thereof; thence north-"
+    },
+    {
+     "role": "body",
+     "text": "westerly on the southwesterly boundary line of said military reserva-"
+    },
+    {
+     "role": "body",
+     "text": "tion to a point which is one hundred and fifty feet west of the east"
+    },
+    {
+     "role": "body",
+     "text": "line of said reservation when measured at right angles thereto; thence"
+    },
+    {
+     "role": "body",
+     "text": "north on a line one hundred and fifty feet west of and parallel with"
+    },
+    {
+     "role": "body",
+     "text": "the easterly boundary line of said reservation to the north line of the"
+    },
+    {
+     "role": "body",
+     "text": "northwest quarter of said section one; thence east one hundred and"
+    },
+    {
+     "role": "body",
+     "text": "fifty feet along the north line of said section one, to the place of begin-"
+    },
+    {
+     "role": "body",
+     "text": "ning, said strip of land being one hundred and fifty feet in width on"
+    },
+    {
+     "role": "body",
+     "text": "the east side of that portion of said reservation situated in section one,"
+    },
+    {
+     "role": "body",
+     "text": "township thirteen north, range sixty-seven west, as aforesaid; saving"
+    },
+    {
+     "role": "body",
+     "text": "and excepting therefrom that portion of said strip of land herein-"
+    },
+    {
+     "role": "body",
+     "text": "above, in section one of this Act, described as granted to the Colorado"
+    },
+    {
+     "role": "body",
+     "text": "Railroad Company for the purpose of its railroad."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 2, 1911"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1911."
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 10456.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 195.—An Act To restrain the Secretary of the Treasury from receiving"
+    },
+    {
+     "role": "body",
+     "text": "bonds issued to provide money for the building of the Panama Canal as security for"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 444.]"
+    },
+    {
+     "role": "body",
+     "text": "the issue of circulating notes to national banks, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Panama Canal"
+    },
+    {
+     "role": "sidenote",
+     "text": "bonds."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Not receivable for"
+    },
+    {
+     "role": "body",
+     "text": "Treasury be, and he is hereby, authorized to insert in the bonds to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "national-bank circu-"
+    },
+    {
+     "role": "sidenote",
+     "text": "lation."
+    },
+    {
+     "role": "body",
+     "text": "issued by him under section thirty-nine of an Act entitled “An Act to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 117."
+    },
+    {
+     "role": "body",
+     "text": "provide revenue, equalize duties, and encourage the industries of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, and for other purposes,” approved August fifth, nine-"
+    },
+    {
+     "role": "body",
+     "text": "teen hundred and nine, a provision that such bonds shall not be receiv-"
+    },
+    {
+     "role": "body",
+     "text": "able by the Treasurer of the United States as security for the issue of"
+    },
+    {
+     "role": "body",
+     "text": "circulating notes to national banks; and the bonds containing such pro-"
+    },
+    {
+     "role": "body",
+     "text": "vision shall not be receivable for that purpose."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 2, 1911."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1911."
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 10882.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 196.—An Act To authorize the county of Ouachita, in the State of Arkan-"
+    },
+    {
+     "role": "body",
+     "text": "sas, to construct a bridge across Ouachita River."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 445.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ouachita River."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ouachita County,"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the county of Ouachita,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ark., may bridge, at"
+    },
+    {
+     "role": "body",
+     "text": "in the State of Arkansas, be, and is hereby, authorized to construct,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Camden."
+    },
+    {
+     "role": "body",
+     "text": "maintain, and operate a traffic bridge and approaches thereto across"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 178."
+    },
+    {
+     "role": "body",
+     "text": "the Ouachita River at Camden, Arkansas, in accordance with the pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 84."
+    },
+    {
+     "role": "body",
+     "text": "visions of the Act entitled “An Act to regulate the construction of a"
+    },
+    {
+     "role": "body",
+     "text": "bridge over navigable waters,” approved March twenty-third, nine-"
+    },
+    {
+     "role": "body",
+     "text": "teen hundred and six."
+    },
+    {
+     "role": "sidenote",
+     "text": "Amendment."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby"
+    },
+    {
+     "role": "body",
+     "text": "expressly reserved."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 2, 1911."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1911."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 28215.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 197.—An Act To fix the time of holding the circuit and district courts for"
+    },
+    {
+     "role": "body",
+     "text": "the northern district of West Virginia."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 446.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "West Virginia"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That so much of the Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "northern judicial dis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "trict."
+    },
+    {
+     "role": "body",
+     "text": "of Congress approved February eleventh, nineteen hundred and seven,"
+    },
+    {
+     "role": "body",
+     "text": "entitled “An Act to fix the time of holding the circuit and district"
+    },
+    {
+     "role": "body",
+     "text": "courts for the northern district of West Virginia,” as relates to the"
+    },
+    {
+     "role": "body",
+     "text": "time of holding the regular terms of the circuit and district courts of"
+    },
+    {
+     "role": "body",
+     "text": "the United States for the northern district of West Virginia, be"
+    },
+    {
+     "role": "body",
+     "text": "amended so as to read as follows:"
+    },
+    {
+     "role": "body",
+     "text": "88740°—VOL 36, PT 1—11——66"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2318,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08538,
+   "seconds": 25.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. III.  CHS. 194–197.  1911."
+    },
+    {
+     "role": "page-number",
+     "text": "1013"
+    },
+    {
+     "role": "body",
+     "text": "military reservation to the southeast corner thereof; thence north-"
+    },
+    {
+     "role": "body",
+     "text": "westerly on the southwesterly boundary line of said military reserva-"
+    },
+    {
+     "role": "body",
+     "text": "tion to a point which is one hundred and fifty feet west of the east"
+    },
+    {
+     "role": "body",
+     "text": "line of said reservation when measured at right angles thereto; thence"
+    },
+    {
+     "role": "body",
+     "text": "north on a line one hundred and fifty feet west of and parallel with"
+    },
+    {
+     "role": "body",
+     "text": "the easterly boundary line of said reservation to the north line of the"
+    },
+    {
+     "role": "body",
+     "text": "northwest quarter of said section one; thence east one hundred and"
+    },
+    {
+     "role": "body",
+     "text": "fifty feet along the north line of said section one, to the place of begin-"
+    },
+    {
+     "role": "body",
+     "text": "ning, said strip of land being one hundred and fifty feet in width on"
+    },
+    {
+     "role": "body",
+     "text": "the east side of that portion of said reservation situated in section one,"
+    },
+    {
+     "role": "body",
+     "text": "township thirteen north, range sixty-seven west, as aforesaid; saving"
+    },
+    {
+     "role": "body",
+     "text": "and excepting therefrom that portion of said strip of land herein-"
+    },
+    {
+     "role": "body",
+     "text": "above, in section one of this Act, described as granted to the Colorado"
+    },
+    {
+     "role": "body",
+     "text": "Railroad Company for the purpose of its railroad."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 2, 1911"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 195.—An Act To restrain the Secretary of the Treasury from receiving"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1911."
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 10456.]"
+    },
+    {
+     "role": "body",
+     "text": "bonds issued to provide money for the building of the Panama Canal as security for"
+    },
+    {
+     "role": "body",
+     "text": "the issue of circulating notes to national banks, and for other purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 444.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Panama Canal"
+    },
+    {
+     "role": "sidenote",
+     "text": "bonds."
+    },
+    {
+     "role": "body",
+     "text": "Treasury be, and he is hereby, authorized to insert in the bonds to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Not receivable for"
+    },
+    {
+     "role": "body",
+     "text": "issued by him under section thirty-nine of an Act entitled “An Act to"
+    },
+    {
+     "role": "sidenote",
+     "text": "national-bank circu-"
+    },
+    {
+     "role": "sidenote",
+     "text": "lation."
+    },
+    {
+     "role": "body",
+     "text": "provide revenue, equalize duties, and encourage the industries of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 117."
+    },
+    {
+     "role": "body",
+     "text": "United States, and for other purposes,” approved August fifth, nine-"
+    },
+    {
+     "role": "body",
+     "text": "teen hundred and nine, a provision that such bonds shall not be receiv-"
+    },
+    {
+     "role": "body",
+     "text": "able by the Treasurer of the United States as security for the issue of"
+    },
+    {
+     "role": "body",
+     "text": "circulating notes to national banks; and the bonds containing such pro-"
+    },
+    {
+     "role": "body",
+     "text": "vision shall not be receivable for that purpose."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 2, 1911."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 196.—An Act To authorize the county of Ouachita, in the State of Arkan-"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1911."
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 10882.]"
+    },
+    {
+     "role": "body",
+     "text": "sas, to construct a bridge across Ouachita River."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 445.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the county of Ouachita,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ouachita River."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ouachita   County,"
+    },
+    {
+     "role": "body",
+     "text": "in the State of Arkansas, be, and is hereby, authorized to construct,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ark., may bridge, at"
+    },
+    {
+     "role": "body",
+     "text": "maintain, and operate a traffic bridge and approaches thereto across"
+    },
+    {
+     "role": "sidenote",
+     "text": "Camden."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 178."
+    },
+    {
+     "role": "body",
+     "text": "the Ouachita River at Camden, Arkansas, in accordance with the pro-"
+    },
+    {
+     "role": "body",
+     "text": "visions of the Act entitled “An Act to regulate the construction of a"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 84."
+    },
+    {
+     "role": "body",
+     "text": "bridge over navigable waters,” approved March twenty-third, nine-"
+    },
+    {
+     "role": "body",
+     "text": "teen hundred and six."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "Amendment."
+    },
+    {
+     "role": "body",
+     "text": "expressly reserved."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 2, 1911."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 197.—An Act To fix the time of holding the circuit and district courts for"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1911."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 28215.]"
+    },
+    {
+     "role": "body",
+     "text": "the northern district of West Virginia."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 446.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That so much of the Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "West  Virginia"
+    },
+    {
+     "role": "sidenote",
+     "text": "northern judicial dis-"
+    },
+    {
+     "role": "body",
+     "text": "of Congress approved February eleventh, nineteen hundred and seven,"
+    },
+    {
+     "role": "sidenote",
+     "text": "trict."
+    },
+    {
+     "role": "body",
+     "text": "entitled “An Act to fix the time of holding the circuit and district"
+    },
+    {
+     "role": "body",
+     "text": "courts for the northern district of West Virginia,” as relates to the"
+    },
+    {
+     "role": "body",
+     "text": "time of holding the regular terms of the circuit and district courts of"
+    },
+    {
+     "role": "body",
+     "text": "the United States for the northern district of West Virginia, be"
+    },
+    {
+     "role": "body",
+     "text": "amended so as to read as follows:"
+    },
+    {
+     "role": "body",
+     "text": "88740°—VOL 36, PT 1—11——66"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2320,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08543,
+   "seconds": 30.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12962,
+   "output_tokens": 4068,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.16693,
+  "seconds": 50.7,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "CHAP. 195.—An Act To restrain the Secretary of the Treasury from receiving",
+    "kept": "CHAP. 195.—An Act To restrain the Secretary of the Treasury from receiving",
+    "reason": "The chapter heading line begins the section; its sidenotes (March 2, 1911. / [S. 10456.]) sit beside it, so the body line comes first."
+   },
+   {
+    "run": 2,
+    "a": "CHAP. 195.—An Act To restrain the Secretary of the Treasury from receiving",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate placement of the CHAP. 195 heading already given in run 1."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "the issue of circulating notes to national banks, and for other purposes.",
+    "kept": "the issue of circulating notes to national banks, and for other purposes.",
+    "reason": "This heading line is printed before the [Public, No. 444.] sidenote, which is set opposite it."
+   },
+   {
+    "run": 4,
+    "a": "the issue of circulating notes to national banks, and for other purposes.",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line resolved in run 3."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "States of America in Congress assembled, That the Secretary of the",
+    "kept": "States of America in Congress assembled, That the Secretary of the",
+    "reason": "This body line is opposite the 'Panama Canal / bonds.' sidenote, so it precedes it."
+   },
+   {
+    "run": 6,
+    "a": "States of America in Congress assembled, That the Secretary of the",
+    "b": "Treasury be, and he is hereby, authorized to insert in the bonds to be",
+    "kept": "Treasury be, and he is hereby, authorized to insert in the bonds to be",
+    "reason": "Following the 'Panama Canal/bonds.' note comes the next body line, aligned with 'Not receivable for'."
+   },
+   {
+    "run": 7,
+    "a": "Treasury be, and he is hereby, authorized to insert in the bonds to be",
+    "b": "issued by him under section thirty-nine of an Act entitled “An Act to",
+    "kept": "issued by him under section thirty-nine of an Act entitled “An Act to",
+    "reason": "This body line is aligned with the 'national-bank circu-/lation.' sidenote and precedes it."
+   },
+   {
+    "run": 8,
+    "a": "issued by him under section thirty-nine of an Act entitled “An Act to",
+    "b": "provide revenue, equalize duties, and encourage the industries of the",
+    "kept": "provide revenue, equalize duties, and encourage the industries of the",
+    "reason": "Body line aligned with 'Ante, p. 117.' sidenote, printed before it."
+   },
+   {
+    "run": 9,
+    "a": "provide revenue, equalize duties, and encourage the industries of the",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line resolved in run 8."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "CHAP. 196.—An Act To authorize the county of Ouachita, in the State of Arkan-",
+    "kept": "CHAP. 196.—An Act To authorize the county of Ouachita, in the State of Arkan-",
+    "reason": "Heading line printed level with the March 2, 1911. / [S. 10882.] sidenotes, so it comes first."
+   },
+   {
+    "run": 11,
+    "a": "CHAP. 196.—An Act To authorize the county of Ouachita, in the State of Arkan-",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the heading resolved in run 10."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "States of America in Congress assembled, That the county of Ouachita,",
+    "kept": "States of America in Congress assembled, That the county of Ouachita,",
+    "reason": "Body line aligned with 'Ouachita River. / Ouachita County,' sidenotes, printed before them."
+   },
+   {
+    "run": 13,
+    "a": "States of America in Congress assembled, That the county of Ouachita,",
+    "b": "in the State of Arkansas, be, and is hereby, authorized to construct,",
+    "kept": "in the State of Arkansas, be, and is hereby, authorized to construct,",
+    "reason": "Next body line, aligned with 'Ark., may bridge, at'."
+   },
+   {
+    "run": 14,
+    "a": "in the State of Arkansas, be, and is hereby, authorized to construct,",
+    "b": "maintain, and operate a traffic bridge and approaches thereto across",
+    "kept": "maintain, and operate a traffic bridge and approaches thereto across",
+    "reason": "Body line aligned with 'Camden. / Ante, p. 178.' sidenotes."
+   },
+   {
+    "run": 15,
+    "a": "maintain, and operate a traffic bridge and approaches thereto across",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line resolved in run 14."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "visions of the Act entitled “An Act to regulate the construction of a",
+    "kept": "visions of the Act entitled “An Act to regulate the construction of a",
+    "reason": "This body line is level with 'Vol. 34, p. 84.' and precedes it."
+   },
+   {
+    "run": 17,
+    "a": "visions of the Act entitled “An Act to regulate the construction of a",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line resolved in run 16."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby",
+    "kept": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby",
+    "reason": "The SEC. 2 line is level with the 'Amendment.' sidenote and comes first."
+   },
+   {
+    "run": 19,
+    "a": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line resolved in run 18."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "CHAP. 197.—An Act To fix the time of holding the circuit and district courts for",
+    "kept": "CHAP. 197.—An Act To fix the time of holding the circuit and district courts for",
+    "reason": "Heading line printed level with March 2, 1911. / [H. R. 28215.]."
+   },
+   {
+    "run": 21,
+    "a": "CHAP. 197.—An Act To fix the time of holding the circuit and district courts for",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the heading resolved in run 20."
+   },
+   {
+    "run": 22,
+    "a": "",
+    "b": "States of America in Congress assembled, That so much of the Act",
+    "kept": "States of America in Congress assembled, That so much of the Act",
+    "reason": "Body line aligned with the 'West Virginia' sidenote, printed before it."
+   },
+   {
+    "run": 23,
+    "a": "States of America in Congress assembled, That so much of the Act",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line resolved in run 22."
+   },
+   {
+    "run": 24,
+    "a": "",
+    "b": "of Congress approved February eleventh, nineteen hundred and seven,",
+    "kept": "of Congress approved February eleventh, nineteen hundred and seven,",
+    "reason": "This body line is level with 'northern judicial dis-' and precedes the 'trict.' sidenote line."
+   },
+   {
+    "run": 25,
+    "a": "of Congress approved February eleventh, nineteen hundred and seven,",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line resolved in run 24."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "SIXTY-FIRST CONGRESS.  SESS. III.  CHS. 194–197.  1911."
+  },
+  {
+   "role": "page-number",
+   "text": "1013"
+  },
+  {
+   "role": "body",
+   "text": "military reservation to the southeast corner thereof; thence north-"
+  },
+  {
+   "role": "body",
+   "text": "westerly on the southwesterly boundary line of said military reserva-"
+  },
+  {
+   "role": "body",
+   "text": "tion to a point which is one hundred and fifty feet west of the east"
+  },
+  {
+   "role": "body",
+   "text": "line of said reservation when measured at right angles thereto; thence"
+  },
+  {
+   "role": "body",
+   "text": "north on a line one hundred and fifty feet west of and parallel with"
+  },
+  {
+   "role": "body",
+   "text": "the easterly boundary line of said reservation to the north line of the"
+  },
+  {
+   "role": "body",
+   "text": "northwest quarter of said section one; thence east one hundred and"
+  },
+  {
+   "role": "body",
+   "text": "fifty feet along the north line of said section one, to the place of begin-"
+  },
+  {
+   "role": "body",
+   "text": "ning, said strip of land being one hundred and fifty feet in width on"
+  },
+  {
+   "role": "body",
+   "text": "the east side of that portion of said reservation situated in section one,"
+  },
+  {
+   "role": "body",
+   "text": "township thirteen north, range sixty-seven west, as aforesaid; saving"
+  },
+  {
+   "role": "body",
+   "text": "and excepting therefrom that portion of said strip of land herein-"
+  },
+  {
+   "role": "body",
+   "text": "above, in section one of this Act, described as granted to the Colorado"
+  },
+  {
+   "role": "body",
+   "text": "Railroad Company for the purpose of its railroad."
+  },
+  {
+   "role": "body",
+   "text": "Approved, March 2, 1911"
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 195.—An Act To restrain the Secretary of the Treasury from receiving"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 2, 1911."
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 10456.]"
+  },
+  {
+   "role": "body",
+   "text": "bonds issued to provide money for the building of the Panama Canal as security for"
+  },
+  {
+   "role": "body",
+   "text": "the issue of circulating notes to national banks, and for other purposes."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 444.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the Secretary of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Panama Canal"
+  },
+  {
+   "role": "sidenote",
+   "text": "bonds."
+  },
+  {
+   "role": "body",
+   "text": "Treasury be, and he is hereby, authorized to insert in the bonds to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "Not receivable for"
+  },
+  {
+   "role": "body",
+   "text": "issued by him under section thirty-nine of an Act entitled “An Act to"
+  },
+  {
+   "role": "sidenote",
+   "text": "national-bank circu-"
+  },
+  {
+   "role": "sidenote",
+   "text": "lation."
+  },
+  {
+   "role": "body",
+   "text": "provide revenue, equalize duties, and encourage the industries of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 117."
+  },
+  {
+   "role": "body",
+   "text": "United States, and for other purposes,” approved August fifth, nine-"
+  },
+  {
+   "role": "body",
+   "text": "teen hundred and nine, a provision that such bonds shall not be receiv-"
+  },
+  {
+   "role": "body",
+   "text": "able by the Treasurer of the United States as security for the issue of"
+  },
+  {
+   "role": "body",
+   "text": "circulating notes to national banks; and the bonds containing such pro-"
+  },
+  {
+   "role": "body",
+   "text": "vision shall not be receivable for that purpose."
+  },
+  {
+   "role": "body",
+   "text": "Approved, March 2, 1911."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 196.—An Act To authorize the county of Ouachita, in the State of Arkan-"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 2, 1911."
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 10882.]"
+  },
+  {
+   "role": "body",
+   "text": "sas, to construct a bridge across Ouachita River."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 445.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the county of Ouachita,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ouachita River."
+  },
+  {
+   "role": "sidenote",
+   "text": "Ouachita County,"
+  },
+  {
+   "role": "body",
+   "text": "in the State of Arkansas, be, and is hereby, authorized to construct,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ark., may bridge, at"
+  },
+  {
+   "role": "body",
+   "text": "maintain, and operate a traffic bridge and approaches thereto across"
+  },
+  {
+   "role": "sidenote",
+   "text": "Camden."
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 178."
+  },
+  {
+   "role": "body",
+   "text": "the Ouachita River at Camden, Arkansas, in accordance with the pro-"
+  },
+  {
+   "role": "body",
+   "text": "visions of the Act entitled “An Act to regulate the construction of a"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. 34, p. 84."
+  },
+  {
+   "role": "body",
+   "text": "bridge over navigable waters,” approved March twenty-third, nine-"
+  },
+  {
+   "role": "body",
+   "text": "teen hundred and six."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby"
+  },
+  {
+   "role": "sidenote",
+   "text": "Amendment."
+  },
+  {
+   "role": "body",
+   "text": "expressly reserved."
+  },
+  {
+   "role": "body",
+   "text": "Approved, March 2, 1911."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 197.—An Act To fix the time of holding the circuit and district courts for"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 2, 1911."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 28215.]"
+  },
+  {
+   "role": "body",
+   "text": "the northern district of West Virginia."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 446.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That so much of the Act"
+  },
+  {
+   "role": "sidenote",
+   "text": "West Virginia"
+  },
+  {
+   "role": "sidenote",
+   "text": "northern judicial dis-"
+  },
+  {
+   "role": "body",
+   "text": "of Congress approved February eleventh, nineteen hundred and seven,"
+  },
+  {
+   "role": "sidenote",
+   "text": "trict."
+  },
+  {
+   "role": "body",
+   "text": "entitled “An Act to fix the time of holding the circuit and district"
+  },
+  {
+   "role": "body",
+   "text": "courts for the northern district of West Virginia,” as relates to the"
+  },
+  {
+   "role": "body",
+   "text": "time of holding the regular terms of the circuit and district courts of"
+  },
+  {
+   "role": "body",
+   "text": "the United States for the northern district of West Virginia, be"
+  },
+  {
+   "role": "body",
+   "text": "amended so as to read as follows:"
+  },
+  {
+   "role": "body",
+   "text": "88740°—VOL 36, PT 1—11——66"
+  }
+ ],
+ "disagreement_count": 25,
+ "tokens": {
+  "input_tokens": 23785,
+  "output_tokens": 8706,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.33774,
+ "seconds": 106.6,
+ "created": "2026-09-08T12:36:12"
+}

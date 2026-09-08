@@ -1,0 +1,980 @@
+{
+ "granule_id": "STATUTE-12-Pg660",
+ "package_id": "STATUTE-12",
+ "volume": 12,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to divide the State of Michigan into two Judicial Districts, and to provide for holding the District and Circuit Courts therein.",
+ "date_issued": "1863-02-24",
+ "pdf_page": 1,
+ "pdf_pages": 3,
+ "stat_page": "660",
+ "image": "data/gold/STATUTE-12-Pg660/p1.png",
+ "image_sha256": "47cfe19cb729968002a055376ec0714cb62af1a1167c043ad6671c9d484b89ce",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "660          THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 53, 54.  1863."
+    },
+    {
+     "role": "sidenote",
+     "text": "priations, how"
+    },
+    {
+     "role": "sidenote",
+     "text": "expended."
+    },
+    {
+     "role": "body",
+     "text": "appropriated for the benefit of the said Indians shall be expended in"
+    },
+    {
+     "role": "body",
+     "text": "such manner as will, in the judgment of the President, best advance the"
+    },
+    {
+     "role": "body",
+     "text": "said Indians in agricultural and mechanical pursuits, and enable them to"
+    },
+    {
+     "role": "body",
+     "text": "sustain themselves without the aid of the Government.   And in such ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Discrimination"
+    },
+    {
+     "role": "sidenote",
+     "text": "in favor of faith-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ful chiefs."
+    },
+    {
+     "role": "body",
+     "text": "penditure reasonable discrimination may be made in favor of the chiefs"
+    },
+    {
+     "role": "body",
+     "text": "who shall be found faithful to the Government of the United States, and"
+    },
+    {
+     "role": "body",
+     "text": "efficient in maintaining its authority and the peace of the Indians.   Said"
+    },
+    {
+     "role": "body",
+     "text": "Indians shall be subject to the laws of the United States, and to the"
+    },
+    {
+     "role": "body",
+     "text": "criminal laws of the State or Territory in which they may happen to"
+    },
+    {
+     "role": "body",
+     "text": "reside.   They shall also be subject to such rules and regulations for their"
+    },
+    {
+     "role": "body",
+     "text": "government as the Secretary of the Interior may prescribe; but they shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "Contracts of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Indians."
+    },
+    {
+     "role": "body",
+     "text": "be deemed incapable of making any valid civil contract with any person"
+    },
+    {
+     "role": "body",
+     "text": "other than a native member of their tribe without the consent of the"
+    },
+    {
+     "role": "body",
+     "text": "President of the United States.   The Secretary of the Interior shall also"
+    },
+    {
+     "role": "sidenote",
+     "text": "Education."
+    },
+    {
+     "role": "body",
+     "text": "make reasonable provision for the education of said Indians, according to"
+    },
+    {
+     "role": "body",
+     "text": "their capacity and the means at his command."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 21, 1863."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 24, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LIV. — An Act to divide the State of Michigan into two Judicial Districts, and"
+    },
+    {
+     "role": "body",
+     "text": "to provide for holding the District and Circuit Courts therein."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Michigan di-"
+    },
+    {
+     "role": "sidenote",
+     "text": "vided into two ju-"
+    },
+    {
+     "role": "sidenote",
+     "text": "dicial districts."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the State of Michigan be,"
+    },
+    {
+     "role": "body",
+     "text": "and the same is hereby, divided into two judicial districts, in the following"
+    },
+    {
+     "role": "body",
+     "text": "manner, namely : —"
+    },
+    {
+     "role": "body",
+     "text": "THE EASTERN AND WESTERN DISTRICTS."
+    },
+    {
+     "role": "sidenote",
+     "text": "Western district."
+    },
+    {
+     "role": "body",
+     "text": "The western district shall embrace all the territory and waters within"
+    },
+    {
+     "role": "body",
+     "text": "the following boundaries, to wit :  Commencing at the southwest corner"
+    },
+    {
+     "role": "body",
+     "text": "of Hillsdale county, in the State of Michigan, and running from thence"
+    },
+    {
+     "role": "body",
+     "text": "north, on the west line of said county, to the south line of Calhoun coun-"
+    },
+    {
+     "role": "body",
+     "text": "ty ; thence east, on the south line thereof, to the southeast corner of said"
+    },
+    {
+     "role": "body",
+     "text": "last-named county ; thence north, on the east boundary of said county, to"
+    },
+    {
+     "role": "body",
+     "text": "the south line of Eaton county ; thence east, on said south line, to the"
+    },
+    {
+     "role": "body",
+     "text": "southeast corner of Eaton county ; thence north, on the east boundary of"
+    },
+    {
+     "role": "body",
+     "text": "Eaton county, to the south line of Clinton county ; thence west, on the"
+    },
+    {
+     "role": "body",
+     "text": "south boundary of said county, to the southwest corner thereof ; thence"
+    },
+    {
+     "role": "body",
+     "text": "north, on the west boundary of Clinton and Gratiot counties, to the south"
+    },
+    {
+     "role": "body",
+     "text": "boundary of Isabella county ; thence west, on its south boundary, to the"
+    },
+    {
+     "role": "body",
+     "text": "southwest corner of said last-named county ; thence north, on the west"
+    },
+    {
+     "role": "body",
+     "text": "line of Isabella and Clare counties, to the south boundary of Missaukee"
+    },
+    {
+     "role": "body",
+     "text": "county ; thence east, on its south boundary, to the southeast corner of"
+    },
+    {
+     "role": "body",
+     "text": "Missaukee county ; thence north, on the east line of Missaukee, Kalcasca,"
+    },
+    {
+     "role": "body",
+     "text": "and Antrim counties, to the south boundary [of] Emmet county ; thence"
+    },
+    {
+     "role": "body",
+     "text": "east to the southeast corner of Emmet county ; thence north, on the east"
+    },
+    {
+     "role": "body",
+     "text": "boundary of Emmet county, to the Straits of Mackinac ; thence north to"
+    },
+    {
+     "role": "body",
+     "text": "midway across said straits ; thence westerly, in a direct line, to a point on"
+    },
+    {
+     "role": "body",
+     "text": "the shore of Lake Michigan where the north boundary of Delta county"
+    },
+    {
+     "role": "body",
+     "text": "reaches Lake Michigan ; thence west, on the north line of Delta county,"
+    },
+    {
+     "role": "body",
+     "text": "to the northwest corner of said Delta county ; thence south, on the west"
+    },
+    {
+     "role": "body",
+     "text": "boundary of said county, to the dividing line between the States of Michi-"
+    },
+    {
+     "role": "body",
+     "text": "gan and Wisconsin in Green Bay ; thence northeasterly, on the said di-"
+    },
+    {
+     "role": "body",
+     "text": "viding line, into Lake Michigan ; and thence southerly, through Lake"
+    },
+    {
+     "role": "body",
+     "text": "Michigan, to the southwest corner of the State of Michigan, on a line"
+    },
+    {
+     "role": "body",
+     "text": "that will include within said boundaries the waters of Lake Michigan"
+    },
+    {
+     "role": "body",
+     "text": "within the admiralty jurisdiction of the State of Michigan ; thence east,"
+    },
+    {
+     "role": "body",
+     "text": "on the south boundary of the State of Michigan, to the intersection of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Courts, where"
+    },
+    {
+     "role": "sidenote",
+     "text": "held."
+    },
+    {
+     "role": "body",
+     "text": "the west line of Hillsdale county.  The judicial centre of which district"
+    },
+    {
+     "role": "body",
+     "text": "shall be at Grand Rapids, in the county of Kent, where the courts of"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2449,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08866,
+   "seconds": 32.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "660"
+    },
+    {
+     "role": "running-head",
+     "text": "THIRTY–SEVENTH CONGRESS.  SESS. III.  CH. 53, 54.  1863."
+    },
+    {
+     "role": "sidenote",
+     "text": "priations, how expended."
+    },
+    {
+     "role": "body",
+     "text": "appropriated for the benefit of the said Indians shall be expended in"
+    },
+    {
+     "role": "body",
+     "text": "such manner as will, in the judgment of the President, best advance the"
+    },
+    {
+     "role": "body",
+     "text": "said Indians in agricultural and mechanical pursuits, and enable them to"
+    },
+    {
+     "role": "body",
+     "text": "sustain themselves without the aid of the Government.  And in such ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Discrimination in favor of faithful chiefs."
+    },
+    {
+     "role": "body",
+     "text": "penditure reasonable discrimination may be made in favor of the chiefs"
+    },
+    {
+     "role": "body",
+     "text": "who shall be found faithful to the Government of the United States, and"
+    },
+    {
+     "role": "body",
+     "text": "efficient in maintaining its authority and the peace of the Indians.  Said"
+    },
+    {
+     "role": "body",
+     "text": "Indians shall be subject to the laws of the United States, and to the"
+    },
+    {
+     "role": "body",
+     "text": "criminal laws of the State or Territory in which they may happen to"
+    },
+    {
+     "role": "body",
+     "text": "reside.  They shall also be subject to such rules and regulations for their"
+    },
+    {
+     "role": "body",
+     "text": "government as the Secretary of the Interior may prescribe; but they shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "Contracts of Indians."
+    },
+    {
+     "role": "body",
+     "text": "be deemed incapable of making any valid civil contract with any person"
+    },
+    {
+     "role": "body",
+     "text": "other than a native member of their tribe without the consent of the"
+    },
+    {
+     "role": "body",
+     "text": "President of the United States.  The Secretary of the Interior shall also"
+    },
+    {
+     "role": "sidenote",
+     "text": "Education."
+    },
+    {
+     "role": "body",
+     "text": "make reasonable provision for the education of said Indians, according to"
+    },
+    {
+     "role": "body",
+     "text": "their capacity and the means at his command."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 21, 1863."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 24, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LIV. — An Act to divide the State of Michigan into two Judicial Districts, and"
+    },
+    {
+     "role": "body",
+     "text": "to provide for holding the District and Circuit Courts therein."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Michigan divided into two judicial districts."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the State of Michigan be,"
+    },
+    {
+     "role": "body",
+     "text": "and the same is hereby, divided into two judicial districts, in the following"
+    },
+    {
+     "role": "body",
+     "text": "manner, namely : —"
+    },
+    {
+     "role": "body",
+     "text": "THE EASTERN AND WESTERN DISTRICTS."
+    },
+    {
+     "role": "sidenote",
+     "text": "Western district."
+    },
+    {
+     "role": "body",
+     "text": "The western district shall embrace all the territory and waters within"
+    },
+    {
+     "role": "body",
+     "text": "the following boundaries, to wit :  Commencing at the southwest corner"
+    },
+    {
+     "role": "body",
+     "text": "of Hillsdale county, in the State of Michigan, and running from thence"
+    },
+    {
+     "role": "body",
+     "text": "north, on the west line of said county, to the south line of Calhoun coun-"
+    },
+    {
+     "role": "body",
+     "text": "ty ; thence east, on the south line thereof, to the southeast corner of said"
+    },
+    {
+     "role": "body",
+     "text": "last-named county ; thence north, on the east boundary of said county, to"
+    },
+    {
+     "role": "body",
+     "text": "the south line of Eaton county ; thence east, on said south line, to the"
+    },
+    {
+     "role": "body",
+     "text": "southeast corner of Eaton county ; thence north, on the east boundary of"
+    },
+    {
+     "role": "body",
+     "text": "Eaton county, to the south line of Clinton county ; thence west, on the"
+    },
+    {
+     "role": "body",
+     "text": "south boundary of said county, to the southwest corner thereof ; thence"
+    },
+    {
+     "role": "body",
+     "text": "north, on the west boundary of Clinton and Gratiot counties, to the south"
+    },
+    {
+     "role": "body",
+     "text": "boundary of Isabella county; thence west, on its south boundary, to the"
+    },
+    {
+     "role": "body",
+     "text": "southwest corner of said last-named county ; thence north, on the west"
+    },
+    {
+     "role": "body",
+     "text": "line of Isabella and Clare counties, to the south boundary of Missaukee"
+    },
+    {
+     "role": "body",
+     "text": "county ; thence east, on its south boundary, to the southeast corner of"
+    },
+    {
+     "role": "body",
+     "text": "Missaukee county ; thence north, on the east line of Missaukee, Kalcasca,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Seat of government of western district."
+    },
+    {
+     "role": "body",
+     "text": "and Antrim counties, to the south boundary [of] Emmet county ; thence"
+    },
+    {
+     "role": "body",
+     "text": "east to the southeast corner of Emmet county ; thence north, on the east"
+    },
+    {
+     "role": "body",
+     "text": "boundary of Emmet county, to the Straits of Mackinac ; thence north to"
+    },
+    {
+     "role": "body",
+     "text": "midway across said straits ; thence westerly, in a direct line, to a point on"
+    },
+    {
+     "role": "body",
+     "text": "the shore of Lake Michigan where the north boundary of Delta county"
+    },
+    {
+     "role": "body",
+     "text": "reaches Lake Michigan ; thence west, on the north line of Delta county,"
+    },
+    {
+     "role": "body",
+     "text": "to the northwest corner of said Delta county ; thence south, on the west"
+    },
+    {
+     "role": "body",
+     "text": "boundary of said county, to the dividing line between the States of Michi-"
+    },
+    {
+     "role": "body",
+     "text": "gan and Wisconsin in Green Bay ; thence northeasterly, on the said di-"
+    },
+    {
+     "role": "body",
+     "text": "viding line, into Lake Michigan ; and thence southerly, through Lake"
+    },
+    {
+     "role": "body",
+     "text": "Michigan, to the southwest corner of the State of Michigan, on a line"
+    },
+    {
+     "role": "body",
+     "text": "that will include within said boundaries the waters of Lake Michigan"
+    },
+    {
+     "role": "body",
+     "text": "within the admiralty jurisdiction of the State of Michigan ; thence east,"
+    },
+    {
+     "role": "body",
+     "text": "on the south boundary of the State of Michigan, to the intersection of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Courts, where held."
+    },
+    {
+     "role": "body",
+     "text": "the west line of Hillsdale county.  The judicial centre of which district"
+    },
+    {
+     "role": "body",
+     "text": "shall be at Grand Rapids, in the county of Kent, where the courts of"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2205,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08255,
+   "seconds": 28.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11880,
+   "output_tokens": 592,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.07462,
+  "seconds": 15.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "660          THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 53, 54.  1863.\npriations, how\nexpended.",
+    "b": "660\nTHIRTY–SEVENTH CONGRESS.  SESS. III.  CH. 53, 54.  1863.\npriations, how expended.",
+    "kept": "660\nTHIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 53, 54.  1863.\npriations, how\nexpended.",
+    "reason": "Page number is set apart from the running head; the sidenote occupies two printed lines."
+   },
+   {
+    "run": 2,
+    "a": "Discrimination\nin favor of faith-\nful chiefs.",
+    "b": "Discrimination in favor of faithful chiefs.",
+    "kept": "Discrimination\nin favor of faith-\nful chiefs.",
+    "reason": "Sidenote is printed on three lines with hyphenation as shown."
+   },
+   {
+    "run": 3,
+    "a": "Contracts of\nIndians.",
+    "b": "Contracts of Indians.",
+    "kept": "Contracts of\nIndians.",
+    "reason": "Two printed sidenote lines."
+   },
+   {
+    "run": 4,
+    "a": "Michigan di-\nvided into two ju-\ndicial districts.",
+    "b": "Michigan divided into two judicial districts.",
+    "kept": "Michigan di-\nvided into two ju-\ndicial districts.",
+    "reason": "Three printed lines with end-of-line hyphens."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "Seat of government of western district.",
+    "kept": "",
+    "reason": "No such sidenote appears at this point on the page."
+   },
+   {
+    "run": 6,
+    "a": "Courts, where\nheld.",
+    "b": "Courts, where held.",
+    "kept": "Courts, where\nheld.",
+    "reason": "Sidenote printed on two lines."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "660"
+  },
+  {
+   "role": "running-head",
+   "text": "THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 53, 54.  1863."
+  },
+  {
+   "role": "sidenote",
+   "text": "priations, how"
+  },
+  {
+   "role": "sidenote",
+   "text": "expended."
+  },
+  {
+   "role": "body",
+   "text": "appropriated for the benefit of the said Indians shall be expended in"
+  },
+  {
+   "role": "body",
+   "text": "such manner as will, in the judgment of the President, best advance the"
+  },
+  {
+   "role": "body",
+   "text": "said Indians in agricultural and mechanical pursuits, and enable them to"
+  },
+  {
+   "role": "body",
+   "text": "sustain themselves without the aid of the Government.   And in such ex-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Discrimination"
+  },
+  {
+   "role": "sidenote",
+   "text": "in favor of faith-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ful chiefs."
+  },
+  {
+   "role": "body",
+   "text": "penditure reasonable discrimination may be made in favor of the chiefs"
+  },
+  {
+   "role": "body",
+   "text": "who shall be found faithful to the Government of the United States, and"
+  },
+  {
+   "role": "body",
+   "text": "efficient in maintaining its authority and the peace of the Indians.   Said"
+  },
+  {
+   "role": "body",
+   "text": "Indians shall be subject to the laws of the United States, and to the"
+  },
+  {
+   "role": "body",
+   "text": "criminal laws of the State or Territory in which they may happen to"
+  },
+  {
+   "role": "body",
+   "text": "reside.   They shall also be subject to such rules and regulations for their"
+  },
+  {
+   "role": "body",
+   "text": "government as the Secretary of the Interior may prescribe; but they shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "Contracts of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Indians."
+  },
+  {
+   "role": "body",
+   "text": "be deemed incapable of making any valid civil contract with any person"
+  },
+  {
+   "role": "body",
+   "text": "other than a native member of their tribe without the consent of the"
+  },
+  {
+   "role": "body",
+   "text": "President of the United States.   The Secretary of the Interior shall also"
+  },
+  {
+   "role": "sidenote",
+   "text": "Education."
+  },
+  {
+   "role": "body",
+   "text": "make reasonable provision for the education of said Indians, according to"
+  },
+  {
+   "role": "body",
+   "text": "their capacity and the means at his command."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 21, 1863."
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 24, 1863."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LIV. — An Act to divide the State of Michigan into two Judicial Districts, and"
+  },
+  {
+   "role": "body",
+   "text": "to provide for holding the District and Circuit Courts therein."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Michigan di-"
+  },
+  {
+   "role": "sidenote",
+   "text": "vided into two ju-"
+  },
+  {
+   "role": "sidenote",
+   "text": "dicial districts."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the State of Michigan be,"
+  },
+  {
+   "role": "body",
+   "text": "and the same is hereby, divided into two judicial districts, in the following"
+  },
+  {
+   "role": "body",
+   "text": "manner, namely : —"
+  },
+  {
+   "role": "body",
+   "text": "THE EASTERN AND WESTERN DISTRICTS."
+  },
+  {
+   "role": "sidenote",
+   "text": "Western district."
+  },
+  {
+   "role": "body",
+   "text": "The western district shall embrace all the territory and waters within"
+  },
+  {
+   "role": "body",
+   "text": "the following boundaries, to wit :  Commencing at the southwest corner"
+  },
+  {
+   "role": "body",
+   "text": "of Hillsdale county, in the State of Michigan, and running from thence"
+  },
+  {
+   "role": "body",
+   "text": "north, on the west line of said county, to the south line of Calhoun coun-"
+  },
+  {
+   "role": "body",
+   "text": "ty ; thence east, on the south line thereof, to the southeast corner of said"
+  },
+  {
+   "role": "body",
+   "text": "last-named county ; thence north, on the east boundary of said county, to"
+  },
+  {
+   "role": "body",
+   "text": "the south line of Eaton county ; thence east, on said south line, to the"
+  },
+  {
+   "role": "body",
+   "text": "southeast corner of Eaton county ; thence north, on the east boundary of"
+  },
+  {
+   "role": "body",
+   "text": "Eaton county, to the south line of Clinton county ; thence west, on the"
+  },
+  {
+   "role": "body",
+   "text": "south boundary of said county, to the southwest corner thereof ; thence"
+  },
+  {
+   "role": "body",
+   "text": "north, on the west boundary of Clinton and Gratiot counties, to the south"
+  },
+  {
+   "role": "body",
+   "text": "boundary of Isabella county ; thence west, on its south boundary, to the"
+  },
+  {
+   "role": "body",
+   "text": "southwest corner of said last-named county ; thence north, on the west"
+  },
+  {
+   "role": "body",
+   "text": "line of Isabella and Clare counties, to the south boundary of Missaukee"
+  },
+  {
+   "role": "body",
+   "text": "county ; thence east, on its south boundary, to the southeast corner of"
+  },
+  {
+   "role": "body",
+   "text": "Missaukee county ; thence north, on the east line of Missaukee, Kalcasca,"
+  },
+  {
+   "role": "body",
+   "text": "and Antrim counties, to the south boundary [of] Emmet county ; thence"
+  },
+  {
+   "role": "body",
+   "text": "east to the southeast corner of Emmet county ; thence north, on the east"
+  },
+  {
+   "role": "body",
+   "text": "boundary of Emmet county, to the Straits of Mackinac ; thence north to"
+  },
+  {
+   "role": "body",
+   "text": "midway across said straits ; thence westerly, in a direct line, to a point on"
+  },
+  {
+   "role": "body",
+   "text": "the shore of Lake Michigan where the north boundary of Delta county"
+  },
+  {
+   "role": "body",
+   "text": "reaches Lake Michigan ; thence west, on the north line of Delta county,"
+  },
+  {
+   "role": "body",
+   "text": "to the northwest corner of said Delta county ; thence south, on the west"
+  },
+  {
+   "role": "body",
+   "text": "boundary of said county, to the dividing line between the States of Michi-"
+  },
+  {
+   "role": "body",
+   "text": "gan and Wisconsin in Green Bay ; thence northeasterly, on the said di-"
+  },
+  {
+   "role": "body",
+   "text": "viding line, into Lake Michigan ; and thence southerly, through Lake"
+  },
+  {
+   "role": "body",
+   "text": "Michigan, to the southwest corner of the State of Michigan, on a line"
+  },
+  {
+   "role": "body",
+   "text": "that will include within said boundaries the waters of Lake Michigan"
+  },
+  {
+   "role": "body",
+   "text": "within the admiralty jurisdiction of the State of Michigan ; thence east,"
+  },
+  {
+   "role": "body",
+   "text": "on the south boundary of the State of Michigan, to the intersection of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Courts, where"
+  },
+  {
+   "role": "sidenote",
+   "text": "held."
+  },
+  {
+   "role": "body",
+   "text": "the west line of Hillsdale county.  The judicial centre of which district"
+  },
+  {
+   "role": "body",
+   "text": "shall be at Grand Rapids, in the county of Kent, where the courts of"
+  }
+ ],
+ "disagreement_count": 6,
+ "tokens": {
+  "input_tokens": 22703,
+  "output_tokens": 5246,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.24583,
+ "seconds": 76.3,
+ "created": "2026-09-08T11:57:35"
+}

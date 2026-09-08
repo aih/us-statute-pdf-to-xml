@@ -1,0 +1,920 @@
+{
+ "granule_id": "STATUTE-60-Pg945",
+ "package_id": "STATUTE-60",
+ "volume": 60,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To amend the Act of June 23, 1943, so as to authorize inclusion of periods of education and training in an Army Transportation Corps civilian marine school as \"service in the merchant marine\".",
+ "date_issued": "1946-08-08",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "946",
+ "image": "data/gold/STATUTE-60-Pg945/p2.png",
+ "image_sha256": "ca88748eb00ff348ffe199a68d8af60fb22464721e07071040f95a7343563a99",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "946"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAWS—CHS. 912, 913—AUG. 8, 1946"
+    },
+    {
+     "role": "running-head",
+     "text": "[60 STAT."
+    },
+    {
+     "role": "body",
+     "text": "of the Administrator, as an enrollee in the United States Maritime"
+    },
+    {
+     "role": "body",
+     "text": "Service on active duty, and, to such extent as the Administrator shall"
+    },
+    {
+     "role": "body",
+     "text": "prescribe, any period awaiting assignment to such service and any"
+    },
+    {
+     "role": "body",
+     "text": "period of education or training for such service in any school or"
+    },
+    {
+     "role": "body",
+     "text": "institution under the jurisdiction of the Administrator or any civilian"
+    },
+    {
+     "role": "body",
+     "text": "marine school under the jurisdiction of the Army Transportation"
+    },
+    {
+     "role": "body",
+     "text": "Corps.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved August 8, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 913]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 8, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6896]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 693]"
+    },
+    {
+     "role": "body",
+     "text": "To grant to the city of Miles City, State of Montana, certain land in Custer"
+    },
+    {
+     "role": "body",
+     "text": "County, Montana, for industrial and recreational purposes and as a museum"
+    },
+    {
+     "role": "body",
+     "text": "site."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Miles City, Mont."
+    },
+    {
+     "role": "sidenote",
+     "text": "Conveyance."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Interior be, and he hereby is, authorized and directed to convey"
+    },
+    {
+     "role": "body",
+     "text": "by patent to the city of Miles City, a municipal corporation organized"
+    },
+    {
+     "role": "body",
+     "text": "and existing under the laws of the State of Montana, the following"
+    },
+    {
+     "role": "body",
+     "text": "tracts of public lands, to wit:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Land for industrial"
+    },
+    {
+     "role": "sidenote",
+     "text": "and recreational pur-"
+    },
+    {
+     "role": "sidenote",
+     "text": "poses."
+    },
+    {
+     "role": "body",
+     "text": "Thirty-seven and twenty-six one-hundredths acres of land, to be"
+    },
+    {
+     "role": "body",
+     "text": "used for industrial and recreational purposes, said land being more"
+    },
+    {
+     "role": "body",
+     "text": "particularly described as follows:"
+    },
+    {
+     "role": "body",
+     "text": "Beginning at a point on the north right-of-way line of United States"
+    },
+    {
+     "role": "body",
+     "text": "Highways Numbered 10 and 12, said point being north forty-two"
+    },
+    {
+     "role": "body",
+     "text": "degrees forty-four minutes west a distance of nine hundred and"
+    },
+    {
+     "role": "body",
+     "text": "seventy-one and one-tenth feet from the section corner of sections 4"
+    },
+    {
+     "role": "body",
+     "text": "and 5, township 7 north, range 47 east, and sections 32 and 33, town-"
+    },
+    {
+     "role": "body",
+     "text": "ship 8 north, range 47 east; thence north sixty degrees fifteen minutes"
+    },
+    {
+     "role": "body",
+     "text": "west a distance of one thousand five hundred and sixty-six and twelve"
+    },
+    {
+     "role": "body",
+     "text": "one-hundredths feet more or less to the south right-of-way line of the"
+    },
+    {
+     "role": "body",
+     "text": "Chicago, Milwaukee, Saint Paul and Pacific Railroad station 3209 plus"
+    },
+    {
+     "role": "body",
+     "text": "88.5; thence north forty-seven degrees sixteen minutes east five hundred"
+    },
+    {
+     "role": "body",
+     "text": "and eighty-eight and five-tenths feet along the south right-of-way line;"
+    },
+    {
+     "role": "body",
+     "text": "thence north forty-two degrees forty-four minutes west a distance of"
+    },
+    {
+     "role": "body",
+     "text": "one hundred and fifty feet along the right-of-way jog at station 3204"
+    },
+    {
+     "role": "body",
+     "text": "plus 00; thence north forty-seven degrees sixteen minutes east along the"
+    },
+    {
+     "role": "body",
+     "text": "south right-of-way line a distance of six hundred feet to station 3198"
+    },
+    {
+     "role": "body",
+     "text": "plus 00; thence south forty-two degrees forty-four minutes east a"
+    },
+    {
+     "role": "body",
+     "text": "distance of fifty feet; thence north forty-seven degrees sixteen minutes"
+    },
+    {
+     "role": "body",
+     "text": "east along the south right-of-way line a distance of one thousand one"
+    },
+    {
+     "role": "body",
+     "text": "hundred and five and eight one-hundredths feet more or less to the"
+    },
+    {
+     "role": "body",
+     "text": "intersection of the south right-of-way line and the line between A. P."
+    },
+    {
+     "role": "body",
+     "text": "Numbered 1 and A. P. Numbered 2 south thirty-two; thence south"
+    },
+    {
+     "role": "body",
+     "text": "twenty degrees thirty minutes east a distance of one hundred and"
+    },
+    {
+     "role": "body",
+     "text": "thirty-six and twenty-seven one-hundredths feet more or less to A. P."
+    },
+    {
+     "role": "body",
+     "text": "Numbered 1 south thirty-two; thence south fifty-three degrees forty"
+    },
+    {
+     "role": "body",
+     "text": "minutes east a distance of seventy-five and twenty-two one-hundredths"
+    },
+    {
+     "role": "body",
+     "text": "feet more or less to a point three hundred and fifty feet at right angles"
+    },
+    {
+     "role": "body",
+     "text": "to the Chicago, Milwaukee, Saint Paul and Pacific Railroad; thence"
+    },
+    {
+     "role": "body",
+     "text": "south forty-seven degrees sixteen minutes west a distance of one"
+    },
+    {
+     "role": "body",
+     "text": "thousand and sixty-seven and seventy-nine one-hundredths feet;"
+    },
+    {
+     "role": "body",
+     "text": "thence south forty-two degrees forty-four minutes east a distance of"
+    },
+    {
+     "role": "body",
+     "text": "one thousand one hundred and twenty-four and six-tenths feet more"
+    },
+    {
+     "role": "body",
+     "text": "or less to a point on the north right-of-way of United States Highways"
+    },
+    {
+     "role": "body",
+     "text": "Numbered 10 and 12; thence along the arc of a circular curve (radius"
+    },
+    {
+     "role": "body",
+     "text": "one thousand nine hundred and seventy feet through an angle of ten"
+    },
+    {
+     "role": "body",
+     "text": "degrees fifty-one and five-tenths minutes) a distance of three hundred"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5466,
+    "output_tokens": 2295,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08509,
+   "seconds": 124.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "946"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAWS—CHS. 912, 913—AUG. 8, 1946"
+    },
+    {
+     "role": "running-head",
+     "text": "[60 STAT."
+    },
+    {
+     "role": "body",
+     "text": "of the Administrator, as an enrollee in the United States Maritime"
+    },
+    {
+     "role": "body",
+     "text": "Service on active duty, and, to such extent as the Administrator shall"
+    },
+    {
+     "role": "body",
+     "text": "prescribe, any period awaiting assignment to such service and any"
+    },
+    {
+     "role": "body",
+     "text": "period of education or training for such service in any school or"
+    },
+    {
+     "role": "body",
+     "text": "institution under the jurisdiction of the Administrator or any civilian"
+    },
+    {
+     "role": "body",
+     "text": "marine school under the jurisdiction of the Army Transportation"
+    },
+    {
+     "role": "body",
+     "text": "Corps.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved August 8, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 913]"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 8, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6896]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 693]"
+    },
+    {
+     "role": "body",
+     "text": "To grant to the city of Miles City, State of Montana, certain land in Custer"
+    },
+    {
+     "role": "body",
+     "text": "County, Montana, for industrial and recreational purposes and as a museum"
+    },
+    {
+     "role": "body",
+     "text": "site."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Miles City, Mont."
+    },
+    {
+     "role": "sidenote",
+     "text": "Conveyance."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Interior be, and he hereby is, authorized and directed to convey"
+    },
+    {
+     "role": "body",
+     "text": "by patent to the city of Miles City, a municipal corporation organized"
+    },
+    {
+     "role": "body",
+     "text": "and existing under the laws of the State of Montana, the following"
+    },
+    {
+     "role": "body",
+     "text": "tracts of public lands, to wit:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Land for industrial"
+    },
+    {
+     "role": "sidenote",
+     "text": "and recreational pur-"
+    },
+    {
+     "role": "sidenote",
+     "text": "poses."
+    },
+    {
+     "role": "body",
+     "text": "Thirty-seven and twenty-six one-hundredths acres of land, to be"
+    },
+    {
+     "role": "body",
+     "text": "used for industrial and recreational purposes, said land being more"
+    },
+    {
+     "role": "body",
+     "text": "particularly described as follows:"
+    },
+    {
+     "role": "body",
+     "text": "Beginning at a point on the north right-of-way line of United States"
+    },
+    {
+     "role": "body",
+     "text": "Highways Numbered 10 and 12, said point being north forty-two"
+    },
+    {
+     "role": "body",
+     "text": "degrees forty-four minutes west a distance of nine hundred and"
+    },
+    {
+     "role": "body",
+     "text": "seventy-one and one-tenth feet from the section corner of sections 4"
+    },
+    {
+     "role": "body",
+     "text": "and 5, township 7 north, range 47 east, and sections 32 and 33, town-"
+    },
+    {
+     "role": "body",
+     "text": "ship 8 north, range 47 east; thence north sixty degrees fifteen minutes"
+    },
+    {
+     "role": "body",
+     "text": "west a distance of one thousand five hundred and sixty-six and twelve"
+    },
+    {
+     "role": "body",
+     "text": "one-hundredths feet more or less to the south right-of-way line of the"
+    },
+    {
+     "role": "body",
+     "text": "Chicago, Milwaukee, Saint Paul and Pacific Railroad station 3209 plus"
+    },
+    {
+     "role": "body",
+     "text": "88.5; thence north forty-seven degrees sixteen minutes east five hundred"
+    },
+    {
+     "role": "body",
+     "text": "and eighty-eight and five-tenths feet along the south right-of-way line;"
+    },
+    {
+     "role": "body",
+     "text": "thence north forty-two degrees forty-four minutes west a distance of"
+    },
+    {
+     "role": "body",
+     "text": "one hundred and fifty feet along the right-of-way jog at station 3204"
+    },
+    {
+     "role": "body",
+     "text": "plus 00; thence north forty-seven degrees sixteen minutes east along the"
+    },
+    {
+     "role": "body",
+     "text": "south right-of-way line a distance of six hundred feet to station 3198"
+    },
+    {
+     "role": "body",
+     "text": "plus 00; thence south forty-two degrees forty-four minutes east a"
+    },
+    {
+     "role": "body",
+     "text": "distance of fifty feet; thence north forty-seven degrees sixteen minutes"
+    },
+    {
+     "role": "body",
+     "text": "east along the south right-of-way line a distance of one thousand one"
+    },
+    {
+     "role": "body",
+     "text": "hundred and five and eight one-hundredths feet more or less to the"
+    },
+    {
+     "role": "body",
+     "text": "intersection of the south right-of-way line and the line between A. P."
+    },
+    {
+     "role": "body",
+     "text": "Numbered 1 and A. P. Numbered 2 south thirty-two; thence south"
+    },
+    {
+     "role": "body",
+     "text": "twenty degrees thirty minutes east a distance of one hundred and"
+    },
+    {
+     "role": "body",
+     "text": "thirty-six and twenty-seven one-hundredths feet more or less to A. P."
+    },
+    {
+     "role": "body",
+     "text": "Numbered 1 south thirty-two; thence south fifty-three degrees forty"
+    },
+    {
+     "role": "body",
+     "text": "minutes east a distance of seventy-five and twenty-two one-hundredths"
+    },
+    {
+     "role": "body",
+     "text": "feet more or less to a point three hundred and fifty feet at right angles"
+    },
+    {
+     "role": "body",
+     "text": "to the Chicago, Milwaukee, Saint Paul and Pacific Railroad; thence"
+    },
+    {
+     "role": "body",
+     "text": "south forty-seven degrees sixteen minutes west a distance of one"
+    },
+    {
+     "role": "body",
+     "text": "thousand and sixty-seven and seventy-nine one-hundredths feet;"
+    },
+    {
+     "role": "body",
+     "text": "thence south forty-two degrees forty-four minutes east a distance of"
+    },
+    {
+     "role": "body",
+     "text": "one thousand one hundred and twenty-four and six-tenths feet more"
+    },
+    {
+     "role": "body",
+     "text": "or less to a point on the north right-of-way of United States Highways"
+    },
+    {
+     "role": "body",
+     "text": "Numbered 10 and 12; thence along the arc of a circular curve (radius"
+    },
+    {
+     "role": "body",
+     "text": "one thousand nine hundred and seventy feet through an angle of ten"
+    },
+    {
+     "role": "body",
+     "text": "degrees fifty-one and five-tenths minutes) a distance of three hundred"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5469,
+    "output_tokens": 2478,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08966,
+   "seconds": 165.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11262,
+   "output_tokens": 294,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06408,
+  "seconds": 40.6,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "AN ACT",
+    "b": "",
+    "kept": "AN ACT",
+    "reason": "The centered heading \"AN ACT\" follows the [CHAPTER 913] line; it sits level with the first sidenote line, so placing it here keeps reading order."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "AN ACT",
+    "kept": "",
+    "reason": "\"AN ACT\" is printed only once, already placed in run 1; nothing appears here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "946"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAWS—CHS. 912, 913—AUG. 8, 1946"
+  },
+  {
+   "role": "running-head",
+   "text": "[60 STAT."
+  },
+  {
+   "role": "body",
+   "text": "of the Administrator, as an enrollee in the United States Maritime"
+  },
+  {
+   "role": "body",
+   "text": "Service on active duty, and, to such extent as the Administrator shall"
+  },
+  {
+   "role": "body",
+   "text": "prescribe, any period awaiting assignment to such service and any"
+  },
+  {
+   "role": "body",
+   "text": "period of education or training for such service in any school or"
+  },
+  {
+   "role": "body",
+   "text": "institution under the jurisdiction of the Administrator or any civilian"
+  },
+  {
+   "role": "body",
+   "text": "marine school under the jurisdiction of the Army Transportation"
+  },
+  {
+   "role": "body",
+   "text": "Corps.\""
+  },
+  {
+   "role": "body",
+   "text": "Approved August 8, 1946."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 913]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "August 8, 1946"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 6896]"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public Law 693]"
+  },
+  {
+   "role": "body",
+   "text": "To grant to the city of Miles City, State of Montana, certain land in Custer"
+  },
+  {
+   "role": "body",
+   "text": "County, Montana, for industrial and recreational purposes and as a museum"
+  },
+  {
+   "role": "body",
+   "text": "site."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Miles City, Mont."
+  },
+  {
+   "role": "sidenote",
+   "text": "Conveyance."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Secretary"
+  },
+  {
+   "role": "body",
+   "text": "of the Interior be, and he hereby is, authorized and directed to convey"
+  },
+  {
+   "role": "body",
+   "text": "by patent to the city of Miles City, a municipal corporation organized"
+  },
+  {
+   "role": "body",
+   "text": "and existing under the laws of the State of Montana, the following"
+  },
+  {
+   "role": "body",
+   "text": "tracts of public lands, to wit:"
+  },
+  {
+   "role": "sidenote",
+   "text": "Land for industrial"
+  },
+  {
+   "role": "sidenote",
+   "text": "and recreational pur-"
+  },
+  {
+   "role": "sidenote",
+   "text": "poses."
+  },
+  {
+   "role": "body",
+   "text": "Thirty-seven and twenty-six one-hundredths acres of land, to be"
+  },
+  {
+   "role": "body",
+   "text": "used for industrial and recreational purposes, said land being more"
+  },
+  {
+   "role": "body",
+   "text": "particularly described as follows:"
+  },
+  {
+   "role": "body",
+   "text": "Beginning at a point on the north right-of-way line of United States"
+  },
+  {
+   "role": "body",
+   "text": "Highways Numbered 10 and 12, said point being north forty-two"
+  },
+  {
+   "role": "body",
+   "text": "degrees forty-four minutes west a distance of nine hundred and"
+  },
+  {
+   "role": "body",
+   "text": "seventy-one and one-tenth feet from the section corner of sections 4"
+  },
+  {
+   "role": "body",
+   "text": "and 5, township 7 north, range 47 east, and sections 32 and 33, town-"
+  },
+  {
+   "role": "body",
+   "text": "ship 8 north, range 47 east; thence north sixty degrees fifteen minutes"
+  },
+  {
+   "role": "body",
+   "text": "west a distance of one thousand five hundred and sixty-six and twelve"
+  },
+  {
+   "role": "body",
+   "text": "one-hundredths feet more or less to the south right-of-way line of the"
+  },
+  {
+   "role": "body",
+   "text": "Chicago, Milwaukee, Saint Paul and Pacific Railroad station 3209 plus"
+  },
+  {
+   "role": "body",
+   "text": "88.5; thence north forty-seven degrees sixteen minutes east five hundred"
+  },
+  {
+   "role": "body",
+   "text": "and eighty-eight and five-tenths feet along the south right-of-way line;"
+  },
+  {
+   "role": "body",
+   "text": "thence north forty-two degrees forty-four minutes west a distance of"
+  },
+  {
+   "role": "body",
+   "text": "one hundred and fifty feet along the right-of-way jog at station 3204"
+  },
+  {
+   "role": "body",
+   "text": "plus 00; thence north forty-seven degrees sixteen minutes east along the"
+  },
+  {
+   "role": "body",
+   "text": "south right-of-way line a distance of six hundred feet to station 3198"
+  },
+  {
+   "role": "body",
+   "text": "plus 00; thence south forty-two degrees forty-four minutes east a"
+  },
+  {
+   "role": "body",
+   "text": "distance of fifty feet; thence north forty-seven degrees sixteen minutes"
+  },
+  {
+   "role": "body",
+   "text": "east along the south right-of-way line a distance of one thousand one"
+  },
+  {
+   "role": "body",
+   "text": "hundred and five and eight one-hundredths feet more or less to the"
+  },
+  {
+   "role": "body",
+   "text": "intersection of the south right-of-way line and the line between A. P."
+  },
+  {
+   "role": "body",
+   "text": "Numbered 1 and A. P. Numbered 2 south thirty-two; thence south"
+  },
+  {
+   "role": "body",
+   "text": "twenty degrees thirty minutes east a distance of one hundred and"
+  },
+  {
+   "role": "body",
+   "text": "thirty-six and twenty-seven one-hundredths feet more or less to A. P."
+  },
+  {
+   "role": "body",
+   "text": "Numbered 1 south thirty-two; thence south fifty-three degrees forty"
+  },
+  {
+   "role": "body",
+   "text": "minutes east a distance of seventy-five and twenty-two one-hundredths"
+  },
+  {
+   "role": "body",
+   "text": "feet more or less to a point three hundred and fifty feet at right angles"
+  },
+  {
+   "role": "body",
+   "text": "to the Chicago, Milwaukee, Saint Paul and Pacific Railroad; thence"
+  },
+  {
+   "role": "body",
+   "text": "south forty-seven degrees sixteen minutes west a distance of one"
+  },
+  {
+   "role": "body",
+   "text": "thousand and sixty-seven and seventy-nine one-hundredths feet;"
+  },
+  {
+   "role": "body",
+   "text": "thence south forty-two degrees forty-four minutes east a distance of"
+  },
+  {
+   "role": "body",
+   "text": "one thousand one hundred and twenty-four and six-tenths feet more"
+  },
+  {
+   "role": "body",
+   "text": "or less to a point on the north right-of-way of United States Highways"
+  },
+  {
+   "role": "body",
+   "text": "Numbered 10 and 12; thence along the arc of a circular curve (radius"
+  },
+  {
+   "role": "body",
+   "text": "one thousand nine hundred and seventy feet through an angle of ten"
+  },
+  {
+   "role": "body",
+   "text": "degrees fifty-one and five-tenths minutes) a distance of three hundred"
+  }
+ ],
+ "disagreement_count": 2,
+ "tokens": {
+  "input_tokens": 22197,
+  "output_tokens": 5067,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.23883,
+ "seconds": 330.2,
+ "created": "2026-09-08T11:43:58"
+}

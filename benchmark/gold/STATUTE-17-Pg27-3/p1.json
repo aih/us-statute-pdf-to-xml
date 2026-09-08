@@ -1,0 +1,1224 @@
+{
+ "granule_id": "STATUTE-17-Pg27-3",
+ "package_id": "STATUTE-17",
+ "volume": 17,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to change the Times for holding Circuit and District Courts of the United States for the western District of Virginia.",
+ "date_issued": "1872-02-01",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "27",
+ "image": "data/gold/STATUTE-17-Pg27-3/p1.png",
+ "image_sha256": "726a394f9933d7153ff939f87a54a94311c435ab3a9d3708067f958f7210f0f5",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FORTY–SECOND  CONGRESS.   SESS. II.   CH. 6, 7, 8, 10.  1872."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post-roads"
+    },
+    {
+     "role": "body",
+     "text": "From Norfolk, in Madison County, to Fort Laramie, in Wyoming."
+    },
+    {
+     "role": "sidenote",
+     "text": "established in"
+    },
+    {
+     "role": "body",
+     "text": "From Red Cloud to Denver, in Colorado."
+    },
+    {
+     "role": "body",
+     "text": "From Niobrara to Fort Laramie, in Wyoming."
+    },
+    {
+     "role": "sidenote",
+     "text": "Tennessee;"
+    },
+    {
+     "role": "body",
+     "text": "TENNESSEE."
+    },
+    {
+     "role": "body",
+     "text": "From Dover to Erin."
+    },
+    {
+     "role": "body",
+     "text": "From Dover to Murray, in Kentucky."
+    },
+    {
+     "role": "body",
+     "text": "From Johnson City to Marion, in North Carolina."
+    },
+    {
+     "role": "body",
+     "text": "From Dyersburg, via Roaller's, Pearces, and Fishers, to Trenton."
+    },
+    {
+     "role": "body",
+     "text": "From Trenton, via Eaton and Friendship, to Dyersburg."
+    },
+    {
+     "role": "body",
+     "text": "From Kenton, via Masons Hall, to Deavenport."
+    },
+    {
+     "role": "sidenote",
+     "text": "West Virginia;"
+    },
+    {
+     "role": "body",
+     "text": "WEST  VIRGINIA."
+    },
+    {
+     "role": "body",
+     "text": "From Buckannon to Bealington."
+    },
+    {
+     "role": "body",
+     "text": "From Valley Head, via Webster C. H., to Summerville."
+    },
+    {
+     "role": "sidenote",
+     "text": "Virginia;"
+    },
+    {
+     "role": "body",
+     "text": "VIRGINIA."
+    },
+    {
+     "role": "body",
+     "text": "From Gladeville to Grundy."
+    },
+    {
+     "role": "body",
+     "text": "From Elk Creek to Carsonville."
+    },
+    {
+     "role": "body",
+     "text": "From Pattonsville, via Cedar Point, to Sneydsville."
+    },
+    {
+     "role": "body",
+     "text": "From  King  George,  via  Shiloh,  Payne's  Store,  and  Leedstown,  to"
+    },
+    {
+     "role": "body",
+     "text": "Foneswood."
+    },
+    {
+     "role": "body",
+     "text": "From Heathsville to Burgess' Store."
+    },
+    {
+     "role": "sidenote",
+     "text": "Wisconsin."
+    },
+    {
+     "role": "body",
+     "text": "WISCONSIN."
+    },
+    {
+     "role": "body",
+     "text": "From New London to Weyauwega."
+    },
+    {
+     "role": "body",
+     "text": "From Pensaukee, via Brookside, to West Pensaukee."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 16, 1872."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 16, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. VII. — An Act to establish Post-roads."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the  United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post-roads"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the following be established"
+    },
+    {
+     "role": "sidenote",
+     "text": "established in"
+    },
+    {
+     "role": "body",
+     "text": "as post-roads: —"
+    },
+    {
+     "role": "sidenote",
+     "text": "Pennsylvania."
+    },
+    {
+     "role": "body",
+     "text": "PENNSYLVANIA."
+    },
+    {
+     "role": "body",
+     "text": "From Lebanon, via Fontana, Colebrook, Mastersonville, Old Line, and"
+    },
+    {
+     "role": "body",
+     "text": "Sporting Hill, to Manheim."
+    },
+    {
+     "role": "body",
+     "text": "From Annville, via Bellview and Water Works, to Jonestown."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 16, 1872."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 16, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. VIII. — An Act making an Appropriation to supply a Deficiency in the Appropri-"
+    },
+    {
+     "role": "body",
+     "text": "ation for Expenses of the joint select Committee on  alleged Outrages  in the  southern"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the  United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That there is hereby appropri-"
+    },
+    {
+     "role": "sidenote",
+     "text": "for expenses of"
+    },
+    {
+     "role": "body",
+     "text": "ated, out of any moneys in the treasury not otherwise appropriated, for"
+    },
+    {
+     "role": "sidenote",
+     "text": "joint select com-"
+    },
+    {
+     "role": "body",
+     "text": "the expenses of the joint select committee on alleged outrages in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "mittee on alleged"
+    },
+    {
+     "role": "body",
+     "text": "southern States, the sum of twenty-seven thousand eight hundred and"
+    },
+    {
+     "role": "sidenote",
+     "text": "outrages in the"
+    },
+    {
+     "role": "body",
+     "text": "fifty-five dollars, said sum to be carried for this purpose to the contingent"
+    },
+    {
+     "role": "sidenote",
+     "text": "southern States."
+    },
+    {
+     "role": "body",
+     "text": "fund of the Senate."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 16, 1872."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 1, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP.  X. — An Act to change the Times for holding Circuit and District Courts of the"
+    },
+    {
+     "role": "body",
+     "text": "United States for the western District of Virginia."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Times for hold-"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That instead of the times now"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing United States"
+    },
+    {
+     "role": "body",
+     "text": "fixed by law, the circuit and district courts of the United States for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts in western"
+    },
+    {
+     "role": "body",
+     "text": "western district of Virginia shall hereafter be held as follows: At Dan-"
+    },
+    {
+     "role": "sidenote",
+     "text": "district of Vir-"
+    },
+    {
+     "role": "body",
+     "text": "ville, on the Tuesday after the fourth Monday of February and August;"
+    },
+    {
+     "role": "sidenote",
+     "text": "ginia."
+    },
+    {
+     "role": "body",
+     "text": "at Lynchburg, on the Tuesday after the third Monday of March and"
+    },
+    {
+     "role": "page-number",
+     "text": "27"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2245,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08356,
+   "seconds": 24.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FORTY–SECOND  CONGRESS.   SESS. II.   CH. 6, 7, 8, 10.  1872."
+    },
+    {
+     "role": "page-number",
+     "text": "27"
+    },
+    {
+     "role": "body",
+     "text": "From Norfolk, in Madison County, to Fort Laramie, in Wyoming."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post-roads"
+    },
+    {
+     "role": "body",
+     "text": "From Red Cloud to Denver, in Colorado."
+    },
+    {
+     "role": "sidenote",
+     "text": "established in"
+    },
+    {
+     "role": "body",
+     "text": "From Niobrara to Fort Laramie, in Wyoming."
+    },
+    {
+     "role": "body",
+     "text": "TENNESSEE."
+    },
+    {
+     "role": "sidenote",
+     "text": "Tennessee;"
+    },
+    {
+     "role": "body",
+     "text": "From Dover to Erin."
+    },
+    {
+     "role": "body",
+     "text": "From Dover to Murray, in Kentucky."
+    },
+    {
+     "role": "body",
+     "text": "From Johnson City to Marion, in North Carolina."
+    },
+    {
+     "role": "body",
+     "text": "From Dyersburg, via Roaller's, Pearces, and Fishers, to Trenton."
+    },
+    {
+     "role": "body",
+     "text": "From Trenton, via Eaton and Friendship, to Dyersburg."
+    },
+    {
+     "role": "body",
+     "text": "From Kenton, via Masons Hall, to Deavenport."
+    },
+    {
+     "role": "body",
+     "text": "WEST  VIRGINIA."
+    },
+    {
+     "role": "sidenote",
+     "text": "West Virginia;"
+    },
+    {
+     "role": "body",
+     "text": "From Buckannon to Bealington."
+    },
+    {
+     "role": "body",
+     "text": "From Valley Head, via Webster C. H., to Summerville."
+    },
+    {
+     "role": "body",
+     "text": "VIRGINIA."
+    },
+    {
+     "role": "sidenote",
+     "text": "Virginia;"
+    },
+    {
+     "role": "body",
+     "text": "From Gladeville to Grundy."
+    },
+    {
+     "role": "body",
+     "text": "From Elk Creek to Carsonville."
+    },
+    {
+     "role": "body",
+     "text": "From Pattonsville, via Cedar Point, to Sneydsville."
+    },
+    {
+     "role": "body",
+     "text": "From  King  George,  via  Shiloh,  Payne's  Store,  and  Leedstown,  to"
+    },
+    {
+     "role": "body",
+     "text": "Foneswood."
+    },
+    {
+     "role": "body",
+     "text": "From Heathsville to Burgess' Store."
+    },
+    {
+     "role": "body",
+     "text": "WISCONSIN."
+    },
+    {
+     "role": "sidenote",
+     "text": "Wisconsin."
+    },
+    {
+     "role": "body",
+     "text": "From New London to Weyauwega."
+    },
+    {
+     "role": "body",
+     "text": "From Pensaukee, via Brookside, to West Pensaukee."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 16, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. VII. — An Act to establish Post-roads."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 16, 1872."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the  United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the following be established"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post-roads"
+    },
+    {
+     "role": "body",
+     "text": "as post-roads: —"
+    },
+    {
+     "role": "sidenote",
+     "text": "established in"
+    },
+    {
+     "role": "body",
+     "text": "PENNSYLVANIA."
+    },
+    {
+     "role": "sidenote",
+     "text": "Pennsylvania."
+    },
+    {
+     "role": "body",
+     "text": "From Lebanon, via Fontana, Colebrook, Mastersonville, Old Line, and"
+    },
+    {
+     "role": "body",
+     "text": "Sporting Hill, to Manheim."
+    },
+    {
+     "role": "body",
+     "text": "From Annville, via Bellview and Water Works, to Jonestown."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 16, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. VIII. — An Act making an Appropriation to supply a Deficiency in the Appropri-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 16, 1872."
+    },
+    {
+     "role": "body",
+     "text": "ation for Expenses of the joint select Committee on  alleged Outrages in the southern"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the  United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in  Congress assembled, That there is  hereby appropri-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation"
+    },
+    {
+     "role": "body",
+     "text": "ated, out of any moneys in the treasury not otherwise appropriated, for"
+    },
+    {
+     "role": "sidenote",
+     "text": "for expenses of"
+    },
+    {
+     "role": "body",
+     "text": "the expenses of the joint select committee on alleged outrages in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "joint select com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "mittee on alleged"
+    },
+    {
+     "role": "body",
+     "text": "southern States, the sum of twenty-seven thousand eight hundred and"
+    },
+    {
+     "role": "sidenote",
+     "text": "outrages in the"
+    },
+    {
+     "role": "body",
+     "text": "fifty-five dollars, said sum to be carried for this purpose to the contingent"
+    },
+    {
+     "role": "sidenote",
+     "text": "southern States."
+    },
+    {
+     "role": "body",
+     "text": "fund of the Senate."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 16, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP.  X. — An Act to change the Times for holding Circuit and District Courts of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 1, 1872."
+    },
+    {
+     "role": "body",
+     "text": "United States for the western District of Virginia."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in  Congress assembled, That instead of the times now"
+    },
+    {
+     "role": "sidenote",
+     "text": "Times for hold-"
+    },
+    {
+     "role": "body",
+     "text": "fixed by law, the circuit and district courts of the United States for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing United States"
+    },
+    {
+     "role": "body",
+     "text": "western district of Virginia shall hereafter be held as follows: At Dan-"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts in western"
+    },
+    {
+     "role": "sidenote",
+     "text": "district of Vir-"
+    },
+    {
+     "role": "body",
+     "text": "ville, on the Tuesday after the fourth Monday of February and August;"
+    },
+    {
+     "role": "sidenote",
+     "text": "ginia."
+    },
+    {
+     "role": "body",
+     "text": "at Lynchburg, on the Tuesday after the third Monday of March and"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2204,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08253,
+   "seconds": 24.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12810,
+   "output_tokens": 3321,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.14749,
+  "seconds": 37.1,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "27\nFrom Norfolk, in Madison County, to Fort Laramie, in Wyoming.",
+    "kept": "27\nFrom Norfolk, in Madison County, to Fort Laramie, in Wyoming.",
+    "reason": "Page number 27 sits at right of the running head, so it precedes the first body line."
+   },
+   {
+    "run": 2,
+    "a": "From Norfolk, in Madison County, to Fort Laramie, in Wyoming.",
+    "b": "From Red Cloud to Denver, in Colorado.",
+    "kept": "From Red Cloud to Denver, in Colorado.",
+    "reason": "Norfolk line already placed in run 1; next printed body line is Red Cloud, beside the sidenote."
+   },
+   {
+    "run": 3,
+    "a": "From Red Cloud to Denver, in Colorado.",
+    "b": "",
+    "kept": "",
+    "reason": "Red Cloud line already accounted for in run 2."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "TENNESSEE.",
+    "kept": "TENNESSEE.",
+    "reason": "Centered heading is printed on the line with the sidenote 'Tennessee;', body first."
+   },
+   {
+    "run": 5,
+    "a": "TENNESSEE.",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed in run 4."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "WEST  VIRGINIA.",
+    "kept": "WEST  VIRGINIA.",
+    "reason": "Heading precedes its adjacent sidenote."
+   },
+   {
+    "run": 7,
+    "a": "WEST  VIRGINIA.",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed in run 6."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "VIRGINIA.",
+    "kept": "VIRGINIA.",
+    "reason": "Heading precedes its adjacent sidenote."
+   },
+   {
+    "run": 9,
+    "a": "VIRGINIA.",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed in run 8."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "WISCONSIN.",
+    "kept": "WISCONSIN.",
+    "reason": "Heading precedes its adjacent sidenote."
+   },
+   {
+    "run": 11,
+    "a": "WISCONSIN.",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed in run 10."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "CHAP. VII. — An Act to establish Post-roads.",
+    "kept": "CHAP. VII. — An Act to establish Post-roads.",
+    "reason": "Chapter head line printed opposite the date sidenote."
+   },
+   {
+    "run": 13,
+    "a": "CHAP. VII. — An Act to establish Post-roads.",
+    "b": "",
+    "kept": "",
+    "reason": "Chapter head already placed in run 12."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "States of America in Congress assembled, That the following be established",
+    "kept": "States of America in Congress assembled, That the following be established",
+    "reason": "This body line is printed beside sidenote 'Post-roads'."
+   },
+   {
+    "run": 15,
+    "a": "States of America in Congress assembled, That the following be established",
+    "b": "as post-roads: —",
+    "kept": "as post-roads: —",
+    "reason": "Next body line, beside 'established in'."
+   },
+   {
+    "run": 16,
+    "a": "as post-roads: —",
+    "b": "PENNSYLVANIA.",
+    "kept": "PENNSYLVANIA.",
+    "reason": "Heading printed opposite the 'Pennsylvania.' sidenote."
+   },
+   {
+    "run": 17,
+    "a": "PENNSYLVANIA.",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed in run 16."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "CHAP. VIII. — An Act making an Appropriation to supply a Deficiency in the Appropri-",
+    "kept": "CHAP. VIII. — An Act making an Appropriation to supply a Deficiency in the Appropri-",
+    "reason": "Chapter head line printed opposite the date sidenote."
+   },
+   {
+    "run": 19,
+    "a": "CHAP. VIII. — An Act making an Appropriation to supply a Deficiency in the Appropri-",
+    "b": "",
+    "kept": "",
+    "reason": "Chapter head already placed in run 18."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "States of America in  Congress assembled, That there is  hereby appropri-",
+    "kept": "States of America in Congress assembled, That there is hereby appropri-",
+    "reason": "Body line beside sidenote 'Appropriation'; normal word spacing."
+   },
+   {
+    "run": 21,
+    "a": "States of America in Congress assembled, That there is hereby appropri-",
+    "b": "ated, out of any moneys in the treasury not otherwise appropriated, for",
+    "kept": "ated, out of any moneys in the treasury not otherwise appropriated, for",
+    "reason": "Next body line, beside 'for expenses of'."
+   },
+   {
+    "run": 22,
+    "a": "ated, out of any moneys in the treasury not otherwise appropriated, for",
+    "b": "the expenses of the joint select committee on alleged outrages in the",
+    "kept": "the expenses of the joint select committee on alleged outrages in the",
+    "reason": "Next body line, beside 'joint select com-'."
+   },
+   {
+    "run": 23,
+    "a": "the expenses of the joint select committee on alleged outrages in the",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 22; two sidenote lines follow consecutively."
+   },
+   {
+    "run": 24,
+    "a": "",
+    "b": "CHAP.  X. — An Act to change the Times for holding Circuit and District Courts of the",
+    "kept": "CHAP.  X. — An Act to change the Times for holding Circuit and District Courts of the",
+    "reason": "Chapter head line printed opposite the date sidenote."
+   },
+   {
+    "run": 25,
+    "a": "CHAP.  X. — An Act to change the Times for holding Circuit and District Courts of the",
+    "b": "",
+    "kept": "",
+    "reason": "Chapter head already placed in run 24."
+   },
+   {
+    "run": 26,
+    "a": "",
+    "b": "States of America in  Congress assembled, That instead of the times now",
+    "kept": "States of America in Congress assembled, That instead of the times now",
+    "reason": "Body line beside sidenote 'Times for hold-'; normal word spacing."
+   },
+   {
+    "run": 27,
+    "a": "States of America in Congress assembled, That instead of the times now",
+    "b": "fixed by law, the circuit and district courts of the United States for the",
+    "kept": "fixed by law, the circuit and district courts of the United States for the",
+    "reason": "Next body line, beside 'ing United States'."
+   },
+   {
+    "run": 28,
+    "a": "fixed by law, the circuit and district courts of the United States for the",
+    "b": "western district of Virginia shall hereafter be held as follows: At Dan-",
+    "kept": "western district of Virginia shall hereafter be held as follows: At Dan-",
+    "reason": "Next body line, beside 'courts in western'."
+   },
+   {
+    "run": 29,
+    "a": "western district of Virginia shall hereafter be held as follows: At Dan-",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 28."
+   },
+   {
+    "run": 30,
+    "a": "27",
+    "b": "",
+    "kept": "",
+    "reason": "Page number already placed after the running head."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "FORTY–SECOND  CONGRESS.   SESS. II.   CH. 6, 7, 8, 10.  1872."
+  },
+  {
+   "role": "page-number",
+   "text": "27"
+  },
+  {
+   "role": "body",
+   "text": "From Norfolk, in Madison County, to Fort Laramie, in Wyoming."
+  },
+  {
+   "role": "sidenote",
+   "text": "Post-roads"
+  },
+  {
+   "role": "body",
+   "text": "From Red Cloud to Denver, in Colorado."
+  },
+  {
+   "role": "sidenote",
+   "text": "established in"
+  },
+  {
+   "role": "body",
+   "text": "From Niobrara to Fort Laramie, in Wyoming."
+  },
+  {
+   "role": "body",
+   "text": "TENNESSEE."
+  },
+  {
+   "role": "sidenote",
+   "text": "Tennessee;"
+  },
+  {
+   "role": "body",
+   "text": "From Dover to Erin."
+  },
+  {
+   "role": "body",
+   "text": "From Dover to Murray, in Kentucky."
+  },
+  {
+   "role": "body",
+   "text": "From Johnson City to Marion, in North Carolina."
+  },
+  {
+   "role": "body",
+   "text": "From Dyersburg, via Roaller's, Pearces, and Fishers, to Trenton."
+  },
+  {
+   "role": "body",
+   "text": "From Trenton, via Eaton and Friendship, to Dyersburg."
+  },
+  {
+   "role": "body",
+   "text": "From Kenton, via Masons Hall, to Deavenport."
+  },
+  {
+   "role": "body",
+   "text": "WEST  VIRGINIA."
+  },
+  {
+   "role": "sidenote",
+   "text": "West Virginia;"
+  },
+  {
+   "role": "body",
+   "text": "From Buckannon to Bealington."
+  },
+  {
+   "role": "body",
+   "text": "From Valley Head, via Webster C. H., to Summerville."
+  },
+  {
+   "role": "body",
+   "text": "VIRGINIA."
+  },
+  {
+   "role": "sidenote",
+   "text": "Virginia;"
+  },
+  {
+   "role": "body",
+   "text": "From Gladeville to Grundy."
+  },
+  {
+   "role": "body",
+   "text": "From Elk Creek to Carsonville."
+  },
+  {
+   "role": "body",
+   "text": "From Pattonsville, via Cedar Point, to Sneydsville."
+  },
+  {
+   "role": "body",
+   "text": "From  King  George,  via  Shiloh,  Payne's  Store,  and  Leedstown,  to"
+  },
+  {
+   "role": "body",
+   "text": "Foneswood."
+  },
+  {
+   "role": "body",
+   "text": "From Heathsville to Burgess' Store."
+  },
+  {
+   "role": "body",
+   "text": "WISCONSIN."
+  },
+  {
+   "role": "sidenote",
+   "text": "Wisconsin."
+  },
+  {
+   "role": "body",
+   "text": "From New London to Weyauwega."
+  },
+  {
+   "role": "body",
+   "text": "From Pensaukee, via Brookside, to West Pensaukee."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, January 16, 1872."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. VII. — An Act to establish Post-roads."
+  },
+  {
+   "role": "sidenote",
+   "text": "Jan. 16, 1872."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the  United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the following be established"
+  },
+  {
+   "role": "sidenote",
+   "text": "Post-roads"
+  },
+  {
+   "role": "body",
+   "text": "as post-roads: —"
+  },
+  {
+   "role": "sidenote",
+   "text": "established in"
+  },
+  {
+   "role": "body",
+   "text": "PENNSYLVANIA."
+  },
+  {
+   "role": "sidenote",
+   "text": "Pennsylvania."
+  },
+  {
+   "role": "body",
+   "text": "From Lebanon, via Fontana, Colebrook, Mastersonville, Old Line, and"
+  },
+  {
+   "role": "body",
+   "text": "Sporting Hill, to Manheim."
+  },
+  {
+   "role": "body",
+   "text": "From Annville, via Bellview and Water Works, to Jonestown."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, January 16, 1872."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. VIII. — An Act making an Appropriation to supply a Deficiency in the Appropri-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Jan. 16, 1872."
+  },
+  {
+   "role": "body",
+   "text": "ation for Expenses of the joint select Committee on  alleged Outrages  in the  southern"
+  },
+  {
+   "role": "body",
+   "text": "States."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the  United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That there is hereby appropri-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation"
+  },
+  {
+   "role": "body",
+   "text": "ated, out of any moneys in the treasury not otherwise appropriated, for"
+  },
+  {
+   "role": "sidenote",
+   "text": "for expenses of"
+  },
+  {
+   "role": "body",
+   "text": "the expenses of the joint select committee on alleged outrages in the"
+  },
+  {
+   "role": "sidenote",
+   "text": "joint select com-"
+  },
+  {
+   "role": "sidenote",
+   "text": "mittee on alleged"
+  },
+  {
+   "role": "body",
+   "text": "southern States, the sum of twenty-seven thousand eight hundred and"
+  },
+  {
+   "role": "sidenote",
+   "text": "outrages in the"
+  },
+  {
+   "role": "body",
+   "text": "fifty-five dollars, said sum to be carried for this purpose to the contingent"
+  },
+  {
+   "role": "sidenote",
+   "text": "southern States."
+  },
+  {
+   "role": "body",
+   "text": "fund of the Senate."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, January 16, 1872."
+  },
+  {
+   "role": "body",
+   "text": "CHAP.  X. — An Act to change the Times for holding Circuit and District Courts of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 1, 1872."
+  },
+  {
+   "role": "body",
+   "text": "United States for the western District of Virginia."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That instead of the times now"
+  },
+  {
+   "role": "sidenote",
+   "text": "Times for hold-"
+  },
+  {
+   "role": "body",
+   "text": "fixed by law, the circuit and district courts of the United States for the"
+  },
+  {
+   "role": "sidenote",
+   "text": "ing United States"
+  },
+  {
+   "role": "body",
+   "text": "western district of Virginia shall hereafter be held as follows: At Dan-"
+  },
+  {
+   "role": "sidenote",
+   "text": "courts in western"
+  },
+  {
+   "role": "sidenote",
+   "text": "district of Vir-"
+  },
+  {
+   "role": "body",
+   "text": "ville, on the Tuesday after the fourth Monday of February and August;"
+  },
+  {
+   "role": "sidenote",
+   "text": "ginia."
+  },
+  {
+   "role": "body",
+   "text": "at Lynchburg, on the Tuesday after the third Monday of March and"
+  }
+ ],
+ "disagreement_count": 30,
+ "tokens": {
+  "input_tokens": 23633,
+  "output_tokens": 7770,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.31358,
+ "seconds": 86.6,
+ "created": "2026-09-08T12:35:29"
+}

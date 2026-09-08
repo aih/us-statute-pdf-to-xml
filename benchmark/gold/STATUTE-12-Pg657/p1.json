@@ -1,0 +1,1250 @@
+{
+ "granule_id": "STATUTE-12-Pg657",
+ "package_id": "STATUTE-12",
+ "volume": 12,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to change the Times of holding the Circuit and District Courts of the United States for the District of Indiana.",
+ "date_issued": "1863-02-20",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "657",
+ "image": "data/gold/STATUTE-12-Pg657/p1.png",
+ "image_sha256": "d00853e7ca369af104e4f2dd25c55f82f80f60478bc20c6cbf7cf21ab62a2fa1",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 46, 47, 49, 50.  1863.   657"
+    },
+    {
+     "role": "body",
+     "text": "proceeding, any person shall be sentenced, or shall have been sentenced"
+    },
+    {
+     "role": "body",
+     "text": "heretofore, to two kinds of punishment, the one pecuniary and the other"
+    },
+    {
+     "role": "body",
+     "text": "corporal, the President shall have full discretionary power to pardon or"
+    },
+    {
+     "role": "body",
+     "text": "remit, in whole or in part, either one of the two kinds, without in any"
+    },
+    {
+     "role": "body",
+     "text": "manner impairing the legal validity of the other kind, or of any portion"
+    },
+    {
+     "role": "body",
+     "text": "of either kind, not pardoned or remitted."
+    },
+    {
+     "role": "sidenote",
+     "text": "Fines and pen-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That in all criminal cases in which"
+    },
+    {
+     "role": "sidenote",
+     "text": "alties may be col-"
+    },
+    {
+     "role": "body",
+     "text": "there has been or shall be a judgment or sentence against any person, as"
+    },
+    {
+     "role": "sidenote",
+     "text": "lected on execu-"
+    },
+    {
+     "role": "body",
+     "text": "a fine or penalty, whether alone or along with any other kind of punish-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion."
+    },
+    {
+     "role": "body",
+     "text": "ment, the same shall be deemed a judgment debt, and (unless pardoned"
+    },
+    {
+     "role": "body",
+     "text": "or remitted by the President) may be collected on execution in the com-"
+    },
+    {
+     "role": "body",
+     "text": "mon form of law."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 20, 1863."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 20, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLVII. — An Act to change the Times of holding the Circuit and District Courts"
+    },
+    {
+     "role": "body",
+     "text": "of the United States for the District of Indiana."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Terms of cir-"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That, instead of the times now"
+    },
+    {
+     "role": "sidenote",
+     "text": "cuit and district"
+    },
+    {
+     "role": "body",
+     "text": "fixed by law, the circuit and district courts of the United States for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts in Indiana"
+    },
+    {
+     "role": "body",
+     "text": "district of Indiana shall be held on the first Tuesdays of May and No-"
+    },
+    {
+     "role": "body",
+     "text": "vember.  And all recognizances, indictments, or other proceedings, civil"
+    },
+    {
+     "role": "body",
+     "text": "and criminal, now pending in either of said courts, shall be entered and"
+    },
+    {
+     "role": "body",
+     "text": "have day in court, and be heard and tried, according to the times of hold-"
+    },
+    {
+     "role": "body",
+     "text": "ing such courts as herein provided."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 20, 1863."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 21, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLIX. — An Act to change the Times of holding the Circuit and District Courts"
+    },
+    {
+     "role": "body",
+     "text": "of the United States in the several Districts in the Seventh Circuit."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Terms of circuit"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That, instead of the times now"
+    },
+    {
+     "role": "sidenote",
+     "text": "and district courts"
+    },
+    {
+     "role": "body",
+     "text": "fixed by law, the circuit and district courts of the United States for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "in Ohio."
+    },
+    {
+     "role": "body",
+     "text": "several districts in the States composing the seventh judicial circuit shall"
+    },
+    {
+     "role": "body",
+     "text": "hereafter be held as follows : —"
+    },
+    {
+     "role": "body",
+     "text": "Ohio. — At Cleveland, for the northern district of Ohio, on the first"
+    },
+    {
+     "role": "body",
+     "text": "Tuesdays in the months of January, May, and September in each year."
+    },
+    {
+     "role": "body",
+     "text": "At Cincinnati, for the southern district of Ohio, on the first Tuesdays in"
+    },
+    {
+     "role": "body",
+     "text": "the months of February, April, and October in each year."
+    },
+    {
+     "role": "sidenote",
+     "text": "Michigan."
+    },
+    {
+     "role": "body",
+     "text": "Michigan. — At Detroit, for the district of Michigan, on the first Tues-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provision for"
+    },
+    {
+     "role": "body",
+     "text": "days in June, November, and March in each year.  And all recognizances,"
+    },
+    {
+     "role": "sidenote",
+     "text": "pending process."
+    },
+    {
+     "role": "body",
+     "text": "indictments, or other proceedings, civil and criminal, now pending in either"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 661."
+    },
+    {
+     "role": "body",
+     "text": "of said courts, shall be entered and have day in court, and be heard and"
+    },
+    {
+     "role": "body",
+     "text": "tried, according to the times of holding said courts as herein provided."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 21, 1863."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 21, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. L. —An Act to allow the United States to prosecute Appeals and Writs of Error"
+    },
+    {
+     "role": "body",
+     "text": "without giving Security."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "The United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That whenever any writ of"
+    },
+    {
+     "role": "sidenote",
+     "text": "States may prose-"
+    },
+    {
+     "role": "body",
+     "text": "error, appeal, or other process in law, admiralty, or equity shall issue"
+    },
+    {
+     "role": "sidenote",
+     "text": "cute appeals, &c.,"
+    },
+    {
+     "role": "body",
+     "text": "from or be brought up to the Supreme Court of the United States, either"
+    },
+    {
+     "role": "sidenote",
+     "text": "without security"
+    },
+    {
+     "role": "body",
+     "text": "by the United States or by direction of any Department of the Govern-"
+    },
+    {
+     "role": "sidenote",
+     "text": "for costs."
+    },
+    {
+     "role": "body",
+     "text": "ment thereof, no bond, obligation, or security shall be required from the"
+    },
+    {
+     "role": "body",
+     "text": "United States, or from any party acting under the direction aforesaid, by"
+    },
+    {
+     "role": "body",
+     "text": "any judge or clerk of court, either to prosecute said suit or to answer in"
+    },
+    {
+     "role": "body",
+     "text": "damages or costs.  In case of an adverse decision, such costs as by law"
+    },
+    {
+     "role": "sidenote",
+     "text": "Costs, how paid."
+    },
+    {
+     "role": "body",
+     "text": "are taxable against the United States shall be paid out of the contingent"
+    },
+    {
+     "role": "body",
+     "text": "VOL. XII.  PUB. — 83"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2357,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0858,
+   "seconds": 26.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 46, 47, 49, 50.  1863.   657"
+    },
+    {
+     "role": "body",
+     "text": "proceeding, any person shall be sentenced, or shall have been sentenced"
+    },
+    {
+     "role": "body",
+     "text": "heretofore, to two kinds of punishment, the one pecuniary and the other"
+    },
+    {
+     "role": "body",
+     "text": "corporal, the President shall have full discretionary power to pardon or"
+    },
+    {
+     "role": "body",
+     "text": "remit, in whole or in part, either one of the two kinds, without in any"
+    },
+    {
+     "role": "body",
+     "text": "manner impairing the legal validity of the other kind, or of any portion"
+    },
+    {
+     "role": "body",
+     "text": "of either kind, not pardoned or remitted."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That in all criminal cases in which"
+    },
+    {
+     "role": "sidenote",
+     "text": "Fines and pen-"
+    },
+    {
+     "role": "body",
+     "text": "there has been or shall be a judgment or sentence against any person, as"
+    },
+    {
+     "role": "sidenote",
+     "text": "alties may be col-"
+    },
+    {
+     "role": "body",
+     "text": "a fine or penalty, whether alone or along with any other kind of punish-"
+    },
+    {
+     "role": "sidenote",
+     "text": "lected on execu-"
+    },
+    {
+     "role": "body",
+     "text": "ment, the same shall be deemed a judgment debt, and (unless pardoned"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion."
+    },
+    {
+     "role": "body",
+     "text": "or remitted by the President) may be collected on execution in the com-"
+    },
+    {
+     "role": "body",
+     "text": "mon form of law."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 20, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLVII. — An Act to change the Times of holding the Circuit and District Courts"
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 20, 1863."
+    },
+    {
+     "role": "body",
+     "text": "of the United States for the District of Indiana."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That, instead of the times now"
+    },
+    {
+     "role": "sidenote",
+     "text": "Terms of cir-"
+    },
+    {
+     "role": "body",
+     "text": "fixed by law, the circuit and district courts of the United States for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "cuit and district"
+    },
+    {
+     "role": "body",
+     "text": "district of Indiana shall be held on the first Tuesdays of May and No-"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts in Indiana"
+    },
+    {
+     "role": "body",
+     "text": "vember.   And all recognizances, indictments, or other proceedings, civil"
+    },
+    {
+     "role": "body",
+     "text": "and criminal, now pending in either of said courts, shall be entered and"
+    },
+    {
+     "role": "body",
+     "text": "have day in court, and be heard and tried, according to the times of hold-"
+    },
+    {
+     "role": "body",
+     "text": "ing such courts as herein provided."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 20, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLIX. — An Act to change the Times of holding the Circuit and District Courts"
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 21, 1863."
+    },
+    {
+     "role": "body",
+     "text": "of the United States in the several Districts in the Seventh Circuit."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That, instead of the times now"
+    },
+    {
+     "role": "sidenote",
+     "text": "Terms of circuit"
+    },
+    {
+     "role": "body",
+     "text": "fixed by law, the circuit and district courts of the United States for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "and district courts"
+    },
+    {
+     "role": "body",
+     "text": "several districts in the States composing the seventh judicial circuit shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "in Ohio."
+    },
+    {
+     "role": "body",
+     "text": "hereafter be held as follows : —"
+    },
+    {
+     "role": "body",
+     "text": "Ohio. — At Cleveland, for the northern district of Ohio, on the first"
+    },
+    {
+     "role": "body",
+     "text": "Tuesdays in the months of January, May, and September in each year."
+    },
+    {
+     "role": "body",
+     "text": "At Cincinnati, for the southern district of Ohio, on the first Tuesdays in"
+    },
+    {
+     "role": "body",
+     "text": "the months of February, April, and October in each year."
+    },
+    {
+     "role": "body",
+     "text": "Michigan. — At Detroit, for the district of Michigan, on the first Tues-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Michigan."
+    },
+    {
+     "role": "body",
+     "text": "days in June, November, and March in each year.  And all recognizances,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provision for"
+    },
+    {
+     "role": "body",
+     "text": "indictments, or other proceedings, civil and criminal, now pending in either"
+    },
+    {
+     "role": "sidenote",
+     "text": "pending process."
+    },
+    {
+     "role": "body",
+     "text": "of said courts, shall be entered and have day in court, and be heard and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 661."
+    },
+    {
+     "role": "body",
+     "text": "tried, according to the times of holding said courts as herein provided."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 21, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. L. —An Act to allow the United States to prosecute Appeals and Writs of Error"
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 21, 1863."
+    },
+    {
+     "role": "body",
+     "text": "without giving Security."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That whenever any writ of"
+    },
+    {
+     "role": "sidenote",
+     "text": "The United"
+    },
+    {
+     "role": "body",
+     "text": "error, appeal, or other process in law, admiralty, or equity shall issue"
+    },
+    {
+     "role": "sidenote",
+     "text": "States may prose-"
+    },
+    {
+     "role": "body",
+     "text": "from or be brought up to the Supreme Court of the United States, either"
+    },
+    {
+     "role": "sidenote",
+     "text": "cute appeals, &c.,"
+    },
+    {
+     "role": "body",
+     "text": "by the United States or by direction of any Department of the Govern-"
+    },
+    {
+     "role": "sidenote",
+     "text": "without security"
+    },
+    {
+     "role": "body",
+     "text": "ment thereof, no bond, obligation, or security shall be required from the"
+    },
+    {
+     "role": "sidenote",
+     "text": "for costs."
+    },
+    {
+     "role": "body",
+     "text": "United States, or from any party acting under the direction aforesaid, by"
+    },
+    {
+     "role": "body",
+     "text": "any judge or clerk of court, either to prosecute said suit or to answer in"
+    },
+    {
+     "role": "body",
+     "text": "damages or costs.   In case of an adverse decision, such costs as by law"
+    },
+    {
+     "role": "body",
+     "text": "are taxable against the United States shall be paid out of the contingent"
+    },
+    {
+     "role": "sidenote",
+     "text": "Costs, how paid."
+    },
+    {
+     "role": "body",
+     "text": "VOL. XII.   PUB. — 83"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2288,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08407,
+   "seconds": 26.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13424,
+   "output_tokens": 2847,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.13871,
+  "seconds": 32.3,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "SEC. 2. And be it further enacted, That in all criminal cases in which",
+    "kept": "SEC. 2. And be it further enacted, That in all criminal cases in which",
+    "reason": "Sidenote 'Fines and pen-' sits opposite this body line, so the body line comes first."
+   },
+   {
+    "run": 2,
+    "a": "SEC. 2. And be it further enacted, That in all criminal cases in which",
+    "b": "there has been or shall be a judgment or sentence against any person, as",
+    "kept": "there has been or shall be a judgment or sentence against any person, as",
+    "reason": "Next body line follows the aligned sidenote."
+   },
+   {
+    "run": 3,
+    "a": "there has been or shall be a judgment or sentence against any person, as",
+    "b": "a fine or penalty, whether alone or along with any other kind of punish-",
+    "kept": "a fine or penalty, whether alone or along with any other kind of punish-",
+    "reason": "Body line follows its aligned sidenote line."
+   },
+   {
+    "run": 4,
+    "a": "a fine or penalty, whether alone or along with any other kind of punish-",
+    "b": "ment, the same shall be deemed a judgment debt, and (unless pardoned",
+    "kept": "ment, the same shall be deemed a judgment debt, and (unless pardoned",
+    "reason": "Body line aligned with sidenote 'tion.' follows."
+   },
+   {
+    "run": 5,
+    "a": "ment, the same shall be deemed a judgment debt, and (unless pardoned",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in the preceding run; nothing additional printed here."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "CHAP. XLVII. — An Act to change the Times of holding the Circuit and District Courts",
+    "kept": "CHAP. XLVII. — An Act to change the Times of holding the Circuit and District Courts",
+    "reason": "Chapter heading line is level with the 'Feb. 20, 1863.' sidenote, so it precedes it."
+   },
+   {
+    "run": 7,
+    "a": "CHAP. XLVII. — An Act to change the Times of holding the Circuit and District Courts",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed above."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "States of America in Congress assembled, That, instead of the times now",
+    "kept": "States of America in Congress assembled, That, instead of the times now",
+    "reason": "This body line is level with sidenote 'Terms of cir-', so it comes first."
+   },
+   {
+    "run": 9,
+    "a": "States of America in Congress assembled, That, instead of the times now",
+    "b": "fixed by law, the circuit and district courts of the United States for the",
+    "kept": "fixed by law, the circuit and district courts of the United States for the",
+    "reason": "Body line aligned with 'cuit and district'."
+   },
+   {
+    "run": 10,
+    "a": "fixed by law, the circuit and district courts of the United States for the",
+    "b": "district of Indiana shall be held on the first Tuesdays of May and No-",
+    "kept": "district of Indiana shall be held on the first Tuesdays of May and No-",
+    "reason": "Body line aligned with 'courts in Indiana'."
+   },
+   {
+    "run": 11,
+    "a": "district of Indiana shall be held on the first Tuesdays of May and No-",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "CHAP. XLIX. — An Act to change the Times of holding the Circuit and District Courts",
+    "kept": "CHAP. XLIX. — An Act to change the Times of holding the Circuit and District Courts",
+    "reason": "Heading line is level with the date sidenote."
+   },
+   {
+    "run": 13,
+    "a": "CHAP. XLIX. — An Act to change the Times of holding the Circuit and District Courts",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed above."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "States of America in Congress assembled, That, instead of the times now",
+    "kept": "States of America in Congress assembled, That, instead of the times now",
+    "reason": "Body line level with 'Terms of circuit'."
+   },
+   {
+    "run": 15,
+    "a": "States of America in Congress assembled, That, instead of the times now",
+    "b": "fixed by law, the circuit and district courts of the United States for the",
+    "kept": "fixed by law, the circuit and district courts of the United States for the",
+    "reason": "Body line level with 'and district courts'."
+   },
+   {
+    "run": 16,
+    "a": "fixed by law, the circuit and district courts of the United States for the",
+    "b": "several districts in the States composing the seventh judicial circuit shall",
+    "kept": "several districts in the States composing the seventh judicial circuit shall",
+    "reason": "Body line level with 'in Ohio.'"
+   },
+   {
+    "run": 17,
+    "a": "several districts in the States composing the seventh judicial circuit shall",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "Michigan. — At Detroit, for the district of Michigan, on the first Tues-",
+    "kept": "Michigan. — At Detroit, for the district of Michigan, on the first Tues-",
+    "reason": "Body line level with sidenote 'Michigan.'"
+   },
+   {
+    "run": 19,
+    "a": "Michigan. — At Detroit, for the district of Michigan, on the first Tues-",
+    "b": "days in June, November, and March in each year.  And all recognizances,",
+    "kept": "days in June, November, and March in each year.  And all recognizances,",
+    "reason": "Body line level with 'Provision for'."
+   },
+   {
+    "run": 20,
+    "a": "days in June, November, and March in each year.  And all recognizances,",
+    "b": "indictments, or other proceedings, civil and criminal, now pending in either",
+    "kept": "indictments, or other proceedings, civil and criminal, now pending in either",
+    "reason": "Body line level with 'pending process.'"
+   },
+   {
+    "run": 21,
+    "a": "indictments, or other proceedings, civil and criminal, now pending in either",
+    "b": "of said courts, shall be entered and have day in court, and be heard and",
+    "kept": "of said courts, shall be entered and have day in court, and be heard and",
+    "reason": "Body line level with 'Post, p. 661.'"
+   },
+   {
+    "run": 22,
+    "a": "of said courts, shall be entered and have day in court, and be heard and",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 23,
+    "a": "",
+    "b": "CHAP. L. —An Act to allow the United States to prosecute Appeals and Writs of Error",
+    "kept": "CHAP. L. —An Act to allow the United States to prosecute Appeals and Writs of Error",
+    "reason": "Heading line is level with the date sidenote."
+   },
+   {
+    "run": 24,
+    "a": "CHAP. L. —An Act to allow the United States to prosecute Appeals and Writs of Error",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed above."
+   },
+   {
+    "run": 25,
+    "a": "",
+    "b": "States of America in Congress assembled, That whenever any writ of",
+    "kept": "States of America in Congress assembled, That whenever any writ of",
+    "reason": "Body line level with 'The United'."
+   },
+   {
+    "run": 26,
+    "a": "States of America in Congress assembled, That whenever any writ of",
+    "b": "error, appeal, or other process in law, admiralty, or equity shall issue",
+    "kept": "error, appeal, or other process in law, admiralty, or equity shall issue",
+    "reason": "Body line level with 'States may prose-'."
+   },
+   {
+    "run": 27,
+    "a": "error, appeal, or other process in law, admiralty, or equity shall issue",
+    "b": "from or be brought up to the Supreme Court of the United States, either",
+    "kept": "from or be brought up to the Supreme Court of the United States, either",
+    "reason": "Body line level with 'without security'."
+   },
+   {
+    "run": 28,
+    "a": "from or be brought up to the Supreme Court of the United States, either",
+    "b": "by the United States or by direction of any Department of the Govern-",
+    "kept": "by the United States or by direction of any Department of the Govern-",
+    "reason": "Body line level with 'for costs.'"
+   },
+   {
+    "run": 29,
+    "a": "by the United States or by direction of any Department of the Govern-",
+    "b": "ment thereof, no bond, obligation, or security shall be required from the",
+    "kept": "ment thereof, no bond, obligation, or security shall be required from the",
+    "reason": "Next body line follows the sidenote block."
+   },
+   {
+    "run": 30,
+    "a": "ment thereof, no bond, obligation, or security shall be required from the",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 31,
+    "a": "",
+    "b": "are taxable against the United States shall be paid out of the contingent",
+    "kept": "are taxable against the United States shall be paid out of the contingent",
+    "reason": "Body line is level with 'Costs, how paid.' and precedes it."
+   },
+   {
+    "run": 32,
+    "a": "are taxable against the United States shall be paid out of the contingent",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 46, 47, 49, 50.  1863.   657"
+  },
+  {
+   "role": "body",
+   "text": "proceeding, any person shall be sentenced, or shall have been sentenced"
+  },
+  {
+   "role": "body",
+   "text": "heretofore, to two kinds of punishment, the one pecuniary and the other"
+  },
+  {
+   "role": "body",
+   "text": "corporal, the President shall have full discretionary power to pardon or"
+  },
+  {
+   "role": "body",
+   "text": "remit, in whole or in part, either one of the two kinds, without in any"
+  },
+  {
+   "role": "body",
+   "text": "manner impairing the legal validity of the other kind, or of any portion"
+  },
+  {
+   "role": "body",
+   "text": "of either kind, not pardoned or remitted."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That in all criminal cases in which"
+  },
+  {
+   "role": "sidenote",
+   "text": "Fines and pen-"
+  },
+  {
+   "role": "body",
+   "text": "there has been or shall be a judgment or sentence against any person, as"
+  },
+  {
+   "role": "sidenote",
+   "text": "alties may be col-"
+  },
+  {
+   "role": "body",
+   "text": "a fine or penalty, whether alone or along with any other kind of punish-"
+  },
+  {
+   "role": "sidenote",
+   "text": "lected on execu-"
+  },
+  {
+   "role": "body",
+   "text": "ment, the same shall be deemed a judgment debt, and (unless pardoned"
+  },
+  {
+   "role": "sidenote",
+   "text": "tion."
+  },
+  {
+   "role": "body",
+   "text": "or remitted by the President) may be collected on execution in the com-"
+  },
+  {
+   "role": "body",
+   "text": "mon form of law."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 20, 1863."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XLVII. — An Act to change the Times of holding the Circuit and District Courts"
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 20, 1863."
+  },
+  {
+   "role": "body",
+   "text": "of the United States for the District of Indiana."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That, instead of the times now"
+  },
+  {
+   "role": "sidenote",
+   "text": "Terms of cir-"
+  },
+  {
+   "role": "body",
+   "text": "fixed by law, the circuit and district courts of the United States for the"
+  },
+  {
+   "role": "sidenote",
+   "text": "cuit and district"
+  },
+  {
+   "role": "body",
+   "text": "district of Indiana shall be held on the first Tuesdays of May and No-"
+  },
+  {
+   "role": "sidenote",
+   "text": "courts in Indiana"
+  },
+  {
+   "role": "body",
+   "text": "vember.  And all recognizances, indictments, or other proceedings, civil"
+  },
+  {
+   "role": "body",
+   "text": "and criminal, now pending in either of said courts, shall be entered and"
+  },
+  {
+   "role": "body",
+   "text": "have day in court, and be heard and tried, according to the times of hold-"
+  },
+  {
+   "role": "body",
+   "text": "ing such courts as herein provided."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 20, 1863."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XLIX. — An Act to change the Times of holding the Circuit and District Courts"
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 21, 1863."
+  },
+  {
+   "role": "body",
+   "text": "of the United States in the several Districts in the Seventh Circuit."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That, instead of the times now"
+  },
+  {
+   "role": "sidenote",
+   "text": "Terms of circuit"
+  },
+  {
+   "role": "body",
+   "text": "fixed by law, the circuit and district courts of the United States for the"
+  },
+  {
+   "role": "sidenote",
+   "text": "and district courts"
+  },
+  {
+   "role": "body",
+   "text": "several districts in the States composing the seventh judicial circuit shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "in Ohio."
+  },
+  {
+   "role": "body",
+   "text": "hereafter be held as follows : —"
+  },
+  {
+   "role": "body",
+   "text": "Ohio. — At Cleveland, for the northern district of Ohio, on the first"
+  },
+  {
+   "role": "body",
+   "text": "Tuesdays in the months of January, May, and September in each year."
+  },
+  {
+   "role": "body",
+   "text": "At Cincinnati, for the southern district of Ohio, on the first Tuesdays in"
+  },
+  {
+   "role": "body",
+   "text": "the months of February, April, and October in each year."
+  },
+  {
+   "role": "body",
+   "text": "Michigan. — At Detroit, for the district of Michigan, on the first Tues-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Michigan."
+  },
+  {
+   "role": "body",
+   "text": "days in June, November, and March in each year.  And all recognizances,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Provision for"
+  },
+  {
+   "role": "body",
+   "text": "indictments, or other proceedings, civil and criminal, now pending in either"
+  },
+  {
+   "role": "sidenote",
+   "text": "pending process."
+  },
+  {
+   "role": "body",
+   "text": "of said courts, shall be entered and have day in court, and be heard and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, p. 661."
+  },
+  {
+   "role": "body",
+   "text": "tried, according to the times of holding said courts as herein provided."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 21, 1863."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. L. —An Act to allow the United States to prosecute Appeals and Writs of Error"
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 21, 1863."
+  },
+  {
+   "role": "body",
+   "text": "without giving Security."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That whenever any writ of"
+  },
+  {
+   "role": "sidenote",
+   "text": "The United"
+  },
+  {
+   "role": "body",
+   "text": "error, appeal, or other process in law, admiralty, or equity shall issue"
+  },
+  {
+   "role": "sidenote",
+   "text": "States may prose-"
+  },
+  {
+   "role": "body",
+   "text": "from or be brought up to the Supreme Court of the United States, either"
+  },
+  {
+   "role": "sidenote",
+   "text": "cute appeals, &c.,"
+  },
+  {
+   "role": "body",
+   "text": "by the United States or by direction of any Department of the Govern-"
+  },
+  {
+   "role": "sidenote",
+   "text": "without security"
+  },
+  {
+   "role": "body",
+   "text": "ment thereof, no bond, obligation, or security shall be required from the"
+  },
+  {
+   "role": "sidenote",
+   "text": "for costs."
+  },
+  {
+   "role": "body",
+   "text": "United States, or from any party acting under the direction aforesaid, by"
+  },
+  {
+   "role": "body",
+   "text": "any judge or clerk of court, either to prosecute said suit or to answer in"
+  },
+  {
+   "role": "body",
+   "text": "damages or costs.  In case of an adverse decision, such costs as by law"
+  },
+  {
+   "role": "body",
+   "text": "are taxable against the United States shall be paid out of the contingent"
+  },
+  {
+   "role": "sidenote",
+   "text": "Costs, how paid."
+  },
+  {
+   "role": "body",
+   "text": "VOL. XII.  PUB. — 83"
+  }
+ ],
+ "disagreement_count": 32,
+ "tokens": {
+  "input_tokens": 24023,
+  "output_tokens": 7492,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.30858,
+ "seconds": 85.9,
+ "created": "2026-09-08T12:30:08"
+}

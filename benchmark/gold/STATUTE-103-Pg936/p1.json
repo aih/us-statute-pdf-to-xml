@@ -1,0 +1,717 @@
+{
+ "granule_id": "STATUTE-103-Pg936",
+ "package_id": "STATUTE-103",
+ "volume": 103,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "An act to revise and clarify the authority of the Administrator of General Services relating to the acquisition and management of certain property in the city of New York",
+ "date_issued": "1989-11-16",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "936",
+ "image": "data/gold/STATUTE-103-Pg936/p1.png",
+ "image_sha256": "438495f7055f92274bf82d98171dbdbf598034c45326ec8b1b23fc428c5fb0a4",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "103 STAT. 936                PUBLIC LAW 101-156—NOV. 16, 1989"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 101-156"
+    },
+    {
+     "role": "body",
+     "text": "101st Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Nov. 16, 1989"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1827]"
+    },
+    {
+     "role": "body",
+     "text": "To revise and clarify the authority of the Administrator of General Services relating"
+    },
+    {
+     "role": "body",
+     "text": "to the acquisition and management of certain property in the city of New York."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. FINDINGS."
+    },
+    {
+     "role": "body",
+     "text": "The Congress finds that—"
+    },
+    {
+     "role": "body",
+     "text": "(1) there is a dire and immediate need for increased space for"
+    },
+    {
+     "role": "body",
+     "text": "the criminal justice system and for Federal agencies to operate"
+    },
+    {
+     "role": "body",
+     "text": "in the City of New York;"
+    },
+    {
+     "role": "body",
+     "text": "(2) the action of condemnation of certain lands would speed"
+    },
+    {
+     "role": "body",
+     "text": "the process of providing additional space for such needs;"
+    },
+    {
+     "role": "body",
+     "text": "(3) condemnation procedures authorized in this Act are re-"
+    },
+    {
+     "role": "body",
+     "text": "quired to address a specific dire and immediate need, and"
+    },
+    {
+     "role": "body",
+     "text": "should not be precedents for action by the Congress or other"
+    },
+    {
+     "role": "body",
+     "text": "Federal agencies;"
+    },
+    {
+     "role": "body",
+     "text": "(4) community input is essential to the successful completion"
+    },
+    {
+     "role": "body",
+     "text": "of construction projects such as those authorized in the"
+    },
+    {
+     "role": "body",
+     "text": "Independent Agencies Appropriations Act, 1988;"
+    },
+    {
+     "role": "body",
+     "text": "(5) before and during construction of buildings referred to in"
+    },
+    {
+     "role": "body",
+     "text": "the first sentence of section 8(a) of the Independent Agencies"
+    },
+    {
+     "role": "body",
+     "text": "Appropriations Act, 1988, the Administrator of General Serv-"
+    },
+    {
+     "role": "body",
+     "text": "ices should consult on an ongoing basis with the community"
+    },
+    {
+     "role": "body",
+     "text": "board for such building to solicit its input;"
+    },
+    {
+     "role": "body",
+     "text": "(6) environmental reviews are essential to the successful"
+    },
+    {
+     "role": "body",
+     "text": "completion of construction projects such as those authorized in"
+    },
+    {
+     "role": "body",
+     "text": "the Independent Agencies Appropriations Act, 1988; and"
+    },
+    {
+     "role": "body",
+     "text": "(7) in the construction of buildings referred to in the first"
+    },
+    {
+     "role": "body",
+     "text": "sentence of section 8(a) of the Independent Agencies Appropria-"
+    },
+    {
+     "role": "body",
+     "text": "tions Act, 1988, all federally mandated environmental reviews,"
+    },
+    {
+     "role": "body",
+     "text": "as required by environmental laws, should be conducted and"
+    },
+    {
+     "role": "body",
+     "text": "closely monitored."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. CONDEMNATION AND LEASE AUTHORITY."
+    },
+    {
+     "role": "body",
+     "text": "The Independent Agencies Appropriations Act, 1988 (as contained"
+    },
+    {
+     "role": "body",
+     "text": "in title IV of Public Law 100-202; 101 Stat. 1329-401), is amended in"
+    },
+    {
+     "role": "body",
+     "text": "section 8 of the matter under the heading GENERAL SERVICES"
+    },
+    {
+     "role": "body",
+     "text": "ADMINISTRATION—GENERAL PROVISIONS—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by inserting \"(a)\" after \"SEC. 8.\"; and"
+    },
+    {
+     "role": "body",
+     "text": "(2) by adding at the end of such section the following new"
+    },
+    {
+     "role": "body",
+     "text": "subsections:"
+    },
+    {
+     "role": "body",
+     "text": "\"(b) The lease entered into between the Administrator of General"
+    },
+    {
+     "role": "body",
+     "text": "Services and the city of New York (hereinafter in this subsection"
+    },
+    {
+     "role": "body",
+     "text": "and subsection (c) referred to as the 'City') pursuant to the fifth"
+    },
+    {
+     "role": "body",
+     "text": "sentence of subsection (a) shall provide for an initial lease period of"
+    },
+    {
+     "role": "body",
+     "text": "30 years and shall provide options for the City to renew the lease for"
+    },
+    {
+     "role": "body",
+     "text": "up to three successive lease periods of 30 years each."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 1482,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.06392,
+   "seconds": 18.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "103 STAT. 936"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 101-156—NOV. 16, 1989"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 101-156"
+    },
+    {
+     "role": "body",
+     "text": "101st Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Nov. 16, 1989"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1827]"
+    },
+    {
+     "role": "body",
+     "text": "To revise and clarify the authority of the Administrator of General Services relating"
+    },
+    {
+     "role": "body",
+     "text": "to the acquisition and management of certain property in the city of New York."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. FINDINGS."
+    },
+    {
+     "role": "body",
+     "text": "The Congress finds that—"
+    },
+    {
+     "role": "body",
+     "text": "(1) there is a dire and immediate need for increased space for"
+    },
+    {
+     "role": "body",
+     "text": "the criminal justice system and for Federal agencies to operate"
+    },
+    {
+     "role": "body",
+     "text": "in the City of New York;"
+    },
+    {
+     "role": "body",
+     "text": "(2) the action of condemnation of certain lands would speed"
+    },
+    {
+     "role": "body",
+     "text": "the process of providing additional space for such needs;"
+    },
+    {
+     "role": "body",
+     "text": "(3) condemnation procedures authorized in this Act are re-"
+    },
+    {
+     "role": "body",
+     "text": "quired to address a specific dire and immediate need, and"
+    },
+    {
+     "role": "body",
+     "text": "should not be precedents for action by the Congress or other"
+    },
+    {
+     "role": "body",
+     "text": "Federal agencies;"
+    },
+    {
+     "role": "body",
+     "text": "(4) community input is essential to the successful completion"
+    },
+    {
+     "role": "body",
+     "text": "of construction projects such as those authorized in the"
+    },
+    {
+     "role": "body",
+     "text": "Independent Agencies Appropriations Act, 1988;"
+    },
+    {
+     "role": "body",
+     "text": "(5) before and during construction of buildings referred to in"
+    },
+    {
+     "role": "body",
+     "text": "the first sentence of section 8(a) of the Independent Agencies"
+    },
+    {
+     "role": "body",
+     "text": "Appropriations Act, 1988, the Administrator of General Serv-"
+    },
+    {
+     "role": "body",
+     "text": "ices should consult on an ongoing basis with the community"
+    },
+    {
+     "role": "body",
+     "text": "board for such building to solicit its input;"
+    },
+    {
+     "role": "body",
+     "text": "(6) environmental reviews are essential to the successful"
+    },
+    {
+     "role": "body",
+     "text": "completion of construction projects such as those authorized in"
+    },
+    {
+     "role": "body",
+     "text": "the Independent Agencies Appropriations Act, 1988; and"
+    },
+    {
+     "role": "body",
+     "text": "(7) in the construction of buildings referred to in the first"
+    },
+    {
+     "role": "body",
+     "text": "sentence of section 8(a) of the Independent Agencies Appropria-"
+    },
+    {
+     "role": "body",
+     "text": "tions Act, 1988, all federally mandated environmental reviews,"
+    },
+    {
+     "role": "body",
+     "text": "as required by environmental laws, should be conducted and"
+    },
+    {
+     "role": "body",
+     "text": "closely monitored."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. CONDEMNATION AND LEASE AUTHORITY."
+    },
+    {
+     "role": "body",
+     "text": "The Independent Agencies Appropriations Act, 1988 (as contained"
+    },
+    {
+     "role": "body",
+     "text": "in title IV of Public Law 100-202; 101 Stat. 1329-401), is amended in"
+    },
+    {
+     "role": "body",
+     "text": "section 8 of the matter under the heading GENERAL SERVICES"
+    },
+    {
+     "role": "body",
+     "text": "ADMINISTRATION—GENERAL PROVISIONS—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by inserting \"(a)\" after \"SEC. 8.\"; and"
+    },
+    {
+     "role": "body",
+     "text": "(2) by adding at the end of such section the following new"
+    },
+    {
+     "role": "body",
+     "text": "subsections:"
+    },
+    {
+     "role": "body",
+     "text": "\"(b) The lease entered into between the Administrator of General"
+    },
+    {
+     "role": "body",
+     "text": "Services and the city of New York (hereinafter in this subsection"
+    },
+    {
+     "role": "body",
+     "text": "and subsection (c) referred to as the 'City') pursuant to the fifth"
+    },
+    {
+     "role": "body",
+     "text": "sentence of subsection (a) shall provide for an initial lease period of"
+    },
+    {
+     "role": "body",
+     "text": "30 years and shall provide options for the City to renew the lease for"
+    },
+    {
+     "role": "body",
+     "text": "up to three successive lease periods of 30 years each."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 1495,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.06424,
+   "seconds": 18.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 10023,
+   "output_tokens": 114,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.05338,
+  "seconds": 4.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "103 STAT. 936                PUBLIC LAW 101-156—NOV. 16, 1989",
+    "b": "103 STAT. 936\nPUBLIC LAW 101-156—NOV. 16, 1989",
+    "kept": "103 STAT. 936\nPUBLIC LAW 101-156—NOV. 16, 1989",
+    "reason": "The page number and title are separate elements of the running head, printed apart on the same line."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "103 STAT. 936"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 101-156—NOV. 16, 1989"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 101-156"
+  },
+  {
+   "role": "body",
+   "text": "101st Congress"
+  },
+  {
+   "role": "body",
+   "text": "An Act"
+  },
+  {
+   "role": "sidenote",
+   "text": "Nov. 16, 1989"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 1827]"
+  },
+  {
+   "role": "body",
+   "text": "To revise and clarify the authority of the Administrator of General Services relating"
+  },
+  {
+   "role": "body",
+   "text": "to the acquisition and management of certain property in the city of New York."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled,"
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. FINDINGS."
+  },
+  {
+   "role": "body",
+   "text": "The Congress finds that—"
+  },
+  {
+   "role": "body",
+   "text": "(1) there is a dire and immediate need for increased space for"
+  },
+  {
+   "role": "body",
+   "text": "the criminal justice system and for Federal agencies to operate"
+  },
+  {
+   "role": "body",
+   "text": "in the City of New York;"
+  },
+  {
+   "role": "body",
+   "text": "(2) the action of condemnation of certain lands would speed"
+  },
+  {
+   "role": "body",
+   "text": "the process of providing additional space for such needs;"
+  },
+  {
+   "role": "body",
+   "text": "(3) condemnation procedures authorized in this Act are re-"
+  },
+  {
+   "role": "body",
+   "text": "quired to address a specific dire and immediate need, and"
+  },
+  {
+   "role": "body",
+   "text": "should not be precedents for action by the Congress or other"
+  },
+  {
+   "role": "body",
+   "text": "Federal agencies;"
+  },
+  {
+   "role": "body",
+   "text": "(4) community input is essential to the successful completion"
+  },
+  {
+   "role": "body",
+   "text": "of construction projects such as those authorized in the"
+  },
+  {
+   "role": "body",
+   "text": "Independent Agencies Appropriations Act, 1988;"
+  },
+  {
+   "role": "body",
+   "text": "(5) before and during construction of buildings referred to in"
+  },
+  {
+   "role": "body",
+   "text": "the first sentence of section 8(a) of the Independent Agencies"
+  },
+  {
+   "role": "body",
+   "text": "Appropriations Act, 1988, the Administrator of General Serv-"
+  },
+  {
+   "role": "body",
+   "text": "ices should consult on an ongoing basis with the community"
+  },
+  {
+   "role": "body",
+   "text": "board for such building to solicit its input;"
+  },
+  {
+   "role": "body",
+   "text": "(6) environmental reviews are essential to the successful"
+  },
+  {
+   "role": "body",
+   "text": "completion of construction projects such as those authorized in"
+  },
+  {
+   "role": "body",
+   "text": "the Independent Agencies Appropriations Act, 1988; and"
+  },
+  {
+   "role": "body",
+   "text": "(7) in the construction of buildings referred to in the first"
+  },
+  {
+   "role": "body",
+   "text": "sentence of section 8(a) of the Independent Agencies Appropria-"
+  },
+  {
+   "role": "body",
+   "text": "tions Act, 1988, all federally mandated environmental reviews,"
+  },
+  {
+   "role": "body",
+   "text": "as required by environmental laws, should be conducted and"
+  },
+  {
+   "role": "body",
+   "text": "closely monitored."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. CONDEMNATION AND LEASE AUTHORITY."
+  },
+  {
+   "role": "body",
+   "text": "The Independent Agencies Appropriations Act, 1988 (as contained"
+  },
+  {
+   "role": "body",
+   "text": "in title IV of Public Law 100-202; 101 Stat. 1329-401), is amended in"
+  },
+  {
+   "role": "body",
+   "text": "section 8 of the matter under the heading GENERAL SERVICES"
+  },
+  {
+   "role": "body",
+   "text": "ADMINISTRATION—GENERAL PROVISIONS—"
+  },
+  {
+   "role": "body",
+   "text": "(1) by inserting \"(a)\" after \"SEC. 8.\"; and"
+  },
+  {
+   "role": "body",
+   "text": "(2) by adding at the end of such section the following new"
+  },
+  {
+   "role": "body",
+   "text": "subsections:"
+  },
+  {
+   "role": "body",
+   "text": "\"(b) The lease entered into between the Administrator of General"
+  },
+  {
+   "role": "body",
+   "text": "Services and the city of New York (hereinafter in this subsection"
+  },
+  {
+   "role": "body",
+   "text": "and subsection (c) referred to as the 'City') pursuant to the fifth"
+  },
+  {
+   "role": "body",
+   "text": "sentence of subsection (a) shall provide for an initial lease period of"
+  },
+  {
+   "role": "body",
+   "text": "30 years and shall provide options for the City to renew the lease for"
+  },
+  {
+   "role": "body",
+   "text": "up to three successive lease periods of 30 years each."
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 20622,
+  "output_tokens": 3091,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.18154,
+ "seconds": 40.4,
+ "created": "2026-09-08T11:58:16"
+}

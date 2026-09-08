@@ -1,0 +1,891 @@
+{
+ "granule_id": "STATUTE-69-Pg654",
+ "package_id": "STATUTE-69",
+ "volume": 69,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act granting the consent of Congress to the States of Arkansas, Louisiana, Oklahoma, and Texas to negotiate and enter into a compact providing for the apportionment of the waters of the Red River a",
+ "date_issued": "1955-08-11",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "654",
+ "image": "data/gold/STATUTE-69-Pg654/p1.png",
+ "image_sha256": "39e038b74e6a47239d9585eade18178f4776200b9961546bbeb9c746e03e34ca",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 346-AUG. 11, 1955        [69 STAT."
+    },
+    {
+     "role": "body",
+     "text": "continue in full force and effect with respect to all mortgages insured"
+    },
+    {
+     "role": "body",
+     "text": "pursuant to a certification by the Secretary of Defense or his designee"
+    },
+    {
+     "role": "body",
+     "text": "made on or before June 30, 1955, and a commitment to insure issued"
+    },
+    {
+     "role": "body",
+     "text": "on or before June 30, 1956 or pursuant to a certification by the Atomic"
+    },
+    {
+     "role": "body",
+     "text": "Energy Commission or its designee made on or before June 30, 1956,"
+    },
+    {
+     "role": "body",
+     "text": "except that the maximum dollar amount for each such mortgage shall"
+    },
+    {
+     "role": "body",
+     "text": "be $12,500,000."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 409. (a) Wherever the terms \"Secretary of Defense\" or \"Sec-"
+    },
+    {
+     "role": "body",
+     "text": "retary\" or \"Secretary of the Army, Navy, or Air Force\" appear in"
+    },
+    {
+     "role": "body",
+     "text": "this title or in title VIII of the National Housing Act, as amended"
+    },
+    {
+     "role": "body",
+     "text": "by the Housing Amendments of 1955, they shall be deemed to mean"
+    },
+    {
+     "role": "body",
+     "text": "the Secretary of the Treasury in the case of the application of the"
+    },
+    {
+     "role": "body",
+     "text": "provisions of this title or of title VIII of the National Housing Act,"
+    },
+    {
+     "role": "body",
+     "text": "as amended by the Housing Amendments of 1955, for the benefit of"
+    },
+    {
+     "role": "body",
+     "text": "the United States Coast Guard."
+    },
+    {
+     "role": "body",
+     "text": "(b) Wherever the term \"armed services\" appears in this title it shall"
+    },
+    {
+     "role": "body",
+     "text": "be deemed to include the United States Coast Guard."
+    },
+    {
+     "role": "body",
+     "text": "TITLE V—FARM HOUSING"
+    },
+    {
+     "role": "sidenote",
+     "text": "68 Stat. 320."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 501. Title V of the Housing Act of 1949, as amended, is hereby"
+    },
+    {
+     "role": "body",
+     "text": "further amended as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 1481."
+    },
+    {
+     "role": "body",
+     "text": "(1) In the first sentence of section 511 immediately following the"
+    },
+    {
+     "role": "body",
+     "text": "phrase \"July 1, 1953\" strike out the word \"and\" and insert at the"
+    },
+    {
+     "role": "body",
+     "text": "end of the sentence immediately before the period a comma and the"
+    },
+    {
+     "role": "body",
+     "text": "following: \"and an additional $100,000,000 on and after July 1, 1955\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 1482."
+    },
+    {
+     "role": "body",
+     "text": "(2) In section 512, (A) strike out \"and 1954\" and insert \"1954, and"
+    },
+    {
+     "role": "body",
+     "text": "1955\", and (B) strike out \"and $2,000,000\" and insert \"$2,000,000"
+    },
+    {
+     "role": "body",
+     "text": "and $2,000,000\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 1483."
+    },
+    {
+     "role": "body",
+     "text": "(3) In section 513, strike out \"and $10,000,000 on July 1 of each"
+    },
+    {
+     "role": "body",
+     "text": "of the years 1950, 1951, 1952, 1953, and 1954\" and insert \"$10,000,000,"
+    },
+    {
+     "role": "body",
+     "text": "and $10,000,000 on July 1 of each of the years 1950, 1951, 1952, 1953,"
+    },
+    {
+     "role": "body",
+     "text": "1954, and 1955\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 11, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 346                          CHAPTER 784"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 11, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 2260]"
+    },
+    {
+     "role": "body",
+     "text": "Granting the consent of Congress to the States of Arkansas, Louisiana, Okla-"
+    },
+    {
+     "role": "body",
+     "text": "homa, and Texas to negotiate and enter into a compact providing for the"
+    },
+    {
+     "role": "body",
+     "text": "apportionment of the waters of the Red River and its tributaries."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Red River."
+    },
+    {
+     "role": "sidenote",
+     "text": "Consent of Con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gress to interstate"
+    },
+    {
+     "role": "sidenote",
+     "text": "compact."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the consent"
+    },
+    {
+     "role": "body",
+     "text": "of Congress is hereby given to the States of Arkansas, Louisiana,"
+    },
+    {
+     "role": "body",
+     "text": "Oklahoma, and Texas to negotiate and enter into a compact providing"
+    },
+    {
+     "role": "body",
+     "text": "for an equitable apportionment among them of the waters of the"
+    },
+    {
+     "role": "body",
+     "text": "Red River and its tributaries, upon the condition that one qualified"
+    },
+    {
+     "role": "body",
+     "text": "person appointed by the President of the United States shall par-"
+    },
+    {
+     "role": "body",
+     "text": "ticipate in such negotiations as chairman, without vote, representing"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reports."
+    },
+    {
+     "role": "body",
+     "text": "the United States, and shall make a report to the President of the"
+    },
+    {
+     "role": "body",
+     "text": "United States and the Congress of the proceedings and of any com-"
+    },
+    {
+     "role": "body",
+     "text": "pact entered into.  Such compact shall not be binding or obligatory"
+    },
+    {
+     "role": "body",
+     "text": "upon any of the parties thereto until it shall have been ratified by"
+    },
+    {
+     "role": "body",
+     "text": "the legislatures of each of the respective States, and approved by the"
+    },
+    {
+     "role": "body",
+     "text": "Congress of the United States."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 11, 1955."
+    },
+    {
+     "role": "page-number",
+     "text": "654"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5186,
+    "output_tokens": 2349,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08504,
+   "seconds": 43.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "654"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 346–AUG. 11, 1955        [69 STAT."
+    },
+    {
+     "role": "body",
+     "text": "continue in full force and effect with respect to all mortgages insured"
+    },
+    {
+     "role": "body",
+     "text": "pursuant to a certification by the Secretary of Defense or his designee"
+    },
+    {
+     "role": "body",
+     "text": "made on or before June 30, 1955, and a commitment to insure issued"
+    },
+    {
+     "role": "body",
+     "text": "on or before June 30, 1956 or pursuant to a certification by the Atomic"
+    },
+    {
+     "role": "body",
+     "text": "Energy Commission or its designee made on or before June 30, 1956,"
+    },
+    {
+     "role": "body",
+     "text": "except that the maximum dollar amount for each such mortgage shall"
+    },
+    {
+     "role": "body",
+     "text": "be $12,500,000."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 409. (a) Wherever the terms \"Secretary of Defense\" or \"Sec-"
+    },
+    {
+     "role": "body",
+     "text": "retary\" or \"Secretary of the Army, Navy, or Air Force\" appear in"
+    },
+    {
+     "role": "body",
+     "text": "this title or in title VIII of the National Housing Act, as amended"
+    },
+    {
+     "role": "body",
+     "text": "by the Housing Amendments of 1955, they shall be deemed to mean"
+    },
+    {
+     "role": "body",
+     "text": "the Secretary of the Treasury in the case of the application of the"
+    },
+    {
+     "role": "body",
+     "text": "provisions of this title or of title VIII of the National Housing Act,"
+    },
+    {
+     "role": "body",
+     "text": "as amended by the Housing Amendments of 1955, for the benefit of"
+    },
+    {
+     "role": "body",
+     "text": "the United States Coast Guard."
+    },
+    {
+     "role": "body",
+     "text": "(b) Wherever the term \"armed services\" appears in this title it shall"
+    },
+    {
+     "role": "body",
+     "text": "be deemed to include the United States Coast Guard."
+    },
+    {
+     "role": "body",
+     "text": "TITLE V—FARM HOUSING"
+    },
+    {
+     "role": "sidenote",
+     "text": "68 Stat. 320."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 501. Title V of the Housing Act of 1949, as amended, is hereby"
+    },
+    {
+     "role": "body",
+     "text": "further amended as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 1481."
+    },
+    {
+     "role": "body",
+     "text": "(1) In the first sentence of section 511 immediately following the"
+    },
+    {
+     "role": "body",
+     "text": "phrase \"July 1, 1953\" strike out the word \"and\" and insert at the"
+    },
+    {
+     "role": "body",
+     "text": "end of the sentence immediately before the period a comma and the"
+    },
+    {
+     "role": "body",
+     "text": "following: \"and an additional $100,000,000 on and after July 1, 1955\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 1482."
+    },
+    {
+     "role": "body",
+     "text": "(2) In section 512, (A) strike out \"and 1954\" and insert \"1954, and"
+    },
+    {
+     "role": "body",
+     "text": "1955\", and (B) strike out \"and $2,000,000\" and insert \"$2,000,000"
+    },
+    {
+     "role": "body",
+     "text": "and $2,000,000\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 1483."
+    },
+    {
+     "role": "body",
+     "text": "(3) In section 513, strike out \"and $10,000,000 on July 1 of each"
+    },
+    {
+     "role": "body",
+     "text": "of the years 1950, 1951, 1952, 1953, and 1954\" and insert \"$10,000,000,"
+    },
+    {
+     "role": "body",
+     "text": "and $10,000,000 on July 1 of each of the years 1950, 1951, 1952, 1953,"
+    },
+    {
+     "role": "body",
+     "text": "1954, and 1955\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 11, 1955."
+    },
+    {
+     "role": "running-head",
+     "text": "Public Law 346                                    CHAPTER 784"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 11, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 2260]"
+    },
+    {
+     "role": "body",
+     "text": "Granting the consent of Congress to the States of Arkansas, Louisiana, Okla-"
+    },
+    {
+     "role": "body",
+     "text": "homa, and Texas to negotiate and enter into a compact providing for the"
+    },
+    {
+     "role": "body",
+     "text": "apportionment of the waters of the Red River and its tributaries."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Red River."
+    },
+    {
+     "role": "sidenote",
+     "text": "Consent of Con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gress to interstate"
+    },
+    {
+     "role": "sidenote",
+     "text": "compact."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the consent"
+    },
+    {
+     "role": "body",
+     "text": "of Congress is hereby given to the States of Arkansas, Louisiana,"
+    },
+    {
+     "role": "body",
+     "text": "Oklahoma, and Texas to negotiate and enter into a compact providing"
+    },
+    {
+     "role": "body",
+     "text": "for an equitable apportionment among them of the waters of the"
+    },
+    {
+     "role": "body",
+     "text": "Red River and its tributaries, upon the condition that one qualified"
+    },
+    {
+     "role": "body",
+     "text": "person appointed by the President of the United States shall par-"
+    },
+    {
+     "role": "body",
+     "text": "ticipate in such negotiations as chairman, without vote, representing"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reports."
+    },
+    {
+     "role": "body",
+     "text": "the United States, and shall make a report to the President of the"
+    },
+    {
+     "role": "body",
+     "text": "United States and the Congress of the proceedings and of any com-"
+    },
+    {
+     "role": "body",
+     "text": "pact entered into.  Such compact shall not be binding or obligatory"
+    },
+    {
+     "role": "body",
+     "text": "upon any of the parties thereto until it shall have been ratified by"
+    },
+    {
+     "role": "body",
+     "text": "the legislatures of each of the respective States, and approved by the"
+    },
+    {
+     "role": "body",
+     "text": "Congress of the United States."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 11, 1955."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5189,
+    "output_tokens": 2058,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07776,
+   "seconds": 85.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 10828,
+   "output_tokens": 346,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06321,
+  "seconds": 135.6,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "654",
+    "kept": "654",
+    "reason": "The page number 654 is printed at the top left of the page, on the running-head line."
+   },
+   {
+    "run": 2,
+    "a": "Public Law 346                          CHAPTER 784",
+    "b": "Public Law 346                                    CHAPTER 784",
+    "kept": "Public Law 346                          CHAPTER 784",
+    "reason": "This is a heading line within the text column of the new act, not the page running head."
+   },
+   {
+    "run": 3,
+    "a": "654",
+    "b": "",
+    "kept": "",
+    "reason": "No page number is printed at the bottom of the page; 654 appears at the top."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "654"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 346-AUG. 11, 1955        [69 STAT."
+  },
+  {
+   "role": "body",
+   "text": "continue in full force and effect with respect to all mortgages insured"
+  },
+  {
+   "role": "body",
+   "text": "pursuant to a certification by the Secretary of Defense or his designee"
+  },
+  {
+   "role": "body",
+   "text": "made on or before June 30, 1955, and a commitment to insure issued"
+  },
+  {
+   "role": "body",
+   "text": "on or before June 30, 1956 or pursuant to a certification by the Atomic"
+  },
+  {
+   "role": "body",
+   "text": "Energy Commission or its designee made on or before June 30, 1956,"
+  },
+  {
+   "role": "body",
+   "text": "except that the maximum dollar amount for each such mortgage shall"
+  },
+  {
+   "role": "body",
+   "text": "be $12,500,000."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 409. (a) Wherever the terms \"Secretary of Defense\" or \"Sec-"
+  },
+  {
+   "role": "body",
+   "text": "retary\" or \"Secretary of the Army, Navy, or Air Force\" appear in"
+  },
+  {
+   "role": "body",
+   "text": "this title or in title VIII of the National Housing Act, as amended"
+  },
+  {
+   "role": "body",
+   "text": "by the Housing Amendments of 1955, they shall be deemed to mean"
+  },
+  {
+   "role": "body",
+   "text": "the Secretary of the Treasury in the case of the application of the"
+  },
+  {
+   "role": "body",
+   "text": "provisions of this title or of title VIII of the National Housing Act,"
+  },
+  {
+   "role": "body",
+   "text": "as amended by the Housing Amendments of 1955, for the benefit of"
+  },
+  {
+   "role": "body",
+   "text": "the United States Coast Guard."
+  },
+  {
+   "role": "body",
+   "text": "(b) Wherever the term \"armed services\" appears in this title it shall"
+  },
+  {
+   "role": "body",
+   "text": "be deemed to include the United States Coast Guard."
+  },
+  {
+   "role": "body",
+   "text": "TITLE V—FARM HOUSING"
+  },
+  {
+   "role": "sidenote",
+   "text": "68 Stat. 320."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 501. Title V of the Housing Act of 1949, as amended, is hereby"
+  },
+  {
+   "role": "body",
+   "text": "further amended as follows:"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 1481."
+  },
+  {
+   "role": "body",
+   "text": "(1) In the first sentence of section 511 immediately following the"
+  },
+  {
+   "role": "body",
+   "text": "phrase \"July 1, 1953\" strike out the word \"and\" and insert at the"
+  },
+  {
+   "role": "body",
+   "text": "end of the sentence immediately before the period a comma and the"
+  },
+  {
+   "role": "body",
+   "text": "following: \"and an additional $100,000,000 on and after July 1, 1955\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 1482."
+  },
+  {
+   "role": "body",
+   "text": "(2) In section 512, (A) strike out \"and 1954\" and insert \"1954, and"
+  },
+  {
+   "role": "body",
+   "text": "1955\", and (B) strike out \"and $2,000,000\" and insert \"$2,000,000"
+  },
+  {
+   "role": "body",
+   "text": "and $2,000,000\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 1483."
+  },
+  {
+   "role": "body",
+   "text": "(3) In section 513, strike out \"and $10,000,000 on July 1 of each"
+  },
+  {
+   "role": "body",
+   "text": "of the years 1950, 1951, 1952, 1953, and 1954\" and insert \"$10,000,000,"
+  },
+  {
+   "role": "body",
+   "text": "and $10,000,000 on July 1 of each of the years 1950, 1951, 1952, 1953,"
+  },
+  {
+   "role": "body",
+   "text": "1954, and 1955\"."
+  },
+  {
+   "role": "body",
+   "text": "Approved August 11, 1955."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 346                          CHAPTER 784"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "August 11, 1955"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 2260]"
+  },
+  {
+   "role": "body",
+   "text": "Granting the consent of Congress to the States of Arkansas, Louisiana, Okla-"
+  },
+  {
+   "role": "body",
+   "text": "homa, and Texas to negotiate and enter into a compact providing for the"
+  },
+  {
+   "role": "body",
+   "text": "apportionment of the waters of the Red River and its tributaries."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Red River."
+  },
+  {
+   "role": "sidenote",
+   "text": "Consent of Con-"
+  },
+  {
+   "role": "sidenote",
+   "text": "gress to interstate"
+  },
+  {
+   "role": "sidenote",
+   "text": "compact."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the consent"
+  },
+  {
+   "role": "body",
+   "text": "of Congress is hereby given to the States of Arkansas, Louisiana,"
+  },
+  {
+   "role": "body",
+   "text": "Oklahoma, and Texas to negotiate and enter into a compact providing"
+  },
+  {
+   "role": "body",
+   "text": "for an equitable apportionment among them of the waters of the"
+  },
+  {
+   "role": "body",
+   "text": "Red River and its tributaries, upon the condition that one qualified"
+  },
+  {
+   "role": "body",
+   "text": "person appointed by the President of the United States shall par-"
+  },
+  {
+   "role": "body",
+   "text": "ticipate in such negotiations as chairman, without vote, representing"
+  },
+  {
+   "role": "sidenote",
+   "text": "Reports."
+  },
+  {
+   "role": "body",
+   "text": "the United States, and shall make a report to the President of the"
+  },
+  {
+   "role": "body",
+   "text": "United States and the Congress of the proceedings and of any com-"
+  },
+  {
+   "role": "body",
+   "text": "pact entered into.  Such compact shall not be binding or obligatory"
+  },
+  {
+   "role": "body",
+   "text": "upon any of the parties thereto until it shall have been ratified by"
+  },
+  {
+   "role": "body",
+   "text": "the legislatures of each of the respective States, and approved by the"
+  },
+  {
+   "role": "body",
+   "text": "Congress of the United States."
+  },
+  {
+   "role": "body",
+   "text": "Approved August 11, 1955."
+  }
+ ],
+ "disagreement_count": 3,
+ "tokens": {
+  "input_tokens": 21203,
+  "output_tokens": 4753,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.22601,
+ "seconds": 264.8,
+ "created": "2026-09-08T11:48:00"
+}

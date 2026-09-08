@@ -1,0 +1,1218 @@
+{
+ "granule_id": "STATUTE-60-Pg945",
+ "package_id": "STATUTE-60",
+ "volume": 60,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To amend the Act of June 23, 1943, so as to authorize inclusion of periods of education and training in an Army Transportation Corps civilian marine school as \"service in the merchant marine\".",
+ "date_issued": "1946-08-08",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "945",
+ "image": "data/gold/STATUTE-60-Pg945/p1.png",
+ "image_sha256": "5b47868b4bc5af0ef78ee113cd4ce432c3e427be22beecea72ea5af51196d703",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "60 STAT.]     79TH CONG., 2D SESS.—CHS. 911, 912—AUG. 8, 1946"
+    },
+    {
+     "role": "page-number",
+     "text": "945"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 4."
+    },
+    {
+     "role": "body",
+     "text": "\"WEATHER BUREAU"
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 803.  In order to promote safety and efficiency in air navigation"
+    },
+    {
+     "role": "body",
+     "text": "to the highest possible degree, the Chief of the Weather Bureau, under"
+    },
+    {
+     "role": "body",
+     "text": "the direction of the Secretary of Commerce, shall, in addition to any"
+    },
+    {
+     "role": "body",
+     "text": "other functions or duties pertaining to weather information for other"
+    },
+    {
+     "role": "sidenote",
+     "text": "Observations, etc.,"
+    },
+    {
+     "role": "sidenote",
+     "text": "of atmospheric phe-"
+    },
+    {
+     "role": "sidenote",
+     "text": "nomena."
+    },
+    {
+     "role": "body",
+     "text": "purposes, (1) make such observations, measurements, investigations,"
+    },
+    {
+     "role": "body",
+     "text": "and studies of atmospheric phenomena, and establish such meteorologi-"
+    },
+    {
+     "role": "body",
+     "text": "cal offices and stations, as are necessary or best suited for ascertaining,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reports, forecasts,"
+    },
+    {
+     "role": "sidenote",
+     "text": "etc."
+    },
+    {
+     "role": "body",
+     "text": "in advance, information concerning probable weather conditions; (2)"
+    },
+    {
+     "role": "body",
+     "text": "furnish such reports, forecasts, warnings, and advices to the Adminis-"
+    },
+    {
+     "role": "body",
+     "text": "trator, and to such persons engaged in civil aeronautics as may be"
+    },
+    {
+     "role": "body",
+     "text": "designated by the Administrator, and to such other persons as the"
+    },
+    {
+     "role": "body",
+     "text": "Chief of the Weather Bureau may determine, and such reports shall"
+    },
+    {
+     "role": "body",
+     "text": "be made in such manner and with such frequency as will best result in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reciprocal arrange-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ments."
+    },
+    {
+     "role": "body",
+     "text": "safety in and in facilitating air navigation; (3) cooperate with persons"
+    },
+    {
+     "role": "body",
+     "text": "engaged in air commerce, or employees thereof, in meteorological serv-"
+    },
+    {
+     "role": "body",
+     "text": "ice, establish and maintain reciprocal arrangements under which this"
+    },
+    {
+     "role": "body",
+     "text": "provision is to be carried out and collect and disseminate weather"
+    },
+    {
+     "role": "sidenote",
+     "text": "International ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "changes, etc."
+    },
+    {
+     "role": "body",
+     "text": "reports available from aircraft in flight; (4) establish and coordinate"
+    },
+    {
+     "role": "body",
+     "text": "the international exchanges of meteorological information required for"
+    },
+    {
+     "role": "body",
+     "text": "the safety and efficiency of air navigation; (5) participate in the"
+    },
+    {
+     "role": "body",
+     "text": "development of an international basic meteorological reporting net-"
+    },
+    {
+     "role": "body",
+     "text": "work, including the establishment, operation, and maintenance of"
+    },
+    {
+     "role": "body",
+     "text": "reporting stations on the high seas, in polar regions, and in foreign"
+    },
+    {
+     "role": "body",
+     "text": "countries in cooperation with other governmental agencies of the"
+    },
+    {
+     "role": "body",
+     "text": "United States and the meteorological services of foreign countries and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Coordination of re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "quirements in U. S"
+    },
+    {
+     "role": "body",
+     "text": "with persons engaged in air commerce; (6) coordinate meteorological"
+    },
+    {
+     "role": "body",
+     "text": "requirements in the United States in order to maintain standard"
+    },
+    {
+     "role": "body",
+     "text": "observations, promote efficient use of facilities and avoid duplication"
+    },
+    {
+     "role": "body",
+     "text": "of services unless such duplication tends to promote the safety and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Research projects."
+    },
+    {
+     "role": "body",
+     "text": "efficiency of air navigation; (7) promote and develop meteorological"
+    },
+    {
+     "role": "body",
+     "text": "science and foster and support  research projects in meteorology"
+    },
+    {
+     "role": "body",
+     "text": "through the utilization of private and governmental research facilities"
+    },
+    {
+     "role": "body",
+     "text": "and provide for the publication of the results of such research projects"
+    },
+    {
+     "role": "body",
+     "text": "unless such publication would be contrary to the public interest; and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Detail of personnel"
+    },
+    {
+     "role": "sidenote",
+     "text": "for training."
+    },
+    {
+     "role": "body",
+     "text": "(8) detail annually, within the limits of available appropriations made"
+    },
+    {
+     "role": "body",
+     "text": "by Congress, members of the Weather Bureau personnel for training"
+    },
+    {
+     "role": "body",
+     "text": "at Government expense, either at civilian institutions or otherwise, in"
+    },
+    {
+     "role": "body",
+     "text": "advanced methods of meterological science: Provided, That no such"
+    },
+    {
+     "role": "body",
+     "text": "member shall lose his individual status or seniority rating in the"
+    },
+    {
+     "role": "body",
+     "text": "Bureau merely by reason of absence due to such training.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved August 8, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 912]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 8, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6263]"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Act of June 23, 1943, so as to authorize inclusion of periods of"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 692]"
+    },
+    {
+     "role": "body",
+     "text": "education and training in an Army Transportation Corps civilian marine school"
+    },
+    {
+     "role": "body",
+     "text": "as \"service in the merchant marine\"."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the first sen-"
+    },
+    {
+     "role": "body",
+     "text": "tence of the Act entitled \"An Act to provide reemployment rights for"
+    },
+    {
+     "role": "body",
+     "text": "persons who leave their positions to serve in the merchant marine,"
+    },
+    {
+     "role": "sidenote",
+     "text": "57 Stat. 162."
+    },
+    {
+     "role": "body",
+     "text": "and for other purposes\", approved June 23, 1943 (U. S. C., 1940 edi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "50 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 1471."
+    },
+    {
+     "role": "body",
+     "text": "tion, Supp. IV, title 50 App., sec. 1471), is amended to read as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 905."
+    },
+    {
+     "role": "sidenote",
+     "text": "\"Service in the mer-"
+    },
+    {
+     "role": "body",
+     "text": "\"That when used in this Act the term 'service in the merchant marine'"
+    },
+    {
+     "role": "sidenote",
+     "text": "chant marine.\""
+    },
+    {
+     "role": "body",
+     "text": "means service as an officer or member of the crew on or in connection"
+    },
+    {
+     "role": "body",
+     "text": "with a vessel documented under the laws of the United States or a"
+    },
+    {
+     "role": "body",
+     "text": "vessel owned by, chartered to, or operated by or for the account or use"
+    },
+    {
+     "role": "footnote",
+     "text": "80634°—47—PT. I——60"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 2417,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08842,
+   "seconds": 133.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "60 STAT.]      79TH CONG., 2D SESS.—CHS. 911, 912—AUG. 8, 1946"
+    },
+    {
+     "role": "page-number",
+     "text": "945"
+    },
+    {
+     "role": "body",
+     "text": "\"WEATHER BUREAU"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 4."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 803.  In order to promote safety and efficiency in air navigation"
+    },
+    {
+     "role": "body",
+     "text": "to the highest possible degree, the Chief of the Weather Bureau, under"
+    },
+    {
+     "role": "body",
+     "text": "the direction of the Secretary of Commerce, shall, in addition to any"
+    },
+    {
+     "role": "body",
+     "text": "other functions or duties pertaining to weather information for other"
+    },
+    {
+     "role": "body",
+     "text": "purposes, (1) make such observations, measurements, investigations,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Observations, etc., of atmospheric phe- nomena."
+    },
+    {
+     "role": "body",
+     "text": "and studies of atmospheric phenomena, and establish such meteorologi-"
+    },
+    {
+     "role": "body",
+     "text": "cal offices and stations, as are necessary or best suited for ascertaining,"
+    },
+    {
+     "role": "body",
+     "text": "in advance, information concerning probable weather conditions; (2)"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reports, forecasts, etc."
+    },
+    {
+     "role": "body",
+     "text": "furnish such reports, forecasts, warnings, and advices to the Adminis-"
+    },
+    {
+     "role": "body",
+     "text": "trator, and to such persons engaged in civil aeronautics as may be"
+    },
+    {
+     "role": "body",
+     "text": "designated by the Administrator, and to such other persons as the"
+    },
+    {
+     "role": "body",
+     "text": "Chief of the Weather Bureau may determine, and such reports shall"
+    },
+    {
+     "role": "body",
+     "text": "be made in such manner and with such frequency as will best result in"
+    },
+    {
+     "role": "body",
+     "text": "safety in and in facilitating air navigation; (3) cooperate with persons"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reciprocal arrange- ments."
+    },
+    {
+     "role": "body",
+     "text": "engaged in air commerce, or employees thereof, in meteorological serv-"
+    },
+    {
+     "role": "body",
+     "text": "ice, establish and maintain reciprocal arrangements under which this"
+    },
+    {
+     "role": "body",
+     "text": "provision is to be carried out and collect and disseminate weather"
+    },
+    {
+     "role": "body",
+     "text": "reports available from aircraft in flight; (4) establish and coordinate"
+    },
+    {
+     "role": "sidenote",
+     "text": "International ex- changes, etc."
+    },
+    {
+     "role": "body",
+     "text": "the international exchanges of meteorological information required for"
+    },
+    {
+     "role": "body",
+     "text": "the safety and efficiency of air navigation; (5) participate in the"
+    },
+    {
+     "role": "body",
+     "text": "development of an international basic meteorological reporting net-"
+    },
+    {
+     "role": "body",
+     "text": "work, including the establishment, operation, and maintenance of"
+    },
+    {
+     "role": "body",
+     "text": "reporting stations on the high seas, in polar regions, and in foreign"
+    },
+    {
+     "role": "body",
+     "text": "countries in cooperation with other governmental agencies of the"
+    },
+    {
+     "role": "body",
+     "text": "United States and the meteorological services of foreign countries and"
+    },
+    {
+     "role": "body",
+     "text": "with persons engaged in air commerce; (6) coordinate meteorological"
+    },
+    {
+     "role": "sidenote",
+     "text": "Coordination of re- quirements in U. S"
+    },
+    {
+     "role": "body",
+     "text": "requirements in the United States in order to maintain standard"
+    },
+    {
+     "role": "body",
+     "text": "observations, promote efficient use of facilities and avoid duplication"
+    },
+    {
+     "role": "body",
+     "text": "of services unless such duplication tends to promote the safety and"
+    },
+    {
+     "role": "body",
+     "text": "efficiency of air navigation; (7) promote and develop meteorological"
+    },
+    {
+     "role": "sidenote",
+     "text": "Research projects."
+    },
+    {
+     "role": "body",
+     "text": "science and foster and support  research projects in meteorology"
+    },
+    {
+     "role": "body",
+     "text": "through the utilization of private and governmental research facilities"
+    },
+    {
+     "role": "body",
+     "text": "and provide for the publication of the results of such research projects"
+    },
+    {
+     "role": "body",
+     "text": "unless such publication would be contrary to the public interest; and"
+    },
+    {
+     "role": "body",
+     "text": "(8) detail annually, within the limits of available appropriations made"
+    },
+    {
+     "role": "sidenote",
+     "text": "Detail of personnel for training."
+    },
+    {
+     "role": "body",
+     "text": "by Congress, members of the Weather Bureau personnel for training"
+    },
+    {
+     "role": "body",
+     "text": "at Government expense, either at civilian institutions or otherwise, in"
+    },
+    {
+     "role": "body",
+     "text": "advanced methods of meterological science: Provided, That no such"
+    },
+    {
+     "role": "body",
+     "text": "member shall lose his individual status or seniority rating in the"
+    },
+    {
+     "role": "body",
+     "text": "Bureau merely by reason of absence due to such training.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved August 8, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 912]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 8, 1946 [H. R. 6263]"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Act of June 23, 1943, so as to authorize inclusion of periods of"
+    },
+    {
+     "role": "body",
+     "text": "education and training in an Army Transportation Corps civilian marine school"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 692]"
+    },
+    {
+     "role": "body",
+     "text": "as \"service in the merchant marine\"."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the first sen-"
+    },
+    {
+     "role": "body",
+     "text": "tence of the Act entitled \"An Act to provide reemployment rights for"
+    },
+    {
+     "role": "body",
+     "text": "persons who leave their positions to serve in the merchant marine,"
+    },
+    {
+     "role": "body",
+     "text": "and for other purposes\", approved June 23, 1943 (U. S. C., 1940 edi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "57 Stat. 162. 50 U. S. C., Supp. V, § 1471."
+    },
+    {
+     "role": "body",
+     "text": "tion, Supp. IV, title 50 App., sec. 1471), is amended to read as follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"That when used in this Act the term 'service in the merchant marine'"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 905. \"Service in the mer- chant marine.\""
+    },
+    {
+     "role": "body",
+     "text": "means service as an officer or member of the crew on or in connection"
+    },
+    {
+     "role": "body",
+     "text": "with a vessel documented under the laws of the United States or a"
+    },
+    {
+     "role": "body",
+     "text": "vessel owned by, chartered to, or operated by or for the account or use"
+    },
+    {
+     "role": "body",
+     "text": "80634°—47—PT. I——60"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 2239,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08396,
+   "seconds": 148.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12912,
+   "output_tokens": 2741,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.1335,
+  "seconds": 149.9,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "\"WEATHER BUREAU",
+    "kept": "\"WEATHER BUREAU",
+    "reason": "The centered heading is printed first at this point; the marginal note aligns beside it."
+   },
+   {
+    "run": 2,
+    "a": "\"WEATHER BUREAU",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed in run 1; nothing additional here."
+   },
+   {
+    "run": 3,
+    "a": "Observations, etc.,\nof atmospheric phe-\nnomena.",
+    "b": "",
+    "kept": "Observations, etc.,\nof atmospheric phe-\nnomena.",
+    "reason": "Sidenote is set on three printed lines beginning opposite the \"purposes, (1)\" line."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "Observations, etc., of atmospheric phe- nomena.",
+    "kept": "",
+    "reason": "Sidenote already given as separate printed lines in run 3."
+   },
+   {
+    "run": 5,
+    "a": "Reports, forecasts,\netc.",
+    "b": "",
+    "kept": "Reports, forecasts,\netc.",
+    "reason": "Two printed sidenote lines opposite \"in advance, information...\"."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "Reports, forecasts, etc.",
+    "kept": "",
+    "reason": "Already placed in run 5."
+   },
+   {
+    "run": 7,
+    "a": "Reciprocal arrange-\nments.",
+    "b": "",
+    "kept": "Reciprocal arrange-\nments.",
+    "reason": "Two printed sidenote lines opposite \"safety in and in facilitating...\"."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "Reciprocal arrange- ments.",
+    "kept": "",
+    "reason": "Already placed in run 7."
+   },
+   {
+    "run": 9,
+    "a": "International ex-\nchanges, etc.",
+    "b": "",
+    "kept": "International ex-\nchanges, etc.",
+    "reason": "Two printed sidenote lines opposite \"reports available from aircraft...\"."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "International ex- changes, etc.",
+    "kept": "",
+    "reason": "Already placed in run 9."
+   },
+   {
+    "run": 11,
+    "a": "Coordination of re-\nquirements in U. S",
+    "b": "",
+    "kept": "Coordination of re-\nquirements in U. S",
+    "reason": "Two printed sidenote lines opposite \"with persons engaged in air commerce\"."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "Coordination of re- quirements in U. S",
+    "kept": "",
+    "reason": "Already placed in run 11."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "efficiency of air navigation; (7) promote and develop meteorological",
+    "kept": "",
+    "reason": "The \"Research projects.\" sidenote stands opposite this line; body line placed in run 14."
+   },
+   {
+    "run": 14,
+    "a": "efficiency of air navigation; (7) promote and develop meteorological",
+    "b": "",
+    "kept": "efficiency of air navigation; (7) promote and develop meteorological",
+    "reason": "Body line follows the marginal note aligned with it."
+   },
+   {
+    "run": 15,
+    "a": "Detail of personnel\nfor training.",
+    "b": "",
+    "kept": "Detail of personnel\nfor training.",
+    "reason": "Two printed sidenote lines opposite \"(8) detail annually...\"."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "Detail of personnel for training.",
+    "kept": "",
+    "reason": "Already placed in run 15."
+   },
+   {
+    "run": 17,
+    "a": "August 8, 1946\n[H. R. 6263]",
+    "b": "August 8, 1946 [H. R. 6263]",
+    "kept": "August 8, 1946\n[H. R. 6263]",
+    "reason": "Printed as two separate marginal lines."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "education and training in an Army Transportation Corps civilian marine school",
+    "kept": "",
+    "reason": "[Public Law 692] sidenote aligns here; the body line follows in run 19."
+   },
+   {
+    "run": 19,
+    "a": "education and training in an Army Transportation Corps civilian marine school",
+    "b": "",
+    "kept": "education and training in an Army Transportation Corps civilian marine school",
+    "reason": "Second line of the act title."
+   },
+   {
+    "run": 20,
+    "a": "57 Stat. 162.",
+    "b": "",
+    "kept": "57 Stat. 162.",
+    "reason": "First printed marginal line, opposite \"and for other purposes\"."
+   },
+   {
+    "run": 21,
+    "a": "50 U. S. C., Supp.\nV, § 1471.",
+    "b": "57 Stat. 162. 50 U. S. C., Supp. V, § 1471.",
+    "kept": "50 U. S. C., Supp.\nV, § 1471.",
+    "reason": "Two further printed marginal lines."
+   },
+   {
+    "run": 22,
+    "a": "Ante, p. 905.\n\"Service in the mer-",
+    "b": "",
+    "kept": "Ante, p. 905.\n\"Service in the mer-",
+    "reason": "Separate printed marginal lines."
+   },
+   {
+    "run": 23,
+    "a": "chant marine.\"",
+    "b": "Ante, p. 905. \"Service in the mer- chant marine.\"",
+    "kept": "chant marine.\"",
+    "reason": "Final marginal line of that note."
+   },
+   {
+    "run": 24,
+    "a": "80634°—47—PT. I——60",
+    "b": "80634°—47—PT. I——60",
+    "kept": "80634°—47—PT. I——60",
+    "reason": "Printer's signature line at the foot of the page."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "60 STAT.]     79TH CONG., 2D SESS.—CHS. 911, 912—AUG. 8, 1946"
+  },
+  {
+   "role": "page-number",
+   "text": "945"
+  },
+  {
+   "role": "body",
+   "text": "\"WEATHER BUREAU"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 4."
+  },
+  {
+   "role": "body",
+   "text": "\"SEC. 803.  In order to promote safety and efficiency in air navigation"
+  },
+  {
+   "role": "body",
+   "text": "to the highest possible degree, the Chief of the Weather Bureau, under"
+  },
+  {
+   "role": "body",
+   "text": "the direction of the Secretary of Commerce, shall, in addition to any"
+  },
+  {
+   "role": "body",
+   "text": "other functions or duties pertaining to weather information for other"
+  },
+  {
+   "role": "sidenote",
+   "text": "Observations, etc.,"
+  },
+  {
+   "role": "sidenote",
+   "text": "of atmospheric phe-"
+  },
+  {
+   "role": "sidenote",
+   "text": "nomena."
+  },
+  {
+   "role": "body",
+   "text": "purposes, (1) make such observations, measurements, investigations,"
+  },
+  {
+   "role": "body",
+   "text": "and studies of atmospheric phenomena, and establish such meteorologi-"
+  },
+  {
+   "role": "body",
+   "text": "cal offices and stations, as are necessary or best suited for ascertaining,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Reports, forecasts,"
+  },
+  {
+   "role": "sidenote",
+   "text": "etc."
+  },
+  {
+   "role": "body",
+   "text": "in advance, information concerning probable weather conditions; (2)"
+  },
+  {
+   "role": "body",
+   "text": "furnish such reports, forecasts, warnings, and advices to the Adminis-"
+  },
+  {
+   "role": "body",
+   "text": "trator, and to such persons engaged in civil aeronautics as may be"
+  },
+  {
+   "role": "body",
+   "text": "designated by the Administrator, and to such other persons as the"
+  },
+  {
+   "role": "body",
+   "text": "Chief of the Weather Bureau may determine, and such reports shall"
+  },
+  {
+   "role": "body",
+   "text": "be made in such manner and with such frequency as will best result in"
+  },
+  {
+   "role": "sidenote",
+   "text": "Reciprocal arrange-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ments."
+  },
+  {
+   "role": "body",
+   "text": "safety in and in facilitating air navigation; (3) cooperate with persons"
+  },
+  {
+   "role": "body",
+   "text": "engaged in air commerce, or employees thereof, in meteorological serv-"
+  },
+  {
+   "role": "body",
+   "text": "ice, establish and maintain reciprocal arrangements under which this"
+  },
+  {
+   "role": "body",
+   "text": "provision is to be carried out and collect and disseminate weather"
+  },
+  {
+   "role": "sidenote",
+   "text": "International ex-"
+  },
+  {
+   "role": "sidenote",
+   "text": "changes, etc."
+  },
+  {
+   "role": "body",
+   "text": "reports available from aircraft in flight; (4) establish and coordinate"
+  },
+  {
+   "role": "body",
+   "text": "the international exchanges of meteorological information required for"
+  },
+  {
+   "role": "body",
+   "text": "the safety and efficiency of air navigation; (5) participate in the"
+  },
+  {
+   "role": "body",
+   "text": "development of an international basic meteorological reporting net-"
+  },
+  {
+   "role": "body",
+   "text": "work, including the establishment, operation, and maintenance of"
+  },
+  {
+   "role": "body",
+   "text": "reporting stations on the high seas, in polar regions, and in foreign"
+  },
+  {
+   "role": "body",
+   "text": "countries in cooperation with other governmental agencies of the"
+  },
+  {
+   "role": "body",
+   "text": "United States and the meteorological services of foreign countries and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Coordination of re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "quirements in U. S"
+  },
+  {
+   "role": "body",
+   "text": "with persons engaged in air commerce; (6) coordinate meteorological"
+  },
+  {
+   "role": "body",
+   "text": "requirements in the United States in order to maintain standard"
+  },
+  {
+   "role": "body",
+   "text": "observations, promote efficient use of facilities and avoid duplication"
+  },
+  {
+   "role": "body",
+   "text": "of services unless such duplication tends to promote the safety and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Research projects."
+  },
+  {
+   "role": "body",
+   "text": "efficiency of air navigation; (7) promote and develop meteorological"
+  },
+  {
+   "role": "body",
+   "text": "science and foster and support  research projects in meteorology"
+  },
+  {
+   "role": "body",
+   "text": "through the utilization of private and governmental research facilities"
+  },
+  {
+   "role": "body",
+   "text": "and provide for the publication of the results of such research projects"
+  },
+  {
+   "role": "body",
+   "text": "unless such publication would be contrary to the public interest; and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Detail of personnel"
+  },
+  {
+   "role": "sidenote",
+   "text": "for training."
+  },
+  {
+   "role": "body",
+   "text": "(8) detail annually, within the limits of available appropriations made"
+  },
+  {
+   "role": "body",
+   "text": "by Congress, members of the Weather Bureau personnel for training"
+  },
+  {
+   "role": "body",
+   "text": "at Government expense, either at civilian institutions or otherwise, in"
+  },
+  {
+   "role": "body",
+   "text": "advanced methods of meterological science: Provided, That no such"
+  },
+  {
+   "role": "body",
+   "text": "member shall lose his individual status or seniority rating in the"
+  },
+  {
+   "role": "body",
+   "text": "Bureau merely by reason of absence due to such training.\""
+  },
+  {
+   "role": "body",
+   "text": "Approved August 8, 1946."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 912]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "August 8, 1946"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 6263]"
+  },
+  {
+   "role": "body",
+   "text": "To amend the Act of June 23, 1943, so as to authorize inclusion of periods of"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public Law 692]"
+  },
+  {
+   "role": "body",
+   "text": "education and training in an Army Transportation Corps civilian marine school"
+  },
+  {
+   "role": "body",
+   "text": "as \"service in the merchant marine\"."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the first sen-"
+  },
+  {
+   "role": "body",
+   "text": "tence of the Act entitled \"An Act to provide reemployment rights for"
+  },
+  {
+   "role": "body",
+   "text": "persons who leave their positions to serve in the merchant marine,"
+  },
+  {
+   "role": "sidenote",
+   "text": "57 Stat. 162."
+  },
+  {
+   "role": "body",
+   "text": "and for other purposes\", approved June 23, 1943 (U. S. C., 1940 edi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "50 U. S. C., Supp."
+  },
+  {
+   "role": "sidenote",
+   "text": "V, § 1471."
+  },
+  {
+   "role": "body",
+   "text": "tion, Supp. IV, title 50 App., sec. 1471), is amended to read as follows:"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 905."
+  },
+  {
+   "role": "sidenote",
+   "text": "\"Service in the mer-"
+  },
+  {
+   "role": "body",
+   "text": "\"That when used in this Act the term 'service in the merchant marine'"
+  },
+  {
+   "role": "sidenote",
+   "text": "chant marine.\""
+  },
+  {
+   "role": "body",
+   "text": "means service as an officer or member of the crew on or in connection"
+  },
+  {
+   "role": "body",
+   "text": "with a vessel documented under the laws of the United States or a"
+  },
+  {
+   "role": "body",
+   "text": "vessel owned by, chartered to, or operated by or for the account or use"
+  },
+  {
+   "role": "footnote",
+   "text": "80634°—47—PT. I——60"
+  }
+ ],
+ "disagreement_count": 24,
+ "tokens": {
+  "input_tokens": 23959,
+  "output_tokens": 7397,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.30588,
+ "seconds": 432.6,
+ "created": "2026-09-08T11:39:41"
+}

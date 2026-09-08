@@ -1,0 +1,509 @@
+{
+ "granule_id": "STATUTE-103-Pg1945",
+ "package_id": "STATUTE-103",
+ "volume": 103,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Providing for the convening of the second session of the One Hundred First Congress",
+ "date_issued": "1989-12-12",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "1945",
+ "image": "data/gold/STATUTE-103-Pg1945/p1.png",
+ "image_sha256": "921a41d54d460f8e3bc11a47c9a7a77c256061451ed169d6a1dd7161cd135600",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 101-228—DEC. 12, 1989          103 STAT. 1945"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 101-228"
+    },
+    {
+     "role": "body",
+     "text": "101st Congress"
+    },
+    {
+     "role": "body",
+     "text": "Joint Resolution"
+    },
+    {
+     "role": "sidenote",
+     "text": "Dec. 12, 1989"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.J. Res. 449]"
+    },
+    {
+     "role": "body",
+     "text": "Providing for the convening of the second session of the One Hundred First Congress."
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the second regular"
+    },
+    {
+     "role": "body",
+     "text": "session of the One Hundred First Congress shall begin at 12 o'clock"
+    },
+    {
+     "role": "body",
+     "text": "meridian on Tuesday, January 23, 1990."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Prior to the convening of the second regular session of the"
+    },
+    {
+     "role": "body",
+     "text": "One Hundred First Congress on January 23, 1990, as provided in"
+    },
+    {
+     "role": "body",
+     "text": "section 1 of this resolution, Congress shall reassemble at 12 o'clock"
+    },
+    {
+     "role": "body",
+     "text": "meridian on the second day after its Members are notified in"
+    },
+    {
+     "role": "body",
+     "text": "accordance with section 3 of this resolution."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. The Speaker of the House and the Majority Leader of the"
+    },
+    {
+     "role": "body",
+     "text": "Senate, acting jointly after consultation with the Minority Leader of"
+    },
+    {
+     "role": "body",
+     "text": "the House and the Minority Leader of the Senate, shall notify the"
+    },
+    {
+     "role": "body",
+     "text": "Members of the House and Senate, respectively, to reassemble"
+    },
+    {
+     "role": "body",
+     "text": "whenever, in their opinion, the public interest shall warrant it."
+    },
+    {
+     "role": "sidenote",
+     "text": "President of U.S."
+    },
+    {
+     "role": "sidenote",
+     "text": "Budget, Federal."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. Notwithstanding the provisions of section 1105 of title 31,"
+    },
+    {
+     "role": "body",
+     "text": "United States Code, the President shall transmit to the Congress not"
+    },
+    {
+     "role": "body",
+     "text": "later than January 22, 1990, the Budget for fiscal year 1991."
+    },
+    {
+     "role": "body",
+     "text": "Approved December 12, 1989."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—H.J. Res. 449:"
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+    },
+    {
+     "role": "footnote",
+     "text": "Nov. 21, considered and passed House and Senate."
+    },
+    {
+     "role": "footnote",
+     "text": "WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 25 (1989):"
+    },
+    {
+     "role": "footnote",
+     "text": "Dec. 12, Presidential statement."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 1014,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.05222,
+   "seconds": 14.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 101-228—DEC. 12, 1989          103 STAT. 1945"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 101-228"
+    },
+    {
+     "role": "body",
+     "text": "101st Congress"
+    },
+    {
+     "role": "body",
+     "text": "Joint Resolution"
+    },
+    {
+     "role": "sidenote",
+     "text": "Dec. 12, 1989"
+    },
+    {
+     "role": "body",
+     "text": "Providing for the convening of the second session of the One Hundred First Congress."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.J. Res. 449]"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the second regular"
+    },
+    {
+     "role": "body",
+     "text": "session of the One Hundred First Congress shall begin at 12 o'clock"
+    },
+    {
+     "role": "body",
+     "text": "meridian on Tuesday, January 23, 1990."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Prior to the convening of the second regular session of the"
+    },
+    {
+     "role": "body",
+     "text": "One Hundred First Congress on January 23, 1990, as provided in"
+    },
+    {
+     "role": "body",
+     "text": "section 1 of this resolution, Congress shall reassemble at 12 o'clock"
+    },
+    {
+     "role": "body",
+     "text": "meridian on the second day after its Members are notified in"
+    },
+    {
+     "role": "body",
+     "text": "accordance with section 3 of this resolution."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. The Speaker of the House and the Majority Leader of the"
+    },
+    {
+     "role": "body",
+     "text": "Senate, acting jointly after consultation with the Minority Leader of"
+    },
+    {
+     "role": "body",
+     "text": "the House and the Minority Leader of the Senate, shall notify the"
+    },
+    {
+     "role": "body",
+     "text": "Members of the House and Senate, respectively, to reassemble"
+    },
+    {
+     "role": "body",
+     "text": "whenever, in their opinion, the public interest shall warrant it."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. Notwithstanding the provisions of section 1105 of title 31,"
+    },
+    {
+     "role": "sidenote",
+     "text": "President of U.S."
+    },
+    {
+     "role": "body",
+     "text": "United States Code, the President shall transmit to the Congress not"
+    },
+    {
+     "role": "sidenote",
+     "text": "Budget, Federal."
+    },
+    {
+     "role": "body",
+     "text": "later than January 22, 1990, the Budget for fiscal year 1991."
+    },
+    {
+     "role": "body",
+     "text": "Approved December 12, 1989."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—H.J. Res. 449:"
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+    },
+    {
+     "role": "footnote",
+     "text": "Nov. 21, considered and passed House and Senate."
+    },
+    {
+     "role": "footnote",
+     "text": "WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 25 (1989):"
+    },
+    {
+     "role": "footnote",
+     "text": "Dec. 12, Presidential statement."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 1014,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.05222,
+   "seconds": 12.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 9490,
+   "output_tokens": 644,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06397,
+  "seconds": 10.1,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "Providing for the convening of the second session of the One Hundred First Congress.",
+    "kept": "",
+    "reason": "The 'Providing for...' line belongs after both sidenote lines; nothing printed here."
+   },
+   {
+    "run": 2,
+    "a": "Providing for the convening of the second session of the One Hundred First Congress.",
+    "b": "",
+    "kept": "Providing for the convening of the second session of the One Hundred First Congress.",
+    "reason": "Single italic descriptive line printed beneath the title, alongside the sidenote block."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "SEC. 4. Notwithstanding the provisions of section 1105 of title 31,",
+    "kept": "",
+    "reason": "SEC. 4 text does not begin here; sidenotes precede it in this arrangement."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "United States Code, the President shall transmit to the Congress not",
+    "kept": "",
+    "reason": "No text printed at this point; the body lines follow the sidenote pair."
+   },
+   {
+    "run": 5,
+    "a": "SEC. 4. Notwithstanding the provisions of section 1105 of title 31,\nUnited States Code, the President shall transmit to the Congress not",
+    "b": "",
+    "kept": "SEC. 4. Notwithstanding the provisions of section 1105 of title 31,\nUnited States Code, the President shall transmit to the Congress not",
+    "reason": "Both body lines of section 4 appear consecutively after the two marginal notes."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 101-228—DEC. 12, 1989          103 STAT. 1945"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 101-228"
+  },
+  {
+   "role": "body",
+   "text": "101st Congress"
+  },
+  {
+   "role": "body",
+   "text": "Joint Resolution"
+  },
+  {
+   "role": "sidenote",
+   "text": "Dec. 12, 1989"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H.J. Res. 449]"
+  },
+  {
+   "role": "body",
+   "text": "Providing for the convening of the second session of the One Hundred First Congress."
+  },
+  {
+   "role": "body",
+   "text": "Resolved by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the second regular"
+  },
+  {
+   "role": "body",
+   "text": "session of the One Hundred First Congress shall begin at 12 o'clock"
+  },
+  {
+   "role": "body",
+   "text": "meridian on Tuesday, January 23, 1990."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. Prior to the convening of the second regular session of the"
+  },
+  {
+   "role": "body",
+   "text": "One Hundred First Congress on January 23, 1990, as provided in"
+  },
+  {
+   "role": "body",
+   "text": "section 1 of this resolution, Congress shall reassemble at 12 o'clock"
+  },
+  {
+   "role": "body",
+   "text": "meridian on the second day after its Members are notified in"
+  },
+  {
+   "role": "body",
+   "text": "accordance with section 3 of this resolution."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. The Speaker of the House and the Majority Leader of the"
+  },
+  {
+   "role": "body",
+   "text": "Senate, acting jointly after consultation with the Minority Leader of"
+  },
+  {
+   "role": "body",
+   "text": "the House and the Minority Leader of the Senate, shall notify the"
+  },
+  {
+   "role": "body",
+   "text": "Members of the House and Senate, respectively, to reassemble"
+  },
+  {
+   "role": "body",
+   "text": "whenever, in their opinion, the public interest shall warrant it."
+  },
+  {
+   "role": "sidenote",
+   "text": "President of U.S."
+  },
+  {
+   "role": "sidenote",
+   "text": "Budget, Federal."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. Notwithstanding the provisions of section 1105 of title 31,"
+  },
+  {
+   "role": "body",
+   "text": "United States Code, the President shall transmit to the Congress not"
+  },
+  {
+   "role": "body",
+   "text": "later than January 22, 1990, the Budget for fiscal year 1991."
+  },
+  {
+   "role": "body",
+   "text": "Approved December 12, 1989."
+  },
+  {
+   "role": "footnote",
+   "text": "LEGISLATIVE HISTORY—H.J. Res. 449:"
+  },
+  {
+   "role": "footnote",
+   "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+  },
+  {
+   "role": "footnote",
+   "text": "Nov. 21, considered and passed House and Senate."
+  },
+  {
+   "role": "footnote",
+   "text": "WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 25 (1989):"
+  },
+  {
+   "role": "footnote",
+   "text": "Dec. 12, Presidential statement."
+  }
+ ],
+ "disagreement_count": 5,
+ "tokens": {
+  "input_tokens": 20089,
+  "output_tokens": 2672,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.16841,
+ "seconds": 36.9,
+ "created": "2026-09-08T11:53:27"
+}

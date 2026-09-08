@@ -1,0 +1,957 @@
+{
+ "granule_id": "STATUTE-69-Pg623-2",
+ "package_id": "STATUTE-69",
+ "volume": 69,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to revive and reenact the act \"\"Authorizing the Arkansas-Mississippi Bridge Commission, its public successors or public assigns, to construct, maintain, and operate a bridge across the Mississi",
+ "date_issued": "1955-08-09",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "623",
+ "image": "data/gold/STATUTE-69-Pg623-2/p1.png",
+ "image_sha256": "88c007c324b891d940cef2297a7b82c2c0b7c26d47a2957e3a2147c188fc5e25",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "69 STAT.]                    PUBLIC LAW 328—AUG. 9, 1955                                        623"
+    },
+    {
+     "role": "body",
+     "text": "first section of this Act which has not theretofore been sold under such"
+    },
+    {
+     "role": "body",
+     "text": "section or with respect to which a commitment to sell under such section"
+    },
+    {
+     "role": "sidenote",
+     "text": "Report to Con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gress."
+    },
+    {
+     "role": "body",
+     "text": "has not been made, and provided that the amount obtained for such"
+    },
+    {
+     "role": "body",
+     "text": "project shall be reported to the Banking and Currency Committees of"
+    },
+    {
+     "role": "body",
+     "text": "the Senate and House of Representatives."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 9, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 327                                                    CHAPTER 687"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 9, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6066]"
+    },
+    {
+     "role": "body",
+     "text": "Authorizing modification of the project for flood protection on the San Joaquin"
+    },
+    {
+     "role": "body",
+     "text": "River and tributaries, California."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "San Joaquin"
+    },
+    {
+     "role": "sidenote",
+     "text": "River project,"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the project for"
+    },
+    {
+     "role": "sidenote",
+     "text": "Calif."
+    },
+    {
+     "role": "sidenote",
+     "text": "58 Stat. 901."
+    },
+    {
+     "role": "body",
+     "text": "construction of channel improvement works and levee construction"
+    },
+    {
+     "role": "body",
+     "text": "and reconstruction on the San Joaquin River and tributary channels,"
+    },
+    {
+     "role": "body",
+     "text": "authorized by the Flood Control Act approved December 22, 1944, is"
+    },
+    {
+     "role": "body",
+     "text": "hereby modified to provide that in lieu of furnishing flowage ease-"
+    },
+    {
+     "role": "body",
+     "text": "ments along the San Joaquin River upstream of the mouth of the"
+    },
+    {
+     "role": "body",
+     "text": "Merced River as set forth in the report of the Chief of Engineers, pub-"
+    },
+    {
+     "role": "body",
+     "text": "lished as Flood Control Committee Document Numbered 2, Seventy-"
+    },
+    {
+     "role": "body",
+     "text": "eighth Congress, responsible local interests may construct levees and"
+    },
+    {
+     "role": "body",
+     "text": "channel improvements, as required, to protect such lands against floods,"
+    },
+    {
+     "role": "body",
+     "text": "subject to approval by the Chief of Engineers, United States Army:"
+    },
+    {
+     "role": "body",
+     "text": "Provided, That the flood hazard to downstream areas is not materially"
+    },
+    {
+     "role": "body",
+     "text": "increased thereby, and that due consideration be given to the timing"
+    },
+    {
+     "role": "body",
+     "text": "and sequence of construction of the parts of the project to be accom-"
+    },
+    {
+     "role": "body",
+     "text": "plished by local interests in proper relation to the development of"
+    },
+    {
+     "role": "body",
+     "text": "flood control storage on the tributaries of the San Joaquin River: And"
+    },
+    {
+     "role": "body",
+     "text": "provided further, That construction and maintenance of such levees"
+    },
+    {
+     "role": "body",
+     "text": "and channel improvements be undertaken at no cost to the United"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 9, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 328                                                    CHAPTER 688"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 9, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6417]"
+    },
+    {
+     "role": "body",
+     "text": "To revive and reenact the Act \"Authorizing the Arkansas-Mississippi Bridge"
+    },
+    {
+     "role": "body",
+     "text": "Commission, its public successors or public assigns, to construct, maintain, and"
+    },
+    {
+     "role": "body",
+     "text": "operate a bridge across the Mississippi River at or near Friar Point, Missis-"
+    },
+    {
+     "role": "body",
+     "text": "sippi, and Helena, Arkansas\", approved May 17, 1939."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Arkansas-Mis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sissippi Bridge"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Act ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Commission."
+    },
+    {
+     "role": "sidenote",
+     "text": "53 Stat. 747."
+    },
+    {
+     "role": "body",
+     "text": "proved May 17, 1939, authorizing the Arkansas-Mississippi Bridge"
+    },
+    {
+     "role": "body",
+     "text": "Commission, its public successors or public assigns, to construct, main-"
+    },
+    {
+     "role": "body",
+     "text": "tain, and operate a bridge across the Mississippi River at or near"
+    },
+    {
+     "role": "body",
+     "text": "Friar Point, Mississippi, and Helena, Arkansas, as amended, be and"
+    },
+    {
+     "role": "body",
+     "text": "is hereby revived and reenacted: Provided, That this Act shall be"
+    },
+    {
+     "role": "body",
+     "text": "null and void unless the actual construction of the bridge herein"
+    },
+    {
+     "role": "body",
+     "text": "referred to be commenced within two years and completed within"
+    },
+    {
+     "role": "body",
+     "text": "four years from the date of approval hereof."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The right to alter, amend, or repeal this Act is hereby"
+    },
+    {
+     "role": "body",
+     "text": "expressly reserved."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 9, 1955."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 1995,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07675,
+   "seconds": 29.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "69 STAT.]"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 328—AUG. 9, 1955"
+    },
+    {
+     "role": "page-number",
+     "text": "623"
+    },
+    {
+     "role": "body",
+     "text": "first section of this Act which has not theretofore been sold under such"
+    },
+    {
+     "role": "body",
+     "text": "section or with respect to which a commitment to sell under such section"
+    },
+    {
+     "role": "body",
+     "text": "has not been made, and provided that the amount obtained for such"
+    },
+    {
+     "role": "sidenote",
+     "text": "Report to Con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gress."
+    },
+    {
+     "role": "body",
+     "text": "project shall be reported to the Banking and Currency Committees of"
+    },
+    {
+     "role": "body",
+     "text": "the Senate and House of Representatives."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 9, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 327"
+    },
+    {
+     "role": "body",
+     "text": "CHAPTER 687"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 9, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6066]"
+    },
+    {
+     "role": "body",
+     "text": "Authorizing modification of the project for flood protection on the San Joaquin"
+    },
+    {
+     "role": "body",
+     "text": "River and tributaries, California."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the project for"
+    },
+    {
+     "role": "sidenote",
+     "text": "San Joaquin"
+    },
+    {
+     "role": "sidenote",
+     "text": "River project,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Calif."
+    },
+    {
+     "role": "sidenote",
+     "text": "58 Stat. 901."
+    },
+    {
+     "role": "body",
+     "text": "construction of channel improvement works and levee construction"
+    },
+    {
+     "role": "body",
+     "text": "and reconstruction on the San Joaquin River and tributary channels,"
+    },
+    {
+     "role": "body",
+     "text": "authorized by the Flood Control Act approved December 22, 1944, is"
+    },
+    {
+     "role": "body",
+     "text": "hereby modified to provide that in lieu of furnishing flowage ease-"
+    },
+    {
+     "role": "body",
+     "text": "ments along the San Joaquin River upstream of the mouth of the"
+    },
+    {
+     "role": "body",
+     "text": "Merced River as set forth in the report of the Chief of Engineers, pub-"
+    },
+    {
+     "role": "body",
+     "text": "lished as Flood Control Committee Document Numbered 2, Seventy-"
+    },
+    {
+     "role": "body",
+     "text": "eighth Congress, responsible local interests may construct levees and"
+    },
+    {
+     "role": "body",
+     "text": "channel improvements, as required, to protect such lands against floods,"
+    },
+    {
+     "role": "body",
+     "text": "subject to approval by the Chief of Engineers, United States Army:"
+    },
+    {
+     "role": "body",
+     "text": "Provided, That the flood hazard to downstream areas is not materially"
+    },
+    {
+     "role": "body",
+     "text": "increased thereby, and that due consideration be given to the timing"
+    },
+    {
+     "role": "body",
+     "text": "and sequence of construction of the parts of the project to be accom-"
+    },
+    {
+     "role": "body",
+     "text": "plished by local interests in proper relation to the development of"
+    },
+    {
+     "role": "body",
+     "text": "flood control storage on the tributaries of the San Joaquin River: And"
+    },
+    {
+     "role": "body",
+     "text": "provided further, That construction and maintenance of such levees"
+    },
+    {
+     "role": "body",
+     "text": "and channel improvements be undertaken at no cost to the United"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 9, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 328"
+    },
+    {
+     "role": "body",
+     "text": "CHAPTER 688"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 9, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6417]"
+    },
+    {
+     "role": "body",
+     "text": "To revive and reenact the Act \"Authorizing the Arkansas-Mississippi Bridge"
+    },
+    {
+     "role": "body",
+     "text": "Commission, its public successors or public assigns, to construct, maintain, and"
+    },
+    {
+     "role": "body",
+     "text": "operate a bridge across the Mississippi River at or near Friar Point, Missis-"
+    },
+    {
+     "role": "body",
+     "text": "sippi, and Helena, Arkansas\", approved May 17, 1939."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Act ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Arkansas-Mis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sissippi Bridge"
+    },
+    {
+     "role": "sidenote",
+     "text": "Commission."
+    },
+    {
+     "role": "sidenote",
+     "text": "53 Stat. 747."
+    },
+    {
+     "role": "body",
+     "text": "proved May 17, 1939, authorizing the Arkansas-Mississippi Bridge"
+    },
+    {
+     "role": "body",
+     "text": "Commission, its public successors or public assigns, to construct, main-"
+    },
+    {
+     "role": "body",
+     "text": "tain, and operate a bridge across the Mississippi River at or near"
+    },
+    {
+     "role": "body",
+     "text": "Friar Point, Mississippi, and Helena, Arkansas, as amended, be and"
+    },
+    {
+     "role": "body",
+     "text": "is hereby revived and reenacted: Provided, That this Act shall be"
+    },
+    {
+     "role": "body",
+     "text": "null and void unless the actual construction of the bridge herein"
+    },
+    {
+     "role": "body",
+     "text": "referred to be commenced within two years and completed within"
+    },
+    {
+     "role": "body",
+     "text": "four years from the date of approval hereof."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The right to alter, amend, or repeal this Act is hereby"
+    },
+    {
+     "role": "body",
+     "text": "expressly reserved."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 9, 1955."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2045,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07799,
+   "seconds": 58.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11222,
+   "output_tokens": 1357,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.09045,
+  "seconds": 148.4,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "69 STAT.]                    PUBLIC LAW 328—AUG. 9, 1955                                        623",
+    "b": "69 STAT.]\nPUBLIC LAW 328—AUG. 9, 1955\n623",
+    "kept": "69 STAT.]\nPUBLIC LAW 328—AUG. 9, 1955\n623",
+    "reason": "Head band contains the volume tag, the centered running head, and the page number, which has its own role."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "has not been made, and provided that the amount obtained for such",
+    "kept": "has not been made, and provided that the amount obtained for such",
+    "reason": "The body text runs continuously; the marginal note 'Report to Congress.' stands beside this line, so the body line precedes it."
+   },
+   {
+    "run": 3,
+    "a": "has not been made, and provided that the amount obtained for such",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed before the sidenote."
+   },
+   {
+    "run": 4,
+    "a": "Public Law 327                                                    CHAPTER 687",
+    "b": "Public Law 327\nCHAPTER 687",
+    "kept": "Public Law 327                                                    CHAPTER 687",
+    "reason": "'Public Law 327' and 'CHAPTER 687' are printed on one line, at left and right."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "United States of America in Congress assembled, That the project for",
+    "kept": "United States of America in Congress assembled, That the project for",
+    "reason": "Body enactment clause is continuous; the 'San Joaquin River project' sidenote sits alongside it."
+   },
+   {
+    "run": 6,
+    "a": "United States of America in Congress assembled, That the project for",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed before the sidenote block."
+   },
+   {
+    "run": 7,
+    "a": "Public Law 328                                                    CHAPTER 688",
+    "b": "Public Law 328\nCHAPTER 688",
+    "kept": "Public Law 328                                                    CHAPTER 688",
+    "reason": "'Public Law 328' and 'CHAPTER 688' are printed on the same line."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "United States of America in Congress assembled, That the Act ap-",
+    "kept": "United States of America in Congress assembled, That the Act ap-",
+    "reason": "Body text continuous; the 'Arkansas-Mississippi Bridge Commission' sidenote is beside it."
+   },
+   {
+    "run": 9,
+    "a": "United States of America in Congress assembled, That the Act ap-",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed before the sidenote block."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "69 STAT.]"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 328—AUG. 9, 1955"
+  },
+  {
+   "role": "page-number",
+   "text": "623"
+  },
+  {
+   "role": "body",
+   "text": "first section of this Act which has not theretofore been sold under such"
+  },
+  {
+   "role": "body",
+   "text": "section or with respect to which a commitment to sell under such section"
+  },
+  {
+   "role": "body",
+   "text": "has not been made, and provided that the amount obtained for such"
+  },
+  {
+   "role": "sidenote",
+   "text": "Report to Con-"
+  },
+  {
+   "role": "sidenote",
+   "text": "gress."
+  },
+  {
+   "role": "body",
+   "text": "project shall be reported to the Banking and Currency Committees of"
+  },
+  {
+   "role": "body",
+   "text": "the Senate and House of Representatives."
+  },
+  {
+   "role": "body",
+   "text": "Approved August 9, 1955."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 327                                                    CHAPTER 687"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "August 9, 1955"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 6066]"
+  },
+  {
+   "role": "body",
+   "text": "Authorizing modification of the project for flood protection on the San Joaquin"
+  },
+  {
+   "role": "body",
+   "text": "River and tributaries, California."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the project for"
+  },
+  {
+   "role": "sidenote",
+   "text": "San Joaquin"
+  },
+  {
+   "role": "sidenote",
+   "text": "River project,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Calif."
+  },
+  {
+   "role": "sidenote",
+   "text": "58 Stat. 901."
+  },
+  {
+   "role": "body",
+   "text": "construction of channel improvement works and levee construction"
+  },
+  {
+   "role": "body",
+   "text": "and reconstruction on the San Joaquin River and tributary channels,"
+  },
+  {
+   "role": "body",
+   "text": "authorized by the Flood Control Act approved December 22, 1944, is"
+  },
+  {
+   "role": "body",
+   "text": "hereby modified to provide that in lieu of furnishing flowage ease-"
+  },
+  {
+   "role": "body",
+   "text": "ments along the San Joaquin River upstream of the mouth of the"
+  },
+  {
+   "role": "body",
+   "text": "Merced River as set forth in the report of the Chief of Engineers, pub-"
+  },
+  {
+   "role": "body",
+   "text": "lished as Flood Control Committee Document Numbered 2, Seventy-"
+  },
+  {
+   "role": "body",
+   "text": "eighth Congress, responsible local interests may construct levees and"
+  },
+  {
+   "role": "body",
+   "text": "channel improvements, as required, to protect such lands against floods,"
+  },
+  {
+   "role": "body",
+   "text": "subject to approval by the Chief of Engineers, United States Army:"
+  },
+  {
+   "role": "body",
+   "text": "Provided, That the flood hazard to downstream areas is not materially"
+  },
+  {
+   "role": "body",
+   "text": "increased thereby, and that due consideration be given to the timing"
+  },
+  {
+   "role": "body",
+   "text": "and sequence of construction of the parts of the project to be accom-"
+  },
+  {
+   "role": "body",
+   "text": "plished by local interests in proper relation to the development of"
+  },
+  {
+   "role": "body",
+   "text": "flood control storage on the tributaries of the San Joaquin River: And"
+  },
+  {
+   "role": "body",
+   "text": "provided further, That construction and maintenance of such levees"
+  },
+  {
+   "role": "body",
+   "text": "and channel improvements be undertaken at no cost to the United"
+  },
+  {
+   "role": "body",
+   "text": "States."
+  },
+  {
+   "role": "body",
+   "text": "Approved August 9, 1955."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 328                                                    CHAPTER 688"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "August 9, 1955"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 6417]"
+  },
+  {
+   "role": "body",
+   "text": "To revive and reenact the Act \"Authorizing the Arkansas-Mississippi Bridge"
+  },
+  {
+   "role": "body",
+   "text": "Commission, its public successors or public assigns, to construct, maintain, and"
+  },
+  {
+   "role": "body",
+   "text": "operate a bridge across the Mississippi River at or near Friar Point, Missis-"
+  },
+  {
+   "role": "body",
+   "text": "sippi, and Helena, Arkansas\", approved May 17, 1939."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Act ap-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Arkansas-Mis-"
+  },
+  {
+   "role": "sidenote",
+   "text": "sissippi Bridge"
+  },
+  {
+   "role": "sidenote",
+   "text": "Commission."
+  },
+  {
+   "role": "sidenote",
+   "text": "53 Stat. 747."
+  },
+  {
+   "role": "body",
+   "text": "proved May 17, 1939, authorizing the Arkansas-Mississippi Bridge"
+  },
+  {
+   "role": "body",
+   "text": "Commission, its public successors or public assigns, to construct, main-"
+  },
+  {
+   "role": "body",
+   "text": "tain, and operate a bridge across the Mississippi River at or near"
+  },
+  {
+   "role": "body",
+   "text": "Friar Point, Mississippi, and Helena, Arkansas, as amended, be and"
+  },
+  {
+   "role": "body",
+   "text": "is hereby revived and reenacted: Provided, That this Act shall be"
+  },
+  {
+   "role": "body",
+   "text": "null and void unless the actual construction of the bridge herein"
+  },
+  {
+   "role": "body",
+   "text": "referred to be commenced within two years and completed within"
+  },
+  {
+   "role": "body",
+   "text": "four years from the date of approval hereof."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The right to alter, amend, or repeal this Act is hereby"
+  },
+  {
+   "role": "body",
+   "text": "expressly reserved."
+  },
+  {
+   "role": "body",
+   "text": "Approved August 9, 1955."
+  }
+ ],
+ "disagreement_count": 9,
+ "tokens": {
+  "input_tokens": 21821,
+  "output_tokens": 5397,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.24519,
+ "seconds": 237.1,
+ "created": "2026-09-08T11:32:28"
+}

@@ -1,0 +1,1163 @@
+{
+ "granule_id": "STATUTE-1-Pg448-2",
+ "package_id": "STATUTE-1",
+ "volume": 1,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act for allowing compensation to the members of the Senate and House of Representatives of the United States, and to certain officers of both Houses.",
+ "date_issued": "1796-03-10",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "448",
+ "image": "data/gold/STATUTE-1-Pg448-2/p1.png",
+ "image_sha256": "a8fc7a7006c5daecb34e69df8fa295d305d4fe8cdfe2797ec0f541fbb16457b0",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "high"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "448\tFOURTH CONGRESS.  SESS. I. CH. 2, 4.   1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "Specific ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "propriations for"
+    },
+    {
+     "role": "sidenote",
+     "text": "support of gov-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ernment, for"
+    },
+    {
+     "role": "sidenote",
+     "text": "1796."
+    },
+    {
+     "role": "body",
+     "text": "Clark, late commissioner of the loan office for the state of Rhode Island,"
+    },
+    {
+     "role": "body",
+     "text": "one thousand nine hundred and seventy-four dollars and three cents."
+    },
+    {
+     "role": "body",
+     "text": "For the discharge of such miscellaneous demands against the United"
+    },
+    {
+     "role": "body",
+     "text": "States, other than those on account of the civil department, not other-"
+    },
+    {
+     "role": "body",
+     "text": "wise provided for, and which shall have been ascertained and admitted"
+    },
+    {
+     "role": "body",
+     "text": "in due course of settlement at the treasury, and which are of a nature,"
+    },
+    {
+     "role": "body",
+     "text": "according to the usage thereof, to require payment in specie, two thou-"
+    },
+    {
+     "role": "body",
+     "text": "sand dollars."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That the several appropriations"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 138."
+    },
+    {
+     "role": "body",
+     "text": "herein before made, shall be paid and discharged out of the fund of six"
+    },
+    {
+     "role": "body",
+     "text": "hundred thousand dollars, reserved by the act \"making provision for"
+    },
+    {
+     "role": "body",
+     "text": "the debt of the United States.\""
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 5, 1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 19, 1796."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. II.—An Act further extending the time for receiving on Loan the Domestic"
+    },
+    {
+     "role": "body",
+     "text": "Debt of the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of March"
+    },
+    {
+     "role": "sidenote",
+     "text": "3, 1797, ch. 25."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That the term"
+    },
+    {
+     "role": "sidenote",
+     "text": "Extension of"
+    },
+    {
+     "role": "sidenote",
+     "text": "the term for re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ceiving on loan"
+    },
+    {
+     "role": "sidenote",
+     "text": "the domestic"
+    },
+    {
+     "role": "sidenote",
+     "text": "debt."
+    },
+    {
+     "role": "body",
+     "text": "for receiving on loan that part of the domestic debt of the United States,"
+    },
+    {
+     "role": "body",
+     "text": "which has not been subscribed, in pursuance of the provisions heretofore"
+    },
+    {
+     "role": "body",
+     "text": "made by law for that purpose, be, and the same is hereby further"
+    },
+    {
+     "role": "body",
+     "text": "extended, until the thirty-first day of December next, on the same terms"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 138."
+    },
+    {
+     "role": "body",
+     "text": "and conditions, as are contained in the act, intituled  \" An act making"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "provision for the debt of the United States :\"  Provided, That the books"
+    },
+    {
+     "role": "body",
+     "text": "for receiving the said subscriptions shall be opened only at the treasury"
+    },
+    {
+     "role": "body",
+     "text": "of the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Reimburse-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment of part of"
+    },
+    {
+     "role": "sidenote",
+     "text": "the principal."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That it shall be lawful to reimburse"
+    },
+    {
+     "role": "body",
+     "text": "so much of the principal of the debt or stock, which may be subscribed,"
+    },
+    {
+     "role": "body",
+     "text": "pursuant to this act, as will make the reimbursement thereof equal in"
+    },
+    {
+     "role": "body",
+     "text": "proportion and degree, to that of the same stock subscribed antecedent to"
+    },
+    {
+     "role": "body",
+     "text": "the present year; and the said reimbursement shall be made at the expi-"
+    },
+    {
+     "role": "body",
+     "text": "ration of the quarter in which such debt or stock shall be subscribed,"
+    },
+    {
+     "role": "body",
+     "text": "and pursuant to the rules and conditions prescribed by the act, intituled"
+    },
+    {
+     "role": "sidenote",
+     "text": "1795, ch. 45."
+    },
+    {
+     "role": "body",
+     "text": "\" An act making further provision for the support of public credit, and"
+    },
+    {
+     "role": "body",
+     "text": "for the redemption of the public debt.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "Provision for"
+    },
+    {
+     "role": "sidenote",
+     "text": "the payment of"
+    },
+    {
+     "role": "sidenote",
+     "text": "interest to non-"
+    },
+    {
+     "role": "sidenote",
+     "text": "subscribers."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That such of the creditors of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, as have not subscribed, and shall not subscribe to the"
+    },
+    {
+     "role": "body",
+     "text": "said loan, shall, nevertheless, receive, during the year one thousand"
+    },
+    {
+     "role": "body",
+     "text": "seven hundred and ninety-six, a rate per centum on the amount of such"
+    },
+    {
+     "role": "body",
+     "text": "of their demands as have been registered, or as shall be registered at the"
+    },
+    {
+     "role": "body",
+     "text": "treasury, conformably to the directions in the act, intituled \" An act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 138."
+    },
+    {
+     "role": "body",
+     "text": "making provision for the debt of the United States,\" equal to the interest"
+    },
+    {
+     "role": "body",
+     "text": "which would be payable to them as subscribing creditors."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 19, 1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 10, 1796."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. IV.—An Act for allowing compensation to the members of the Senate and"
+    },
+    {
+     "role": "body",
+     "text": "House of Representatives of the United States, and to certain officers of both Houses."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Allowance to"
+    },
+    {
+     "role": "sidenote",
+     "text": "senators."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That at every"
+    },
+    {
+     "role": "body",
+     "text": "session of Congress, and at every meeting of the Senate in the recess of"
+    },
+    {
+     "role": "body",
+     "text": "Congress, from and after the third day of March in the present year,"
+    },
+    {
+     "role": "body",
+     "text": "each Senator shall be entitled to receive six dollars for every day he"
+    },
+    {
+     "role": "body",
+     "text": "shall attend the Senate; and shall also be allowed, at the commence-"
+    },
+    {
+     "role": "body",
+     "text": "ment and end of every such session and meeting, six dollars for every"
+    },
+    {
+     "role": "body",
+     "text": "twenty miles of the estimated distance, by the most usual road, from his"
+    },
+    {
+     "role": "body",
+     "text": "place of residence to the seat of Congress : And in case any member of"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7608,
+    "output_tokens": 2438,
+    "cache_read_input_tokens": 770,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09938,
+   "seconds": 33.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "448"
+    },
+    {
+     "role": "running-head",
+     "text": "FOURTH CONGRESS.  SESS. I. CH. 2, 4.   1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "Specific ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "propriations for"
+    },
+    {
+     "role": "sidenote",
+     "text": "support of gov-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ernment, for"
+    },
+    {
+     "role": "sidenote",
+     "text": "1796."
+    },
+    {
+     "role": "body",
+     "text": "Clark, late commissioner of the loan office for the state of Rhode Island,"
+    },
+    {
+     "role": "body",
+     "text": "one thousand nine hundred and seventy-four dollars and three cents."
+    },
+    {
+     "role": "body",
+     "text": "For the discharge of such miscellaneous demands against the United"
+    },
+    {
+     "role": "body",
+     "text": "States, other than those on account of the civil department, not other-"
+    },
+    {
+     "role": "body",
+     "text": "wise provided for, and which shall have been ascertained and admitted"
+    },
+    {
+     "role": "body",
+     "text": "in due course of settlement at the treasury, and which are of a nature,"
+    },
+    {
+     "role": "body",
+     "text": "according to the usage thereof, to require payment in specie, two thou-"
+    },
+    {
+     "role": "body",
+     "text": "sand dollars."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That the several appropriations"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 138."
+    },
+    {
+     "role": "body",
+     "text": "herein before made, shall be paid and discharged out of the fund of six"
+    },
+    {
+     "role": "body",
+     "text": "hundred thousand dollars, reserved by the act \"making provision for"
+    },
+    {
+     "role": "body",
+     "text": "the debt of the United States.\""
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 5, 1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 19, 1796."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. II.—An Act further extending the time for receiving on Loan the Domestic"
+    },
+    {
+     "role": "body",
+     "text": "Debt of the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of March"
+    },
+    {
+     "role": "sidenote",
+     "text": "3, 1797, ch. 25."
+    },
+    {
+     "role": "sidenote",
+     "text": "Extension of"
+    },
+    {
+     "role": "sidenote",
+     "text": "the term for re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ceiving on loan"
+    },
+    {
+     "role": "sidenote",
+     "text": "the domestic"
+    },
+    {
+     "role": "sidenote",
+     "text": "debt."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That the term"
+    },
+    {
+     "role": "body",
+     "text": "for receiving on loan that part of the domestic debt of the United States,"
+    },
+    {
+     "role": "body",
+     "text": "which has not been subscribed, in pursuance of the provisions heretofore"
+    },
+    {
+     "role": "body",
+     "text": "made by law for that purpose, be, and the same is hereby further"
+    },
+    {
+     "role": "body",
+     "text": "extended, until the thirty-first day of December next, on the same terms"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 138."
+    },
+    {
+     "role": "body",
+     "text": "and conditions, as are contained in the act, intituled  \" An act making"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "provision for the debt of the United States :\"  Provided, That the books"
+    },
+    {
+     "role": "body",
+     "text": "for receiving the said subscriptions shall be opened only at the treasury"
+    },
+    {
+     "role": "body",
+     "text": "of the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Reimburse-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment of part of"
+    },
+    {
+     "role": "sidenote",
+     "text": "the principal."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That it shall be lawful to reimburse"
+    },
+    {
+     "role": "body",
+     "text": "so much of the principal of the debt or stock, which may be subscribed,"
+    },
+    {
+     "role": "body",
+     "text": "pursuant to this act, as will make the reimbursement thereof equal in"
+    },
+    {
+     "role": "body",
+     "text": "proportion and degree, to that of the same stock subscribed antecedent to"
+    },
+    {
+     "role": "body",
+     "text": "the present year; and the said reimbursement shall be made at the expi-"
+    },
+    {
+     "role": "body",
+     "text": "ration of the quarter in which such debt or stock shall be subscribed,"
+    },
+    {
+     "role": "body",
+     "text": "and pursuant to the rules and conditions prescribed by the act, intituled"
+    },
+    {
+     "role": "sidenote",
+     "text": "1795, ch. 45."
+    },
+    {
+     "role": "body",
+     "text": "\" An act making further provision for the support of public credit, and"
+    },
+    {
+     "role": "body",
+     "text": "for the redemption of the public debt.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "Provision for"
+    },
+    {
+     "role": "sidenote",
+     "text": "the payment of"
+    },
+    {
+     "role": "sidenote",
+     "text": "interest to non-"
+    },
+    {
+     "role": "sidenote",
+     "text": "subscribers."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That such of the creditors of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, as have not subscribed, and shall not subscribe to the"
+    },
+    {
+     "role": "body",
+     "text": "said loan, shall, nevertheless, receive, during the year one thousand"
+    },
+    {
+     "role": "body",
+     "text": "seven hundred and ninety-six, a rate per centum on the amount of such"
+    },
+    {
+     "role": "body",
+     "text": "of their demands as have been registered, or as shall be registered at the"
+    },
+    {
+     "role": "body",
+     "text": "treasury, conformably to the directions in the act, intituled \" An act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 138."
+    },
+    {
+     "role": "body",
+     "text": "making provision for the debt of the United States,\" equal to the interest"
+    },
+    {
+     "role": "body",
+     "text": "which would be payable to them as subscribing creditors."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 19, 1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 10, 1796."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. IV.—An Act for allowing compensation to the members of the Senate and"
+    },
+    {
+     "role": "body",
+     "text": "House of Representatives of the United States, and to certain officers of both Houses."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Allowance to"
+    },
+    {
+     "role": "sidenote",
+     "text": "senators."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That at every"
+    },
+    {
+     "role": "body",
+     "text": "session of Congress, and at every meeting of the Senate in the recess of"
+    },
+    {
+     "role": "body",
+     "text": "Congress, from and after the third day of March in the present year,"
+    },
+    {
+     "role": "body",
+     "text": "each Senator shall be entitled to receive six dollars for every day he"
+    },
+    {
+     "role": "body",
+     "text": "shall attend the Senate; and shall also be allowed, at the commence-"
+    },
+    {
+     "role": "body",
+     "text": "ment and end of every such session and meeting, six dollars for every"
+    },
+    {
+     "role": "body",
+     "text": "twenty miles of the estimated distance, by the most usual road, from his"
+    },
+    {
+     "role": "body",
+     "text": "place of residence to the seat of Congress : And in case any member of"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7611,
+    "output_tokens": 2450,
+    "cache_read_input_tokens": 712,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09966,
+   "seconds": 32.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11945,
+   "output_tokens": 653,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.07647,
+  "seconds": 10.7,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "high",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "448\tFOURTH CONGRESS.  SESS. I. CH. 2, 4.   1796.",
+    "b": "448\nFOURTH CONGRESS.  SESS. I. CH. 2, 4.   1796.",
+    "kept": "448\nFOURTH CONGRESS.  SESS. I. CH. 2, 4.   1796.",
+    "reason": "The folio 448 is a separate page number at the left margin, distinct from the centered running head."
+   },
+   {
+    "run": 2,
+    "a": "SECTION 1. Be it enacted by the Senate and House of Representatives\nof the United States of America in Congress assembled, That the term",
+    "b": "",
+    "kept": "SECTION 1. Be it enacted by the Senate and House of Representatives\nof the United States of America in Congress assembled, That the term",
+    "reason": "These body lines align vertically with the sidenotes 'Act of March' and '3, 1797, ch. 25.', i.e. they precede the 'Extension of...' sidenote block."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "SECTION 1. Be it enacted by the Senate and House of Representatives\nof the United States of America in Congress assembled, That the term",
+    "kept": "",
+    "reason": "The same two body lines belong earlier (run 2); nothing is printed here after the 'debt.' sidenote."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "448"
+  },
+  {
+   "role": "running-head",
+   "text": "FOURTH CONGRESS.  SESS. I. CH. 2, 4.   1796."
+  },
+  {
+   "role": "sidenote",
+   "text": "Specific ap-"
+  },
+  {
+   "role": "sidenote",
+   "text": "propriations for"
+  },
+  {
+   "role": "sidenote",
+   "text": "support of gov-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ernment, for"
+  },
+  {
+   "role": "sidenote",
+   "text": "1796."
+  },
+  {
+   "role": "body",
+   "text": "Clark, late commissioner of the loan office for the state of Rhode Island,"
+  },
+  {
+   "role": "body",
+   "text": "one thousand nine hundred and seventy-four dollars and three cents."
+  },
+  {
+   "role": "body",
+   "text": "For the discharge of such miscellaneous demands against the United"
+  },
+  {
+   "role": "body",
+   "text": "States, other than those on account of the civil department, not other-"
+  },
+  {
+   "role": "body",
+   "text": "wise provided for, and which shall have been ascertained and admitted"
+  },
+  {
+   "role": "body",
+   "text": "in due course of settlement at the treasury, and which are of a nature,"
+  },
+  {
+   "role": "body",
+   "text": "according to the usage thereof, to require payment in specie, two thou-"
+  },
+  {
+   "role": "body",
+   "text": "sand dollars."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That the several appropriations"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 138."
+  },
+  {
+   "role": "body",
+   "text": "herein before made, shall be paid and discharged out of the fund of six"
+  },
+  {
+   "role": "body",
+   "text": "hundred thousand dollars, reserved by the act \"making provision for"
+  },
+  {
+   "role": "body",
+   "text": "the debt of the United States.\""
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 5, 1796."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 19, 1796."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. II.—An Act further extending the time for receiving on Loan the Domestic"
+  },
+  {
+   "role": "body",
+   "text": "Debt of the United States."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of March"
+  },
+  {
+   "role": "sidenote",
+   "text": "3, 1797, ch. 25."
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+  },
+  {
+   "role": "body",
+   "text": "of the United States of America in Congress assembled, That the term"
+  },
+  {
+   "role": "sidenote",
+   "text": "Extension of"
+  },
+  {
+   "role": "sidenote",
+   "text": "the term for re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ceiving on loan"
+  },
+  {
+   "role": "sidenote",
+   "text": "the domestic"
+  },
+  {
+   "role": "sidenote",
+   "text": "debt."
+  },
+  {
+   "role": "body",
+   "text": "for receiving on loan that part of the domestic debt of the United States,"
+  },
+  {
+   "role": "body",
+   "text": "which has not been subscribed, in pursuance of the provisions heretofore"
+  },
+  {
+   "role": "body",
+   "text": "made by law for that purpose, be, and the same is hereby further"
+  },
+  {
+   "role": "body",
+   "text": "extended, until the thirty-first day of December next, on the same terms"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 138."
+  },
+  {
+   "role": "body",
+   "text": "and conditions, as are contained in the act, intituled  \" An act making"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "provision for the debt of the United States :\"  Provided, That the books"
+  },
+  {
+   "role": "body",
+   "text": "for receiving the said subscriptions shall be opened only at the treasury"
+  },
+  {
+   "role": "body",
+   "text": "of the United States."
+  },
+  {
+   "role": "sidenote",
+   "text": "Reimburse-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ment of part of"
+  },
+  {
+   "role": "sidenote",
+   "text": "the principal."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That it shall be lawful to reimburse"
+  },
+  {
+   "role": "body",
+   "text": "so much of the principal of the debt or stock, which may be subscribed,"
+  },
+  {
+   "role": "body",
+   "text": "pursuant to this act, as will make the reimbursement thereof equal in"
+  },
+  {
+   "role": "body",
+   "text": "proportion and degree, to that of the same stock subscribed antecedent to"
+  },
+  {
+   "role": "body",
+   "text": "the present year; and the said reimbursement shall be made at the expi-"
+  },
+  {
+   "role": "body",
+   "text": "ration of the quarter in which such debt or stock shall be subscribed,"
+  },
+  {
+   "role": "body",
+   "text": "and pursuant to the rules and conditions prescribed by the act, intituled"
+  },
+  {
+   "role": "sidenote",
+   "text": "1795, ch. 45."
+  },
+  {
+   "role": "body",
+   "text": "\" An act making further provision for the support of public credit, and"
+  },
+  {
+   "role": "body",
+   "text": "for the redemption of the public debt.\""
+  },
+  {
+   "role": "sidenote",
+   "text": "Provision for"
+  },
+  {
+   "role": "sidenote",
+   "text": "the payment of"
+  },
+  {
+   "role": "sidenote",
+   "text": "interest to non-"
+  },
+  {
+   "role": "sidenote",
+   "text": "subscribers."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That such of the creditors of the"
+  },
+  {
+   "role": "body",
+   "text": "United States, as have not subscribed, and shall not subscribe to the"
+  },
+  {
+   "role": "body",
+   "text": "said loan, shall, nevertheless, receive, during the year one thousand"
+  },
+  {
+   "role": "body",
+   "text": "seven hundred and ninety-six, a rate per centum on the amount of such"
+  },
+  {
+   "role": "body",
+   "text": "of their demands as have been registered, or as shall be registered at the"
+  },
+  {
+   "role": "body",
+   "text": "treasury, conformably to the directions in the act, intituled \" An act"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 138."
+  },
+  {
+   "role": "body",
+   "text": "making provision for the debt of the United States,\" equal to the interest"
+  },
+  {
+   "role": "body",
+   "text": "which would be payable to them as subscribing creditors."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 19, 1796."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 10, 1796."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. IV.—An Act for allowing compensation to the members of the Senate and"
+  },
+  {
+   "role": "body",
+   "text": "House of Representatives of the United States, and to certain officers of both Houses."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "sidenote",
+   "text": "Allowance to"
+  },
+  {
+   "role": "sidenote",
+   "text": "senators."
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+  },
+  {
+   "role": "body",
+   "text": "of the United States of America in Congress assembled, That at every"
+  },
+  {
+   "role": "body",
+   "text": "session of Congress, and at every meeting of the Senate in the recess of"
+  },
+  {
+   "role": "body",
+   "text": "Congress, from and after the third day of March in the present year,"
+  },
+  {
+   "role": "body",
+   "text": "each Senator shall be entitled to receive six dollars for every day he"
+  },
+  {
+   "role": "body",
+   "text": "shall attend the Senate; and shall also be allowed, at the commence-"
+  },
+  {
+   "role": "body",
+   "text": "ment and end of every such session and meeting, six dollars for every"
+  },
+  {
+   "role": "body",
+   "text": "twenty miles of the estimated distance, by the most usual road, from his"
+  },
+  {
+   "role": "body",
+   "text": "place of residence to the seat of Congress : And in case any member of"
+  }
+ ],
+ "disagreement_count": 3,
+ "tokens": {
+  "input_tokens": 27164,
+  "output_tokens": 5541,
+  "cache_read_input_tokens": 2315,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.27551,
+ "seconds": 76.5,
+ "created": "2026-09-08T10:53:02"
+}

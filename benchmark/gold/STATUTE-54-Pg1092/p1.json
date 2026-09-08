@@ -1,0 +1,1034 @@
+{
+ "granule_id": "STATUTE-54-Pg1092",
+ "package_id": "STATUTE-54",
+ "volume": 54,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To expedite national defense by suspending, during the national emergency, provisions of law that prohibit more than eight hours' labor in any one day of persons engaged upon work covered by co",
+ "date_issued": "1940-10-10",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "1092",
+ "image": "data/gold/STATUTE-54-Pg1092/p1.png",
+ "image_sha256": "077f1d9b44ac0069f160e77f1d576f0bba76552d114e18ae3c5adfa5216c0398",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "1092"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAWS—CHS. 837–839—OCT. 10, 1940        [54 STAT."
+    },
+    {
+     "role": "sidenote",
+     "text": "Protective gates across international highways, etc."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 2. The Secretary of the Treasury is authorized to expend,"
+    },
+    {
+     "role": "body",
+     "text": "from the funds appropriated for the general maintenance and opera-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the Customs Service, such amounts as may be necessary for"
+    },
+    {
+     "role": "body",
+     "text": "the erection of protective gates across international highways and"
+    },
+    {
+     "role": "body",
+     "text": "roads crossing the Canadian and Mexican borders and for the erec-"
+    },
+    {
+     "role": "body",
+     "text": "tion of such fences in the immediate vicinity of such highways and"
+    },
+    {
+     "role": "body",
+     "text": "roads as may be necessary to prevent unlawful entry or smuggling.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved, October 10, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 838]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 10, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 4341]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 831]"
+    },
+    {
+     "role": "body",
+     "text": "To expedite national defense by suspending, during the national emergency,"
+    },
+    {
+     "role": "body",
+     "text": "provisions of law that prohibit more than eight hours' labor in any one day of"
+    },
+    {
+     "role": "body",
+     "text": "persons engaged upon work covered by contracts of the United States Maritime"
+    },
+    {
+     "role": "body",
+     "text": "Commission, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Maritime Commission contracts."
+    },
+    {
+     "role": "sidenote",
+     "text": "Eight-hour day provisions suspended for persons engaged on."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That until other-"
+    },
+    {
+     "role": "body",
+     "text": "wise provided by law, provisions of law prohibiting more than eight"
+    },
+    {
+     "role": "body",
+     "text": "hours' labor in any one day of persons engaged upon work covered"
+    },
+    {
+     "role": "body",
+     "text": "by United States Maritime Commission contracts for the construc-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay rates."
+    },
+    {
+     "role": "body",
+     "text": "tion, alteration, or repair of vessels shall be suspended: Provided,"
+    },
+    {
+     "role": "body",
+     "text": "That the wages of every laborer and mechanic employed by any con-"
+    },
+    {
+     "role": "body",
+     "text": "tractor or subcontractor engaged in the performance of any such"
+    },
+    {
+     "role": "body",
+     "text": "contract shall be computed on a basic rate of eight hours per day"
+    },
+    {
+     "role": "body",
+     "text": "and forty hours per week and work in excess of eight hours per day"
+    },
+    {
+     "role": "body",
+     "text": "or forty hours per week shall be permitted upon compensation for all"
+    },
+    {
+     "role": "body",
+     "text": "hours worked in excess of eight hours per day or forty hours per"
+    },
+    {
+     "role": "body",
+     "text": "week at not less than one and one-half times the basic rate of pay."
+    },
+    {
+     "role": "sidenote",
+     "text": "Modification of existing contracts."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The United States Maritime Commission is hereby author-"
+    },
+    {
+     "role": "body",
+     "text": "ized to modify its existing contracts for the construction, alteration,"
+    },
+    {
+     "role": "body",
+     "text": "or repair of vessels as it may deem necessary to expedite national"
+    },
+    {
+     "role": "body",
+     "text": "defense, and to otherwise effectuate the purposes of this Act."
+    },
+    {
+     "role": "sidenote",
+     "text": "Contracts more favorable to labor not affected."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. Nothing in this Act shall be construed to modify any con-"
+    },
+    {
+     "role": "body",
+     "text": "tracts between management and labor in shipyards which provide for"
+    },
+    {
+     "role": "body",
+     "text": "conditions more favorable to labor than the minimum provisions as"
+    },
+    {
+     "role": "body",
+     "text": "to hours per day and hours per week and for overtime provided in"
+    },
+    {
+     "role": "body",
+     "text": "this Act."
+    },
+    {
+     "role": "sidenote",
+     "text": "Duration of Act."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. The provisions of this Act shall terminate June 30, 1942,"
+    },
+    {
+     "role": "body",
+     "text": "unless the Congress shall otherwise provide."
+    },
+    {
+     "role": "body",
+     "text": "Approved, October 10, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 839]"
+    },
+    {
+     "role": "body",
+     "text": "JOINT RESOLUTION"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 10, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. J. Res. 225]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Pub. Res., No. 104]"
+    },
+    {
+     "role": "body",
+     "text": "Relating to the conditions for payment with respect to sugarcane harvested from"
+    },
+    {
+     "role": "body",
+     "text": "certain plantings in the mainland cane-sugar area."
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Sugar Act of 1937."
+    },
+    {
+     "role": "sidenote",
+     "text": "50 Stat. 903."
+    },
+    {
+     "role": "sidenote",
+     "text": "7 U. S. C., Supp. V, ch. 34."
+    },
+    {
+     "role": "sidenote",
+     "text": "Payments with respect to 1940 crop."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That no payment under"
+    },
+    {
+     "role": "body",
+     "text": "the Sugar Act of 1937 with respect to the 1940 crop shall be withheld"
+    },
+    {
+     "role": "body",
+     "text": "from any producer in the mainland cane-sugar area, because of the"
+    },
+    {
+     "role": "body",
+     "text": "marketing (or processing) of sugarcane in excess of the propor-"
+    },
+    {
+     "role": "body",
+     "text": "tionate share for the farm, if the acreage of sugarcane grown on"
+    },
+    {
+     "role": "body",
+     "text": "the farm and marketed (or processed) for sugar in the crop year"
+    },
+    {
+     "role": "body",
+     "text": "1940 is not in excess of the acreage of sugarcane for sugar planted"
+    },
+    {
+     "role": "sidenote",
+     "text": "Limitations."
+    },
+    {
+     "role": "body",
+     "text": "prior to January 1, 1940, but payments shall be made only with"
+    },
+    {
+     "role": "body",
+     "text": "respect to the proportionate share acreage established for the farm"
+    },
+    {
+     "role": "body",
+     "text": "under the provisions of such Act, and the following deductions shall"
+    },
+    {
+     "role": "body",
+     "text": "be made from such payments, on account of any acreage of sugar-"
+    },
+    {
+     "role": "body",
+     "text": "cane grown on the farm and marketed (or processed) for sugar in"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2282,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08448,
+   "seconds": 24.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "1092"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAWS—CHS. 837–839—OCT. 10, 1940"
+    },
+    {
+     "role": "running-head",
+     "text": "[54 STAT."
+    },
+    {
+     "role": "sidenote",
+     "text": "Protective gates across international highways, etc."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 2. The Secretary of the Treasury is authorized to expend,"
+    },
+    {
+     "role": "body",
+     "text": "from the funds appropriated for the general maintenance and opera-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the Customs Service, such amounts as may be necessary for"
+    },
+    {
+     "role": "body",
+     "text": "the erection of protective gates across international highways and"
+    },
+    {
+     "role": "body",
+     "text": "roads crossing the Canadian and Mexican borders and for the erec-"
+    },
+    {
+     "role": "body",
+     "text": "tion of such fences in the immediate vicinity of such highways and"
+    },
+    {
+     "role": "body",
+     "text": "roads as may be necessary to prevent unlawful entry or smuggling.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved, October 10, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 838]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 10, 1940 [S. 4341]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 831]"
+    },
+    {
+     "role": "body",
+     "text": "To expedite national defense by suspending, during the national emergency,"
+    },
+    {
+     "role": "body",
+     "text": "provisions of law that prohibit more than eight hours' labor in any one day of"
+    },
+    {
+     "role": "body",
+     "text": "persons engaged upon work covered by contracts of the United States Maritime"
+    },
+    {
+     "role": "body",
+     "text": "Commission, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Maritime Commission contracts."
+    },
+    {
+     "role": "sidenote",
+     "text": "Eight-hour day provisions suspended for persons engaged on."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That until other-"
+    },
+    {
+     "role": "body",
+     "text": "wise provided by law, provisions of law prohibiting more than eight"
+    },
+    {
+     "role": "body",
+     "text": "hours' labor in any one day of persons engaged upon work covered"
+    },
+    {
+     "role": "body",
+     "text": "by United States Maritime Commission contracts for the construc-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay rates."
+    },
+    {
+     "role": "body",
+     "text": "tion, alteration, or repair of vessels shall be suspended: Provided,"
+    },
+    {
+     "role": "body",
+     "text": "That the wages of every laborer and mechanic employed by any con-"
+    },
+    {
+     "role": "body",
+     "text": "tractor or subcontractor engaged in the performance of any such"
+    },
+    {
+     "role": "body",
+     "text": "contract shall be computed on a basic rate of eight hours per day"
+    },
+    {
+     "role": "body",
+     "text": "and forty hours per week and work in excess of eight hours per day"
+    },
+    {
+     "role": "body",
+     "text": "or forty hours per week shall be permitted upon compensation for all"
+    },
+    {
+     "role": "body",
+     "text": "hours worked in excess of eight hours per day or forty hours per"
+    },
+    {
+     "role": "body",
+     "text": "week at not less than one and one-half times the basic rate of pay."
+    },
+    {
+     "role": "sidenote",
+     "text": "Modification of existing contracts."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The United States Maritime Commission is hereby author-"
+    },
+    {
+     "role": "body",
+     "text": "ized to modify its existing contracts for the construction, alteration,"
+    },
+    {
+     "role": "body",
+     "text": "or repair of vessels as it may deem necessary to expedite national"
+    },
+    {
+     "role": "body",
+     "text": "defense, and to otherwise effectuate the purposes of this Act."
+    },
+    {
+     "role": "sidenote",
+     "text": "Contracts more favorable to labor not affected."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. Nothing in this Act shall be construed to modify any con-"
+    },
+    {
+     "role": "body",
+     "text": "tracts between management and labor in shipyards which provide for"
+    },
+    {
+     "role": "body",
+     "text": "conditions more favorable to labor than the minimum provisions as"
+    },
+    {
+     "role": "body",
+     "text": "to hours per day and hours per week and for overtime provided in"
+    },
+    {
+     "role": "body",
+     "text": "this Act."
+    },
+    {
+     "role": "sidenote",
+     "text": "Duration of Act."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. The provisions of this Act shall terminate June 30, 1942,"
+    },
+    {
+     "role": "body",
+     "text": "unless the Congress shall otherwise provide."
+    },
+    {
+     "role": "body",
+     "text": "Approved, October 10, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 839]"
+    },
+    {
+     "role": "body",
+     "text": "JOINT RESOLUTION"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 10, 1940 [S. J. Res. 225]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Pub. Res., No. 104]"
+    },
+    {
+     "role": "body",
+     "text": "Relating to the conditions for payment with respect to sugarcane harvested from"
+    },
+    {
+     "role": "body",
+     "text": "certain plantings in the mainland cane-sugar area."
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Sugar Act of 1937. 50 Stat. 903."
+    },
+    {
+     "role": "sidenote",
+     "text": "7 U. S. C., Supp. V, ch. 34."
+    },
+    {
+     "role": "sidenote",
+     "text": "Payments with respect to 1940 crop."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That no payment under"
+    },
+    {
+     "role": "body",
+     "text": "the Sugar Act of 1937 with respect to the 1940 crop shall be withheld"
+    },
+    {
+     "role": "body",
+     "text": "from any producer in the mainland cane-sugar area, because of the"
+    },
+    {
+     "role": "body",
+     "text": "marketing (or processing) of sugarcane in excess of the propor-"
+    },
+    {
+     "role": "body",
+     "text": "tionate share for the farm, if the acreage of sugarcane grown on"
+    },
+    {
+     "role": "body",
+     "text": "the farm and marketed (or processed) for sugar in the crop year"
+    },
+    {
+     "role": "body",
+     "text": "1940 is not in excess of the acreage of sugarcane for sugar planted"
+    },
+    {
+     "role": "sidenote",
+     "text": "Limitations."
+    },
+    {
+     "role": "body",
+     "text": "prior to January 1, 1940, but payments shall be made only with"
+    },
+    {
+     "role": "body",
+     "text": "respect to the proportionate share acreage established for the farm"
+    },
+    {
+     "role": "body",
+     "text": "under the provisions of such Act, and the following deductions shall"
+    },
+    {
+     "role": "body",
+     "text": "be made from such payments, on account of any acreage of sugar-"
+    },
+    {
+     "role": "body",
+     "text": "cane grown on the farm and marketed (or processed) for sugar in"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2254,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08378,
+   "seconds": 25.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11760,
+   "output_tokens": 359,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06819,
+  "seconds": 7.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "PUBLIC LAWS—CHS. 837–839—OCT. 10, 1940        [54 STAT.",
+    "b": "PUBLIC LAWS—CHS. 837–839—OCT. 10, 1940\n[54 STAT.",
+    "kept": "PUBLIC LAWS—CHS. 837–839—OCT. 10, 1940        [54 STAT.",
+    "reason": "Running head and volume citation are printed on one line."
+   },
+   {
+    "run": 2,
+    "a": "October 10, 1940\n[S. 4341]",
+    "b": "October 10, 1940 [S. 4341]",
+    "kept": "October 10, 1940\n[S. 4341]",
+    "reason": "Sidenote is printed on two separate lines."
+   },
+   {
+    "run": 3,
+    "a": "October 10, 1940\n[S. J. Res. 225]",
+    "b": "October 10, 1940 [S. J. Res. 225]",
+    "kept": "October 10, 1940\n[S. J. Res. 225]",
+    "reason": "Two separate printed sidenote lines."
+   },
+   {
+    "run": 4,
+    "a": "Sugar Act of 1937.\n50 Stat. 903.",
+    "b": "Sugar Act of 1937. 50 Stat. 903.",
+    "kept": "Sugar Act of 1937.\n50 Stat. 903.",
+    "reason": "Two separate printed sidenote lines."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "1092"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAWS—CHS. 837–839—OCT. 10, 1940        [54 STAT."
+  },
+  {
+   "role": "sidenote",
+   "text": "Protective gates across international highways, etc."
+  },
+  {
+   "role": "body",
+   "text": "\"SEC. 2. The Secretary of the Treasury is authorized to expend,"
+  },
+  {
+   "role": "body",
+   "text": "from the funds appropriated for the general maintenance and opera-"
+  },
+  {
+   "role": "body",
+   "text": "tion of the Customs Service, such amounts as may be necessary for"
+  },
+  {
+   "role": "body",
+   "text": "the erection of protective gates across international highways and"
+  },
+  {
+   "role": "body",
+   "text": "roads crossing the Canadian and Mexican borders and for the erec-"
+  },
+  {
+   "role": "body",
+   "text": "tion of such fences in the immediate vicinity of such highways and"
+  },
+  {
+   "role": "body",
+   "text": "roads as may be necessary to prevent unlawful entry or smuggling.\""
+  },
+  {
+   "role": "body",
+   "text": "Approved, October 10, 1940."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 838]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "October 10, 1940"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 4341]"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 831]"
+  },
+  {
+   "role": "body",
+   "text": "To expedite national defense by suspending, during the national emergency,"
+  },
+  {
+   "role": "body",
+   "text": "provisions of law that prohibit more than eight hours' labor in any one day of"
+  },
+  {
+   "role": "body",
+   "text": "persons engaged upon work covered by contracts of the United States Maritime"
+  },
+  {
+   "role": "body",
+   "text": "Commission, and for other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Maritime Commission contracts."
+  },
+  {
+   "role": "sidenote",
+   "text": "Eight-hour day provisions suspended for persons engaged on."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That until other-"
+  },
+  {
+   "role": "body",
+   "text": "wise provided by law, provisions of law prohibiting more than eight"
+  },
+  {
+   "role": "body",
+   "text": "hours' labor in any one day of persons engaged upon work covered"
+  },
+  {
+   "role": "body",
+   "text": "by United States Maritime Commission contracts for the construc-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "sidenote",
+   "text": "Pay rates."
+  },
+  {
+   "role": "body",
+   "text": "tion, alteration, or repair of vessels shall be suspended: Provided,"
+  },
+  {
+   "role": "body",
+   "text": "That the wages of every laborer and mechanic employed by any con-"
+  },
+  {
+   "role": "body",
+   "text": "tractor or subcontractor engaged in the performance of any such"
+  },
+  {
+   "role": "body",
+   "text": "contract shall be computed on a basic rate of eight hours per day"
+  },
+  {
+   "role": "body",
+   "text": "and forty hours per week and work in excess of eight hours per day"
+  },
+  {
+   "role": "body",
+   "text": "or forty hours per week shall be permitted upon compensation for all"
+  },
+  {
+   "role": "body",
+   "text": "hours worked in excess of eight hours per day or forty hours per"
+  },
+  {
+   "role": "body",
+   "text": "week at not less than one and one-half times the basic rate of pay."
+  },
+  {
+   "role": "sidenote",
+   "text": "Modification of existing contracts."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The United States Maritime Commission is hereby author-"
+  },
+  {
+   "role": "body",
+   "text": "ized to modify its existing contracts for the construction, alteration,"
+  },
+  {
+   "role": "body",
+   "text": "or repair of vessels as it may deem necessary to expedite national"
+  },
+  {
+   "role": "body",
+   "text": "defense, and to otherwise effectuate the purposes of this Act."
+  },
+  {
+   "role": "sidenote",
+   "text": "Contracts more favorable to labor not affected."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. Nothing in this Act shall be construed to modify any con-"
+  },
+  {
+   "role": "body",
+   "text": "tracts between management and labor in shipyards which provide for"
+  },
+  {
+   "role": "body",
+   "text": "conditions more favorable to labor than the minimum provisions as"
+  },
+  {
+   "role": "body",
+   "text": "to hours per day and hours per week and for overtime provided in"
+  },
+  {
+   "role": "body",
+   "text": "this Act."
+  },
+  {
+   "role": "sidenote",
+   "text": "Duration of Act."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. The provisions of this Act shall terminate June 30, 1942,"
+  },
+  {
+   "role": "body",
+   "text": "unless the Congress shall otherwise provide."
+  },
+  {
+   "role": "body",
+   "text": "Approved, October 10, 1940."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 839]"
+  },
+  {
+   "role": "body",
+   "text": "JOINT RESOLUTION"
+  },
+  {
+   "role": "sidenote",
+   "text": "October 10, 1940"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. J. Res. 225]"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Pub. Res., No. 104]"
+  },
+  {
+   "role": "body",
+   "text": "Relating to the conditions for payment with respect to sugarcane harvested from"
+  },
+  {
+   "role": "body",
+   "text": "certain plantings in the mainland cane-sugar area."
+  },
+  {
+   "role": "body",
+   "text": "Resolved by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Sugar Act of 1937."
+  },
+  {
+   "role": "sidenote",
+   "text": "50 Stat. 903."
+  },
+  {
+   "role": "sidenote",
+   "text": "7 U. S. C., Supp. V, ch. 34."
+  },
+  {
+   "role": "sidenote",
+   "text": "Payments with respect to 1940 crop."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That no payment under"
+  },
+  {
+   "role": "body",
+   "text": "the Sugar Act of 1937 with respect to the 1940 crop shall be withheld"
+  },
+  {
+   "role": "body",
+   "text": "from any producer in the mainland cane-sugar area, because of the"
+  },
+  {
+   "role": "body",
+   "text": "marketing (or processing) of sugarcane in excess of the propor-"
+  },
+  {
+   "role": "body",
+   "text": "tionate share for the farm, if the acreage of sugarcane grown on"
+  },
+  {
+   "role": "body",
+   "text": "the farm and marketed (or processed) for sugar in the crop year"
+  },
+  {
+   "role": "body",
+   "text": "1940 is not in excess of the acreage of sugarcane for sugar planted"
+  },
+  {
+   "role": "sidenote",
+   "text": "Limitations."
+  },
+  {
+   "role": "body",
+   "text": "prior to January 1, 1940, but payments shall be made only with"
+  },
+  {
+   "role": "body",
+   "text": "respect to the proportionate share acreage established for the farm"
+  },
+  {
+   "role": "body",
+   "text": "under the provisions of such Act, and the following deductions shall"
+  },
+  {
+   "role": "body",
+   "text": "be made from such payments, on account of any acreage of sugar-"
+  },
+  {
+   "role": "body",
+   "text": "cane grown on the farm and marketed (or processed) for sugar in"
+  }
+ ],
+ "disagreement_count": 4,
+ "tokens": {
+  "input_tokens": 22583,
+  "output_tokens": 4895,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.23645,
+ "seconds": 57.2,
+ "created": "2026-09-08T11:53:35"
+}

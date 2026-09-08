@@ -1,0 +1,1149 @@
+{
+ "granule_id": "STATUTE-60-Pg85",
+ "package_id": "STATUTE-60",
+ "volume": 60,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To amend section 502 of the Act entitled \"An Act to expedite the provision of housing in connection with national defense, and for other purposes\", approved October 14, 1940, as amended, so as ",
+ "date_issued": "1946-03-28",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "85",
+ "image": "data/gold/STATUTE-60-Pg85/p1.png",
+ "image_sha256": "9c00edfa6f7a7ec19d9846051ec1128f132a3a823aa6e36192b55b4f4a8ea956",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "60 STAT.]    79TH CONG., 2D SESS.—CHS. 114, 118—MAR. 28, 1946"
+    },
+    {
+     "role": "body",
+     "text": "of the United States by force or violence and accepts employment"
+    },
+    {
+     "role": "body",
+     "text": "the salary or wages for which are paid from any appropriation con-"
+    },
+    {
+     "role": "body",
+     "text": "tained in this Act shall be guilty of a felony and, upon conviction,"
+    },
+    {
+     "role": "body",
+     "text": "shall be fined not more than $1,000 or imprisoned for not more than"
+    },
+    {
+     "role": "body",
+     "text": "one year, or both: Provided further, That the above penal clause"
+    },
+    {
+     "role": "body",
+     "text": "shall be in addition to, and not in substitution for, any other provision"
+    },
+    {
+     "role": "body",
+     "text": "of existing law."
+    },
+    {
+     "role": "sidenote",
+     "text": "Short title."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 202. This Act may be cited as the \"Second Urgent Deficiency"
+    },
+    {
+     "role": "body",
+     "text": "Appropriation Act, 1946\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved March 28, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 118]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 28, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1821]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 336]"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 502 of the Act entitled \"An Act to expedite the provision of"
+    },
+    {
+     "role": "body",
+     "text": "housing in connection with national defense, and for other purposes\", approved"
+    },
+    {
+     "role": "body",
+     "text": "October 14, 1940, as amended, so as to authorize the appropriation of funds"
+    },
+    {
+     "role": "body",
+     "text": "necessary to provide additional temporary housing units for distressed families"
+    },
+    {
+     "role": "body",
+     "text": "of servicemen and for veterans and their families."
+    },
+    {
+     "role": "sidenote",
+     "text": "Defense housing,"
+    },
+    {
+     "role": "sidenote",
+     "text": "amendment."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 88."
+    },
+    {
+     "role": "sidenote",
+     "text": "59 Stat. 674."
+    },
+    {
+     "role": "sidenote",
+     "text": "42 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 1572(a)."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 958."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 502"
+    },
+    {
+     "role": "body",
+     "text": "(a) of the Act entitled \"An Act to expedite the provision of housing"
+    },
+    {
+     "role": "body",
+     "text": "in connection with national defense, and for other purposes\","
+    },
+    {
+     "role": "body",
+     "text": "approved October 14, 1940, as amended, is amended by striking out"
+    },
+    {
+     "role": "body",
+     "text": "\"$160,000,000\" and inserting in lieu thereof \"$410,000,000\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That section 502 of said Act be amended by adding after"
+    },
+    {
+     "role": "body",
+     "text": "subsection (c) thereof the following subsections:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Temporary housing."
+    },
+    {
+     "role": "body",
+     "text": "\"(d) Upon approval of an application, made by any educational"
+    },
+    {
+     "role": "body",
+     "text": "institution, State or political subdivision thereof, local public agency,"
+    },
+    {
+     "role": "body",
+     "text": "or nonprofit organization, for temporary housing for the purposes of"
+    },
+    {
+     "role": "body",
+     "text": "this title, the National Housing Administrator, if he determines that"
+    },
+    {
+     "role": "body",
+     "text": "such action will aid in expediting the provision of such temporary"
+    },
+    {
+     "role": "body",
+     "text": "housing, may—"
+    },
+    {
+     "role": "sidenote",
+     "text": "Transfer of struc-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tures, etc."
+    },
+    {
+     "role": "body",
+     "text": "\"(1) transfer hereunder to the applicant structures or facili-"
+    },
+    {
+     "role": "body",
+     "text": "ties necessary or suitable to provide such temporary housing; and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reimbursement."
+    },
+    {
+     "role": "body",
+     "text": "\"(2) contract to reimburse the applicant (including the mak-"
+    },
+    {
+     "role": "body",
+     "text": "ing of advances) for the cost, as certified by the applicant and"
+    },
+    {
+     "role": "body",
+     "text": "approved by the Administrator, in the relocation or conversion"
+    },
+    {
+     "role": "body",
+     "text": "(including the costs of disassembling, transporting and reerect-"
+    },
+    {
+     "role": "body",
+     "text": "ing structures and facilities, and connecting utilities from dwell-"
+    },
+    {
+     "role": "body",
+     "text": "ings to mains, but not including the costs of site acquisition and"
+    },
+    {
+     "role": "body",
+     "text": "preparation, or the installation of streets and utility mains) of"
+    },
+    {
+     "role": "body",
+     "text": "such temporary housing and facilities."
+    },
+    {
+     "role": "sidenote",
+     "text": "\"Administrative ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "penses.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "59 Stat. 260, 674."
+    },
+    {
+     "role": "sidenote",
+     "text": "42 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, §§ 1571-1573."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 958."
+    },
+    {
+     "role": "body",
+     "text": "\"(e) The term 'administrative expenses', as used in this title V,"
+    },
+    {
+     "role": "body",
+     "text": "shall be deemed to include administrative expenses of the National"
+    },
+    {
+     "role": "body",
+     "text": "Housing Agency in performing any functions with respect to pri-"
+    },
+    {
+     "role": "body",
+     "text": "orities or allocations of materials or equipment for public or private"
+    },
+    {
+     "role": "body",
+     "text": "housing, and of the Housing Expediter (including until June 30,"
+    },
+    {
+     "role": "body",
+     "text": "1946, those of any Government agencies in carrying out parts of the"
+    },
+    {
+     "role": "body",
+     "text": "veterans' emergency housing program of the Housing Expediter"
+    },
+    {
+     "role": "body",
+     "text": "authorized by existing law, to the extent that additional adminis-"
+    },
+    {
+     "role": "body",
+     "text": "trative expenses of such agencies are thereby involved) in perform-"
+    },
+    {
+     "role": "body",
+     "text": "ing any functions with respect to facilitating the provision of vet-"
+    },
+    {
+     "role": "body",
+     "text": "erans' housing authorized by existing law.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved March 28, 1946."
+    },
+    {
+     "role": "page-number",
+     "text": "85"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2207,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08261,
+   "seconds": 25.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "60 STAT.]    79TH CONG., 2D SESS.—CHS. 114, 118—MAR. 28, 1946"
+    },
+    {
+     "role": "page-number",
+     "text": "85"
+    },
+    {
+     "role": "body",
+     "text": "of the United States by force or violence and accepts employment"
+    },
+    {
+     "role": "body",
+     "text": "the salary or wages for which are paid from any appropriation con-"
+    },
+    {
+     "role": "body",
+     "text": "tained in this Act shall be guilty of a felony and, upon conviction,"
+    },
+    {
+     "role": "body",
+     "text": "shall be fined not more than $1,000 or imprisoned for not more than"
+    },
+    {
+     "role": "body",
+     "text": "one year, or both: Provided further, That the above penal clause"
+    },
+    {
+     "role": "body",
+     "text": "shall be in addition to, and not in substitution for, any other provision"
+    },
+    {
+     "role": "body",
+     "text": "of existing law."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 202. This Act may be cited as the \"Second Urgent Deficiency"
+    },
+    {
+     "role": "sidenote",
+     "text": "Short title."
+    },
+    {
+     "role": "body",
+     "text": "Appropriation Act, 1946\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved March 28, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 118]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 28, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1821]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 336]"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 502 of the Act entitled \"An Act to expedite the provision of"
+    },
+    {
+     "role": "body",
+     "text": "housing in connection with national defense, and for other purposes\", approved"
+    },
+    {
+     "role": "body",
+     "text": "October 14, 1940, as amended, so as to authorize the appropriation of funds"
+    },
+    {
+     "role": "body",
+     "text": "necessary to provide additional temporary housing units for distressed families"
+    },
+    {
+     "role": "body",
+     "text": "of servicemen and for veterans and their families."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 502"
+    },
+    {
+     "role": "sidenote",
+     "text": "Defense    housing,"
+    },
+    {
+     "role": "sidenote",
+     "text": "amendment."
+    },
+    {
+     "role": "body",
+     "text": "(a) of the Act entitled \"An Act to expedite the provision of housing"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 88."
+    },
+    {
+     "role": "sidenote",
+     "text": "59 Stat. 674."
+    },
+    {
+     "role": "body",
+     "text": "in connection with national defense, and for other purposes\","
+    },
+    {
+     "role": "sidenote",
+     "text": "42 U. S. C., Supp."
+    },
+    {
+     "role": "body",
+     "text": "approved October 14, 1940, as amended, is amended by striking out"
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 1572(a)."
+    },
+    {
+     "role": "body",
+     "text": "\"$160,000,000\" and inserting in lieu thereof \"$410,000,000\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 958."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That section 502 of said Act be amended by adding after"
+    },
+    {
+     "role": "body",
+     "text": "subsection (c) thereof the following subsections:"
+    },
+    {
+     "role": "body",
+     "text": "\"(d) Upon approval of an application, made by any educational"
+    },
+    {
+     "role": "sidenote",
+     "text": "Temporary housing."
+    },
+    {
+     "role": "body",
+     "text": "institution, State or political subdivision thereof, local public agency,"
+    },
+    {
+     "role": "body",
+     "text": "or nonprofit organization, for temporary housing for the purposes of"
+    },
+    {
+     "role": "body",
+     "text": "this title, the National Housing Administrator, if he determines that"
+    },
+    {
+     "role": "body",
+     "text": "such action will aid in expediting the provision of such temporary"
+    },
+    {
+     "role": "body",
+     "text": "housing, may—"
+    },
+    {
+     "role": "body",
+     "text": "\"(1) transfer hereunder to the applicant structures or facili-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Transfer of struc-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tures, etc."
+    },
+    {
+     "role": "body",
+     "text": "ties necessary or suitable to provide such temporary housing; and"
+    },
+    {
+     "role": "body",
+     "text": "\"(2) contract to reimburse the applicant (including the mak-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reimbursement."
+    },
+    {
+     "role": "body",
+     "text": "ing of advances) for the cost, as certified by the applicant and"
+    },
+    {
+     "role": "body",
+     "text": "approved by the Administrator, in the relocation or conversion"
+    },
+    {
+     "role": "body",
+     "text": "(including the costs of disassembling, transporting and reerect-"
+    },
+    {
+     "role": "body",
+     "text": "ing structures and facilities, and connecting utilities from dwell-"
+    },
+    {
+     "role": "body",
+     "text": "ings to mains, but not including the costs of site acquisition and"
+    },
+    {
+     "role": "body",
+     "text": "preparation, or the installation of streets and utility mains) of"
+    },
+    {
+     "role": "body",
+     "text": "such temporary housing and facilities."
+    },
+    {
+     "role": "body",
+     "text": "\"(e) The term 'administrative expenses', as used in this title V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "\"Administrative ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "penses.\""
+    },
+    {
+     "role": "body",
+     "text": "shall be deemed to include administrative expenses of the National"
+    },
+    {
+     "role": "sidenote",
+     "text": "59 Stat. 260, 674."
+    },
+    {
+     "role": "sidenote",
+     "text": "42 U. S. C., Supp."
+    },
+    {
+     "role": "body",
+     "text": "Housing Agency in performing any functions with respect to pri-"
+    },
+    {
+     "role": "sidenote",
+     "text": "V, §§ 1571-1573."
+    },
+    {
+     "role": "body",
+     "text": "orities or allocations of materials or equipment for public or private"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 958."
+    },
+    {
+     "role": "body",
+     "text": "housing, and of the Housing Expediter (including until June 30,"
+    },
+    {
+     "role": "body",
+     "text": "1946, those of any Government agencies in carrying out parts of the"
+    },
+    {
+     "role": "body",
+     "text": "veterans' emergency housing program of the Housing Expediter"
+    },
+    {
+     "role": "body",
+     "text": "authorized by existing law, to the extent that additional adminis-"
+    },
+    {
+     "role": "body",
+     "text": "trative expenses of such agencies are thereby involved) in perform-"
+    },
+    {
+     "role": "body",
+     "text": "ing any functions with respect to facilitating the provision of vet-"
+    },
+    {
+     "role": "body",
+     "text": "erans' housing authorized by existing law.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved March 28, 1946."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2157,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08135,
+   "seconds": 24.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12493,
+   "output_tokens": 2047,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.11406,
+  "seconds": 23.6,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "85",
+    "kept": "85",
+    "reason": "The page number 85 is printed at the right end of the top head line, so it belongs immediately after the running head."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "SEC. 202. This Act may be cited as the \"Second Urgent Deficiency",
+    "kept": "SEC. 202. This Act may be cited as the \"Second Urgent Deficiency",
+    "reason": "The body line stands at the left; the sidenote 'Short title.' is set opposite it, so the body line comes first."
+   },
+   {
+    "run": 3,
+    "a": "SEC. 202. This Act may be cited as the \"Second Urgent Deficiency",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate placement of the SEC. 202 line already given before the sidenote."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the\nUnited States of America in Congress assembled, That section 502",
+    "kept": "Be it enacted by the Senate and House of Representatives of the\nUnited States of America in Congress assembled, That section 502",
+    "reason": "These enacting-clause lines precede the sidenote 'Defense housing, amendment.' which is set opposite the second line."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "(a) of the Act entitled \"An Act to expedite the provision of housing",
+    "kept": "(a) of the Act entitled \"An Act to expedite the provision of housing",
+    "reason": "Body line aligned with sidenote 'Post, p. 88.'; interleaved in reading order."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "in connection with national defense, and for other purposes\",",
+    "kept": "in connection with national defense, and for other purposes\",",
+    "reason": "Body line aligned with the '42 U. S. C., Supp.' sidenote; interleaved in reading order."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "approved October 14, 1940, as amended, is amended by striking out",
+    "kept": "approved October 14, 1940, as amended, is amended by striking out",
+    "reason": "Body line aligned with 'V, § 1572(a).'; interleaved in reading order."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "\"$160,000,000\" and inserting in lieu thereof \"$410,000,000\".",
+    "kept": "\"$160,000,000\" and inserting in lieu thereof \"$410,000,000\".",
+    "reason": "Body line aligned with 'Post, p. 958.'; interleaved in reading order."
+   },
+   {
+    "run": 9,
+    "a": "Be it enacted by the Senate and House of Representatives of the\nUnited States of America in Congress assembled, That section 502\n(a) of the Act entitled \"An Act to expedite the provision of housing\nin connection with national defense, and for other purposes\",\napproved October 14, 1940, as amended, is amended by striking out\n\"$160,000,000\" and inserting in lieu thereof \"$410,000,000\".",
+    "b": "",
+    "kept": "",
+    "reason": "These lines are already placed interleaved with the marginal notes above."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "\"(d) Upon approval of an application, made by any educational",
+    "kept": "\"(d) Upon approval of an application, made by any educational",
+    "reason": "Body line stands opposite the sidenote 'Temporary housing.'"
+   },
+   {
+    "run": 11,
+    "a": "\"(d) Upon approval of an application, made by any educational",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed before the sidenote."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "\"(1) transfer hereunder to the applicant structures or facili-",
+    "kept": "\"(1) transfer hereunder to the applicant structures or facili-",
+    "reason": "Body line stands opposite the sidenote 'Transfer of struc- tures, etc.'"
+   },
+   {
+    "run": 13,
+    "a": "\"(1) transfer hereunder to the applicant structures or facili-",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed before the sidenote."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "\"(2) contract to reimburse the applicant (including the mak-",
+    "kept": "\"(2) contract to reimburse the applicant (including the mak-",
+    "reason": "Body line stands opposite the sidenote 'Reimbursement.'"
+   },
+   {
+    "run": 15,
+    "a": "\"(2) contract to reimburse the applicant (including the mak-",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed before the sidenote."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "\"(e) The term 'administrative expenses', as used in this title V,",
+    "kept": "\"(e) The term 'administrative expenses', as used in this title V,",
+    "reason": "Body line stands opposite the sidenote '\"Administrative ex- penses.\"'"
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "shall be deemed to include administrative expenses of the National",
+    "kept": "shall be deemed to include administrative expenses of the National",
+    "reason": "Body line aligned with '59 Stat. 260, 674.'; interleaved in reading order."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "Housing Agency in performing any functions with respect to pri-",
+    "kept": "Housing Agency in performing any functions with respect to pri-",
+    "reason": "Body line aligned with 'V, §§ 1571-1573.'; interleaved in reading order."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "orities or allocations of materials or equipment for public or private",
+    "kept": "orities or allocations of materials or equipment for public or private",
+    "reason": "Body line aligned with 'Post, p. 958.'; interleaved in reading order."
+   },
+   {
+    "run": 20,
+    "a": "\"(e) The term 'administrative expenses', as used in this title V,\nshall be deemed to include administrative expenses of the National\nHousing Agency in performing any functions with respect to pri-\norities or allocations of materials or equipment for public or private",
+    "b": "",
+    "kept": "",
+    "reason": "These lines are already placed interleaved with the marginal notes above."
+   },
+   {
+    "run": 21,
+    "a": "85",
+    "b": "",
+    "kept": "",
+    "reason": "The page number was already placed with the running head at the top of the page."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "60 STAT.]    79TH CONG., 2D SESS.—CHS. 114, 118—MAR. 28, 1946"
+  },
+  {
+   "role": "page-number",
+   "text": "85"
+  },
+  {
+   "role": "body",
+   "text": "of the United States by force or violence and accepts employment"
+  },
+  {
+   "role": "body",
+   "text": "the salary or wages for which are paid from any appropriation con-"
+  },
+  {
+   "role": "body",
+   "text": "tained in this Act shall be guilty of a felony and, upon conviction,"
+  },
+  {
+   "role": "body",
+   "text": "shall be fined not more than $1,000 or imprisoned for not more than"
+  },
+  {
+   "role": "body",
+   "text": "one year, or both: Provided further, That the above penal clause"
+  },
+  {
+   "role": "body",
+   "text": "shall be in addition to, and not in substitution for, any other provision"
+  },
+  {
+   "role": "body",
+   "text": "of existing law."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 202. This Act may be cited as the \"Second Urgent Deficiency"
+  },
+  {
+   "role": "sidenote",
+   "text": "Short title."
+  },
+  {
+   "role": "body",
+   "text": "Appropriation Act, 1946\"."
+  },
+  {
+   "role": "body",
+   "text": "Approved March 28, 1946."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 118]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 28, 1946"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 1821]"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public Law 336]"
+  },
+  {
+   "role": "body",
+   "text": "To amend section 502 of the Act entitled \"An Act to expedite the provision of"
+  },
+  {
+   "role": "body",
+   "text": "housing in connection with national defense, and for other purposes\", approved"
+  },
+  {
+   "role": "body",
+   "text": "October 14, 1940, as amended, so as to authorize the appropriation of funds"
+  },
+  {
+   "role": "body",
+   "text": "necessary to provide additional temporary housing units for distressed families"
+  },
+  {
+   "role": "body",
+   "text": "of servicemen and for veterans and their families."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That section 502"
+  },
+  {
+   "role": "sidenote",
+   "text": "Defense housing,"
+  },
+  {
+   "role": "sidenote",
+   "text": "amendment."
+  },
+  {
+   "role": "body",
+   "text": "(a) of the Act entitled \"An Act to expedite the provision of housing"
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, p. 88."
+  },
+  {
+   "role": "sidenote",
+   "text": "59 Stat. 674."
+  },
+  {
+   "role": "body",
+   "text": "in connection with national defense, and for other purposes\","
+  },
+  {
+   "role": "sidenote",
+   "text": "42 U. S. C., Supp."
+  },
+  {
+   "role": "body",
+   "text": "approved October 14, 1940, as amended, is amended by striking out"
+  },
+  {
+   "role": "sidenote",
+   "text": "V, § 1572(a)."
+  },
+  {
+   "role": "body",
+   "text": "\"$160,000,000\" and inserting in lieu thereof \"$410,000,000\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, p. 958."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That section 502 of said Act be amended by adding after"
+  },
+  {
+   "role": "body",
+   "text": "subsection (c) thereof the following subsections:"
+  },
+  {
+   "role": "body",
+   "text": "\"(d) Upon approval of an application, made by any educational"
+  },
+  {
+   "role": "sidenote",
+   "text": "Temporary housing."
+  },
+  {
+   "role": "body",
+   "text": "institution, State or political subdivision thereof, local public agency,"
+  },
+  {
+   "role": "body",
+   "text": "or nonprofit organization, for temporary housing for the purposes of"
+  },
+  {
+   "role": "body",
+   "text": "this title, the National Housing Administrator, if he determines that"
+  },
+  {
+   "role": "body",
+   "text": "such action will aid in expediting the provision of such temporary"
+  },
+  {
+   "role": "body",
+   "text": "housing, may—"
+  },
+  {
+   "role": "body",
+   "text": "\"(1) transfer hereunder to the applicant structures or facili-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Transfer of struc-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tures, etc."
+  },
+  {
+   "role": "body",
+   "text": "ties necessary or suitable to provide such temporary housing; and"
+  },
+  {
+   "role": "body",
+   "text": "\"(2) contract to reimburse the applicant (including the mak-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Reimbursement."
+  },
+  {
+   "role": "body",
+   "text": "ing of advances) for the cost, as certified by the applicant and"
+  },
+  {
+   "role": "body",
+   "text": "approved by the Administrator, in the relocation or conversion"
+  },
+  {
+   "role": "body",
+   "text": "(including the costs of disassembling, transporting and reerect-"
+  },
+  {
+   "role": "body",
+   "text": "ing structures and facilities, and connecting utilities from dwell-"
+  },
+  {
+   "role": "body",
+   "text": "ings to mains, but not including the costs of site acquisition and"
+  },
+  {
+   "role": "body",
+   "text": "preparation, or the installation of streets and utility mains) of"
+  },
+  {
+   "role": "body",
+   "text": "such temporary housing and facilities."
+  },
+  {
+   "role": "body",
+   "text": "\"(e) The term 'administrative expenses', as used in this title V,"
+  },
+  {
+   "role": "sidenote",
+   "text": "\"Administrative ex-"
+  },
+  {
+   "role": "sidenote",
+   "text": "penses.\""
+  },
+  {
+   "role": "body",
+   "text": "shall be deemed to include administrative expenses of the National"
+  },
+  {
+   "role": "sidenote",
+   "text": "59 Stat. 260, 674."
+  },
+  {
+   "role": "sidenote",
+   "text": "42 U. S. C., Supp."
+  },
+  {
+   "role": "body",
+   "text": "Housing Agency in performing any functions with respect to pri-"
+  },
+  {
+   "role": "sidenote",
+   "text": "V, §§ 1571-1573."
+  },
+  {
+   "role": "body",
+   "text": "orities or allocations of materials or equipment for public or private"
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, p. 958."
+  },
+  {
+   "role": "body",
+   "text": "housing, and of the Housing Expediter (including until June 30,"
+  },
+  {
+   "role": "body",
+   "text": "1946, those of any Government agencies in carrying out parts of the"
+  },
+  {
+   "role": "body",
+   "text": "veterans' emergency housing program of the Housing Expediter"
+  },
+  {
+   "role": "body",
+   "text": "authorized by existing law, to the extent that additional adminis-"
+  },
+  {
+   "role": "body",
+   "text": "trative expenses of such agencies are thereby involved) in perform-"
+  },
+  {
+   "role": "body",
+   "text": "ing any functions with respect to facilitating the provision of vet-"
+  },
+  {
+   "role": "body",
+   "text": "erans' housing authorized by existing law.\""
+  },
+  {
+   "role": "body",
+   "text": "Approved March 28, 1946."
+  }
+ ],
+ "disagreement_count": 21,
+ "tokens": {
+  "input_tokens": 23316,
+  "output_tokens": 6411,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.27802,
+ "seconds": 73.7,
+ "created": "2026-09-08T11:24:27"
+}

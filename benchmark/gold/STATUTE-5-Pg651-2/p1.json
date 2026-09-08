@@ -1,0 +1,1002 @@
+{
+ "granule_id": "STATUTE-5-Pg651-2",
+ "package_id": "STATUTE-5",
+ "volume": 5,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to refund the fine imposed on General Andrew Jackson.",
+ "date_issued": "1844-02-16",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "651",
+ "image": "data/gold/STATUTE-5-Pg651-2/p1.png",
+ "image_sha256": "cd8ebc918324ee9b93b0c43fdfc66290ff5652f186992d8b72b5e5f03c52834d",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "high"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "body",
+     "text": "ACTS OF THE TWENTY-EIGHTH CONGRESS"
+    },
+    {
+     "role": "body",
+     "text": "OF THE"
+    },
+    {
+     "role": "body",
+     "text": "UNITED STATES,"
+    },
+    {
+     "role": "body",
+     "text": "Passed at the first session, which was begun and held at the City of"
+    },
+    {
+     "role": "body",
+     "text": "Washington, in the District of Columbia, on Monday, the 4th day"
+    },
+    {
+     "role": "body",
+     "text": "of December, 1843, and ended the 17th day of June, 1844."
+    },
+    {
+     "role": "body",
+     "text": "JOHN TYLER, President of the United States.  WILLIE P. MANGUM,"
+    },
+    {
+     "role": "body",
+     "text": "President of the Senate, pro tempore.  JOHN W. JONES, Speaker of"
+    },
+    {
+     "role": "body",
+     "text": "the House of Representatives."
+    },
+    {
+     "role": "body",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 22, 1844."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. I. — An Act to supply a deficiency in the appropriation for the fiscal year"
+    },
+    {
+     "role": "body",
+     "text": "ending the thirtieth of June, eighteen hundred and forty-four, for the relief and"
+    },
+    {
+     "role": "body",
+     "text": "protection of American seamen."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Relief of Ame-"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the sum of forty"
+    },
+    {
+     "role": "sidenote",
+     "text": "rican seamen."
+    },
+    {
+     "role": "body",
+     "text": "thousand five hundred dollars be and the same is hereby appropriated,"
+    },
+    {
+     "role": "body",
+     "text": "to be paid out of any unappropriated money in the Treasury for the"
+    },
+    {
+     "role": "body",
+     "text": "relief and protection of American seamen, to be expended under the"
+    },
+    {
+     "role": "body",
+     "text": "direction of the Secretary of State, in pursuance of the act supplemen-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1803, ch. 9."
+    },
+    {
+     "role": "body",
+     "text": "tary to the act concerning consuls and vice-consuls and for the further"
+    },
+    {
+     "role": "body",
+     "text": "protection of American seamen, passed the twenty-eighth day of Febru-"
+    },
+    {
+     "role": "body",
+     "text": "ary, one thousand eight hundred and three."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 22, 1844."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 16, 1844."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. II. — An Act to refund the fine imposed on General Andrew Jackson."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "To refund"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the sum of one"
+    },
+    {
+     "role": "sidenote",
+     "text": "$1000 with in-"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars, paid by General Andrew Jackson, as a fine imposed"
+    },
+    {
+     "role": "sidenote",
+     "text": "terest from 31st"
+    },
+    {
+     "role": "body",
+     "text": "on him at New Orleans, the thirty-first day of March, Anno Domini"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 1815."
+    },
+    {
+     "role": "body",
+     "text": "one thousand eight hundred and fifteen, be repaid to him, together with"
+    },
+    {
+     "role": "body",
+     "text": "the interest, at the rate of six per centum a year since then, out of any"
+    },
+    {
+     "role": "body",
+     "text": "moneys in the Treasury not otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 16, 1844."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 23, 1844."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. III.—An Act to authorize the President of the United States to direct trans-"
+    },
+    {
+     "role": "body",
+     "text": "fers of appropriation in the naval service, under certain circumstances."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Unexpended"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That upon the appli-"
+    },
+    {
+     "role": "sidenote",
+     "text": "balances to be"
+    },
+    {
+     "role": "body",
+     "text": "cation of the Secretary of the Navy, the President of the United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "transferred for"
+    },
+    {
+     "role": "body",
+     "text": "shall have authority to direct the transfer from unexpended balances of"
+    },
+    {
+     "role": "sidenote",
+     "text": "the increase,"
+    },
+    {
+     "role": "body",
+     "text": "appropriations for the Naval Service, of the sum of two hundred thou-"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c. of the"
+    },
+    {
+     "role": "body",
+     "text": "sand dollars, or so much thereof as the public service may require during"
+    },
+    {
+     "role": "sidenote",
+     "text": "navy."
+    },
+    {
+     "role": "body",
+     "text": "the present fiscal year to the appropriation for “the increase, repairs, arma-"
+    },
+    {
+     "role": "body",
+     "text": "ment, and equipment of the Navy, and wear and tear of vessels in com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Not to be"
+    },
+    {
+     "role": "body",
+     "text": "mission.”   But no part of said sum shall be transferred from any unex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "transferred if"
+    },
+    {
+     "role": "body",
+     "text": "pended balance which may be necessary for the purposes for which the"
+    },
+    {
+     "role": "sidenote",
+     "text": "wanted for ori-"
+    },
+    {
+     "role": "body",
+     "text": "appropriation was originally made; nor from any unexpended balances"
+    },
+    {
+     "role": "sidenote",
+     "text": "ginal purposes,"
+    },
+    {
+     "role": "body",
+     "text": "of appropriations for the respective Navy Yards and Docks.   Nor shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "page-number",
+     "text": "(651)"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7552,
+    "output_tokens": 1994,
+    "cache_read_input_tokens": 770,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.088,
+   "seconds": 81.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "body",
+     "text": "ACTS OF THE TWENTY-EIGHTH CONGRESS"
+    },
+    {
+     "role": "body",
+     "text": "OF THE"
+    },
+    {
+     "role": "body",
+     "text": "UNITED STATES,"
+    },
+    {
+     "role": "body",
+     "text": "Passed at the first session, which was begun and held at the City of"
+    },
+    {
+     "role": "body",
+     "text": "Washington, in the District of Columbia, on Monday, the 4th day"
+    },
+    {
+     "role": "body",
+     "text": "of December, 1843, and ended the 17th day of June, 1844."
+    },
+    {
+     "role": "body",
+     "text": "JOHN TYLER, President of the United States.  WILLIE P. MANGUM,"
+    },
+    {
+     "role": "body",
+     "text": "President of the Senate, pro tempore.  JOHN W. JONES, Speaker of"
+    },
+    {
+     "role": "body",
+     "text": "the House of Representatives."
+    },
+    {
+     "role": "body",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. I. — An Act to supply a deficiency in the appropriation for the fiscal year"
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 22, 1844."
+    },
+    {
+     "role": "body",
+     "text": "ending the thirtieth of June, eighteen hundred and forty-four, for the relief and"
+    },
+    {
+     "role": "body",
+     "text": "protection of American seamen."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the sum of forty"
+    },
+    {
+     "role": "sidenote",
+     "text": "Relief of Ame-"
+    },
+    {
+     "role": "body",
+     "text": "thousand five hundred dollars be and the same is hereby appropriated,"
+    },
+    {
+     "role": "sidenote",
+     "text": "rican seamen."
+    },
+    {
+     "role": "body",
+     "text": "to be paid out of any unappropriated money in the Treasury for the"
+    },
+    {
+     "role": "body",
+     "text": "relief and protection of American seamen, to be expended under the"
+    },
+    {
+     "role": "body",
+     "text": "direction of the Secretary of State, in pursuance of the act supplemen-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1803, ch. 9."
+    },
+    {
+     "role": "body",
+     "text": "tary to the act concerning consuls and vice-consuls and for the further"
+    },
+    {
+     "role": "body",
+     "text": "protection of American seamen, passed the twenty-eighth day of Febru-"
+    },
+    {
+     "role": "body",
+     "text": "ary, one thousand eight hundred and three."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 22, 1844."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. II. — An Act to refund the fine imposed on General Andrew Jackson."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 16, 1844."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the sum of one"
+    },
+    {
+     "role": "sidenote",
+     "text": "To refund"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars, paid by General Andrew Jackson, as a fine imposed"
+    },
+    {
+     "role": "sidenote",
+     "text": "$1000 with in-"
+    },
+    {
+     "role": "sidenote",
+     "text": "terest from 31st"
+    },
+    {
+     "role": "body",
+     "text": "on him at New Orleans, the thirty-first day of March, Anno Domini"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 1815."
+    },
+    {
+     "role": "body",
+     "text": "one thousand eight hundred and fifteen, be repaid to him, together with"
+    },
+    {
+     "role": "body",
+     "text": "the interest, at the rate of six per centum a year since then, out of any"
+    },
+    {
+     "role": "body",
+     "text": "moneys in the Treasury not otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 16, 1844."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. III.—An Act to authorize the President of the United States to direct trans-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 23, 1844."
+    },
+    {
+     "role": "body",
+     "text": "fers of appropriation in the naval service, under certain circumstances."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That upon the appli-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Unexpended"
+    },
+    {
+     "role": "body",
+     "text": "cation of the Secretary of the Navy, the President of the United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "balances to be"
+    },
+    {
+     "role": "body",
+     "text": "shall have authority to direct the transfer from unexpended balances of"
+    },
+    {
+     "role": "sidenote",
+     "text": "transferred for"
+    },
+    {
+     "role": "sidenote",
+     "text": "the increase,"
+    },
+    {
+     "role": "body",
+     "text": "appropriations for the Naval Service, of the sum of two hundred thou-"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c. of the"
+    },
+    {
+     "role": "body",
+     "text": "sand dollars, or so much thereof as the public service may require during"
+    },
+    {
+     "role": "sidenote",
+     "text": "navy."
+    },
+    {
+     "role": "body",
+     "text": "the present fiscal year to the appropriation for \" the increase, repairs, arma-"
+    },
+    {
+     "role": "body",
+     "text": "ment, and equipment of the Navy, and wear and tear of vessels in com-"
+    },
+    {
+     "role": "body",
+     "text": "mission.\"   But no part of said sum shall be transferred from any unex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Not to be"
+    },
+    {
+     "role": "body",
+     "text": "pended balance which may be necessary for the purposes for which the"
+    },
+    {
+     "role": "sidenote",
+     "text": "transferred if"
+    },
+    {
+     "role": "sidenote",
+     "text": "wanted for ori-"
+    },
+    {
+     "role": "body",
+     "text": "appropriation was originally made; nor from any unexpended balances"
+    },
+    {
+     "role": "sidenote",
+     "text": "ginal purposes,"
+    },
+    {
+     "role": "body",
+     "text": "of appropriations for the respective Navy Yards and Docks.  Nor shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "page-number",
+     "text": "(651)"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7555,
+    "output_tokens": 1996,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 712
+   },
+   "cost_usd": 0.09212,
+   "seconds": 24.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "disagreements": [
+   {
+    "a": "Jan. 22, 1844. placed before the CHAP. I. heading line",
+    "b": "Jan. 22, 1844. placed after the CHAP. I. heading line",
+    "kept": "Jan. 22, 1844.",
+    "reason": "The date sits on the same line as \"CHAP. I. — An Act to supply...\", so it precedes that body line (A's order)."
+   },
+   {
+    "a": "Relief of Ame- placed before \"United States of America ... forty\"",
+    "b": "Relief of Ame- placed after that line",
+    "kept": "Relief of Ame-",
+    "reason": "The sidenote's first line is level with \"United States of America ... forty\"; A's placement matches the image."
+   },
+   {
+    "a": "Feb. 16, 1844. placed before the CHAP. II. heading",
+    "b": "Feb. 16, 1844. placed after the CHAP. II. heading",
+    "kept": "Feb. 16, 1844.",
+    "reason": "The date is level with the CHAP. II. heading line, so it precedes it."
+   },
+   {
+    "a": "To refund placed before \"United States of America ... sum of one\"",
+    "b": "To refund placed after that line",
+    "kept": "To refund",
+    "reason": "Sidenote is level with that body line; A's placement matches."
+   },
+   {
+    "a": "$1000 with in- / terest from 31st split around \"thousand dollars, paid by...\"",
+    "b": "$1000 with in- and terest from 31st grouped together before \"on him at New Orleans\"",
+    "kept": "$1000 with in- (before \"thousand dollars...\") and terest from 31st (before \"on him at New Orleans...\")",
+    "reason": "Sidenote lines are level with successive body lines as in A."
+   },
+   {
+    "a": "Feb. 23, 1844. placed before the CHAP. III. heading",
+    "b": "Feb. 23, 1844. placed after the CHAP. III. heading",
+    "kept": "Feb. 23, 1844.",
+    "reason": "The date is level with the CHAP. III. heading line."
+   },
+   {
+    "a": "Unexpended placed before \"United States of America ... appli-\"",
+    "b": "Unexpended placed after that line",
+    "kept": "Unexpended",
+    "reason": "Sidenote is level with that body line."
+   },
+   {
+    "a": "transferred for before \"shall have authority...\", the increase, before \"appropriations for the Naval Service...\"",
+    "b": "transferred for and the increase, grouped together before \"appropriations for the Naval Service...\"",
+    "kept": "transferred for (before \"shall have authority...\"), the increase, (before \"appropriations...\")",
+    "reason": "Sidenote lines align one-to-one with successive body lines."
+   },
+   {
+    "a": "Not to be placed before \"mission.” But no part...\"",
+    "b": "Not to be placed after that line",
+    "kept": "Not to be",
+    "reason": "Sidenote is level with the \"mission.\" line."
+   },
+   {
+    "a": "transferred if before \"pended balance...\", wanted for ori- before \"appropriation was originally made...\"",
+    "b": "transferred if and wanted for ori- grouped before \"appropriation was originally made...\"",
+    "kept": "transferred if (before \"pended balance...\"), wanted for ori- (before \"appropriation...\")",
+    "reason": "Sidenote lines align with successive body lines in the image."
+   },
+   {
+    "a": "the present fiscal year to the appropriation for “the increase, repairs, arma- / mission.”",
+    "b": "the present fiscal year to the appropriation for \" the increase, repairs, arma- / mission.\"",
+    "kept": "the present fiscal year to the appropriation for “the increase, repairs, arma- / mission.”",
+    "reason": "The page prints curved opening and closing quotation marks."
+   },
+   {
+    "a": "of appropriations for the respective Navy Yards and Docks.   Nor shall",
+    "b": "of appropriations for the respective Navy Yards and Docks.  Nor shall",
+    "kept": "of appropriations for the respective Navy Yards and Docks.   Nor shall",
+    "reason": "Wide sentence break after \"Docks.\" is visible in the image."
+   }
+  ],
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 10884,
+   "output_tokens": 5149,
+   "cache_read_input_tokens": 0,
+   "cache_creation_input_tokens": 885
+  },
+  "cost_usd": 0.18868,
+  "seconds": 52.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "high",
+  "reinserted": 0
+ },
+ "lines": [
+  {
+   "role": "body",
+   "text": "ACTS OF THE TWENTY-EIGHTH CONGRESS"
+  },
+  {
+   "role": "body",
+   "text": "OF THE"
+  },
+  {
+   "role": "body",
+   "text": "UNITED STATES,"
+  },
+  {
+   "role": "body",
+   "text": "Passed at the first session, which was begun and held at the City of"
+  },
+  {
+   "role": "body",
+   "text": "Washington, in the District of Columbia, on Monday, the 4th day"
+  },
+  {
+   "role": "body",
+   "text": "of December, 1843, and ended the 17th day of June, 1844."
+  },
+  {
+   "role": "body",
+   "text": "JOHN TYLER, President of the United States.  WILLIE P. MANGUM,"
+  },
+  {
+   "role": "body",
+   "text": "President of the Senate, pro tempore.  JOHN W. JONES, Speaker of"
+  },
+  {
+   "role": "body",
+   "text": "the House of Representatives."
+  },
+  {
+   "role": "body",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "Jan. 22, 1844."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. I. — An Act to supply a deficiency in the appropriation for the fiscal year"
+  },
+  {
+   "role": "body",
+   "text": "ending the thirtieth of June, eighteen hundred and forty-four, for the relief and"
+  },
+  {
+   "role": "body",
+   "text": "protection of American seamen."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Relief of Ame-"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the sum of forty"
+  },
+  {
+   "role": "sidenote",
+   "text": "rican seamen."
+  },
+  {
+   "role": "body",
+   "text": "thousand five hundred dollars be and the same is hereby appropriated,"
+  },
+  {
+   "role": "body",
+   "text": "to be paid out of any unappropriated money in the Treasury for the"
+  },
+  {
+   "role": "body",
+   "text": "relief and protection of American seamen, to be expended under the"
+  },
+  {
+   "role": "body",
+   "text": "direction of the Secretary of State, in pursuance of the act supplemen-"
+  },
+  {
+   "role": "sidenote",
+   "text": "1803, ch. 9."
+  },
+  {
+   "role": "body",
+   "text": "tary to the act concerning consuls and vice-consuls and for the further"
+  },
+  {
+   "role": "body",
+   "text": "protection of American seamen, passed the twenty-eighth day of Febru-"
+  },
+  {
+   "role": "body",
+   "text": "ary, one thousand eight hundred and three."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, January 22, 1844."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 16, 1844."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. II. — An Act to refund the fine imposed on General Andrew Jackson."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "To refund"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the sum of one"
+  },
+  {
+   "role": "sidenote",
+   "text": "$1000 with in-"
+  },
+  {
+   "role": "body",
+   "text": "thousand dollars, paid by General Andrew Jackson, as a fine imposed"
+  },
+  {
+   "role": "sidenote",
+   "text": "terest from 31st"
+  },
+  {
+   "role": "body",
+   "text": "on him at New Orleans, the thirty-first day of March, Anno Domini"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 1815."
+  },
+  {
+   "role": "body",
+   "text": "one thousand eight hundred and fifteen, be repaid to him, together with"
+  },
+  {
+   "role": "body",
+   "text": "the interest, at the rate of six per centum a year since then, out of any"
+  },
+  {
+   "role": "body",
+   "text": "moneys in the Treasury not otherwise appropriated."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 16, 1844."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 23, 1844."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. III.—An Act to authorize the President of the United States to direct trans-"
+  },
+  {
+   "role": "body",
+   "text": "fers of appropriation in the naval service, under certain circumstances."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Unexpended"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That upon the appli-"
+  },
+  {
+   "role": "sidenote",
+   "text": "balances to be"
+  },
+  {
+   "role": "body",
+   "text": "cation of the Secretary of the Navy, the President of the United States"
+  },
+  {
+   "role": "sidenote",
+   "text": "transferred for"
+  },
+  {
+   "role": "body",
+   "text": "shall have authority to direct the transfer from unexpended balances of"
+  },
+  {
+   "role": "sidenote",
+   "text": "the increase,"
+  },
+  {
+   "role": "body",
+   "text": "appropriations for the Naval Service, of the sum of two hundred thou-"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c. of the"
+  },
+  {
+   "role": "body",
+   "text": "sand dollars, or so much thereof as the public service may require during"
+  },
+  {
+   "role": "sidenote",
+   "text": "navy."
+  },
+  {
+   "role": "body",
+   "text": "the present fiscal year to the appropriation for “the increase, repairs, arma-"
+  },
+  {
+   "role": "body",
+   "text": "ment, and equipment of the Navy, and wear and tear of vessels in com-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Not to be"
+  },
+  {
+   "role": "body",
+   "text": "mission.”   But no part of said sum shall be transferred from any unex-"
+  },
+  {
+   "role": "sidenote",
+   "text": "transferred if"
+  },
+  {
+   "role": "body",
+   "text": "pended balance which may be necessary for the purposes for which the"
+  },
+  {
+   "role": "sidenote",
+   "text": "wanted for ori-"
+  },
+  {
+   "role": "body",
+   "text": "appropriation was originally made; nor from any unexpended balances"
+  },
+  {
+   "role": "sidenote",
+   "text": "ginal purposes,"
+  },
+  {
+   "role": "body",
+   "text": "of appropriations for the respective Navy Yards and Docks.   Nor shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c."
+  },
+  {
+   "role": "page-number",
+   "text": "(651)"
+  }
+ ],
+ "disagreement_count": 20,
+ "tokens": {
+  "input_tokens": 25991,
+  "output_tokens": 9139,
+  "cache_read_input_tokens": 770,
+  "cache_creation_input_tokens": 1597
+ },
+ "cost_usd": 0.3688,
+ "seconds": 159.1,
+ "created": "2026-09-08T10:48:29"
+}

@@ -1,0 +1,925 @@
+{
+ "granule_id": "STATUTE-77-Pg359-2",
+ "package_id": "STATUTE-77",
+ "volume": 77,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend further the Peace Corps Act, as amended",
+ "date_issued": "1963-12-13",
+ "pdf_page": 2,
+ "pdf_pages": 3,
+ "stat_page": "360",
+ "image": "data/gold/STATUTE-77-Pg359-2/p2.png",
+ "image_sha256": "3c35f0df92b1b33de8efd69efad80c30c67033ccd14d9888e21e2830ec761ad7",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "360"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 88-200–DEC. 13, 1963"
+    },
+    {
+     "role": "running-head",
+     "text": "[77 STAT."
+    },
+    {
+     "role": "body",
+     "text": "(d) In subsection (g), add immediately after \"may determine\" the"
+    },
+    {
+     "role": "body",
+     "text": "following proviso: \": Provided, That not to exceed one hundred vol-"
+    },
+    {
+     "role": "body",
+     "text": "unteers in the aggregate may be assigned to carry out secretarial or"
+    },
+    {
+     "role": "body",
+     "text": "clerical duties on the staffs of the Peace Corps representatives abroad\"."
+    },
+    {
+     "role": "body",
+     "text": "(e) In subsection (h), strike out \"and for the purposes of\" im-"
+    },
+    {
+     "role": "body",
+     "text": "mediately after \"tort liability statute,\" and substitute therefor \"the"
+    },
+    {
+     "role": "sidenote",
+     "text": "69 Stat. 584."
+    },
+    {
+     "role": "body",
+     "text": "Federal Voting Assistance Act of 1955 (5 U.S.C. 2171 et seq.), the"
+    },
+    {
+     "role": "sidenote",
+     "text": "68 Stat. 176."
+    },
+    {
+     "role": "body",
+     "text": "Act of June 4, 1954, chapter 264, section 4 (5 U.S.C. 73b–5), and\"."
+    },
+    {
+     "role": "body",
+     "text": "(f) Add a new subsection at the end of section 5 as follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"(k) In order to assure that the skills and experience which former"
+    },
+    {
+     "role": "body",
+     "text": "volunteers have derived from their training and their service abroad"
+    },
+    {
+     "role": "body",
+     "text": "are best utilized in the national interest, the President may, in co-"
+    },
+    {
+     "role": "body",
+     "text": "operation with agencies of the United States, private employers,"
+    },
+    {
+     "role": "body",
+     "text": "educational institutions and other entities of the United States, un-"
+    },
+    {
+     "role": "body",
+     "text": "dertake programs under which volunteers would be counseled with"
+    },
+    {
+     "role": "body",
+     "text": "respect to opportunities for further education and employment.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 2505."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. Section 6(1) of the Peace Corps Act, as amended, which"
+    },
+    {
+     "role": "body",
+     "text": "relates to Peace Corps volunteer leaders, is amended by striking out"
+    },
+    {
+     "role": "body",
+     "text": "\"termination payments\" and substituting therefor \"a readjustment"
+    },
+    {
+     "role": "body",
+     "text": "allowance\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 2506."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. Section 7(b) of the Peace Corps Act, as amended, which"
+    },
+    {
+     "role": "body",
+     "text": "relates to the compensation of persons engaged in the United States"
+    },
+    {
+     "role": "body",
+     "text": "in activities authorized by the Act, is amended by striking out \"so\""
+    },
+    {
+     "role": "body",
+     "text": "in the first sentence thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "75 Stat. 617."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 2509."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. Section 10(a) of the Peace Corps Act, as amended, which"
+    },
+    {
+     "role": "body",
+     "text": "relates to general powers and authorities, is amended by inserting im-"
+    },
+    {
+     "role": "body",
+     "text": "mediately after \"or otherwise\" in paragraph (3) \", and transfer such"
+    },
+    {
+     "role": "body",
+     "text": "property to the government or other entities of the country or area"
+    },
+    {
+     "role": "body",
+     "text": "with which the volunteers are serving, when such transfers would"
+    },
+    {
+     "role": "body",
+     "text": "further the general purposes of the Act\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 2512."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. Section 13 of the Peace Corps Act, as amended, which re-"
+    },
+    {
+     "role": "body",
+     "text": "lates to the employment of experts and consultants, is amended as"
+    },
+    {
+     "role": "body",
+     "text": "follows:"
+    },
+    {
+     "role": "body",
+     "text": "(a) In subsection (a), strike out \"Peace Corps\" and substitute"
+    },
+    {
+     "role": "body",
+     "text": "therefor \"President\"."
+    },
+    {
+     "role": "body",
+     "text": "(b) In subsection (b), strike out all that appears between \"shall"
+    },
+    {
+     "role": "body",
+     "text": "not\" in the first clause thereof and \"be considered\" in the second clause"
+    },
+    {
+     "role": "body",
+     "text": "thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 2518."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. Section 19 of the Peace Corps Act, as amended, which re-"
+    },
+    {
+     "role": "body",
+     "text": "lates to the Peace Corps seal, is amended by striking out the short"
+    },
+    {
+     "role": "body",
+     "text": "title and substituting therefor \"Exclusive Right to Seal and Name\","
+    },
+    {
+     "role": "body",
+     "text": "by inserting \"(a)\" before \"The President may\", and by adding a new"
+    },
+    {
+     "role": "body",
+     "text": "subsection as follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"(b)(1) The use of the official seal or emblem and the use of the"
+    },
+    {
+     "role": "body",
+     "text": "name 'Peace Corps' shall be restricted exclusively to designate pro-"
+    },
+    {
+     "role": "body",
+     "text": "grams authorized under this Act."
+    },
+    {
+     "role": "body",
+     "text": "\"(2) Whoever, whether an individual, partnership, corporation, or"
+    },
+    {
+     "role": "body",
+     "text": "association, uses the seal for which provision is made in this section,"
+    },
+    {
+     "role": "body",
+     "text": "or any sign, insignia, or symbol in colorable imitation thereof, or the"
+    },
+    {
+     "role": "body",
+     "text": "words 'Peace Corps' or any combination of these or other words"
+    },
+    {
+     "role": "body",
+     "text": "or characters in colorable imitation thereof, other than to designate"
+    },
+    {
+     "role": "body",
+     "text": "programs authorized under this Act, shall be fined not more than $500"
+    },
+    {
+     "role": "body",
+     "text": "or imprisoned not more than six months, or both.  A violation of this"
+    },
+    {
+     "role": "body",
+     "text": "subsection may be enjoined at the suit of the Attorney General, United"
+    },
+    {
+     "role": "body",
+     "text": "States attorneys, or other persons duly authorized to represent the"
+    },
+    {
+     "role": "body",
+     "text": "United States.\""
+    },
+    {
+     "role": "body",
+     "text": "SEC. 8. The Peace Corps Act, as amended, is amended to add after"
+    },
+    {
+     "role": "body",
+     "text": "title II thereof a new title as follows:"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2196,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08233,
+   "seconds": 24.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "360"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 88-200-DEC. 13, 1963"
+    },
+    {
+     "role": "running-head",
+     "text": "[77 STAT."
+    },
+    {
+     "role": "body",
+     "text": "(d) In subsection (g), add immediately after \"may determine\" the"
+    },
+    {
+     "role": "body",
+     "text": "following proviso: \": Provided, That not to exceed one hundred vol-"
+    },
+    {
+     "role": "body",
+     "text": "unteers in the aggregate may be assigned to carry out secretarial or"
+    },
+    {
+     "role": "body",
+     "text": "clerical duties on the staffs of the Peace Corps representatives abroad\"."
+    },
+    {
+     "role": "body",
+     "text": "(e) In subsection (h), strike out \"and for the purposes of\" im-"
+    },
+    {
+     "role": "body",
+     "text": "mediately after \"tort liability statute,\" and substitute therefor \"the"
+    },
+    {
+     "role": "sidenote",
+     "text": "69 Stat. 584."
+    },
+    {
+     "role": "body",
+     "text": "Federal Voting Assistance Act of 1955 (5 U.S.C. 2171 et seq.), the"
+    },
+    {
+     "role": "sidenote",
+     "text": "68 Stat. 176."
+    },
+    {
+     "role": "body",
+     "text": "Act of June 4, 1954, chapter 264, section 4 (5 U.S.C. 73b-5), and\"."
+    },
+    {
+     "role": "body",
+     "text": "(f) Add a new subsection at the end of section 5 as follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"(k) In order to assure that the skills and experience which former"
+    },
+    {
+     "role": "body",
+     "text": "volunteers have derived from their training and their service abroad"
+    },
+    {
+     "role": "body",
+     "text": "are best utilized in the national interest, the President may, in co-"
+    },
+    {
+     "role": "body",
+     "text": "operation with agencies of the United States, private employers,"
+    },
+    {
+     "role": "body",
+     "text": "educational institutions and other entities of the United States, un-"
+    },
+    {
+     "role": "body",
+     "text": "dertake programs under which volunteers would be counseled with"
+    },
+    {
+     "role": "body",
+     "text": "respect to opportunities for further education and employment.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 2505."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. Section 6(1) of the Peace Corps Act, as amended, which"
+    },
+    {
+     "role": "body",
+     "text": "relates to Peace Corps volunteer leaders, is amended by striking out"
+    },
+    {
+     "role": "body",
+     "text": "\"termination payments\" and substituting therefor \"a readjustment"
+    },
+    {
+     "role": "body",
+     "text": "allowance\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 2506."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. Section 7(b) of the Peace Corps Act, as amended, which"
+    },
+    {
+     "role": "body",
+     "text": "relates to the compensation of persons engaged in the United States"
+    },
+    {
+     "role": "body",
+     "text": "in activities authorized by the Act, is amended by striking out \"so\""
+    },
+    {
+     "role": "body",
+     "text": "in the first sentence thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "75 Stat. 617."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 2509."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. Section 10(a) of the Peace Corps Act, as amended, which"
+    },
+    {
+     "role": "body",
+     "text": "relates to general powers and authorities, is amended by inserting im-"
+    },
+    {
+     "role": "body",
+     "text": "mediately after \"or otherwise\" in paragraph (3) \", and transfer such"
+    },
+    {
+     "role": "body",
+     "text": "property to the government or other entities of the country or area"
+    },
+    {
+     "role": "body",
+     "text": "with which the volunteers are serving, when such transfers would"
+    },
+    {
+     "role": "body",
+     "text": "further the general purposes of the Act\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 2512."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. Section 13 of the Peace Corps Act, as amended, which re-"
+    },
+    {
+     "role": "body",
+     "text": "lates to the employment of experts and consultants, is amended as"
+    },
+    {
+     "role": "body",
+     "text": "follows:"
+    },
+    {
+     "role": "body",
+     "text": "(a) In subsection (a), strike out \"Peace Corps\" and substitute"
+    },
+    {
+     "role": "body",
+     "text": "therefor \"President\"."
+    },
+    {
+     "role": "body",
+     "text": "(b) In subsection (b), strike out all that appears between \"shall"
+    },
+    {
+     "role": "body",
+     "text": "not\" in the first clause thereof and \"be considered\" in the second clause"
+    },
+    {
+     "role": "body",
+     "text": "thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 2518."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. Section 19 of the Peace Corps Act, as amended, which re-"
+    },
+    {
+     "role": "body",
+     "text": "lates to the Peace Corps seal, is amended by striking out the short"
+    },
+    {
+     "role": "body",
+     "text": "title and substituting therefor \"Exclusive Right to Seal and Name\","
+    },
+    {
+     "role": "body",
+     "text": "by inserting \"(a)\" before \"The President may\", and by adding a new"
+    },
+    {
+     "role": "body",
+     "text": "subsection as follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"(b)(1) The use of the official seal or emblem and the use of the"
+    },
+    {
+     "role": "body",
+     "text": "name 'Peace Corps' shall be restricted exclusively to designate pro-"
+    },
+    {
+     "role": "body",
+     "text": "grams authorized under this Act."
+    },
+    {
+     "role": "body",
+     "text": "\"(2) Whoever, whether an individual, partnership, corporation, or"
+    },
+    {
+     "role": "body",
+     "text": "association, uses the seal for which provision is made in this section,"
+    },
+    {
+     "role": "body",
+     "text": "or any sign, insignia, or symbol in colorable imitation thereof, or the"
+    },
+    {
+     "role": "body",
+     "text": "words 'Peace Corps' or any combination of these or other words"
+    },
+    {
+     "role": "body",
+     "text": "or characters in colorable imitation thereof, other than to designate"
+    },
+    {
+     "role": "body",
+     "text": "programs authorized under this Act, shall be fined not more than $500"
+    },
+    {
+     "role": "body",
+     "text": "or imprisoned not more than six months, or both. A violation of this"
+    },
+    {
+     "role": "body",
+     "text": "subsection may be enjoined at the suit of the Attorney General, United"
+    },
+    {
+     "role": "body",
+     "text": "States attorneys, or other persons duly authorized to represent the"
+    },
+    {
+     "role": "body",
+     "text": "United States.\""
+    },
+    {
+     "role": "body",
+     "text": "SEC. 8. The Peace Corps Act, as amended, is amended to add after"
+    },
+    {
+     "role": "body",
+     "text": "title II thereof a new title as follows:"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2130,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08068,
+   "seconds": 25.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11081,
+   "output_tokens": 67,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.0575,
+  "seconds": 59.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "360",
+    "b": "360",
+    "kept": "360",
+    "reason": "The 360 at the top left is the page number, printed on the running-head line."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "360"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 88-200–DEC. 13, 1963"
+  },
+  {
+   "role": "running-head",
+   "text": "[77 STAT."
+  },
+  {
+   "role": "body",
+   "text": "(d) In subsection (g), add immediately after \"may determine\" the"
+  },
+  {
+   "role": "body",
+   "text": "following proviso: \": Provided, That not to exceed one hundred vol-"
+  },
+  {
+   "role": "body",
+   "text": "unteers in the aggregate may be assigned to carry out secretarial or"
+  },
+  {
+   "role": "body",
+   "text": "clerical duties on the staffs of the Peace Corps representatives abroad\"."
+  },
+  {
+   "role": "body",
+   "text": "(e) In subsection (h), strike out \"and for the purposes of\" im-"
+  },
+  {
+   "role": "body",
+   "text": "mediately after \"tort liability statute,\" and substitute therefor \"the"
+  },
+  {
+   "role": "sidenote",
+   "text": "69 Stat. 584."
+  },
+  {
+   "role": "body",
+   "text": "Federal Voting Assistance Act of 1955 (5 U.S.C. 2171 et seq.), the"
+  },
+  {
+   "role": "sidenote",
+   "text": "68 Stat. 176."
+  },
+  {
+   "role": "body",
+   "text": "Act of June 4, 1954, chapter 264, section 4 (5 U.S.C. 73b–5), and\"."
+  },
+  {
+   "role": "body",
+   "text": "(f) Add a new subsection at the end of section 5 as follows:"
+  },
+  {
+   "role": "body",
+   "text": "\"(k) In order to assure that the skills and experience which former"
+  },
+  {
+   "role": "body",
+   "text": "volunteers have derived from their training and their service abroad"
+  },
+  {
+   "role": "body",
+   "text": "are best utilized in the national interest, the President may, in co-"
+  },
+  {
+   "role": "body",
+   "text": "operation with agencies of the United States, private employers,"
+  },
+  {
+   "role": "body",
+   "text": "educational institutions and other entities of the United States, un-"
+  },
+  {
+   "role": "body",
+   "text": "dertake programs under which volunteers would be counseled with"
+  },
+  {
+   "role": "body",
+   "text": "respect to opportunities for further education and employment.\""
+  },
+  {
+   "role": "sidenote",
+   "text": "22 USC 2505."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. Section 6(1) of the Peace Corps Act, as amended, which"
+  },
+  {
+   "role": "body",
+   "text": "relates to Peace Corps volunteer leaders, is amended by striking out"
+  },
+  {
+   "role": "body",
+   "text": "\"termination payments\" and substituting therefor \"a readjustment"
+  },
+  {
+   "role": "body",
+   "text": "allowance\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "22 USC 2506."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. Section 7(b) of the Peace Corps Act, as amended, which"
+  },
+  {
+   "role": "body",
+   "text": "relates to the compensation of persons engaged in the United States"
+  },
+  {
+   "role": "body",
+   "text": "in activities authorized by the Act, is amended by striking out \"so\""
+  },
+  {
+   "role": "body",
+   "text": "in the first sentence thereof."
+  },
+  {
+   "role": "sidenote",
+   "text": "75 Stat. 617."
+  },
+  {
+   "role": "sidenote",
+   "text": "22 USC 2509."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. Section 10(a) of the Peace Corps Act, as amended, which"
+  },
+  {
+   "role": "body",
+   "text": "relates to general powers and authorities, is amended by inserting im-"
+  },
+  {
+   "role": "body",
+   "text": "mediately after \"or otherwise\" in paragraph (3) \", and transfer such"
+  },
+  {
+   "role": "body",
+   "text": "property to the government or other entities of the country or area"
+  },
+  {
+   "role": "body",
+   "text": "with which the volunteers are serving, when such transfers would"
+  },
+  {
+   "role": "body",
+   "text": "further the general purposes of the Act\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "22 USC 2512."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 6. Section 13 of the Peace Corps Act, as amended, which re-"
+  },
+  {
+   "role": "body",
+   "text": "lates to the employment of experts and consultants, is amended as"
+  },
+  {
+   "role": "body",
+   "text": "follows:"
+  },
+  {
+   "role": "body",
+   "text": "(a) In subsection (a), strike out \"Peace Corps\" and substitute"
+  },
+  {
+   "role": "body",
+   "text": "therefor \"President\"."
+  },
+  {
+   "role": "body",
+   "text": "(b) In subsection (b), strike out all that appears between \"shall"
+  },
+  {
+   "role": "body",
+   "text": "not\" in the first clause thereof and \"be considered\" in the second clause"
+  },
+  {
+   "role": "body",
+   "text": "thereof."
+  },
+  {
+   "role": "sidenote",
+   "text": "22 USC 2518."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 7. Section 19 of the Peace Corps Act, as amended, which re-"
+  },
+  {
+   "role": "body",
+   "text": "lates to the Peace Corps seal, is amended by striking out the short"
+  },
+  {
+   "role": "body",
+   "text": "title and substituting therefor \"Exclusive Right to Seal and Name\","
+  },
+  {
+   "role": "body",
+   "text": "by inserting \"(a)\" before \"The President may\", and by adding a new"
+  },
+  {
+   "role": "body",
+   "text": "subsection as follows:"
+  },
+  {
+   "role": "body",
+   "text": "\"(b)(1) The use of the official seal or emblem and the use of the"
+  },
+  {
+   "role": "body",
+   "text": "name 'Peace Corps' shall be restricted exclusively to designate pro-"
+  },
+  {
+   "role": "body",
+   "text": "grams authorized under this Act."
+  },
+  {
+   "role": "body",
+   "text": "\"(2) Whoever, whether an individual, partnership, corporation, or"
+  },
+  {
+   "role": "body",
+   "text": "association, uses the seal for which provision is made in this section,"
+  },
+  {
+   "role": "body",
+   "text": "or any sign, insignia, or symbol in colorable imitation thereof, or the"
+  },
+  {
+   "role": "body",
+   "text": "words 'Peace Corps' or any combination of these or other words"
+  },
+  {
+   "role": "body",
+   "text": "or characters in colorable imitation thereof, other than to designate"
+  },
+  {
+   "role": "body",
+   "text": "programs authorized under this Act, shall be fined not more than $500"
+  },
+  {
+   "role": "body",
+   "text": "or imprisoned not more than six months, or both.  A violation of this"
+  },
+  {
+   "role": "body",
+   "text": "subsection may be enjoined at the suit of the Attorney General, United"
+  },
+  {
+   "role": "body",
+   "text": "States attorneys, or other persons duly authorized to represent the"
+  },
+  {
+   "role": "body",
+   "text": "United States.\""
+  },
+  {
+   "role": "body",
+   "text": "SEC. 8. The Peace Corps Act, as amended, is amended to add after"
+  },
+  {
+   "role": "body",
+   "text": "title II thereof a new title as follows:"
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 21904,
+  "output_tokens": 4393,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.22051,
+ "seconds": 109.8,
+ "created": "2026-09-08T11:28:09"
+}

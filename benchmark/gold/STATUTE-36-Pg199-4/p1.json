@@ -1,0 +1,1355 @@
+{
+ "granule_id": "STATUTE-36-Pg199-4",
+ "package_id": "STATUTE-36",
+ "volume": 36,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act To authorize the extension of Park place northwest.",
+ "date_issued": "1910-02-21",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "199",
+ "image": "data/gold/STATUTE-36-Pg199-4/p1.png",
+ "image_sha256": "46d963286135a2001e44f4f62c94e44b5e5975ad9c00dca378f7a44b2287a25d",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 46, 47, 50, 51.  1910."
+    },
+    {
+     "role": "page-number",
+     "text": "199"
+    },
+    {
+     "role": "sidenote",
+     "text": "February 19, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 18807.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 46.—An Act To authorize the construction, maintenance, and operation"
+    },
+    {
+     "role": "body",
+     "text": "of a bridge across the Saint Francis River near Parkin, Arkansas."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 52.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Saint Francis River,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ark."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Saint Louis, Iron"
+    },
+    {
+     "role": "sidenote",
+     "text": "Saint Louis, Iron"
+    },
+    {
+     "role": "body",
+     "text": "Mountain and Southern Railway Company, a corporation organized"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mountain and South-"
+    },
+    {
+     "role": "body",
+     "text": "and existing under the laws of the States of Missouri and Arkansas, is"
+    },
+    {
+     "role": "sidenote",
+     "text": "ern Railway Company"
+    },
+    {
+     "role": "body",
+     "text": "hereby authorized to construct, maintain, and operate a railroad bridge"
+    },
+    {
+     "role": "sidenote",
+     "text": "may bridge, at Parkin."
+    },
+    {
+     "role": "body",
+     "text": "and approaches thereto across the Saint Francis River at a point suitable"
+    },
+    {
+     "role": "body",
+     "text": "to the interests of navigation near Parkin, Arkansas, or to reconstruct,"
+    },
+    {
+     "role": "body",
+     "text": "maintain, and operate the present bridge of said company across the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 84."
+    },
+    {
+     "role": "body",
+     "text": "said river in accordance with the provisions of the Act entitled “An"
+    },
+    {
+     "role": "body",
+     "text": "Act to regulate the construction of bridges over navigable waters,”"
+    },
+    {
+     "role": "body",
+     "text": "approved March twenty-third, nineteen hundred and six."
+    },
+    {
+     "role": "sidenote",
+     "text": "Amendment."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby"
+    },
+    {
+     "role": "body",
+     "text": "expressly reserved."
+    },
+    {
+     "role": "body",
+     "text": "Approved, February 19, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "February 19, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 18808.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 47.—An Act To authorize the construction, maintenance, and opera-"
+    },
+    {
+     "role": "body",
+     "text": "tion of a bridge across the White River, at Augusta, Arkansas."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 53.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "White River, Ark."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Saint Louis, Iron"
+    },
+    {
+     "role": "sidenote",
+     "text": "Saint Louis, Iron"
+    },
+    {
+     "role": "body",
+     "text": "Mountain and Southern Railway Company, a corporation organized"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mountain and South-"
+    },
+    {
+     "role": "body",
+     "text": "and existing under the laws of the States of Missouri and Arkansas, is"
+    },
+    {
+     "role": "sidenote",
+     "text": "ern Railway Company"
+    },
+    {
+     "role": "sidenote",
+     "text": "may bridge, at Au-"
+    },
+    {
+     "role": "body",
+     "text": "hereby authorized to construct, maintain, and operate a railroad bridge"
+    },
+    {
+     "role": "sidenote",
+     "text": "gusta."
+    },
+    {
+     "role": "body",
+     "text": "and approaches thereto across the White River, at a point suitable to"
+    },
+    {
+     "role": "body",
+     "text": "the interests of navigation, at Augusta, Arkansas, or to reconstruct,"
+    },
+    {
+     "role": "body",
+     "text": "maintain, and operate the present bridge of said company across the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 84."
+    },
+    {
+     "role": "body",
+     "text": "said river in accordance with the provisions of the Act entitled “An"
+    },
+    {
+     "role": "body",
+     "text": "Act to regulate the construction of bridges over navigable waters,”"
+    },
+    {
+     "role": "body",
+     "text": "approved March twenty-third, nineteen hundred and six."
+    },
+    {
+     "role": "sidenote",
+     "text": "Amendment."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby"
+    },
+    {
+     "role": "body",
+     "text": "expressly reserved."
+    },
+    {
+     "role": "body",
+     "text": "Approved, February 19, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "February 21, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 11989.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 50.—An Act To provide for the removal of present grade crossing, and"
+    },
+    {
+     "role": "body",
+     "text": "construction of a new grade crossing on the line of Q street northeast, District of"
+    },
+    {
+     "role": "body",
+     "text": "Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 54.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That within thirty days after"
+    },
+    {
+     "role": "sidenote",
+     "text": "Change of grade"
+    },
+    {
+     "role": "body",
+     "text": "the passage of this Act the Baltimore and Ohio Railroad Company and"
+    },
+    {
+     "role": "sidenote",
+     "text": "crossing, Q street"
+    },
+    {
+     "role": "body",
+     "text": "the Philadelphia, Baltimore and Washington Railroad Company be,"
+    },
+    {
+     "role": "sidenote",
+     "text": "northeast."
+    },
+    {
+     "role": "body",
+     "text": "and they are hereby, directed and required to remove the present"
+    },
+    {
+     "role": "body",
+     "text": "grade crossing over their tracks between P and Q streets northeast,"
+    },
+    {
+     "role": "body",
+     "text": "in the District of Columbia, and to construct a grade crossing over"
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment of expense."
+    },
+    {
+     "role": "body",
+     "text": "said tracks on the line of Q street northeast; all work within the"
+    },
+    {
+     "role": "body",
+     "text": "limits of the rights of way of said railroad companies to be done by"
+    },
+    {
+     "role": "body",
+     "text": "them at their own cost and expense and all necessary work outside of"
+    },
+    {
+     "role": "body",
+     "text": "said rights of way to be done by the District of Columbia."
+    },
+    {
+     "role": "body",
+     "text": "Approved, February 21, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "February 21, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 16324.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 51.—An Act To authorize the extension of Park place northwest."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 55.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That, under and in accordance"
+    },
+    {
+     "role": "sidenote",
+     "text": "Park place north-"
+    },
+    {
+     "role": "body",
+     "text": "with the provisions of subchapter one of chapter fifteen of the Code of"
+    },
+    {
+     "role": "sidenote",
+     "text": "west."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2594,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09172,
+   "seconds": 27.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 46, 47, 50, 51.  1910."
+    },
+    {
+     "role": "page-number",
+     "text": "199"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 46.—An Act To authorize the construction, maintenance, and operation"
+    },
+    {
+     "role": "sidenote",
+     "text": "February 19, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 18807.]"
+    },
+    {
+     "role": "body",
+     "text": "of a bridge across the Saint Francis River near Parkin, Arkansas."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 52.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Saint Louis, Iron"
+    },
+    {
+     "role": "sidenote",
+     "text": "Saint Francis River, Ark."
+    },
+    {
+     "role": "body",
+     "text": "Mountain and Southern Railway Company, a corporation organized"
+    },
+    {
+     "role": "sidenote",
+     "text": "Saint Louis, Iron Mountain and South-"
+    },
+    {
+     "role": "body",
+     "text": "and existing under the laws of the States of Missouri and Arkansas, is"
+    },
+    {
+     "role": "sidenote",
+     "text": "ern Railway Company"
+    },
+    {
+     "role": "body",
+     "text": "hereby authorized to construct, maintain, and operate a railroad bridge"
+    },
+    {
+     "role": "sidenote",
+     "text": "may bridge, at Parkin."
+    },
+    {
+     "role": "body",
+     "text": "and approaches thereto across the Saint Francis River at a point suitable"
+    },
+    {
+     "role": "body",
+     "text": "to the interests of navigation near Parkin, Arkansas, or to reconstruct,"
+    },
+    {
+     "role": "body",
+     "text": "maintain, and operate the present bridge of said company across the"
+    },
+    {
+     "role": "body",
+     "text": "said river in accordance with the provisions of the Act entitled \"An"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 84."
+    },
+    {
+     "role": "body",
+     "text": "Act to regulate the construction of bridges over navigable waters,\""
+    },
+    {
+     "role": "body",
+     "text": "approved March twenty-third, nineteen hundred and six."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "Amendment."
+    },
+    {
+     "role": "body",
+     "text": "expressly reserved."
+    },
+    {
+     "role": "body",
+     "text": "Approved, February 19, 1910."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 47.—An Act To authorize the construction, maintenance, and opera-"
+    },
+    {
+     "role": "sidenote",
+     "text": "February 19, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 18808.]"
+    },
+    {
+     "role": "body",
+     "text": "tion of a bridge across the White River, at Augusta, Arkansas."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 53.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Saint Louis, Iron"
+    },
+    {
+     "role": "sidenote",
+     "text": "White River, Ark."
+    },
+    {
+     "role": "sidenote",
+     "text": "Saint Louis, Iron"
+    },
+    {
+     "role": "body",
+     "text": "Mountain and Southern Railway Company, a corporation organized"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mountain and South-"
+    },
+    {
+     "role": "body",
+     "text": "and existing under the laws of the States of Missouri and Arkansas, is"
+    },
+    {
+     "role": "sidenote",
+     "text": "ern Railway Company may bridge, at Au-"
+    },
+    {
+     "role": "body",
+     "text": "hereby authorized to construct, maintain, and operate a railroad bridge"
+    },
+    {
+     "role": "sidenote",
+     "text": "gusta."
+    },
+    {
+     "role": "body",
+     "text": "and approaches thereto across the White River, at a point suitable to"
+    },
+    {
+     "role": "body",
+     "text": "the interests of navigation, at Augusta, Arkansas, or to reconstruct,"
+    },
+    {
+     "role": "body",
+     "text": "maintain, and operate the present bridge of said company across the"
+    },
+    {
+     "role": "body",
+     "text": "said river in accordance with the provisions of the Act entitled \"An"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 84."
+    },
+    {
+     "role": "body",
+     "text": "Act to regulate the construction of bridges over navigable waters,\""
+    },
+    {
+     "role": "body",
+     "text": "approved March twenty-third, nineteen hundred and six."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "Amendment."
+    },
+    {
+     "role": "body",
+     "text": "expressly reserved."
+    },
+    {
+     "role": "body",
+     "text": "Approved, February 19, 1910."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 50.—An Act To provide for the removal of present grade crossing, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "February 21, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 11989.]"
+    },
+    {
+     "role": "body",
+     "text": "construction of a new grade crossing on the line of Q street northeast, District of"
+    },
+    {
+     "role": "body",
+     "text": "Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 54.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That within thirty days after"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "body",
+     "text": "the passage of this Act the Baltimore and Ohio Railroad Company and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Change of grade"
+    },
+    {
+     "role": "body",
+     "text": "the Philadelphia, Baltimore and Washington Railroad Company be,"
+    },
+    {
+     "role": "sidenote",
+     "text": "crossing, Q street northeast."
+    },
+    {
+     "role": "body",
+     "text": "and they are hereby, directed and required to remove the present"
+    },
+    {
+     "role": "body",
+     "text": "grade crossing over their tracks between P and Q streets northeast,"
+    },
+    {
+     "role": "body",
+     "text": "in the District of Columbia, and to construct a grade crossing over"
+    },
+    {
+     "role": "body",
+     "text": "said tracks on the line of Q street northeast; all work within the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment of expense."
+    },
+    {
+     "role": "body",
+     "text": "limits of the rights of way of said railroad companies to be done by"
+    },
+    {
+     "role": "body",
+     "text": "them at their own cost and expense and all necessary work outside of"
+    },
+    {
+     "role": "body",
+     "text": "said rights of way to be done by the District of Columbia."
+    },
+    {
+     "role": "body",
+     "text": "Approved, February 21, 1910."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 51.—An Act To authorize the extension of Park place northwest."
+    },
+    {
+     "role": "sidenote",
+     "text": "February 21, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 16324.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 55.]"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That, under and in accordance"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "body",
+     "text": "with the provisions of subchapter one of chapter fifteen of the Code of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Park place north-west."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2466,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08852,
+   "seconds": 25.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13565,
+   "output_tokens": 3762,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.16229,
+  "seconds": 41.6,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "CHAP. 46.—An Act To authorize the construction, maintenance, and operation",
+    "kept": "CHAP. 46.—An Act To authorize the construction, maintenance, and operation",
+    "reason": "The chapter heading line is printed first, with the date sidenote alongside it."
+   },
+   {
+    "run": 2,
+    "a": "CHAP. 46.—An Act To authorize the construction, maintenance, and operation",
+    "b": "",
+    "kept": "",
+    "reason": "The heading line was already placed at its printed position above."
+   },
+   {
+    "run": 3,
+    "a": "Saint Francis River,\nArk.",
+    "b": "",
+    "kept": "",
+    "reason": "The sidenote begins level with the following body line, not before it."
+   },
+   {
+    "run": 4,
+    "a": "Saint Louis, Iron",
+    "b": "Saint Francis River, Ark.",
+    "kept": "Saint Francis River,\nArk.",
+    "reason": "Image shows the sidenote set on two lines beside the 'States of America' line."
+   },
+   {
+    "run": 5,
+    "a": "Mountain and South-",
+    "b": "Saint Louis, Iron Mountain and South-",
+    "kept": "Saint Louis, Iron\nMountain and South-",
+    "reason": "Two separate printed sidenote lines follow beside the 'Mountain and Southern' line."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "said river in accordance with the provisions of the Act entitled \"An",
+    "kept": "said river in accordance with the provisions of the Act entitled “An",
+    "reason": "Body line precedes the Vol. 34 sidenote set level with it."
+   },
+   {
+    "run": 7,
+    "a": "said river in accordance with the provisions of the Act entitled “An",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby",
+    "kept": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby",
+    "reason": "Body line precedes the 'Amendment.' sidenote set level with it."
+   },
+   {
+    "run": 9,
+    "a": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "CHAP. 47.—An Act To authorize the construction, maintenance, and opera-",
+    "kept": "CHAP. 47.—An Act To authorize the construction, maintenance, and opera-",
+    "reason": "Heading line printed before its date sidenote."
+   },
+   {
+    "run": 11,
+    "a": "CHAP. 47.—An Act To authorize the construction, maintenance, and opera-",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "States of America in Congress assembled, That the Saint Louis, Iron",
+    "kept": "States of America in Congress assembled, That the Saint Louis, Iron",
+    "reason": "Body line precedes the 'White River, Ark.' sidenote level with it."
+   },
+   {
+    "run": 13,
+    "a": "States of America in Congress assembled, That the Saint Louis, Iron",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 14,
+    "a": "ern Railway Company\nmay bridge, at Au-",
+    "b": "ern Railway Company may bridge, at Au-",
+    "kept": "ern Railway Company\nmay bridge, at Au-",
+    "reason": "Image shows two distinct sidenote lines."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "said river in accordance with the provisions of the Act entitled \"An",
+    "kept": "said river in accordance with the provisions of the Act entitled “An",
+    "reason": "Body line precedes the Vol. 34 sidenote."
+   },
+   {
+    "run": 16,
+    "a": "said river in accordance with the provisions of the Act entitled “An",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby",
+    "kept": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby",
+    "reason": "Body line precedes the 'Amendment.' sidenote."
+   },
+   {
+    "run": 18,
+    "a": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "CHAP. 50.—An Act To provide for the removal of present grade crossing, and",
+    "kept": "CHAP. 50.—An Act To provide for the removal of present grade crossing, and",
+    "reason": "Heading line printed before its date sidenote."
+   },
+   {
+    "run": 20,
+    "a": "CHAP. 50.—An Act To provide for the removal of present grade crossing, and",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "States of America in Congress assembled, That within thirty days after",
+    "kept": "States of America in Congress assembled, That within thirty days after",
+    "reason": "Body line precedes the 'District of Columbia.' sidenote level with it."
+   },
+   {
+    "run": 22,
+    "a": "States of America in Congress assembled, That within thirty days after",
+    "b": "the passage of this Act the Baltimore and Ohio Railroad Company and",
+    "kept": "the passage of this Act the Baltimore and Ohio Railroad Company and",
+    "reason": "Next body line, printed before the 'Change of grade' sidenote."
+   },
+   {
+    "run": 23,
+    "a": "the passage of this Act the Baltimore and Ohio Railroad Company and\ncrossing, Q street",
+    "b": "",
+    "kept": "",
+    "reason": "Both lines already placed at their printed positions."
+   },
+   {
+    "run": 24,
+    "a": "northeast.",
+    "b": "crossing, Q street northeast.",
+    "kept": "crossing, Q street\nnortheast.",
+    "reason": "Image shows the sidenote on two lines."
+   },
+   {
+    "run": 25,
+    "a": "",
+    "b": "said tracks on the line of Q street northeast; all work within the",
+    "kept": "said tracks on the line of Q street northeast; all work within the",
+    "reason": "Body line precedes the 'Payment of expense.' sidenote level with it."
+   },
+   {
+    "run": 26,
+    "a": "said tracks on the line of Q street northeast; all work within the",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 27,
+    "a": "",
+    "b": "CHAP. 51.—An Act To authorize the extension of Park place northwest.",
+    "kept": "CHAP. 51.—An Act To authorize the extension of Park place northwest.",
+    "reason": "Heading line printed before its date sidenote."
+   },
+   {
+    "run": 28,
+    "a": "CHAP. 51.—An Act To authorize the extension of Park place northwest.",
+    "b": "Be it enacted by the Senate and House of Representatives of the United",
+    "kept": "Be it enacted by the Senate and House of Representatives of the United",
+    "reason": "This body line stands level with the [Public, No. 55.] sidenote, which follows it."
+   },
+   {
+    "run": 29,
+    "a": "Be it enacted by the Senate and House of Representatives of the United",
+    "b": "States of America in Congress assembled, That, under and in accordance",
+    "kept": "States of America in Congress assembled, That, under and in accordance",
+    "reason": "Body line precedes the 'District of Columbia.' sidenote level with it."
+   },
+   {
+    "run": 30,
+    "a": "States of America in Congress assembled, That, under and in accordance\nPark place north-",
+    "b": "",
+    "kept": "",
+    "reason": "Both lines already placed at their printed positions."
+   },
+   {
+    "run": 31,
+    "a": "west.",
+    "b": "Park place north-west.",
+    "kept": "Park place north-\nwest.",
+    "reason": "Image shows the sidenote broken across two lines."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 46, 47, 50, 51.  1910."
+  },
+  {
+   "role": "page-number",
+   "text": "199"
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 46.—An Act To authorize the construction, maintenance, and operation"
+  },
+  {
+   "role": "sidenote",
+   "text": "February 19, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 18807.]"
+  },
+  {
+   "role": "body",
+   "text": "of a bridge across the Saint Francis River near Parkin, Arkansas."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 52.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the Saint Louis, Iron"
+  },
+  {
+   "role": "sidenote",
+   "text": "Saint Francis River,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ark."
+  },
+  {
+   "role": "body",
+   "text": "Mountain and Southern Railway Company, a corporation organized"
+  },
+  {
+   "role": "sidenote",
+   "text": "Saint Louis, Iron"
+  },
+  {
+   "role": "sidenote",
+   "text": "Mountain and South-"
+  },
+  {
+   "role": "body",
+   "text": "and existing under the laws of the States of Missouri and Arkansas, is"
+  },
+  {
+   "role": "sidenote",
+   "text": "ern Railway Company"
+  },
+  {
+   "role": "body",
+   "text": "hereby authorized to construct, maintain, and operate a railroad bridge"
+  },
+  {
+   "role": "sidenote",
+   "text": "may bridge, at Parkin."
+  },
+  {
+   "role": "body",
+   "text": "and approaches thereto across the Saint Francis River at a point suitable"
+  },
+  {
+   "role": "body",
+   "text": "to the interests of navigation near Parkin, Arkansas, or to reconstruct,"
+  },
+  {
+   "role": "body",
+   "text": "maintain, and operate the present bridge of said company across the"
+  },
+  {
+   "role": "body",
+   "text": "said river in accordance with the provisions of the Act entitled “An"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. 34, p. 84."
+  },
+  {
+   "role": "body",
+   "text": "Act to regulate the construction of bridges over navigable waters,”"
+  },
+  {
+   "role": "body",
+   "text": "approved March twenty-third, nineteen hundred and six."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby"
+  },
+  {
+   "role": "sidenote",
+   "text": "Amendment."
+  },
+  {
+   "role": "body",
+   "text": "expressly reserved."
+  },
+  {
+   "role": "body",
+   "text": "Approved, February 19, 1910."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 47.—An Act To authorize the construction, maintenance, and opera-"
+  },
+  {
+   "role": "sidenote",
+   "text": "February 19, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 18808.]"
+  },
+  {
+   "role": "body",
+   "text": "tion of a bridge across the White River, at Augusta, Arkansas."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 53.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the Saint Louis, Iron"
+  },
+  {
+   "role": "sidenote",
+   "text": "White River, Ark."
+  },
+  {
+   "role": "sidenote",
+   "text": "Saint Louis, Iron"
+  },
+  {
+   "role": "body",
+   "text": "Mountain and Southern Railway Company, a corporation organized"
+  },
+  {
+   "role": "sidenote",
+   "text": "Mountain and South-"
+  },
+  {
+   "role": "body",
+   "text": "and existing under the laws of the States of Missouri and Arkansas, is"
+  },
+  {
+   "role": "sidenote",
+   "text": "ern Railway Company"
+  },
+  {
+   "role": "sidenote",
+   "text": "may bridge, at Au-"
+  },
+  {
+   "role": "body",
+   "text": "hereby authorized to construct, maintain, and operate a railroad bridge"
+  },
+  {
+   "role": "sidenote",
+   "text": "gusta."
+  },
+  {
+   "role": "body",
+   "text": "and approaches thereto across the White River, at a point suitable to"
+  },
+  {
+   "role": "body",
+   "text": "the interests of navigation, at Augusta, Arkansas, or to reconstruct,"
+  },
+  {
+   "role": "body",
+   "text": "maintain, and operate the present bridge of said company across the"
+  },
+  {
+   "role": "body",
+   "text": "said river in accordance with the provisions of the Act entitled “An"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. 34, p. 84."
+  },
+  {
+   "role": "body",
+   "text": "Act to regulate the construction of bridges over navigable waters,”"
+  },
+  {
+   "role": "body",
+   "text": "approved March twenty-third, nineteen hundred and six."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That the right to alter, amend, or repeal this Act is hereby"
+  },
+  {
+   "role": "sidenote",
+   "text": "Amendment."
+  },
+  {
+   "role": "body",
+   "text": "expressly reserved."
+  },
+  {
+   "role": "body",
+   "text": "Approved, February 19, 1910."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 50.—An Act To provide for the removal of present grade crossing, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "February 21, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 11989.]"
+  },
+  {
+   "role": "body",
+   "text": "construction of a new grade crossing on the line of Q street northeast, District of"
+  },
+  {
+   "role": "body",
+   "text": "Columbia."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 54.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That within thirty days after"
+  },
+  {
+   "role": "sidenote",
+   "text": "District of Columbia."
+  },
+  {
+   "role": "body",
+   "text": "the passage of this Act the Baltimore and Ohio Railroad Company and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Change of grade"
+  },
+  {
+   "role": "body",
+   "text": "the Philadelphia, Baltimore and Washington Railroad Company be,"
+  },
+  {
+   "role": "sidenote",
+   "text": "crossing, Q street"
+  },
+  {
+   "role": "sidenote",
+   "text": "northeast."
+  },
+  {
+   "role": "body",
+   "text": "and they are hereby, directed and required to remove the present"
+  },
+  {
+   "role": "body",
+   "text": "grade crossing over their tracks between P and Q streets northeast,"
+  },
+  {
+   "role": "body",
+   "text": "in the District of Columbia, and to construct a grade crossing over"
+  },
+  {
+   "role": "body",
+   "text": "said tracks on the line of Q street northeast; all work within the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Payment of expense."
+  },
+  {
+   "role": "body",
+   "text": "limits of the rights of way of said railroad companies to be done by"
+  },
+  {
+   "role": "body",
+   "text": "them at their own cost and expense and all necessary work outside of"
+  },
+  {
+   "role": "body",
+   "text": "said rights of way to be done by the District of Columbia."
+  },
+  {
+   "role": "body",
+   "text": "Approved, February 21, 1910."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 51.—An Act To authorize the extension of Park place northwest."
+  },
+  {
+   "role": "sidenote",
+   "text": "February 21, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 16324.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 55.]"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That, under and in accordance"
+  },
+  {
+   "role": "sidenote",
+   "text": "District of Columbia."
+  },
+  {
+   "role": "body",
+   "text": "with the provisions of subchapter one of chapter fifteen of the Code of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Park place north-"
+  },
+  {
+   "role": "sidenote",
+   "text": "west."
+  }
+ ],
+ "disagreement_count": 31,
+ "tokens": {
+  "input_tokens": 24164,
+  "output_tokens": 8822,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.34253,
+ "seconds": 94.1,
+ "created": "2026-09-08T11:26:02"
+}

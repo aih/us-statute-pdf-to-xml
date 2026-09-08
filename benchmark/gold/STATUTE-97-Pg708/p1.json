@@ -1,0 +1,896 @@
+{
+ "granule_id": "STATUTE-97-Pg708",
+ "package_id": "STATUTE-97",
+ "volume": 97,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Challenge Grant Amendments of 1983",
+ "date_issued": "1983-09-26",
+ "pdf_page": 1,
+ "pdf_pages": 5,
+ "stat_page": "708",
+ "image": "data/gold/STATUTE-97-Pg708/p1.png",
+ "image_sha256": "08514eb01a42dde5ba4323d1849d8b743424cd33206da54de80d19dbbddfc859",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "97 STAT. 708                    PUBLIC LAW 98-95—SEPT. 26, 1983"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 98-95"
+    },
+    {
+     "role": "body",
+     "text": "98th Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Sept. 26, 1983"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1872]"
+    },
+    {
+     "role": "body",
+     "text": "To increase endowment funds for eligible individuals under part C of title III of the"
+    },
+    {
+     "role": "body",
+     "text": "Higher Education Act of 1965."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Challenge Grant"
+    },
+    {
+     "role": "sidenote",
+     "text": "Amendments of"
+    },
+    {
+     "role": "sidenote",
+     "text": "1983."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That this Act may"
+    },
+    {
+     "role": "body",
+     "text": "be cited as the \"Challenge Grant Amendments of 1983\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 1001"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Part C of title III of the Higher Education Act of 1965"
+    },
+    {
+     "role": "body",
+     "text": "(hereinafter in this Act referred to as \"the Act\") is amended by"
+    },
+    {
+     "role": "body",
+     "text": "adding after section 332 the following new section:"
+    },
+    {
+     "role": "body",
+     "text": "\"ENDOWMENT GRANTS"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 1065a."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 333. (a)(1) The purpose of this section is to establish a"
+    },
+    {
+     "role": "body",
+     "text": "program to provide matching grants to eligible institutions of higher"
+    },
+    {
+     "role": "body",
+     "text": "education in order to establish or increase endowment funds at such"
+    },
+    {
+     "role": "body",
+     "text": "institutions, to provide additional incentives to promote fundraising"
+    },
+    {
+     "role": "body",
+     "text": "activities by such institutions, and to foster increased independence"
+    },
+    {
+     "role": "body",
+     "text": "and self-sufficiency at such institutions."
+    },
+    {
+     "role": "sidenote",
+     "text": "Definitions."
+    },
+    {
+     "role": "body",
+     "text": "\"(2) For purposes of this section:"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) The term 'endowment fund' means a fund established by"
+    },
+    {
+     "role": "body",
+     "text": "State law, by an institution of higher education, or by a founda-"
+    },
+    {
+     "role": "body",
+     "text": "tion which is exempt from taxation and is maintained for the"
+    },
+    {
+     "role": "body",
+     "text": "purpose of generating income for the support of the institution,"
+    },
+    {
+     "role": "body",
+     "text": "but which shall not include real estate."
+    },
+    {
+     "role": "body",
+     "text": "\"(B) The term 'endowment fund corpus' means an amount"
+    },
+    {
+     "role": "body",
+     "text": "equal to the grant or grants awarded under this section plus an"
+    },
+    {
+     "role": "body",
+     "text": "amount equal to such grant or grants provided by the"
+    },
+    {
+     "role": "body",
+     "text": "institution."
+    },
+    {
+     "role": "body",
+     "text": "\"(C) The term 'endowment fund income' means an amount"
+    },
+    {
+     "role": "body",
+     "text": "equal to the total value of the endowment fund established"
+    },
+    {
+     "role": "body",
+     "text": "under this section minus the endowment fund corpus."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 711."
+    },
+    {
+     "role": "body",
+     "text": "\"(b)(1) From sums available for this section under section 347, the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary is authorized to award endowment grants to eligible"
+    },
+    {
+     "role": "body",
+     "text": "institutions of higher education to establish or increase an endow-"
+    },
+    {
+     "role": "body",
+     "text": "ment fund at such institution. Such grants shall be made only to"
+    },
+    {
+     "role": "body",
+     "text": "eligible institutions described in paragraph (4) whose applications"
+    },
+    {
+     "role": "body",
+     "text": "have been approved pursuant to subsection (g)."
+    },
+    {
+     "role": "sidenote",
+     "text": "Matching funds"
+    },
+    {
+     "role": "sidenote",
+     "text": "requirement."
+    },
+    {
+     "role": "body",
+     "text": "\"(2) No institution shall receive a grant under this section, unless"
+    },
+    {
+     "role": "body",
+     "text": "such institution has deposited in its endowment fund established"
+    },
+    {
+     "role": "body",
+     "text": "under this section an amount equal to the amount of such grant."
+    },
+    {
+     "role": "body",
+     "text": "The source of funds for this institutional match shall not include"
+    },
+    {
+     "role": "body",
+     "text": "Federal funds or funds from an existing endowment fund."
+    },
+    {
+     "role": "sidenote",
+     "text": "Grant period."
+    },
+    {
+     "role": "body",
+     "text": "\"(3)(A) The period of a grant under this section shall be not more"
+    },
+    {
+     "role": "body",
+     "text": "than twenty years."
+    },
+    {
+     "role": "body",
+     "text": "\"(B) During the grant period, an institution may not withdraw or"
+    },
+    {
+     "role": "body",
+     "text": "expend any of the endowment fund corpus."
+    },
+    {
+     "role": "body",
+     "text": "\"(C) After the termination of the grant period, an institution may"
+    },
+    {
+     "role": "body",
+     "text": "use the endowment fund corpus plus any endowment fund income"
+    },
+    {
+     "role": "body",
+     "text": "for any educational purpose."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 1955,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07575,
+   "seconds": 108.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "97 STAT. 708"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98-95—SEPT. 26, 1983"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 98-95"
+    },
+    {
+     "role": "body",
+     "text": "98th Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Sept. 26, 1983"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1872]"
+    },
+    {
+     "role": "body",
+     "text": "To increase endowment funds for eligible individuals under part C of title III of the"
+    },
+    {
+     "role": "body",
+     "text": "Higher Education Act of 1965."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Challenge Grant"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That this Act may"
+    },
+    {
+     "role": "sidenote",
+     "text": "Amendments of"
+    },
+    {
+     "role": "body",
+     "text": "be cited as the \"Challenge Grant Amendments of 1983\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "1983."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Part C of title III of the Higher Education Act of 1965"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 1001"
+    },
+    {
+     "role": "body",
+     "text": "(hereinafter in this Act referred to as \"the Act\") is amended by"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "adding after section 332 the following new section:"
+    },
+    {
+     "role": "body",
+     "text": "\"ENDOWMENT GRANTS"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 1065a."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 333. (a)(1) The purpose of this section is to establish a"
+    },
+    {
+     "role": "body",
+     "text": "program to provide matching grants to eligible institutions of higher"
+    },
+    {
+     "role": "body",
+     "text": "education in order to establish or increase endowment funds at such"
+    },
+    {
+     "role": "body",
+     "text": "institutions, to provide additional incentives to promote fundraising"
+    },
+    {
+     "role": "body",
+     "text": "activities by such institutions, and to foster increased independence"
+    },
+    {
+     "role": "body",
+     "text": "and self-sufficiency at such institutions."
+    },
+    {
+     "role": "sidenote",
+     "text": "Definitions."
+    },
+    {
+     "role": "body",
+     "text": "\"(2) For purposes of this section:"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) The term 'endowment fund' means a fund established by"
+    },
+    {
+     "role": "body",
+     "text": "State law, by an institution of higher education, or by a founda-"
+    },
+    {
+     "role": "body",
+     "text": "tion which is exempt from taxation and is maintained for the"
+    },
+    {
+     "role": "body",
+     "text": "purpose of generating income for the support of the institution,"
+    },
+    {
+     "role": "body",
+     "text": "but which shall not include real estate."
+    },
+    {
+     "role": "body",
+     "text": "\"(B) The term 'endowment fund corpus' means an amount"
+    },
+    {
+     "role": "body",
+     "text": "equal to the grant or grants awarded under this section plus an"
+    },
+    {
+     "role": "body",
+     "text": "amount equal to such grant or grants provided by the"
+    },
+    {
+     "role": "body",
+     "text": "institution."
+    },
+    {
+     "role": "body",
+     "text": "\"(C) The term 'endowment fund income' means an amount"
+    },
+    {
+     "role": "body",
+     "text": "equal to the total value of the endowment fund established"
+    },
+    {
+     "role": "body",
+     "text": "under this section minus the endowment fund corpus."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 711."
+    },
+    {
+     "role": "body",
+     "text": "\"(b)(1) From sums available for this section under section 347, the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary is authorized to award endowment grants to eligible"
+    },
+    {
+     "role": "body",
+     "text": "institutions of higher education to establish or increase an endow-"
+    },
+    {
+     "role": "body",
+     "text": "ment fund at such institution. Such grants shall be made only to"
+    },
+    {
+     "role": "body",
+     "text": "eligible institutions described in paragraph (4) whose applications"
+    },
+    {
+     "role": "body",
+     "text": "have been approved pursuant to subsection (g)."
+    },
+    {
+     "role": "sidenote",
+     "text": "Matching funds"
+    },
+    {
+     "role": "sidenote",
+     "text": "requirement."
+    },
+    {
+     "role": "body",
+     "text": "\"(2) No institution shall receive a grant under this section, unless"
+    },
+    {
+     "role": "body",
+     "text": "such institution has deposited in its endowment fund established"
+    },
+    {
+     "role": "body",
+     "text": "under this section an amount equal to the amount of such grant."
+    },
+    {
+     "role": "body",
+     "text": "The source of funds for this institutional match shall not include"
+    },
+    {
+     "role": "body",
+     "text": "Federal funds or funds from an existing endowment fund."
+    },
+    {
+     "role": "sidenote",
+     "text": "Grant period."
+    },
+    {
+     "role": "body",
+     "text": "\"(3)(A) The period of a grant under this section shall be not more"
+    },
+    {
+     "role": "body",
+     "text": "than twenty years."
+    },
+    {
+     "role": "body",
+     "text": "\"(B) During the grant period, an institution may not withdraw or"
+    },
+    {
+     "role": "body",
+     "text": "expend any of the endowment fund corpus."
+    },
+    {
+     "role": "body",
+     "text": "\"(C) After the termination of the grant period, an institution may"
+    },
+    {
+     "role": "body",
+     "text": "use the endowment fund corpus plus any endowment fund income"
+    },
+    {
+     "role": "body",
+     "text": "for any educational purpose."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 1721,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.06989,
+   "seconds": 88.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 10731,
+   "output_tokens": 966,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.07822,
+  "seconds": 153.4,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "97 STAT. 708                    PUBLIC LAW 98-95—SEPT. 26, 1983",
+    "b": "97 STAT. 708\nPUBLIC LAW 98-95—SEPT. 26, 1983",
+    "kept": "97 STAT. 708\nPUBLIC LAW 98-95—SEPT. 26, 1983",
+    "reason": "The header consists of two separate elements set at left and center; recorded as two running-head lines."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "United States of America in Congress assembled, That this Act may",
+    "kept": "",
+    "reason": "The sidenote block 'Challenge Grant / Amendments of / 1983.' is contiguous; no body line intervenes here."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "be cited as the \"Challenge Grant Amendments of 1983\".",
+    "kept": "",
+    "reason": "Continuation of the same sidenote block; no body line printed at this point."
+   },
+   {
+    "run": 4,
+    "a": "United States of America in Congress assembled, That this Act may\nbe cited as the \"Challenge Grant Amendments of 1983\".",
+    "b": "SEC. 2. Part C of title III of the Higher Education Act of 1965",
+    "kept": "United States of America in Congress assembled, That this Act may\nbe cited as the \"Challenge Grant Amendments of 1983\".",
+    "reason": "After the sidenote block these two body lines follow, as printed in the text column."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "(hereinafter in this Act referred to as \"the Act\") is amended by",
+    "kept": "",
+    "reason": "The sidenote '20 USC 1001 / note.' is a contiguous two-line block; nothing else printed between."
+   },
+   {
+    "run": 6,
+    "a": "SEC. 2. Part C of title III of the Higher Education Act of 1965\n(hereinafter in this Act referred to as \"the Act\") is amended by",
+    "b": "",
+    "kept": "SEC. 2. Part C of title III of the Higher Education Act of 1965\n(hereinafter in this Act referred to as \"the Act\") is amended by",
+    "reason": "These body lines are printed after the sidenote block and precede the agreed following line."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "97 STAT. 708"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 98-95—SEPT. 26, 1983"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 98-95"
+  },
+  {
+   "role": "body",
+   "text": "98th Congress"
+  },
+  {
+   "role": "body",
+   "text": "An Act"
+  },
+  {
+   "role": "sidenote",
+   "text": "Sept. 26, 1983"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 1872]"
+  },
+  {
+   "role": "body",
+   "text": "To increase endowment funds for eligible individuals under part C of title III of the"
+  },
+  {
+   "role": "body",
+   "text": "Higher Education Act of 1965."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Challenge Grant"
+  },
+  {
+   "role": "sidenote",
+   "text": "Amendments of"
+  },
+  {
+   "role": "sidenote",
+   "text": "1983."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That this Act may"
+  },
+  {
+   "role": "body",
+   "text": "be cited as the \"Challenge Grant Amendments of 1983\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "20 USC 1001"
+  },
+  {
+   "role": "sidenote",
+   "text": "note."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. Part C of title III of the Higher Education Act of 1965"
+  },
+  {
+   "role": "body",
+   "text": "(hereinafter in this Act referred to as \"the Act\") is amended by"
+  },
+  {
+   "role": "body",
+   "text": "adding after section 332 the following new section:"
+  },
+  {
+   "role": "body",
+   "text": "\"ENDOWMENT GRANTS"
+  },
+  {
+   "role": "sidenote",
+   "text": "20 USC 1065a."
+  },
+  {
+   "role": "body",
+   "text": "\"SEC. 333. (a)(1) The purpose of this section is to establish a"
+  },
+  {
+   "role": "body",
+   "text": "program to provide matching grants to eligible institutions of higher"
+  },
+  {
+   "role": "body",
+   "text": "education in order to establish or increase endowment funds at such"
+  },
+  {
+   "role": "body",
+   "text": "institutions, to provide additional incentives to promote fundraising"
+  },
+  {
+   "role": "body",
+   "text": "activities by such institutions, and to foster increased independence"
+  },
+  {
+   "role": "body",
+   "text": "and self-sufficiency at such institutions."
+  },
+  {
+   "role": "sidenote",
+   "text": "Definitions."
+  },
+  {
+   "role": "body",
+   "text": "\"(2) For purposes of this section:"
+  },
+  {
+   "role": "body",
+   "text": "\"(A) The term 'endowment fund' means a fund established by"
+  },
+  {
+   "role": "body",
+   "text": "State law, by an institution of higher education, or by a founda-"
+  },
+  {
+   "role": "body",
+   "text": "tion which is exempt from taxation and is maintained for the"
+  },
+  {
+   "role": "body",
+   "text": "purpose of generating income for the support of the institution,"
+  },
+  {
+   "role": "body",
+   "text": "but which shall not include real estate."
+  },
+  {
+   "role": "body",
+   "text": "\"(B) The term 'endowment fund corpus' means an amount"
+  },
+  {
+   "role": "body",
+   "text": "equal to the grant or grants awarded under this section plus an"
+  },
+  {
+   "role": "body",
+   "text": "amount equal to such grant or grants provided by the"
+  },
+  {
+   "role": "body",
+   "text": "institution."
+  },
+  {
+   "role": "body",
+   "text": "\"(C) The term 'endowment fund income' means an amount"
+  },
+  {
+   "role": "body",
+   "text": "equal to the total value of the endowment fund established"
+  },
+  {
+   "role": "body",
+   "text": "under this section minus the endowment fund corpus."
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, p. 711."
+  },
+  {
+   "role": "body",
+   "text": "\"(b)(1) From sums available for this section under section 347, the"
+  },
+  {
+   "role": "body",
+   "text": "Secretary is authorized to award endowment grants to eligible"
+  },
+  {
+   "role": "body",
+   "text": "institutions of higher education to establish or increase an endow-"
+  },
+  {
+   "role": "body",
+   "text": "ment fund at such institution. Such grants shall be made only to"
+  },
+  {
+   "role": "body",
+   "text": "eligible institutions described in paragraph (4) whose applications"
+  },
+  {
+   "role": "body",
+   "text": "have been approved pursuant to subsection (g)."
+  },
+  {
+   "role": "sidenote",
+   "text": "Matching funds"
+  },
+  {
+   "role": "sidenote",
+   "text": "requirement."
+  },
+  {
+   "role": "body",
+   "text": "\"(2) No institution shall receive a grant under this section, unless"
+  },
+  {
+   "role": "body",
+   "text": "such institution has deposited in its endowment fund established"
+  },
+  {
+   "role": "body",
+   "text": "under this section an amount equal to the amount of such grant."
+  },
+  {
+   "role": "body",
+   "text": "The source of funds for this institutional match shall not include"
+  },
+  {
+   "role": "body",
+   "text": "Federal funds or funds from an existing endowment fund."
+  },
+  {
+   "role": "sidenote",
+   "text": "Grant period."
+  },
+  {
+   "role": "body",
+   "text": "\"(3)(A) The period of a grant under this section shall be not more"
+  },
+  {
+   "role": "body",
+   "text": "than twenty years."
+  },
+  {
+   "role": "body",
+   "text": "\"(B) During the grant period, an institution may not withdraw or"
+  },
+  {
+   "role": "body",
+   "text": "expend any of the endowment fund corpus."
+  },
+  {
+   "role": "body",
+   "text": "\"(C) After the termination of the grant period, an institution may"
+  },
+  {
+   "role": "body",
+   "text": "use the endowment fund corpus plus any endowment fund income"
+  },
+  {
+   "role": "body",
+   "text": "for any educational purpose."
+  }
+ ],
+ "disagreement_count": 6,
+ "tokens": {
+  "input_tokens": 21330,
+  "output_tokens": 4642,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.22386,
+ "seconds": 350.4,
+ "created": "2026-09-08T12:13:42"
+}

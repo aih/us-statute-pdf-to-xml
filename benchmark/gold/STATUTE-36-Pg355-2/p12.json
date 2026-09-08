@@ -1,0 +1,1180 @@
+{
+ "granule_id": "STATUTE-36-Pg355-2",
+ "package_id": "STATUTE-36",
+ "volume": 36,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act Making appropriations for the service of the Post-Office Department for the fiscal year ending June thirtieth, nineteen hundred and eleven, and for other purposes.",
+ "date_issued": "1910-05-12",
+ "pdf_page": 12,
+ "pdf_pages": 13,
+ "stat_page": "366",
+ "image": "data/gold/STATUTE-36-Pg355-2/p12.png",
+ "image_sha256": "ef951c8bc3a31644bded629ab513a187e6b54f3550f93be1a001fc5aa33531f5",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "366                    SIXTY-FIRST CONGRESS.  SESS. II.  CH. 230.  1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "Postmarking stamps, etc."
+    },
+    {
+     "role": "body",
+     "text": "For postmarking, rating, and money-order stamps and repairs to"
+    },
+    {
+     "role": "body",
+     "text": "same, metal, rubber, and combination type, dates and figures, type"
+    },
+    {
+     "role": "body",
+     "text": "holders, ink and pads for canceling and stamping purposes, fifty"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Letter scales, etc."
+    },
+    {
+     "role": "body",
+     "text": "For letter balances, scales, test weights, repairs to same, and for"
+    },
+    {
+     "role": "body",
+     "text": "tape measures, ten thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Wrapping paper."
+    },
+    {
+     "role": "body",
+     "text": "For wrapping paper, fifteen thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Twine, etc."
+    },
+    {
+     "role": "body",
+     "text": "For wrapping twine and tying devices, two hundred thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Facing slips, etc."
+    },
+    {
+     "role": "body",
+     "text": "For facing slips, plain and printed, including the furnishing of"
+    },
+    {
+     "role": "body",
+     "text": "paper for same; and for card slide labels, blanks, and books of an"
+    },
+    {
+     "role": "body",
+     "text": "urgent nature, sixty-five thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Miscellaneous supplies."
+    },
+    {
+     "role": "body",
+     "text": "For the purchase, exchange, and repair of typewriting machines,"
+    },
+    {
+     "role": "body",
+     "text": "envelope-opening machines, and computing machines, and for the"
+    },
+    {
+     "role": "body",
+     "text": "purchase of copying presses, numbering machines, and miscellaneous"
+    },
+    {
+     "role": "body",
+     "text": "articles purchased and furnished directly to the postal service, one"
+    },
+    {
+     "role": "body",
+     "text": "hundred and fifteen thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Rural delivery supplies."
+    },
+    {
+     "role": "body",
+     "text": "Supplies for the rural delivery service, including collection boxes,"
+    },
+    {
+     "role": "body",
+     "text": "furniture, satchels, badges, straps, map supplies, repairing satchels"
+    },
+    {
+     "role": "body",
+     "text": "and furniture, repairing, erecting, and painting collection boxes in"
+    },
+    {
+     "role": "body",
+     "text": "the rural delivery service, forty thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Shipping supplies."
+    },
+    {
+     "role": "body",
+     "text": "To defray expenses incident to the shipment of supplies, including"
+    },
+    {
+     "role": "body",
+     "text": "hardware, boxing, packing, cartage, freight, and the pay of one car-"
+    },
+    {
+     "role": "body",
+     "text": "penter and three laborers for assignment in connection therewith,"
+    },
+    {
+     "role": "body",
+     "text": "one hundred and ten thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Seals, foreign service."
+    },
+    {
+     "role": "body",
+     "text": "For intaglio seals, foreign mail service, fifteen thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Rural delivery carriers."
+    },
+    {
+     "role": "body",
+     "text": "For pay of letter carriers, substitutes for carriers on annual leave,"
+    },
+    {
+     "role": "body",
+     "text": "clerks in charge of substations, and tolls and ferriage, rural delivery"
+    },
+    {
+     "role": "body",
+     "text": "service, thirty-eight million eight hundred and sixty thousand dollars:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Substation clerks."
+    },
+    {
+     "role": "body",
+     "text": "Provided, That not to exceed twenty thousand dollars of the amount"
+    },
+    {
+     "role": "body",
+     "text": "hereby appropriated may be used for compensation of clerks in charge"
+    },
+    {
+     "role": "body",
+     "text": "of substations."
+    },
+    {
+     "role": "sidenote",
+     "text": "Travel, etc."
+    },
+    {
+     "role": "body",
+     "text": "For travel and miscellaneous expenses in the postal service, office"
+    },
+    {
+     "role": "body",
+     "text": "of the Fourth Assistant Postmaster-General, one thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Advertising  mail lettings."
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 21, p. 374, amended."
+    },
+    {
+     "role": "body",
+     "text": "So much of the Act making appropriations for the service of the"
+    },
+    {
+     "role": "body",
+     "text": "Post-Office Department for the fiscal year ended June thirtieth,"
+    },
+    {
+     "role": "body",
+     "text": "eighteen hundred and eighty-two, and for other purposes, approved"
+    },
+    {
+     "role": "body",
+     "text": "March first, eighteen hundred and eighty-one, as relates to the adver-"
+    },
+    {
+     "role": "body",
+     "text": "tisements of mail lettings is hereby amended to read as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Posting in each office named."
+    },
+    {
+     "role": "body",
+     "text": "Hereafter the Postmaster-General shall cause advertisements of all"
+    },
+    {
+     "role": "body",
+     "text": "general mail lettings of each State and Territory to be conspicuously"
+    },
+    {
+     "role": "body",
+     "text": "posted in each post-office named in said advertisements for at least"
+    },
+    {
+     "role": "body",
+     "text": "sixty days before the time of such general lettings, and no other adver-"
+    },
+    {
+     "role": "body",
+     "text": "tisement of such lettings shall be required; but this provision shall"
+    },
+    {
+     "role": "body",
+     "text": "not apply to any other than general mail lettings."
+    },
+    {
+     "role": "sidenote",
+     "text": "Second-class mail matter."
+    },
+    {
+     "role": "body",
+     "text": "That hereafter when copies of any publication of the second class,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Return of undeliverable, at third-class rates."
+    },
+    {
+     "role": "body",
+     "text": "mailed by a publisher at the pound rate or free in the county of publi-"
+    },
+    {
+     "role": "body",
+     "text": "cation, are undeliverable at the address thereon, the postmaster at"
+    },
+    {
+     "role": "body",
+     "text": "the office of destination shall promptly notify the publisher of the"
+    },
+    {
+     "role": "body",
+     "text": "fact, giving the reason therefor, and copies received five weeks after"
+    },
+    {
+     "role": "body",
+     "text": "the mailing of the notice to the publisher, and in no instance until two"
+    },
+    {
+     "role": "body",
+     "text": "successive issues thereof have been published, shall, under such regu-"
+    },
+    {
+     "role": "body",
+     "text": "lations as the Postmaster-General may prescribe, be separately"
+    },
+    {
+     "role": "body",
+     "text": "returned to the publisher thereof charged with postage at the third-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Conflicting laws repealed."
+    },
+    {
+     "role": "body",
+     "text": "class rate.  All laws and parts of laws in conflict with this Act are"
+    },
+    {
+     "role": "body",
+     "text": "hereby repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation to meet deficiencies."
+    },
+    {
+     "role": "body",
+     "text": "That if the revenues of the Post-Office Department shall be insuffi-"
+    },
+    {
+     "role": "body",
+     "text": "cient to meet the appropriations made by this Act, a sum equal to"
+    },
+    {
+     "role": "body",
+     "text": "such deficiency of the revenue of said department is hereby appro-"
+    },
+    {
+     "role": "body",
+     "text": "priated, to be paid out of any money in the Treasury not otherwise"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5186,
+    "output_tokens": 2419,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08679,
+   "seconds": 171.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "366"
+    },
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CH. 230.  1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "Postmarking stamps, etc."
+    },
+    {
+     "role": "body",
+     "text": "For postmarking, rating, and money-order stamps and repairs to"
+    },
+    {
+     "role": "body",
+     "text": "same, metal, rubber, and combination type, dates and figures, type"
+    },
+    {
+     "role": "body",
+     "text": "holders, ink and pads for canceling and stamping purposes, fifty"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Letter scales, etc."
+    },
+    {
+     "role": "body",
+     "text": "For letter balances, scales, test weights, repairs to same, and for"
+    },
+    {
+     "role": "body",
+     "text": "tape measures, ten thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Wrapping paper."
+    },
+    {
+     "role": "body",
+     "text": "For wrapping paper, fifteen thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Twine, etc."
+    },
+    {
+     "role": "body",
+     "text": "For wrapping twine and tying devices, two hundred thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Facing slips, etc."
+    },
+    {
+     "role": "body",
+     "text": "For facing slips, plain and printed, including the furnishing of"
+    },
+    {
+     "role": "body",
+     "text": "paper for same; and for card slide labels, blanks, and books of an"
+    },
+    {
+     "role": "body",
+     "text": "urgent nature, sixty-five thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Miscellaneous sup-plies."
+    },
+    {
+     "role": "body",
+     "text": "For the purchase, exchange, and repair of typewriting machines,"
+    },
+    {
+     "role": "body",
+     "text": "envelope-opening machines, and computing machines, and for the"
+    },
+    {
+     "role": "body",
+     "text": "purchase of copying presses, numbering machines, and miscellaneous"
+    },
+    {
+     "role": "body",
+     "text": "articles purchased and furnished directly to the postal service, one"
+    },
+    {
+     "role": "body",
+     "text": "hundred and fifteen thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Rural delivery sup-plies."
+    },
+    {
+     "role": "body",
+     "text": "Supplies for the rural delivery service, including collection boxes,"
+    },
+    {
+     "role": "body",
+     "text": "furniture, satchels, badges, straps, map supplies, repairing satchels"
+    },
+    {
+     "role": "body",
+     "text": "and furniture, repairing, erecting, and painting collection boxes in"
+    },
+    {
+     "role": "body",
+     "text": "the rural delivery service, forty thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Shipping supplies."
+    },
+    {
+     "role": "body",
+     "text": "To defray expenses incident to the shipment of supplies, including"
+    },
+    {
+     "role": "body",
+     "text": "hardware, boxing, packing, cartage, freight, and the pay of one car-"
+    },
+    {
+     "role": "body",
+     "text": "penter and three laborers for assignment in connection therewith,"
+    },
+    {
+     "role": "body",
+     "text": "one hundred and ten thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Seals, foreign serv-ice."
+    },
+    {
+     "role": "body",
+     "text": "For intaglio seals, foreign mail service, fifteen thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Rural delivery car-riers."
+    },
+    {
+     "role": "body",
+     "text": "For pay of letter carriers, substitutes for carriers on annual leave,"
+    },
+    {
+     "role": "body",
+     "text": "clerks in charge of substations, and tolls and ferriage, rural delivery"
+    },
+    {
+     "role": "body",
+     "text": "service, thirty-eight million eight hundred and sixty thousand dollars:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Substation clerks."
+    },
+    {
+     "role": "body",
+     "text": "Provided, That not to exceed twenty thousand dollars of the amount"
+    },
+    {
+     "role": "body",
+     "text": "hereby appropriated may be used for compensation of clerks in charge"
+    },
+    {
+     "role": "body",
+     "text": "of substations."
+    },
+    {
+     "role": "sidenote",
+     "text": "Travel, etc."
+    },
+    {
+     "role": "body",
+     "text": "For travel and miscellaneous expenses in the postal service, office"
+    },
+    {
+     "role": "body",
+     "text": "of the Fourth Assistant Postmaster-General, one thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Advertising  m a i l lettings."
+    },
+    {
+     "role": "body",
+     "text": "So much of the Act making appropriations for the service of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "V o l.  21,  p.  3 7 4, amended."
+    },
+    {
+     "role": "body",
+     "text": "Post-Office Department for the fiscal year ended June thirtieth,"
+    },
+    {
+     "role": "body",
+     "text": "eighteen hundred and eighty-two, and for other purposes, approved"
+    },
+    {
+     "role": "body",
+     "text": "March first, eighteen hundred and eighty-one, as relates to the adver-"
+    },
+    {
+     "role": "body",
+     "text": "tisements of mail lettings is hereby amended to read as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Posting in each office named."
+    },
+    {
+     "role": "body",
+     "text": "Hereafter the Postmaster-General shall cause advertisements of all"
+    },
+    {
+     "role": "body",
+     "text": "general mail lettings of each State and Territory to be conspicuously"
+    },
+    {
+     "role": "body",
+     "text": "posted in each post-office named in said advertisements for at least"
+    },
+    {
+     "role": "body",
+     "text": "sixty days before the time of such general lettings, and no other adver-"
+    },
+    {
+     "role": "body",
+     "text": "tisement of such lettings shall be required; but this provision shall"
+    },
+    {
+     "role": "body",
+     "text": "not apply to any other than general mail lettings."
+    },
+    {
+     "role": "sidenote",
+     "text": "Second-class  m a i l matter."
+    },
+    {
+     "role": "body",
+     "text": "That hereafter when copies of any publication of the second class,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Return of undeliv-erable, at third-class rates."
+    },
+    {
+     "role": "body",
+     "text": "mailed by a publisher at the pound rate or free in the county of publi-"
+    },
+    {
+     "role": "body",
+     "text": "cation, are undeliverable at the address thereon, the postmaster at"
+    },
+    {
+     "role": "body",
+     "text": "the office of destination shall promptly notify the publisher of the"
+    },
+    {
+     "role": "body",
+     "text": "fact, giving the reason therefor, and copies received five weeks after"
+    },
+    {
+     "role": "body",
+     "text": "the mailing of the notice to the publisher, and in no instance until two"
+    },
+    {
+     "role": "body",
+     "text": "successive issues thereof have been published, shall, under such regu-"
+    },
+    {
+     "role": "body",
+     "text": "lations as the Postmaster-General may prescribe, be separately"
+    },
+    {
+     "role": "body",
+     "text": "returned to the publisher thereof charged with postage at the third-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Conflicting laws re-pealed."
+    },
+    {
+     "role": "body",
+     "text": "class rate.  All laws and parts of laws in conflict with this Act are"
+    },
+    {
+     "role": "body",
+     "text": "hereby repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation  to meet deficiencies."
+    },
+    {
+     "role": "body",
+     "text": "That if the revenues of the Post-Office Department shall be insuffi-"
+    },
+    {
+     "role": "body",
+     "text": "cient to meet the appropriations made by this Act, a sum equal to"
+    },
+    {
+     "role": "body",
+     "text": "such deficiency of the revenue of said department is hereby appro-"
+    },
+    {
+     "role": "body",
+     "text": "priated, to be paid out of any money in the Treasury not otherwise"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5189,
+    "output_tokens": 2455,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08768,
+   "seconds": 74.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12234,
+   "output_tokens": 1455,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.09796,
+  "seconds": 21.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "366                    SIXTY-FIRST CONGRESS.  SESS. II.  CH. 230.  1910.",
+    "b": "366\nSIXTY-FIRST CONGRESS.  SESS. II.  CH. 230.  1910.",
+    "kept": "366\nSIXTY-FIRST CONGRESS.  SESS. II.  CH. 230.  1910.",
+    "reason": "The folio 366 is printed at the left margin as a separate element from the centered running head."
+   },
+   {
+    "run": 2,
+    "a": "Miscellaneous supplies.",
+    "b": "Miscellaneous sup-plies.",
+    "kept": "Miscellaneous sup-\nplies.",
+    "reason": "Sidenote is set on two lines with an end-of-line hyphen."
+   },
+   {
+    "run": 3,
+    "a": "Rural delivery supplies.",
+    "b": "Rural delivery sup-plies.",
+    "kept": "Rural delivery sup-\nplies.",
+    "reason": "Two printed sidenote lines with hyphenation."
+   },
+   {
+    "run": 4,
+    "a": "Seals, foreign service.",
+    "b": "Seals, foreign serv-ice.",
+    "kept": "Seals, foreign serv-\nice.",
+    "reason": "Sidenote breaks as 'serv-/ice.' in the image."
+   },
+   {
+    "run": 5,
+    "a": "Rural delivery carriers.",
+    "b": "Rural delivery car-riers.",
+    "kept": "Rural delivery car-\nriers.",
+    "reason": "Sidenote breaks as 'car-/riers.'"
+   },
+   {
+    "run": 6,
+    "a": "Advertising  mail lettings.\nVol. 21, p. 374, amended.",
+    "b": "Advertising  m a i l lettings.",
+    "kept": "Advertising  m a i l\nlettings.",
+    "reason": "Spaced-out 'm a i l' on first sidenote line, 'lettings.' on second; the Vol. reference sits lower, beside the next body line."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "V o l.  21,  p.  3 7 4, amended.",
+    "kept": "V o l.  21,  p.  3 7 4,\namended.",
+    "reason": "Reference sidenote printed here in letterspaced type, aligned with the 'Post-Office Department' line."
+   },
+   {
+    "run": 8,
+    "a": "Second-class mail matter.",
+    "b": "Second-class  m a i l matter.",
+    "kept": "Second-class  m a i l\nmatter.",
+    "reason": "Letterspaced 'm a i l' and second line 'matter.'"
+   },
+   {
+    "run": 9,
+    "a": "Return of undeliverable, at third-class rates.",
+    "b": "Return of undeliv-erable, at third-class rates.",
+    "kept": "Return of undeliv-\nerable, at third-class\nrates.",
+    "reason": "Three printed sidenote lines with the hyphenated break 'undeliv-/erable'."
+   },
+   {
+    "run": 10,
+    "a": "Conflicting laws repealed.",
+    "b": "Conflicting laws re-pealed.",
+    "kept": "Conflicting laws re-\npealed.",
+    "reason": "Sidenote breaks as 're-/pealed.'"
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "366"
+  },
+  {
+   "role": "running-head",
+   "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CH. 230.  1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "Postmarking stamps, etc."
+  },
+  {
+   "role": "body",
+   "text": "For postmarking, rating, and money-order stamps and repairs to"
+  },
+  {
+   "role": "body",
+   "text": "same, metal, rubber, and combination type, dates and figures, type"
+  },
+  {
+   "role": "body",
+   "text": "holders, ink and pads for canceling and stamping purposes, fifty"
+  },
+  {
+   "role": "body",
+   "text": "thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Letter scales, etc."
+  },
+  {
+   "role": "body",
+   "text": "For letter balances, scales, test weights, repairs to same, and for"
+  },
+  {
+   "role": "body",
+   "text": "tape measures, ten thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Wrapping paper."
+  },
+  {
+   "role": "body",
+   "text": "For wrapping paper, fifteen thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Twine, etc."
+  },
+  {
+   "role": "body",
+   "text": "For wrapping twine and tying devices, two hundred thousand"
+  },
+  {
+   "role": "body",
+   "text": "dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Facing slips, etc."
+  },
+  {
+   "role": "body",
+   "text": "For facing slips, plain and printed, including the furnishing of"
+  },
+  {
+   "role": "body",
+   "text": "paper for same; and for card slide labels, blanks, and books of an"
+  },
+  {
+   "role": "body",
+   "text": "urgent nature, sixty-five thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Miscellaneous sup-"
+  },
+  {
+   "role": "sidenote",
+   "text": "plies."
+  },
+  {
+   "role": "body",
+   "text": "For the purchase, exchange, and repair of typewriting machines,"
+  },
+  {
+   "role": "body",
+   "text": "envelope-opening machines, and computing machines, and for the"
+  },
+  {
+   "role": "body",
+   "text": "purchase of copying presses, numbering machines, and miscellaneous"
+  },
+  {
+   "role": "body",
+   "text": "articles purchased and furnished directly to the postal service, one"
+  },
+  {
+   "role": "body",
+   "text": "hundred and fifteen thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Rural delivery sup-"
+  },
+  {
+   "role": "sidenote",
+   "text": "plies."
+  },
+  {
+   "role": "body",
+   "text": "Supplies for the rural delivery service, including collection boxes,"
+  },
+  {
+   "role": "body",
+   "text": "furniture, satchels, badges, straps, map supplies, repairing satchels"
+  },
+  {
+   "role": "body",
+   "text": "and furniture, repairing, erecting, and painting collection boxes in"
+  },
+  {
+   "role": "body",
+   "text": "the rural delivery service, forty thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Shipping supplies."
+  },
+  {
+   "role": "body",
+   "text": "To defray expenses incident to the shipment of supplies, including"
+  },
+  {
+   "role": "body",
+   "text": "hardware, boxing, packing, cartage, freight, and the pay of one car-"
+  },
+  {
+   "role": "body",
+   "text": "penter and three laborers for assignment in connection therewith,"
+  },
+  {
+   "role": "body",
+   "text": "one hundred and ten thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Seals, foreign serv-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ice."
+  },
+  {
+   "role": "body",
+   "text": "For intaglio seals, foreign mail service, fifteen thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Rural delivery car-"
+  },
+  {
+   "role": "sidenote",
+   "text": "riers."
+  },
+  {
+   "role": "body",
+   "text": "For pay of letter carriers, substitutes for carriers on annual leave,"
+  },
+  {
+   "role": "body",
+   "text": "clerks in charge of substations, and tolls and ferriage, rural delivery"
+  },
+  {
+   "role": "body",
+   "text": "service, thirty-eight million eight hundred and sixty thousand dollars:"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "sidenote",
+   "text": "Substation clerks."
+  },
+  {
+   "role": "body",
+   "text": "Provided, That not to exceed twenty thousand dollars of the amount"
+  },
+  {
+   "role": "body",
+   "text": "hereby appropriated may be used for compensation of clerks in charge"
+  },
+  {
+   "role": "body",
+   "text": "of substations."
+  },
+  {
+   "role": "sidenote",
+   "text": "Travel, etc."
+  },
+  {
+   "role": "body",
+   "text": "For travel and miscellaneous expenses in the postal service, office"
+  },
+  {
+   "role": "body",
+   "text": "of the Fourth Assistant Postmaster-General, one thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Advertising  m a i l"
+  },
+  {
+   "role": "sidenote",
+   "text": "lettings."
+  },
+  {
+   "role": "body",
+   "text": "So much of the Act making appropriations for the service of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "V o l.  21,  p.  3 7 4,"
+  },
+  {
+   "role": "sidenote",
+   "text": "amended."
+  },
+  {
+   "role": "body",
+   "text": "Post-Office Department for the fiscal year ended June thirtieth,"
+  },
+  {
+   "role": "body",
+   "text": "eighteen hundred and eighty-two, and for other purposes, approved"
+  },
+  {
+   "role": "body",
+   "text": "March first, eighteen hundred and eighty-one, as relates to the adver-"
+  },
+  {
+   "role": "body",
+   "text": "tisements of mail lettings is hereby amended to read as follows:"
+  },
+  {
+   "role": "sidenote",
+   "text": "Posting in each office named."
+  },
+  {
+   "role": "body",
+   "text": "Hereafter the Postmaster-General shall cause advertisements of all"
+  },
+  {
+   "role": "body",
+   "text": "general mail lettings of each State and Territory to be conspicuously"
+  },
+  {
+   "role": "body",
+   "text": "posted in each post-office named in said advertisements for at least"
+  },
+  {
+   "role": "body",
+   "text": "sixty days before the time of such general lettings, and no other adver-"
+  },
+  {
+   "role": "body",
+   "text": "tisement of such lettings shall be required; but this provision shall"
+  },
+  {
+   "role": "body",
+   "text": "not apply to any other than general mail lettings."
+  },
+  {
+   "role": "sidenote",
+   "text": "Second-class  m a i l"
+  },
+  {
+   "role": "sidenote",
+   "text": "matter."
+  },
+  {
+   "role": "body",
+   "text": "That hereafter when copies of any publication of the second class,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Return of undeliv-"
+  },
+  {
+   "role": "sidenote",
+   "text": "erable, at third-class"
+  },
+  {
+   "role": "sidenote",
+   "text": "rates."
+  },
+  {
+   "role": "body",
+   "text": "mailed by a publisher at the pound rate or free in the county of publi-"
+  },
+  {
+   "role": "body",
+   "text": "cation, are undeliverable at the address thereon, the postmaster at"
+  },
+  {
+   "role": "body",
+   "text": "the office of destination shall promptly notify the publisher of the"
+  },
+  {
+   "role": "body",
+   "text": "fact, giving the reason therefor, and copies received five weeks after"
+  },
+  {
+   "role": "body",
+   "text": "the mailing of the notice to the publisher, and in no instance until two"
+  },
+  {
+   "role": "body",
+   "text": "successive issues thereof have been published, shall, under such regu-"
+  },
+  {
+   "role": "body",
+   "text": "lations as the Postmaster-General may prescribe, be separately"
+  },
+  {
+   "role": "body",
+   "text": "returned to the publisher thereof charged with postage at the third-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Conflicting laws re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "pealed."
+  },
+  {
+   "role": "body",
+   "text": "class rate.  All laws and parts of laws in conflict with this Act are"
+  },
+  {
+   "role": "body",
+   "text": "hereby repealed."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation to meet deficiencies."
+  },
+  {
+   "role": "body",
+   "text": "That if the revenues of the Post-Office Department shall be insuffi-"
+  },
+  {
+   "role": "body",
+   "text": "cient to meet the appropriations made by this Act, a sum equal to"
+  },
+  {
+   "role": "body",
+   "text": "such deficiency of the revenue of said department is hereby appro-"
+  },
+  {
+   "role": "body",
+   "text": "priated, to be paid out of any money in the Treasury not otherwise"
+  }
+ ],
+ "disagreement_count": 10,
+ "tokens": {
+  "input_tokens": 22609,
+  "output_tokens": 6329,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.27243,
+ "seconds": 267.5,
+ "created": "2026-09-08T11:52:38"
+}

@@ -1,0 +1,1209 @@
+{
+ "granule_id": "STATUTE-36-Pg353-2",
+ "package_id": "STATUTE-36",
+ "volume": 36,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act To authorize the opening of a road along the Anacostia River in the District of Columbia.",
+ "date_issued": "1910-05-10",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "353",
+ "image": "data/gold/STATUTE-36-Pg353-2/p1.png",
+ "image_sha256": "e74f501719f64aad6df90d22381cfb2e4ed82321c639829cf5fc8b845b4d4541",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 217, 225.  1910."
+    },
+    {
+     "role": "page-number",
+     "text": "353"
+    },
+    {
+     "role": "sidenote",
+     "text": "May 9, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 23012.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 217.—An Act Providing for the raising of the United States battle ship"
+    },
+    {
+     "role": "body",
+     "text": "Maine, in Habana Harbor, and to provide for the interment of the bodies therein."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 169.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Battle ship \"Maine.\""
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of War"
+    },
+    {
+     "role": "sidenote",
+     "text": "Wreck to be re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "moved from Habana"
+    },
+    {
+     "role": "body",
+     "text": "and the Chief of Engineers are hereby authorized and directed to pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Harbor."
+    },
+    {
+     "role": "body",
+     "text": "vide with all convenient speed for the raising or the removal of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Interment of bodies,"
+    },
+    {
+     "role": "body",
+     "text": "wreck of the United States battle ship Maine from the harbor of"
+    },
+    {
+     "role": "sidenote",
+     "text": "etc."
+    },
+    {
+     "role": "body",
+     "text": "Habana, Cuba, and for the proper interment of the bodies therein, in"
+    },
+    {
+     "role": "body",
+     "text": "Arlington Cemetery; and the Secretary of War is authorized and"
+    },
+    {
+     "role": "body",
+     "text": "directed to remove the mast of the wreck of said battle ship Maine and"
+    },
+    {
+     "role": "body",
+     "text": "place the same upon a proper foundation in Arlington National Ceme-"
+    },
+    {
+     "role": "body",
+     "text": "tery at or near the spot where the bodies of those who died through"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "such wreck are interred: Provided, however, That the consent in proper"
+    },
+    {
+     "role": "sidenote",
+     "text": "Consent from Cuba."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "body",
+     "text": "form of the Republic of Cuba shall be first obtained.   The sum of one"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, pp. 789, 1407."
+    },
+    {
+     "role": "body",
+     "text": "hundred thousand dollars is hereby appropriated, out of any money in"
+    },
+    {
+     "role": "body",
+     "text": "the Treasury not otherwise appropriated, on account of the work"
+    },
+    {
+     "role": "body",
+     "text": "herein authorized."
+    },
+    {
+     "role": "body",
+     "text": "Approved, May 9, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 10, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 19038.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 225.—An Act To authorize the opening of a road along the Anacostia"
+    },
+    {
+     "role": "body",
+     "text": "River in the District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 170.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "Road along Anacos-"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That under and in accord-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tia River."
+    },
+    {
+     "role": "body",
+     "text": "ance with the provisions of an Act entitled \"An Act to amend an Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Condemning land"
+    },
+    {
+     "role": "sidenote",
+     "text": "for."
+    },
+    {
+     "role": "body",
+     "text": "entitled 'An Act to establish a Code of Law for the District of Colum-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, pp. 151, 930."
+    },
+    {
+     "role": "body",
+     "text": "bia,' regulating proceedings for condemnation of land for streets,\""
+    },
+    {
+     "role": "body",
+     "text": "approved April thirtieth, nineteen hundred and six, known as sub-"
+    },
+    {
+     "role": "body",
+     "text": "chapter one of chapter fifteen of the Code of Law of the District of"
+    },
+    {
+     "role": "body",
+     "text": "Columbia, except section four hundred and ninety-one g of said sub-"
+    },
+    {
+     "role": "body",
+     "text": "chapter, which section shall not be applicable to this Act, the Com-"
+    },
+    {
+     "role": "body",
+     "text": "missioners of the District of Columbia be, and they are hereby, author-"
+    },
+    {
+     "role": "body",
+     "text": "ized and directed to institute in the supreme court of the District of"
+    },
+    {
+     "role": "body",
+     "text": "Columbia a proceeding in rem to condemn and acquire the fee simple"
+    },
+    {
+     "role": "body",
+     "text": "and absolute title, including all riparian rights and all other rights per-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Location."
+    },
+    {
+     "role": "body",
+     "text": "taining thereto, to a strip of land for a public highway and for park"
+    },
+    {
+     "role": "body",
+     "text": "purposes along the Anacostia River and bounded by said river, from"
+    },
+    {
+     "role": "body",
+     "text": "Monroe street extended to the right of way of the outfall sewer at and"
+    },
+    {
+     "role": "body",
+     "text": "near Poplar Point and from the southwest corner of the grounds of"
+    },
+    {
+     "role": "body",
+     "text": "the Government Hospital for the Insane along said Anacostia River"
+    },
+    {
+     "role": "body",
+     "text": "to Giesboro Point, near the western terminus of Memphis street, as"
+    },
+    {
+     "role": "body",
+     "text": "shown on the permanent system of highway plans for the District of"
+    },
+    {
+     "role": "body",
+     "text": "Columbia.   The northern and western boundary of said strip of land"
+    },
+    {
+     "role": "body",
+     "text": "shall be coincident with the high-water line of the said Anacostia River,"
+    },
+    {
+     "role": "body",
+     "text": "and the southern and eastern boundary of the said strip of land shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "body",
+     "text": "be not more than one hundred and sixty feet therefrom: Provided,"
+    },
+    {
+     "role": "sidenote",
+     "text": "One-half of damages"
+    },
+    {
+     "role": "sidenote",
+     "text": "assessed as benefits."
+    },
+    {
+     "role": "body",
+     "text": "That of the amount found due and awarded as damages for and in"
+    },
+    {
+     "role": "body",
+     "text": "respect of the land condemned under this Act for the said public high-"
+    },
+    {
+     "role": "body",
+     "text": "way and park not less than one-half thereof, together with all the"
+    },
+    {
+     "role": "body",
+     "text": "costs and expenses of the proceeding or proceedings taken pursuant"
+    },
+    {
+     "role": "body",
+     "text": "hereto, shall be assessed as benefits by the jury in said proceeding"
+    },
+    {
+     "role": "body",
+     "text": "against the lots, pieces, or parcels of ground lying on the side or sides"
+    },
+    {
+     "role": "body",
+     "text": "of the extension of the said public highway and park and also on all or"
+    },
+    {
+     "role": "sidenote",
+     "text": "Determination of"
+    },
+    {
+     "role": "body",
+     "text": "any adjacent pieces or parcels of land which will be benefited by the"
+    },
+    {
+     "role": "sidenote",
+     "text": "benefits."
+    },
+    {
+     "role": "body",
+     "text": "said public highway and park as herein provided: And provided fur-"
+    },
+    {
+     "role": "body",
+     "text": "ther, That the sums to be assessed against each lot, piece, or parcel of"
+    },
+    {
+     "role": "body",
+     "text": "ground shall be determined and designated by the jury, and in deter-"
+    },
+    {
+     "role": "body",
+     "text": "mining what amount shall be assessed against any particular lot, piece,"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2569,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0911,
+   "seconds": 29.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 217, 225.  1910."
+    },
+    {
+     "role": "page-number",
+     "text": "353"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 217.—An Act Providing for the raising of the United States battle ship"
+    },
+    {
+     "role": "sidenote",
+     "text": "May 9, 1910.\n[H. R. 23012.]"
+    },
+    {
+     "role": "body",
+     "text": "Maine, in Habana Harbor, and to provide for the interment of the bodies therein."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 169.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of War"
+    },
+    {
+     "role": "sidenote",
+     "text": "Battle ship \"Maine.\"\nWreck to be re-\nmoved from Habana\nHarbor."
+    },
+    {
+     "role": "body",
+     "text": "and the Chief of Engineers are hereby authorized and directed to pro-"
+    },
+    {
+     "role": "body",
+     "text": "vide with all convenient speed for the raising or the removal of the"
+    },
+    {
+     "role": "body",
+     "text": "wreck of the United States battle ship Maine from the harbor of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Interment of bodies,\netc."
+    },
+    {
+     "role": "body",
+     "text": "Habana, Cuba, and for the proper interment of the bodies therein, in"
+    },
+    {
+     "role": "body",
+     "text": "Arlington Cemetery; and the Secretary of War is authorized and"
+    },
+    {
+     "role": "body",
+     "text": "directed to remove the mast of the wreck of said battle ship Maine and"
+    },
+    {
+     "role": "body",
+     "text": "place the same upon a proper foundation in Arlington National Ceme-"
+    },
+    {
+     "role": "body",
+     "text": "tery at or near the spot where the bodies of those who died through"
+    },
+    {
+     "role": "body",
+     "text": "such wreck are interred: Provided, however, That the consent in proper"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso.\nConsent from Cuba.\nAppropriation.\nPost, pp. 789, 1407."
+    },
+    {
+     "role": "body",
+     "text": "form of the Republic of Cuba shall be first obtained.  The sum of one"
+    },
+    {
+     "role": "body",
+     "text": "hundred thousand dollars is hereby appropriated, out of any money in"
+    },
+    {
+     "role": "body",
+     "text": "the Treasury not otherwise appropriated, on account of the work"
+    },
+    {
+     "role": "body",
+     "text": "herein authorized."
+    },
+    {
+     "role": "body",
+     "text": "Approved, May 9, 1910."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 225.—An Act To authorize the opening of a road along the Anacostia"
+    },
+    {
+     "role": "sidenote",
+     "text": "May 10, 1910.\n[H. R. 19038.]"
+    },
+    {
+     "role": "body",
+     "text": "River in the District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 170.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That under and in accord-"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia.\nRoad along Anacos-\ntia River."
+    },
+    {
+     "role": "body",
+     "text": "ance with the provisions of an Act entitled \"An Act to amend an Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Condemning  land\nfor."
+    },
+    {
+     "role": "body",
+     "text": "entitled 'An Act to establish a Code of Law for the District of Colum-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, pp. 151, 930."
+    },
+    {
+     "role": "body",
+     "text": "bia,' regulating proceedings for condemnation of land for streets,\""
+    },
+    {
+     "role": "body",
+     "text": "approved April thirtieth, nineteen hundred and six, known as sub-"
+    },
+    {
+     "role": "body",
+     "text": "chapter one of chapter fifteen of the Code of Law of the District of"
+    },
+    {
+     "role": "body",
+     "text": "Columbia, except section four hundred and ninety-one g of said sub-"
+    },
+    {
+     "role": "body",
+     "text": "chapter, which section shall not be applicable to this Act, the Com-"
+    },
+    {
+     "role": "body",
+     "text": "missioners of the District of Columbia be, and they are hereby, author-"
+    },
+    {
+     "role": "body",
+     "text": "ized and directed to institute in the supreme court of the District of"
+    },
+    {
+     "role": "body",
+     "text": "Columbia a proceeding in rem to condemn and acquire the fee simple"
+    },
+    {
+     "role": "body",
+     "text": "and absolute title, including all riparian rights and all other rights per-"
+    },
+    {
+     "role": "body",
+     "text": "taining thereto, to a strip of land for a public highway and for park"
+    },
+    {
+     "role": "sidenote",
+     "text": "Location."
+    },
+    {
+     "role": "body",
+     "text": "purposes along the Anacostia River and bounded by said river, from"
+    },
+    {
+     "role": "body",
+     "text": "Monroe street extended to the right of way of the outfall sewer at and"
+    },
+    {
+     "role": "body",
+     "text": "near Poplar Point and from the southwest corner of the grounds of"
+    },
+    {
+     "role": "body",
+     "text": "the Government Hospital for the Insane along said Anacostia River"
+    },
+    {
+     "role": "body",
+     "text": "to Giesboro Point, near the western terminus of Memphis street, as"
+    },
+    {
+     "role": "body",
+     "text": "shown on the permanent system of highway plans for the District of"
+    },
+    {
+     "role": "body",
+     "text": "Columbia.  The northern and western boundary of said strip of land"
+    },
+    {
+     "role": "body",
+     "text": "shall be coincident with the high-water line of the said Anacostia River,"
+    },
+    {
+     "role": "body",
+     "text": "and the southern and eastern boundary of the said strip of land shall"
+    },
+    {
+     "role": "body",
+     "text": "be not more than one hundred and sixty feet therefrom: Provided,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos.\nOne-half of damages\nassessed as benefits."
+    },
+    {
+     "role": "body",
+     "text": "That of the amount found due and awarded as damages for and in"
+    },
+    {
+     "role": "body",
+     "text": "respect of the land condemned under this Act for the said public high-"
+    },
+    {
+     "role": "body",
+     "text": "way and park not less than one-half thereof, together with all the"
+    },
+    {
+     "role": "body",
+     "text": "costs and expenses of the proceeding or proceedings taken pursuant"
+    },
+    {
+     "role": "body",
+     "text": "hereto, shall be assessed as benefits by the jury in said proceeding"
+    },
+    {
+     "role": "body",
+     "text": "against the lots, pieces, or parcels of ground lying on the side or sides"
+    },
+    {
+     "role": "body",
+     "text": "of the extension of the said public highway and park and also on all or"
+    },
+    {
+     "role": "body",
+     "text": "any adjacent pieces or parcels of land which will be benefited by the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Determination  of\nbenefits."
+    },
+    {
+     "role": "body",
+     "text": "said public highway and park as herein provided: And provided fur-"
+    },
+    {
+     "role": "body",
+     "text": "ther, That the sums to be assessed against each lot, piece, or parcel of"
+    },
+    {
+     "role": "body",
+     "text": "ground shall be determined and designated by the jury, and in deter-"
+    },
+    {
+     "role": "body",
+     "text": "mining what amount shall be assessed against any particular lot, piece,"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2349,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08559,
+   "seconds": 30.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12799,
+   "output_tokens": 1850,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.11066,
+  "seconds": 21.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "May 9, 1910.\n[H. R. 23012.]",
+    "b": "",
+    "kept": "May 9, 1910.\n[H. R. 23012.]",
+    "reason": "Sidenote date/bill number sits beside the chapter heading; printed as two separate lines."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "May 9, 1910.\n[H. R. 23012.]",
+    "kept": "",
+    "reason": "Sidenote already placed at the heading level; nothing printed here."
+   },
+   {
+    "run": 3,
+    "a": "Battle ship \"Maine.\"",
+    "b": "",
+    "kept": "Battle ship \"Maine.\"",
+    "reason": "This sidenote line aligns with the 'States of America' body line."
+   },
+   {
+    "run": 4,
+    "a": "Wreck to be re-\nmoved from Habana",
+    "b": "Battle ship \"Maine.\"\nWreck to be re-\nmoved from Habana\nHarbor.",
+    "kept": "Wreck to be re-\nmoved from Habana",
+    "reason": "Sidenote continues in separate printed lines."
+   },
+   {
+    "run": 5,
+    "a": "Harbor.",
+    "b": "",
+    "kept": "Harbor.",
+    "reason": "Separate sidenote line aligned with this body line."
+   },
+   {
+    "run": 6,
+    "a": "Interment of bodies,",
+    "b": "",
+    "kept": "Interment of bodies,",
+    "reason": "Separate sidenote line at this level."
+   },
+   {
+    "run": 7,
+    "a": "etc.",
+    "b": "Interment of bodies,\netc.",
+    "kept": "etc.",
+    "reason": "Final sidenote line of the group."
+   },
+   {
+    "run": 8,
+    "a": "Proviso.",
+    "b": "",
+    "kept": "Proviso.",
+    "reason": "Sidenote begins at this level as its own line."
+   },
+   {
+    "run": 9,
+    "a": "Consent from Cuba.\nAppropriation.",
+    "b": "Proviso.\nConsent from Cuba.\nAppropriation.\nPost, pp. 789, 1407.",
+    "kept": "Consent from Cuba.\nAppropriation.",
+    "reason": "Two distinct sidenote lines."
+   },
+   {
+    "run": 10,
+    "a": "Post, pp. 789, 1407.",
+    "b": "",
+    "kept": "Post, pp. 789, 1407.",
+    "reason": "Reference sidenote line aligned here."
+   },
+   {
+    "run": 11,
+    "a": "May 10, 1910.\n[H. R. 19038.]",
+    "b": "",
+    "kept": "May 10, 1910.\n[H. R. 19038.]",
+    "reason": "Date and bill number beside the CHAP. 225 heading, two lines."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "May 10, 1910.\n[H. R. 19038.]",
+    "kept": "",
+    "reason": "Already accounted for above."
+   },
+   {
+    "run": 13,
+    "a": "District of Columbia.\nRoad along Anacos-",
+    "b": "",
+    "kept": "District of Columbia.\nRoad along Anacos-",
+    "reason": "Two sidenote lines at this level."
+   },
+   {
+    "run": 14,
+    "a": "tia River.",
+    "b": "District of Columbia.\nRoad along Anacos-\ntia River.",
+    "kept": "tia River.",
+    "reason": "Continuation line of the sidenote."
+   },
+   {
+    "run": 15,
+    "a": "Condemning land\nfor.",
+    "b": "Condemning  land\nfor.",
+    "kept": "Condemning land\nfor.",
+    "reason": "Two sidenote lines; single spacing in text."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "taining thereto, to a strip of land for a public highway and for park",
+    "kept": "",
+    "reason": "Body line belongs after the Location sidenote."
+   },
+   {
+    "run": 17,
+    "a": "taining thereto, to a strip of land for a public highway and for park",
+    "b": "",
+    "kept": "taining thereto, to a strip of land for a public highway and for park",
+    "reason": "Body line aligned with the 'Location.' sidenote, printed after it."
+   },
+   {
+    "run": 18,
+    "a": "Provisos.",
+    "b": "",
+    "kept": "Provisos.",
+    "reason": "Sidenote heading line at this level."
+   },
+   {
+    "run": 19,
+    "a": "One-half of damages\nassessed as benefits.",
+    "b": "Provisos.\nOne-half of damages\nassessed as benefits.",
+    "kept": "One-half of damages\nassessed as benefits.",
+    "reason": "Two sidenote lines."
+   },
+   {
+    "run": 20,
+    "a": "Determination of",
+    "b": "",
+    "kept": "Determination of",
+    "reason": "First sidenote line aligned with 'any adjacent pieces' line."
+   },
+   {
+    "run": 21,
+    "a": "benefits.",
+    "b": "Determination  of\nbenefits.",
+    "kept": "benefits.",
+    "reason": "Second sidenote line."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 217, 225.  1910."
+  },
+  {
+   "role": "page-number",
+   "text": "353"
+  },
+  {
+   "role": "sidenote",
+   "text": "May 9, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 23012.]"
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 217.—An Act Providing for the raising of the United States battle ship"
+  },
+  {
+   "role": "body",
+   "text": "Maine, in Habana Harbor, and to provide for the interment of the bodies therein."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 169.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Battle ship \"Maine.\""
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the Secretary of War"
+  },
+  {
+   "role": "sidenote",
+   "text": "Wreck to be re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "moved from Habana"
+  },
+  {
+   "role": "body",
+   "text": "and the Chief of Engineers are hereby authorized and directed to pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Harbor."
+  },
+  {
+   "role": "body",
+   "text": "vide with all convenient speed for the raising or the removal of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Interment of bodies,"
+  },
+  {
+   "role": "body",
+   "text": "wreck of the United States battle ship Maine from the harbor of"
+  },
+  {
+   "role": "sidenote",
+   "text": "etc."
+  },
+  {
+   "role": "body",
+   "text": "Habana, Cuba, and for the proper interment of the bodies therein, in"
+  },
+  {
+   "role": "body",
+   "text": "Arlington Cemetery; and the Secretary of War is authorized and"
+  },
+  {
+   "role": "body",
+   "text": "directed to remove the mast of the wreck of said battle ship Maine and"
+  },
+  {
+   "role": "body",
+   "text": "place the same upon a proper foundation in Arlington National Ceme-"
+  },
+  {
+   "role": "body",
+   "text": "tery at or near the spot where the bodies of those who died through"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "such wreck are interred: Provided, however, That the consent in proper"
+  },
+  {
+   "role": "sidenote",
+   "text": "Consent from Cuba."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation."
+  },
+  {
+   "role": "body",
+   "text": "form of the Republic of Cuba shall be first obtained.   The sum of one"
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, pp. 789, 1407."
+  },
+  {
+   "role": "body",
+   "text": "hundred thousand dollars is hereby appropriated, out of any money in"
+  },
+  {
+   "role": "body",
+   "text": "the Treasury not otherwise appropriated, on account of the work"
+  },
+  {
+   "role": "body",
+   "text": "herein authorized."
+  },
+  {
+   "role": "body",
+   "text": "Approved, May 9, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "May 10, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 19038.]"
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 225.—An Act To authorize the opening of a road along the Anacostia"
+  },
+  {
+   "role": "body",
+   "text": "River in the District of Columbia."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 170.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "District of Columbia."
+  },
+  {
+   "role": "sidenote",
+   "text": "Road along Anacos-"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That under and in accord-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tia River."
+  },
+  {
+   "role": "body",
+   "text": "ance with the provisions of an Act entitled \"An Act to amend an Act"
+  },
+  {
+   "role": "sidenote",
+   "text": "Condemning land"
+  },
+  {
+   "role": "sidenote",
+   "text": "for."
+  },
+  {
+   "role": "body",
+   "text": "entitled 'An Act to establish a Code of Law for the District of Colum-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. 34, pp. 151, 930."
+  },
+  {
+   "role": "body",
+   "text": "bia,' regulating proceedings for condemnation of land for streets,\""
+  },
+  {
+   "role": "body",
+   "text": "approved April thirtieth, nineteen hundred and six, known as sub-"
+  },
+  {
+   "role": "body",
+   "text": "chapter one of chapter fifteen of the Code of Law of the District of"
+  },
+  {
+   "role": "body",
+   "text": "Columbia, except section four hundred and ninety-one g of said sub-"
+  },
+  {
+   "role": "body",
+   "text": "chapter, which section shall not be applicable to this Act, the Com-"
+  },
+  {
+   "role": "body",
+   "text": "missioners of the District of Columbia be, and they are hereby, author-"
+  },
+  {
+   "role": "body",
+   "text": "ized and directed to institute in the supreme court of the District of"
+  },
+  {
+   "role": "body",
+   "text": "Columbia a proceeding in rem to condemn and acquire the fee simple"
+  },
+  {
+   "role": "body",
+   "text": "and absolute title, including all riparian rights and all other rights per-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Location."
+  },
+  {
+   "role": "body",
+   "text": "taining thereto, to a strip of land for a public highway and for park"
+  },
+  {
+   "role": "body",
+   "text": "purposes along the Anacostia River and bounded by said river, from"
+  },
+  {
+   "role": "body",
+   "text": "Monroe street extended to the right of way of the outfall sewer at and"
+  },
+  {
+   "role": "body",
+   "text": "near Poplar Point and from the southwest corner of the grounds of"
+  },
+  {
+   "role": "body",
+   "text": "the Government Hospital for the Insane along said Anacostia River"
+  },
+  {
+   "role": "body",
+   "text": "to Giesboro Point, near the western terminus of Memphis street, as"
+  },
+  {
+   "role": "body",
+   "text": "shown on the permanent system of highway plans for the District of"
+  },
+  {
+   "role": "body",
+   "text": "Columbia.   The northern and western boundary of said strip of land"
+  },
+  {
+   "role": "body",
+   "text": "shall be coincident with the high-water line of the said Anacostia River,"
+  },
+  {
+   "role": "body",
+   "text": "and the southern and eastern boundary of the said strip of land shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "Provisos."
+  },
+  {
+   "role": "body",
+   "text": "be not more than one hundred and sixty feet therefrom: Provided,"
+  },
+  {
+   "role": "sidenote",
+   "text": "One-half of damages"
+  },
+  {
+   "role": "sidenote",
+   "text": "assessed as benefits."
+  },
+  {
+   "role": "body",
+   "text": "That of the amount found due and awarded as damages for and in"
+  },
+  {
+   "role": "body",
+   "text": "respect of the land condemned under this Act for the said public high-"
+  },
+  {
+   "role": "body",
+   "text": "way and park not less than one-half thereof, together with all the"
+  },
+  {
+   "role": "body",
+   "text": "costs and expenses of the proceeding or proceedings taken pursuant"
+  },
+  {
+   "role": "body",
+   "text": "hereto, shall be assessed as benefits by the jury in said proceeding"
+  },
+  {
+   "role": "body",
+   "text": "against the lots, pieces, or parcels of ground lying on the side or sides"
+  },
+  {
+   "role": "body",
+   "text": "of the extension of the said public highway and park and also on all or"
+  },
+  {
+   "role": "sidenote",
+   "text": "Determination of"
+  },
+  {
+   "role": "body",
+   "text": "any adjacent pieces or parcels of land which will be benefited by the"
+  },
+  {
+   "role": "sidenote",
+   "text": "benefits."
+  },
+  {
+   "role": "body",
+   "text": "said public highway and park as herein provided: And provided fur-"
+  },
+  {
+   "role": "body",
+   "text": "ther, That the sums to be assessed against each lot, piece, or parcel of"
+  },
+  {
+   "role": "body",
+   "text": "ground shall be determined and designated by the jury, and in deter-"
+  },
+  {
+   "role": "body",
+   "text": "mining what amount shall be assessed against any particular lot, piece,"
+  }
+ ],
+ "disagreement_count": 21,
+ "tokens": {
+  "input_tokens": 23398,
+  "output_tokens": 6768,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.28735,
+ "seconds": 81.7,
+ "created": "2026-09-08T12:30:12"
+}

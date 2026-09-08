@@ -1,0 +1,777 @@
+{
+ "granule_id": "STATUTE-115-Pg1003",
+ "package_id": "STATUTE-115",
+ "volume": 115,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Administrative Simplification Compliance Act",
+ "date_issued": "2001-12-27",
+ "pdf_page": 3,
+ "pdf_pages": 6,
+ "stat_page": "1005",
+ "image": "data/gold/STATUTE-115-Pg1003/p3.png",
+ "image_sha256": "7c360571ce11e6c65f90767fd70ab40b2ed8bfb451921e3a0ed6638662c1a4c4",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 107–105—DEC. 27, 2001        115 STAT. 1005"
+    },
+    {
+     "role": "body",
+     "text": "the discretion of the Secretary of Health and Human Serv-"
+    },
+    {
+     "role": "body",
+     "text": "ices from participation (including under part C or as a"
+    },
+    {
+     "role": "body",
+     "text": "contractor under sections 1816, 1842, and 1893) in title"
+    },
+    {
+     "role": "body",
+     "text": "XVIII of the Social Security Act (42 U.S.C. 1395 et seq.)."
+    },
+    {
+     "role": "body",
+     "text": "(B) PROCEDURE.—The provisions of section 1128A of"
+    },
+    {
+     "role": "body",
+     "text": "the Social Security Act (42 U.S.C. 1320a–7a) (other than"
+    },
+    {
+     "role": "body",
+     "text": "the first and second sentences of subsection (a) and sub-"
+    },
+    {
+     "role": "body",
+     "text": "section (b)) shall apply to an exclusion under this paragraph"
+    },
+    {
+     "role": "body",
+     "text": "in the same manner as such provisions apply with respect"
+    },
+    {
+     "role": "body",
+     "text": "to an exclusion or proceeding under section 1128A(a) of"
+    },
+    {
+     "role": "body",
+     "text": "such Act."
+    },
+    {
+     "role": "body",
+     "text": "(C) CONSTRUCTION.—The availability of an exclusion"
+    },
+    {
+     "role": "body",
+     "text": "under this paragraph shall not be construed to affect the"
+    },
+    {
+     "role": "body",
+     "text": "imposition of penalties under section 1176 of the Social"
+    },
+    {
+     "role": "body",
+     "text": "Security Act (42 U.S.C. 1320d–5)."
+    },
+    {
+     "role": "body",
+     "text": "(D) NONAPPLICABILITY TO COMPLYING PERSONS.—The"
+    },
+    {
+     "role": "body",
+     "text": "exclusion under subparagraph (A) shall not apply to a"
+    },
+    {
+     "role": "body",
+     "text": "person who—"
+    },
+    {
+     "role": "body",
+     "text": "(i) submits a plan in accordance with paragraph"
+    },
+    {
+     "role": "body",
+     "text": "(2); or"
+    },
+    {
+     "role": "body",
+     "text": "(ii) who is in compliance with the applicable"
+    },
+    {
+     "role": "body",
+     "text": "requirements of subparts I through R of part 162 of"
+    },
+    {
+     "role": "body",
+     "text": "title 45, Code of Federal Regulations, on or before"
+    },
+    {
+     "role": "body",
+     "text": "October 16, 2002."
+    },
+    {
+     "role": "body",
+     "text": "(b) SPECIAL RULES.—"
+    },
+    {
+     "role": "body",
+     "text": "(1) RULES OF CONSTRUCTION.—Nothing in this section shall"
+    },
+    {
+     "role": "body",
+     "text": "be construed—"
+    },
+    {
+     "role": "body",
+     "text": "(A) as modifying the October 16, 2003, deadline for"
+    },
+    {
+     "role": "body",
+     "text": "a small health plan to comply with the requirements of"
+    },
+    {
+     "role": "body",
+     "text": "subparts I through R of part 162 of title 45, Code of"
+    },
+    {
+     "role": "body",
+     "text": "Federal Regulations; or"
+    },
+    {
+     "role": "body",
+     "text": "(B) as modifying—"
+    },
+    {
+     "role": "body",
+     "text": "(i) the April 14, 2003, deadline for a health care"
+    },
+    {
+     "role": "body",
+     "text": "provider, a health plan (other than a small health"
+    },
+    {
+     "role": "body",
+     "text": "plan), or a health care clearinghouse to comply with"
+    },
+    {
+     "role": "body",
+     "text": "the requirements of subpart E of part 164 of title"
+    },
+    {
+     "role": "body",
+     "text": "45, Code of Federal Regulations; or"
+    },
+    {
+     "role": "body",
+     "text": "(ii) the April 14, 2004, deadline for a small health"
+    },
+    {
+     "role": "body",
+     "text": "plan to comply with the requirements of such subpart."
+    },
+    {
+     "role": "body",
+     "text": "(2) APPLICABILITY OF PRIVACY STANDARDS BEFORE COMPLI-"
+    },
+    {
+     "role": "body",
+     "text": "ANCE DEADLINE FOR INFORMATION TRANSACTION STANDARDS.—"
+    },
+    {
+     "role": "body",
+     "text": "(A) IN GENERAL.—Notwithstanding any other provision"
+    },
+    {
+     "role": "body",
+     "text": "of law, during the period that begins on April 14, 2003,"
+    },
+    {
+     "role": "body",
+     "text": "and ends on October 16, 2003, a health care provider"
+    },
+    {
+     "role": "body",
+     "text": "or, subject to subparagraph (B), a health care clearing-"
+    },
+    {
+     "role": "body",
+     "text": "house, that transmits any health information in electronic"
+    },
+    {
+     "role": "body",
+     "text": "form in connection with a transaction described in subpara-"
+    },
+    {
+     "role": "body",
+     "text": "graph (C) shall comply with the requirements of subpart"
+    },
+    {
+     "role": "body",
+     "text": "E of part 164 of title 45, Code of Federal Regulations,"
+    },
+    {
+     "role": "body",
+     "text": "without regard to whether the transmission meets the"
+    },
+    {
+     "role": "body",
+     "text": "standards required by part 162 of such title."
+    },
+    {
+     "role": "body",
+     "text": "(B) APPLICATION TO HEALTH CARE CLEARINGHOUSES.—"
+    },
+    {
+     "role": "body",
+     "text": "For purposes of this paragraph, during the period described"
+    },
+    {
+     "role": "body",
+     "text": "in subparagraph (A), an entity that processes or facilitates"
+    },
+    {
+     "role": "body",
+     "text": "the processing of information in connection with a trans-"
+    },
+    {
+     "role": "body",
+     "text": "action described in subparagraph (C) and that otherwise"
+    },
+    {
+     "role": "body",
+     "text": "would be treated as a health care clearinghouse shall be"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 1881,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0739,
+   "seconds": 25.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 107–105—DEC. 27, 2001        115 STAT. 1005"
+    },
+    {
+     "role": "body",
+     "text": "the discretion of the Secretary of Health and Human Serv-"
+    },
+    {
+     "role": "body",
+     "text": "ices from participation (including under part C or as a"
+    },
+    {
+     "role": "body",
+     "text": "contractor under sections 1816, 1842, and 1893) in title"
+    },
+    {
+     "role": "body",
+     "text": "XVIII of the Social Security Act (42 U.S.C. 1395 et seq.)."
+    },
+    {
+     "role": "body",
+     "text": "(B) PROCEDURE.—The provisions of section 1128A of"
+    },
+    {
+     "role": "body",
+     "text": "the Social Security Act (42 U.S.C. 1320a–7a) (other than"
+    },
+    {
+     "role": "body",
+     "text": "the first and second sentences of subsection (a) and sub-"
+    },
+    {
+     "role": "body",
+     "text": "section (b)) shall apply to an exclusion under this paragraph"
+    },
+    {
+     "role": "body",
+     "text": "in the same manner as such provisions apply with respect"
+    },
+    {
+     "role": "body",
+     "text": "to an exclusion or proceeding under section 1128A(a) of"
+    },
+    {
+     "role": "body",
+     "text": "such Act."
+    },
+    {
+     "role": "body",
+     "text": "(C) CONSTRUCTION.—The availability of an exclusion"
+    },
+    {
+     "role": "body",
+     "text": "under this paragraph shall not be construed to affect the"
+    },
+    {
+     "role": "body",
+     "text": "imposition of penalties under section 1176 of the Social"
+    },
+    {
+     "role": "body",
+     "text": "Security Act (42 U.S.C. 1320d–5)."
+    },
+    {
+     "role": "body",
+     "text": "(D) NONAPPLICABILITY TO COMPLYING PERSONS.—The"
+    },
+    {
+     "role": "body",
+     "text": "exclusion under subparagraph (A) shall not apply to a"
+    },
+    {
+     "role": "body",
+     "text": "person who—"
+    },
+    {
+     "role": "body",
+     "text": "(i) submits a plan in accordance with paragraph"
+    },
+    {
+     "role": "body",
+     "text": "(2); or"
+    },
+    {
+     "role": "body",
+     "text": "(ii) who is in compliance with the applicable"
+    },
+    {
+     "role": "body",
+     "text": "requirements of subparts I through R of part 162 of"
+    },
+    {
+     "role": "body",
+     "text": "title 45, Code of Federal Regulations, on or before"
+    },
+    {
+     "role": "body",
+     "text": "October 16, 2002."
+    },
+    {
+     "role": "body",
+     "text": "(b) SPECIAL RULES.—"
+    },
+    {
+     "role": "body",
+     "text": "(1) RULES OF CONSTRUCTION.—Nothing in this section shall"
+    },
+    {
+     "role": "body",
+     "text": "be construed—"
+    },
+    {
+     "role": "body",
+     "text": "(A) as modifying the October 16, 2003, deadline for"
+    },
+    {
+     "role": "body",
+     "text": "a small health plan to comply with the requirements of"
+    },
+    {
+     "role": "body",
+     "text": "subparts I through R of part 162 of title 45, Code of"
+    },
+    {
+     "role": "body",
+     "text": "Federal Regulations; or"
+    },
+    {
+     "role": "body",
+     "text": "(B) as modifying—"
+    },
+    {
+     "role": "body",
+     "text": "(i) the April 14, 2003, deadline for a health care"
+    },
+    {
+     "role": "body",
+     "text": "provider, a health plan (other than a small health"
+    },
+    {
+     "role": "body",
+     "text": "plan), or a health care clearinghouse to comply with"
+    },
+    {
+     "role": "body",
+     "text": "the requirements of subpart E of part 164 of title"
+    },
+    {
+     "role": "body",
+     "text": "45, Code of Federal Regulations; or"
+    },
+    {
+     "role": "body",
+     "text": "(ii) the April 14, 2004, deadline for a small health"
+    },
+    {
+     "role": "body",
+     "text": "plan to comply with the requirements of such subpart."
+    },
+    {
+     "role": "body",
+     "text": "(2) APPLICABILITY OF PRIVACY STANDARDS BEFORE COMPLI-"
+    },
+    {
+     "role": "body",
+     "text": "ANCE DEADLINE FOR INFORMATION TRANSACTION STANDARDS.—"
+    },
+    {
+     "role": "body",
+     "text": "(A) IN GENERAL.—Notwithstanding any other provision"
+    },
+    {
+     "role": "body",
+     "text": "of law, during the period that begins on April 14, 2003,"
+    },
+    {
+     "role": "body",
+     "text": "and ends on October 16, 2003, a health care provider"
+    },
+    {
+     "role": "body",
+     "text": "or, subject to subparagraph (B), a health care clearing-"
+    },
+    {
+     "role": "body",
+     "text": "house, that transmits any health information in electronic"
+    },
+    {
+     "role": "body",
+     "text": "form in connection with a transaction described in subpara-"
+    },
+    {
+     "role": "body",
+     "text": "graph (C) shall comply with the requirements of subpart"
+    },
+    {
+     "role": "body",
+     "text": "E of part 164 of title 45, Code of Federal Regulations,"
+    },
+    {
+     "role": "body",
+     "text": "without regard to whether the transmission meets the"
+    },
+    {
+     "role": "body",
+     "text": "standards required by part 162 of such title."
+    },
+    {
+     "role": "body",
+     "text": "(B) APPLICATION TO HEALTH CARE CLEARINGHOUSES.—"
+    },
+    {
+     "role": "body",
+     "text": "For purposes of this paragraph, during the period described"
+    },
+    {
+     "role": "body",
+     "text": "in subparagraph (A), an entity that processes or facilitates"
+    },
+    {
+     "role": "body",
+     "text": "the processing of information in connection with a trans-"
+    },
+    {
+     "role": "body",
+     "text": "action described in subparagraph (C) and that otherwise"
+    },
+    {
+     "role": "body",
+     "text": "would be treated as a health care clearinghouse shall be"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 1744,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07047,
+   "seconds": 21.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "skipped": "transcriptions agree",
+  "disagreements": [],
+  "cost_usd": 0.0,
+  "usage": {
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 107–105—DEC. 27, 2001        115 STAT. 1005"
+  },
+  {
+   "role": "body",
+   "text": "the discretion of the Secretary of Health and Human Serv-"
+  },
+  {
+   "role": "body",
+   "text": "ices from participation (including under part C or as a"
+  },
+  {
+   "role": "body",
+   "text": "contractor under sections 1816, 1842, and 1893) in title"
+  },
+  {
+   "role": "body",
+   "text": "XVIII of the Social Security Act (42 U.S.C. 1395 et seq.)."
+  },
+  {
+   "role": "body",
+   "text": "(B) PROCEDURE.—The provisions of section 1128A of"
+  },
+  {
+   "role": "body",
+   "text": "the Social Security Act (42 U.S.C. 1320a–7a) (other than"
+  },
+  {
+   "role": "body",
+   "text": "the first and second sentences of subsection (a) and sub-"
+  },
+  {
+   "role": "body",
+   "text": "section (b)) shall apply to an exclusion under this paragraph"
+  },
+  {
+   "role": "body",
+   "text": "in the same manner as such provisions apply with respect"
+  },
+  {
+   "role": "body",
+   "text": "to an exclusion or proceeding under section 1128A(a) of"
+  },
+  {
+   "role": "body",
+   "text": "such Act."
+  },
+  {
+   "role": "body",
+   "text": "(C) CONSTRUCTION.—The availability of an exclusion"
+  },
+  {
+   "role": "body",
+   "text": "under this paragraph shall not be construed to affect the"
+  },
+  {
+   "role": "body",
+   "text": "imposition of penalties under section 1176 of the Social"
+  },
+  {
+   "role": "body",
+   "text": "Security Act (42 U.S.C. 1320d–5)."
+  },
+  {
+   "role": "body",
+   "text": "(D) NONAPPLICABILITY TO COMPLYING PERSONS.—The"
+  },
+  {
+   "role": "body",
+   "text": "exclusion under subparagraph (A) shall not apply to a"
+  },
+  {
+   "role": "body",
+   "text": "person who—"
+  },
+  {
+   "role": "body",
+   "text": "(i) submits a plan in accordance with paragraph"
+  },
+  {
+   "role": "body",
+   "text": "(2); or"
+  },
+  {
+   "role": "body",
+   "text": "(ii) who is in compliance with the applicable"
+  },
+  {
+   "role": "body",
+   "text": "requirements of subparts I through R of part 162 of"
+  },
+  {
+   "role": "body",
+   "text": "title 45, Code of Federal Regulations, on or before"
+  },
+  {
+   "role": "body",
+   "text": "October 16, 2002."
+  },
+  {
+   "role": "body",
+   "text": "(b) SPECIAL RULES.—"
+  },
+  {
+   "role": "body",
+   "text": "(1) RULES OF CONSTRUCTION.—Nothing in this section shall"
+  },
+  {
+   "role": "body",
+   "text": "be construed—"
+  },
+  {
+   "role": "body",
+   "text": "(A) as modifying the October 16, 2003, deadline for"
+  },
+  {
+   "role": "body",
+   "text": "a small health plan to comply with the requirements of"
+  },
+  {
+   "role": "body",
+   "text": "subparts I through R of part 162 of title 45, Code of"
+  },
+  {
+   "role": "body",
+   "text": "Federal Regulations; or"
+  },
+  {
+   "role": "body",
+   "text": "(B) as modifying—"
+  },
+  {
+   "role": "body",
+   "text": "(i) the April 14, 2003, deadline for a health care"
+  },
+  {
+   "role": "body",
+   "text": "provider, a health plan (other than a small health"
+  },
+  {
+   "role": "body",
+   "text": "plan), or a health care clearinghouse to comply with"
+  },
+  {
+   "role": "body",
+   "text": "the requirements of subpart E of part 164 of title"
+  },
+  {
+   "role": "body",
+   "text": "45, Code of Federal Regulations; or"
+  },
+  {
+   "role": "body",
+   "text": "(ii) the April 14, 2004, deadline for a small health"
+  },
+  {
+   "role": "body",
+   "text": "plan to comply with the requirements of such subpart."
+  },
+  {
+   "role": "body",
+   "text": "(2) APPLICABILITY OF PRIVACY STANDARDS BEFORE COMPLI-"
+  },
+  {
+   "role": "body",
+   "text": "ANCE DEADLINE FOR INFORMATION TRANSACTION STANDARDS.—"
+  },
+  {
+   "role": "body",
+   "text": "(A) IN GENERAL.—Notwithstanding any other provision"
+  },
+  {
+   "role": "body",
+   "text": "of law, during the period that begins on April 14, 2003,"
+  },
+  {
+   "role": "body",
+   "text": "and ends on October 16, 2003, a health care provider"
+  },
+  {
+   "role": "body",
+   "text": "or, subject to subparagraph (B), a health care clearing-"
+  },
+  {
+   "role": "body",
+   "text": "house, that transmits any health information in electronic"
+  },
+  {
+   "role": "body",
+   "text": "form in connection with a transaction described in subpara-"
+  },
+  {
+   "role": "body",
+   "text": "graph (C) shall comply with the requirements of subpart"
+  },
+  {
+   "role": "body",
+   "text": "E of part 164 of title 45, Code of Federal Regulations,"
+  },
+  {
+   "role": "body",
+   "text": "without regard to whether the transmission meets the"
+  },
+  {
+   "role": "body",
+   "text": "standards required by part 162 of such title."
+  },
+  {
+   "role": "body",
+   "text": "(B) APPLICATION TO HEALTH CARE CLEARINGHOUSES.—"
+  },
+  {
+   "role": "body",
+   "text": "For purposes of this paragraph, during the period described"
+  },
+  {
+   "role": "body",
+   "text": "in subparagraph (A), an entity that processes or facilitates"
+  },
+  {
+   "role": "body",
+   "text": "the processing of information in connection with a trans-"
+  },
+  {
+   "role": "body",
+   "text": "action described in subparagraph (C) and that otherwise"
+  },
+  {
+   "role": "body",
+   "text": "would be treated as a health care clearinghouse shall be"
+  }
+ ],
+ "disagreement_count": 0,
+ "tokens": {
+  "input_tokens": 10599,
+  "output_tokens": 3625,
+  "cache_read_input_tokens": 1490,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.14437,
+ "seconds": 47.0,
+ "created": "2026-09-08T12:01:17"
+}

@@ -1,0 +1,1248 @@
+{
+ "granule_id": "STATUTE-36-Pg448-2",
+ "package_id": "STATUTE-36",
+ "volume": 36,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act To authorize the sale and disposition of a portion of the surplus and unallotted lands in Mellette and Washabaugh counties in the Rosebud Indian Reservation in the State of South Dakota, and ma",
+ "date_issued": "1910-05-30",
+ "pdf_page": 5,
+ "pdf_pages": 5,
+ "stat_page": "452",
+ "image": "data/gold/STATUTE-36-Pg448-2/p5.png",
+ "image_sha256": "e6bbe2743fdc8cc7ac3da28390d7b4b3edc8377c10f54af070bffea5e2784d42",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "452"
+    },
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 260, 261, 263.  1910."
+    },
+    {
+     "role": "body",
+     "text": "and pay over the proceeds received from the sale thereof only as"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Treaty rights not"
+    },
+    {
+     "role": "sidenote",
+     "text": "affected."
+    },
+    {
+     "role": "body",
+     "text": "received and as herein provided: Provided, That nothing in this Act"
+    },
+    {
+     "role": "body",
+     "text": "shall be construed to deprive the said Indians of the Rosebud Indian"
+    },
+    {
+     "role": "body",
+     "text": "Reservation of any benefits to which they are entitled under existing"
+    },
+    {
+     "role": "body",
+     "text": "treaties or agreements not inconsistent with the provisions of this"
+    },
+    {
+     "role": "body",
+     "text": "Act."
+    },
+    {
+     "role": "body",
+     "text": "Approved, May 30, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 30, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 9304.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 195.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 261.—An Act Granting certain lands in the Coconino National Forest, in"
+    },
+    {
+     "role": "body",
+     "text": "Arizona, for observatory purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Lowell Observatory,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ariz."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That there be, and hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "Lands in Coconino"
+    },
+    {
+     "role": "sidenote",
+     "text": "National Forest grant-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed for."
+    },
+    {
+     "role": "body",
+     "text": "is, granted to Percival Lowell, his heirs and assigns, section numbered"
+    },
+    {
+     "role": "body",
+     "text": "seventeen, in township numbered twenty-one north of range seven"
+    },
+    {
+     "role": "body",
+     "text": "east of the Gila and Salt River base and meridian, the said tract of"
+    },
+    {
+     "role": "body",
+     "text": "land being within the Coconino National Forest, in the Territory of"
+    },
+    {
+     "role": "body",
+     "text": "Arizona, for observatory purposes in connection with the Lowell"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Reversion for non-"
+    },
+    {
+     "role": "sidenote",
+     "text": "user."
+    },
+    {
+     "role": "body",
+     "text": "Observatory: Provided, That in the event of the removal or abandon-"
+    },
+    {
+     "role": "body",
+     "text": "ment of the said observatory or the use of said land by the grantee"
+    },
+    {
+     "role": "body",
+     "text": "for other than observatory purposes the said land shall revert to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Timber rights ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "cluded."
+    },
+    {
+     "role": "body",
+     "text": "United States: Provided further, That the title to the merchantable"
+    },
+    {
+     "role": "body",
+     "text": "timber thereon and the right to cut and remove the same in such"
+    },
+    {
+     "role": "body",
+     "text": "manner as to preserve the herbage and undergrowth in their natural"
+    },
+    {
+     "role": "body",
+     "text": "condition shall remain in the United States."
+    },
+    {
+     "role": "body",
+     "text": "Approved, May 30, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 1, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 19070.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 196.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 263.—An Act To regulate the height of buildings in the District of"
+    },
+    {
+     "role": "body",
+     "text": "Columbia."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "Height of nonfire-"
+    },
+    {
+     "role": "sidenote",
+     "text": "proof dwellings, etc.,"
+    },
+    {
+     "role": "sidenote",
+     "text": "limited."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That from and after the"
+    },
+    {
+     "role": "body",
+     "text": "date of the approval of this Act no combustible or nonfireproof"
+    },
+    {
+     "role": "body",
+     "text": "building in the District of Columbia used or occupied or intended to"
+    },
+    {
+     "role": "body",
+     "text": "be used or occupied as a dwelling, flat, apartment house, tenement,"
+    },
+    {
+     "role": "body",
+     "text": "lodging or boarding house, hospital, dormitory, or for any similar"
+    },
+    {
+     "role": "body",
+     "text": "purpose shall be erected, altered, or raised to a height of more than"
+    },
+    {
+     "role": "body",
+     "text": "four stories, or more than fifty feet in height above the sidewalk, and"
+    },
+    {
+     "role": "body",
+     "text": "no combustible or nonfireproof building shall be converted to any of"
+    },
+    {
+     "role": "body",
+     "text": "the uses aforesaid if it exceeds either of said limits of height."
+    },
+    {
+     "role": "sidenote",
+     "text": "Business buildings."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That from and after the date of the approval of this Act no"
+    },
+    {
+     "role": "body",
+     "text": "combustible or nonfireproof building in the District of Columbia"
+    },
+    {
+     "role": "body",
+     "text": "used or occupied or intended to be used or occupied for business"
+    },
+    {
+     "role": "body",
+     "text": "purposes only shall be erected, altered, or raised to a height of more"
+    },
+    {
+     "role": "body",
+     "text": "than sixty feet above the sidewalk, and no combustible or nonfire-"
+    },
+    {
+     "role": "body",
+     "text": "proof building shall be converted to such use if it exceeds said height."
+    },
+    {
+     "role": "sidenote",
+     "text": "Fireproof materials"
+    },
+    {
+     "role": "sidenote",
+     "text": "required for buildings"
+    },
+    {
+     "role": "sidenote",
+     "text": "exceeding 60 feet."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That all buildings in the District of Columbia, including"
+    },
+    {
+     "role": "body",
+     "text": "buildings of every kind, class, and description whatsoever, excepting"
+    },
+    {
+     "role": "sidenote",
+     "text": "Churches excepted."
+    },
+    {
+     "role": "body",
+     "text": "churches only, hereafter erected, altered, or raised in any manner as"
+    },
+    {
+     "role": "body",
+     "text": "to exceed sixty feet in height shall be fireproof or noncombustible"
+    },
+    {
+     "role": "body",
+     "text": "and of such fire-resisting materials, from the foundation up, as are"
+    },
+    {
+     "role": "body",
+     "text": "now or at the time of the erecting, altering, or raising may be required"
+    },
+    {
+     "role": "body",
+     "text": "by the building regulations of the District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "Hotels, etc."
+    },
+    {
+     "role": "body",
+     "text": "Hotels, apartment houses, and tenement houses hereafter erected,"
+    },
+    {
+     "role": "body",
+     "text": "altered, or raised in any manner so as to be three stories in height or"
+    },
+    {
+     "role": "body",
+     "text": "over and buildings hereafter converted to such uses shall be of fire-"
+    },
+    {
+     "role": "body",
+     "text": "proof construction up to and including the main floor, and there shall"
+    },
+    {
+     "role": "body",
+     "text": "be no space on any floor of such structure of an area greater than two"
+    },
+    {
+     "role": "body",
+     "text": "thousand five hundred square feet that is not completely inclosed by"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2523,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08995,
+   "seconds": 107.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "452"
+    },
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 260, 261, 263.  1910."
+    },
+    {
+     "role": "body",
+     "text": "and pay over the proceeds received from the sale thereof only as"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Treaty rights not"
+    },
+    {
+     "role": "body",
+     "text": "received and as herein provided: Provided, That nothing in this Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "affected."
+    },
+    {
+     "role": "body",
+     "text": "shall be construed to deprive the said Indians of the Rosebud Indian"
+    },
+    {
+     "role": "body",
+     "text": "Reservation of any benefits to which they are entitled under existing"
+    },
+    {
+     "role": "body",
+     "text": "treaties or agreements not inconsistent with the provisions of this"
+    },
+    {
+     "role": "body",
+     "text": "Act."
+    },
+    {
+     "role": "body",
+     "text": "Approved, May 30, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 30, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 9304.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 261.—An Act Granting certain lands in the Coconino National Forest, in"
+    },
+    {
+     "role": "body",
+     "text": "Arizona, for observatory purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 195.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Lowell Observatory,"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That there be, and hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ariz."
+    },
+    {
+     "role": "sidenote",
+     "text": "Lands in Coconino"
+    },
+    {
+     "role": "body",
+     "text": "is, granted to Percival Lowell, his heirs and assigns, section numbered"
+    },
+    {
+     "role": "sidenote",
+     "text": "National Forest grant-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed for."
+    },
+    {
+     "role": "body",
+     "text": "seventeen, in township numbered twenty-one north of range seven"
+    },
+    {
+     "role": "body",
+     "text": "east of the Gila and Salt River base and meridian, the said tract of"
+    },
+    {
+     "role": "body",
+     "text": "land being within the Coconino National Forest, in the Territory of"
+    },
+    {
+     "role": "body",
+     "text": "Arizona, for observatory purposes in connection with the Lowell"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Reversion for non-"
+    },
+    {
+     "role": "body",
+     "text": "Observatory: Provided, That in the event of the removal or abandon-"
+    },
+    {
+     "role": "sidenote",
+     "text": "user."
+    },
+    {
+     "role": "body",
+     "text": "ment of the said observatory or the use of said land by the grantee"
+    },
+    {
+     "role": "body",
+     "text": "for other than observatory purposes the said land shall revert to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Timber rights ex-"
+    },
+    {
+     "role": "body",
+     "text": "United States: Provided further, That the title to the merchantable"
+    },
+    {
+     "role": "sidenote",
+     "text": "cluded."
+    },
+    {
+     "role": "body",
+     "text": "timber thereon and the right to cut and remove the same in such"
+    },
+    {
+     "role": "body",
+     "text": "manner as to preserve the herbage and undergrowth in their natural"
+    },
+    {
+     "role": "body",
+     "text": "condition shall remain in the United States."
+    },
+    {
+     "role": "body",
+     "text": "Approved, May 30, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 1, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 19070.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 263.—An Act To regulate the height of buildings in the District of"
+    },
+    {
+     "role": "body",
+     "text": "Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 196.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "Height of nonfire-"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That from and after the"
+    },
+    {
+     "role": "sidenote",
+     "text": "proof dwellings, etc.,"
+    },
+    {
+     "role": "sidenote",
+     "text": "limited."
+    },
+    {
+     "role": "body",
+     "text": "date of the approval of this Act no combustible or nonfireproof"
+    },
+    {
+     "role": "body",
+     "text": "building in the District of Columbia used or occupied or intended to"
+    },
+    {
+     "role": "body",
+     "text": "be used or occupied as a dwelling, flat, apartment house, tenement,"
+    },
+    {
+     "role": "body",
+     "text": "lodging or boarding house, hospital, dormitory, or for any similar"
+    },
+    {
+     "role": "body",
+     "text": "purpose shall be erected, altered, or raised to a height of more than"
+    },
+    {
+     "role": "body",
+     "text": "four stories, or more than fifty feet in height above the sidewalk, and"
+    },
+    {
+     "role": "body",
+     "text": "no combustible or nonfireproof building shall be converted to any of"
+    },
+    {
+     "role": "body",
+     "text": "the uses aforesaid if it exceeds either of said limits of height."
+    },
+    {
+     "role": "sidenote",
+     "text": "Business buildings."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That from and after the date of the approval of this Act no"
+    },
+    {
+     "role": "body",
+     "text": "combustible or nonfireproof building in the District of Columbia"
+    },
+    {
+     "role": "body",
+     "text": "used or occupied or intended to be used or occupied for business"
+    },
+    {
+     "role": "body",
+     "text": "purposes only shall be erected, altered, or raised to a height of more"
+    },
+    {
+     "role": "body",
+     "text": "than sixty feet above the sidewalk, and no combustible or nonfire-"
+    },
+    {
+     "role": "body",
+     "text": "proof building shall be converted to such use if it exceeds said height."
+    },
+    {
+     "role": "sidenote",
+     "text": "Fireproof materials"
+    },
+    {
+     "role": "sidenote",
+     "text": "required for buildings"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That all buildings in the District of Columbia, including"
+    },
+    {
+     "role": "sidenote",
+     "text": "exceeding 60 feet."
+    },
+    {
+     "role": "body",
+     "text": "buildings of every kind, class, and description whatsoever, excepting"
+    },
+    {
+     "role": "sidenote",
+     "text": "Churches excepted."
+    },
+    {
+     "role": "body",
+     "text": "churches only, hereafter erected, altered, or raised in any manner as"
+    },
+    {
+     "role": "body",
+     "text": "to exceed sixty feet in height shall be fireproof or noncombustible"
+    },
+    {
+     "role": "body",
+     "text": "and of such fire-resisting materials, from the foundation up, as are"
+    },
+    {
+     "role": "body",
+     "text": "now or at the time of the erecting, altering, or raising may be required"
+    },
+    {
+     "role": "body",
+     "text": "by the building regulations of the District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "Hotels, etc."
+    },
+    {
+     "role": "body",
+     "text": "Hotels, apartment houses, and tenement houses hereafter erected,"
+    },
+    {
+     "role": "body",
+     "text": "altered, or raised in any manner so as to be three stories in height or"
+    },
+    {
+     "role": "body",
+     "text": "over and buildings hereafter converted to such uses shall be of fire-"
+    },
+    {
+     "role": "body",
+     "text": "proof construction up to and including the main floor, and there shall"
+    },
+    {
+     "role": "body",
+     "text": "be no space on any floor of such structure of an area greater than two"
+    },
+    {
+     "role": "body",
+     "text": "thousand five hundred square feet that is not completely inclosed by"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2430,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08762,
+   "seconds": 103.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12442,
+   "output_tokens": 1974,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.11198,
+  "seconds": 161.9,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "received and as herein provided: Provided, That nothing in this Act",
+    "kept": "received and as herein provided: Provided, That nothing in this Act",
+    "reason": "Body line is level with the sidenote 'Treaty rights not', so it follows it in reading order."
+   },
+   {
+    "run": 2,
+    "a": "received and as herein provided: Provided, That nothing in this Act",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed earlier at its aligned position; not repeated here."
+   },
+   {
+    "run": 3,
+    "a": "[Public, No. 195.]",
+    "b": "",
+    "kept": "",
+    "reason": "'[Public, No. 195.]' sits lower, beside the second chapter-head line; not here."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "[Public, No. 195.]",
+    "kept": "[Public, No. 195.]",
+    "reason": "The sidenote is printed at the level just below 'Arizona, for observatory purposes.'"
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "States of America in Congress assembled, That there be, and hereby",
+    "kept": "States of America in Congress assembled, That there be, and hereby",
+    "reason": "This body line is level with 'Lowell Observatory,' and precedes 'Ariz.'"
+   },
+   {
+    "run": 6,
+    "a": "States of America in Congress assembled, That there be, and hereby",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed at its aligned position above."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "is, granted to Percival Lowell, his heirs and assigns, section numbered",
+    "kept": "is, granted to Percival Lowell, his heirs and assigns, section numbered",
+    "reason": "Body line aligns with the sidenote 'Lands in Coconino'."
+   },
+   {
+    "run": 8,
+    "a": "is, granted to Percival Lowell, his heirs and assigns, section numbered",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed at its aligned position above."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "Observatory: Provided, That in the event of the removal or abandon-",
+    "kept": "Observatory: Provided, That in the event of the removal or abandon-",
+    "reason": "Body line is level with 'Reversion for non-', before 'user.'"
+   },
+   {
+    "run": 10,
+    "a": "Observatory: Provided, That in the event of the removal or abandon-",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed at its aligned position above."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "United States: Provided further, That the title to the merchantable",
+    "kept": "United States: Provided further, That the title to the merchantable",
+    "reason": "Body line is level with 'Timber rights ex-', before 'cluded.'"
+   },
+   {
+    "run": 12,
+    "a": "United States: Provided further, That the title to the merchantable",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed at its aligned position above."
+   },
+   {
+    "run": 13,
+    "a": "[Public, No. 196.]",
+    "b": "",
+    "kept": "",
+    "reason": "'[Public, No. 196.]' is printed lower, beside 'Columbia.'"
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "[Public, No. 196.]",
+    "kept": "[Public, No. 196.]",
+    "reason": "Sidenote appears at the level just below the 'Columbia.' line."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "States of America in Congress assembled, That from and after the",
+    "kept": "States of America in Congress assembled, That from and after the",
+    "reason": "Body line is level with 'District of Columbia.'/'Height of nonfire-'."
+   },
+   {
+    "run": 16,
+    "a": "States of America in Congress assembled, That from and after the",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed at its aligned position above."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "SEC. 3. That all buildings in the District of Columbia, including",
+    "kept": "SEC. 3. That all buildings in the District of Columbia, including",
+    "reason": "Body line is level with 'required for buildings', before 'exceeding 60 feet.'"
+   },
+   {
+    "run": 18,
+    "a": "SEC. 3. That all buildings in the District of Columbia, including",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed at its aligned position above."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "452"
+  },
+  {
+   "role": "running-head",
+   "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 260, 261, 263.  1910."
+  },
+  {
+   "role": "body",
+   "text": "and pay over the proceeds received from the sale thereof only as"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "sidenote",
+   "text": "Treaty rights not"
+  },
+  {
+   "role": "body",
+   "text": "received and as herein provided: Provided, That nothing in this Act"
+  },
+  {
+   "role": "sidenote",
+   "text": "affected."
+  },
+  {
+   "role": "body",
+   "text": "shall be construed to deprive the said Indians of the Rosebud Indian"
+  },
+  {
+   "role": "body",
+   "text": "Reservation of any benefits to which they are entitled under existing"
+  },
+  {
+   "role": "body",
+   "text": "treaties or agreements not inconsistent with the provisions of this"
+  },
+  {
+   "role": "body",
+   "text": "Act."
+  },
+  {
+   "role": "body",
+   "text": "Approved, May 30, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "May 30, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 9304.]"
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 261.—An Act Granting certain lands in the Coconino National Forest, in"
+  },
+  {
+   "role": "body",
+   "text": "Arizona, for observatory purposes."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 195.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Lowell Observatory,"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That there be, and hereby"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ariz."
+  },
+  {
+   "role": "sidenote",
+   "text": "Lands in Coconino"
+  },
+  {
+   "role": "body",
+   "text": "is, granted to Percival Lowell, his heirs and assigns, section numbered"
+  },
+  {
+   "role": "sidenote",
+   "text": "National Forest grant-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ed for."
+  },
+  {
+   "role": "body",
+   "text": "seventeen, in township numbered twenty-one north of range seven"
+  },
+  {
+   "role": "body",
+   "text": "east of the Gila and Salt River base and meridian, the said tract of"
+  },
+  {
+   "role": "body",
+   "text": "land being within the Coconino National Forest, in the Territory of"
+  },
+  {
+   "role": "body",
+   "text": "Arizona, for observatory purposes in connection with the Lowell"
+  },
+  {
+   "role": "sidenote",
+   "text": "Provisos."
+  },
+  {
+   "role": "sidenote",
+   "text": "Reversion for non-"
+  },
+  {
+   "role": "body",
+   "text": "Observatory: Provided, That in the event of the removal or abandon-"
+  },
+  {
+   "role": "sidenote",
+   "text": "user."
+  },
+  {
+   "role": "body",
+   "text": "ment of the said observatory or the use of said land by the grantee"
+  },
+  {
+   "role": "body",
+   "text": "for other than observatory purposes the said land shall revert to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Timber rights ex-"
+  },
+  {
+   "role": "body",
+   "text": "United States: Provided further, That the title to the merchantable"
+  },
+  {
+   "role": "sidenote",
+   "text": "cluded."
+  },
+  {
+   "role": "body",
+   "text": "timber thereon and the right to cut and remove the same in such"
+  },
+  {
+   "role": "body",
+   "text": "manner as to preserve the herbage and undergrowth in their natural"
+  },
+  {
+   "role": "body",
+   "text": "condition shall remain in the United States."
+  },
+  {
+   "role": "body",
+   "text": "Approved, May 30, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "June 1, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 19070.]"
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 263.—An Act To regulate the height of buildings in the District of"
+  },
+  {
+   "role": "body",
+   "text": "Columbia."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 196.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "District of Columbia."
+  },
+  {
+   "role": "sidenote",
+   "text": "Height of nonfire-"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That from and after the"
+  },
+  {
+   "role": "sidenote",
+   "text": "proof dwellings, etc.,"
+  },
+  {
+   "role": "sidenote",
+   "text": "limited."
+  },
+  {
+   "role": "body",
+   "text": "date of the approval of this Act no combustible or nonfireproof"
+  },
+  {
+   "role": "body",
+   "text": "building in the District of Columbia used or occupied or intended to"
+  },
+  {
+   "role": "body",
+   "text": "be used or occupied as a dwelling, flat, apartment house, tenement,"
+  },
+  {
+   "role": "body",
+   "text": "lodging or boarding house, hospital, dormitory, or for any similar"
+  },
+  {
+   "role": "body",
+   "text": "purpose shall be erected, altered, or raised to a height of more than"
+  },
+  {
+   "role": "body",
+   "text": "four stories, or more than fifty feet in height above the sidewalk, and"
+  },
+  {
+   "role": "body",
+   "text": "no combustible or nonfireproof building shall be converted to any of"
+  },
+  {
+   "role": "body",
+   "text": "the uses aforesaid if it exceeds either of said limits of height."
+  },
+  {
+   "role": "sidenote",
+   "text": "Business buildings."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That from and after the date of the approval of this Act no"
+  },
+  {
+   "role": "body",
+   "text": "combustible or nonfireproof building in the District of Columbia"
+  },
+  {
+   "role": "body",
+   "text": "used or occupied or intended to be used or occupied for business"
+  },
+  {
+   "role": "body",
+   "text": "purposes only shall be erected, altered, or raised to a height of more"
+  },
+  {
+   "role": "body",
+   "text": "than sixty feet above the sidewalk, and no combustible or nonfire-"
+  },
+  {
+   "role": "body",
+   "text": "proof building shall be converted to such use if it exceeds said height."
+  },
+  {
+   "role": "sidenote",
+   "text": "Fireproof materials"
+  },
+  {
+   "role": "sidenote",
+   "text": "required for buildings"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. That all buildings in the District of Columbia, including"
+  },
+  {
+   "role": "sidenote",
+   "text": "exceeding 60 feet."
+  },
+  {
+   "role": "body",
+   "text": "buildings of every kind, class, and description whatsoever, excepting"
+  },
+  {
+   "role": "sidenote",
+   "text": "Churches excepted."
+  },
+  {
+   "role": "body",
+   "text": "churches only, hereafter erected, altered, or raised in any manner as"
+  },
+  {
+   "role": "body",
+   "text": "to exceed sixty feet in height shall be fireproof or noncombustible"
+  },
+  {
+   "role": "body",
+   "text": "and of such fire-resisting materials, from the foundation up, as are"
+  },
+  {
+   "role": "body",
+   "text": "now or at the time of the erecting, altering, or raising may be required"
+  },
+  {
+   "role": "body",
+   "text": "by the building regulations of the District of Columbia."
+  },
+  {
+   "role": "sidenote",
+   "text": "Hotels, etc."
+  },
+  {
+   "role": "body",
+   "text": "Hotels, apartment houses, and tenement houses hereafter erected,"
+  },
+  {
+   "role": "body",
+   "text": "altered, or raised in any manner so as to be three stories in height or"
+  },
+  {
+   "role": "body",
+   "text": "over and buildings hereafter converted to such uses shall be of fire-"
+  },
+  {
+   "role": "body",
+   "text": "proof construction up to and including the main floor, and there shall"
+  },
+  {
+   "role": "body",
+   "text": "be no space on any floor of such structure of an area greater than two"
+  },
+  {
+   "role": "body",
+   "text": "thousand five hundred square feet that is not completely inclosed by"
+  }
+ ],
+ "disagreement_count": 18,
+ "tokens": {
+  "input_tokens": 23041,
+  "output_tokens": 6927,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.28955,
+ "seconds": 373.3,
+ "created": "2026-09-08T12:17:59"
+}

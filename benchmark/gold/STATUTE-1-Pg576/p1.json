@@ -1,0 +1,1260 @@
+{
+ "granule_id": "STATUTE-1-Pg576",
+ "package_id": "STATUTE-1",
+ "volume": 1,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act providing Arms for the Militia throughout the United States.",
+ "date_issued": "1798-07-06",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "576",
+ "image": "data/gold/STATUTE-1-Pg576/p1.png",
+ "image_sha256": "b0c401ff5fb2b7bcd5ba10a7e678ee5e32d8103cdbd76f1f52048a54b4869436",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FIFTH CONGRESS.  SESS. II. CH. 65.  1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "Rates of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "ships of war to"
+    },
+    {
+     "role": "sidenote",
+     "text": "be procured or"
+    },
+    {
+     "role": "sidenote",
+     "text": "accepted."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the vessels authorized by"
+    },
+    {
+     "role": "body",
+     "text": "the act, intituled \"An act to provide an additional armament for the"
+    },
+    {
+     "role": "body",
+     "text": "further protection of the trade of the United States, and for other"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 552."
+    },
+    {
+     "role": "body",
+     "text": "purposes,\" and those which shall be authorized by this act, shall be pro-"
+    },
+    {
+     "role": "body",
+     "text": "cured and accepted according to the following rates, as nearly as may"
+    },
+    {
+     "role": "body",
+     "text": "be; that is to say—six of them not exceeding eighteen guns each, and"
+    },
+    {
+     "role": "body",
+     "text": "twelve of them not less than twenty, or exceeding twenty-four guns"
+    },
+    {
+     "role": "body",
+     "text": "each, and six not less than thirty-two guns each; and the guns for each"
+    },
+    {
+     "role": "body",
+     "text": "vessel, to be of such caliber and weight of metal, as the President of"
+    },
+    {
+     "role": "body",
+     "text": "the United States shall approve; any thing in the said former act, to"
+    },
+    {
+     "role": "body",
+     "text": "the contrary hereof, notwithstanding."
+    },
+    {
+     "role": "sidenote",
+     "text": "The President"
+    },
+    {
+     "role": "sidenote",
+     "text": "may accept of"
+    },
+    {
+     "role": "sidenote",
+     "text": "vessels given to"
+    },
+    {
+     "role": "sidenote",
+     "text": "the use of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "U. States."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That the President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States may, at his discretion, accept of any vessel armed and equipped,"
+    },
+    {
+     "role": "body",
+     "text": "or suitable to be armed, of a model, size and force proper for the public"
+    },
+    {
+     "role": "body",
+     "text": "service, which any state, body politic or corporate, citizen or citizens"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, shall voluntarily offer and give, for the use of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, to increase the naval armament."
+    },
+    {
+     "role": "sidenote",
+     "text": "The President"
+    },
+    {
+     "role": "sidenote",
+     "text": "may regulate"
+    },
+    {
+     "role": "sidenote",
+     "text": "the rank, pay,"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c. of officers,"
+    },
+    {
+     "role": "sidenote",
+     "text": "and number of"
+    },
+    {
+     "role": "sidenote",
+     "text": "men to be em-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ployed, &c."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That the President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States shall be, and he is hereby authorized to determine and direct,"
+    },
+    {
+     "role": "body",
+     "text": "according to the rate of each vessel which shall be furnished or accepted"
+    },
+    {
+     "role": "body",
+     "text": "in pursuance of this act, the rank, pay, and subsistence of the commis-"
+    },
+    {
+     "role": "body",
+     "text": "sioned and warrant officers, who shall be appointed thereto; and the"
+    },
+    {
+     "role": "body",
+     "text": "number of men to be engaged, and the pay to be allowed them, not"
+    },
+    {
+     "role": "body",
+     "text": "exceeding the proportionable grades and allowances which are or shall"
+    },
+    {
+     "role": "body",
+     "text": "be authorized by law, for the navy of the United States.  And all offi-"
+    },
+    {
+     "role": "body",
+     "text": "cers of the said navy, according to their respective ranks, shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "1794, ch. 12."
+    },
+    {
+     "role": "body",
+     "text": "appointed in the manner prescribed by the act, intituled \"An act to"
+    },
+    {
+     "role": "body",
+     "text": "provide a naval armament.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "The President"
+    },
+    {
+     "role": "sidenote",
+     "text": "may vary the"
+    },
+    {
+     "role": "sidenote",
+     "text": "quotas of sea-"
+    },
+    {
+     "role": "sidenote",
+     "text": "men, landsmen,"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That the President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States may, at his discretion, increase or vary the quotas of seamen,"
+    },
+    {
+     "role": "body",
+     "text": "landsmen and marines, to be employed on board the frigates, and may"
+    },
+    {
+     "role": "body",
+     "text": "permit a proportion of boys for them, and the other vessels of the navy"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, according to the exigencies of the public service."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 30, 1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 6, 1798."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXV.—An Act providing Arms for the Militia throughout the United"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "sidenote",
+     "text": "30,000 stands"
+    },
+    {
+     "role": "sidenote",
+     "text": "of arms to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "provided, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "sold to the state"
+    },
+    {
+     "role": "sidenote",
+     "text": "governments,"
+    },
+    {
+     "role": "sidenote",
+     "text": "and"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That there"
+    },
+    {
+     "role": "body",
+     "text": "shall be provided, at the charge and expense of the government of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, thirty thousand stand of arms, which shall be deposited"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of April"
+    },
+    {
+     "role": "sidenote",
+     "text": "23, 1808, ch. 55."
+    },
+    {
+     "role": "body",
+     "text": "by order of the President of the United States, at suitable places; for"
+    },
+    {
+     "role": "body",
+     "text": "the purpose of being sold to the governments of the respective States, or"
+    },
+    {
+     "role": "body",
+     "text": "the militia thereof, under such regulations, and at such prices as the"
+    },
+    {
+     "role": "body",
+     "text": "President of the United States shall prescribe."
+    },
+    {
+     "role": "sidenote",
+     "text": "those remaining"
+    },
+    {
+     "role": "sidenote",
+     "text": "unsold may be"
+    },
+    {
+     "role": "sidenote",
+     "text": "delivered to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "militia, when"
+    },
+    {
+     "role": "sidenote",
+     "text": "called into ser-"
+    },
+    {
+     "role": "sidenote",
+     "text": "vice."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States be, and he is hereby authorized to cause all or any part of the"
+    },
+    {
+     "role": "body",
+     "text": "arms herein directed to be provided and deposited for sale, which shall,"
+    },
+    {
+     "role": "body",
+     "text": "at any time, remain unsold, to be delivered to the militia, when called"
+    },
+    {
+     "role": "body",
+     "text": "into the service of the United States, proper receipts and security being"
+    },
+    {
+     "role": "body",
+     "text": "given for the return of the same."
+    },
+    {
+     "role": "sidenote",
+     "text": "Amount of"
+    },
+    {
+     "role": "sidenote",
+     "text": "sales to be paid"
+    },
+    {
+     "role": "sidenote",
+     "text": "into the Treas-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ury."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That the monies arising from"
+    },
+    {
+     "role": "body",
+     "text": "such sales shall be paid into the treasury of the United States, and the"
+    },
+    {
+     "role": "body",
+     "text": "amount received shall be annually reported to Congress."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That for the purpose of carrying"
+    },
+    {
+     "role": "body",
+     "text": "this act into effect, the President of the United States shall be, and he"
+    },
+    {
+     "role": "body",
+     "text": "is hereby authorized to draw from the treasury of the United States, a"
+    },
+    {
+     "role": "page-number",
+     "text": "576"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2981,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.10196,
+   "seconds": 34.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "576"
+    },
+    {
+     "role": "running-head",
+     "text": "FIFTH CONGRESS.  SESS. II. CH. 65.  1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "Rates of the ships of war to be procured or accepted."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the vessels authorized by"
+    },
+    {
+     "role": "body",
+     "text": "the act, intituled \"An act to provide an additional armament for the"
+    },
+    {
+     "role": "body",
+     "text": "further protection of the trade of the United States, and for other"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 552."
+    },
+    {
+     "role": "body",
+     "text": "purposes,\" and those which shall be authorized by this act, shall be pro-"
+    },
+    {
+     "role": "body",
+     "text": "cured and accepted according to the following rates, as nearly as may"
+    },
+    {
+     "role": "body",
+     "text": "be; that is to say—six of them not exceeding eighteen guns each, and"
+    },
+    {
+     "role": "body",
+     "text": "twelve of them not less than twenty, or exceeding twenty-four guns"
+    },
+    {
+     "role": "body",
+     "text": "each, and six not less than thirty-two guns each; and the guns for each"
+    },
+    {
+     "role": "body",
+     "text": "vessel, to be of such caliber and weight of metal, as the President of"
+    },
+    {
+     "role": "body",
+     "text": "the United States shall approve; any thing in the said former act, to"
+    },
+    {
+     "role": "body",
+     "text": "the contrary hereof, notwithstanding."
+    },
+    {
+     "role": "sidenote",
+     "text": "The President may accept of vessels given to the use of the U. States."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That the President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States may, at his discretion, accept of any vessel armed and equipped,"
+    },
+    {
+     "role": "body",
+     "text": "or suitable to be armed, of a model, size and force proper for the public"
+    },
+    {
+     "role": "body",
+     "text": "service, which any state, body politic or corporate, citizen or citizens"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, shall voluntarily offer and give, for the use of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, to increase the naval armament."
+    },
+    {
+     "role": "sidenote",
+     "text": "The President may regulate the rank, pay, &c. of officers, and number of men to be em- ployed, &c."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That the President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States shall be, and he is hereby authorized to determine and direct,"
+    },
+    {
+     "role": "body",
+     "text": "according to the rate of each vessel which shall be furnished or accepted"
+    },
+    {
+     "role": "body",
+     "text": "in pursuance of this act, the rank, pay, and subsistence of the commis-"
+    },
+    {
+     "role": "body",
+     "text": "sioned and warrant officers, who shall be appointed thereto; and the"
+    },
+    {
+     "role": "body",
+     "text": "number of men to be engaged, and the pay to be allowed them, not"
+    },
+    {
+     "role": "body",
+     "text": "exceeding the proportionable grades and allowances which are or shall"
+    },
+    {
+     "role": "body",
+     "text": "be authorized by law, for the navy of the United States.  And all offi-"
+    },
+    {
+     "role": "body",
+     "text": "cers of the said navy, according to their respective ranks, shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "1794, ch. 12."
+    },
+    {
+     "role": "body",
+     "text": "appointed in the manner prescribed by the act, intituled \"An act to"
+    },
+    {
+     "role": "body",
+     "text": "provide a naval armament.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "The President may vary the quotas of sea- men, landsmen, &c."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That the President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States may, at his discretion, increase or vary the quotas of seamen,"
+    },
+    {
+     "role": "body",
+     "text": "landsmen and marines, to be employed on board the frigates, and may"
+    },
+    {
+     "role": "body",
+     "text": "permit a proportion of boys for them, and the other vessels of the navy"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, according to the exigencies of the public service."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 30, 1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 6, 1798."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXV.—An Act providing Arms for the Militia throughout the United"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "sidenote",
+     "text": "30,000 stands of arms to be provided, and sold to the state governments, and"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That there"
+    },
+    {
+     "role": "body",
+     "text": "shall be provided, at the charge and expense of the government of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, thirty thousand stand of arms, which shall be deposited"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of April 23, 1808, ch. 55."
+    },
+    {
+     "role": "body",
+     "text": "by order of the President of the United States, at suitable places; for"
+    },
+    {
+     "role": "body",
+     "text": "the purpose of being sold to the governments of the respective States, or"
+    },
+    {
+     "role": "body",
+     "text": "the militia thereof, under such regulations, and at such prices as the"
+    },
+    {
+     "role": "body",
+     "text": "President of the United States shall prescribe."
+    },
+    {
+     "role": "sidenote",
+     "text": "those remaining unsold may be delivered to the militia, when called into ser- vice."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States be, and he is hereby authorized to cause all or any part of the"
+    },
+    {
+     "role": "body",
+     "text": "arms herein directed to be provided and deposited for sale, which shall,"
+    },
+    {
+     "role": "body",
+     "text": "at any time, remain unsold, to be delivered to the militia, when called"
+    },
+    {
+     "role": "body",
+     "text": "into the service of the United States, proper receipts and security being"
+    },
+    {
+     "role": "body",
+     "text": "given for the return of the same."
+    },
+    {
+     "role": "sidenote",
+     "text": "Amount of sales to be paid into the Treas- ury."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That the monies arising from"
+    },
+    {
+     "role": "body",
+     "text": "such sales shall be paid into the treasury of the United States, and the"
+    },
+    {
+     "role": "body",
+     "text": "amount received shall be annually reported to Congress."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That for the purpose of carrying"
+    },
+    {
+     "role": "body",
+     "text": "this act into effect, the President of the United States shall be, and he"
+    },
+    {
+     "role": "body",
+     "text": "is hereby authorized to draw from the treasury of the United States, a"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2237,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08335,
+   "seconds": 28.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12708,
+   "output_tokens": 1156,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.09286,
+  "seconds": 13.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "576",
+    "kept": "576",
+    "reason": "Page number 576 is printed at the top left, before the running head."
+   },
+   {
+    "run": 2,
+    "a": "Rates of the\nships of war to\nbe procured or\naccepted.",
+    "b": "Rates of the ships of war to be procured or accepted.",
+    "kept": "Rates of the\nships of war to\nbe procured or\naccepted.",
+    "reason": "Sidenote is printed on four separate lines."
+   },
+   {
+    "run": 3,
+    "a": "The President\nmay accept of\nvessels given to\nthe use of the\nU. States.",
+    "b": "The President may accept of vessels given to the use of the U. States.",
+    "kept": "The President\nmay accept of\nvessels given to\nthe use of the\nU. States.",
+    "reason": "Five printed sidenote lines."
+   },
+   {
+    "run": 4,
+    "a": "The President\nmay regulate\nthe rank, pay,\n&c. of officers,\nand number of\nmen to be em-\nployed, &c.",
+    "b": "The President may regulate the rank, pay, &c. of officers, and number of men to be em- ployed, &c.",
+    "kept": "The President\nmay regulate\nthe rank, pay,\n&c. of officers,\nand number of\nmen to be em-\nployed, &c.",
+    "reason": "Seven printed sidenote lines with hyphenation."
+   },
+   {
+    "run": 5,
+    "a": "The President\nmay vary the\nquotas of sea-\nmen, landsmen,\n&c.",
+    "b": "The President may vary the quotas of sea- men, landsmen, &c.",
+    "kept": "The President\nmay vary the\nquotas of sea-\nmen, landsmen,\n&c.",
+    "reason": "Five printed sidenote lines."
+   },
+   {
+    "run": 6,
+    "a": "30,000 stands\nof arms to be\nprovided, and\nsold to the state\ngovernments,\nand",
+    "b": "30,000 stands of arms to be provided, and sold to the state governments, and",
+    "kept": "30,000 stands\nof arms to be\nprovided, and\nsold to the state\ngovernments,\nand",
+    "reason": "Six printed sidenote lines."
+   },
+   {
+    "run": 7,
+    "a": "Act of April\n23, 1808, ch. 55.",
+    "b": "Act of April 23, 1808, ch. 55.",
+    "kept": "Act of April\n23, 1808, ch. 55.",
+    "reason": "Two printed sidenote lines."
+   },
+   {
+    "run": 8,
+    "a": "those remaining\nunsold may be\ndelivered to the\nmilitia, when\ncalled into ser-\nvice.",
+    "b": "those remaining unsold may be delivered to the militia, when called into ser- vice.",
+    "kept": "those remaining\nunsold may be\ndelivered to the\nmilitia, when\ncalled into ser-\nvice.",
+    "reason": "Six printed sidenote lines."
+   },
+   {
+    "run": 9,
+    "a": "Amount of\nsales to be paid\ninto the Treas-\nury.",
+    "b": "Amount of sales to be paid into the Treas- ury.",
+    "kept": "Amount of\nsales to be paid\ninto the Treas-\nury.",
+    "reason": "Four printed sidenote lines."
+   },
+   {
+    "run": 10,
+    "a": "576",
+    "b": "",
+    "kept": "",
+    "reason": "No page number at the foot; it appears at the top of the page."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "576"
+  },
+  {
+   "role": "running-head",
+   "text": "FIFTH CONGRESS.  SESS. II. CH. 65.  1798."
+  },
+  {
+   "role": "sidenote",
+   "text": "Rates of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "ships of war to"
+  },
+  {
+   "role": "sidenote",
+   "text": "be procured or"
+  },
+  {
+   "role": "sidenote",
+   "text": "accepted."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the vessels authorized by"
+  },
+  {
+   "role": "body",
+   "text": "the act, intituled \"An act to provide an additional armament for the"
+  },
+  {
+   "role": "body",
+   "text": "further protection of the trade of the United States, and for other"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 552."
+  },
+  {
+   "role": "body",
+   "text": "purposes,\" and those which shall be authorized by this act, shall be pro-"
+  },
+  {
+   "role": "body",
+   "text": "cured and accepted according to the following rates, as nearly as may"
+  },
+  {
+   "role": "body",
+   "text": "be; that is to say—six of them not exceeding eighteen guns each, and"
+  },
+  {
+   "role": "body",
+   "text": "twelve of them not less than twenty, or exceeding twenty-four guns"
+  },
+  {
+   "role": "body",
+   "text": "each, and six not less than thirty-two guns each; and the guns for each"
+  },
+  {
+   "role": "body",
+   "text": "vessel, to be of such caliber and weight of metal, as the President of"
+  },
+  {
+   "role": "body",
+   "text": "the United States shall approve; any thing in the said former act, to"
+  },
+  {
+   "role": "body",
+   "text": "the contrary hereof, notwithstanding."
+  },
+  {
+   "role": "sidenote",
+   "text": "The President"
+  },
+  {
+   "role": "sidenote",
+   "text": "may accept of"
+  },
+  {
+   "role": "sidenote",
+   "text": "vessels given to"
+  },
+  {
+   "role": "sidenote",
+   "text": "the use of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "U. States."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That the President of the United"
+  },
+  {
+   "role": "body",
+   "text": "States may, at his discretion, accept of any vessel armed and equipped,"
+  },
+  {
+   "role": "body",
+   "text": "or suitable to be armed, of a model, size and force proper for the public"
+  },
+  {
+   "role": "body",
+   "text": "service, which any state, body politic or corporate, citizen or citizens"
+  },
+  {
+   "role": "body",
+   "text": "of the United States, shall voluntarily offer and give, for the use of the"
+  },
+  {
+   "role": "body",
+   "text": "United States, to increase the naval armament."
+  },
+  {
+   "role": "sidenote",
+   "text": "The President"
+  },
+  {
+   "role": "sidenote",
+   "text": "may regulate"
+  },
+  {
+   "role": "sidenote",
+   "text": "the rank, pay,"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c. of officers,"
+  },
+  {
+   "role": "sidenote",
+   "text": "and number of"
+  },
+  {
+   "role": "sidenote",
+   "text": "men to be em-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ployed, &c."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. And be it further enacted, That the President of the United"
+  },
+  {
+   "role": "body",
+   "text": "States shall be, and he is hereby authorized to determine and direct,"
+  },
+  {
+   "role": "body",
+   "text": "according to the rate of each vessel which shall be furnished or accepted"
+  },
+  {
+   "role": "body",
+   "text": "in pursuance of this act, the rank, pay, and subsistence of the commis-"
+  },
+  {
+   "role": "body",
+   "text": "sioned and warrant officers, who shall be appointed thereto; and the"
+  },
+  {
+   "role": "body",
+   "text": "number of men to be engaged, and the pay to be allowed them, not"
+  },
+  {
+   "role": "body",
+   "text": "exceeding the proportionable grades and allowances which are or shall"
+  },
+  {
+   "role": "body",
+   "text": "be authorized by law, for the navy of the United States.  And all offi-"
+  },
+  {
+   "role": "body",
+   "text": "cers of the said navy, according to their respective ranks, shall be"
+  },
+  {
+   "role": "sidenote",
+   "text": "1794, ch. 12."
+  },
+  {
+   "role": "body",
+   "text": "appointed in the manner prescribed by the act, intituled \"An act to"
+  },
+  {
+   "role": "body",
+   "text": "provide a naval armament.\""
+  },
+  {
+   "role": "sidenote",
+   "text": "The President"
+  },
+  {
+   "role": "sidenote",
+   "text": "may vary the"
+  },
+  {
+   "role": "sidenote",
+   "text": "quotas of sea-"
+  },
+  {
+   "role": "sidenote",
+   "text": "men, landsmen,"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. And be it further enacted, That the President of the United"
+  },
+  {
+   "role": "body",
+   "text": "States may, at his discretion, increase or vary the quotas of seamen,"
+  },
+  {
+   "role": "body",
+   "text": "landsmen and marines, to be employed on board the frigates, and may"
+  },
+  {
+   "role": "body",
+   "text": "permit a proportion of boys for them, and the other vessels of the navy"
+  },
+  {
+   "role": "body",
+   "text": "of the United States, according to the exigencies of the public service."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, June 30, 1798."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "sidenote",
+   "text": "July 6, 1798."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LXV.—An Act providing Arms for the Militia throughout the United"
+  },
+  {
+   "role": "body",
+   "text": "States."
+  },
+  {
+   "role": "sidenote",
+   "text": "30,000 stands"
+  },
+  {
+   "role": "sidenote",
+   "text": "of arms to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "provided, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "sold to the state"
+  },
+  {
+   "role": "sidenote",
+   "text": "governments,"
+  },
+  {
+   "role": "sidenote",
+   "text": "and"
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+  },
+  {
+   "role": "body",
+   "text": "of the United States of America in Congress assembled, That there"
+  },
+  {
+   "role": "body",
+   "text": "shall be provided, at the charge and expense of the government of the"
+  },
+  {
+   "role": "body",
+   "text": "United States, thirty thousand stand of arms, which shall be deposited"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of April"
+  },
+  {
+   "role": "sidenote",
+   "text": "23, 1808, ch. 55."
+  },
+  {
+   "role": "body",
+   "text": "by order of the President of the United States, at suitable places; for"
+  },
+  {
+   "role": "body",
+   "text": "the purpose of being sold to the governments of the respective States, or"
+  },
+  {
+   "role": "body",
+   "text": "the militia thereof, under such regulations, and at such prices as the"
+  },
+  {
+   "role": "body",
+   "text": "President of the United States shall prescribe."
+  },
+  {
+   "role": "sidenote",
+   "text": "those remaining"
+  },
+  {
+   "role": "sidenote",
+   "text": "unsold may be"
+  },
+  {
+   "role": "sidenote",
+   "text": "delivered to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "militia, when"
+  },
+  {
+   "role": "sidenote",
+   "text": "called into ser-"
+  },
+  {
+   "role": "sidenote",
+   "text": "vice."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the President of the United"
+  },
+  {
+   "role": "body",
+   "text": "States be, and he is hereby authorized to cause all or any part of the"
+  },
+  {
+   "role": "body",
+   "text": "arms herein directed to be provided and deposited for sale, which shall,"
+  },
+  {
+   "role": "body",
+   "text": "at any time, remain unsold, to be delivered to the militia, when called"
+  },
+  {
+   "role": "body",
+   "text": "into the service of the United States, proper receipts and security being"
+  },
+  {
+   "role": "body",
+   "text": "given for the return of the same."
+  },
+  {
+   "role": "sidenote",
+   "text": "Amount of"
+  },
+  {
+   "role": "sidenote",
+   "text": "sales to be paid"
+  },
+  {
+   "role": "sidenote",
+   "text": "into the Treas-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ury."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That the monies arising from"
+  },
+  {
+   "role": "body",
+   "text": "such sales shall be paid into the treasury of the United States, and the"
+  },
+  {
+   "role": "body",
+   "text": "amount received shall be annually reported to Congress."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. And be it further enacted, That for the purpose of carrying"
+  },
+  {
+   "role": "body",
+   "text": "this act into effect, the President of the United States shall be, and he"
+  },
+  {
+   "role": "body",
+   "text": "is hereby authorized to draw from the treasury of the United States, a"
+  }
+ ],
+ "disagreement_count": 10,
+ "tokens": {
+  "input_tokens": 23531,
+  "output_tokens": 6374,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.27817,
+ "seconds": 76.4,
+ "created": "2026-09-08T11:19:08"
+}

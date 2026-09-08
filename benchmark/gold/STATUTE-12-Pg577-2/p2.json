@@ -1,0 +1,1120 @@
+{
+ "granule_id": "STATUTE-12-Pg577-2",
+ "package_id": "STATUTE-12",
+ "volume": 12,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to prevent Members of Congress and Officers of the Government of the United States from taking Consideration for procuring Contracts, Office, or Place, from the United States, and for other Pur",
+ "date_issued": "1862-07-16",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "578",
+ "image": "data/gold/STATUTE-12-Pg577-2/p2.png",
+ "image_sha256": "63be2bf2bf0fc71978c15b308c93bf815f88d9d1cf14d71ac19c399024ad36fd",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "578        THIRTY–SEVENTH CONGRESS.  SESS. II.  CH. 180, 181.  1862."
+    },
+    {
+     "role": "body",
+     "text": "ment, as aforesaid, may, at the option of the President of the United States,"
+    },
+    {
+     "role": "body",
+     "text": "be absolutely null and void ; and any member of Congress or officer of the"
+    },
+    {
+     "role": "body",
+     "text": "United States convicted, as aforesaid, shall, moreover, be disqualified from"
+    },
+    {
+     "role": "body",
+     "text": "holding any office of honor, profit, or trust under the government of the"
+    },
+    {
+     "role": "body",
+     "text": "United States."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 16, 1862."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 16, 1862."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLXXXI.—An Act to amend an Act entitled “ An Act to create a Metropolitan Po-"
+    },
+    {
+     "role": "body",
+     "text": "lice District of the District of Columbia, and to establish a Police therefor,” approved"
+    },
+    {
+     "role": "sidenote",
+     "text": "1861, ch. 62."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 320."
+    },
+    {
+     "role": "body",
+     "text": "August six, eighteen hundred and sixty-one."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of 1861,"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the act entitled “ An act to"
+    },
+    {
+     "role": "sidenote",
+     "text": "ch. 62, amended."
+    },
+    {
+     "role": "body",
+     "text": "create a Metropolitan police district of the District of Columbia, and to"
+    },
+    {
+     "role": "body",
+     "text": "establish a police therefor,” approved August six, eighteen hundred and"
+    },
+    {
+     "role": "body",
+     "text": "sixty-one, be, and the same is hereby, amended as follows :"
+    },
+    {
+     "role": "sidenote",
+     "text": "Property stolen,"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 1. And be it further enacted, That all property, or money alleged"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c. to be in cus-"
+    },
+    {
+     "role": "body",
+     "text": "or supposed to have been feloniously obtained, or which shall be lost or"
+    },
+    {
+     "role": "sidenote",
+     "text": "tody of “property"
+    },
+    {
+     "role": "sidenote",
+     "text": "clerk.”"
+    },
+    {
+     "role": "body",
+     "text": "abandoned, and which shall be thereafter taken into the custody of any"
+    },
+    {
+     "role": "body",
+     "text": "member of the Metropolitan police force, or criminal court of the District"
+    },
+    {
+     "role": "body",
+     "text": "of Columbia, or which shall come into custody of any justice of the peace,"
+    },
+    {
+     "role": "body",
+     "text": "shall be, by such member or justice, or by order of said court, given into"
+    },
+    {
+     "role": "body",
+     "text": "the custody of and kept by an officer, who shall be appointed and may be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Register to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "kept."
+    },
+    {
+     "role": "body",
+     "text": "removed by the Board of Police, known as “property clerk” of the Me-"
+    },
+    {
+     "role": "body",
+     "text": "tropolitan police district, and all such property and money shall be par-"
+    },
+    {
+     "role": "body",
+     "text": "ticularly registered by said property clerk in a book kept for that purpose,"
+    },
+    {
+     "role": "body",
+     "text": "which shall contain also a record of the names of the persons from whom"
+    },
+    {
+     "role": "body",
+     "text": "such property or money was taken, the names of all claimants thereto, the"
+    },
+    {
+     "role": "body",
+     "text": "time of the seizure, and any final disposition of such property and money."
+    },
+    {
+     "role": "sidenote",
+     "text": "When and how"
+    },
+    {
+     "role": "sidenote",
+     "text": "such property"
+    },
+    {
+     "role": "sidenote",
+     "text": "may be restored."
+    },
+    {
+     "role": "body",
+     "text": "Whenever property or money shall be taken from persons arrested, and"
+    },
+    {
+     "role": "body",
+     "text": "shall be alleged to have been feloniously obtained, or to be the proceeds of"
+    },
+    {
+     "role": "body",
+     "text": "crime, and whenever so brought with such claimant and the person ar-"
+    },
+    {
+     "role": "body",
+     "text": "rested before some magistrate for adjudication, and the magistrate shall be"
+    },
+    {
+     "role": "body",
+     "text": "then and there satisfied from evidence that the person arrested is innocent"
+    },
+    {
+     "role": "body",
+     "text": "of the offence alleged, and that the property rightfully belongs to him, then"
+    },
+    {
+     "role": "body",
+     "text": "said magistrate may thereupon, in writing, order such property or money"
+    },
+    {
+     "role": "body",
+     "text": "to be returned, and the property clerk, if he have it, to deliver such prop-"
+    },
+    {
+     "role": "body",
+     "text": "erty or money to the accused person himself, and not to any attorney,"
+    },
+    {
+     "role": "body",
+     "text": "agent, or clerk of such accused person.   If any claim to the ownership of"
+    },
+    {
+     "role": "body",
+     "text": "such property or money shall be made on oath before the magistrate, by or"
+    },
+    {
+     "role": "body",
+     "text": "in behalf of any other persons than the persons arrested, and the said ac-"
+    },
+    {
+     "role": "body",
+     "text": "cused person shall be held for trial or examination, such property or money"
+    },
+    {
+     "role": "body",
+     "text": "shall remain in the custody of the property clerk until the discharge or"
+    },
+    {
+     "role": "body",
+     "text": "conviction of the persons accused.   All property or money taken on sus-"
+    },
+    {
+     "role": "body",
+     "text": "picion of having been feloniously obtained, or of being the proceeds of"
+    },
+    {
+     "role": "body",
+     "text": "crime, and for which there is no other claimant than the person from whom"
+    },
+    {
+     "role": "body",
+     "text": "such property was taken, and all lost property coming into the possession"
+    },
+    {
+     "role": "body",
+     "text": "of any member of the said Metropolitan police force, and all property and"
+    },
+    {
+     "role": "body",
+     "text": "money taken from pawnbrokers as the proceeds of crime, or by any such"
+    },
+    {
+     "role": "body",
+     "text": "member from persons supposed to be insane, intoxicated, or otherwise in-"
+    },
+    {
+     "role": "body",
+     "text": "capable of taking care of themselves, shall be transmitted as soon as prac-"
+    },
+    {
+     "role": "body",
+     "text": "ticable to the property clerk of the Metropolitan police district, to be duly"
+    },
+    {
+     "role": "body",
+     "text": "registered and advertised for the benefit of all persons and parties inter-"
+    },
+    {
+     "role": "body",
+     "text": "ested, and for the information of the public as to the amount and disposi-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the property so taken into custody by the police.   All property and"
+    },
+    {
+     "role": "sidenote",
+     "text": "When to be sold"
+    },
+    {
+     "role": "sidenote",
+     "text": "at public auction."
+    },
+    {
+     "role": "body",
+     "text": "money that shall remain in the custody of the property clerk for the period"
+    },
+    {
+     "role": "body",
+     "text": "of six months without any lawful claimant thereto, after having been three"
+    },
+    {
+     "role": "body",
+     "text": "times advertised in public newspapers, shall be sold at public auction, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Horses and per-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ishable property."
+    },
+    {
+     "role": "body",
+     "text": "the proceeds of such sale shall be paid into the policemen's fund: Pro-"
+    },
+    {
+     "role": "body",
+     "text": "vided, That horses and other animals taken by the police and remaining"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2367,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08661,
+   "seconds": 28.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "578"
+    },
+    {
+     "role": "running-head",
+     "text": "THIRTY–SEVENTH CONGRESS.  SESS. II.  CH. 180, 181.  1862."
+    },
+    {
+     "role": "body",
+     "text": "ment, as aforesaid, may, at the option of the President of the United States,"
+    },
+    {
+     "role": "body",
+     "text": "be absolutely null and void ; and any member of Congress or officer of the"
+    },
+    {
+     "role": "body",
+     "text": "United States convicted, as aforesaid, shall, moreover, be disqualified from"
+    },
+    {
+     "role": "body",
+     "text": "holding any office of honor, profit, or trust under the government of the"
+    },
+    {
+     "role": "body",
+     "text": "United States."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 16, 1862."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 16, 1862."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLXXXI.—An Act to amend an Act entitled “ An Act to create a Metropolitan Po-"
+    },
+    {
+     "role": "body",
+     "text": "lice District of the District of Columbia, and to establish a Police therefor,” approved"
+    },
+    {
+     "role": "sidenote",
+     "text": "1861, ch. 62."
+    },
+    {
+     "role": "body",
+     "text": "August six, eighteen hundred and sixty-one."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 320."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of 1861,"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the act entitled “ An act to"
+    },
+    {
+     "role": "sidenote",
+     "text": "ch. 62, amended."
+    },
+    {
+     "role": "body",
+     "text": "create a Metropolitan police district of the District of Columbia, and to"
+    },
+    {
+     "role": "body",
+     "text": "establish a police therefor,” approved August six, eighteen hundred and"
+    },
+    {
+     "role": "body",
+     "text": "sixty-one, be, and the same is hereby, amended as follows :"
+    },
+    {
+     "role": "sidenote",
+     "text": "Property stolen,"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 1. And be it further enacted, That all property, or money alleged"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c. to be in cus-"
+    },
+    {
+     "role": "body",
+     "text": "or supposed to have been feloniously obtained, or which shall be lost or"
+    },
+    {
+     "role": "sidenote",
+     "text": "tody of “property"
+    },
+    {
+     "role": "body",
+     "text": "abandoned, and which shall be thereafter taken into the custody of any"
+    },
+    {
+     "role": "sidenote",
+     "text": "clerk.”"
+    },
+    {
+     "role": "body",
+     "text": "member of the Metropolitan police force, or criminal court of the District"
+    },
+    {
+     "role": "body",
+     "text": "of Columbia, or which shall come into custody of any justice of the peace,"
+    },
+    {
+     "role": "body",
+     "text": "shall be, by such member or justice, or by order of said court, given into"
+    },
+    {
+     "role": "body",
+     "text": "the custody of and kept by an officer, who shall be appointed and may be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Register to be"
+    },
+    {
+     "role": "body",
+     "text": "removed by the Board of Police, known as “property clerk ” of the Me-"
+    },
+    {
+     "role": "sidenote",
+     "text": "kept."
+    },
+    {
+     "role": "body",
+     "text": "tropolitan police district, and all such property and money shall be par-"
+    },
+    {
+     "role": "body",
+     "text": "ticularly registered by said property clerk in a book kept for that purpose,"
+    },
+    {
+     "role": "body",
+     "text": "which shall contain also a record of the names of the persons from whom"
+    },
+    {
+     "role": "body",
+     "text": "such property or money was taken, the names of all claimants thereto, the"
+    },
+    {
+     "role": "body",
+     "text": "time of the seizure, and any final disposition of such property and money."
+    },
+    {
+     "role": "sidenote",
+     "text": "When and how"
+    },
+    {
+     "role": "body",
+     "text": "Whenever property or money shall be taken from persons arrested, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "such property"
+    },
+    {
+     "role": "body",
+     "text": "shall be alleged to have been feloniously obtained, or to be the proceeds of"
+    },
+    {
+     "role": "sidenote",
+     "text": "may be restored."
+    },
+    {
+     "role": "body",
+     "text": "crime, and whenever so brought with such claimant and the person ar-"
+    },
+    {
+     "role": "body",
+     "text": "rested before some magistrate for adjudication, and the magistrate shall be"
+    },
+    {
+     "role": "body",
+     "text": "then and there satisfied from evidence that the person arrested is innocent"
+    },
+    {
+     "role": "body",
+     "text": "of the offence alleged, and that the property rightfully belongs to him, then"
+    },
+    {
+     "role": "body",
+     "text": "said magistrate may thereupon, in writing, order such property or money"
+    },
+    {
+     "role": "body",
+     "text": "to be returned, and the property clerk, if he have it, to deliver such prop-"
+    },
+    {
+     "role": "body",
+     "text": "erty or money to the accused person himself, and not to any attorney,"
+    },
+    {
+     "role": "body",
+     "text": "agent, or clerk of such accused person.   If any claim to the ownership of"
+    },
+    {
+     "role": "body",
+     "text": "such property or money shall be made on oath before the magistrate, by or"
+    },
+    {
+     "role": "body",
+     "text": "in behalf of any other persons than the persons arrested, and the said ac-"
+    },
+    {
+     "role": "body",
+     "text": "cused person shall be held for trial or examination, such property or money"
+    },
+    {
+     "role": "body",
+     "text": "shall remain in the custody of the property clerk until the discharge or"
+    },
+    {
+     "role": "body",
+     "text": "conviction of the persons accused.   All property or money taken on sus-"
+    },
+    {
+     "role": "body",
+     "text": "picion of having been feloniously obtained, or of being the proceeds of"
+    },
+    {
+     "role": "body",
+     "text": "crime, and for which there is no other claimant than the person from whom"
+    },
+    {
+     "role": "body",
+     "text": "such property was taken, and all lost property coming into the possession"
+    },
+    {
+     "role": "body",
+     "text": "of any member of the said Metropolitan police force, and all property and"
+    },
+    {
+     "role": "body",
+     "text": "money taken from pawnbrokers as the proceeds of crime, or by any such"
+    },
+    {
+     "role": "body",
+     "text": "member from persons supposed to be insane, intoxicated, or otherwise in-"
+    },
+    {
+     "role": "body",
+     "text": "capable of taking care of themselves, shall be transmitted as soon as prac-"
+    },
+    {
+     "role": "body",
+     "text": "ticable to the property clerk of the Metropolitan police district, to be duly"
+    },
+    {
+     "role": "body",
+     "text": "registered and advertised for the benefit of all persons and parties inter-"
+    },
+    {
+     "role": "body",
+     "text": "ested, and for the information of the public as to the amount and disposi-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the property so taken into custody by the police.   All property and"
+    },
+    {
+     "role": "sidenote",
+     "text": "When to be sold"
+    },
+    {
+     "role": "body",
+     "text": "money that shall remain in the custody of the property clerk for the period"
+    },
+    {
+     "role": "sidenote",
+     "text": "at public auction."
+    },
+    {
+     "role": "body",
+     "text": "of six months without any lawful claimant thereto, after having been three"
+    },
+    {
+     "role": "body",
+     "text": "times advertised in public newspapers, shall be sold at public auction, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Horses and per-"
+    },
+    {
+     "role": "body",
+     "text": "the proceeds of such sale shall be paid into the policemen's fund: Pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ishable property."
+    },
+    {
+     "role": "body",
+     "text": "vided, That horses and other animals taken by the police and remaining"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2381,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08695,
+   "seconds": 30.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12393,
+   "output_tokens": 2623,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.12796,
+  "seconds": 33.0,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "578        THIRTY–SEVENTH CONGRESS.  SESS. II.  CH. 180, 181.  1862.",
+    "b": "578\nTHIRTY–SEVENTH CONGRESS.  SESS. II.  CH. 180, 181.  1862.",
+    "kept": "578\nTHIRTY–SEVENTH CONGRESS.  SESS. II.  CH. 180, 181.  1862.",
+    "reason": "The folio 578 is a separate page number at left; the running head follows."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "August six, eighteen hundred and sixty-one.",
+    "kept": "",
+    "reason": "The body line belongs after the sidenote 'Ante, p. 320.', which stands level with it."
+   },
+   {
+    "run": 3,
+    "a": "August six, eighteen hundred and sixty-one.",
+    "b": "",
+    "kept": "August six, eighteen hundred and sixty-one.",
+    "reason": "Third heading line follows the two sidenote lines it is aligned with."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "abandoned, and which shall be thereafter taken into the custody of any",
+    "kept": "abandoned, and which shall be thereafter taken into the custody of any",
+    "reason": "This body line sits level with 'tody of “property' and above the sidenote line 'clerk.”'."
+   },
+   {
+    "run": 5,
+    "a": "abandoned, and which shall be thereafter taken into the custody of any",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 4."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "removed by the Board of Police, known as “property clerk ” of the Me-",
+    "kept": "removed by the Board of Police, known as “property clerk ” of the Me-",
+    "reason": "Line is level with 'Register to be' and precedes 'kept.'; image shows a space before the closing quote."
+   },
+   {
+    "run": 7,
+    "a": "removed by the Board of Police, known as “property clerk” of the Me-",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 6."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "Whenever property or money shall be taken from persons arrested, and",
+    "kept": "Whenever property or money shall be taken from persons arrested, and",
+    "reason": "Level with sidenote 'When and how'."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "shall be alleged to have been feloniously obtained, or to be the proceeds of",
+    "kept": "shall be alleged to have been feloniously obtained, or to be the proceeds of",
+    "reason": "Level with sidenote 'such property', before 'may be restored.'"
+   },
+   {
+    "run": 10,
+    "a": "Whenever property or money shall be taken from persons arrested, and\nshall be alleged to have been feloniously obtained, or to be the proceeds of",
+    "b": "",
+    "kept": "",
+    "reason": "Both lines already placed in runs 8 and 9."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "money that shall remain in the custody of the property clerk for the period",
+    "kept": "money that shall remain in the custody of the property clerk for the period",
+    "reason": "Level with sidenote 'When to be sold', before 'at public auction.'"
+   },
+   {
+    "run": 12,
+    "a": "money that shall remain in the custody of the property clerk for the period",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 11."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "the proceeds of such sale shall be paid into the policemen's fund: Pro-",
+    "kept": "the proceeds of such sale shall be paid into the policemen's fund: Pro-",
+    "reason": "Level with sidenote 'Horses and per-', before 'ishable property.'"
+   },
+   {
+    "run": 14,
+    "a": "the proceeds of such sale shall be paid into the policemen's fund: Pro-",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 13."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "578"
+  },
+  {
+   "role": "running-head",
+   "text": "THIRTY–SEVENTH CONGRESS.  SESS. II.  CH. 180, 181.  1862."
+  },
+  {
+   "role": "body",
+   "text": "ment, as aforesaid, may, at the option of the President of the United States,"
+  },
+  {
+   "role": "body",
+   "text": "be absolutely null and void ; and any member of Congress or officer of the"
+  },
+  {
+   "role": "body",
+   "text": "United States convicted, as aforesaid, shall, moreover, be disqualified from"
+  },
+  {
+   "role": "body",
+   "text": "holding any office of honor, profit, or trust under the government of the"
+  },
+  {
+   "role": "body",
+   "text": "United States."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, July 16, 1862."
+  },
+  {
+   "role": "sidenote",
+   "text": "July 16, 1862."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CLXXXI.—An Act to amend an Act entitled “ An Act to create a Metropolitan Po-"
+  },
+  {
+   "role": "body",
+   "text": "lice District of the District of Columbia, and to establish a Police therefor,” approved"
+  },
+  {
+   "role": "sidenote",
+   "text": "1861, ch. 62."
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 320."
+  },
+  {
+   "role": "body",
+   "text": "August six, eighteen hundred and sixty-one."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of 1861,"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the act entitled “ An act to"
+  },
+  {
+   "role": "sidenote",
+   "text": "ch. 62, amended."
+  },
+  {
+   "role": "body",
+   "text": "create a Metropolitan police district of the District of Columbia, and to"
+  },
+  {
+   "role": "body",
+   "text": "establish a police therefor,” approved August six, eighteen hundred and"
+  },
+  {
+   "role": "body",
+   "text": "sixty-one, be, and the same is hereby, amended as follows :"
+  },
+  {
+   "role": "sidenote",
+   "text": "Property stolen,"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 1. And be it further enacted, That all property, or money alleged"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c. to be in cus-"
+  },
+  {
+   "role": "body",
+   "text": "or supposed to have been feloniously obtained, or which shall be lost or"
+  },
+  {
+   "role": "sidenote",
+   "text": "tody of “property"
+  },
+  {
+   "role": "body",
+   "text": "abandoned, and which shall be thereafter taken into the custody of any"
+  },
+  {
+   "role": "sidenote",
+   "text": "clerk.”"
+  },
+  {
+   "role": "body",
+   "text": "member of the Metropolitan police force, or criminal court of the District"
+  },
+  {
+   "role": "body",
+   "text": "of Columbia, or which shall come into custody of any justice of the peace,"
+  },
+  {
+   "role": "body",
+   "text": "shall be, by such member or justice, or by order of said court, given into"
+  },
+  {
+   "role": "body",
+   "text": "the custody of and kept by an officer, who shall be appointed and may be"
+  },
+  {
+   "role": "sidenote",
+   "text": "Register to be"
+  },
+  {
+   "role": "body",
+   "text": "removed by the Board of Police, known as “property clerk ” of the Me-"
+  },
+  {
+   "role": "sidenote",
+   "text": "kept."
+  },
+  {
+   "role": "body",
+   "text": "tropolitan police district, and all such property and money shall be par-"
+  },
+  {
+   "role": "body",
+   "text": "ticularly registered by said property clerk in a book kept for that purpose,"
+  },
+  {
+   "role": "body",
+   "text": "which shall contain also a record of the names of the persons from whom"
+  },
+  {
+   "role": "body",
+   "text": "such property or money was taken, the names of all claimants thereto, the"
+  },
+  {
+   "role": "body",
+   "text": "time of the seizure, and any final disposition of such property and money."
+  },
+  {
+   "role": "sidenote",
+   "text": "When and how"
+  },
+  {
+   "role": "body",
+   "text": "Whenever property or money shall be taken from persons arrested, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "such property"
+  },
+  {
+   "role": "body",
+   "text": "shall be alleged to have been feloniously obtained, or to be the proceeds of"
+  },
+  {
+   "role": "sidenote",
+   "text": "may be restored."
+  },
+  {
+   "role": "body",
+   "text": "crime, and whenever so brought with such claimant and the person ar-"
+  },
+  {
+   "role": "body",
+   "text": "rested before some magistrate for adjudication, and the magistrate shall be"
+  },
+  {
+   "role": "body",
+   "text": "then and there satisfied from evidence that the person arrested is innocent"
+  },
+  {
+   "role": "body",
+   "text": "of the offence alleged, and that the property rightfully belongs to him, then"
+  },
+  {
+   "role": "body",
+   "text": "said magistrate may thereupon, in writing, order such property or money"
+  },
+  {
+   "role": "body",
+   "text": "to be returned, and the property clerk, if he have it, to deliver such prop-"
+  },
+  {
+   "role": "body",
+   "text": "erty or money to the accused person himself, and not to any attorney,"
+  },
+  {
+   "role": "body",
+   "text": "agent, or clerk of such accused person.   If any claim to the ownership of"
+  },
+  {
+   "role": "body",
+   "text": "such property or money shall be made on oath before the magistrate, by or"
+  },
+  {
+   "role": "body",
+   "text": "in behalf of any other persons than the persons arrested, and the said ac-"
+  },
+  {
+   "role": "body",
+   "text": "cused person shall be held for trial or examination, such property or money"
+  },
+  {
+   "role": "body",
+   "text": "shall remain in the custody of the property clerk until the discharge or"
+  },
+  {
+   "role": "body",
+   "text": "conviction of the persons accused.   All property or money taken on sus-"
+  },
+  {
+   "role": "body",
+   "text": "picion of having been feloniously obtained, or of being the proceeds of"
+  },
+  {
+   "role": "body",
+   "text": "crime, and for which there is no other claimant than the person from whom"
+  },
+  {
+   "role": "body",
+   "text": "such property was taken, and all lost property coming into the possession"
+  },
+  {
+   "role": "body",
+   "text": "of any member of the said Metropolitan police force, and all property and"
+  },
+  {
+   "role": "body",
+   "text": "money taken from pawnbrokers as the proceeds of crime, or by any such"
+  },
+  {
+   "role": "body",
+   "text": "member from persons supposed to be insane, intoxicated, or otherwise in-"
+  },
+  {
+   "role": "body",
+   "text": "capable of taking care of themselves, shall be transmitted as soon as prac-"
+  },
+  {
+   "role": "body",
+   "text": "ticable to the property clerk of the Metropolitan police district, to be duly"
+  },
+  {
+   "role": "body",
+   "text": "registered and advertised for the benefit of all persons and parties inter-"
+  },
+  {
+   "role": "body",
+   "text": "ested, and for the information of the public as to the amount and disposi-"
+  },
+  {
+   "role": "body",
+   "text": "tion of the property so taken into custody by the police.   All property and"
+  },
+  {
+   "role": "sidenote",
+   "text": "When to be sold"
+  },
+  {
+   "role": "body",
+   "text": "money that shall remain in the custody of the property clerk for the period"
+  },
+  {
+   "role": "sidenote",
+   "text": "at public auction."
+  },
+  {
+   "role": "body",
+   "text": "of six months without any lawful claimant thereto, after having been three"
+  },
+  {
+   "role": "body",
+   "text": "times advertised in public newspapers, shall be sold at public auction, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Horses and per-"
+  },
+  {
+   "role": "body",
+   "text": "the proceeds of such sale shall be paid into the policemen's fund: Pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ishable property."
+  },
+  {
+   "role": "body",
+   "text": "vided, That horses and other animals taken by the police and remaining"
+  }
+ ],
+ "disagreement_count": 14,
+ "tokens": {
+  "input_tokens": 23216,
+  "output_tokens": 7371,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.30152,
+ "seconds": 91.6,
+ "created": "2026-09-08T11:22:51"
+}

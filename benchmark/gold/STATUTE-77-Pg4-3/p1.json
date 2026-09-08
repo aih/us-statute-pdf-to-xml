@@ -1,0 +1,1117 @@
+{
+ "granule_id": "STATUTE-77-Pg4-3",
+ "package_id": "STATUTE-77",
+ "volume": 77,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend the Internal Revenue Code of 1954 to provide that the deduction for child care expenses shall be available to a wife who has been deserted by and cannot locate her husband on the same ",
+ "date_issued": "1963-04-02",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "4",
+ "image": "data/gold/STATUTE-77-Pg4-3/p1.png",
+ "image_sha256": "9b9791dee75e5fa1ac2a5410d253e9aa6924e3ea0aa931cc6b4316a5d82c4a39",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "4"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 88-2–MAR. 28, 1963"
+    },
+    {
+     "role": "running-head",
+     "text": "[77 STAT."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-2"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 28, 1963"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 2438]"
+    },
+    {
+     "role": "body",
+     "text": "To extend the induction provisions of the Universal Military Training and"
+    },
+    {
+     "role": "body",
+     "text": "Service Act, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Draft extension,"
+    },
+    {
+     "role": "sidenote",
+     "text": "etc."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 17(c)"
+    },
+    {
+     "role": "body",
+     "text": "of the Universal Military Training and Service Act, as amended (50"
+    },
+    {
+     "role": "sidenote",
+     "text": "73 Stat. 13."
+    },
+    {
+     "role": "body",
+     "text": "App. U.S.C. 467(c)), is amended by striking out “July 1, 1963” and"
+    },
+    {
+     "role": "body",
+     "text": "inserting in place thereof “July 1, 1967”."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Section 1 of the Act of August 3, 1950, chapter 537, as"
+    },
+    {
+     "role": "sidenote",
+     "text": "10 USC 3201"
+    },
+    {
+     "role": "body",
+     "text": "amended (73 Stat. 13), is amended by striking out “July 1, 1963” and"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "inserting in place thereof “July 1, 1967”."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. Section 16 of the Dependents Assistance Act of 1950, as"
+    },
+    {
+     "role": "sidenote",
+     "text": "73 Stat. 13."
+    },
+    {
+     "role": "body",
+     "text": "amended (50 App. U.S.C. 2216), is amended by striking out “July"
+    },
+    {
+     "role": "body",
+     "text": "1, 1963” and inserting in place thereof “July 1, 1967”."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. Section 9 of the Act of June 27, 1957, Public Law 85–62, as"
+    },
+    {
+     "role": "sidenote",
+     "text": "50 USC app."
+    },
+    {
+     "role": "sidenote",
+     "text": "454 note."
+    },
+    {
+     "role": "body",
+     "text": "amended (73 Stat. 13), is amended by striking out “July 1, 1963” and"
+    },
+    {
+     "role": "body",
+     "text": "inserting in place thereof “July 1, 1967”."
+    },
+    {
+     "role": "sidenote",
+     "text": "76 Stat. 464,"
+    },
+    {
+     "role": "sidenote",
+     "text": "465."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. Sections 302 and 303 of title 37, United States Code, are"
+    },
+    {
+     "role": "body",
+     "text": "each amended by striking out “July 1, 1963” wherever that date"
+    },
+    {
+     "role": "body",
+     "text": "appears and inserting in place thereof “July 1, 1967”."
+    },
+    {
+     "role": "body",
+     "text": "Approved March 28, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-3"
+    },
+    {
+     "role": "sidenote",
+     "text": "April 2, 1963"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 212]"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 904, title 38, United States Code, so that burial allowances"
+    },
+    {
+     "role": "body",
+     "text": "might be paid in cases where discharges were changed by competent"
+    },
+    {
+     "role": "body",
+     "text": "authority after death of the veteran from dishonorable to conditions other"
+    },
+    {
+     "role": "body",
+     "text": "than dishonorable."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Deceased vet-"
+    },
+    {
+     "role": "sidenote",
+     "text": "erans."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 904,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Burial expenses."
+    },
+    {
+     "role": "body",
+     "text": "title 38, United States Code, is amended by inserting immediately"
+    },
+    {
+     "role": "sidenote",
+     "text": "72 Stat. 1170."
+    },
+    {
+     "role": "body",
+     "text": "after the first sentence thereof the following new sentence: “If the"
+    },
+    {
+     "role": "body",
+     "text": "burial allowance was not payable at the death of the veteran because"
+    },
+    {
+     "role": "body",
+     "text": "of the nature of his discharge from the service, but after his death his"
+    },
+    {
+     "role": "body",
+     "text": "discharge has been corrected by competent authority so as to reflect"
+    },
+    {
+     "role": "body",
+     "text": "a discharge from the service under conditions other than dishonorable,"
+    },
+    {
+     "role": "body",
+     "text": "then the burial allowance may be paid if a claim is filed within two"
+    },
+    {
+     "role": "body",
+     "text": "years from whichever last occurs, the date of correction of the"
+    },
+    {
+     "role": "body",
+     "text": "discharge or the date of enactment of this sentence.”"
+    },
+    {
+     "role": "body",
+     "text": "Approved April 2, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-4"
+    },
+    {
+     "role": "sidenote",
+     "text": "April 2, 1963"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 2085]"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Internal Revenue Code of 1954 to provide that the deduction for"
+    },
+    {
+     "role": "body",
+     "text": "child care expenses shall be available to a wife who has been deserted by and"
+    },
+    {
+     "role": "body",
+     "text": "cannot locate her husband on the same basis as a single woman."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and the House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Income taxes."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section"
+    },
+    {
+     "role": "sidenote",
+     "text": "Child care ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "penses, deduc-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion."
+    },
+    {
+     "role": "body",
+     "text": "214(c)(3) of the Internal Revenue Code of 1954 (relating to determi-"
+    },
+    {
+     "role": "body",
+     "text": "nation of marital status for purposes of the deduction for child care"
+    },
+    {
+     "role": "sidenote",
+     "text": "68A Stat. 70."
+    },
+    {
+     "role": "body",
+     "text": "expenses) is amended by inserting “(A)” after “if” and bv inserting"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2432,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08823,
+   "seconds": 108.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "4"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 88-2–MAR. 28, 1963"
+    },
+    {
+     "role": "running-head",
+     "text": "[77 STAT."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-2"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 28, 1963"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 2438]"
+    },
+    {
+     "role": "body",
+     "text": "To extend the induction provisions of the Universal Military Training and"
+    },
+    {
+     "role": "body",
+     "text": "Service Act, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Draft extension,"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 17(c)"
+    },
+    {
+     "role": "sidenote",
+     "text": "etc."
+    },
+    {
+     "role": "body",
+     "text": "of the Universal Military Training and Service Act, as amended (50"
+    },
+    {
+     "role": "sidenote",
+     "text": "73 Stat. 13."
+    },
+    {
+     "role": "body",
+     "text": "App. U.S.C. 467(c)), is amended by striking out “July 1, 1963” and"
+    },
+    {
+     "role": "body",
+     "text": "inserting in place thereof “July 1, 1967”."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Section 1 of the Act of August 3, 1950, chapter 537, as"
+    },
+    {
+     "role": "sidenote",
+     "text": "10 USC 3201"
+    },
+    {
+     "role": "body",
+     "text": "amended (73 Stat. 13), is amended by striking out “July 1, 1963” and"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "inserting in place thereof “July 1, 1967”."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. Section 16 of the Dependents Assistance Act of 1950, as"
+    },
+    {
+     "role": "sidenote",
+     "text": "73 Stat. 13."
+    },
+    {
+     "role": "body",
+     "text": "amended (50 App. U.S.C. 2216), is amended by striking out “July"
+    },
+    {
+     "role": "body",
+     "text": "1, 1963” and inserting in place thereof “July 1, 1967”."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. Section 9 of the Act of June 27, 1957, Public Law 85–62, as"
+    },
+    {
+     "role": "sidenote",
+     "text": "50 USC app."
+    },
+    {
+     "role": "body",
+     "text": "amended (73 Stat. 13), is amended by striking out “July 1, 1963” and"
+    },
+    {
+     "role": "sidenote",
+     "text": "454 note."
+    },
+    {
+     "role": "body",
+     "text": "inserting in place thereof “July 1, 1967”."
+    },
+    {
+     "role": "sidenote",
+     "text": "76 Stat. 464,"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. Sections 302 and 303 of title 37, United States Code, are"
+    },
+    {
+     "role": "sidenote",
+     "text": "465."
+    },
+    {
+     "role": "body",
+     "text": "each amended by striking out “July 1, 1963” wherever that date"
+    },
+    {
+     "role": "body",
+     "text": "appears and inserting in place thereof “July 1, 1967”."
+    },
+    {
+     "role": "body",
+     "text": "Approved March 28, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-3"
+    },
+    {
+     "role": "sidenote",
+     "text": "April 2, 1963"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 212]"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 904, title 38, United States Code, so that burial allowances"
+    },
+    {
+     "role": "body",
+     "text": "might be paid in cases where discharges were changed by competent"
+    },
+    {
+     "role": "body",
+     "text": "authority after death of the veteran from dishonorable to conditions other"
+    },
+    {
+     "role": "body",
+     "text": "than dishonorable."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Deceased vet-"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 904,"
+    },
+    {
+     "role": "sidenote",
+     "text": "erans."
+    },
+    {
+     "role": "body",
+     "text": "title 38, United States Code, is amended by inserting immediately"
+    },
+    {
+     "role": "sidenote",
+     "text": "Burial expenses."
+    },
+    {
+     "role": "body",
+     "text": "after the first sentence thereof the following new sentence: “If the"
+    },
+    {
+     "role": "sidenote",
+     "text": "72 Stat. 1170."
+    },
+    {
+     "role": "body",
+     "text": "burial allowance was not payable at the death of the veteran because"
+    },
+    {
+     "role": "body",
+     "text": "of the nature of his discharge from the service, but after his death his"
+    },
+    {
+     "role": "body",
+     "text": "discharge has been corrected by competent authority so as to reflect"
+    },
+    {
+     "role": "body",
+     "text": "a discharge from the service under conditions other than dishonorable,"
+    },
+    {
+     "role": "body",
+     "text": "then the burial allowance may be paid if a claim is filed within two"
+    },
+    {
+     "role": "body",
+     "text": "years from whichever last occurs, the date of correction of the"
+    },
+    {
+     "role": "body",
+     "text": "discharge or the date of enactment of this sentence.”"
+    },
+    {
+     "role": "body",
+     "text": "Approved April 2, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-4"
+    },
+    {
+     "role": "sidenote",
+     "text": "April 2, 1963"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 2085]"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Internal Revenue Code of 1954 to provide that the deduction for"
+    },
+    {
+     "role": "body",
+     "text": "child care expenses shall be available to a wife who has been deserted by and"
+    },
+    {
+     "role": "body",
+     "text": "cannot locate her husband on the same basis as a single woman."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and the House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Income taxes."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section"
+    },
+    {
+     "role": "sidenote",
+     "text": "Child care ex-"
+    },
+    {
+     "role": "body",
+     "text": "214(c)(3) of the Internal Revenue Code of 1954 (relating to determi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "penses, deduc-"
+    },
+    {
+     "role": "body",
+     "text": "nation of marital status for purposes of the deduction for child care"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion."
+    },
+    {
+     "role": "sidenote",
+     "text": "68A Stat. 70."
+    },
+    {
+     "role": "body",
+     "text": "expenses) is amended by inserting “(A)” after “if” and bv inserting"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2220,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08293,
+   "seconds": 111.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11910,
+   "output_tokens": 1529,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.09819,
+  "seconds": 130.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "United States of America in Congress assembled, That section 17(c)",
+    "kept": "United States of America in Congress assembled, That section 17(c)",
+    "reason": "Sidenote \"Draft extension,\" is set beside this body line; \"etc.\" aligns with the next line."
+   },
+   {
+    "run": 2,
+    "a": "United States of America in Congress assembled, That section 17(c)",
+    "b": "",
+    "kept": "",
+    "reason": "The line was already placed at run 1; nothing printed here."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "amended (73 Stat. 13), is amended by striking out “July 1, 1963” and",
+    "kept": "amended (73 Stat. 13), is amended by striking out “July 1, 1963” and",
+    "reason": "Sidenote \"50 USC app.\" is level with this body line; \"454 note.\" with the following line."
+   },
+   {
+    "run": 4,
+    "a": "amended (73 Stat. 13), is amended by striking out “July 1, 1963” and",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed at run 3."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "SEC. 5. Sections 302 and 303 of title 37, United States Code, are",
+    "kept": "SEC. 5. Sections 302 and 303 of title 37, United States Code, are",
+    "reason": "Sidenote \"76 Stat. 464,\" is level with the SEC. 5 line; \"465.\" with the next line."
+   },
+   {
+    "run": 6,
+    "a": "SEC. 5. Sections 302 and 303 of title 37, United States Code, are",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed at run 5."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "United States of America in Congress assembled, That section 904,",
+    "kept": "United States of America in Congress assembled, That section 904,",
+    "reason": "Sidenote \"Deceased vet-\" is level with this body line."
+   },
+   {
+    "run": 8,
+    "a": "United States of America in Congress assembled, That section 904,",
+    "b": "title 38, United States Code, is amended by inserting immediately",
+    "kept": "title 38, United States Code, is amended by inserting immediately",
+    "reason": "Follows sidenote \"erans.\", which is level with this line."
+   },
+   {
+    "run": 9,
+    "a": "title 38, United States Code, is amended by inserting immediately",
+    "b": "after the first sentence thereof the following new sentence: “If the",
+    "kept": "after the first sentence thereof the following new sentence: “If the",
+    "reason": "Follows sidenote \"Burial expenses.\", which is level with this line."
+   },
+   {
+    "run": 10,
+    "a": "after the first sentence thereof the following new sentence: “If the",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed at run 9."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "214(c)(3) of the Internal Revenue Code of 1954 (relating to determi-",
+    "kept": "214(c)(3) of the Internal Revenue Code of 1954 (relating to determi-",
+    "reason": "Sidenote \"Child care ex-\" is level with this body line."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "nation of marital status for purposes of the deduction for child care",
+    "kept": "nation of marital status for purposes of the deduction for child care",
+    "reason": "Sidenote \"penses, deduc-\" is level with this body line."
+   },
+   {
+    "run": 13,
+    "a": "214(c)(3) of the Internal Revenue Code of 1954 (relating to determi-\nnation of marital status for purposes of the deduction for child care",
+    "b": "",
+    "kept": "",
+    "reason": "Both lines already placed at runs 11 and 12."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "4"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 88-2–MAR. 28, 1963"
+  },
+  {
+   "role": "running-head",
+   "text": "[77 STAT."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 88-2"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 28, 1963"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 2438]"
+  },
+  {
+   "role": "body",
+   "text": "To extend the induction provisions of the Universal Military Training and"
+  },
+  {
+   "role": "body",
+   "text": "Service Act, and for other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Draft extension,"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That section 17(c)"
+  },
+  {
+   "role": "sidenote",
+   "text": "etc."
+  },
+  {
+   "role": "body",
+   "text": "of the Universal Military Training and Service Act, as amended (50"
+  },
+  {
+   "role": "sidenote",
+   "text": "73 Stat. 13."
+  },
+  {
+   "role": "body",
+   "text": "App. U.S.C. 467(c)), is amended by striking out “July 1, 1963” and"
+  },
+  {
+   "role": "body",
+   "text": "inserting in place thereof “July 1, 1967”."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. Section 1 of the Act of August 3, 1950, chapter 537, as"
+  },
+  {
+   "role": "sidenote",
+   "text": "10 USC 3201"
+  },
+  {
+   "role": "body",
+   "text": "amended (73 Stat. 13), is amended by striking out “July 1, 1963” and"
+  },
+  {
+   "role": "sidenote",
+   "text": "note."
+  },
+  {
+   "role": "body",
+   "text": "inserting in place thereof “July 1, 1967”."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. Section 16 of the Dependents Assistance Act of 1950, as"
+  },
+  {
+   "role": "sidenote",
+   "text": "73 Stat. 13."
+  },
+  {
+   "role": "body",
+   "text": "amended (50 App. U.S.C. 2216), is amended by striking out “July"
+  },
+  {
+   "role": "body",
+   "text": "1, 1963” and inserting in place thereof “July 1, 1967”."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. Section 9 of the Act of June 27, 1957, Public Law 85–62, as"
+  },
+  {
+   "role": "sidenote",
+   "text": "50 USC app."
+  },
+  {
+   "role": "body",
+   "text": "amended (73 Stat. 13), is amended by striking out “July 1, 1963” and"
+  },
+  {
+   "role": "sidenote",
+   "text": "454 note."
+  },
+  {
+   "role": "body",
+   "text": "inserting in place thereof “July 1, 1967”."
+  },
+  {
+   "role": "sidenote",
+   "text": "76 Stat. 464,"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. Sections 302 and 303 of title 37, United States Code, are"
+  },
+  {
+   "role": "sidenote",
+   "text": "465."
+  },
+  {
+   "role": "body",
+   "text": "each amended by striking out “July 1, 1963” wherever that date"
+  },
+  {
+   "role": "body",
+   "text": "appears and inserting in place thereof “July 1, 1967”."
+  },
+  {
+   "role": "body",
+   "text": "Approved March 28, 1963."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 88-3"
+  },
+  {
+   "role": "sidenote",
+   "text": "April 2, 1963"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 212]"
+  },
+  {
+   "role": "body",
+   "text": "To amend section 904, title 38, United States Code, so that burial allowances"
+  },
+  {
+   "role": "body",
+   "text": "might be paid in cases where discharges were changed by competent"
+  },
+  {
+   "role": "body",
+   "text": "authority after death of the veteran from dishonorable to conditions other"
+  },
+  {
+   "role": "body",
+   "text": "than dishonorable."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Deceased vet-"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That section 904,"
+  },
+  {
+   "role": "sidenote",
+   "text": "erans."
+  },
+  {
+   "role": "body",
+   "text": "title 38, United States Code, is amended by inserting immediately"
+  },
+  {
+   "role": "sidenote",
+   "text": "Burial expenses."
+  },
+  {
+   "role": "body",
+   "text": "after the first sentence thereof the following new sentence: “If the"
+  },
+  {
+   "role": "sidenote",
+   "text": "72 Stat. 1170."
+  },
+  {
+   "role": "body",
+   "text": "burial allowance was not payable at the death of the veteran because"
+  },
+  {
+   "role": "body",
+   "text": "of the nature of his discharge from the service, but after his death his"
+  },
+  {
+   "role": "body",
+   "text": "discharge has been corrected by competent authority so as to reflect"
+  },
+  {
+   "role": "body",
+   "text": "a discharge from the service under conditions other than dishonorable,"
+  },
+  {
+   "role": "body",
+   "text": "then the burial allowance may be paid if a claim is filed within two"
+  },
+  {
+   "role": "body",
+   "text": "years from whichever last occurs, the date of correction of the"
+  },
+  {
+   "role": "body",
+   "text": "discharge or the date of enactment of this sentence.”"
+  },
+  {
+   "role": "body",
+   "text": "Approved April 2, 1963."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 88-4"
+  },
+  {
+   "role": "sidenote",
+   "text": "April 2, 1963"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 2085]"
+  },
+  {
+   "role": "body",
+   "text": "To amend the Internal Revenue Code of 1954 to provide that the deduction for"
+  },
+  {
+   "role": "body",
+   "text": "child care expenses shall be available to a wife who has been deserted by and"
+  },
+  {
+   "role": "body",
+   "text": "cannot locate her husband on the same basis as a single woman."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and the House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Income taxes."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That section"
+  },
+  {
+   "role": "sidenote",
+   "text": "Child care ex-"
+  },
+  {
+   "role": "body",
+   "text": "214(c)(3) of the Internal Revenue Code of 1954 (relating to determi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "penses, deduc-"
+  },
+  {
+   "role": "body",
+   "text": "nation of marital status for purposes of the deduction for child care"
+  },
+  {
+   "role": "sidenote",
+   "text": "tion."
+  },
+  {
+   "role": "sidenote",
+   "text": "68A Stat. 70."
+  },
+  {
+   "role": "body",
+   "text": "expenses) is amended by inserting “(A)” after “if” and bv inserting"
+  }
+ ],
+ "disagreement_count": 13,
+ "tokens": {
+  "input_tokens": 22733,
+  "output_tokens": 6181,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.26935,
+ "seconds": 350.4,
+ "created": "2026-09-08T12:11:45"
+}

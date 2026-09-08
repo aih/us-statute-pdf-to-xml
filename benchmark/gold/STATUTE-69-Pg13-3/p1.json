@@ -1,0 +1,967 @@
+{
+ "granule_id": "STATUTE-69-Pg13-3",
+ "package_id": "STATUTE-69",
+ "volume": 69,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "Joint resolution to amend the joint resolution of March 25,1953, relating to electrical or mechanical office equipment for the use of Members, officers, and committees of the House of Representatives",
+ "date_issued": "1955-03-25",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "13",
+ "image": "data/gold/STATUTE-69-Pg13-3/p1.png",
+ "image_sha256": "54fbf8ea5074eac444716fa5f42791c5c19dad3c048df7c4bb8f08b512f45032",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "69 STAT.]                    PUBLIC LAW 15—MAR. 25, 1955"
+    },
+    {
+     "role": "page-number",
+     "text": "13"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 13                                        CHAPTER 13"
+    },
+    {
+     "role": "body",
+     "text": "JOINT RESOLUTION"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 21, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. J. Res. 252]"
+    },
+    {
+     "role": "body",
+     "text": "Making an additional appropriation for the Department of Justice for the fiscal"
+    },
+    {
+     "role": "body",
+     "text": "year 1955, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That there is hereby appro-"
+    },
+    {
+     "role": "body",
+     "text": "priated, out of any money in the Treasury not otherwise appropriated,"
+    },
+    {
+     "role": "body",
+     "text": "for the fiscal year ending June 30, 1955, the following sum:"
+    },
+    {
+     "role": "body",
+     "text": "DEPARTMENT OF JUSTICE"
+    },
+    {
+     "role": "body",
+     "text": "LEGAL ACTIVITIES AND GENERAL ADMINISTRATION"
+    },
+    {
+     "role": "body",
+     "text": "FEES AND EXPENSES OF WITNESSES"
+    },
+    {
+     "role": "body",
+     "text": "For an additional amount for \"Fees and expenses of witnesses\","
+    },
+    {
+     "role": "body",
+     "text": "$710,000."
+    },
+    {
+     "role": "body",
+     "text": "Approved March 21, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 14                                        CHAPTER 14"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 23, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 942]"
+    },
+    {
+     "role": "body",
+     "text": "To repeal Public Law 820, Eightieth Congress (62 Stat. 1098), entitled \"An Act"
+    },
+    {
+     "role": "body",
+     "text": "to provide a revolving fund for the purchase of agricultural commodities"
+    },
+    {
+     "role": "body",
+     "text": "and raw materials to be processed in occupied areas and sold.\""
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That Public Law"
+    },
+    {
+     "role": "sidenote",
+     "text": "5 USC 234-234f."
+    },
+    {
+     "role": "body",
+     "text": "820, Eightieth Congress (62 Stat. 1098). entitled \"An Act to provide"
+    },
+    {
+     "role": "body",
+     "text": "a revolving fund for the purchase of agricultural commodities and"
+    },
+    {
+     "role": "body",
+     "text": "raw materials to be processed in occupied areas and sold\", is hereby"
+    },
+    {
+     "role": "body",
+     "text": "repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective date."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. This Act shall take effect on June 30, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Approved March 23, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 15                                        CHAPTER 15"
+    },
+    {
+     "role": "body",
+     "text": "JOINT RESOLUTION"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 25, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. J. Res. 250]"
+    },
+    {
+     "role": "body",
+     "text": "To amend the joint resolution of March 25, 1953, relating to electrical or mechani-"
+    },
+    {
+     "role": "body",
+     "text": "cal office equipment for the use of Members, officers, and committees of the"
+    },
+    {
+     "role": "body",
+     "text": "House of Representatives."
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "House of Repre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sentatives."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That subsection (c) of the"
+    },
+    {
+     "role": "body",
+     "text": "first section of the joint resolution entitled \"Joint resolution to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Electrical or"
+    },
+    {
+     "role": "sidenote",
+     "text": "mechanical office"
+    },
+    {
+     "role": "sidenote",
+     "text": "equipment."
+    },
+    {
+     "role": "body",
+     "text": "authorize the Clerk of the House of Representatives to furnish certain"
+    },
+    {
+     "role": "body",
+     "text": "electrical or mechanical office equipment for the use of Members,"
+    },
+    {
+     "role": "body",
+     "text": "officers, and committees of the House of Representatives\", approved"
+    },
+    {
+     "role": "sidenote",
+     "text": "67 Stat. 7."
+    },
+    {
+     "role": "body",
+     "text": "March 25, 1953 (2 U. S. C., sec. 112a (c)), is amended by striking out"
+    },
+    {
+     "role": "body",
+     "text": "\"not more than two of each of\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The first section of such joint resolution is further amended"
+    },
+    {
+     "role": "body",
+     "text": "by adding after subsection (c) thereof the following new subsection:"
+    },
+    {
+     "role": "body",
+     "text": "\"(d) Except in case of electric typewriters, not more than two of"
+    },
+    {
+     "role": "body",
+     "text": "each of the general types of equipment described in subsection (c)"
+    },
+    {
+     "role": "body",
+     "text": "may be furnished under this joint resolution for use in the office of a"
+    },
+    {
+     "role": "body",
+     "text": "Member, officer, or committee.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved March 25, 1955."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5186,
+    "output_tokens": 2024,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07691,
+   "seconds": 22.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "69 STAT.]"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 15—MAR. 25, 1955"
+    },
+    {
+     "role": "page-number",
+     "text": "13"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 13"
+    },
+    {
+     "role": "body",
+     "text": "CHAPTER 13"
+    },
+    {
+     "role": "body",
+     "text": "JOINT RESOLUTION"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 21, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. J. Res. 252]"
+    },
+    {
+     "role": "body",
+     "text": "Making an additional appropriation for the Department of Justice for the fiscal"
+    },
+    {
+     "role": "body",
+     "text": "year 1955, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That there is hereby appro-"
+    },
+    {
+     "role": "body",
+     "text": "priated, out of any money in the Treasury not otherwise appropriated,"
+    },
+    {
+     "role": "body",
+     "text": "for the fiscal year ending June 30, 1955, the following sum:"
+    },
+    {
+     "role": "body",
+     "text": "DEPARTMENT OF JUSTICE"
+    },
+    {
+     "role": "body",
+     "text": "LEGAL ACTIVITIES AND GENERAL ADMINISTRATION"
+    },
+    {
+     "role": "body",
+     "text": "FEES AND EXPENSES OF WITNESSES"
+    },
+    {
+     "role": "body",
+     "text": "For an additional amount for \"Fees and expenses of witnesses\","
+    },
+    {
+     "role": "body",
+     "text": "$710,000."
+    },
+    {
+     "role": "body",
+     "text": "Approved March 21, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 14"
+    },
+    {
+     "role": "body",
+     "text": "CHAPTER 14"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 23, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 942]"
+    },
+    {
+     "role": "body",
+     "text": "To repeal Public Law 820, Eightieth Congress (62 Stat. 1098), entitled \"An Act"
+    },
+    {
+     "role": "body",
+     "text": "to provide a revolving fund for the purchase of agricultural commodities"
+    },
+    {
+     "role": "body",
+     "text": "and raw materials to be processed in occupied areas and sold.\""
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That Public Law"
+    },
+    {
+     "role": "body",
+     "text": "820, Eightieth Congress (62 Stat. 1098). entitled \"An Act to provide"
+    },
+    {
+     "role": "sidenote",
+     "text": "5 USC 234-234f."
+    },
+    {
+     "role": "body",
+     "text": "a revolving fund for the purchase of agricultural commodities and"
+    },
+    {
+     "role": "body",
+     "text": "raw materials to be processed in occupied areas and sold\", is hereby"
+    },
+    {
+     "role": "body",
+     "text": "repealed."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. This Act shall take effect on June 30, 1955."
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective date."
+    },
+    {
+     "role": "body",
+     "text": "Approved March 23, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 15"
+    },
+    {
+     "role": "body",
+     "text": "CHAPTER 15"
+    },
+    {
+     "role": "body",
+     "text": "JOINT RESOLUTION"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 25, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. J. Res. 250]"
+    },
+    {
+     "role": "body",
+     "text": "To amend the joint resolution of March 25, 1953, relating to electrical or mechani-"
+    },
+    {
+     "role": "body",
+     "text": "cal office equipment for the use of Members, officers, and committees of the"
+    },
+    {
+     "role": "body",
+     "text": "House of Representatives."
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That subsection (c) of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "House of Repre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sentatives."
+    },
+    {
+     "role": "body",
+     "text": "first section of the joint resolution entitled \"Joint resolution to"
+    },
+    {
+     "role": "body",
+     "text": "authorize the Clerk of the House of Representatives to furnish certain"
+    },
+    {
+     "role": "sidenote",
+     "text": "Electrical or"
+    },
+    {
+     "role": "sidenote",
+     "text": "mechanical office"
+    },
+    {
+     "role": "body",
+     "text": "electrical or mechanical office equipment for the use of Members,"
+    },
+    {
+     "role": "sidenote",
+     "text": "equipment."
+    },
+    {
+     "role": "body",
+     "text": "officers, and committees of the House of Representatives\", approved"
+    },
+    {
+     "role": "body",
+     "text": "March 25, 1953 (2 U. S. C., sec. 112a (c)), is amended by striking out"
+    },
+    {
+     "role": "sidenote",
+     "text": "67 Stat. 7."
+    },
+    {
+     "role": "body",
+     "text": "\"not more than two of each of\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The first section of such joint resolution is further amended"
+    },
+    {
+     "role": "body",
+     "text": "by adding after subsection (c) thereof the following new subsection:"
+    },
+    {
+     "role": "body",
+     "text": "\"(d) Except in case of electric typewriters, not more than two of"
+    },
+    {
+     "role": "body",
+     "text": "each of the general types of equipment described in subsection (c)"
+    },
+    {
+     "role": "body",
+     "text": "may be furnished under this joint resolution for use in the office of a"
+    },
+    {
+     "role": "body",
+     "text": "Member, officer, or committee.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved March 25, 1955."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5189,
+    "output_tokens": 1840,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07231,
+   "seconds": 20.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11404,
+   "output_tokens": 1757,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.10136,
+  "seconds": 21.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "69 STAT.]                    PUBLIC LAW 15—MAR. 25, 1955",
+    "b": "69 STAT.]\nPUBLIC LAW 15—MAR. 25, 1955",
+    "kept": "69 STAT.]                    PUBLIC LAW 15—MAR. 25, 1955",
+    "reason": "The volume/statute head and the law-date head are printed on one single line across the top of the page."
+   },
+   {
+    "run": 2,
+    "a": "Public Law 13                                        CHAPTER 13",
+    "b": "Public Law 13\nCHAPTER 13",
+    "kept": "Public Law 13                                        CHAPTER 13",
+    "reason": "\"Public Law 13\" and \"CHAPTER 13\" appear on the same printed line, left and right."
+   },
+   {
+    "run": 3,
+    "a": "Public Law 14                                        CHAPTER 14",
+    "b": "Public Law 14\nCHAPTER 14",
+    "kept": "Public Law 14                                        CHAPTER 14",
+    "reason": "Single printed line with left and right elements."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "820, Eightieth Congress (62 Stat. 1098). entitled \"An Act to provide",
+    "kept": "",
+    "reason": "The sidenote \"5 USC 234-234f.\" stands opposite this body line, so the sidenote is placed before it; nothing extra printed here."
+   },
+   {
+    "run": 5,
+    "a": "820, Eightieth Congress (62 Stat. 1098). entitled \"An Act to provide",
+    "b": "",
+    "kept": "820, Eightieth Congress (62 Stat. 1098). entitled \"An Act to provide",
+    "reason": "This body line follows the adjacent sidenote, as printed opposite it."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "SEC. 2. This Act shall take effect on June 30, 1955.",
+    "kept": "",
+    "reason": "The sidenote \"Effective date.\" is set opposite the SEC. 2 line and precedes it; no line printed here."
+   },
+   {
+    "run": 7,
+    "a": "SEC. 2. This Act shall take effect on June 30, 1955.",
+    "b": "",
+    "kept": "SEC. 2. This Act shall take effect on June 30, 1955.",
+    "reason": "Body line printed opposite the \"Effective date.\" sidenote."
+   },
+   {
+    "run": 8,
+    "a": "Public Law 15                                        CHAPTER 15",
+    "b": "Public Law 15\nCHAPTER 15",
+    "kept": "Public Law 15                                        CHAPTER 15",
+    "reason": "Single printed line with left and right elements."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "States of America in Congress assembled, That subsection (c) of the",
+    "kept": "",
+    "reason": "The \"House of Repre-/sentatives.\" sidenote is opposite the following body line and precedes it; nothing printed here."
+   },
+   {
+    "run": 10,
+    "a": "States of America in Congress assembled, That subsection (c) of the",
+    "b": "",
+    "kept": "States of America in Congress assembled, That subsection (c) of the",
+    "reason": "Body line printed opposite the \"House of Repre-sentatives.\" sidenote."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "authorize the Clerk of the House of Representatives to furnish certain",
+    "kept": "",
+    "reason": "The three-line \"Electrical or mechanical office equipment.\" sidenote is kept together before the body lines it annotates."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "electrical or mechanical office equipment for the use of Members,",
+    "kept": "",
+    "reason": "Same sidenote block; no separate body line printed at this point."
+   },
+   {
+    "run": 13,
+    "a": "authorize the Clerk of the House of Representatives to furnish certain\nelectrical or mechanical office equipment for the use of Members,",
+    "b": "",
+    "kept": "authorize the Clerk of the House of Representatives to furnish certain\nelectrical or mechanical office equipment for the use of Members,",
+    "reason": "These two body lines are printed opposite the \"Electrical or mechanical office equipment.\" sidenote."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "March 25, 1953 (2 U. S. C., sec. 112a (c)), is amended by striking out",
+    "kept": "",
+    "reason": "The \"67 Stat. 7.\" sidenote stands opposite the following body line and precedes it."
+   },
+   {
+    "run": 15,
+    "a": "March 25, 1953 (2 U. S. C., sec. 112a (c)), is amended by striking out",
+    "b": "",
+    "kept": "March 25, 1953 (2 U. S. C., sec. 112a (c)), is amended by striking out",
+    "reason": "Body line printed opposite the \"67 Stat. 7.\" sidenote."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "69 STAT.]                    PUBLIC LAW 15—MAR. 25, 1955"
+  },
+  {
+   "role": "page-number",
+   "text": "13"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 13                                        CHAPTER 13"
+  },
+  {
+   "role": "body",
+   "text": "JOINT RESOLUTION"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 21, 1955"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. J. Res. 252]"
+  },
+  {
+   "role": "body",
+   "text": "Making an additional appropriation for the Department of Justice for the fiscal"
+  },
+  {
+   "role": "body",
+   "text": "year 1955, and for other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Resolved by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That there is hereby appro-"
+  },
+  {
+   "role": "body",
+   "text": "priated, out of any money in the Treasury not otherwise appropriated,"
+  },
+  {
+   "role": "body",
+   "text": "for the fiscal year ending June 30, 1955, the following sum:"
+  },
+  {
+   "role": "body",
+   "text": "DEPARTMENT OF JUSTICE"
+  },
+  {
+   "role": "body",
+   "text": "LEGAL ACTIVITIES AND GENERAL ADMINISTRATION"
+  },
+  {
+   "role": "body",
+   "text": "FEES AND EXPENSES OF WITNESSES"
+  },
+  {
+   "role": "body",
+   "text": "For an additional amount for \"Fees and expenses of witnesses\","
+  },
+  {
+   "role": "body",
+   "text": "$710,000."
+  },
+  {
+   "role": "body",
+   "text": "Approved March 21, 1955."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 14                                        CHAPTER 14"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 23, 1955"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 942]"
+  },
+  {
+   "role": "body",
+   "text": "To repeal Public Law 820, Eightieth Congress (62 Stat. 1098), entitled \"An Act"
+  },
+  {
+   "role": "body",
+   "text": "to provide a revolving fund for the purchase of agricultural commodities"
+  },
+  {
+   "role": "body",
+   "text": "and raw materials to be processed in occupied areas and sold.\""
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That Public Law"
+  },
+  {
+   "role": "sidenote",
+   "text": "5 USC 234-234f."
+  },
+  {
+   "role": "body",
+   "text": "820, Eightieth Congress (62 Stat. 1098). entitled \"An Act to provide"
+  },
+  {
+   "role": "body",
+   "text": "a revolving fund for the purchase of agricultural commodities and"
+  },
+  {
+   "role": "body",
+   "text": "raw materials to be processed in occupied areas and sold\", is hereby"
+  },
+  {
+   "role": "body",
+   "text": "repealed."
+  },
+  {
+   "role": "sidenote",
+   "text": "Effective date."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. This Act shall take effect on June 30, 1955."
+  },
+  {
+   "role": "body",
+   "text": "Approved March 23, 1955."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 15                                        CHAPTER 15"
+  },
+  {
+   "role": "body",
+   "text": "JOINT RESOLUTION"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 25, 1955"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. J. Res. 250]"
+  },
+  {
+   "role": "body",
+   "text": "To amend the joint resolution of March 25, 1953, relating to electrical or mechani-"
+  },
+  {
+   "role": "body",
+   "text": "cal office equipment for the use of Members, officers, and committees of the"
+  },
+  {
+   "role": "body",
+   "text": "House of Representatives."
+  },
+  {
+   "role": "body",
+   "text": "Resolved by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "House of Repre-"
+  },
+  {
+   "role": "sidenote",
+   "text": "sentatives."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That subsection (c) of the"
+  },
+  {
+   "role": "body",
+   "text": "first section of the joint resolution entitled \"Joint resolution to"
+  },
+  {
+   "role": "sidenote",
+   "text": "Electrical or"
+  },
+  {
+   "role": "sidenote",
+   "text": "mechanical office"
+  },
+  {
+   "role": "sidenote",
+   "text": "equipment."
+  },
+  {
+   "role": "body",
+   "text": "authorize the Clerk of the House of Representatives to furnish certain"
+  },
+  {
+   "role": "body",
+   "text": "electrical or mechanical office equipment for the use of Members,"
+  },
+  {
+   "role": "body",
+   "text": "officers, and committees of the House of Representatives\", approved"
+  },
+  {
+   "role": "sidenote",
+   "text": "67 Stat. 7."
+  },
+  {
+   "role": "body",
+   "text": "March 25, 1953 (2 U. S. C., sec. 112a (c)), is amended by striking out"
+  },
+  {
+   "role": "body",
+   "text": "\"not more than two of each of\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The first section of such joint resolution is further amended"
+  },
+  {
+   "role": "body",
+   "text": "by adding after subsection (c) thereof the following new subsection:"
+  },
+  {
+   "role": "body",
+   "text": "\"(d) Except in case of electric typewriters, not more than two of"
+  },
+  {
+   "role": "body",
+   "text": "each of the general types of equipment described in subsection (c)"
+  },
+  {
+   "role": "body",
+   "text": "may be furnished under this joint resolution for use in the office of a"
+  },
+  {
+   "role": "body",
+   "text": "Member, officer, or committee.\""
+  },
+  {
+   "role": "body",
+   "text": "Approved March 25, 1955."
+  }
+ ],
+ "disagreement_count": 15,
+ "tokens": {
+  "input_tokens": 21779,
+  "output_tokens": 5621,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.25058,
+ "seconds": 64.0,
+ "created": "2026-09-08T11:55:17"
+}

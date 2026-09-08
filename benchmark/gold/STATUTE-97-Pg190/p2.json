@@ -1,0 +1,273 @@
+{
+ "granule_id": "STATUTE-97-Pg190",
+ "package_id": "STATUTE-97",
+ "volume": 97,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Joint resolution designating May 21, 1983, as \"Andrei Sakharov Day\"",
+ "date_issued": "1983-05-18",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "191",
+ "image": "data/gold/STATUTE-97-Pg190/p2.png",
+ "image_sha256": "cdd0168c9cd929631d18cc892e3a2908cba895c9e0d72cae0813cad8e22e78bd",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98–30—MAY 18, 1983          97 STAT. 191"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. The President of the United States is authorized and"
+    },
+    {
+     "role": "body",
+     "text": "requested to direct the American delegation to the United Nations"
+    },
+    {
+     "role": "body",
+     "text": "to introduce a resolution in the General Assembly calling upon that"
+    },
+    {
+     "role": "body",
+     "text": "body to designate May 21, 1983, as \"International Andrei Sakharov"
+    },
+    {
+     "role": "body",
+     "text": "Day\", to be observed by the United Nations with appropriate cere-"
+    },
+    {
+     "role": "body",
+     "text": "monies and activities."
+    },
+    {
+     "role": "body",
+     "text": "Approved May 18, 1983."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—S.J. Res. 51:"
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 129 (1983):"
+    },
+    {
+     "role": "footnote",
+     "text": "Apr. 13, considered and passed Senate."
+    },
+    {
+     "role": "footnote",
+     "text": "May 17, considered and passed House."
+    },
+    {
+     "role": "footnote",
+     "text": "WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 19, No. 20 (1983):"
+    },
+    {
+     "role": "footnote",
+     "text": "May 18, Presidential statement."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 563,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.04095,
+   "seconds": 45.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98-30—MAY 18, 1983"
+    },
+    {
+     "role": "running-head",
+     "text": "97 STAT. 191"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. The President of the United States is authorized and"
+    },
+    {
+     "role": "body",
+     "text": "requested to direct the American delegation to the United Nations"
+    },
+    {
+     "role": "body",
+     "text": "to introduce a resolution in the General Assembly calling upon that"
+    },
+    {
+     "role": "body",
+     "text": "body to designate May 21, 1983, as \"International Andrei Sakharov"
+    },
+    {
+     "role": "body",
+     "text": "Day\", to be observed by the United Nations with appropriate cere-"
+    },
+    {
+     "role": "body",
+     "text": "monies and activities."
+    },
+    {
+     "role": "body",
+     "text": "Approved May 18, 1983."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—S.J. Res. 51:"
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 129 (1983):"
+    },
+    {
+     "role": "footnote",
+     "text": "Apr. 13, considered and passed Senate."
+    },
+    {
+     "role": "footnote",
+     "text": "May 17, considered and passed House."
+    },
+    {
+     "role": "footnote",
+     "text": "WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 19, No. 20 (1983):"
+    },
+    {
+     "role": "footnote",
+     "text": "May 18, Presidential statement."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 682,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.04392,
+   "seconds": 61.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 8379,
+   "output_tokens": 309,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.05004,
+  "seconds": 59.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "PUBLIC LAW 98–30—MAY 18, 1983          97 STAT. 191",
+    "b": "PUBLIC LAW 98-30—MAY 18, 1983\n97 STAT. 191",
+    "kept": "PUBLIC LAW 98-30—MAY 18, 1983\n97 STAT. 191",
+    "reason": "The heading line contains two separate elements: the running head at center-left and the volume/page designation at the right margin, which is the page number."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 98-30—MAY 18, 1983"
+  },
+  {
+   "role": "page-number",
+   "text": "97 STAT. 191"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. The President of the United States is authorized and"
+  },
+  {
+   "role": "body",
+   "text": "requested to direct the American delegation to the United Nations"
+  },
+  {
+   "role": "body",
+   "text": "to introduce a resolution in the General Assembly calling upon that"
+  },
+  {
+   "role": "body",
+   "text": "body to designate May 21, 1983, as \"International Andrei Sakharov"
+  },
+  {
+   "role": "body",
+   "text": "Day\", to be observed by the United Nations with appropriate cere-"
+  },
+  {
+   "role": "body",
+   "text": "monies and activities."
+  },
+  {
+   "role": "body",
+   "text": "Approved May 18, 1983."
+  },
+  {
+   "role": "footnote",
+   "text": "LEGISLATIVE HISTORY—S.J. Res. 51:"
+  },
+  {
+   "role": "footnote",
+   "text": "CONGRESSIONAL RECORD, Vol. 129 (1983):"
+  },
+  {
+   "role": "footnote",
+   "text": "Apr. 13, considered and passed Senate."
+  },
+  {
+   "role": "footnote",
+   "text": "May 17, considered and passed House."
+  },
+  {
+   "role": "footnote",
+   "text": "WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 19, No. 20 (1983):"
+  },
+  {
+   "role": "footnote",
+   "text": "May 18, Presidential statement."
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 18978,
+  "output_tokens": 1554,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.13491,
+ "seconds": 165.5,
+ "created": "2026-09-08T11:34:07"
+}

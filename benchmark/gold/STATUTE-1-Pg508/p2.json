@@ -1,0 +1,1119 @@
+{
+ "granule_id": "STATUTE-1-Pg508",
+ "package_id": "STATUTE-1",
+ "volume": 1,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act making appropriations for the Military and Naval establishments for the year one thousand seven hundred and ninety-seven.",
+ "date_issued": "1797-03-03",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "509",
+ "image": "data/gold/STATUTE-1-Pg508/p2.png",
+ "image_sha256": "abb6cb4bcd05456f372b695433b06201c22bee1879ea77895324243613d42f5d",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "high"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FOURTH CONGRESS.  SESS. II. CH. 18, 19.  1797."
+    },
+    {
+     "role": "page-number",
+     "text": "599"
+    },
+    {
+     "role": "sidenote",
+     "text": "Military ap-"
+    },
+    {
+     "role": "body",
+     "text": "For finishing the frigates United States, Constitution, and Constella-"
+    },
+    {
+     "role": "sidenote",
+     "text": "propriations for"
+    },
+    {
+     "role": "body",
+     "text": "tion, the sum of one hundred and seventy-two thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "1797."
+    },
+    {
+     "role": "body",
+     "text": "For the payment of military pensions, including an allowance to the"
+    },
+    {
+     "role": "body",
+     "text": "widows and children of officers, under an act, intituled \" An act in addi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1794, ch. 52."
+    },
+    {
+     "role": "body",
+     "text": "tion to the act for making further and more effectual provision for the"
+    },
+    {
+     "role": "body",
+     "text": "protection of the frontiers of the United States,\" the sum of ninety-six"
+    },
+    {
+     "role": "body",
+     "text": "thousand three hundred and fifty dollars."
+    },
+    {
+     "role": "body",
+     "text": "To satisfy and discharge claims for militia services on the frontiers of"
+    },
+    {
+     "role": "body",
+     "text": "Georgia, the sum of seventy thousand four hundred and ninety-six dol-"
+    },
+    {
+     "role": "body",
+     "text": "lars and thirty-five cents: for militia services on the frontiers of Ken-"
+    },
+    {
+     "role": "body",
+     "text": "tucky, three thousand eight hundred and thirty-six dollars and seventy-"
+    },
+    {
+     "role": "body",
+     "text": "six cents; and for militia services on the frontiers of South Carolina, the"
+    },
+    {
+     "role": "body",
+     "text": "sum of forty-eight thousand four hundred dollars and twenty-five cents."
+    },
+    {
+     "role": "body",
+     "text": "For the payment of general John Sevier and his brigade, for services"
+    },
+    {
+     "role": "body",
+     "text": "in the year one thousand seven hundred and ninety-three, the sum of"
+    },
+    {
+     "role": "body",
+     "text": "twenty-two thousand eight hundred and sixteen dollars and ninety-five"
+    },
+    {
+     "role": "body",
+     "text": "cents."
+    },
+    {
+     "role": "body",
+     "text": "For the payment of six months' pay and subsistence to each of the"
+    },
+    {
+     "role": "body",
+     "text": "officers discharged under the act \" to ascertain and fix the military"
+    },
+    {
+     "role": "sidenote",
+     "text": "1796, ch. 39."
+    },
+    {
+     "role": "body",
+     "text": "establishment of the United States,\" a sum not exceeding three thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars; which sums shall be solely applied to the objects for which they"
+    },
+    {
+     "role": "body",
+     "text": "are respectively appropriated."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the several appropriations"
+    },
+    {
+     "role": "body",
+     "text": "herein before made, shall be paid and discharged out of the surplus of"
+    },
+    {
+     "role": "body",
+     "text": "revenue and income beyond the appropriations heretofore charged"
+    },
+    {
+     "role": "body",
+     "text": "thereon, to the end of the present year."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1797."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XVIII.—An Act to suspend, in part, the Act, intituled \" An act to alter"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1797."
+    },
+    {
+     "role": "body",
+     "text": "and amend the Act, intituled An Act laying certain Duties upon Snuff and re-"
+    },
+    {
+     "role": "body",
+     "text": "fined Sugar,\" and to grant relief in certain cases arising under the said Act."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act laying"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That so much"
+    },
+    {
+     "role": "sidenote",
+     "text": "duty on snuff"
+    },
+    {
+     "role": "sidenote",
+     "text": "repealed."
+    },
+    {
+     "role": "body",
+     "text": "of the act, intituled \" An act to alter and amend the act, intituled An"
+    },
+    {
+     "role": "body",
+     "text": "act laying certain duties upon snuff and refined sugar,\" as respects the"
+    },
+    {
+     "role": "sidenote",
+     "text": "1795, ch. 43."
+    },
+    {
+     "role": "body",
+     "text": "duties therein laid upon mills and implements employed in the manufac-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1798, ch. 80."
+    },
+    {
+     "role": "body",
+     "text": "ture of snuff, and the drawbacks therein allowed, upon the exportation"
+    },
+    {
+     "role": "body",
+     "text": "of snuff manufactured within the United States, be suspended, from the"
+    },
+    {
+     "role": "body",
+     "text": "passing of this act, until the end of the next session of Congress."
+    },
+    {
+     "role": "sidenote",
+     "text": "Relief grant-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That in all cases of licenses granted"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed in certain"
+    },
+    {
+     "role": "body",
+     "text": "under the said act, where, by failure of water, or other casualty, occur-"
+    },
+    {
+     "role": "sidenote",
+     "text": "cases."
+    },
+    {
+     "role": "body",
+     "text": "ring to the mill or mills, or to the implements or to the proprietor, or"
+    },
+    {
+     "role": "body",
+     "text": "other person licensed, the use and benefit of such license has been lost,"
+    },
+    {
+     "role": "body",
+     "text": "or considerably interrupted, and the duties thereon required or paid,"
+    },
+    {
+     "role": "body",
+     "text": "may be considered as peculiarly unequal and injurious, the Secretary of"
+    },
+    {
+     "role": "body",
+     "text": "the Treasury, upon due representation and proof of such case, shall be,"
+    },
+    {
+     "role": "body",
+     "text": "and hereby is authorized to cause to be refunded or remitted, such part"
+    },
+    {
+     "role": "body",
+     "text": "of the duties paid, or secured on such license, as shall appear just and"
+    },
+    {
+     "role": "body",
+     "text": "reasonable, under the circumstances of the case, and having regard to"
+    },
+    {
+     "role": "body",
+     "text": "the loss, injury, or peculiar hardship sustained as aforesaid."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1797."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XIX.—An Act in addition to the act intituled \"An act to establish the Post-"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1797."
+    },
+    {
+     "role": "body",
+     "text": "Office and Post Roads within the United States.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "1794, ch. 23."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representa-"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "tives of the United States of America in Congress assembled, That the"
+    },
+    {
+     "role": "body",
+     "text": "2 U 2"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2309,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08516,
+   "seconds": 27.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FOURTH CONGRESS.  SESS. II. CH. 18, 19.  1797."
+    },
+    {
+     "role": "page-number",
+     "text": "599"
+    },
+    {
+     "role": "body",
+     "text": "For finishing the frigates United States, Constitution, and Constella-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Military ap-"
+    },
+    {
+     "role": "body",
+     "text": "tion, the sum of one hundred and seventy-two thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "propriations for"
+    },
+    {
+     "role": "body",
+     "text": "For the payment of military pensions, including an allowance to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "1797."
+    },
+    {
+     "role": "body",
+     "text": "widows and children of officers, under an act, intituled \" An act in addi-"
+    },
+    {
+     "role": "body",
+     "text": "tion to the act for making further and more effectual provision for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "1794, ch. 52."
+    },
+    {
+     "role": "body",
+     "text": "protection of the frontiers of the United States,\" the sum of ninety-six"
+    },
+    {
+     "role": "body",
+     "text": "thousand three hundred and fifty dollars."
+    },
+    {
+     "role": "body",
+     "text": "To satisfy and discharge claims for militia services on the frontiers of"
+    },
+    {
+     "role": "body",
+     "text": "Georgia, the sum of seventy thousand four hundred and ninety-six dol-"
+    },
+    {
+     "role": "body",
+     "text": "lars and thirty-five cents: for militia services on the frontiers of Ken-"
+    },
+    {
+     "role": "body",
+     "text": "tucky, three thousand eight hundred and thirty-six dollars and seventy-"
+    },
+    {
+     "role": "body",
+     "text": "six cents; and for militia services on the frontiers of South Carolina, the"
+    },
+    {
+     "role": "body",
+     "text": "sum of forty-eight thousand four hundred dollars and twenty-five cents."
+    },
+    {
+     "role": "body",
+     "text": "For the payment of general John Sevier and his brigade, for services"
+    },
+    {
+     "role": "body",
+     "text": "in the year one thousand seven hundred and ninety-three, the sum of"
+    },
+    {
+     "role": "body",
+     "text": "twenty-two thousand eight hundred and sixteen dollars and ninety-five"
+    },
+    {
+     "role": "body",
+     "text": "cents."
+    },
+    {
+     "role": "body",
+     "text": "For the payment of six months' pay and subsistence to each of the"
+    },
+    {
+     "role": "body",
+     "text": "officers discharged under the act \" to ascertain and fix the military"
+    },
+    {
+     "role": "sidenote",
+     "text": "1796, ch. 39."
+    },
+    {
+     "role": "body",
+     "text": "establishment of the United States,\" a sum not exceeding three thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars; which sums shall be solely applied to the objects for which they"
+    },
+    {
+     "role": "body",
+     "text": "are respectively appropriated."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the several appropriations"
+    },
+    {
+     "role": "body",
+     "text": "herein before made, shall be paid and discharged out of the surplus of"
+    },
+    {
+     "role": "body",
+     "text": "revenue and income beyond the appropriations heretofore charged"
+    },
+    {
+     "role": "body",
+     "text": "thereon, to the end of the present year."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1797."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XVIII.—An Act to suspend, in part, the Act, intituled \" An act to alter"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1797."
+    },
+    {
+     "role": "body",
+     "text": "and amend the Act, intituled An Act laying certain Duties upon Snuff and re-"
+    },
+    {
+     "role": "body",
+     "text": "fined Sugar,\" and to grant relief in certain cases arising under the said Act."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act laying"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That so much"
+    },
+    {
+     "role": "sidenote",
+     "text": "duty on snuff"
+    },
+    {
+     "role": "body",
+     "text": "of the act, intituled \" An act to alter and amend the act, intituled An"
+    },
+    {
+     "role": "sidenote",
+     "text": "repealed."
+    },
+    {
+     "role": "body",
+     "text": "act laying certain duties upon snuff and refined sugar,\" as respects the"
+    },
+    {
+     "role": "body",
+     "text": "duties therein laid upon mills and implements employed in the manufac-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1795, ch. 43."
+    },
+    {
+     "role": "body",
+     "text": "ture of snuff, and the drawbacks therein allowed, upon the exportation"
+    },
+    {
+     "role": "sidenote",
+     "text": "1798, ch. 80."
+    },
+    {
+     "role": "body",
+     "text": "of snuff manufactured within the United States, be suspended, from the"
+    },
+    {
+     "role": "body",
+     "text": "passing of this act, until the end of the next session of Congress."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That in all cases of licenses granted"
+    },
+    {
+     "role": "sidenote",
+     "text": "Relief grant-"
+    },
+    {
+     "role": "body",
+     "text": "under the said act, where, by failure of water, or other casualty, occur-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed in certain"
+    },
+    {
+     "role": "body",
+     "text": "ring to the mill or mills, or to the implements or to the proprietor, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "cases."
+    },
+    {
+     "role": "body",
+     "text": "other person licensed, the use and benefit of such license has been lost,"
+    },
+    {
+     "role": "body",
+     "text": "or considerably interrupted, and the duties thereon required or paid,"
+    },
+    {
+     "role": "body",
+     "text": "may be considered as peculiarly unequal and injurious, the Secretary of"
+    },
+    {
+     "role": "body",
+     "text": "the Treasury, upon due representation and proof of such case, shall be,"
+    },
+    {
+     "role": "body",
+     "text": "and hereby is authorized to cause to be refunded or remitted, such part"
+    },
+    {
+     "role": "body",
+     "text": "of the duties paid, or secured on such license, as shall appear just and"
+    },
+    {
+     "role": "body",
+     "text": "reasonable, under the circumstances of the case, and having regard to"
+    },
+    {
+     "role": "body",
+     "text": "the loss, injury, or peculiar hardship sustained as aforesaid."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1797."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XIX.—An Act in addition to the act intituled \"An act to establish the Post-"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1797."
+    },
+    {
+     "role": "body",
+     "text": "Office and Post Roads within the United States.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "1794, ch. 23."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representa-"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "tives of the United States of America in Congress assembled, That the"
+    },
+    {
+     "role": "body",
+     "text": "2 U 2"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2309,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08515,
+   "seconds": 27.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12334,
+   "output_tokens": 5209,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.19231,
+  "seconds": 61.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "high",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "For finishing the frigates United States, Constitution, and Constella-",
+    "kept": "For finishing the frigates United States, Constitution, and Constella-",
+    "reason": "The first body line stands at the same level as the sidenote \"Military ap-\"; in reading order the body column precedes the marginal note."
+   },
+   {
+    "run": 2,
+    "a": "For finishing the frigates United States, Constitution, and Constella-",
+    "b": "tion, the sum of one hundred and seventy-two thousand dollars.",
+    "kept": "tion, the sum of one hundred and seventy-two thousand dollars.",
+    "reason": "After the sidenote line \"Military ap-\" the next printed matter is the second body line."
+   },
+   {
+    "run": 3,
+    "a": "tion, the sum of one hundred and seventy-two thousand dollars.",
+    "b": "For the payment of military pensions, including an allowance to the",
+    "kept": "For the payment of military pensions, including an allowance to the",
+    "reason": "Following \"propriations for\" the next body line begins the pensions paragraph."
+   },
+   {
+    "run": 4,
+    "a": "For the payment of military pensions, including an allowance to the",
+    "b": "",
+    "kept": "",
+    "reason": "The pensions line was already placed before the sidenote \"1797.\"; nothing further is printed here."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "tion to the act for making further and more effectual provision for the",
+    "kept": "",
+    "reason": "The sidenote \"1794, ch. 52.\" is level with the \"widows and children\" line, so it comes immediately after it; no body line intervenes."
+   },
+   {
+    "run": 6,
+    "a": "tion to the act for making further and more effectual provision for the",
+    "b": "",
+    "kept": "tion to the act for making further and more effectual provision for the",
+    "reason": "This body line follows the sidenote \"1794, ch. 52.\" in the image."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "of the act, intituled \" An act to alter and amend the act, intituled An",
+    "kept": "of the act, intituled \" An act to alter and amend the act, intituled An",
+    "reason": "This body line is level with the sidenote \"repealed.\", so it precedes it in reading order."
+   },
+   {
+    "run": 8,
+    "a": "of the act, intituled \" An act to alter and amend the act, intituled An",
+    "b": "",
+    "kept": "",
+    "reason": "That body line was already given before \"repealed.\"; nothing else is printed here."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "duties therein laid upon mills and implements employed in the manufac-",
+    "kept": "duties therein laid upon mills and implements employed in the manufac-",
+    "reason": "This line is level with the sidenote \"1795, ch. 43.\" and therefore precedes it."
+   },
+   {
+    "run": 10,
+    "a": "duties therein laid upon mills and implements employed in the manufac-",
+    "b": "ture of snuff, and the drawbacks therein allowed, upon the exportation",
+    "kept": "ture of snuff, and the drawbacks therein allowed, upon the exportation",
+    "reason": "After the sidenote \"1795, ch. 43.\" the next body line is level with \"1798, ch. 80.\"."
+   },
+   {
+    "run": 11,
+    "a": "ture of snuff, and the drawbacks therein allowed, upon the exportation",
+    "b": "",
+    "kept": "",
+    "reason": "That line was already placed before \"1798, ch. 80.\"; nothing further is printed here."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "SEC. 2. And be it further enacted, That in all cases of licenses granted",
+    "kept": "SEC. 2. And be it further enacted, That in all cases of licenses granted",
+    "reason": "The Sec. 2 line is level with the sidenote \"Relief grant-\" and precedes it in reading order."
+   },
+   {
+    "run": 13,
+    "a": "SEC. 2. And be it further enacted, That in all cases of licenses granted",
+    "b": "under the said act, where, by failure of water, or other casualty, occur-",
+    "kept": "under the said act, where, by failure of water, or other casualty, occur-",
+    "reason": "Body line level with the sidenote \"ed in certain\", so it comes after \"Relief grant-\"."
+   },
+   {
+    "run": 14,
+    "a": "under the said act, where, by failure of water, or other casualty, occur-",
+    "b": "ring to the mill or mills, or to the implements or to the proprietor, or",
+    "kept": "ring to the mill or mills, or to the implements or to the proprietor, or",
+    "reason": "Body line level with the sidenote \"cases.\", following \"ed in certain\"."
+   },
+   {
+    "run": 15,
+    "a": "ring to the mill or mills, or to the implements or to the proprietor, or",
+    "b": "",
+    "kept": "",
+    "reason": "That body line was already placed before the sidenote \"cases.\"; nothing is printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "FOURTH CONGRESS.  SESS. II. CH. 18, 19.  1797."
+  },
+  {
+   "role": "page-number",
+   "text": "599"
+  },
+  {
+   "role": "body",
+   "text": "For finishing the frigates United States, Constitution, and Constella-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Military ap-"
+  },
+  {
+   "role": "body",
+   "text": "tion, the sum of one hundred and seventy-two thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "propriations for"
+  },
+  {
+   "role": "body",
+   "text": "For the payment of military pensions, including an allowance to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "1797."
+  },
+  {
+   "role": "body",
+   "text": "widows and children of officers, under an act, intituled \" An act in addi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "1794, ch. 52."
+  },
+  {
+   "role": "body",
+   "text": "tion to the act for making further and more effectual provision for the"
+  },
+  {
+   "role": "body",
+   "text": "protection of the frontiers of the United States,\" the sum of ninety-six"
+  },
+  {
+   "role": "body",
+   "text": "thousand three hundred and fifty dollars."
+  },
+  {
+   "role": "body",
+   "text": "To satisfy and discharge claims for militia services on the frontiers of"
+  },
+  {
+   "role": "body",
+   "text": "Georgia, the sum of seventy thousand four hundred and ninety-six dol-"
+  },
+  {
+   "role": "body",
+   "text": "lars and thirty-five cents: for militia services on the frontiers of Ken-"
+  },
+  {
+   "role": "body",
+   "text": "tucky, three thousand eight hundred and thirty-six dollars and seventy-"
+  },
+  {
+   "role": "body",
+   "text": "six cents; and for militia services on the frontiers of South Carolina, the"
+  },
+  {
+   "role": "body",
+   "text": "sum of forty-eight thousand four hundred dollars and twenty-five cents."
+  },
+  {
+   "role": "body",
+   "text": "For the payment of general John Sevier and his brigade, for services"
+  },
+  {
+   "role": "body",
+   "text": "in the year one thousand seven hundred and ninety-three, the sum of"
+  },
+  {
+   "role": "body",
+   "text": "twenty-two thousand eight hundred and sixteen dollars and ninety-five"
+  },
+  {
+   "role": "body",
+   "text": "cents."
+  },
+  {
+   "role": "body",
+   "text": "For the payment of six months' pay and subsistence to each of the"
+  },
+  {
+   "role": "body",
+   "text": "officers discharged under the act \" to ascertain and fix the military"
+  },
+  {
+   "role": "sidenote",
+   "text": "1796, ch. 39."
+  },
+  {
+   "role": "body",
+   "text": "establishment of the United States,\" a sum not exceeding three thousand"
+  },
+  {
+   "role": "body",
+   "text": "dollars; which sums shall be solely applied to the objects for which they"
+  },
+  {
+   "role": "body",
+   "text": "are respectively appropriated."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the several appropriations"
+  },
+  {
+   "role": "body",
+   "text": "herein before made, shall be paid and discharged out of the surplus of"
+  },
+  {
+   "role": "body",
+   "text": "revenue and income beyond the appropriations heretofore charged"
+  },
+  {
+   "role": "body",
+   "text": "thereon, to the end of the present year."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1797."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XVIII.—An Act to suspend, in part, the Act, intituled \" An act to alter"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1797."
+  },
+  {
+   "role": "body",
+   "text": "and amend the Act, intituled An Act laying certain Duties upon Snuff and re-"
+  },
+  {
+   "role": "body",
+   "text": "fined Sugar,\" and to grant relief in certain cases arising under the said Act."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act laying"
+  },
+  {
+   "role": "body",
+   "text": "of the United States of America in Congress assembled, That so much"
+  },
+  {
+   "role": "sidenote",
+   "text": "duty on snuff"
+  },
+  {
+   "role": "body",
+   "text": "of the act, intituled \" An act to alter and amend the act, intituled An"
+  },
+  {
+   "role": "sidenote",
+   "text": "repealed."
+  },
+  {
+   "role": "body",
+   "text": "act laying certain duties upon snuff and refined sugar,\" as respects the"
+  },
+  {
+   "role": "body",
+   "text": "duties therein laid upon mills and implements employed in the manufac-"
+  },
+  {
+   "role": "sidenote",
+   "text": "1795, ch. 43."
+  },
+  {
+   "role": "body",
+   "text": "ture of snuff, and the drawbacks therein allowed, upon the exportation"
+  },
+  {
+   "role": "sidenote",
+   "text": "1798, ch. 80."
+  },
+  {
+   "role": "body",
+   "text": "of snuff manufactured within the United States, be suspended, from the"
+  },
+  {
+   "role": "body",
+   "text": "passing of this act, until the end of the next session of Congress."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That in all cases of licenses granted"
+  },
+  {
+   "role": "sidenote",
+   "text": "Relief grant-"
+  },
+  {
+   "role": "body",
+   "text": "under the said act, where, by failure of water, or other casualty, occur-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ed in certain"
+  },
+  {
+   "role": "body",
+   "text": "ring to the mill or mills, or to the implements or to the proprietor, or"
+  },
+  {
+   "role": "sidenote",
+   "text": "cases."
+  },
+  {
+   "role": "body",
+   "text": "other person licensed, the use and benefit of such license has been lost,"
+  },
+  {
+   "role": "body",
+   "text": "or considerably interrupted, and the duties thereon required or paid,"
+  },
+  {
+   "role": "body",
+   "text": "may be considered as peculiarly unequal and injurious, the Secretary of"
+  },
+  {
+   "role": "body",
+   "text": "the Treasury, upon due representation and proof of such case, shall be,"
+  },
+  {
+   "role": "body",
+   "text": "and hereby is authorized to cause to be refunded or remitted, such part"
+  },
+  {
+   "role": "body",
+   "text": "of the duties paid, or secured on such license, as shall appear just and"
+  },
+  {
+   "role": "body",
+   "text": "reasonable, under the circumstances of the case, and having regard to"
+  },
+  {
+   "role": "body",
+   "text": "the loss, injury, or peculiar hardship sustained as aforesaid."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1797."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XIX.—An Act in addition to the act intituled \"An act to establish the Post-"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1797."
+  },
+  {
+   "role": "body",
+   "text": "Office and Post Roads within the United States.\""
+  },
+  {
+   "role": "sidenote",
+   "text": "1794, ch. 23."
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. Be it enacted by the Senate and House of Representa-"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "tives of the United States of America in Congress assembled, That the"
+  },
+  {
+   "role": "body",
+   "text": "2 U 2"
+  }
+ ],
+ "disagreement_count": 15,
+ "tokens": {
+  "input_tokens": 23157,
+  "output_tokens": 9827,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.36262,
+ "seconds": 115.9,
+ "created": "2026-09-08T11:00:00"
+}

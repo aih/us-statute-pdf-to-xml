@@ -1,0 +1,985 @@
+{
+ "granule_id": "STATUTE-75-Pg675",
+ "package_id": "STATUTE-75",
+ "volume": 75,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to provide for the disposal of certain lands held for inclusion in the Cape Hatteras National Seashore Recreational Area, N.C., and for other purposes.",
+ "date_issued": "1961-09-26",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "675",
+ "image": "data/gold/STATUTE-75-Pg675/p1.png",
+ "image_sha256": "0969e1c87dbcea23d59ed78a0c555e80d771118fda38f36301dd4bb45f29beb1",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "75 STAT.]          PUBLIC LAW 87-314-SEPT. 26, 1961                    675"
+    },
+    {
+     "role": "body",
+     "text": "a taxpayer under subsection (c) shall be considered as a consent to"
+    },
+    {
+     "role": "body",
+     "text": "the application of the provisions of this subsection."
+    },
+    {
+     "role": "body",
+     "text": "(e) TERMS; APPLICABILITY OF OTHER LAWS.—Except where other-"
+    },
+    {
+     "role": "body",
+     "text": "wise distinctly expressed or manifestly intended, terms used in this"
+    },
+    {
+     "role": "body",
+     "text": "section shall have the same meaning as when used in the Internal"
+    },
+    {
+     "role": "body",
+     "text": "Revenue Code of 1954 (or corresponding provisions of the Internal"
+    },
+    {
+     "role": "body",
+     "text": "Revenue Code of 1939) and all provisions of law shall apply with"
+    },
+    {
+     "role": "body",
+     "text": "respect to this section as if this section were a part of such Code (or"
+    },
+    {
+     "role": "body",
+     "text": "corresponding provisions of the Internal Revenue Code of 1939)."
+    },
+    {
+     "role": "body",
+     "text": "(f) REGULATIONS.—The Secretary of the Treasury or his delegate"
+    },
+    {
+     "role": "body",
+     "text": "shall prescribe such regulations as may be necessary to carry out the"
+    },
+    {
+     "role": "body",
+     "text": "provisions of this section."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 26, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-313"
+    },
+    {
+     "role": "sidenote",
+     "text": "September 26, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6729]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To provide for the disposal of certain lands held for inclusion in the Cape"
+    },
+    {
+     "role": "body",
+     "text": "Hatteras National Seashore Recreational Area, North Carolina, and for other"
+    },
+    {
+     "role": "body",
+     "text": "purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Cape Hatteras"
+    },
+    {
+     "role": "sidenote",
+     "text": "National Seashore"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the tract of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Recreational Area,"
+    },
+    {
+     "role": "body",
+     "text": "Federal property comprising eight and one-tenth acres of land situated"
+    },
+    {
+     "role": "sidenote",
+     "text": "N. C."
+    },
+    {
+     "role": "sidenote",
+     "text": "Land disposal."
+    },
+    {
+     "role": "body",
+     "text": "in Dare County, North Carolina, approximately two miles north of"
+    },
+    {
+     "role": "body",
+     "text": "Kitty Hawk, which was transferred to the administrative jurisdiction"
+    },
+    {
+     "role": "body",
+     "text": "of the Department of the Interior by the Act of June 3, 1948 (62"
+    },
+    {
+     "role": "body",
+     "text": "Stat. 301; 16 U.S.C. 459a-4), to be administered as a part of the Cape"
+    },
+    {
+     "role": "body",
+     "text": "Hatteras National Seashore Recreational Area, may be disposed of"
+    },
+    {
+     "role": "body",
+     "text": "by the Administrator of General Services in accordance with the pro-"
+    },
+    {
+     "role": "body",
+     "text": "visions of the Federal Property and Administrative Services Act of"
+    },
+    {
+     "role": "sidenote",
+     "text": "63 Stat. 377."
+    },
+    {
+     "role": "sidenote",
+     "text": "40 USC 471 note."
+    },
+    {
+     "role": "body",
+     "text": "1949, as amended."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 26, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-314"
+    },
+    {
+     "role": "sidenote",
+     "text": "September 26, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 8414]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 5011 of title 38, United States Code, to clarify the authority"
+    },
+    {
+     "role": "body",
+     "text": "of the Veterans' Administration to use its revolving supply fund for the repair"
+    },
+    {
+     "role": "body",
+     "text": "and reclamation of personal property."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Veterans' Admin-"
+    },
+    {
+     "role": "sidenote",
+     "text": "istration."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 5011"
+    },
+    {
+     "role": "sidenote",
+     "text": "Revolving supply"
+    },
+    {
+     "role": "sidenote",
+     "text": "fund."
+    },
+    {
+     "role": "body",
+     "text": "(a) of title 38, United States Code, is amended by—"
+    },
+    {
+     "role": "sidenote",
+     "text": "72 Stat. 1253."
+    },
+    {
+     "role": "body",
+     "text": "(1) changing the parenthetical clause in the first sentence to"
+    },
+    {
+     "role": "body",
+     "text": "read: \"(including procurement of supplies, equipment, and per-"
+    },
+    {
+     "role": "body",
+     "text": "sonal services and the repair and reclamation of used, spent, or"
+    },
+    {
+     "role": "body",
+     "text": "excess personal property)\"; and"
+    },
+    {
+     "role": "body",
+     "text": "(2) inserting in paragraph (3) immediately after the words"
+    },
+    {
+     "role": "body",
+     "text": "\"operation of the fund, including\" the following: \"property"
+    },
+    {
+     "role": "body",
+     "text": "returned to the supply system when no longer required by activi-"
+    },
+    {
+     "role": "body",
+     "text": "ties to which it had been furnished,\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 26, 1961."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 1883,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07451,
+   "seconds": 149.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "75 STAT.]          PUBLIC LAW 87-314-SEPT. 26, 1961"
+    },
+    {
+     "role": "page-number",
+     "text": "675"
+    },
+    {
+     "role": "body",
+     "text": "a taxpayer under subsection (c) shall be considered as a consent to"
+    },
+    {
+     "role": "body",
+     "text": "the application of the provisions of this subsection."
+    },
+    {
+     "role": "body",
+     "text": "(e) TERMS; APPLICABILITY OF OTHER LAWS.—Except where other-"
+    },
+    {
+     "role": "body",
+     "text": "wise distinctly expressed or manifestly intended, terms used in this"
+    },
+    {
+     "role": "body",
+     "text": "section shall have the same meaning as when used in the Internal"
+    },
+    {
+     "role": "body",
+     "text": "Revenue Code of 1954 (or corresponding provisions of the Internal"
+    },
+    {
+     "role": "body",
+     "text": "Revenue Code of 1939) and all provisions of law shall apply with"
+    },
+    {
+     "role": "body",
+     "text": "respect to this section as if this section were a part of such Code (or"
+    },
+    {
+     "role": "body",
+     "text": "corresponding provisions of the Internal Revenue Code of 1939)."
+    },
+    {
+     "role": "body",
+     "text": "(f) REGULATIONS.—The Secretary of the Treasury or his delegate"
+    },
+    {
+     "role": "body",
+     "text": "shall prescribe such regulations as may be necessary to carry out the"
+    },
+    {
+     "role": "body",
+     "text": "provisions of this section."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 26, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-313"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "September 26, 1961"
+    },
+    {
+     "role": "body",
+     "text": "To provide for the disposal of certain lands held for inclusion in the Cape"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6729]"
+    },
+    {
+     "role": "body",
+     "text": "Hatteras National Seashore Recreational Area, North Carolina, and for other"
+    },
+    {
+     "role": "body",
+     "text": "purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the tract of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Cape Hatteras"
+    },
+    {
+     "role": "sidenote",
+     "text": "National Seashore"
+    },
+    {
+     "role": "body",
+     "text": "Federal property comprising eight and one-tenth acres of land situated"
+    },
+    {
+     "role": "sidenote",
+     "text": "Recreational Area,"
+    },
+    {
+     "role": "body",
+     "text": "in Dare County, North Carolina, approximately two miles north of"
+    },
+    {
+     "role": "sidenote",
+     "text": "N. C."
+    },
+    {
+     "role": "sidenote",
+     "text": "Land disposal."
+    },
+    {
+     "role": "body",
+     "text": "Kitty Hawk, which was transferred to the administrative jurisdiction"
+    },
+    {
+     "role": "body",
+     "text": "of the Department of the Interior by the Act of June 3, 1948 (62"
+    },
+    {
+     "role": "body",
+     "text": "Stat. 301; 16 U.S.C. 459a-4), to be administered as a part of the Cape"
+    },
+    {
+     "role": "body",
+     "text": "Hatteras National Seashore Recreational Area, may be disposed of"
+    },
+    {
+     "role": "body",
+     "text": "by the Administrator of General Services in accordance with the pro-"
+    },
+    {
+     "role": "body",
+     "text": "visions of the Federal Property and Administrative Services Act of"
+    },
+    {
+     "role": "body",
+     "text": "1949, as amended."
+    },
+    {
+     "role": "sidenote",
+     "text": "63 Stat. 377."
+    },
+    {
+     "role": "sidenote",
+     "text": "40 USC 471 note."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 26, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-314"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "September 26, 1961"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 5011 of title 38, United States Code, to clarify the authority"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 8414]"
+    },
+    {
+     "role": "body",
+     "text": "of the Veterans' Administration to use its revolving supply fund for the repair"
+    },
+    {
+     "role": "body",
+     "text": "and reclamation of personal property."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 5011"
+    },
+    {
+     "role": "sidenote",
+     "text": "Veterans' Admin-"
+    },
+    {
+     "role": "sidenote",
+     "text": "istration."
+    },
+    {
+     "role": "body",
+     "text": "(a) of title 38, United States Code, is amended by—"
+    },
+    {
+     "role": "sidenote",
+     "text": "Revolving supply"
+    },
+    {
+     "role": "sidenote",
+     "text": "fund."
+    },
+    {
+     "role": "body",
+     "text": "(1) changing the parenthetical clause in the first sentence to"
+    },
+    {
+     "role": "sidenote",
+     "text": "72 Stat. 1253."
+    },
+    {
+     "role": "body",
+     "text": "read: \"(including procurement of supplies, equipment, and per-"
+    },
+    {
+     "role": "body",
+     "text": "sonal services and the repair and reclamation of used, spent, or"
+    },
+    {
+     "role": "body",
+     "text": "excess personal property)\"; and"
+    },
+    {
+     "role": "body",
+     "text": "(2) inserting in paragraph (3) immediately after the words"
+    },
+    {
+     "role": "body",
+     "text": "\"operation of the fund, including\" the following: \"property"
+    },
+    {
+     "role": "body",
+     "text": "returned to the supply system when no longer required by activi-"
+    },
+    {
+     "role": "body",
+     "text": "ties to which it had been furnished,\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 26, 1961."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 1879,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0744,
+   "seconds": 88.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11549,
+   "output_tokens": 3057,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.13459,
+  "seconds": 40.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "75 STAT.]          PUBLIC LAW 87-314-SEPT. 26, 1961                    675",
+    "b": "75 STAT.]          PUBLIC LAW 87-314-SEPT. 26, 1961\n675",
+    "kept": "75 STAT.]          PUBLIC LAW 87-314-SEPT. 26, 1961\n675",
+    "reason": "The folio 675 stands apart at the right margin and is best recorded as a separate page-number line."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "AN ACT",
+    "kept": "AN ACT",
+    "reason": "\"AN ACT\" is centered on the same row as the date sidenote, so it precedes it in left-to-right reading order."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "To provide for the disposal of certain lands held for inclusion in the Cape",
+    "kept": "To provide for the disposal of certain lands held for inclusion in the Cape",
+    "reason": "This title line is level with the [H. R. 6729] sidenote and comes before it."
+   },
+   {
+    "run": 4,
+    "a": "AN ACT\nTo provide for the disposal of certain lands held for inclusion in the Cape",
+    "b": "",
+    "kept": "",
+    "reason": "These lines were already placed earlier; repeating them here would duplicate them."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "United States of America in Congress assembled, That the tract of",
+    "kept": "United States of America in Congress assembled, That the tract of",
+    "reason": "The body line is level with the \"Cape Hatteras\" sidenote and read first."
+   },
+   {
+    "run": 6,
+    "a": "United States of America in Congress assembled, That the tract of",
+    "b": "Federal property comprising eight and one-tenth acres of land situated",
+    "kept": "Federal property comprising eight and one-tenth acres of land situated",
+    "reason": "Next body line, aligned with \"National Seashore\"; the \"United States\" line was already set."
+   },
+   {
+    "run": 7,
+    "a": "Federal property comprising eight and one-tenth acres of land situated",
+    "b": "in Dare County, North Carolina, approximately two miles north of",
+    "kept": "in Dare County, North Carolina, approximately two miles north of",
+    "reason": "Next body line, level with the \"N. C.\" sidenote block."
+   },
+   {
+    "run": 8,
+    "a": "in Dare County, North Carolina, approximately two miles north of",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed in run 7."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "1949, as amended.",
+    "kept": "1949, as amended.",
+    "reason": "This body line is level with the 63 Stat. 377 sidenote and read before it."
+   },
+   {
+    "run": 10,
+    "a": "1949, as amended.",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed in run 9."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "AN ACT",
+    "kept": "AN ACT",
+    "reason": "Centered heading on the same row as the September 26, 1961 sidenote, read first."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "To amend section 5011 of title 38, United States Code, to clarify the authority",
+    "kept": "To amend section 5011 of title 38, United States Code, to clarify the authority",
+    "reason": "Title line level with the [H. R. 8414] sidenote, read before it."
+   },
+   {
+    "run": 13,
+    "a": "AN ACT\nTo amend section 5011 of title 38, United States Code, to clarify the authority",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicates of the lines already placed in runs 11 and 12."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "United States of America in Congress assembled, That section 5011",
+    "kept": "United States of America in Congress assembled, That section 5011",
+    "reason": "Body line level with the \"Veterans' Admin-\" sidenote, read first."
+   },
+   {
+    "run": 15,
+    "a": "United States of America in Congress assembled, That section 5011",
+    "b": "(a) of title 38, United States Code, is amended by—",
+    "kept": "(a) of title 38, United States Code, is amended by—",
+    "reason": "Next body line, level with the \"Revolving supply\" sidenote."
+   },
+   {
+    "run": 16,
+    "a": "(a) of title 38, United States Code, is amended by—",
+    "b": "(1) changing the parenthetical clause in the first sentence to",
+    "kept": "(1) changing the parenthetical clause in the first sentence to",
+    "reason": "Next body line, level with the 72 Stat. 1253 sidenote."
+   },
+   {
+    "run": 17,
+    "a": "(1) changing the parenthetical clause in the first sentence to",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed in run 16."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "75 STAT.]          PUBLIC LAW 87-314-SEPT. 26, 1961"
+  },
+  {
+   "role": "page-number",
+   "text": "675"
+  },
+  {
+   "role": "body",
+   "text": "a taxpayer under subsection (c) shall be considered as a consent to"
+  },
+  {
+   "role": "body",
+   "text": "the application of the provisions of this subsection."
+  },
+  {
+   "role": "body",
+   "text": "(e) TERMS; APPLICABILITY OF OTHER LAWS.—Except where other-"
+  },
+  {
+   "role": "body",
+   "text": "wise distinctly expressed or manifestly intended, terms used in this"
+  },
+  {
+   "role": "body",
+   "text": "section shall have the same meaning as when used in the Internal"
+  },
+  {
+   "role": "body",
+   "text": "Revenue Code of 1954 (or corresponding provisions of the Internal"
+  },
+  {
+   "role": "body",
+   "text": "Revenue Code of 1939) and all provisions of law shall apply with"
+  },
+  {
+   "role": "body",
+   "text": "respect to this section as if this section were a part of such Code (or"
+  },
+  {
+   "role": "body",
+   "text": "corresponding provisions of the Internal Revenue Code of 1939)."
+  },
+  {
+   "role": "body",
+   "text": "(f) REGULATIONS.—The Secretary of the Treasury or his delegate"
+  },
+  {
+   "role": "body",
+   "text": "shall prescribe such regulations as may be necessary to carry out the"
+  },
+  {
+   "role": "body",
+   "text": "provisions of this section."
+  },
+  {
+   "role": "body",
+   "text": "Approved September 26, 1961."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 87-313"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "September 26, 1961"
+  },
+  {
+   "role": "body",
+   "text": "To provide for the disposal of certain lands held for inclusion in the Cape"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 6729]"
+  },
+  {
+   "role": "body",
+   "text": "Hatteras National Seashore Recreational Area, North Carolina, and for other"
+  },
+  {
+   "role": "body",
+   "text": "purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the tract of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Cape Hatteras"
+  },
+  {
+   "role": "sidenote",
+   "text": "National Seashore"
+  },
+  {
+   "role": "body",
+   "text": "Federal property comprising eight and one-tenth acres of land situated"
+  },
+  {
+   "role": "sidenote",
+   "text": "Recreational Area,"
+  },
+  {
+   "role": "body",
+   "text": "in Dare County, North Carolina, approximately two miles north of"
+  },
+  {
+   "role": "sidenote",
+   "text": "N. C."
+  },
+  {
+   "role": "sidenote",
+   "text": "Land disposal."
+  },
+  {
+   "role": "body",
+   "text": "Kitty Hawk, which was transferred to the administrative jurisdiction"
+  },
+  {
+   "role": "body",
+   "text": "of the Department of the Interior by the Act of June 3, 1948 (62"
+  },
+  {
+   "role": "body",
+   "text": "Stat. 301; 16 U.S.C. 459a-4), to be administered as a part of the Cape"
+  },
+  {
+   "role": "body",
+   "text": "Hatteras National Seashore Recreational Area, may be disposed of"
+  },
+  {
+   "role": "body",
+   "text": "by the Administrator of General Services in accordance with the pro-"
+  },
+  {
+   "role": "body",
+   "text": "visions of the Federal Property and Administrative Services Act of"
+  },
+  {
+   "role": "body",
+   "text": "1949, as amended."
+  },
+  {
+   "role": "sidenote",
+   "text": "63 Stat. 377."
+  },
+  {
+   "role": "sidenote",
+   "text": "40 USC 471 note."
+  },
+  {
+   "role": "body",
+   "text": "Approved September 26, 1961."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 87-314"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "September 26, 1961"
+  },
+  {
+   "role": "body",
+   "text": "To amend section 5011 of title 38, United States Code, to clarify the authority"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 8414]"
+  },
+  {
+   "role": "body",
+   "text": "of the Veterans' Administration to use its revolving supply fund for the repair"
+  },
+  {
+   "role": "body",
+   "text": "and reclamation of personal property."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That section 5011"
+  },
+  {
+   "role": "sidenote",
+   "text": "Veterans' Admin-"
+  },
+  {
+   "role": "sidenote",
+   "text": "istration."
+  },
+  {
+   "role": "body",
+   "text": "(a) of title 38, United States Code, is amended by—"
+  },
+  {
+   "role": "sidenote",
+   "text": "Revolving supply"
+  },
+  {
+   "role": "sidenote",
+   "text": "fund."
+  },
+  {
+   "role": "body",
+   "text": "(1) changing the parenthetical clause in the first sentence to"
+  },
+  {
+   "role": "sidenote",
+   "text": "72 Stat. 1253."
+  },
+  {
+   "role": "body",
+   "text": "read: \"(including procurement of supplies, equipment, and per-"
+  },
+  {
+   "role": "body",
+   "text": "sonal services and the repair and reclamation of used, spent, or"
+  },
+  {
+   "role": "body",
+   "text": "excess personal property)\"; and"
+  },
+  {
+   "role": "body",
+   "text": "(2) inserting in paragraph (3) immediately after the words"
+  },
+  {
+   "role": "body",
+   "text": "\"operation of the fund, including\" the following: \"property"
+  },
+  {
+   "role": "body",
+   "text": "returned to the supply system when no longer required by activi-"
+  },
+  {
+   "role": "body",
+   "text": "ties to which it had been furnished,\"."
+  },
+  {
+   "role": "body",
+   "text": "Approved September 26, 1961."
+  }
+ ],
+ "disagreement_count": 17,
+ "tokens": {
+  "input_tokens": 22372,
+  "output_tokens": 6819,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.2835,
+ "seconds": 277.9,
+ "created": "2026-09-08T11:52:50"
+}

@@ -1,0 +1,513 @@
+{
+ "granule_id": "STATUTE-115-Pg900",
+ "package_id": "STATUTE-115",
+ "volume": 115,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Veterans' Compensation Rate Amendments of 2001",
+ "date_issued": "2001-12-21",
+ "pdf_page": 3,
+ "pdf_pages": 3,
+ "stat_page": "902",
+ "image": "data/gold/STATUTE-115-Pg900/p3.png",
+ "image_sha256": "e300697a8380f3528093ff0573e4a5dfff0a138cfc0db8f06474ebb8b6abb59e",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "115 STAT. 902          PUBLIC LAW 107–94—DEC. 21, 2001"
+    },
+    {
+     "role": "body",
+     "text": "(c) ADDITIONAL DIC FOR CHILDREN.—Section 1311(b) is"
+    },
+    {
+     "role": "body",
+     "text": "amended by striking \"$222\" and inserting \"$234\"."
+    },
+    {
+     "role": "body",
+     "text": "(d) AID AND ATTENDANCE ALLOWANCE.—Section 1311(c) is"
+    },
+    {
+     "role": "body",
+     "text": "amended by striking \"$222\" and inserting \"$234\"."
+    },
+    {
+     "role": "body",
+     "text": "(e) HOUSEBOUND RATE.—Section 1311(d) is amended by striking"
+    },
+    {
+     "role": "body",
+     "text": "\"$107\" and inserting \"$112\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. DEPENDENCY AND INDEMNITY COMPENSATION FOR CHIL-"
+    },
+    {
+     "role": "body",
+     "text": "DREN."
+    },
+    {
+     "role": "body",
+     "text": "(a) DIC FOR ORPHAN CHILDREN.—Section 1313(a) is amended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by striking \"$373\" in paragraph (1) and inserting \"$397\";"
+    },
+    {
+     "role": "body",
+     "text": "(2) by striking \"$538\" in paragraph (2) and inserting \"$571\";"
+    },
+    {
+     "role": "body",
+     "text": "(3) by striking \"$699\" in paragraph (3) and inserting \"$742\";"
+    },
+    {
+     "role": "body",
+     "text": "and"
+    },
+    {
+     "role": "body",
+     "text": "(4) by striking \"$699\" and \"$136\" in paragraph (4) and"
+    },
+    {
+     "role": "body",
+     "text": "inserting \"$742\" and \"$143\", respectively."
+    },
+    {
+     "role": "body",
+     "text": "(b) SUPPLEMENTAL DIC FOR DISABLED ADULT CHILDREN.—Sec-"
+    },
+    {
+     "role": "body",
+     "text": "tion 1314 is amended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by striking \"$222\" in subsection (a) and inserting \"$234\";"
+    },
+    {
+     "role": "body",
+     "text": "(2) by striking \"$373\" in subsection (b) and inserting \"$397\";"
+    },
+    {
+     "role": "body",
+     "text": "and"
+    },
+    {
+     "role": "body",
+     "text": "(3) by striking \"$188\" in subsection (c) and inserting \"$199\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "38 USC 1114"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. EFFECTIVE DATE."
+    },
+    {
+     "role": "body",
+     "text": "The amendments made by this Act shall take effect on"
+    },
+    {
+     "role": "body",
+     "text": "December 1, 2001."
+    },
+    {
+     "role": "body",
+     "text": "Approved December 21, 2001."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—H.R. 2540:"
+    },
+    {
+     "role": "footnote",
+     "text": "HOUSE REPORTS: No. 107–156 (Comm. on Veterans' Affairs)."
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 147 (2001):"
+    },
+    {
+     "role": "footnote",
+     "text": "July 31, considered and passed House."
+    },
+    {
+     "role": "footnote",
+     "text": "Nov. 15, considered and passed Senate, amended."
+    },
+    {
+     "role": "footnote",
+     "text": "Dec. 11, House concurred in Senate amendments."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 1203,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.05695,
+   "seconds": 13.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "115 STAT. 902"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 107–94—DEC. 21, 2001"
+    },
+    {
+     "role": "body",
+     "text": "(c) ADDITIONAL DIC FOR CHILDREN.—Section 1311(b) is"
+    },
+    {
+     "role": "body",
+     "text": "amended by striking \"$222\" and inserting \"$234\"."
+    },
+    {
+     "role": "body",
+     "text": "(d) AID AND ATTENDANCE ALLOWANCE.—Section 1311(c) is"
+    },
+    {
+     "role": "body",
+     "text": "amended by striking \"$222\" and inserting \"$234\"."
+    },
+    {
+     "role": "body",
+     "text": "(e) HOUSEBOUND RATE.—Section 1311(d) is amended by striking"
+    },
+    {
+     "role": "body",
+     "text": "\"$107\" and inserting \"$112\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. DEPENDENCY AND INDEMNITY COMPENSATION FOR CHIL-"
+    },
+    {
+     "role": "body",
+     "text": "DREN."
+    },
+    {
+     "role": "body",
+     "text": "(a) DIC FOR ORPHAN CHILDREN.—Section 1313(a) is amended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by striking \"$373\" in paragraph (1) and inserting \"$397\";"
+    },
+    {
+     "role": "body",
+     "text": "(2) by striking \"$538\" in paragraph (2) and inserting \"$571\";"
+    },
+    {
+     "role": "body",
+     "text": "(3) by striking \"$699\" in paragraph (3) and inserting \"$742\";"
+    },
+    {
+     "role": "body",
+     "text": "and"
+    },
+    {
+     "role": "body",
+     "text": "(4) by striking \"$699\" and \"$136\" in paragraph (4) and"
+    },
+    {
+     "role": "body",
+     "text": "inserting \"$742\" and \"$143\", respectively."
+    },
+    {
+     "role": "body",
+     "text": "(b) SUPPLEMENTAL DIC FOR DISABLED ADULT CHILDREN.—Sec-"
+    },
+    {
+     "role": "body",
+     "text": "tion 1314 is amended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by striking \"$222\" in subsection (a) and inserting \"$234\";"
+    },
+    {
+     "role": "body",
+     "text": "(2) by striking \"$373\" in subsection (b) and inserting \"$397\";"
+    },
+    {
+     "role": "body",
+     "text": "and"
+    },
+    {
+     "role": "body",
+     "text": "(3) by striking \"$188\" in subsection (c) and inserting \"$199\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "38 USC 1114"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. EFFECTIVE DATE."
+    },
+    {
+     "role": "body",
+     "text": "The amendments made by this Act shall take effect on"
+    },
+    {
+     "role": "body",
+     "text": "December 1, 2001."
+    },
+    {
+     "role": "body",
+     "text": "Approved December 21, 2001."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—H.R. 2540:"
+    },
+    {
+     "role": "footnote",
+     "text": "HOUSE REPORTS: No. 107–156 (Comm. on Veterans' Affairs)."
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 147 (2001):"
+    },
+    {
+     "role": "footnote",
+     "text": "July 31, considered and passed House."
+    },
+    {
+     "role": "footnote",
+     "text": "Nov. 15, considered and passed Senate, amended."
+    },
+    {
+     "role": "footnote",
+     "text": "Dec. 11, House concurred in Senate amendments."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 1208,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.05707,
+   "seconds": 15.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 9497,
+   "output_tokens": 125,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.05103,
+  "seconds": 4.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "115 STAT. 902          PUBLIC LAW 107–94—DEC. 21, 2001",
+    "b": "115 STAT. 902\nPUBLIC LAW 107–94—DEC. 21, 2001",
+    "kept": "115 STAT. 902\nPUBLIC LAW 107-94—DEC. 21, 2001",
+    "reason": "Header consists of two separate elements: page/stat number at left and law citation centered; treated as two running-head lines."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "115 STAT. 902"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 107-94—DEC. 21, 2001"
+  },
+  {
+   "role": "body",
+   "text": "(c) ADDITIONAL DIC FOR CHILDREN.—Section 1311(b) is"
+  },
+  {
+   "role": "body",
+   "text": "amended by striking \"$222\" and inserting \"$234\"."
+  },
+  {
+   "role": "body",
+   "text": "(d) AID AND ATTENDANCE ALLOWANCE.—Section 1311(c) is"
+  },
+  {
+   "role": "body",
+   "text": "amended by striking \"$222\" and inserting \"$234\"."
+  },
+  {
+   "role": "body",
+   "text": "(e) HOUSEBOUND RATE.—Section 1311(d) is amended by striking"
+  },
+  {
+   "role": "body",
+   "text": "\"$107\" and inserting \"$112\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 6. DEPENDENCY AND INDEMNITY COMPENSATION FOR CHIL-"
+  },
+  {
+   "role": "body",
+   "text": "DREN."
+  },
+  {
+   "role": "body",
+   "text": "(a) DIC FOR ORPHAN CHILDREN.—Section 1313(a) is amended—"
+  },
+  {
+   "role": "body",
+   "text": "(1) by striking \"$373\" in paragraph (1) and inserting \"$397\";"
+  },
+  {
+   "role": "body",
+   "text": "(2) by striking \"$538\" in paragraph (2) and inserting \"$571\";"
+  },
+  {
+   "role": "body",
+   "text": "(3) by striking \"$699\" in paragraph (3) and inserting \"$742\";"
+  },
+  {
+   "role": "body",
+   "text": "and"
+  },
+  {
+   "role": "body",
+   "text": "(4) by striking \"$699\" and \"$136\" in paragraph (4) and"
+  },
+  {
+   "role": "body",
+   "text": "inserting \"$742\" and \"$143\", respectively."
+  },
+  {
+   "role": "body",
+   "text": "(b) SUPPLEMENTAL DIC FOR DISABLED ADULT CHILDREN.—Sec-"
+  },
+  {
+   "role": "body",
+   "text": "tion 1314 is amended—"
+  },
+  {
+   "role": "body",
+   "text": "(1) by striking \"$222\" in subsection (a) and inserting \"$234\";"
+  },
+  {
+   "role": "body",
+   "text": "(2) by striking \"$373\" in subsection (b) and inserting \"$397\";"
+  },
+  {
+   "role": "body",
+   "text": "and"
+  },
+  {
+   "role": "body",
+   "text": "(3) by striking \"$188\" in subsection (c) and inserting \"$199\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "38 USC 1114"
+  },
+  {
+   "role": "sidenote",
+   "text": "note."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 7. EFFECTIVE DATE."
+  },
+  {
+   "role": "body",
+   "text": "The amendments made by this Act shall take effect on"
+  },
+  {
+   "role": "body",
+   "text": "December 1, 2001."
+  },
+  {
+   "role": "body",
+   "text": "Approved December 21, 2001."
+  },
+  {
+   "role": "footnote",
+   "text": "LEGISLATIVE HISTORY—H.R. 2540:"
+  },
+  {
+   "role": "footnote",
+   "text": "HOUSE REPORTS: No. 107–156 (Comm. on Veterans' Affairs)."
+  },
+  {
+   "role": "footnote",
+   "text": "CONGRESSIONAL RECORD, Vol. 147 (2001):"
+  },
+  {
+   "role": "footnote",
+   "text": "July 31, considered and passed House."
+  },
+  {
+   "role": "footnote",
+   "text": "Nov. 15, considered and passed Senate, amended."
+  },
+  {
+   "role": "footnote",
+   "text": "Dec. 11, House concurred in Senate amendments."
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 20096,
+  "output_tokens": 2536,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.16505,
+ "seconds": 33.5,
+ "created": "2026-09-08T11:26:10"
+}

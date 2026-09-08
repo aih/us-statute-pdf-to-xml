@@ -1,0 +1,1023 @@
+{
+ "granule_id": "STATUTE-77-Pg66-2",
+ "package_id": "STATUTE-77",
+ "volume": 77,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to authorize the Secretary of Defense to lend certain Army, Navy, and Air Force equipment and provide certain services to the Boy Scouts of America for use in the 1964 National Jamboree, and fo",
+ "date_issued": "1963-06-21",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "66",
+ "image": "data/gold/STATUTE-77-Pg66-2/p1.png",
+ "image_sha256": "d6cb35f0f5412e397819d93b511552b6d04116f351bab39ae44ae3b7d73774dc",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "66\t\tPUBLIC LAW 88-40–JUNE 13, 1963\t[77 STAT."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-40"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 13, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 249]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 632 of title 38, United States Code, to provide for an extension"
+    },
+    {
+     "role": "body",
+     "text": "of the program of grants-in-aid to the Republic of the Philippines for the"
+    },
+    {
+     "role": "body",
+     "text": "hospitalization of certain veterans."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Veterans."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the second"
+    },
+    {
+     "role": "sidenote",
+     "text": "Hospitalization"
+    },
+    {
+     "role": "sidenote",
+     "text": "in Philippines."
+    },
+    {
+     "role": "body",
+     "text": "sentence of paragraph (1) of section 632 of title 38, United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "72 Stat. 1145."
+    },
+    {
+     "role": "body",
+     "text": "Code, is amended by striking out \"five consecutive fiscal years\", and"
+    },
+    {
+     "role": "body",
+     "text": "inserting in lieu thereof \"ten consecutive fiscal years,\"; and by insert-"
+    },
+    {
+     "role": "body",
+     "text": "ing before the period at the end of such sentence \"ending before July"
+    },
+    {
+     "role": "body",
+     "text": "1, 1963, nor $500,000 for any one fiscal year beginning on or after"
+    },
+    {
+     "role": "body",
+     "text": "such date\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Section 632 of title 38, United States Code, is amended by"
+    },
+    {
+     "role": "body",
+     "text": "adding at the end thereof the following: \"Such agreement may also"
+    },
+    {
+     "role": "body",
+     "text": "provide that during the contract period specified in paragraph (1)"
+    },
+    {
+     "role": "body",
+     "text": "of this section, payments for hospital care and for medical services"
+    },
+    {
+     "role": "body",
+     "text": "provided to Commonwealth Army veterans or to United States vet-"
+    },
+    {
+     "role": "body",
+     "text": "erans may consist in whole or in part of available medicines, medical"
+    },
+    {
+     "role": "body",
+     "text": "supplies, and equipment furnished by the Administrator to the Vet-"
+    },
+    {
+     "role": "body",
+     "text": "erans Memorial Hospital at valuations therefor as determined by the"
+    },
+    {
+     "role": "body",
+     "text": "Administrator.  The Administrator is authorized to furnish through"
+    },
+    {
+     "role": "sidenote",
+     "text": "72 Stat.. 1253;"
+    },
+    {
+     "role": "body",
+     "text": "the revolving supply fund, pursuant to section 5011 of this title, such"
+    },
+    {
+     "role": "sidenote",
+     "text": "75 Stat. 675."
+    },
+    {
+     "role": "body",
+     "text": "medicines, medical supplies, and equipment as necessary for this pur-"
+    },
+    {
+     "role": "body",
+     "text": "pose and to use therefor, as applicable, appropriations available for"
+    },
+    {
+     "role": "body",
+     "text": "such payments.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved June 13, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-41"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 21, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 2439]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To authorize the Secretary of Defense to lend certain Army, Navy, and Air Force"
+    },
+    {
+     "role": "body",
+     "text": "equipment and provide certain services to the Boy Scouts of America for use"
+    },
+    {
+     "role": "body",
+     "text": "in the 1964 National Jamboree, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Boy Scouts of"
+    },
+    {
+     "role": "sidenote",
+     "text": "America."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That (a) the Secre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "National Jam-"
+    },
+    {
+     "role": "sidenote",
+     "text": "boree."
+    },
+    {
+     "role": "body",
+     "text": "tary of Defense is hereby authorized, under such regulations as he may"
+    },
+    {
+     "role": "body",
+     "text": "prescribe, to lend to the Boy Scouts of America, a corporation created"
+    },
+    {
+     "role": "sidenote",
+     "text": "Equipment."
+    },
+    {
+     "role": "sidenote",
+     "text": "39 Stat. 227."
+    },
+    {
+     "role": "body",
+     "text": "under the Act of June 15, 1916, for the use and accommodation of"
+    },
+    {
+     "role": "sidenote",
+     "text": "36 USC 21-29."
+    },
+    {
+     "role": "body",
+     "text": "approximately fifty thousand Scouts and officials who are to attend"
+    },
+    {
+     "role": "body",
+     "text": "the Sixth National Jamboree of the Boy Scouts of America to be held"
+    },
+    {
+     "role": "body",
+     "text": "at Valley Forge State Park, Pennsylvania, during July and August"
+    },
+    {
+     "role": "body",
+     "text": "1964, such tents, cots, blankets, commissary equipment, flags, refrig-"
+    },
+    {
+     "role": "body",
+     "text": "erators, vehicles, and other equipment and services as may be necessary"
+    },
+    {
+     "role": "body",
+     "text": "or useful to the extent that items are in stock and available and their"
+    },
+    {
+     "role": "body",
+     "text": "issue will not jeopardize the national defense program."
+    },
+    {
+     "role": "body",
+     "text": "(b) Such equipment is authorized to be delivered at such time prior"
+    },
+    {
+     "role": "body",
+     "text": "to the holding of such jamboree and to be returned at such time after"
+    },
+    {
+     "role": "body",
+     "text": "the close of such jamboree, as may be agreed upon by the Secretary of"
+    },
+    {
+     "role": "body",
+     "text": "Defense and the National Council, Boy Scouts of America.  No"
+    },
+    {
+     "role": "body",
+     "text": "expense shall be incurred by the United States Government for the"
+    },
+    {
+     "role": "body",
+     "text": "delivery and return of such equipment, and the Boy Scouts of America"
+    },
+    {
+     "role": "body",
+     "text": "shall pay for the cost of the actual rehabilitation and repair, or replace-"
+    },
+    {
+     "role": "body",
+     "text": "ment of such equipment."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2054,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07878,
+   "seconds": 25.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "66"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 88-40–JUNE 13, 1963"
+    },
+    {
+     "role": "running-head",
+     "text": "[77 STAT."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-40"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 13, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 249]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 632 of title 38, United States Code, to provide for an extension"
+    },
+    {
+     "role": "body",
+     "text": "of the program of grants-in-aid to the Republic of the Philippines for the"
+    },
+    {
+     "role": "body",
+     "text": "hospitalization of certain veterans."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Veterans."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the second"
+    },
+    {
+     "role": "sidenote",
+     "text": "Hospitalization"
+    },
+    {
+     "role": "body",
+     "text": "sentence of paragraph (1) of section 632 of title 38, United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "in Philippines."
+    },
+    {
+     "role": "body",
+     "text": "Code, is amended by striking out \"five consecutive fiscal years\", and"
+    },
+    {
+     "role": "sidenote",
+     "text": "72 Stat. 1145."
+    },
+    {
+     "role": "body",
+     "text": "inserting in lieu thereof \"ten consecutive fiscal years,\"; and by insert-"
+    },
+    {
+     "role": "body",
+     "text": "ing before the period at the end of such sentence \"ending before July"
+    },
+    {
+     "role": "body",
+     "text": "1, 1963, nor $500,000 for any one fiscal year beginning on or after"
+    },
+    {
+     "role": "body",
+     "text": "such date\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Section 632 of title 38, United States Code, is amended by"
+    },
+    {
+     "role": "body",
+     "text": "adding at the end thereof the following: \"Such agreement may also"
+    },
+    {
+     "role": "body",
+     "text": "provide that during the contract period specified in paragraph (1)"
+    },
+    {
+     "role": "body",
+     "text": "of this section, payments for hospital care and for medical services"
+    },
+    {
+     "role": "body",
+     "text": "provided to Commonwealth Army veterans or to United States vet-"
+    },
+    {
+     "role": "body",
+     "text": "erans may consist in whole or in part of available medicines, medical"
+    },
+    {
+     "role": "body",
+     "text": "supplies, and equipment furnished by the Administrator to the Vet-"
+    },
+    {
+     "role": "body",
+     "text": "erans Memorial Hospital at valuations therefor as determined by the"
+    },
+    {
+     "role": "body",
+     "text": "Administrator.  The Administrator is authorized to furnish through"
+    },
+    {
+     "role": "sidenote",
+     "text": "72 Stat.. 1253;"
+    },
+    {
+     "role": "body",
+     "text": "the revolving supply fund, pursuant to section 5011 of this title, such"
+    },
+    {
+     "role": "sidenote",
+     "text": "75 Stat. 675."
+    },
+    {
+     "role": "body",
+     "text": "medicines, medical supplies, and equipment as necessary for this pur-"
+    },
+    {
+     "role": "body",
+     "text": "pose and to use therefor, as applicable, appropriations available for"
+    },
+    {
+     "role": "body",
+     "text": "such payments.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved June 13, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-41"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 21, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 2439]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To authorize the Secretary of Defense to lend certain Army, Navy, and Air Force"
+    },
+    {
+     "role": "body",
+     "text": "equipment and provide certain services to the Boy Scouts of America for use"
+    },
+    {
+     "role": "body",
+     "text": "in the 1964 National Jamboree, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Boy Scouts of"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That (a) the Secre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "America."
+    },
+    {
+     "role": "body",
+     "text": "tary of Defense is hereby authorized, under such regulations as he may"
+    },
+    {
+     "role": "sidenote",
+     "text": "National Jam-"
+    },
+    {
+     "role": "body",
+     "text": "prescribe, to lend to the Boy Scouts of America, a corporation created"
+    },
+    {
+     "role": "sidenote",
+     "text": "boree."
+    },
+    {
+     "role": "body",
+     "text": "under the Act of June 15, 1916, for the use and accommodation of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Equipment."
+    },
+    {
+     "role": "body",
+     "text": "approximately fifty thousand Scouts and officials who are to attend"
+    },
+    {
+     "role": "sidenote",
+     "text": "39 Stat. 227."
+    },
+    {
+     "role": "body",
+     "text": "the Sixth National Jamboree of the Boy Scouts of America to be held"
+    },
+    {
+     "role": "sidenote",
+     "text": "36 USC 21-29."
+    },
+    {
+     "role": "body",
+     "text": "at Valley Forge State Park, Pennsylvania, during July and August"
+    },
+    {
+     "role": "body",
+     "text": "1964, such tents, cots, blankets, commissary equipment, flags, refrig-"
+    },
+    {
+     "role": "body",
+     "text": "erators, vehicles, and other equipment and services as may be necessary"
+    },
+    {
+     "role": "body",
+     "text": "or useful to the extent that items are in stock and available and their"
+    },
+    {
+     "role": "body",
+     "text": "issue will not jeopardize the national defense program."
+    },
+    {
+     "role": "body",
+     "text": "(b) Such equipment is authorized to be delivered at such time prior"
+    },
+    {
+     "role": "body",
+     "text": "to the holding of such jamboree and to be returned at such time after"
+    },
+    {
+     "role": "body",
+     "text": "the close of such jamboree, as may be agreed upon by the Secretary of"
+    },
+    {
+     "role": "body",
+     "text": "Defense and the National Council, Boy Scouts of America.  No"
+    },
+    {
+     "role": "body",
+     "text": "expense shall be incurred by the United States Government for the"
+    },
+    {
+     "role": "body",
+     "text": "delivery and return of such equipment, and the Boy Scouts of America"
+    },
+    {
+     "role": "body",
+     "text": "shall pay for the cost of the actual rehabilitation and repair, or replace-"
+    },
+    {
+     "role": "body",
+     "text": "ment of such equipment."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2076,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07933,
+   "seconds": 22.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11790,
+   "output_tokens": 2044,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.11047,
+  "seconds": 23.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "66\t\tPUBLIC LAW 88-40–JUNE 13, 1963\t[77 STAT.",
+    "b": "66\nPUBLIC LAW 88-40–JUNE 13, 1963\n[77 STAT.",
+    "kept": "66\nPUBLIC LAW 88-40–JUNE 13, 1963\n[77 STAT.",
+    "reason": "The page number stands alone at the left margin; the centered head and the bracketed volume note are separate elements."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "sentence of paragraph (1) of section 632 of title 38, United States",
+    "kept": "sentence of paragraph (1) of section 632 of title 38, United States",
+    "reason": "The sidenote 'Hospitalization' is set beside this body line, so it follows here."
+   },
+   {
+    "run": 3,
+    "a": "sentence of paragraph (1) of section 632 of title 38, United States",
+    "b": "Code, is amended by striking out \"five consecutive fiscal years\", and",
+    "kept": "Code, is amended by striking out \"five consecutive fiscal years\", and",
+    "reason": "After the sidenote 'in Philippines.' the aligned body line is the 'Code, is amended' line."
+   },
+   {
+    "run": 4,
+    "a": "Code, is amended by striking out \"five consecutive fiscal years\", and",
+    "b": "",
+    "kept": "",
+    "reason": "The 'Code, is amended' line was already placed above; nothing else is printed at this point."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "United States of America in Congress assembled, That (a) the Secre-",
+    "kept": "United States of America in Congress assembled, That (a) the Secre-",
+    "reason": "Sidenote 'Boy Scouts of' aligns with this body line."
+   },
+   {
+    "run": 6,
+    "a": "United States of America in Congress assembled, That (a) the Secre-",
+    "b": "tary of Defense is hereby authorized, under such regulations as he may",
+    "kept": "tary of Defense is hereby authorized, under such regulations as he may",
+    "reason": "Sidenote 'America.' aligns with this line, which follows it."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "prescribe, to lend to the Boy Scouts of America, a corporation created",
+    "kept": "prescribe, to lend to the Boy Scouts of America, a corporation created",
+    "reason": "Sidenote 'National Jam-' aligns with this body line."
+   },
+   {
+    "run": 8,
+    "a": "tary of Defense is hereby authorized, under such regulations as he may\nprescribe, to lend to the Boy Scouts of America, a corporation created",
+    "b": "under the Act of June 15, 1916, for the use and accommodation of",
+    "kept": "under the Act of June 15, 1916, for the use and accommodation of",
+    "reason": "After sidenote 'boree.' the aligned body line is this one; the earlier lines were already placed."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "approximately fifty thousand Scouts and officials who are to attend",
+    "kept": "approximately fifty thousand Scouts and officials who are to attend",
+    "reason": "Sidenote 'Equipment.' aligns with this body line."
+   },
+   {
+    "run": 10,
+    "a": "under the Act of June 15, 1916, for the use and accommodation of",
+    "b": "the Sixth National Jamboree of the Boy Scouts of America to be held",
+    "kept": "the Sixth National Jamboree of the Boy Scouts of America to be held",
+    "reason": "Sidenote '39 Stat. 227.' aligns with this body line."
+   },
+   {
+    "run": 11,
+    "a": "approximately fifty thousand Scouts and officials who are to attend\nthe Sixth National Jamboree of the Boy Scouts of America to be held",
+    "b": "",
+    "kept": "",
+    "reason": "Those body lines were already placed above; nothing is printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "66"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 88-40–JUNE 13, 1963"
+  },
+  {
+   "role": "running-head",
+   "text": "[77 STAT."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 88-40"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 13, 1963"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 249]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "body",
+   "text": "To amend section 632 of title 38, United States Code, to provide for an extension"
+  },
+  {
+   "role": "body",
+   "text": "of the program of grants-in-aid to the Republic of the Philippines for the"
+  },
+  {
+   "role": "body",
+   "text": "hospitalization of certain veterans."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Veterans."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the second"
+  },
+  {
+   "role": "sidenote",
+   "text": "Hospitalization"
+  },
+  {
+   "role": "body",
+   "text": "sentence of paragraph (1) of section 632 of title 38, United States"
+  },
+  {
+   "role": "sidenote",
+   "text": "in Philippines."
+  },
+  {
+   "role": "body",
+   "text": "Code, is amended by striking out \"five consecutive fiscal years\", and"
+  },
+  {
+   "role": "sidenote",
+   "text": "72 Stat. 1145."
+  },
+  {
+   "role": "body",
+   "text": "inserting in lieu thereof \"ten consecutive fiscal years,\"; and by insert-"
+  },
+  {
+   "role": "body",
+   "text": "ing before the period at the end of such sentence \"ending before July"
+  },
+  {
+   "role": "body",
+   "text": "1, 1963, nor $500,000 for any one fiscal year beginning on or after"
+  },
+  {
+   "role": "body",
+   "text": "such date\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. Section 632 of title 38, United States Code, is amended by"
+  },
+  {
+   "role": "body",
+   "text": "adding at the end thereof the following: \"Such agreement may also"
+  },
+  {
+   "role": "body",
+   "text": "provide that during the contract period specified in paragraph (1)"
+  },
+  {
+   "role": "body",
+   "text": "of this section, payments for hospital care and for medical services"
+  },
+  {
+   "role": "body",
+   "text": "provided to Commonwealth Army veterans or to United States vet-"
+  },
+  {
+   "role": "body",
+   "text": "erans may consist in whole or in part of available medicines, medical"
+  },
+  {
+   "role": "body",
+   "text": "supplies, and equipment furnished by the Administrator to the Vet-"
+  },
+  {
+   "role": "body",
+   "text": "erans Memorial Hospital at valuations therefor as determined by the"
+  },
+  {
+   "role": "body",
+   "text": "Administrator.  The Administrator is authorized to furnish through"
+  },
+  {
+   "role": "sidenote",
+   "text": "72 Stat.. 1253;"
+  },
+  {
+   "role": "body",
+   "text": "the revolving supply fund, pursuant to section 5011 of this title, such"
+  },
+  {
+   "role": "sidenote",
+   "text": "75 Stat. 675."
+  },
+  {
+   "role": "body",
+   "text": "medicines, medical supplies, and equipment as necessary for this pur-"
+  },
+  {
+   "role": "body",
+   "text": "pose and to use therefor, as applicable, appropriations available for"
+  },
+  {
+   "role": "body",
+   "text": "such payments.\""
+  },
+  {
+   "role": "body",
+   "text": "Approved June 13, 1963."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 88-41"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 21, 1963"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 2439]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "body",
+   "text": "To authorize the Secretary of Defense to lend certain Army, Navy, and Air Force"
+  },
+  {
+   "role": "body",
+   "text": "equipment and provide certain services to the Boy Scouts of America for use"
+  },
+  {
+   "role": "body",
+   "text": "in the 1964 National Jamboree, and for other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Boy Scouts of"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That (a) the Secre-"
+  },
+  {
+   "role": "sidenote",
+   "text": "America."
+  },
+  {
+   "role": "body",
+   "text": "tary of Defense is hereby authorized, under such regulations as he may"
+  },
+  {
+   "role": "sidenote",
+   "text": "National Jam-"
+  },
+  {
+   "role": "body",
+   "text": "prescribe, to lend to the Boy Scouts of America, a corporation created"
+  },
+  {
+   "role": "sidenote",
+   "text": "boree."
+  },
+  {
+   "role": "body",
+   "text": "under the Act of June 15, 1916, for the use and accommodation of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Equipment."
+  },
+  {
+   "role": "body",
+   "text": "approximately fifty thousand Scouts and officials who are to attend"
+  },
+  {
+   "role": "sidenote",
+   "text": "39 Stat. 227."
+  },
+  {
+   "role": "body",
+   "text": "the Sixth National Jamboree of the Boy Scouts of America to be held"
+  },
+  {
+   "role": "sidenote",
+   "text": "36 USC 21-29."
+  },
+  {
+   "role": "body",
+   "text": "at Valley Forge State Park, Pennsylvania, during July and August"
+  },
+  {
+   "role": "body",
+   "text": "1964, such tents, cots, blankets, commissary equipment, flags, refrig-"
+  },
+  {
+   "role": "body",
+   "text": "erators, vehicles, and other equipment and services as may be necessary"
+  },
+  {
+   "role": "body",
+   "text": "or useful to the extent that items are in stock and available and their"
+  },
+  {
+   "role": "body",
+   "text": "issue will not jeopardize the national defense program."
+  },
+  {
+   "role": "body",
+   "text": "(b) Such equipment is authorized to be delivered at such time prior"
+  },
+  {
+   "role": "body",
+   "text": "to the holding of such jamboree and to be returned at such time after"
+  },
+  {
+   "role": "body",
+   "text": "the close of such jamboree, as may be agreed upon by the Secretary of"
+  },
+  {
+   "role": "body",
+   "text": "Defense and the National Council, Boy Scouts of America.  No"
+  },
+  {
+   "role": "body",
+   "text": "expense shall be incurred by the United States Government for the"
+  },
+  {
+   "role": "body",
+   "text": "delivery and return of such equipment, and the Boy Scouts of America"
+  },
+  {
+   "role": "body",
+   "text": "shall pay for the cost of the actual rehabilitation and repair, or replace-"
+  },
+  {
+   "role": "body",
+   "text": "ment of such equipment."
+  }
+ ],
+ "disagreement_count": 11,
+ "tokens": {
+  "input_tokens": 22613,
+  "output_tokens": 6174,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.26858,
+ "seconds": 71.6,
+ "created": "2026-09-08T11:57:35"
+}

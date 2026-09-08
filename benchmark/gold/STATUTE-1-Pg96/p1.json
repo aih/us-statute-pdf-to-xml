@@ -1,0 +1,1473 @@
+{
+ "granule_id": "STATUTE-1-Pg96",
+ "package_id": "STATUTE-1",
+ "volume": 1,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to alter the Time for the next Meeting of Congress.",
+ "date_issued": "1789-09-29",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "96",
+ "image": "data/gold/STATUTE-1-Pg96/p1.png",
+ "image_sha256": "abc2687f3b8469a2821b8b44367faa55a1cfc121fd3a8d161ecde610d1f8cb37",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FIRST CONGRESS.  SESS. I. CH. 27. RESOLUTIONS.  1789."
+    },
+    {
+     "role": "page-number",
+     "text": "96"
+    },
+    {
+     "role": "body",
+     "text": "as to the mode of appointing the officers, and also as is herein after"
+    },
+    {
+     "role": "body",
+     "text": "provided, be, and the same is hereby recognized to be the establishment"
+    },
+    {
+     "role": "body",
+     "text": "for the troops in the service of the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay and al-"
+    },
+    {
+     "role": "sidenote",
+     "text": "lowance of"
+    },
+    {
+     "role": "sidenote",
+     "text": "troops."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the pay and allowances of"
+    },
+    {
+     "role": "body",
+     "text": "the said troops be the same as have been established by the United States"
+    },
+    {
+     "role": "body",
+     "text": "in Congress assembled, by their resolution of the twelfth of April, one"
+    },
+    {
+     "role": "body",
+     "text": "thousand seven hundred and eighty-five."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That all commissioned and non-"
+    },
+    {
+     "role": "body",
+     "text": "commissioned officers and privates, who are or shall be in the service"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, shall take the following oaths or affirmations, to"
+    },
+    {
+     "role": "sidenote",
+     "text": "To take oath"
+    },
+    {
+     "role": "sidenote",
+     "text": "to support the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Constitution,"
+    },
+    {
+     "role": "body",
+     "text": "wit: \"I, A. B. do solemnly swear or affirm (as the case may be) that I"
+    },
+    {
+     "role": "body",
+     "text": "will support the constitution of the United States.\"  \"I, A. B. do"
+    },
+    {
+     "role": "sidenote",
+     "text": "and bear alle-"
+    },
+    {
+     "role": "sidenote",
+     "text": "giance to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "United States."
+    },
+    {
+     "role": "body",
+     "text": "solemnly swear or affirm (as the case may be) to bear true allegiance to"
+    },
+    {
+     "role": "body",
+     "text": "the United States of America, and to serve them honestly and faithfully"
+    },
+    {
+     "role": "body",
+     "text": "against all their enemies or opposers whatsoever, and to observe and"
+    },
+    {
+     "role": "body",
+     "text": "obey the orders of the President of the United States of America, and"
+    },
+    {
+     "role": "body",
+     "text": "the orders of the officers appointed over me.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "*Troops to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "governed by"
+    },
+    {
+     "role": "sidenote",
+     "text": "rules and arti-"
+    },
+    {
+     "role": "sidenote",
+     "text": "cles of war."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That the said troops shall be go-"
+    },
+    {
+     "role": "body",
+     "text": "verned by the rules and articles of war which have been established by"
+    },
+    {
+     "role": "body",
+     "text": "the United States in Congress assembled, or by such rules and articles"
+    },
+    {
+     "role": "body",
+     "text": "of war, as may hereafter by law be established."
+    },
+    {
+     "role": "sidenote",
+     "text": "For protecting"
+    },
+    {
+     "role": "sidenote",
+     "text": "frontiers, Presi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "dent may call"
+    },
+    {
+     "role": "sidenote",
+     "text": "forth the militia."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That for the purpose of protecting"
+    },
+    {
+     "role": "body",
+     "text": "the inhabitants of the frontiers of the United States from the hostile in-"
+    },
+    {
+     "role": "body",
+     "text": "cursions of the Indians, the President is hereby authorized to call into"
+    },
+    {
+     "role": "body",
+     "text": "service from time to time, such part of the militia of the states respect-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay and sub-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sistence."
+    },
+    {
+     "role": "body",
+     "text": "ively, as he may judge necessary for the purpose aforesaid; and that"
+    },
+    {
+     "role": "body",
+     "text": "their pay and subsistence while in service, be the same as the pay and"
+    },
+    {
+     "role": "body",
+     "text": "subsistence of the troops above mentioned."
+    },
+    {
+     "role": "sidenote",
+     "text": "Continuance"
+    },
+    {
+     "role": "sidenote",
+     "text": "of this act."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. And be it further enacted, That this act shall continue and"
+    },
+    {
+     "role": "body",
+     "text": "be in force until the end of the next session of Congress, and no longer."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, September 29, 1789."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "Sept. 29, 1789."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXVII.—An Act to alter the Time for the next Meeting of Congress."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Expired.]"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That after the"
+    },
+    {
+     "role": "body",
+     "text": "adjournment of the present session, the next meeting of Congress shall"
+    },
+    {
+     "role": "body",
+     "text": "be on the first Monday in January next."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, September 29, 1789."
+    },
+    {
+     "role": "body",
+     "text": "RESOLUTIONS."
+    },
+    {
+     "role": "sidenote",
+     "text": "Survey direct-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed by act of"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 6, 1788, to"
+    },
+    {
+     "role": "sidenote",
+     "text": "be made and re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "turned by Sec-"
+    },
+    {
+     "role": "sidenote",
+     "text": "retary of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Treasury with-"
+    },
+    {
+     "role": "sidenote",
+     "text": "out delay."
+    },
+    {
+     "role": "body",
+     "text": "1. RESOLVED, That the Survey directed by Congress in their act of"
+    },
+    {
+     "role": "body",
+     "text": "June the sixth, one thousand seven hundred and eighty-eight, be made"
+    },
+    {
+     "role": "body",
+     "text": "and returned to the Secretary of the Treasury without delay; and that"
+    },
+    {
+     "role": "body",
+     "text": "the President of the United States be requested to appoint a fit person"
+    },
+    {
+     "role": "body",
+     "text": "to complete the same, who shall be allowed five dollars per day whilst"
+    },
+    {
+     "role": "body",
+     "text": "actually employed in the said service, with the expenses necessarily at-"
+    },
+    {
+     "role": "body",
+     "text": "tending the execution thereof."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, August 26, 1789."
+    },
+    {
+     "role": "sidenote",
+     "text": "Recommenda-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion to the Le-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gislatures of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "several States"
+    },
+    {
+     "role": "sidenote",
+     "text": "to pass laws"
+    },
+    {
+     "role": "sidenote",
+     "text": "making it the"
+    },
+    {
+     "role": "sidenote",
+     "text": "duty of their gaols"
+    },
+    {
+     "role": "sidenote",
+     "text": "of their gaols to"
+    },
+    {
+     "role": "body",
+     "text": "2. RESOLVED by the Senate and House of Representatives of the Uni-"
+    },
+    {
+     "role": "body",
+     "text": "ted States of America in Congress assembled, That it be recommended"
+    },
+    {
+     "role": "body",
+     "text": "to the legislatures of the several States to pass laws, making it expressly"
+    },
+    {
+     "role": "body",
+     "text": "the duty of the keepers of their gaols, to receive and safe keep therein"
+    },
+    {
+     "role": "body",
+     "text": "all prisoners committed under the authority of the United States, until"
+    },
+    {
+     "role": "body",
+     "text": "they shall be discharged by due course of the laws thereof, under the"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2518,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09038,
+   "seconds": 27.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "96"
+    },
+    {
+     "role": "running-head",
+     "text": "FIRST CONGRESS.  SESS. I. CH. 27. RESOLUTIONS.  1789."
+    },
+    {
+     "role": "body",
+     "text": "as to the mode of appointing the officers, and also as is herein after"
+    },
+    {
+     "role": "body",
+     "text": "provided, be, and the same is hereby recognized to be the establishment"
+    },
+    {
+     "role": "body",
+     "text": "for the troops in the service of the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay and al-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the pay and allowances of"
+    },
+    {
+     "role": "sidenote",
+     "text": "lowance of"
+    },
+    {
+     "role": "body",
+     "text": "the said troops be the same as have been established by the United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "troops."
+    },
+    {
+     "role": "body",
+     "text": "in Congress assembled, by their resolution of the twelfth of April, one"
+    },
+    {
+     "role": "body",
+     "text": "thousand seven hundred and eighty-five."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That all commissioned and non-"
+    },
+    {
+     "role": "body",
+     "text": "commissioned officers and privates, who are or shall be in the service"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, shall take the following oaths or affirmations, to"
+    },
+    {
+     "role": "sidenote",
+     "text": "To take oath"
+    },
+    {
+     "role": "body",
+     "text": "wit: \"I, A. B. do solemnly swear or affirm (as the case may be) that I"
+    },
+    {
+     "role": "sidenote",
+     "text": "to support the"
+    },
+    {
+     "role": "body",
+     "text": "will support the constitution of the United States.\"  \"I, A. B. do"
+    },
+    {
+     "role": "sidenote",
+     "text": "Constitution,"
+    },
+    {
+     "role": "body",
+     "text": "solemnly swear or affirm (as the case may be) to bear true allegiance to"
+    },
+    {
+     "role": "sidenote",
+     "text": "and bear alle-"
+    },
+    {
+     "role": "body",
+     "text": "the United States of America, and to serve them honestly and faithfully"
+    },
+    {
+     "role": "sidenote",
+     "text": "giance to the"
+    },
+    {
+     "role": "body",
+     "text": "against all their enemies or opposers whatsoever, and to observe and"
+    },
+    {
+     "role": "sidenote",
+     "text": "United States."
+    },
+    {
+     "role": "body",
+     "text": "obey the orders of the President of the United States of America, and"
+    },
+    {
+     "role": "body",
+     "text": "the orders of the officers appointed over me.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "*Troops to be"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That the said troops shall be go-"
+    },
+    {
+     "role": "sidenote",
+     "text": "governed by"
+    },
+    {
+     "role": "body",
+     "text": "verned by the rules and articles of war which have been established by"
+    },
+    {
+     "role": "sidenote",
+     "text": "rules and arti-"
+    },
+    {
+     "role": "body",
+     "text": "the United States in Congress assembled, or by such rules and articles"
+    },
+    {
+     "role": "sidenote",
+     "text": "cles of war."
+    },
+    {
+     "role": "body",
+     "text": "of war, as may hereafter by law be established."
+    },
+    {
+     "role": "sidenote",
+     "text": "For protecting"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That for the purpose of protecting"
+    },
+    {
+     "role": "sidenote",
+     "text": "frontiers, Presi-"
+    },
+    {
+     "role": "body",
+     "text": "the inhabitants of the frontiers of the United States from the hostile in-"
+    },
+    {
+     "role": "sidenote",
+     "text": "dent may call"
+    },
+    {
+     "role": "sidenote",
+     "text": "forth the militia."
+    },
+    {
+     "role": "body",
+     "text": "cursions of the Indians, the President is hereby authorized to call into"
+    },
+    {
+     "role": "body",
+     "text": "service from time to time, such part of the militia of the states respect-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay and sub-"
+    },
+    {
+     "role": "body",
+     "text": "ively, as he may judge necessary for the purpose aforesaid; and that"
+    },
+    {
+     "role": "sidenote",
+     "text": "sistence."
+    },
+    {
+     "role": "body",
+     "text": "their pay and subsistence while in service, be the same as the pay and"
+    },
+    {
+     "role": "body",
+     "text": "subsistence of the troops above mentioned."
+    },
+    {
+     "role": "sidenote",
+     "text": "Continuance"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. And be it further enacted, That this act shall continue and"
+    },
+    {
+     "role": "sidenote",
+     "text": "of this act."
+    },
+    {
+     "role": "body",
+     "text": "be in force until the end of the next session of Congress, and no longer."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, September 29, 1789."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "Sept. 29, 1789."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXVII.—An Act to alter the Time for the next Meeting of Congress."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Expired.]"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That after the"
+    },
+    {
+     "role": "body",
+     "text": "adjournment of the present session, the next meeting of Congress shall"
+    },
+    {
+     "role": "body",
+     "text": "be on the first Monday in January next."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, September 29, 1789."
+    },
+    {
+     "role": "body",
+     "text": "RESOLUTIONS."
+    },
+    {
+     "role": "sidenote",
+     "text": "Survey direct-"
+    },
+    {
+     "role": "body",
+     "text": "1. RESOLVED, That the Survey directed by Congress in their act of"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed by act of"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 6, 1788, to"
+    },
+    {
+     "role": "body",
+     "text": "June the sixth, one thousand seven hundred and eighty-eight, be made"
+    },
+    {
+     "role": "sidenote",
+     "text": "be made and re-"
+    },
+    {
+     "role": "body",
+     "text": "and returned to the Secretary of the Treasury without delay; and that"
+    },
+    {
+     "role": "sidenote",
+     "text": "turned by Sec-"
+    },
+    {
+     "role": "body",
+     "text": "the President of the United States be requested to appoint a fit person"
+    },
+    {
+     "role": "sidenote",
+     "text": "retary of the"
+    },
+    {
+     "role": "body",
+     "text": "to complete the same, who shall be allowed five dollars per day whilst"
+    },
+    {
+     "role": "sidenote",
+     "text": "Treasury with-"
+    },
+    {
+     "role": "body",
+     "text": "actually employed in the said service, with the expenses necessarily at-"
+    },
+    {
+     "role": "sidenote",
+     "text": "out delay."
+    },
+    {
+     "role": "body",
+     "text": "tending the execution thereof."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, August 26, 1789."
+    },
+    {
+     "role": "sidenote",
+     "text": "Recommenda-"
+    },
+    {
+     "role": "body",
+     "text": "2. RESOLVED by the Senate and House of Representatives of the Uni-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion to the Le-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gislatures of the"
+    },
+    {
+     "role": "body",
+     "text": "ted States of America in Congress assembled, That it be recommended"
+    },
+    {
+     "role": "sidenote",
+     "text": "several States"
+    },
+    {
+     "role": "body",
+     "text": "to the legislatures of the several States to pass laws, making it expressly"
+    },
+    {
+     "role": "sidenote",
+     "text": "to pass laws"
+    },
+    {
+     "role": "body",
+     "text": "the duty of the keepers of their gaols, to receive and safe keep therein"
+    },
+    {
+     "role": "sidenote",
+     "text": "making it the"
+    },
+    {
+     "role": "body",
+     "text": "all prisoners committed under the authority of the United States, until"
+    },
+    {
+     "role": "sidenote",
+     "text": "duty of their gaols to"
+    },
+    {
+     "role": "body",
+     "text": "they shall be discharged by due course of the laws thereof, under the"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2498,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08988,
+   "seconds": 26.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 14163,
+   "output_tokens": 3178,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.15068,
+  "seconds": 34.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "96",
+    "kept": "96",
+    "reason": "The page number 96 is printed at the left of the head line, so it comes first in reading order."
+   },
+   {
+    "run": 2,
+    "a": "96",
+    "b": "",
+    "kept": "",
+    "reason": "Page number already placed before the running head; not repeated."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "SEC. 2. And be it further enacted, That the pay and allowances of",
+    "kept": "",
+    "reason": "Sidenote block is printed as a unit; the body line follows after it."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "the said troops be the same as have been established by the United States",
+    "kept": "",
+    "reason": "Sidenote block kept together; body line placed after."
+   },
+   {
+    "run": 5,
+    "a": "SEC. 2. And be it further enacted, That the pay and allowances of\nthe said troops be the same as have been established by the United States",
+    "b": "",
+    "kept": "SEC. 2. And be it further enacted, That the pay and allowances of\nthe said troops be the same as have been established by the United States",
+    "reason": "These body lines follow the complete 'Pay and allowance of troops.' sidenote."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "wit: \"I, A. B. do solemnly swear or affirm (as the case may be) that I",
+    "kept": "",
+    "reason": "Sidenote block printed together; body follows."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "will support the constitution of the United States.\"  \"I, A. B. do",
+    "kept": "",
+    "reason": "Sidenote block printed together; body follows."
+   },
+   {
+    "run": 8,
+    "a": "wit: \"I, A. B. do solemnly swear or affirm (as the case may be) that I\nwill support the constitution of the United States.\"  \"I, A. B. do",
+    "b": "solemnly swear or affirm (as the case may be) to bear true allegiance to",
+    "kept": "wit: \"I, A. B. do solemnly swear or affirm (as the case may be) that I\nwill support the constitution of the United States.\"  \"I, A. B. do",
+    "reason": "Body lines beside the first part of the sidenote, placed after that sidenote block."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "the United States of America, and to serve them honestly and faithfully",
+    "kept": "",
+    "reason": "Second sidenote block kept together."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "against all their enemies or opposers whatsoever, and to observe and",
+    "kept": "",
+    "reason": "Second sidenote block kept together."
+   },
+   {
+    "run": 11,
+    "a": "solemnly swear or affirm (as the case may be) to bear true allegiance to\nthe United States of America, and to serve them honestly and faithfully\nagainst all their enemies or opposers whatsoever, and to observe and",
+    "b": "",
+    "kept": "solemnly swear or affirm (as the case may be) to bear true allegiance to\nthe United States of America, and to serve them honestly and faithfully\nagainst all their enemies or opposers whatsoever, and to observe and",
+    "reason": "Body lines following the 'and bear allegiance to the United States.' sidenote."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "SEC. 4. And be it further enacted, That the said troops shall be go-",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "verned by the rules and articles of war which have been established by",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "the United States in Congress assembled, or by such rules and articles",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 15,
+    "a": "SEC. 4. And be it further enacted, That the said troops shall be go-\nverned by the rules and articles of war which have been established by\nthe United States in Congress assembled, or by such rules and articles",
+    "b": "",
+    "kept": "SEC. 4. And be it further enacted, That the said troops shall be go-\nverned by the rules and articles of war which have been established by\nthe United States in Congress assembled, or by such rules and articles",
+    "reason": "Body lines follow the complete 'Troops to be governed...' sidenote."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "SEC. 5. And be it further enacted, That for the purpose of protecting",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "the inhabitants of the frontiers of the United States from the hostile in-",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 18,
+    "a": "SEC. 5. And be it further enacted, That for the purpose of protecting\nthe inhabitants of the frontiers of the United States from the hostile in-",
+    "b": "",
+    "kept": "SEC. 5. And be it further enacted, That for the purpose of protecting\nthe inhabitants of the frontiers of the United States from the hostile in-",
+    "reason": "Body lines follow the 'For protecting frontiers...' sidenote block."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "ively, as he may judge necessary for the purpose aforesaid; and that",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 20,
+    "a": "ively, as he may judge necessary for the purpose aforesaid; and that",
+    "b": "",
+    "kept": "ively, as he may judge necessary for the purpose aforesaid; and that",
+    "reason": "Body line follows the 'Pay and subsistence.' sidenote."
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "SEC. 6. And be it further enacted, That this act shall continue and",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 22,
+    "a": "SEC. 6. And be it further enacted, That this act shall continue and",
+    "b": "",
+    "kept": "SEC. 6. And be it further enacted, That this act shall continue and",
+    "reason": "Body line follows the 'Continuance of this act.' sidenote."
+   },
+   {
+    "run": 23,
+    "a": "",
+    "b": "SECTION 1. Be it enacted by the Senate and House of Representatives",
+    "kept": "",
+    "reason": "Sidenote [Expired.] precedes the body of the section."
+   },
+   {
+    "run": 24,
+    "a": "SECTION 1. Be it enacted by the Senate and House of Representatives",
+    "b": "",
+    "kept": "SECTION 1. Be it enacted by the Senate and House of Representatives",
+    "reason": "Body line printed beside the [Expired.] sidenote, placed after it."
+   },
+   {
+    "run": 25,
+    "a": "",
+    "b": "1. RESOLVED, That the Survey directed by Congress in their act of",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 26,
+    "a": "",
+    "b": "June the sixth, one thousand seven hundred and eighty-eight, be made",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 27,
+    "a": "",
+    "b": "and returned to the Secretary of the Treasury without delay; and that",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 28,
+    "a": "",
+    "b": "the President of the United States be requested to appoint a fit person",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 29,
+    "a": "",
+    "b": "to complete the same, who shall be allowed five dollars per day whilst",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 30,
+    "a": "",
+    "b": "actually employed in the said service, with the expenses necessarily at-",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 31,
+    "a": "1. RESOLVED, That the Survey directed by Congress in their act of\nJune the sixth, one thousand seven hundred and eighty-eight, be made\nand returned to the Secretary of the Treasury without delay; and that\nthe President of the United States be requested to appoint a fit person\nto complete the same, who shall be allowed five dollars per day whilst\nactually employed in the said service, with the expenses necessarily at-",
+    "b": "",
+    "kept": "1. RESOLVED, That the Survey directed by Congress in their act of\nJune the sixth, one thousand seven hundred and eighty-eight, be made\nand returned to the Secretary of the Treasury without delay; and that\nthe President of the United States be requested to appoint a fit person\nto complete the same, who shall be allowed five dollars per day whilst\nactually employed in the said service, with the expenses necessarily at-",
+    "reason": "Body lines of Resolution 1 follow the complete sidenote block."
+   },
+   {
+    "run": 32,
+    "a": "",
+    "b": "2. RESOLVED by the Senate and House of Representatives of the Uni-",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 33,
+    "a": "",
+    "b": "ted States of America in Congress assembled, That it be recommended",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 34,
+    "a": "",
+    "b": "to the legislatures of the several States to pass laws, making it expressly",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 35,
+    "a": "",
+    "b": "the duty of the keepers of their gaols, to receive and safe keep therein",
+    "kept": "",
+    "reason": "Sidenote block kept together."
+   },
+   {
+    "run": 36,
+    "a": "duty of their gaols\nof their gaols to\n2. RESOLVED by the Senate and House of Representatives of the Uni-\nted States of America in Congress assembled, That it be recommended\nto the legislatures of the several States to pass laws, making it expressly\nthe duty of the keepers of their gaols, to receive and safe keep therein",
+    "b": "",
+    "kept": "duty of keepers\nof their gaols to\n2. RESOLVED by the Senate and House of Representatives of the Uni-\nted States of America in Congress assembled, That it be recommended\nto the legislatures of the several States to pass laws, making it expressly\nthe duty of the keepers of their gaols, to receive and safe keep therein",
+    "reason": "Image shows sidenote lines 'duty of keepers' and 'of their gaols to'; A misread the first line. Body of Resolution 2 follows."
+   },
+   {
+    "run": 37,
+    "a": "",
+    "b": "duty of their gaols to",
+    "kept": "",
+    "reason": "No such sidenote line; the final sidenote lines were given correctly in the preceding run."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "96"
+  },
+  {
+   "role": "running-head",
+   "text": "FIRST CONGRESS.  SESS. I. CH. 27. RESOLUTIONS.  1789."
+  },
+  {
+   "role": "body",
+   "text": "as to the mode of appointing the officers, and also as is herein after"
+  },
+  {
+   "role": "body",
+   "text": "provided, be, and the same is hereby recognized to be the establishment"
+  },
+  {
+   "role": "body",
+   "text": "for the troops in the service of the United States."
+  },
+  {
+   "role": "sidenote",
+   "text": "Pay and al-"
+  },
+  {
+   "role": "sidenote",
+   "text": "lowance of"
+  },
+  {
+   "role": "sidenote",
+   "text": "troops."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the pay and allowances of"
+  },
+  {
+   "role": "body",
+   "text": "the said troops be the same as have been established by the United States"
+  },
+  {
+   "role": "body",
+   "text": "in Congress assembled, by their resolution of the twelfth of April, one"
+  },
+  {
+   "role": "body",
+   "text": "thousand seven hundred and eighty-five."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That all commissioned and non-"
+  },
+  {
+   "role": "body",
+   "text": "commissioned officers and privates, who are or shall be in the service"
+  },
+  {
+   "role": "body",
+   "text": "of the United States, shall take the following oaths or affirmations, to"
+  },
+  {
+   "role": "sidenote",
+   "text": "To take oath"
+  },
+  {
+   "role": "sidenote",
+   "text": "to support the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Constitution,"
+  },
+  {
+   "role": "body",
+   "text": "wit: \"I, A. B. do solemnly swear or affirm (as the case may be) that I"
+  },
+  {
+   "role": "body",
+   "text": "will support the constitution of the United States.\"  \"I, A. B. do"
+  },
+  {
+   "role": "sidenote",
+   "text": "and bear alle-"
+  },
+  {
+   "role": "sidenote",
+   "text": "giance to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "United States."
+  },
+  {
+   "role": "body",
+   "text": "solemnly swear or affirm (as the case may be) to bear true allegiance to"
+  },
+  {
+   "role": "body",
+   "text": "the United States of America, and to serve them honestly and faithfully"
+  },
+  {
+   "role": "body",
+   "text": "against all their enemies or opposers whatsoever, and to observe and"
+  },
+  {
+   "role": "body",
+   "text": "obey the orders of the President of the United States of America, and"
+  },
+  {
+   "role": "body",
+   "text": "the orders of the officers appointed over me.\""
+  },
+  {
+   "role": "sidenote",
+   "text": "*Troops to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "governed by"
+  },
+  {
+   "role": "sidenote",
+   "text": "rules and arti-"
+  },
+  {
+   "role": "sidenote",
+   "text": "cles of war."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. And be it further enacted, That the said troops shall be go-"
+  },
+  {
+   "role": "body",
+   "text": "verned by the rules and articles of war which have been established by"
+  },
+  {
+   "role": "body",
+   "text": "the United States in Congress assembled, or by such rules and articles"
+  },
+  {
+   "role": "body",
+   "text": "of war, as may hereafter by law be established."
+  },
+  {
+   "role": "sidenote",
+   "text": "For protecting"
+  },
+  {
+   "role": "sidenote",
+   "text": "frontiers, Presi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "dent may call"
+  },
+  {
+   "role": "sidenote",
+   "text": "forth the militia."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. And be it further enacted, That for the purpose of protecting"
+  },
+  {
+   "role": "body",
+   "text": "the inhabitants of the frontiers of the United States from the hostile in-"
+  },
+  {
+   "role": "body",
+   "text": "cursions of the Indians, the President is hereby authorized to call into"
+  },
+  {
+   "role": "body",
+   "text": "service from time to time, such part of the militia of the states respect-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Pay and sub-"
+  },
+  {
+   "role": "sidenote",
+   "text": "sistence."
+  },
+  {
+   "role": "body",
+   "text": "ively, as he may judge necessary for the purpose aforesaid; and that"
+  },
+  {
+   "role": "body",
+   "text": "their pay and subsistence while in service, be the same as the pay and"
+  },
+  {
+   "role": "body",
+   "text": "subsistence of the troops above mentioned."
+  },
+  {
+   "role": "sidenote",
+   "text": "Continuance"
+  },
+  {
+   "role": "sidenote",
+   "text": "of this act."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 6. And be it further enacted, That this act shall continue and"
+  },
+  {
+   "role": "body",
+   "text": "be in force until the end of the next session of Congress, and no longer."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, September 29, 1789."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "Sept. 29, 1789."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXVII.—An Act to alter the Time for the next Meeting of Congress."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Expired.]"
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+  },
+  {
+   "role": "body",
+   "text": "of the United States of America in Congress assembled, That after the"
+  },
+  {
+   "role": "body",
+   "text": "adjournment of the present session, the next meeting of Congress shall"
+  },
+  {
+   "role": "body",
+   "text": "be on the first Monday in January next."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, September 29, 1789."
+  },
+  {
+   "role": "body",
+   "text": "RESOLUTIONS."
+  },
+  {
+   "role": "sidenote",
+   "text": "Survey direct-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ed by act of"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 6, 1788, to"
+  },
+  {
+   "role": "sidenote",
+   "text": "be made and re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "turned by Sec-"
+  },
+  {
+   "role": "sidenote",
+   "text": "retary of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Treasury with-"
+  },
+  {
+   "role": "sidenote",
+   "text": "out delay."
+  },
+  {
+   "role": "body",
+   "text": "1. RESOLVED, That the Survey directed by Congress in their act of"
+  },
+  {
+   "role": "body",
+   "text": "June the sixth, one thousand seven hundred and eighty-eight, be made"
+  },
+  {
+   "role": "body",
+   "text": "and returned to the Secretary of the Treasury without delay; and that"
+  },
+  {
+   "role": "body",
+   "text": "the President of the United States be requested to appoint a fit person"
+  },
+  {
+   "role": "body",
+   "text": "to complete the same, who shall be allowed five dollars per day whilst"
+  },
+  {
+   "role": "body",
+   "text": "actually employed in the said service, with the expenses necessarily at-"
+  },
+  {
+   "role": "body",
+   "text": "tending the execution thereof."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, August 26, 1789."
+  },
+  {
+   "role": "sidenote",
+   "text": "Recommenda-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tion to the Le-"
+  },
+  {
+   "role": "sidenote",
+   "text": "gislatures of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "several States"
+  },
+  {
+   "role": "sidenote",
+   "text": "to pass laws"
+  },
+  {
+   "role": "sidenote",
+   "text": "making it the"
+  },
+  {
+   "role": "sidenote",
+   "text": "duty of keepers"
+  },
+  {
+   "role": "sidenote",
+   "text": "of their gaols to"
+  },
+  {
+   "role": "body",
+   "text": "2. RESOLVED by the Senate and House of Representatives of the Uni-"
+  },
+  {
+   "role": "body",
+   "text": "ted States of America in Congress assembled, That it be recommended"
+  },
+  {
+   "role": "body",
+   "text": "to the legislatures of the several States to pass laws, making it expressly"
+  },
+  {
+   "role": "body",
+   "text": "the duty of the keepers of their gaols, to receive and safe keep therein"
+  },
+  {
+   "role": "body",
+   "text": "all prisoners committed under the authority of the United States, until"
+  },
+  {
+   "role": "body",
+   "text": "they shall be discharged by due course of the laws thereof, under the"
+  }
+ ],
+ "disagreement_count": 37,
+ "tokens": {
+  "input_tokens": 24986,
+  "output_tokens": 8194,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.33094,
+ "seconds": 88.3,
+ "created": "2026-09-08T11:25:54"
+}

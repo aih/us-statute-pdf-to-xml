@@ -1,0 +1,1203 @@
+{
+ "granule_id": "STATUTE-17-Pg578-2",
+ "package_id": "STATUTE-17",
+ "volume": 17,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend an Act entitled \"An Act to establish the Department of Justice, and for other Purposes.\"",
+ "date_issued": "1873-03-03",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "578",
+ "image": "data/gold/STATUTE-17-Pg578-2/p1.png",
+ "image_sha256": "958f7d122c697b97ae7587fa4c92ca0bc7b57902406e5bef95ebc49ebe9976dc",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "578            FORTY-SECOND CONGRESS.  SESS. III.  CH. 237-239.  1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXXXVII. — An Act to amend an Act entitled \"An Act making Appropria-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1869, ch. 124, § 6."
+    },
+    {
+     "role": "body",
+     "text": "tions for the Support of the Army for the  Year ending June thirtieth, eighteen hundred"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. xv. p. 318."
+    },
+    {
+     "role": "body",
+     "text": "and seventy,\" approved March third, eighteen hundred and sixty-nine."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "The President"
+    },
+    {
+     "role": "body",
+     "text": "States of America, in Congress assembled, That the sixth section of an act"
+    },
+    {
+     "role": "sidenote",
+     "text": "may appoint one"
+    },
+    {
+     "role": "body",
+     "text": "entitled \" An act making appropriations for the support of the army for"
+    },
+    {
+     "role": "sidenote",
+     "text": "assistant adju-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tant-general with"
+    },
+    {
+     "role": "body",
+     "text": "the year ending June thirtieth, eighteen hundred and seventy,\" approved"
+    },
+    {
+     "role": "sidenote",
+     "text": "the rank, &c."
+    },
+    {
+     "role": "body",
+     "text": "March third, eighteen hundred and sixty-nine, is so far modified as to"
+    },
+    {
+     "role": "body",
+     "text": "authorize and permit the President of the United States to nominate, and,"
+    },
+    {
+     "role": "body",
+     "text": "by and with the advice and consent of the Senate, to appoint, one assistant"
+    },
+    {
+     "role": "body",
+     "text": "adjutant-general with the rank, pay, and emoluments of a major in the"
+    },
+    {
+     "role": "body",
+     "text": "said department."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXXXVIII. — An Act to amend an Act entitled \"An Act to establish the De-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1870, ch.150, §12."
+    },
+    {
+     "role": "body",
+     "text": "partment of Justice, and for other Purposes.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. xvi. p. 164."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Annual report"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the twelfth section of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "of Attorney Gen-"
+    },
+    {
+     "role": "body",
+     "text": "act entitled \" An act to establish the Department of Justice, and for other"
+    },
+    {
+     "role": "sidenote",
+     "text": "eral, when to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "made, and to in-"
+    },
+    {
+     "role": "body",
+     "text": "purposes,\" approved June twenty-second, eighteen hundred and seventy,"
+    },
+    {
+     "role": "sidenote",
+     "text": "clude what."
+    },
+    {
+     "role": "body",
+     "text": "is hereby amended so as to read as follows: \" That it shall be the duty of"
+    },
+    {
+     "role": "body",
+     "text": "the Attorney General to make to Congress, at the commencement of each"
+    },
+    {
+     "role": "body",
+     "text": "regular session of Congress, a report of the business of the said department"
+    },
+    {
+     "role": "body",
+     "text": "for the last preceding fiscal year, and of any other matters appertaining"
+    },
+    {
+     "role": "body",
+     "text": "thereto, that he may deem proper, including a statement of the several"
+    },
+    {
+     "role": "body",
+     "text": "appropriations now, or which may hereafter be, placed under its control,"
+    },
+    {
+     "role": "body",
+     "text": "the amount appropriated, and a detailed statement of the amounts used"
+    },
+    {
+     "role": "body",
+     "text": "for defraying the expenses of the United States courts in each judicial"
+    },
+    {
+     "role": "body",
+     "text": "district; also the statistice of crime under the laws of the United States,"
+    },
+    {
+     "role": "body",
+     "text": "and a statement of the number of causes, civil and criminal, pending"
+    },
+    {
+     "role": "body",
+     "text": "during the preceding year in each of the several courts of the United"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Statutes and"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That the Secretary of the Interior be, and he is hereby,"
+    },
+    {
+     "role": "sidenote",
+     "text": "reports to be fur-"
+    },
+    {
+     "role": "body",
+     "text": "authorized and required to furnish to the head of the Department of"
+    },
+    {
+     "role": "sidenote",
+     "text": "nished to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Department of"
+    },
+    {
+     "role": "body",
+     "text": "Justice, from time to time, as they may be published, a sufficient number"
+    },
+    {
+     "role": "sidenote",
+     "text": "Justice for distri-"
+    },
+    {
+     "role": "body",
+     "text": "of the statutes of the United States, and the reports of the Supreme"
+    },
+    {
+     "role": "sidenote",
+     "text": "bution."
+    },
+    {
+     "role": "body",
+     "text": "Court of the United States, to be by him distributed to such officers of"
+    },
+    {
+     "role": "body",
+     "text": "the courts of the United States as are now or may hereafter be by law"
+    },
+    {
+     "role": "body",
+     "text": "entitled to receive them; and all laws or parts of laws authorizing the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Repealing"
+    },
+    {
+     "role": "body",
+     "text": "distribution of such statutes and reports of the Supreme Court to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "clause."
+    },
+    {
+     "role": "body",
+     "text": "officers of the courts of the United States by the head of any other"
+    },
+    {
+     "role": "body",
+     "text": "executive department of the government be, and the same are hereby,"
+    },
+    {
+     "role": "body",
+     "text": "repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Register to be"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That a register of such books shall be kept, under the"
+    },
+    {
+     "role": "sidenote",
+     "text": "kept of books"
+    },
+    {
+     "role": "body",
+     "text": "authority of the head of the Department of Justice, showing the quan-"
+    },
+    {
+     "role": "sidenote",
+     "text": "received and dis-"
+    },
+    {
+     "role": "body",
+     "text": "tity of each kind received by him in pursuance of this act; and it shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "tributed."
+    },
+    {
+     "role": "body",
+     "text": "be his duty to cause to be entered in such register, and at the proper time,"
+    },
+    {
+     "role": "body",
+     "text": "when, where, and to whom the same, or any part of them, have been"
+    },
+    {
+     "role": "body",
+     "text": "distributed and delivered, and to report the same to Congress in his annual"
+    },
+    {
+     "role": "body",
+     "text": "report."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXXXIX. — An Act fixing the Time for the Election of Representatives from"
+    },
+    {
+     "role": "body",
+     "text": "the State of California to the forty-fourth Congress"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Time for elec-"
+    },
+    {
+     "role": "body",
+     "text": "States of America, in Congress assembled, That on the first Wednesday in"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion of repre-"
+    },
+    {
+     "role": "body",
+     "text": "September, in the year eighteen hundred and seventy-four, there shall be"
+    },
+    {
+     "role": "body",
+     "text": "elected in each congressional district in the State of California one"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2500,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08993,
+   "seconds": 28.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "578"
+    },
+    {
+     "role": "running-head",
+     "text": "FORTY-SECOND CONGRESS.  SESS. III.  CH. 237-239.  1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "1869, ch. 124, § 6."
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. xv. p. 318."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXXXVII. — An Act to amend an Act entitled \"An Act making Appropria-"
+    },
+    {
+     "role": "body",
+     "text": "tions for the Support of the Army for the Year ending June thirtieth, eighteen hundred"
+    },
+    {
+     "role": "body",
+     "text": "and seventy,\" approved March third, eighteen hundred and sixty-nine."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "The President"
+    },
+    {
+     "role": "body",
+     "text": "States of America, in Congress assembled, That the sixth section of an act"
+    },
+    {
+     "role": "sidenote",
+     "text": "may appoint one"
+    },
+    {
+     "role": "body",
+     "text": "entitled \" An act making appropriations for the support of the army for"
+    },
+    {
+     "role": "sidenote",
+     "text": "assistant adju-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tant-general with"
+    },
+    {
+     "role": "body",
+     "text": "the year ending June thirtieth, eighteen hundred and seventy,\" approved"
+    },
+    {
+     "role": "sidenote",
+     "text": "the rank, &c."
+    },
+    {
+     "role": "body",
+     "text": "March third, eighteen hundred and sixty-nine, is so far modified as to"
+    },
+    {
+     "role": "body",
+     "text": "authorize and permit the President of the United States to nominate, and,"
+    },
+    {
+     "role": "body",
+     "text": "by and with the advice and consent of the Senate, to appoint, one assistant"
+    },
+    {
+     "role": "body",
+     "text": "adjutant-general with the rank, pay, and emoluments of a major in the"
+    },
+    {
+     "role": "body",
+     "text": "said department."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "1870, ch.150, §12."
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. xvi. p. 164."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXXXVIII. — An Act to amend an Act entitled \"An Act to establish the De-"
+    },
+    {
+     "role": "body",
+     "text": "partment of Justice, and for other Purposes.\""
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Annual report"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the twelfth section of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "of Attorney Gen-"
+    },
+    {
+     "role": "body",
+     "text": "act entitled \" An act to establish the Department of Justice, and for other"
+    },
+    {
+     "role": "sidenote",
+     "text": "eral, when to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "made, and to in-"
+    },
+    {
+     "role": "body",
+     "text": "purposes,\" approved June twenty-second, eighteen hundred and seventy,"
+    },
+    {
+     "role": "sidenote",
+     "text": "clude what."
+    },
+    {
+     "role": "body",
+     "text": "is hereby amended so as to read as follows: \" That it shall be the duty of"
+    },
+    {
+     "role": "body",
+     "text": "the Attorney General to make to Congress, at the commencement of each"
+    },
+    {
+     "role": "body",
+     "text": "regular session of Congress, a report of the business of the said department"
+    },
+    {
+     "role": "body",
+     "text": "for the last preceding fiscal year, and of any other matters appertaining"
+    },
+    {
+     "role": "body",
+     "text": "thereto, that he may deem proper, including a statement of the several"
+    },
+    {
+     "role": "body",
+     "text": "appropriations now, or which may hereafter be, placed under its control,"
+    },
+    {
+     "role": "body",
+     "text": "the amount appropriated, and a detailed statement of the amounts used"
+    },
+    {
+     "role": "body",
+     "text": "for defraying the expenses of the United States courts in each judicial"
+    },
+    {
+     "role": "body",
+     "text": "district; also the statistice of crime under the laws of the United States,"
+    },
+    {
+     "role": "body",
+     "text": "and a statement of the number of causes, civil and criminal, pending"
+    },
+    {
+     "role": "body",
+     "text": "during the preceding year in each of the several courts of the United"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Statutes and"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That the Secretary of the Interior be, and he is hereby,"
+    },
+    {
+     "role": "sidenote",
+     "text": "reports to be fur-"
+    },
+    {
+     "role": "body",
+     "text": "authorized and required to furnish to the head of the Department of"
+    },
+    {
+     "role": "sidenote",
+     "text": "nished to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Department of"
+    },
+    {
+     "role": "body",
+     "text": "Justice, from time to time, as they may be published, a sufficient number"
+    },
+    {
+     "role": "sidenote",
+     "text": "Justice for distri-"
+    },
+    {
+     "role": "body",
+     "text": "of the statutes of the United States, and the reports of the Supreme"
+    },
+    {
+     "role": "sidenote",
+     "text": "bution."
+    },
+    {
+     "role": "body",
+     "text": "Court of the United States, to be by him distributed to such officers of"
+    },
+    {
+     "role": "body",
+     "text": "the courts of the United States as are now or may hereafter be by law"
+    },
+    {
+     "role": "body",
+     "text": "entitled to receive them; and all laws or parts of laws authorizing the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Repealing"
+    },
+    {
+     "role": "body",
+     "text": "distribution of such statutes and reports of the Supreme Court to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "clause."
+    },
+    {
+     "role": "body",
+     "text": "officers of the courts of the United States by the head of any other"
+    },
+    {
+     "role": "body",
+     "text": "executive department of the government be, and the same are hereby,"
+    },
+    {
+     "role": "body",
+     "text": "repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Register to be"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That a register of such books shall be kept, under the"
+    },
+    {
+     "role": "sidenote",
+     "text": "kept of books"
+    },
+    {
+     "role": "body",
+     "text": "authority of the head of the Department of Justice, showing the quan-"
+    },
+    {
+     "role": "sidenote",
+     "text": "received and dis-"
+    },
+    {
+     "role": "body",
+     "text": "tity of each kind received by him in pursuance of this act; and it shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "tributed."
+    },
+    {
+     "role": "body",
+     "text": "be his duty to cause to be entered in such register, and at the proper time,"
+    },
+    {
+     "role": "body",
+     "text": "when, where, and to whom the same, or any part of them, have been"
+    },
+    {
+     "role": "body",
+     "text": "distributed and delivered, and to report the same to Congress in his annual"
+    },
+    {
+     "role": "body",
+     "text": "report."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXXXIX. — An Act fixing the Time for the Election of Representatives from"
+    },
+    {
+     "role": "body",
+     "text": "the State of California to the forty-fourth Congress"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Time for elec-"
+    },
+    {
+     "role": "body",
+     "text": "States of America, in Congress assembled, That on the first Wednesday in"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion of repre-"
+    },
+    {
+     "role": "body",
+     "text": "September, in the year eighteen hundred and seventy-four, there shall be"
+    },
+    {
+     "role": "body",
+     "text": "elected in each congressional district in the State of California one"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2512,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09023,
+   "seconds": 29.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12118,
+   "output_tokens": 774,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.08036,
+  "seconds": 12.3,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "578            FORTY-SECOND CONGRESS.  SESS. III.  CH. 237-239.  1873.",
+    "b": "578\nFORTY-SECOND CONGRESS.  SESS. III.  CH. 237-239.  1873.",
+    "kept": "578\nFORTY-SECOND CONGRESS.  SESS. III.  CH. 237-239.  1873.",
+    "reason": "The line carries a folio and a running head; the folio is a separate page-number element."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "1869, ch. 124, § 6.\nVol. xv. p. 318.",
+    "kept": "",
+    "reason": "These sidenotes appear later, aligned with the second and third heading lines, not here."
+   },
+   {
+    "run": 3,
+    "a": "1869, ch. 124, § 6.",
+    "b": "",
+    "kept": "1869, ch. 124, § 6.",
+    "reason": "Sidenote is printed beside the second line of the chapter heading."
+   },
+   {
+    "run": 4,
+    "a": "Vol. xv. p. 318.",
+    "b": "",
+    "kept": "Vol. xv. p. 318.",
+    "reason": "Sidenote is printed beside the third line of the chapter heading."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "1870, ch.150, §12.\nVol. xvi. p. 164.",
+    "kept": "",
+    "reason": "These sidenotes belong beside the following heading lines, not stacked here."
+   },
+   {
+    "run": 6,
+    "a": "1870, ch.150, §12.",
+    "b": "",
+    "kept": "1870, ch.150, §12.",
+    "reason": "Sidenote aligns with the second line of chapter CCXXXVIII's heading."
+   },
+   {
+    "run": 7,
+    "a": "Vol. xvi. p. 164.",
+    "b": "",
+    "kept": "Vol. xvi. p. 164.",
+    "reason": "Sidenote aligns with the line following the heading, as printed."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "578"
+  },
+  {
+   "role": "running-head",
+   "text": "FORTY-SECOND CONGRESS.  SESS. III.  CH. 237-239.  1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1873."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCXXXVII. — An Act to amend an Act entitled \"An Act making Appropria-"
+  },
+  {
+   "role": "sidenote",
+   "text": "1869, ch. 124, § 6."
+  },
+  {
+   "role": "body",
+   "text": "tions for the Support of the Army for the  Year ending June thirtieth, eighteen hundred"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. xv. p. 318."
+  },
+  {
+   "role": "body",
+   "text": "and seventy,\" approved March third, eighteen hundred and sixty-nine."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "The President"
+  },
+  {
+   "role": "body",
+   "text": "States of America, in Congress assembled, That the sixth section of an act"
+  },
+  {
+   "role": "sidenote",
+   "text": "may appoint one"
+  },
+  {
+   "role": "body",
+   "text": "entitled \" An act making appropriations for the support of the army for"
+  },
+  {
+   "role": "sidenote",
+   "text": "assistant adju-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tant-general with"
+  },
+  {
+   "role": "body",
+   "text": "the year ending June thirtieth, eighteen hundred and seventy,\" approved"
+  },
+  {
+   "role": "sidenote",
+   "text": "the rank, &c."
+  },
+  {
+   "role": "body",
+   "text": "March third, eighteen hundred and sixty-nine, is so far modified as to"
+  },
+  {
+   "role": "body",
+   "text": "authorize and permit the President of the United States to nominate, and,"
+  },
+  {
+   "role": "body",
+   "text": "by and with the advice and consent of the Senate, to appoint, one assistant"
+  },
+  {
+   "role": "body",
+   "text": "adjutant-general with the rank, pay, and emoluments of a major in the"
+  },
+  {
+   "role": "body",
+   "text": "said department."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1873."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCXXXVIII. — An Act to amend an Act entitled \"An Act to establish the De-"
+  },
+  {
+   "role": "sidenote",
+   "text": "1870, ch.150, §12."
+  },
+  {
+   "role": "body",
+   "text": "partment of Justice, and for other Purposes.\""
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. xvi. p. 164."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Annual report"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the twelfth section of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "of Attorney Gen-"
+  },
+  {
+   "role": "body",
+   "text": "act entitled \" An act to establish the Department of Justice, and for other"
+  },
+  {
+   "role": "sidenote",
+   "text": "eral, when to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "made, and to in-"
+  },
+  {
+   "role": "body",
+   "text": "purposes,\" approved June twenty-second, eighteen hundred and seventy,"
+  },
+  {
+   "role": "sidenote",
+   "text": "clude what."
+  },
+  {
+   "role": "body",
+   "text": "is hereby amended so as to read as follows: \" That it shall be the duty of"
+  },
+  {
+   "role": "body",
+   "text": "the Attorney General to make to Congress, at the commencement of each"
+  },
+  {
+   "role": "body",
+   "text": "regular session of Congress, a report of the business of the said department"
+  },
+  {
+   "role": "body",
+   "text": "for the last preceding fiscal year, and of any other matters appertaining"
+  },
+  {
+   "role": "body",
+   "text": "thereto, that he may deem proper, including a statement of the several"
+  },
+  {
+   "role": "body",
+   "text": "appropriations now, or which may hereafter be, placed under its control,"
+  },
+  {
+   "role": "body",
+   "text": "the amount appropriated, and a detailed statement of the amounts used"
+  },
+  {
+   "role": "body",
+   "text": "for defraying the expenses of the United States courts in each judicial"
+  },
+  {
+   "role": "body",
+   "text": "district; also the statistice of crime under the laws of the United States,"
+  },
+  {
+   "role": "body",
+   "text": "and a statement of the number of causes, civil and criminal, pending"
+  },
+  {
+   "role": "body",
+   "text": "during the preceding year in each of the several courts of the United"
+  },
+  {
+   "role": "body",
+   "text": "States."
+  },
+  {
+   "role": "sidenote",
+   "text": "Statutes and"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That the Secretary of the Interior be, and he is hereby,"
+  },
+  {
+   "role": "sidenote",
+   "text": "reports to be fur-"
+  },
+  {
+   "role": "body",
+   "text": "authorized and required to furnish to the head of the Department of"
+  },
+  {
+   "role": "sidenote",
+   "text": "nished to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Department of"
+  },
+  {
+   "role": "body",
+   "text": "Justice, from time to time, as they may be published, a sufficient number"
+  },
+  {
+   "role": "sidenote",
+   "text": "Justice for distri-"
+  },
+  {
+   "role": "body",
+   "text": "of the statutes of the United States, and the reports of the Supreme"
+  },
+  {
+   "role": "sidenote",
+   "text": "bution."
+  },
+  {
+   "role": "body",
+   "text": "Court of the United States, to be by him distributed to such officers of"
+  },
+  {
+   "role": "body",
+   "text": "the courts of the United States as are now or may hereafter be by law"
+  },
+  {
+   "role": "body",
+   "text": "entitled to receive them; and all laws or parts of laws authorizing the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Repealing"
+  },
+  {
+   "role": "body",
+   "text": "distribution of such statutes and reports of the Supreme Court to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "clause."
+  },
+  {
+   "role": "body",
+   "text": "officers of the courts of the United States by the head of any other"
+  },
+  {
+   "role": "body",
+   "text": "executive department of the government be, and the same are hereby,"
+  },
+  {
+   "role": "body",
+   "text": "repealed."
+  },
+  {
+   "role": "sidenote",
+   "text": "Register to be"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. That a register of such books shall be kept, under the"
+  },
+  {
+   "role": "sidenote",
+   "text": "kept of books"
+  },
+  {
+   "role": "body",
+   "text": "authority of the head of the Department of Justice, showing the quan-"
+  },
+  {
+   "role": "sidenote",
+   "text": "received and dis-"
+  },
+  {
+   "role": "body",
+   "text": "tity of each kind received by him in pursuance of this act; and it shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "tributed."
+  },
+  {
+   "role": "body",
+   "text": "be his duty to cause to be entered in such register, and at the proper time,"
+  },
+  {
+   "role": "body",
+   "text": "when, where, and to whom the same, or any part of them, have been"
+  },
+  {
+   "role": "body",
+   "text": "distributed and delivered, and to report the same to Congress in his annual"
+  },
+  {
+   "role": "body",
+   "text": "report."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1873."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCXXXIX. — An Act fixing the Time for the Election of Representatives from"
+  },
+  {
+   "role": "body",
+   "text": "the State of California to the forty-fourth Congress"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Time for elec-"
+  },
+  {
+   "role": "body",
+   "text": "States of America, in Congress assembled, That on the first Wednesday in"
+  },
+  {
+   "role": "sidenote",
+   "text": "tion of repre-"
+  },
+  {
+   "role": "body",
+   "text": "September, in the year eighteen hundred and seventy-four, there shall be"
+  },
+  {
+   "role": "body",
+   "text": "elected in each congressional district in the State of California one"
+  }
+ ],
+ "disagreement_count": 7,
+ "tokens": {
+  "input_tokens": 22941,
+  "output_tokens": 5786,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.26052,
+ "seconds": 70.0,
+ "created": "2026-09-08T11:54:37"
+}

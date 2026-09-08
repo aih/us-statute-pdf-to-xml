@@ -1,0 +1,1505 @@
+{
+ "granule_id": "STATUTE-11-Pg156-2",
+ "package_id": "STATUTE-11",
+ "volume": 11,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act authorizing the establishing of a Navy Depot on Blythe Island, at Brunswick, on the Coast of Georgia, and for other Purposes.",
+ "date_issued": "1857-01-28",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "156",
+ "image": "data/gold/STATUTE-11-Pg156-2/p1.png",
+ "image_sha256": "c2c62238d76d961a086591d2fbbcacc939231f6a188ca35dec4b1b210cf9d7c8",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "156        THIRTY-FOURTH CONGRESS.  SESS. III.  CH. 24, 25.  1857"
+    },
+    {
+     "role": "body",
+     "text": "a fine not exceeding one thousand dollars and not less than one hundred"
+    },
+    {
+     "role": "body",
+     "text": "dollars, and suffer imprisonment in the common jail not less than one"
+    },
+    {
+     "role": "body",
+     "text": "month nor more than twelve months."
+    },
+    {
+     "role": "sidenote",
+     "text": "No person to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "held criminally"
+    },
+    {
+     "role": "sidenote",
+     "text": "for any matter"
+    },
+    {
+     "role": "sidenote",
+     "text": "respecting which"
+    },
+    {
+     "role": "sidenote",
+     "text": "he has been re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "quired to testify"
+    },
+    {
+     "role": "sidenote",
+     "text": "before either"
+    },
+    {
+     "role": "sidenote",
+     "text": "House of Con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gress or any com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "mittee."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, Than no person examined and testi-"
+    },
+    {
+     "role": "body",
+     "text": "fying before either House of Congress, or any committee of either House,"
+    },
+    {
+     "role": "body",
+     "text": "shall be held to answer criminally in any court of justice, or subject to"
+    },
+    {
+     "role": "body",
+     "text": "any penalty or forfeiture for any fact or act touching which he shall be"
+    },
+    {
+     "role": "body",
+     "text": "required to testify before either House of Congress or any committee of"
+    },
+    {
+     "role": "body",
+     "text": "either House as to which he shall have testified whether before or after"
+    },
+    {
+     "role": "body",
+     "text": "the date of this act, and that no statement made or paper produced by any"
+    },
+    {
+     "role": "sidenote",
+     "text": "Nothing dis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "closed by such"
+    },
+    {
+     "role": "sidenote",
+     "text": "witness to be evi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "dence against"
+    },
+    {
+     "role": "sidenote",
+     "text": "him."
+    },
+    {
+     "role": "body",
+     "text": "witness before either House of Congress or before any committee of either"
+    },
+    {
+     "role": "body",
+     "text": "House, shall be competent testimony in any criminal proceeding against"
+    },
+    {
+     "role": "body",
+     "text": "such witness in any court of justice; and no witness shall hereafter be"
+    },
+    {
+     "role": "body",
+     "text": "allowed to refuse to testify to any fact or to produce any paper touching"
+    },
+    {
+     "role": "sidenote",
+     "text": "No such wit-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ness excused"
+    },
+    {
+     "role": "sidenote",
+     "text": "from answering"
+    },
+    {
+     "role": "sidenote",
+     "text": "on the ground"
+    },
+    {
+     "role": "sidenote",
+     "text": "that he will crim-"
+    },
+    {
+     "role": "sidenote",
+     "text": "inate himself."
+    },
+    {
+     "role": "body",
+     "text": "which he shall be examined by either House of Congress, or any com-"
+    },
+    {
+     "role": "body",
+     "text": "mittee of either House, for the reason that his testimony touching such"
+    },
+    {
+     "role": "body",
+     "text": "fact or the production of such paper may tend to disgrace him or other-"
+    },
+    {
+     "role": "body",
+     "text": "wise render him infamous : Provided, That nothing in this act shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso for pun-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ishing perjury in"
+    },
+    {
+     "role": "sidenote",
+     "text": "such witness."
+    },
+    {
+     "role": "body",
+     "text": "construed to exempt any witness from prosecution and punishment for"
+    },
+    {
+     "role": "body",
+     "text": "perjury committed by him in testifying as aforesaid."
+    },
+    {
+     "role": "sidenote",
+     "text": "Witnesses fail-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing to testify, how"
+    },
+    {
+     "role": "sidenote",
+     "text": "brought to trial."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That when a witness shall fail to"
+    },
+    {
+     "role": "body",
+     "text": "testify, as provided in the previous sections of this act, and the facts shall"
+    },
+    {
+     "role": "body",
+     "text": "be reported to the House, it shall be the duty of the Speaker of the House"
+    },
+    {
+     "role": "body",
+     "text": "or the President of the Senate to certify the fact under the seal of the"
+    },
+    {
+     "role": "body",
+     "text": "House or Senate to the district attorney for the District of Columbia,"
+    },
+    {
+     "role": "body",
+     "text": "whose duty it shall be to bring the matter before the grand jury for their"
+    },
+    {
+     "role": "body",
+     "text": "action."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 24, 1857."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 26, 1857."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXIV.—An Act making a Reappropriation from the Surplus Fund for the"
+    },
+    {
+     "role": "body",
+     "text": "Relief of Lieutenant John Guest, United States Navy, and others."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Balance of ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "propriations  for"
+    },
+    {
+     "role": "sidenote",
+     "text": "coast survey car-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ried to surplus"
+    },
+    {
+     "role": "sidenote",
+     "text": "fund, reappropri-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ated for John"
+    },
+    {
+     "role": "sidenote",
+     "text": "Guest and others."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the sum of one thousand"
+    },
+    {
+     "role": "body",
+     "text": "seven hundred and sixty dollars and forty-nine cents, being the balance"
+    },
+    {
+     "role": "body",
+     "text": "remaining of the appropriations made by Congress in the years eighteen"
+    },
+    {
+     "role": "body",
+     "text": "hundred and forty, and eighteen hundred and forty-one, for the survey of"
+    },
+    {
+     "role": "body",
+     "text": "the coast from Apalachicola bay to the mouth of the Mississippi River,"
+    },
+    {
+     "role": "body",
+     "text": "for the ascertainment of the practicability of establishing a navy yard"
+    },
+    {
+     "role": "body",
+     "text": "and naval station which should best subserve the protection of the com-"
+    },
+    {
+     "role": "body",
+     "text": "merce of the Gulf of Mexico, which balance has been carried to the"
+    },
+    {
+     "role": "body",
+     "text": "credit of the surplus fund, be and the same is hereby reappropriated, for"
+    },
+    {
+     "role": "body",
+     "text": "the payment of the sum due Lieutenant John Guest, United States Navy,"
+    },
+    {
+     "role": "body",
+     "text": "(six hundred and seventeen dollars,) for services rendered in such survey,"
+    },
+    {
+     "role": "body",
+     "text": "and for other lawful claims of officers who were employed in that survey."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 26, 1857."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 28, 1857."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXV.—An Act authorizing the establishing of a Navy Depot on Blythe Island, at"
+    },
+    {
+     "role": "body",
+     "text": "Brunswick, on the Coast of Georgia, and for other Purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "A site on Blythe"
+    },
+    {
+     "role": "sidenote",
+     "text": "Island (Ga.) to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "purchased for a"
+    },
+    {
+     "role": "sidenote",
+     "text": "naval depot."
+    },
+    {
+     "role": "sidenote",
+     "text": "Buildings."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States be and he is hereby authorized to purchase a site for a navy depot"
+    },
+    {
+     "role": "body",
+     "text": "on Blythe Island, on the coast of Georgia, and to erect such buildings and"
+    },
+    {
+     "role": "body",
+     "text": "make such improvements as may be necessary for the repair of United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "body",
+     "text": "States vessels of war, and afford refuge therefor, and that the sum of two"
+    },
+    {
+     "role": "body",
+     "text": "hundred thousand dollars be appropriated for effecting that object, out of"
+    },
+    {
+     "role": "body",
+     "text": "any moneys in the treasury not otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 28, 1857."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 2721,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09602,
+   "seconds": 31.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "156"
+    },
+    {
+     "role": "running-head",
+     "text": "THIRTY-FOURTH CONGRESS.  SESS. III.  CH. 24, 25.  1857"
+    },
+    {
+     "role": "body",
+     "text": "a fine not exceeding one thousand dollars and not less than one hundred"
+    },
+    {
+     "role": "body",
+     "text": "dollars, and suffer imprisonment in the common jail not less than one"
+    },
+    {
+     "role": "body",
+     "text": "month nor more than twelve months."
+    },
+    {
+     "role": "sidenote",
+     "text": "No person to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "held criminally"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2.  And be it further enacted, Than no person examined and testi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "for any matter"
+    },
+    {
+     "role": "body",
+     "text": "fying before either House of Congress, or any committee of either House,"
+    },
+    {
+     "role": "sidenote",
+     "text": "respecting which"
+    },
+    {
+     "role": "body",
+     "text": "shall be held to answer criminally in any court of justice, or subject to"
+    },
+    {
+     "role": "sidenote",
+     "text": "he has been re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "quired to testify"
+    },
+    {
+     "role": "body",
+     "text": "any penalty or forfeiture for any fact or act touching which he shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "before either"
+    },
+    {
+     "role": "body",
+     "text": "required to testify before either House of Congress or any committee of"
+    },
+    {
+     "role": "sidenote",
+     "text": "House of Con-"
+    },
+    {
+     "role": "body",
+     "text": "either House as to which he shall have testified whether before or after"
+    },
+    {
+     "role": "sidenote",
+     "text": "gress or any com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "mittee."
+    },
+    {
+     "role": "body",
+     "text": "the date of this act, and that no statement made or paper produced by any"
+    },
+    {
+     "role": "sidenote",
+     "text": "Nothing dis-"
+    },
+    {
+     "role": "body",
+     "text": "witness before either House of Congress or before any committee of either"
+    },
+    {
+     "role": "sidenote",
+     "text": "closed by such"
+    },
+    {
+     "role": "body",
+     "text": "House, shall be competent testimony in any criminal proceeding against"
+    },
+    {
+     "role": "sidenote",
+     "text": "witness to be evi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "dence against"
+    },
+    {
+     "role": "body",
+     "text": "such witness in any court of justice ; and no witness shall hereafter be"
+    },
+    {
+     "role": "sidenote",
+     "text": "him."
+    },
+    {
+     "role": "body",
+     "text": "allowed to refuse to testify to any fact or to produce any paper touching"
+    },
+    {
+     "role": "sidenote",
+     "text": "No such wit-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ness excused"
+    },
+    {
+     "role": "body",
+     "text": "which he shall be examined by either House of Congress, or any com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "from answering"
+    },
+    {
+     "role": "body",
+     "text": "mittee of either House, for the reason that his testimony touching such"
+    },
+    {
+     "role": "sidenote",
+     "text": "on the ground"
+    },
+    {
+     "role": "body",
+     "text": "fact or the production of such paper may tend to disgrace him or other-"
+    },
+    {
+     "role": "sidenote",
+     "text": "that he will crim-"
+    },
+    {
+     "role": "sidenote",
+     "text": "inate himself."
+    },
+    {
+     "role": "body",
+     "text": "wise render him infamous : Provided, That nothing in this act shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso for pun-"
+    },
+    {
+     "role": "body",
+     "text": "construed to exempt any witness from prosecution and punishment for"
+    },
+    {
+     "role": "sidenote",
+     "text": "ishing perjury in"
+    },
+    {
+     "role": "body",
+     "text": "perjury committed by him in testifying as aforesaid."
+    },
+    {
+     "role": "sidenote",
+     "text": "such witness."
+    },
+    {
+     "role": "sidenote",
+     "text": "Witnesses fail-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3.  And be it further enacted, That when a witness shall fail to"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing to testify, how"
+    },
+    {
+     "role": "body",
+     "text": "testify, as provided in the previous sections of this act, and the facts shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "brought to trial."
+    },
+    {
+     "role": "body",
+     "text": "be reported to the House, it shall be the duty of the Speaker of the House"
+    },
+    {
+     "role": "body",
+     "text": "or the President of the Senate to certify the fact under the seal of the"
+    },
+    {
+     "role": "body",
+     "text": "House or Senate to the district attorney for the District of Columbia,"
+    },
+    {
+     "role": "body",
+     "text": "whose duty it shall be to bring the matter before the grand jury for their"
+    },
+    {
+     "role": "body",
+     "text": "action."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 24, 1857."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 26, 1857."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXIV.—An Act making a Reappropriation from the Surplus Fund for the"
+    },
+    {
+     "role": "body",
+     "text": "Relief of Lieutenant John Guest, United States Navy, and others."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Balance of ap-"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the sum of one thousand"
+    },
+    {
+     "role": "sidenote",
+     "text": "propriations for"
+    },
+    {
+     "role": "body",
+     "text": "seven hundred and sixty dollars and forty-nine cents, being the balance"
+    },
+    {
+     "role": "sidenote",
+     "text": "coast survey car-"
+    },
+    {
+     "role": "body",
+     "text": "remaining of the appropriations made by Congress in the years eighteen"
+    },
+    {
+     "role": "sidenote",
+     "text": "ried to surplus"
+    },
+    {
+     "role": "sidenote",
+     "text": "fund, reappropri-"
+    },
+    {
+     "role": "body",
+     "text": "hundred and forty, and eighteen hundred and forty-one, for the survey of"
+    },
+    {
+     "role": "sidenote",
+     "text": "ated for John"
+    },
+    {
+     "role": "body",
+     "text": "the coast from Apalachicola bay to the mouth of the Mississippi River,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Guest and others."
+    },
+    {
+     "role": "body",
+     "text": "for the ascertainment of the practicability of establishing a navy yard"
+    },
+    {
+     "role": "body",
+     "text": "and naval station which should best subserve the protection of the com-"
+    },
+    {
+     "role": "body",
+     "text": "merce of the Gulf of Mexico, which balance has been carried to the"
+    },
+    {
+     "role": "body",
+     "text": "credit of the surplus fund, be and the same is hereby reappropriated, for"
+    },
+    {
+     "role": "body",
+     "text": "the payment of the sum due Lieutenant John Guest, United States Navy,"
+    },
+    {
+     "role": "body",
+     "text": "(six hundred and seventeen dollars,) for services rendered in such survey,"
+    },
+    {
+     "role": "body",
+     "text": "and for other lawful claims of officers who were employed in that survey."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 26, 1857."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 28, 1857."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXV.—An Act authorizing the establishing of a Navy Depot on Blythe Island, at"
+    },
+    {
+     "role": "body",
+     "text": "Brunswick, on the Coast of Georgia, and for other Purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "A site on Blythe"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Island (Ga.) to be"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the President of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "purchased for a"
+    },
+    {
+     "role": "body",
+     "text": "States be and he is hereby authorized to purchase a site for a navy depot"
+    },
+    {
+     "role": "sidenote",
+     "text": "naval depot."
+    },
+    {
+     "role": "body",
+     "text": "on Blythe Island, on the coast of Georgia, and to erect such buildings and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Buildings."
+    },
+    {
+     "role": "body",
+     "text": "make such improvements as may be necessary for the repair of United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "body",
+     "text": "States vessels of war, and afford refuge therefor, and that the sum of two"
+    },
+    {
+     "role": "body",
+     "text": "hundred thousand dollars be appropriated for effecting that object, out of"
+    },
+    {
+     "role": "body",
+     "text": "any moneys in the treasury not otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 28, 1857."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 2736,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09639,
+   "seconds": 32.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 14540,
+   "output_tokens": 3394,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.15797,
+  "seconds": 75.7,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "156        THIRTY-FOURTH CONGRESS.  SESS. III.  CH. 24, 25.  1857",
+    "b": "156\nTHIRTY-FOURTH CONGRESS.  SESS. III.  CH. 24, 25.  1857",
+    "kept": "156\nTHIRTY-FOURTH CONGRESS.  SESS. III.  CH. 24, 25.  1857",
+    "reason": "The folio 156 stands apart at the left margin and is a page number; the rest is the running head."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "SEC. 2.  And be it further enacted, Than no person examined and testi-",
+    "kept": "",
+    "reason": "Body text belongs after the marginal note block, not interleaved here."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "fying before either House of Congress, or any committee of either House,",
+    "kept": "",
+    "reason": "Body line is printed later, following the complete sidenote block."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "shall be held to answer criminally in any court of justice, or subject to",
+    "kept": "",
+    "reason": "Body line is printed later, following the complete sidenote block."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "any penalty or forfeiture for any fact or act touching which he shall be",
+    "kept": "",
+    "reason": "Body line is printed later, following the complete sidenote block."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "required to testify before either House of Congress or any committee of",
+    "kept": "",
+    "reason": "Body line is printed later, following the complete sidenote block."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "either House as to which he shall have testified whether before or after",
+    "kept": "",
+    "reason": "Body line is printed later, following the complete sidenote block."
+   },
+   {
+    "run": 8,
+    "a": "SEC. 2. And be it further enacted, Than no person examined and testi-\nfying before either House of Congress, or any committee of either House,\nshall be held to answer criminally in any court of justice, or subject to\nany penalty or forfeiture for any fact or act touching which he shall be\nrequired to testify before either House of Congress or any committee of\neither House as to which he shall have testified whether before or after",
+    "b": "",
+    "kept": "SEC. 2. And be it further enacted, Than no person examined and testi-\nfying before either House of Congress, or any committee of either House,\nshall be held to answer criminally in any court of justice, or subject to\nany penalty or forfeiture for any fact or act touching which he shall be\nrequired to testify before either House of Congress or any committee of\neither House as to which he shall have testified whether before or after",
+    "reason": "The body paragraph follows the marginal note block as printed."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "witness before either House of Congress or before any committee of either",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "House, shall be competent testimony in any criminal proceeding against",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "such witness in any court of justice ; and no witness shall hereafter be",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 12,
+    "a": "witness before either House of Congress or before any committee of either\nHouse, shall be competent testimony in any criminal proceeding against\nsuch witness in any court of justice; and no witness shall hereafter be",
+    "b": "",
+    "kept": "witness before either House of Congress or before any committee of either\nHouse, shall be competent testimony in any criminal proceeding against\nsuch witness in any court of justice; and no witness shall hereafter be",
+    "reason": "Body lines printed here, after the marginal notes."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "which he shall be examined by either House of Congress, or any com-",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "mittee of either House, for the reason that his testimony touching such",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "fact or the production of such paper may tend to disgrace him or other-",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 16,
+    "a": "which he shall be examined by either House of Congress, or any com-\nmittee of either House, for the reason that his testimony touching such\nfact or the production of such paper may tend to disgrace him or other-",
+    "b": "",
+    "kept": "which he shall be examined by either House of Congress, or any com-\nmittee of either House, for the reason that his testimony touching such\nfact or the production of such paper may tend to disgrace him or other-",
+    "reason": "Body lines printed here, after the marginal notes."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "construed to exempt any witness from prosecution and punishment for",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "perjury committed by him in testifying as aforesaid.",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 19,
+    "a": "construed to exempt any witness from prosecution and punishment for\nperjury committed by him in testifying as aforesaid.",
+    "b": "",
+    "kept": "construed to exempt any witness from prosecution and punishment for\nperjury committed by him in testifying as aforesaid.",
+    "reason": "Body lines printed here, after the marginal notes."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "SEC. 3.  And be it further enacted, That when a witness shall fail to",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "testify, as provided in the previous sections of this act, and the facts shall",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 22,
+    "a": "SEC. 3. And be it further enacted, That when a witness shall fail to\ntestify, as provided in the previous sections of this act, and the facts shall",
+    "b": "",
+    "kept": "SEC. 3. And be it further enacted, That when a witness shall fail to\ntestify, as provided in the previous sections of this act, and the facts shall",
+    "reason": "Body lines printed here, after the marginal notes."
+   },
+   {
+    "run": 23,
+    "a": "",
+    "b": "States of America in Congress assembled, That the sum of one thousand",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 24,
+    "a": "",
+    "b": "seven hundred and sixty dollars and forty-nine cents, being the balance",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 25,
+    "a": "",
+    "b": "remaining of the appropriations made by Congress in the years eighteen",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 26,
+    "a": "",
+    "b": "hundred and forty, and eighteen hundred and forty-one, for the survey of",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 27,
+    "a": "",
+    "b": "the coast from Apalachicola bay to the mouth of the Mississippi River,",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 28,
+    "a": "States of America in Congress assembled, That the sum of one thousand\nseven hundred and sixty dollars and forty-nine cents, being the balance\nremaining of the appropriations made by Congress in the years eighteen\nhundred and forty, and eighteen hundred and forty-one, for the survey of\nthe coast from Apalachicola bay to the mouth of the Mississippi River,",
+    "b": "",
+    "kept": "States of America in Congress assembled, That the sum of one thousand\nseven hundred and sixty dollars and forty-nine cents, being the balance\nremaining of the appropriations made by Congress in the years eighteen\nhundred and forty, and eighteen hundred and forty-one, for the survey of\nthe coast from Apalachicola bay to the mouth of the Mississippi River,",
+    "reason": "Body lines printed here, after the marginal note block."
+   },
+   {
+    "run": 29,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the United",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 30,
+    "a": "",
+    "b": "States of America in Congress assembled, That the President of the United",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 31,
+    "a": "",
+    "b": "States be and he is hereby authorized to purchase a site for a navy depot",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 32,
+    "a": "",
+    "b": "on Blythe Island, on the coast of Georgia, and to erect such buildings and",
+    "kept": "",
+    "reason": "Body line belongs after the sidenote block."
+   },
+   {
+    "run": 33,
+    "a": "Be it enacted by the Senate and House of Representatives of the United\nStates of America in Congress assembled, That the President of the United\nStates be and he is hereby authorized to purchase a site for a navy depot\non Blythe Island, on the coast of Georgia, and to erect such buildings and",
+    "b": "",
+    "kept": "Be it enacted by the Senate and House of Representatives of the United\nStates of America in Congress assembled, That the President of the United\nStates be and he is hereby authorized to purchase a site for a navy depot\non Blythe Island, on the coast of Georgia, and to erect such buildings and",
+    "reason": "Body lines printed here, after the marginal note block."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "156"
+  },
+  {
+   "role": "running-head",
+   "text": "THIRTY-FOURTH CONGRESS.  SESS. III.  CH. 24, 25.  1857"
+  },
+  {
+   "role": "body",
+   "text": "a fine not exceeding one thousand dollars and not less than one hundred"
+  },
+  {
+   "role": "body",
+   "text": "dollars, and suffer imprisonment in the common jail not less than one"
+  },
+  {
+   "role": "body",
+   "text": "month nor more than twelve months."
+  },
+  {
+   "role": "sidenote",
+   "text": "No person to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "held criminally"
+  },
+  {
+   "role": "sidenote",
+   "text": "for any matter"
+  },
+  {
+   "role": "sidenote",
+   "text": "respecting which"
+  },
+  {
+   "role": "sidenote",
+   "text": "he has been re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "quired to testify"
+  },
+  {
+   "role": "sidenote",
+   "text": "before either"
+  },
+  {
+   "role": "sidenote",
+   "text": "House of Con-"
+  },
+  {
+   "role": "sidenote",
+   "text": "gress or any com-"
+  },
+  {
+   "role": "sidenote",
+   "text": "mittee."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, Than no person examined and testi-"
+  },
+  {
+   "role": "body",
+   "text": "fying before either House of Congress, or any committee of either House,"
+  },
+  {
+   "role": "body",
+   "text": "shall be held to answer criminally in any court of justice, or subject to"
+  },
+  {
+   "role": "body",
+   "text": "any penalty or forfeiture for any fact or act touching which he shall be"
+  },
+  {
+   "role": "body",
+   "text": "required to testify before either House of Congress or any committee of"
+  },
+  {
+   "role": "body",
+   "text": "either House as to which he shall have testified whether before or after"
+  },
+  {
+   "role": "body",
+   "text": "the date of this act, and that no statement made or paper produced by any"
+  },
+  {
+   "role": "sidenote",
+   "text": "Nothing dis-"
+  },
+  {
+   "role": "sidenote",
+   "text": "closed by such"
+  },
+  {
+   "role": "sidenote",
+   "text": "witness to be evi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "dence against"
+  },
+  {
+   "role": "sidenote",
+   "text": "him."
+  },
+  {
+   "role": "body",
+   "text": "witness before either House of Congress or before any committee of either"
+  },
+  {
+   "role": "body",
+   "text": "House, shall be competent testimony in any criminal proceeding against"
+  },
+  {
+   "role": "body",
+   "text": "such witness in any court of justice; and no witness shall hereafter be"
+  },
+  {
+   "role": "body",
+   "text": "allowed to refuse to testify to any fact or to produce any paper touching"
+  },
+  {
+   "role": "sidenote",
+   "text": "No such wit-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ness excused"
+  },
+  {
+   "role": "sidenote",
+   "text": "from answering"
+  },
+  {
+   "role": "sidenote",
+   "text": "on the ground"
+  },
+  {
+   "role": "sidenote",
+   "text": "that he will crim-"
+  },
+  {
+   "role": "sidenote",
+   "text": "inate himself."
+  },
+  {
+   "role": "body",
+   "text": "which he shall be examined by either House of Congress, or any com-"
+  },
+  {
+   "role": "body",
+   "text": "mittee of either House, for the reason that his testimony touching such"
+  },
+  {
+   "role": "body",
+   "text": "fact or the production of such paper may tend to disgrace him or other-"
+  },
+  {
+   "role": "body",
+   "text": "wise render him infamous : Provided, That nothing in this act shall be"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso for pun-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ishing perjury in"
+  },
+  {
+   "role": "sidenote",
+   "text": "such witness."
+  },
+  {
+   "role": "body",
+   "text": "construed to exempt any witness from prosecution and punishment for"
+  },
+  {
+   "role": "body",
+   "text": "perjury committed by him in testifying as aforesaid."
+  },
+  {
+   "role": "sidenote",
+   "text": "Witnesses fail-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ing to testify, how"
+  },
+  {
+   "role": "sidenote",
+   "text": "brought to trial."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That when a witness shall fail to"
+  },
+  {
+   "role": "body",
+   "text": "testify, as provided in the previous sections of this act, and the facts shall"
+  },
+  {
+   "role": "body",
+   "text": "be reported to the House, it shall be the duty of the Speaker of the House"
+  },
+  {
+   "role": "body",
+   "text": "or the President of the Senate to certify the fact under the seal of the"
+  },
+  {
+   "role": "body",
+   "text": "House or Senate to the district attorney for the District of Columbia,"
+  },
+  {
+   "role": "body",
+   "text": "whose duty it shall be to bring the matter before the grand jury for their"
+  },
+  {
+   "role": "body",
+   "text": "action."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, January 24, 1857."
+  },
+  {
+   "role": "sidenote",
+   "text": "Jan. 26, 1857."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXIV.—An Act making a Reappropriation from the Surplus Fund for the"
+  },
+  {
+   "role": "body",
+   "text": "Relief of Lieutenant John Guest, United States Navy, and others."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Balance of ap-"
+  },
+  {
+   "role": "sidenote",
+   "text": "propriations  for"
+  },
+  {
+   "role": "sidenote",
+   "text": "coast survey car-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ried to surplus"
+  },
+  {
+   "role": "sidenote",
+   "text": "fund, reappropri-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ated for John"
+  },
+  {
+   "role": "sidenote",
+   "text": "Guest and others."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the sum of one thousand"
+  },
+  {
+   "role": "body",
+   "text": "seven hundred and sixty dollars and forty-nine cents, being the balance"
+  },
+  {
+   "role": "body",
+   "text": "remaining of the appropriations made by Congress in the years eighteen"
+  },
+  {
+   "role": "body",
+   "text": "hundred and forty, and eighteen hundred and forty-one, for the survey of"
+  },
+  {
+   "role": "body",
+   "text": "the coast from Apalachicola bay to the mouth of the Mississippi River,"
+  },
+  {
+   "role": "body",
+   "text": "for the ascertainment of the practicability of establishing a navy yard"
+  },
+  {
+   "role": "body",
+   "text": "and naval station which should best subserve the protection of the com-"
+  },
+  {
+   "role": "body",
+   "text": "merce of the Gulf of Mexico, which balance has been carried to the"
+  },
+  {
+   "role": "body",
+   "text": "credit of the surplus fund, be and the same is hereby reappropriated, for"
+  },
+  {
+   "role": "body",
+   "text": "the payment of the sum due Lieutenant John Guest, United States Navy,"
+  },
+  {
+   "role": "body",
+   "text": "(six hundred and seventeen dollars,) for services rendered in such survey,"
+  },
+  {
+   "role": "body",
+   "text": "and for other lawful claims of officers who were employed in that survey."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, January 26, 1857."
+  },
+  {
+   "role": "sidenote",
+   "text": "Jan. 28, 1857."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXV.—An Act authorizing the establishing of a Navy Depot on Blythe Island, at"
+  },
+  {
+   "role": "body",
+   "text": "Brunswick, on the Coast of Georgia, and for other Purposes."
+  },
+  {
+   "role": "sidenote",
+   "text": "A site on Blythe"
+  },
+  {
+   "role": "sidenote",
+   "text": "Island (Ga.) to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "purchased for a"
+  },
+  {
+   "role": "sidenote",
+   "text": "naval depot."
+  },
+  {
+   "role": "sidenote",
+   "text": "Buildings."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the President of the United"
+  },
+  {
+   "role": "body",
+   "text": "States be and he is hereby authorized to purchase a site for a navy depot"
+  },
+  {
+   "role": "body",
+   "text": "on Blythe Island, on the coast of Georgia, and to erect such buildings and"
+  },
+  {
+   "role": "body",
+   "text": "make such improvements as may be necessary for the repair of United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation."
+  },
+  {
+   "role": "body",
+   "text": "States vessels of war, and afford refuge therefor, and that the sum of two"
+  },
+  {
+   "role": "body",
+   "text": "hundred thousand dollars be appropriated for effecting that object, out of"
+  },
+  {
+   "role": "body",
+   "text": "any moneys in the treasury not otherwise appropriated."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, January 28, 1857."
+  }
+ ],
+ "disagreement_count": 33,
+ "tokens": {
+  "input_tokens": 25587,
+  "output_tokens": 8851,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.35038,
+ "seconds": 140.5,
+ "created": "2026-09-08T12:02:31"
+}

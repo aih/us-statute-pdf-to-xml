@@ -1,0 +1,1145 @@
+{
+ "granule_id": "STATUTE-11-Pg15-2",
+ "package_id": "STATUTE-11",
+ "volume": 11,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act granting Public Lands, in alternate Sections, to the States of Florida and Alabama, to aid in the Construction of certain Railroads in said States.",
+ "date_issued": "1856-05-17",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "16",
+ "image": "data/gold/STATUTE-11-Pg15-2/p2.png",
+ "image_sha256": "141979c23c8a7ace06aa870e8ca57bd599862f691a36aa394b4834cfee7af2dd",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "16"
+    },
+    {
+     "role": "running-head",
+     "text": "THIRTY-FOURTH CONGRESS.  SESS. I.  CH. 31.  1856."
+    },
+    {
+     "role": "body",
+     "text": "located shall in no case be further than fifteen miles from the lines of said"
+    },
+    {
+     "role": "body",
+     "text": "roads and branch, and selected for and on account of each of said roads"
+    },
+    {
+     "role": "body",
+     "text": "and branch: Provided further, That the lands hereby granted for and on"
+    },
+    {
+     "role": "sidenote",
+     "text": "Grant, how"
+    },
+    {
+     "role": "sidenote",
+     "text": "applied."
+    },
+    {
+     "role": "body",
+     "text": "account of said roads and branch, severally, shall be exclusively applied"
+    },
+    {
+     "role": "body",
+     "text": "in the construction of that road or branch for and on account of which"
+    },
+    {
+     "role": "body",
+     "text": "such lands are hereby granted, and shall be disposed of only as the work"
+    },
+    {
+     "role": "body",
+     "text": "progresses, and the same shall be applied to no other purpose whatsoever :"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act not to"
+    },
+    {
+     "role": "sidenote",
+     "text": "apply to reserva-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tions except as"
+    },
+    {
+     "role": "sidenote",
+     "text": "to right of way."
+    },
+    {
+     "role": "body",
+     "text": "And provided further, That any and all lands heretofore reserved to the"
+    },
+    {
+     "role": "body",
+     "text": "United States by any act of Congress, or in any other manner by compe-"
+    },
+    {
+     "role": "body",
+     "text": "tent authority, for the purpose of aiding in any object of internal improve-"
+    },
+    {
+     "role": "body",
+     "text": "ment, or for any other purpose whatsoever, be, and the same are hereby,"
+    },
+    {
+     "role": "body",
+     "text": "reserved to the United States from the operation of this act, except so far"
+    },
+    {
+     "role": "body",
+     "text": "as it may be found necessary to locate the routes of said railroads or"
+    },
+    {
+     "role": "body",
+     "text": "branch through such reserved lands; in which case the right of way only"
+    },
+    {
+     "role": "body",
+     "text": "shall be granted, subject to the approval of the President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Price of alter-"
+    },
+    {
+     "role": "sidenote",
+     "text": "nate sections to"
+    },
+    {
+     "role": "sidenote",
+     "text": "be doubled."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the sections and parts of sec-"
+    },
+    {
+     "role": "body",
+     "text": "tions of land which, by such grant, shall remain to the United States"
+    },
+    {
+     "role": "body",
+     "text": "within six miles on each side of said roads and branch, shall not be sold"
+    },
+    {
+     "role": "body",
+     "text": "for less than double the minimum price of the public lands when sold;"
+    },
+    {
+     "role": "body",
+     "text": "nor shall any of said lands become subject to private entry until the same"
+    },
+    {
+     "role": "body",
+     "text": "have been first offered at public sale at the increased price."
+    },
+    {
+     "role": "sidenote",
+     "text": "Object of grant."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That the said lands hereby granted"
+    },
+    {
+     "role": "body",
+     "text": "to the said State shall be subject to the disposal of the legislature thereof"
+    },
+    {
+     "role": "sidenote",
+     "text": "Railway to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "a public high-"
+    },
+    {
+     "role": "sidenote",
+     "text": "way for govern-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment."
+    },
+    {
+     "role": "body",
+     "text": "for the purposes aforesaid, and no other; and the said railroads and"
+    },
+    {
+     "role": "body",
+     "text": "branch shall be and remain public highways for the use of the govern-"
+    },
+    {
+     "role": "body",
+     "text": "ment of the United States, free from toll or other charge upon the trans-"
+    },
+    {
+     "role": "body",
+     "text": "portation of any property or troops of the United States."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That the lands hereby granted to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Lands, how"
+    },
+    {
+     "role": "sidenote",
+     "text": "disposed of."
+    },
+    {
+     "role": "body",
+     "text": "said State shall be disposed of by said State only in manner following,"
+    },
+    {
+     "role": "body",
+     "text": "that is to say: that a quantity of land, not exceeding one hundred and"
+    },
+    {
+     "role": "body",
+     "text": "twenty sections for each of said roads and branch, and included within a"
+    },
+    {
+     "role": "body",
+     "text": "continuous length of twenty miles of each of said roads and branch, may"
+    },
+    {
+     "role": "body",
+     "text": "be sold ; and when the governor of said State shall certify to the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Interior that any twenty continuous miles of any or either of said"
+    },
+    {
+     "role": "body",
+     "text": "roads or branch, is completed, then another quantity of land hereby"
+    },
+    {
+     "role": "body",
+     "text": "granted, not to exceed one hundred and twenty sections for each of said"
+    },
+    {
+     "role": "body",
+     "text": "roads or branch having twenty continuous miles completed as aforesaid,"
+    },
+    {
+     "role": "body",
+     "text": "and included within a continuous length of twenty miles of each of such"
+    },
+    {
+     "role": "body",
+     "text": "roads or branch, may be sold ; and so, from time to time, until said roads"
+    },
+    {
+     "role": "body",
+     "text": "and branch are completed ; and if any or either of said roads or branch"
+    },
+    {
+     "role": "body",
+     "text": "is not completed within ten years, no further sales shall be made, and the"
+    },
+    {
+     "role": "body",
+     "text": "lands unsold shall revert to the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Transportation"
+    },
+    {
+     "role": "sidenote",
+     "text": "of mail."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That the United States mail shall"
+    },
+    {
+     "role": "body",
+     "text": "be transported over said roads and branch, under the direction of the"
+    },
+    {
+     "role": "body",
+     "text": "Post-Office Department, at such price as Congress may, by law, direct:"
+    },
+    {
+     "role": "body",
+     "text": "Provided, That until such price is fixed by law, the Postmaster-General"
+    },
+    {
+     "role": "body",
+     "text": "shall have the power to determine the same."
+    },
+    {
+     "role": "sidenote",
+     "text": "Similar grant"
+    },
+    {
+     "role": "sidenote",
+     "text": "to Alabama."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. And be it further enacted, That a similar grant of alternate"
+    },
+    {
+     "role": "body",
+     "text": "sections of public land is hereby made to the State of Alabama, to aid in"
+    },
+    {
+     "role": "body",
+     "text": "the construction of a railroad from Montgomery, in said State, to the"
+    },
+    {
+     "role": "body",
+     "text": "boundary line between Florida and Alabama, in the direction of Pensa-"
+    },
+    {
+     "role": "body",
+     "text": "cola, and to connect with the road from Pensacola to said line, upon the"
+    },
+    {
+     "role": "body",
+     "text": "same terms and conditions in all respects as are hereinbefore prescribed"
+    },
+    {
+     "role": "body",
+     "text": "for the grant to Florida."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 17, 1856."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 2246,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08414,
+   "seconds": 117.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "16"
+    },
+    {
+     "role": "running-head",
+     "text": "THIRTY-FOURTH CONGRESS.  SESS. I.  CH. 31.  1856."
+    },
+    {
+     "role": "body",
+     "text": "located shall in no case be further than fifteen miles from the lines of said"
+    },
+    {
+     "role": "body",
+     "text": "roads and branch, and selected for and on account of each of said roads"
+    },
+    {
+     "role": "body",
+     "text": "and branch:  Provided further, That the lands hereby granted for and on"
+    },
+    {
+     "role": "sidenote",
+     "text": "Grant, how"
+    },
+    {
+     "role": "body",
+     "text": "account of said roads and branch, severally, shall be exclusively applied"
+    },
+    {
+     "role": "sidenote",
+     "text": "applied."
+    },
+    {
+     "role": "body",
+     "text": "in the construction of that road or branch for and on account of which"
+    },
+    {
+     "role": "body",
+     "text": "such lands are hereby granted, and shall be disposed of only as the work"
+    },
+    {
+     "role": "body",
+     "text": "progresses, and the same shall be applied to no other purpose whatsoever:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act not to"
+    },
+    {
+     "role": "body",
+     "text": "And provided further, That any and all lands heretofore reserved to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "apply to reserva-"
+    },
+    {
+     "role": "body",
+     "text": "United States by any act of Congress, or in any other manner by compe-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tions except as"
+    },
+    {
+     "role": "sidenote",
+     "text": "to right of way."
+    },
+    {
+     "role": "body",
+     "text": "tent authority, for the purpose of aiding in any object of internal improve-"
+    },
+    {
+     "role": "body",
+     "text": "ment, or for any other purpose whatsoever, be, and the same are hereby,"
+    },
+    {
+     "role": "body",
+     "text": "reserved to the United States from the operation of this act, except so far"
+    },
+    {
+     "role": "body",
+     "text": "as it may be found necessary to locate the routes of said railroads or"
+    },
+    {
+     "role": "body",
+     "text": "branch through such reserved lands; in which case the right of way only"
+    },
+    {
+     "role": "body",
+     "text": "shall be granted, subject to the approval of the President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Price of alter-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2.  And be it further enacted, That the sections and parts of sec-"
+    },
+    {
+     "role": "sidenote",
+     "text": "nate sections to"
+    },
+    {
+     "role": "body",
+     "text": "tions of land which, by such grant, shall remain to the United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "be doubled."
+    },
+    {
+     "role": "body",
+     "text": "within six miles on each side of said roads and branch, shall not be sold"
+    },
+    {
+     "role": "body",
+     "text": "for less than double the minimum price of the public lands when sold;"
+    },
+    {
+     "role": "body",
+     "text": "nor shall any of said lands become subject to private entry until the same"
+    },
+    {
+     "role": "body",
+     "text": "have been first offered at public sale at the increased price."
+    },
+    {
+     "role": "sidenote",
+     "text": "Object of grant."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3.  And be it further enacted, That the said lands hereby granted"
+    },
+    {
+     "role": "body",
+     "text": "to the said State shall be subject to the disposal of the legislature thereof"
+    },
+    {
+     "role": "sidenote",
+     "text": "Railway to be"
+    },
+    {
+     "role": "body",
+     "text": "for the purposes aforesaid, and no other; and the said railroads and"
+    },
+    {
+     "role": "sidenote",
+     "text": "a public high-"
+    },
+    {
+     "role": "body",
+     "text": "branch shall be and remain public highways for the use of the govern-"
+    },
+    {
+     "role": "sidenote",
+     "text": "way for govern-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment."
+    },
+    {
+     "role": "body",
+     "text": "ment of the United States, free from toll or other charge upon the trans-"
+    },
+    {
+     "role": "body",
+     "text": "portation of any property or troops of the United States."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4.  And be it further enacted, That the lands hereby granted to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Lands, how"
+    },
+    {
+     "role": "body",
+     "text": "said State shall be disposed of by said State only in manner following,"
+    },
+    {
+     "role": "sidenote",
+     "text": "disposed of."
+    },
+    {
+     "role": "body",
+     "text": "that is to say: that a quantity of land, not exceeding one hundred and"
+    },
+    {
+     "role": "body",
+     "text": "twenty sections for each of said roads and branch, and included within a"
+    },
+    {
+     "role": "body",
+     "text": "continuous length of twenty miles of each of said roads and branch, may"
+    },
+    {
+     "role": "body",
+     "text": "be sold ; and when the governor of said State shall certify to the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Interior that any twenty continuous miles of any or either of said"
+    },
+    {
+     "role": "body",
+     "text": "roads or branch, is completed, then another quantity of land hereby"
+    },
+    {
+     "role": "body",
+     "text": "granted, not to exceed one hundred and twenty sections for each of said"
+    },
+    {
+     "role": "body",
+     "text": "roads or branch having twenty continuous miles completed as aforesaid,"
+    },
+    {
+     "role": "body",
+     "text": "and included within a continuous length of twenty miles of each of such"
+    },
+    {
+     "role": "body",
+     "text": "roads or branch, may be sold ; and so, from time to time, until said roads"
+    },
+    {
+     "role": "body",
+     "text": "and branch are completed ; and if any or either of said roads or branch"
+    },
+    {
+     "role": "body",
+     "text": "is not completed within ten years, no further sales shall be made, and the"
+    },
+    {
+     "role": "body",
+     "text": "lands unsold shall revert to the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Transportation"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5.  And be it further enacted, That the United States mail shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "of mail."
+    },
+    {
+     "role": "body",
+     "text": "be transported over said roads and branch, under the direction of the"
+    },
+    {
+     "role": "body",
+     "text": "Post-Office Department, at such price as Congress may, by law, direct:"
+    },
+    {
+     "role": "body",
+     "text": "Provided, That until such price is fixed by law, the Postmaster-General"
+    },
+    {
+     "role": "body",
+     "text": "shall have the power to determine the same."
+    },
+    {
+     "role": "sidenote",
+     "text": "Similar grant"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6.  And be it further enacted, That a similar grant of alternate"
+    },
+    {
+     "role": "sidenote",
+     "text": "to Alabama."
+    },
+    {
+     "role": "body",
+     "text": "sections of public land is hereby made to the State of Alabama, to aid in"
+    },
+    {
+     "role": "body",
+     "text": "the construction of a railroad from Montgomery, in said State, to the"
+    },
+    {
+     "role": "body",
+     "text": "boundary line between Florida and Alabama, in the direction of Pensa-"
+    },
+    {
+     "role": "body",
+     "text": "cola, and to connect with the road from Pensacola to said line, upon the"
+    },
+    {
+     "role": "body",
+     "text": "same terms and conditions in all respects as are hereinbefore prescribed"
+    },
+    {
+     "role": "body",
+     "text": "for the grant to Florida."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 17, 1856."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 2252,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08429,
+   "seconds": 133.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12393,
+   "output_tokens": 1540,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.10088,
+  "seconds": 18.9,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "account of said roads and branch, severally, shall be exclusively applied",
+    "kept": "",
+    "reason": "The sidenote \"Grant, how / applied.\" is a single two-line block; body text resumes after it, so no body line is printed here."
+   },
+   {
+    "run": 2,
+    "a": "account of said roads and branch, severally, shall be exclusively applied",
+    "b": "",
+    "kept": "account of said roads and branch, severally, shall be exclusively applied",
+    "reason": "This body line follows the complete sidenote block."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "And provided further, That any and all lands heretofore reserved to the",
+    "kept": "",
+    "reason": "The four-line sidenote block is unbroken; no body line printed at this point."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "United States by any act of Congress, or in any other manner by compe-",
+    "kept": "",
+    "reason": "Sidenote block continues; no body line here."
+   },
+   {
+    "run": 5,
+    "a": "And provided further, That any and all lands heretofore reserved to the\nUnited States by any act of Congress, or in any other manner by compe-",
+    "b": "",
+    "kept": "And provided further, That any and all lands heretofore reserved to the\nUnited States by any act of Congress, or in any other manner by compe-",
+    "reason": "Body text resumes after the complete sidenote block."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "SEC. 2.  And be it further enacted, That the sections and parts of sec-",
+    "kept": "",
+    "reason": "Sidenote \"Price of alter- / nate sections to / be doubled.\" is a unit; no body line here."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "tions of land which, by such grant, shall remain to the United States",
+    "kept": "",
+    "reason": "Sidenote block continues; nothing else printed here."
+   },
+   {
+    "run": 8,
+    "a": "SEC. 2. And be it further enacted, That the sections and parts of sec-\ntions of land which, by such grant, shall remain to the United States",
+    "b": "",
+    "kept": "SEC. 2. And be it further enacted, That the sections and parts of sec-\ntions of land which, by such grant, shall remain to the United States",
+    "reason": "Body lines follow the full sidenote block."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "for the purposes aforesaid, and no other; and the said railroads and",
+    "kept": "",
+    "reason": "Sidenote \"Railway to be / a public high- / way for govern- / ment.\" is one block."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "branch shall be and remain public highways for the use of the govern-",
+    "kept": "",
+    "reason": "Sidenote block continues; no body line here."
+   },
+   {
+    "run": 11,
+    "a": "for the purposes aforesaid, and no other; and the said railroads and\nbranch shall be and remain public highways for the use of the govern-",
+    "b": "",
+    "kept": "for the purposes aforesaid, and no other; and the said railroads and\nbranch shall be and remain public highways for the use of the govern-",
+    "reason": "Body text resumes after the sidenote block."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "said State shall be disposed of by said State only in manner following,",
+    "kept": "",
+    "reason": "Sidenote \"Lands, how / disposed of.\" is a two-line block."
+   },
+   {
+    "run": 13,
+    "a": "said State shall be disposed of by said State only in manner following,",
+    "b": "",
+    "kept": "said State shall be disposed of by said State only in manner following,",
+    "reason": "Body line follows the complete sidenote."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "SEC. 5.  And be it further enacted, That the United States mail shall",
+    "kept": "",
+    "reason": "Sidenote \"Transportation / of mail.\" is one block."
+   },
+   {
+    "run": 15,
+    "a": "SEC. 5. And be it further enacted, That the United States mail shall",
+    "b": "",
+    "kept": "SEC. 5. And be it further enacted, That the United States mail shall",
+    "reason": "Body line follows the sidenote block."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "SEC. 6.  And be it further enacted, That a similar grant of alternate",
+    "kept": "",
+    "reason": "Sidenote \"Similar grant / to Alabama.\" is one block."
+   },
+   {
+    "run": 17,
+    "a": "SEC. 6. And be it further enacted, That a similar grant of alternate",
+    "b": "",
+    "kept": "SEC. 6. And be it further enacted, That a similar grant of alternate",
+    "reason": "Body line follows the sidenote block."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "16"
+  },
+  {
+   "role": "running-head",
+   "text": "THIRTY-FOURTH CONGRESS.  SESS. I.  CH. 31.  1856."
+  },
+  {
+   "role": "body",
+   "text": "located shall in no case be further than fifteen miles from the lines of said"
+  },
+  {
+   "role": "body",
+   "text": "roads and branch, and selected for and on account of each of said roads"
+  },
+  {
+   "role": "body",
+   "text": "and branch: Provided further, That the lands hereby granted for and on"
+  },
+  {
+   "role": "sidenote",
+   "text": "Grant, how"
+  },
+  {
+   "role": "sidenote",
+   "text": "applied."
+  },
+  {
+   "role": "body",
+   "text": "account of said roads and branch, severally, shall be exclusively applied"
+  },
+  {
+   "role": "body",
+   "text": "in the construction of that road or branch for and on account of which"
+  },
+  {
+   "role": "body",
+   "text": "such lands are hereby granted, and shall be disposed of only as the work"
+  },
+  {
+   "role": "body",
+   "text": "progresses, and the same shall be applied to no other purpose whatsoever :"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act not to"
+  },
+  {
+   "role": "sidenote",
+   "text": "apply to reserva-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tions except as"
+  },
+  {
+   "role": "sidenote",
+   "text": "to right of way."
+  },
+  {
+   "role": "body",
+   "text": "And provided further, That any and all lands heretofore reserved to the"
+  },
+  {
+   "role": "body",
+   "text": "United States by any act of Congress, or in any other manner by compe-"
+  },
+  {
+   "role": "body",
+   "text": "tent authority, for the purpose of aiding in any object of internal improve-"
+  },
+  {
+   "role": "body",
+   "text": "ment, or for any other purpose whatsoever, be, and the same are hereby,"
+  },
+  {
+   "role": "body",
+   "text": "reserved to the United States from the operation of this act, except so far"
+  },
+  {
+   "role": "body",
+   "text": "as it may be found necessary to locate the routes of said railroads or"
+  },
+  {
+   "role": "body",
+   "text": "branch through such reserved lands; in which case the right of way only"
+  },
+  {
+   "role": "body",
+   "text": "shall be granted, subject to the approval of the President of the United"
+  },
+  {
+   "role": "body",
+   "text": "States."
+  },
+  {
+   "role": "sidenote",
+   "text": "Price of alter-"
+  },
+  {
+   "role": "sidenote",
+   "text": "nate sections to"
+  },
+  {
+   "role": "sidenote",
+   "text": "be doubled."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the sections and parts of sec-"
+  },
+  {
+   "role": "body",
+   "text": "tions of land which, by such grant, shall remain to the United States"
+  },
+  {
+   "role": "body",
+   "text": "within six miles on each side of said roads and branch, shall not be sold"
+  },
+  {
+   "role": "body",
+   "text": "for less than double the minimum price of the public lands when sold;"
+  },
+  {
+   "role": "body",
+   "text": "nor shall any of said lands become subject to private entry until the same"
+  },
+  {
+   "role": "body",
+   "text": "have been first offered at public sale at the increased price."
+  },
+  {
+   "role": "sidenote",
+   "text": "Object of grant."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That the said lands hereby granted"
+  },
+  {
+   "role": "body",
+   "text": "to the said State shall be subject to the disposal of the legislature thereof"
+  },
+  {
+   "role": "sidenote",
+   "text": "Railway to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "a public high-"
+  },
+  {
+   "role": "sidenote",
+   "text": "way for govern-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ment."
+  },
+  {
+   "role": "body",
+   "text": "for the purposes aforesaid, and no other; and the said railroads and"
+  },
+  {
+   "role": "body",
+   "text": "branch shall be and remain public highways for the use of the govern-"
+  },
+  {
+   "role": "body",
+   "text": "ment of the United States, free from toll or other charge upon the trans-"
+  },
+  {
+   "role": "body",
+   "text": "portation of any property or troops of the United States."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. And be it further enacted, That the lands hereby granted to"
+  },
+  {
+   "role": "sidenote",
+   "text": "Lands, how"
+  },
+  {
+   "role": "sidenote",
+   "text": "disposed of."
+  },
+  {
+   "role": "body",
+   "text": "said State shall be disposed of by said State only in manner following,"
+  },
+  {
+   "role": "body",
+   "text": "that is to say: that a quantity of land, not exceeding one hundred and"
+  },
+  {
+   "role": "body",
+   "text": "twenty sections for each of said roads and branch, and included within a"
+  },
+  {
+   "role": "body",
+   "text": "continuous length of twenty miles of each of said roads and branch, may"
+  },
+  {
+   "role": "body",
+   "text": "be sold ; and when the governor of said State shall certify to the Secretary"
+  },
+  {
+   "role": "body",
+   "text": "of the Interior that any twenty continuous miles of any or either of said"
+  },
+  {
+   "role": "body",
+   "text": "roads or branch, is completed, then another quantity of land hereby"
+  },
+  {
+   "role": "body",
+   "text": "granted, not to exceed one hundred and twenty sections for each of said"
+  },
+  {
+   "role": "body",
+   "text": "roads or branch having twenty continuous miles completed as aforesaid,"
+  },
+  {
+   "role": "body",
+   "text": "and included within a continuous length of twenty miles of each of such"
+  },
+  {
+   "role": "body",
+   "text": "roads or branch, may be sold ; and so, from time to time, until said roads"
+  },
+  {
+   "role": "body",
+   "text": "and branch are completed ; and if any or either of said roads or branch"
+  },
+  {
+   "role": "body",
+   "text": "is not completed within ten years, no further sales shall be made, and the"
+  },
+  {
+   "role": "body",
+   "text": "lands unsold shall revert to the United States."
+  },
+  {
+   "role": "sidenote",
+   "text": "Transportation"
+  },
+  {
+   "role": "sidenote",
+   "text": "of mail."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. And be it further enacted, That the United States mail shall"
+  },
+  {
+   "role": "body",
+   "text": "be transported over said roads and branch, under the direction of the"
+  },
+  {
+   "role": "body",
+   "text": "Post-Office Department, at such price as Congress may, by law, direct:"
+  },
+  {
+   "role": "body",
+   "text": "Provided, That until such price is fixed by law, the Postmaster-General"
+  },
+  {
+   "role": "body",
+   "text": "shall have the power to determine the same."
+  },
+  {
+   "role": "sidenote",
+   "text": "Similar grant"
+  },
+  {
+   "role": "sidenote",
+   "text": "to Alabama."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 6. And be it further enacted, That a similar grant of alternate"
+  },
+  {
+   "role": "body",
+   "text": "sections of public land is hereby made to the State of Alabama, to aid in"
+  },
+  {
+   "role": "body",
+   "text": "the construction of a railroad from Montgomery, in said State, to the"
+  },
+  {
+   "role": "body",
+   "text": "boundary line between Florida and Alabama, in the direction of Pensa-"
+  },
+  {
+   "role": "body",
+   "text": "cola, and to connect with the road from Pensacola to said line, upon the"
+  },
+  {
+   "role": "body",
+   "text": "same terms and conditions in all respects as are hereinbefore prescribed"
+  },
+  {
+   "role": "body",
+   "text": "for the grant to Florida."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, May 17, 1856."
+  }
+ ],
+ "disagreement_count": 17,
+ "tokens": {
+  "input_tokens": 23440,
+  "output_tokens": 6038,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.26931,
+ "seconds": 269.8,
+ "created": "2026-09-08T12:28:55"
+}

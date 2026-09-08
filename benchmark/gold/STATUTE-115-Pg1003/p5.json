@@ -1,0 +1,759 @@
+{
+ "granule_id": "STATUTE-115-Pg1003",
+ "package_id": "STATUTE-115",
+ "volume": 115,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Administrative Simplification Compliance Act",
+ "date_issued": "2001-12-27",
+ "pdf_page": 5,
+ "pdf_pages": 6,
+ "stat_page": "1007",
+ "image": "data/gold/STATUTE-115-Pg1003/p5.png",
+ "image_sha256": "6009e5cc68bc1f878c3af58ba129665ed0f71f2598390dab571eeb5fdbcc213b",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 107-105—DEC. 27, 2001        115 STAT. 1007"
+    },
+    {
+     "role": "body",
+     "text": "\"(i) there is no method available for the submission"
+    },
+    {
+     "role": "body",
+     "text": "of claims in an electronic form; or"
+    },
+    {
+     "role": "body",
+     "text": "\"(ii) the entity submitting the claim is a small provider"
+    },
+    {
+     "role": "body",
+     "text": "of services or supplier; and"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) may waive the application of such subsection in such"
+    },
+    {
+     "role": "body",
+     "text": "unusual cases as the Secretary finds appropriate."
+    },
+    {
+     "role": "body",
+     "text": "\"(2) For purposes of this subsection, the term 'small provider"
+    },
+    {
+     "role": "body",
+     "text": "of services or supplier' means—"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) a provider of services with fewer than 25 full-time"
+    },
+    {
+     "role": "body",
+     "text": "equivalent employees; or"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) a physician, practitioner, facility, or supplier (other"
+    },
+    {
+     "role": "body",
+     "text": "than provider of services) with fewer than 10 full-time equiva-"
+    },
+    {
+     "role": "body",
+     "text": "lent employees.\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 1395y"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "(b) EFFECTIVE DATE.—The amendments made by subsection"
+    },
+    {
+     "role": "body",
+     "text": "(a) shall apply to claims submitted on or after October 16, 2003."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. CLARIFICATION WITH RESPECT TO APPLICABILITY OF"
+    },
+    {
+     "role": "body",
+     "text": "ADMINISTRATIVE SIMPLIFICATION REQUIREMENTS TO"
+    },
+    {
+     "role": "body",
+     "text": "MEDICARE+CHOICE ORGANIZATIONS."
+    },
+    {
+     "role": "body",
+     "text": "Section 1171(5)(D) of the Social Security Act (42 U.S.C."
+    },
+    {
+     "role": "body",
+     "text": "1320d(5)(D)) is amended by striking \"Part A or part B\" and inserting"
+    },
+    {
+     "role": "body",
+     "text": "\"Parts A, B, or C\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. AUTHORIZATION OF APPROPRIATIONS FOR IMPLEMENTATION"
+    },
+    {
+     "role": "body",
+     "text": "OF REGULATIONS."
+    },
+    {
+     "role": "body",
+     "text": "(a) IN GENERAL.—Subject to subsection (b), and in addition"
+    },
+    {
+     "role": "body",
+     "text": "to any other amounts that may be authorized to be appropriated,"
+    },
+    {
+     "role": "body",
+     "text": "there are authorized to be appropriated a total of $44,200,000,"
+    },
+    {
+     "role": "body",
+     "text": "for—"
+    },
+    {
+     "role": "body",
+     "text": "(1) technical assistance, education and outreach, and"
+    },
+    {
+     "role": "body",
+     "text": "enforcement activities related to subparts I through R of part"
+    },
+    {
+     "role": "body",
+     "text": "162 of title 45, Code of Federal Regulations; and"
+    },
+    {
+     "role": "body",
+     "text": "(2) adopting the standards required to be adopted under"
+    },
+    {
+     "role": "body",
+     "text": "section 1173 of the Social Security Act (42 U.S.C. 1320d–2)."
+    },
+    {
+     "role": "body",
+     "text": "(b) REDUCTIONS.—"
+    },
+    {
+     "role": "body",
+     "text": "(1) MODEL FORM 14 DAYS LATE.—If the Secretary fails to"
+    },
+    {
+     "role": "body",
+     "text": "promulgate the model form described in section 1(a)(4) by the"
+    },
+    {
+     "role": "body",
+     "text": "date that is 14 days after the deadline described in such section,"
+    },
+    {
+     "role": "body",
+     "text": "the amount referred to in subsection (a) shall be reduced by"
+    },
+    {
+     "role": "body",
+     "text": "25 percent."
+    },
+    {
+     "role": "body",
+     "text": "(2) MODEL FORM 30 DAYS LATE.—If the Secretary fails to"
+    },
+    {
+     "role": "body",
+     "text": "promulgate the model form described in section 1(a)(4) by the"
+    },
+    {
+     "role": "body",
+     "text": "date that is 30 days after the deadline described in such section,"
+    },
+    {
+     "role": "body",
+     "text": "the amount referred to in subsection (a) shall be reduced by"
+    },
+    {
+     "role": "body",
+     "text": "50 percent."
+    },
+    {
+     "role": "body",
+     "text": "(3) MODEL FORM 45 DAYS LATE.—If the Secretary fails to"
+    },
+    {
+     "role": "body",
+     "text": "promulgate the model form described in section 1(a)(4) by the"
+    },
+    {
+     "role": "body",
+     "text": "date that is 45 days after the deadline described in such section,"
+    },
+    {
+     "role": "body",
+     "text": "the amount referred to in subsection (a) shall be reduced by"
+    },
+    {
+     "role": "body",
+     "text": "75 percent."
+    },
+    {
+     "role": "body",
+     "text": "(4) MODEL FORM 60 DAYS LATE.—If the Secretary fails to"
+    },
+    {
+     "role": "body",
+     "text": "promulgate the model form described in section 1(a)(4) by the"
+    },
+    {
+     "role": "body",
+     "text": "date that is 60 days after the deadline described in such section,"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 1685,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.069,
+   "seconds": 59.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 107–105—DEC. 27, 2001        115 STAT. 1007"
+    },
+    {
+     "role": "body",
+     "text": "\"(i) there is no method available for the submission"
+    },
+    {
+     "role": "body",
+     "text": "of claims in an electronic form; or"
+    },
+    {
+     "role": "body",
+     "text": "\"(ii) the entity submitting the claim is a small provider"
+    },
+    {
+     "role": "body",
+     "text": "of services or supplier; and"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) may waive the application of such subsection in such"
+    },
+    {
+     "role": "body",
+     "text": "unusual cases as the Secretary finds appropriate."
+    },
+    {
+     "role": "body",
+     "text": "\"(2) For purposes of this subsection, the term 'small provider"
+    },
+    {
+     "role": "body",
+     "text": "of services or supplier' means—"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) a provider of services with fewer than 25 full-time"
+    },
+    {
+     "role": "body",
+     "text": "equivalent employees; or"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) a physician, practitioner, facility, or supplier (other"
+    },
+    {
+     "role": "body",
+     "text": "than provider of services) with fewer than 10 full-time equiva-"
+    },
+    {
+     "role": "body",
+     "text": "lent employees.\"."
+    },
+    {
+     "role": "body",
+     "text": "(b) EFFECTIVE DATE.—The amendments made by subsection"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 1395y"
+    },
+    {
+     "role": "body",
+     "text": "(a) shall apply to claims submitted on or after October 16, 2003."
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. CLARIFICATION WITH RESPECT TO APPLICABILITY OF"
+    },
+    {
+     "role": "body",
+     "text": "ADMINISTRATIVE SIMPLIFICATION REQUIREMENTS TO"
+    },
+    {
+     "role": "body",
+     "text": "MEDICARE+CHOICE ORGANIZATIONS."
+    },
+    {
+     "role": "body",
+     "text": "Section 1171(5)(D) of the Social Security Act (42 U.S.C."
+    },
+    {
+     "role": "body",
+     "text": "1320d(5)(D)) is amended by striking \"Part A or part B\" and inserting"
+    },
+    {
+     "role": "body",
+     "text": "\"Parts A, B, or C\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. AUTHORIZATION OF APPROPRIATIONS FOR IMPLEMENTATION"
+    },
+    {
+     "role": "body",
+     "text": "OF REGULATIONS."
+    },
+    {
+     "role": "body",
+     "text": "(a) IN GENERAL.—Subject to subsection (b), and in addition"
+    },
+    {
+     "role": "body",
+     "text": "to any other amounts that may be authorized to be appropriated,"
+    },
+    {
+     "role": "body",
+     "text": "there are authorized to be appropriated a total of $44,200,000,"
+    },
+    {
+     "role": "body",
+     "text": "for—"
+    },
+    {
+     "role": "body",
+     "text": "(1) technical assistance, education and outreach, and"
+    },
+    {
+     "role": "body",
+     "text": "enforcement activities related to subparts I through R of part"
+    },
+    {
+     "role": "body",
+     "text": "162 of title 45, Code of Federal Regulations; and"
+    },
+    {
+     "role": "body",
+     "text": "(2) adopting the standards required to be adopted under"
+    },
+    {
+     "role": "body",
+     "text": "section 1173 of the Social Security Act (42 U.S.C. 1320d–2)."
+    },
+    {
+     "role": "body",
+     "text": "(b) REDUCTIONS.—"
+    },
+    {
+     "role": "body",
+     "text": "(1) MODEL FORM 14 DAYS LATE.—If the Secretary fails to"
+    },
+    {
+     "role": "body",
+     "text": "promulgate the model form described in section 1(a)(4) by the"
+    },
+    {
+     "role": "body",
+     "text": "date that is 14 days after the deadline described in such section,"
+    },
+    {
+     "role": "body",
+     "text": "the amount referred to in subsection (a) shall be reduced by"
+    },
+    {
+     "role": "body",
+     "text": "25 percent."
+    },
+    {
+     "role": "body",
+     "text": "(2) MODEL FORM 30 DAYS LATE.—If the Secretary fails to"
+    },
+    {
+     "role": "body",
+     "text": "promulgate the model form described in section 1(a)(4) by the"
+    },
+    {
+     "role": "body",
+     "text": "date that is 30 days after the deadline described in such section,"
+    },
+    {
+     "role": "body",
+     "text": "the amount referred to in subsection (a) shall be reduced by"
+    },
+    {
+     "role": "body",
+     "text": "50 percent."
+    },
+    {
+     "role": "body",
+     "text": "(3) MODEL FORM 45 DAYS LATE.—If the Secretary fails to"
+    },
+    {
+     "role": "body",
+     "text": "promulgate the model form described in section 1(a)(4) by the"
+    },
+    {
+     "role": "body",
+     "text": "date that is 45 days after the deadline described in such section,"
+    },
+    {
+     "role": "body",
+     "text": "the amount referred to in subsection (a) shall be reduced by"
+    },
+    {
+     "role": "body",
+     "text": "75 percent."
+    },
+    {
+     "role": "body",
+     "text": "(4) MODEL FORM 60 DAYS LATE.—If the Secretary fails to"
+    },
+    {
+     "role": "body",
+     "text": "promulgate the model form described in section 1(a)(4) by the"
+    },
+    {
+     "role": "body",
+     "text": "date that is 60 days after the deadline described in such section,"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 1685,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.06899,
+   "seconds": 77.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 10488,
+   "output_tokens": 693,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.07018,
+  "seconds": 114.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "(b) EFFECTIVE DATE.—The amendments made by subsection",
+    "kept": "",
+    "reason": "The sidenote block '42 USC 1395y / note.' is printed in the margin; the body lines follow as a unit, so nothing belongs here."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "(a) shall apply to claims submitted on or after October 16, 2003.",
+    "kept": "",
+    "reason": "No separate line printed between the two sidenote lines."
+   },
+   {
+    "run": 3,
+    "a": "(b) EFFECTIVE DATE.—The amendments made by subsection\n(a) shall apply to claims submitted on or after October 16, 2003.",
+    "b": "",
+    "kept": "(b) EFFECTIVE DATE.—The amendments made by subsection\n(a) shall apply to claims submitted on or after October 16, 2003.",
+    "reason": "Both body lines are printed here, opposite the marginal note."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 107-105—DEC. 27, 2001        115 STAT. 1007"
+  },
+  {
+   "role": "body",
+   "text": "\"(i) there is no method available for the submission"
+  },
+  {
+   "role": "body",
+   "text": "of claims in an electronic form; or"
+  },
+  {
+   "role": "body",
+   "text": "\"(ii) the entity submitting the claim is a small provider"
+  },
+  {
+   "role": "body",
+   "text": "of services or supplier; and"
+  },
+  {
+   "role": "body",
+   "text": "\"(B) may waive the application of such subsection in such"
+  },
+  {
+   "role": "body",
+   "text": "unusual cases as the Secretary finds appropriate."
+  },
+  {
+   "role": "body",
+   "text": "\"(2) For purposes of this subsection, the term 'small provider"
+  },
+  {
+   "role": "body",
+   "text": "of services or supplier' means—"
+  },
+  {
+   "role": "body",
+   "text": "\"(A) a provider of services with fewer than 25 full-time"
+  },
+  {
+   "role": "body",
+   "text": "equivalent employees; or"
+  },
+  {
+   "role": "body",
+   "text": "\"(B) a physician, practitioner, facility, or supplier (other"
+  },
+  {
+   "role": "body",
+   "text": "than provider of services) with fewer than 10 full-time equiva-"
+  },
+  {
+   "role": "body",
+   "text": "lent employees.\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 1395y"
+  },
+  {
+   "role": "sidenote",
+   "text": "note."
+  },
+  {
+   "role": "body",
+   "text": "(b) EFFECTIVE DATE.—The amendments made by subsection"
+  },
+  {
+   "role": "body",
+   "text": "(a) shall apply to claims submitted on or after October 16, 2003."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. CLARIFICATION WITH RESPECT TO APPLICABILITY OF"
+  },
+  {
+   "role": "body",
+   "text": "ADMINISTRATIVE SIMPLIFICATION REQUIREMENTS TO"
+  },
+  {
+   "role": "body",
+   "text": "MEDICARE+CHOICE ORGANIZATIONS."
+  },
+  {
+   "role": "body",
+   "text": "Section 1171(5)(D) of the Social Security Act (42 U.S.C."
+  },
+  {
+   "role": "body",
+   "text": "1320d(5)(D)) is amended by striking \"Part A or part B\" and inserting"
+  },
+  {
+   "role": "body",
+   "text": "\"Parts A, B, or C\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. AUTHORIZATION OF APPROPRIATIONS FOR IMPLEMENTATION"
+  },
+  {
+   "role": "body",
+   "text": "OF REGULATIONS."
+  },
+  {
+   "role": "body",
+   "text": "(a) IN GENERAL.—Subject to subsection (b), and in addition"
+  },
+  {
+   "role": "body",
+   "text": "to any other amounts that may be authorized to be appropriated,"
+  },
+  {
+   "role": "body",
+   "text": "there are authorized to be appropriated a total of $44,200,000,"
+  },
+  {
+   "role": "body",
+   "text": "for—"
+  },
+  {
+   "role": "body",
+   "text": "(1) technical assistance, education and outreach, and"
+  },
+  {
+   "role": "body",
+   "text": "enforcement activities related to subparts I through R of part"
+  },
+  {
+   "role": "body",
+   "text": "162 of title 45, Code of Federal Regulations; and"
+  },
+  {
+   "role": "body",
+   "text": "(2) adopting the standards required to be adopted under"
+  },
+  {
+   "role": "body",
+   "text": "section 1173 of the Social Security Act (42 U.S.C. 1320d–2)."
+  },
+  {
+   "role": "body",
+   "text": "(b) REDUCTIONS.—"
+  },
+  {
+   "role": "body",
+   "text": "(1) MODEL FORM 14 DAYS LATE.—If the Secretary fails to"
+  },
+  {
+   "role": "body",
+   "text": "promulgate the model form described in section 1(a)(4) by the"
+  },
+  {
+   "role": "body",
+   "text": "date that is 14 days after the deadline described in such section,"
+  },
+  {
+   "role": "body",
+   "text": "the amount referred to in subsection (a) shall be reduced by"
+  },
+  {
+   "role": "body",
+   "text": "25 percent."
+  },
+  {
+   "role": "body",
+   "text": "(2) MODEL FORM 30 DAYS LATE.—If the Secretary fails to"
+  },
+  {
+   "role": "body",
+   "text": "promulgate the model form described in section 1(a)(4) by the"
+  },
+  {
+   "role": "body",
+   "text": "date that is 30 days after the deadline described in such section,"
+  },
+  {
+   "role": "body",
+   "text": "the amount referred to in subsection (a) shall be reduced by"
+  },
+  {
+   "role": "body",
+   "text": "50 percent."
+  },
+  {
+   "role": "body",
+   "text": "(3) MODEL FORM 45 DAYS LATE.—If the Secretary fails to"
+  },
+  {
+   "role": "body",
+   "text": "promulgate the model form described in section 1(a)(4) by the"
+  },
+  {
+   "role": "body",
+   "text": "date that is 45 days after the deadline described in such section,"
+  },
+  {
+   "role": "body",
+   "text": "the amount referred to in subsection (a) shall be reduced by"
+  },
+  {
+   "role": "body",
+   "text": "75 percent."
+  },
+  {
+   "role": "body",
+   "text": "(4) MODEL FORM 60 DAYS LATE.—If the Secretary fails to"
+  },
+  {
+   "role": "body",
+   "text": "promulgate the model form described in section 1(a)(4) by the"
+  },
+  {
+   "role": "body",
+   "text": "date that is 60 days after the deadline described in such section,"
+  }
+ ],
+ "disagreement_count": 3,
+ "tokens": {
+  "input_tokens": 21087,
+  "output_tokens": 4063,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.20817,
+ "seconds": 250.7,
+ "created": "2026-09-08T12:07:51"
+}

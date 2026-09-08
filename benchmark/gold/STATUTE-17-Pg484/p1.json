@@ -1,0 +1,1455 @@
+{
+ "granule_id": "STATUTE-17-Pg484",
+ "package_id": "STATUTE-17",
+ "volume": 17,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to change and fix the Time of holding the Spring Terms of the United States Circuit and District Courts in the Cities of Covington and Paducah, in the State of Kentucky.",
+ "date_issued": "1873-03-01",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "484",
+ "image": "data/gold/STATUTE-17-Pg484/p1.png",
+ "image_sha256": "8987b8f7f76db49cdcd7d47b283660d8e1a06f65314892c720058abd3e3d5517",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "484        FORTY-SECOND CONGRESS.  SESS. III.  CH. 215-218, 223.   1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 1, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXV. — An Act to change and fix the Time of holding the Spring Terms of"
+    },
+    {
+     "role": "body",
+     "text": "the United States Circuit and District Courts in the Cities of Covington and Paducah,"
+    },
+    {
+     "role": "body",
+     "text": "in the State of Kentucky."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Terms of"
+    },
+    {
+     "role": "sidenote",
+     "text": "United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts in Cov-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ington and Padu-"
+    },
+    {
+     "role": "sidenote",
+     "text": "cah, Kentucky."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the terms of the United"
+    },
+    {
+     "role": "body",
+     "text": "States circuit and district courts heretofore held in Covington, Kentucky,"
+    },
+    {
+     "role": "body",
+     "text": "on the third Monday in April, shall hereafter be held there on the second"
+    },
+    {
+     "role": "body",
+     "text": "Monday in May; and the terms of said courts heretofore held in Padu-"
+    },
+    {
+     "role": "body",
+     "text": "cah, Kentucky, on the third Monday in March, shall hereafter be held"
+    },
+    {
+     "role": "body",
+     "text": "there on the second Monday in April."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 1, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 1, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXVI. — An Act authorizing the President to appoint Frank M. Ashton a sec-"
+    },
+    {
+     "role": "body",
+     "text": "ond assistant Engineer in the Navy of the United States."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Frank M."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ashton to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "appointed second"
+    },
+    {
+     "role": "sidenote",
+     "text": "assistant engineer"
+    },
+    {
+     "role": "sidenote",
+     "text": "in the navy."
+    },
+    {
+     "role": "body",
+     "text": "States of America, in Congress assembled, That the President be, and is"
+    },
+    {
+     "role": "body",
+     "text": "hereby, authorized, by and with the advice and consent of the Senate, to"
+    },
+    {
+     "role": "body",
+     "text": "appoint Frank M. Ashton a second assistant engineer in the United"
+    },
+    {
+     "role": "body",
+     "text": "States navy, subject to the usual examination."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 1, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 1, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXVII. — An Act to transfer the Control of certain Powers and Duties in Re-"
+    },
+    {
+     "role": "body",
+     "text": "lation to the Territories to the Department of the Interior."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary of"
+    },
+    {
+     "role": "sidenote",
+     "text": "the Interior to"
+    },
+    {
+     "role": "sidenote",
+     "text": "perform certain"
+    },
+    {
+     "role": "sidenote",
+     "text": "duties in relation"
+    },
+    {
+     "role": "sidenote",
+     "text": "to the Territories"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "States."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the Inte-"
+    },
+    {
+     "role": "body",
+     "text": "rior shall hereafter exercise all the powers and perform all the duties in"
+    },
+    {
+     "role": "body",
+     "text": "relation to the Territories of the United States that are now by law or"
+    },
+    {
+     "role": "body",
+     "text": "by custom exercised and performed by the Secretary of State."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 1, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 1, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "See pp. 423, 479."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXVIII. — An Act to provide for the Expenses of the Investigation of alleged"
+    },
+    {
+     "role": "body",
+     "text": "Frauds in the recent senatorial Election in Kansas."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation"
+    },
+    {
+     "role": "sidenote",
+     "text": "for the expenses"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the investiga-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion of the sena-"
+    },
+    {
+     "role": "sidenote",
+     "text": "torial election in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Kansas."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the sum of ten thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars be, and the same hereby is appropriated, out of any money in the"
+    },
+    {
+     "role": "body",
+     "text": "treasury not otherwise appropriated, to pay the expenses of the select"
+    },
+    {
+     "role": "body",
+     "text": "committee, of the Senate, appointed to inquire into the charges of bribery"
+    },
+    {
+     "role": "body",
+     "text": "and corruption in the recent senatorial election in Kansas."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 1, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXXIII. — An Act relating to the Circuit and District Courts of the United"
+    },
+    {
+     "role": "body",
+     "text": "States for the middle and northern Districts of Alabama."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Repeal of law"
+    },
+    {
+     "role": "sidenote",
+     "text": "giving circuit"
+    },
+    {
+     "role": "sidenote",
+     "text": "court jurisdic-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion to certain"
+    },
+    {
+     "role": "sidenote",
+     "text": "district courts of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Alabama."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That so much of an act or acts"
+    },
+    {
+     "role": "body",
+     "text": "of Congress as vests in the district court of the United States for the"
+    },
+    {
+     "role": "body",
+     "text": "middle district of Alabama, and the district court of the United States"
+    },
+    {
+     "role": "body",
+     "text": "for the northern district of Alabama, the power and jurisdiction of a"
+    },
+    {
+     "role": "body",
+     "text": "circuit court, be, and the same is hereby repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Transfer of cer-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tain cases from"
+    },
+    {
+     "role": "sidenote",
+     "text": "those district ."
+    },
+    {
+     "role": "sidenote",
+     "text": "courts to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "circuit court."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That all civil causes, actions, suits, executions, pleas, process,"
+    },
+    {
+     "role": "body",
+     "text": "and other proceedings now pending in said district courts of the United"
+    },
+    {
+     "role": "body",
+     "text": "States for the middle and northern districts of Alabama, which might"
+    },
+    {
+     "role": "body",
+     "text": "have been brought and would have been originally cognizable in a circuit"
+    },
+    {
+     "role": "body",
+     "text": "court, are hereby declared to be transferred to the circuit court of the"
+    },
+    {
+     "role": "body",
+     "text": "district of Alabama; and the clerks of said district courts shall transmit"
+    },
+    {
+     "role": "body",
+     "text": "all the original papers in such causes, and a complete transcript of all"
+    },
+    {
+     "role": "body",
+     "text": "the dockets, minutes, orders, judgments, and decrees in such causes, as"
+    },
+    {
+     "role": "body",
+     "text": "the same appear of record in said district courts, to said circuit court of the"
+    },
+    {
+     "role": "body",
+     "text": "United States at Mobile, Alabama."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2643,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09351,
+   "seconds": 28.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "484"
+    },
+    {
+     "role": "running-head",
+     "text": "FORTY-SECOND CONGRESS.  SESS. III.  CH. 215-218, 223.  1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 1, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXV. — An Act to change and fix the Time of holding the Spring Terms of"
+    },
+    {
+     "role": "body",
+     "text": "the United States Circuit and District Courts in the Cities of Covington and Paducah,"
+    },
+    {
+     "role": "body",
+     "text": "in the State of Kentucky."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Terms of"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the terms of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "United States"
+    },
+    {
+     "role": "body",
+     "text": "States circuit and district courts heretofore held in Covington, Kentucky,"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts in Cov-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ington and Padu-"
+    },
+    {
+     "role": "body",
+     "text": "on the third Monday in April, shall hereafter be held there on the second"
+    },
+    {
+     "role": "sidenote",
+     "text": "cah, Kentucky."
+    },
+    {
+     "role": "body",
+     "text": "Monday in May; and the terms of said courts heretofore held in Padu-"
+    },
+    {
+     "role": "body",
+     "text": "cah, Kentucky, on the third Monday in March, shall hereafter be held"
+    },
+    {
+     "role": "body",
+     "text": "there on the second Monday in April."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 1, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 1, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXVI. — An Act authorizing the President to appoint Frank M. Ashton a sec-"
+    },
+    {
+     "role": "body",
+     "text": "ond assistant Engineer in the Navy of the United States."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Frank M."
+    },
+    {
+     "role": "body",
+     "text": "States of America, in Congress assembled, That the President be, and is"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ashton to be"
+    },
+    {
+     "role": "body",
+     "text": "hereby, authorized, by and with the advice and consent of the Senate, to"
+    },
+    {
+     "role": "sidenote",
+     "text": "appointed second"
+    },
+    {
+     "role": "sidenote",
+     "text": "assistant engineer"
+    },
+    {
+     "role": "body",
+     "text": "appoint Frank M. Ashton a second assistant engineer in the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "in the navy."
+    },
+    {
+     "role": "body",
+     "text": "States navy, subject to the usual examination."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 1, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 1, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXVII. — An Act to transfer the Control of certain Powers and Duties in Re-"
+    },
+    {
+     "role": "body",
+     "text": "lation to the Territories to the Department of the Interior."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary of"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the Inte-"
+    },
+    {
+     "role": "sidenote",
+     "text": "the Interior to"
+    },
+    {
+     "role": "body",
+     "text": "rior shall hereafter exercise all the powers and perform all the duties in"
+    },
+    {
+     "role": "sidenote",
+     "text": "perform certain"
+    },
+    {
+     "role": "sidenote",
+     "text": "duties in relation"
+    },
+    {
+     "role": "body",
+     "text": "relation to the Territories of the United States that are now by law or"
+    },
+    {
+     "role": "sidenote",
+     "text": "to the Territories"
+    },
+    {
+     "role": "body",
+     "text": "by custom exercised and performed by the Secretary of State."
+    },
+    {
+     "role": "sidenote",
+     "text": "of the United"
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 1, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "States."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 1, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXVIII. — An Act to provide for the Expenses of the Investigation of alleged"
+    },
+    {
+     "role": "sidenote",
+     "text": "See pp. 423, 479."
+    },
+    {
+     "role": "body",
+     "text": "Frauds in the recent senatorial Election in Kansas."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the sum of ten thousand"
+    },
+    {
+     "role": "sidenote",
+     "text": "for the expenses"
+    },
+    {
+     "role": "body",
+     "text": "dollars be, and the same hereby is appropriated, out of any money in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the investiga-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion of the sena-"
+    },
+    {
+     "role": "body",
+     "text": "treasury not otherwise appropriated, to pay the expenses of the select"
+    },
+    {
+     "role": "sidenote",
+     "text": "torial election in"
+    },
+    {
+     "role": "body",
+     "text": "committee, of the Senate, appointed to inquire into the charges of bribery"
+    },
+    {
+     "role": "sidenote",
+     "text": "Kansas."
+    },
+    {
+     "role": "body",
+     "text": "and corruption in the recent senatorial election in Kansas."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 1, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCXXIII. — An Act relating to the Circuit and District Courts of the United"
+    },
+    {
+     "role": "body",
+     "text": "States for the middle and northern Districts of Alabama."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Repeal of law"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That so much of an act or acts"
+    },
+    {
+     "role": "sidenote",
+     "text": "giving circuit"
+    },
+    {
+     "role": "body",
+     "text": "of Congress as vests in the district court of the United States for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "court jurisdic-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion to certain"
+    },
+    {
+     "role": "body",
+     "text": "middle district of Alabama, and the district court of the United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "district courts of"
+    },
+    {
+     "role": "body",
+     "text": "for the northern district of Alabama, .the power and jurisdiction of a"
+    },
+    {
+     "role": "sidenote",
+     "text": "Alabama."
+    },
+    {
+     "role": "body",
+     "text": "circuit court, be, and the same is hereby repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Transfer of cer-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That all civil causes, actions, suits, executions, pleas, process,"
+    },
+    {
+     "role": "sidenote",
+     "text": "tain cases from"
+    },
+    {
+     "role": "body",
+     "text": "and other proceedings now pending in said district courts of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "those district ."
+    },
+    {
+     "role": "body",
+     "text": "States for the middle and northern districts of Alabama, which might"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "circuit court."
+    },
+    {
+     "role": "body",
+     "text": "have been brought and would have been originally cognizable in a circuit"
+    },
+    {
+     "role": "body",
+     "text": "court, are hereby declared to be transferred to the circuit court of the"
+    },
+    {
+     "role": "body",
+     "text": "district of Alabama; and the clerks of said district courts shall transmit"
+    },
+    {
+     "role": "body",
+     "text": "all the original papers in such causes, and a complete transcript of all"
+    },
+    {
+     "role": "body",
+     "text": "the dockets, minutes, orders, judgments, and decrees in such causes, as"
+    },
+    {
+     "role": "body",
+     "text": "the same appear of record in said district courts, to said circuit court of the"
+    },
+    {
+     "role": "body",
+     "text": "United States at Mobile, Alabama."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2657,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09385,
+   "seconds": 28.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 14163,
+   "output_tokens": 2397,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.13116,
+  "seconds": 27.7,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "484        FORTY-SECOND CONGRESS.  SESS. III.  CH. 215-218, 223.   1873.",
+    "b": "484\nFORTY-SECOND CONGRESS.  SESS. III.  CH. 215-218, 223.  1873.",
+    "kept": "484\nFORTY-SECOND CONGRESS.  SESS. III.  CH. 215-218, 223.  1873.",
+    "reason": "The folio 484 and the running head share a line; the page number is recorded separately from the head."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "States of America in Congress assembled, That the terms of the United",
+    "kept": "",
+    "reason": "Body text is not printed between sidenote lines; the sidenote block runs continuously."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "States circuit and district courts heretofore held in Covington, Kentucky,",
+    "kept": "",
+    "reason": "No body line interrupts the sidenote block here."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "on the third Monday in April, shall hereafter be held there on the second",
+    "kept": "",
+    "reason": "No body line interrupts the sidenote block here."
+   },
+   {
+    "run": 5,
+    "a": "States of America in Congress assembled, That the terms of the United\nStates circuit and district courts heretofore held in Covington, Kentucky,\non the third Monday in April, shall hereafter be held there on the second",
+    "b": "",
+    "kept": "States of America in Congress assembled, That the terms of the United\nStates circuit and district courts heretofore held in Covington, Kentucky,\non the third Monday in April, shall hereafter be held there on the second",
+    "reason": "These body lines follow the marginal note block, matching the image."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "States of America, in Congress assembled, That the President be, and is",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "hereby, authorized, by and with the advice and consent of the Senate, to",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "appoint Frank M. Ashton a second assistant engineer in the United",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 9,
+    "a": "States of America, in Congress assembled, That the President be, and is\nhereby, authorized, by and with the advice and consent of the Senate, to\nappoint Frank M. Ashton a second assistant engineer in the United",
+    "b": "",
+    "kept": "States of America, in Congress assembled, That the President be, and is\nhereby, authorized, by and with the advice and consent of the Senate, to\nappoint Frank M. Ashton a second assistant engineer in the United",
+    "reason": "Body lines follow the sidenote block, as printed."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "States of America in Congress assembled, That the Secretary of the Inte-",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "rior shall hereafter exercise all the powers and perform all the duties in",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "relation to the Territories of the United States that are now by law or",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "by custom exercised and performed by the Secretary of State.",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "APPROVED, March 1, 1873.",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 15,
+    "a": "States of America in Congress assembled, That the Secretary of the Inte-\nrior shall hereafter exercise all the powers and perform all the duties in\nrelation to the Territories of the United States that are now by law or\nby custom exercised and performed by the Secretary of State.\nAPPROVED, March 1, 1873.",
+    "b": "",
+    "kept": "States of America in Congress assembled, That the Secretary of the Inte-\nrior shall hereafter exercise all the powers and perform all the duties in\nrelation to the Territories of the United States that are now by law or\nby custom exercised and performed by the Secretary of State.\nAPPROVED, March 1, 1873.",
+    "reason": "Body lines follow the sidenote block, as printed."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "CHAP. CCXVIII. — An Act to provide for the Expenses of the Investigation of alleged",
+    "kept": "",
+    "reason": "The chapter heading is not printed between the two marginal notes."
+   },
+   {
+    "run": 17,
+    "a": "CHAP. CCXVIII. — An Act to provide for the Expenses of the Investigation of alleged",
+    "b": "",
+    "kept": "CHAP. CCXVIII. — An Act to provide for the Expenses of the Investigation of alleged",
+    "reason": "Heading line follows the sidenote block 'March 1, 1873.' and 'See pp. 423, 479.'"
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "States of America in Congress assembled, That the sum of ten thousand",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "dollars be, and the same hereby is appropriated, out of any money in the",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "treasury not otherwise appropriated, to pay the expenses of the select",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "committee, of the Senate, appointed to inquire into the charges of bribery",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 22,
+    "a": "States of America in Congress assembled, That the sum of ten thousand\ndollars be, and the same hereby is appropriated, out of any money in the\ntreasury not otherwise appropriated, to pay the expenses of the select\ncommittee, of the Senate, appointed to inquire into the charges of bribery",
+    "b": "",
+    "kept": "States of America in Congress assembled, That the sum of ten thousand\ndollars be, and the same hereby is appropriated, out of any money in the\ntreasury not otherwise appropriated, to pay the expenses of the select\ncommittee, of the Senate, appointed to inquire into the charges of bribery",
+    "reason": "Body lines follow the sidenote block, as printed."
+   },
+   {
+    "run": 23,
+    "a": "",
+    "b": "States of America in Congress assembled, That so much of an act or acts",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 24,
+    "a": "",
+    "b": "of Congress as vests in the district court of the United States for the",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 25,
+    "a": "",
+    "b": "middle district of Alabama, and the district court of the United States",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 26,
+    "a": "",
+    "b": "for the northern district of Alabama, .the power and jurisdiction of a",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 27,
+    "a": "States of America in Congress assembled, That so much of an act or acts\nof Congress as vests in the district court of the United States for the\nmiddle district of Alabama, and the district court of the United States\nfor the northern district of Alabama, the power and jurisdiction of a",
+    "b": "",
+    "kept": "States of America in Congress assembled, That so much of an act or acts\nof Congress as vests in the district court of the United States for the\nmiddle district of Alabama, and the district court of the United States\nfor the northern district of Alabama, .the power and jurisdiction of a",
+    "reason": "Body lines follow the sidenote block; the image shows the stray point before 'the power'."
+   },
+   {
+    "run": 28,
+    "a": "",
+    "b": "SEC. 2. That all civil causes, actions, suits, executions, pleas, process,",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 29,
+    "a": "",
+    "b": "and other proceedings now pending in said district courts of the United",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 30,
+    "a": "",
+    "b": "States for the middle and northern districts of Alabama, which might",
+    "kept": "",
+    "reason": "Sidenote block is continuous; no body line inserted."
+   },
+   {
+    "run": 31,
+    "a": "SEC. 2. That all civil causes, actions, suits, executions, pleas, process,\nand other proceedings now pending in said district courts of the United\nStates for the middle and northern districts of Alabama, which might",
+    "b": "",
+    "kept": "SEC. 2. That all civil causes, actions, suits, executions, pleas, process,\nand other proceedings now pending in said district courts of the United\nStates for the middle and northern districts of Alabama, which might",
+    "reason": "Body lines follow the sidenote block, as printed."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "484"
+  },
+  {
+   "role": "running-head",
+   "text": "FORTY-SECOND CONGRESS.  SESS. III.  CH. 215-218, 223.  1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 1, 1873."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCXV. — An Act to change and fix the Time of holding the Spring Terms of"
+  },
+  {
+   "role": "body",
+   "text": "the United States Circuit and District Courts in the Cities of Covington and Paducah,"
+  },
+  {
+   "role": "body",
+   "text": "in the State of Kentucky."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Terms of"
+  },
+  {
+   "role": "sidenote",
+   "text": "United States"
+  },
+  {
+   "role": "sidenote",
+   "text": "courts in Cov-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ington and Padu-"
+  },
+  {
+   "role": "sidenote",
+   "text": "cah, Kentucky."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the terms of the United"
+  },
+  {
+   "role": "body",
+   "text": "States circuit and district courts heretofore held in Covington, Kentucky,"
+  },
+  {
+   "role": "body",
+   "text": "on the third Monday in April, shall hereafter be held there on the second"
+  },
+  {
+   "role": "body",
+   "text": "Monday in May; and the terms of said courts heretofore held in Padu-"
+  },
+  {
+   "role": "body",
+   "text": "cah, Kentucky, on the third Monday in March, shall hereafter be held"
+  },
+  {
+   "role": "body",
+   "text": "there on the second Monday in April."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 1, 1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 1, 1873."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCXVI. — An Act authorizing the President to appoint Frank M. Ashton a sec-"
+  },
+  {
+   "role": "body",
+   "text": "ond assistant Engineer in the Navy of the United States."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Frank M."
+  },
+  {
+   "role": "sidenote",
+   "text": "Ashton to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "appointed second"
+  },
+  {
+   "role": "sidenote",
+   "text": "assistant engineer"
+  },
+  {
+   "role": "sidenote",
+   "text": "in the navy."
+  },
+  {
+   "role": "body",
+   "text": "States of America, in Congress assembled, That the President be, and is"
+  },
+  {
+   "role": "body",
+   "text": "hereby, authorized, by and with the advice and consent of the Senate, to"
+  },
+  {
+   "role": "body",
+   "text": "appoint Frank M. Ashton a second assistant engineer in the United"
+  },
+  {
+   "role": "body",
+   "text": "States navy, subject to the usual examination."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 1, 1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 1, 1873."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCXVII. — An Act to transfer the Control of certain Powers and Duties in Re-"
+  },
+  {
+   "role": "body",
+   "text": "lation to the Territories to the Department of the Interior."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Secretary of"
+  },
+  {
+   "role": "sidenote",
+   "text": "the Interior to"
+  },
+  {
+   "role": "sidenote",
+   "text": "perform certain"
+  },
+  {
+   "role": "sidenote",
+   "text": "duties in relation"
+  },
+  {
+   "role": "sidenote",
+   "text": "to the Territories"
+  },
+  {
+   "role": "sidenote",
+   "text": "of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "States."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the Secretary of the Inte-"
+  },
+  {
+   "role": "body",
+   "text": "rior shall hereafter exercise all the powers and perform all the duties in"
+  },
+  {
+   "role": "body",
+   "text": "relation to the Territories of the United States that are now by law or"
+  },
+  {
+   "role": "body",
+   "text": "by custom exercised and performed by the Secretary of State."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 1, 1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 1, 1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "See pp. 423, 479."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCXVIII. — An Act to provide for the Expenses of the Investigation of alleged"
+  },
+  {
+   "role": "body",
+   "text": "Frauds in the recent senatorial Election in Kansas."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation"
+  },
+  {
+   "role": "sidenote",
+   "text": "for the expenses"
+  },
+  {
+   "role": "sidenote",
+   "text": "of the investiga-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tion of the sena-"
+  },
+  {
+   "role": "sidenote",
+   "text": "torial election in"
+  },
+  {
+   "role": "sidenote",
+   "text": "Kansas."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the sum of ten thousand"
+  },
+  {
+   "role": "body",
+   "text": "dollars be, and the same hereby is appropriated, out of any money in the"
+  },
+  {
+   "role": "body",
+   "text": "treasury not otherwise appropriated, to pay the expenses of the select"
+  },
+  {
+   "role": "body",
+   "text": "committee, of the Senate, appointed to inquire into the charges of bribery"
+  },
+  {
+   "role": "body",
+   "text": "and corruption in the recent senatorial election in Kansas."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 1, 1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1873."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCXXIII. — An Act relating to the Circuit and District Courts of the United"
+  },
+  {
+   "role": "body",
+   "text": "States for the middle and northern Districts of Alabama."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Repeal of law"
+  },
+  {
+   "role": "sidenote",
+   "text": "giving circuit"
+  },
+  {
+   "role": "sidenote",
+   "text": "court jurisdic-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tion to certain"
+  },
+  {
+   "role": "sidenote",
+   "text": "district courts of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Alabama."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That so much of an act or acts"
+  },
+  {
+   "role": "body",
+   "text": "of Congress as vests in the district court of the United States for the"
+  },
+  {
+   "role": "body",
+   "text": "middle district of Alabama, and the district court of the United States"
+  },
+  {
+   "role": "body",
+   "text": "for the northern district of Alabama, .the power and jurisdiction of a"
+  },
+  {
+   "role": "body",
+   "text": "circuit court, be, and the same is hereby repealed."
+  },
+  {
+   "role": "sidenote",
+   "text": "Transfer of cer-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tain cases from"
+  },
+  {
+   "role": "sidenote",
+   "text": "those district ."
+  },
+  {
+   "role": "sidenote",
+   "text": "courts to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "circuit court."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That all civil causes, actions, suits, executions, pleas, process,"
+  },
+  {
+   "role": "body",
+   "text": "and other proceedings now pending in said district courts of the United"
+  },
+  {
+   "role": "body",
+   "text": "States for the middle and northern districts of Alabama, which might"
+  },
+  {
+   "role": "body",
+   "text": "have been brought and would have been originally cognizable in a circuit"
+  },
+  {
+   "role": "body",
+   "text": "court, are hereby declared to be transferred to the circuit court of the"
+  },
+  {
+   "role": "body",
+   "text": "district of Alabama; and the clerks of said district courts shall transmit"
+  },
+  {
+   "role": "body",
+   "text": "all the original papers in such causes, and a complete transcript of all"
+  },
+  {
+   "role": "body",
+   "text": "the dockets, minutes, orders, judgments, and decrees in such causes, as"
+  },
+  {
+   "role": "body",
+   "text": "the same appear of record in said district courts, to said circuit court of the"
+  },
+  {
+   "role": "body",
+   "text": "United States at Mobile, Alabama."
+  }
+ ],
+ "disagreement_count": 31,
+ "tokens": {
+  "input_tokens": 24986,
+  "output_tokens": 7697,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.31852,
+ "seconds": 84.0,
+ "created": "2026-09-08T12:30:53"
+}

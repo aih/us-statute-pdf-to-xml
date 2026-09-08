@@ -1,0 +1,537 @@
+{
+ "granule_id": "STATUTE-103-Pg1293",
+ "package_id": "STATUTE-103",
+ "volume": 103,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Designating November 16, 1989, as \"Interstitial Cystitis Awareness Day\"",
+ "date_issued": "1989-11-27",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "1293",
+ "image": "data/gold/STATUTE-103-Pg1293/p1.png",
+ "image_sha256": "7a0885b12dc69305fc3af8704fd778436a7e41225941c14769a49d1a5616fd04",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 101-174—NOV. 27, 1989        103 STAT. 1293"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 101-174"
+    },
+    {
+     "role": "body",
+     "text": "101st Congress"
+    },
+    {
+     "role": "body",
+     "text": "Joint Resolution"
+    },
+    {
+     "role": "body",
+     "text": "Designating November 16, 1989, as \"Interstitial Cystitis Awareness Day\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Nov. 27, 1989"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.J. Res. 291]"
+    },
+    {
+     "role": "body",
+     "text": "Whereas approximately 500,000 people in the United States suffer"
+    },
+    {
+     "role": "body",
+     "text": "from interstitial cystitis, which is an inflammation of the bladder"
+    },
+    {
+     "role": "body",
+     "text": "wall;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas 90 percent of the victims of interstitial cystitis are women;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas a symptom of interstitial cystitis is an urgent need to"
+    },
+    {
+     "role": "body",
+     "text": "urinate (up to 60 times a day in severe cases);"
+    },
+    {
+     "role": "body",
+     "text": "Whereas interstitial cystitis is associated with intermittent or"
+    },
+    {
+     "role": "body",
+     "text": "chronic pain due to the inflammation of the bladder wall;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas sometimes the pain resulting from interstitial cystitis is so"
+    },
+    {
+     "role": "body",
+     "text": "great it causes victims to take their own lives, though interstitial"
+    },
+    {
+     "role": "body",
+     "text": "cystitis itself is not fatal;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the estimated economic impact in 1988 of interstitial cysti-"
+    },
+    {
+     "role": "body",
+     "text": "tis was $1,700,000,000 in medical costs and lost productivity and"
+    },
+    {
+     "role": "body",
+     "text": "wages;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas prior to 1988, interstitial cystitis was an \"orphan\" disease"
+    },
+    {
+     "role": "body",
+     "text": "and ignored by Federal funding for research; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the Federal Government should substantially increase the"
+    },
+    {
+     "role": "body",
+     "text": "funding of research of interstitial cystitis so that its funding is the"
+    },
+    {
+     "role": "body",
+     "text": "same as other urological diseases: Now, therefore, be it"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That November 16, 1989, is"
+    },
+    {
+     "role": "body",
+     "text": "designated as \"Interstitial Cystitis Awareness Day\". The President"
+    },
+    {
+     "role": "body",
+     "text": "is authorized and requested to issue a proclamation calling upon the"
+    },
+    {
+     "role": "body",
+     "text": "people of the United States to observe that day by increasing their"
+    },
+    {
+     "role": "body",
+     "text": "awareness of interstitial cystitis and participating in other appro-"
+    },
+    {
+     "role": "body",
+     "text": "priate activities."
+    },
+    {
+     "role": "body",
+     "text": "Approved November 27, 1989."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—H.J. Res. 291:"
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+    },
+    {
+     "role": "footnote",
+     "text": "Nov. 16, considered and passed House."
+    },
+    {
+     "role": "footnote",
+     "text": "Nov. 17, considered and passed Senate."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 1162,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.05592,
+   "seconds": 63.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 101-174—NOV. 27, 1989          103 STAT. 1293"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 101-174"
+    },
+    {
+     "role": "body",
+     "text": "101st Congress"
+    },
+    {
+     "role": "body",
+     "text": "Joint Resolution"
+    },
+    {
+     "role": "body",
+     "text": "Designating November 16, 1989, as \"Interstitial Cystitis Awareness Day\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Nov. 27, 1989"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.J. Res. 291]"
+    },
+    {
+     "role": "body",
+     "text": "Whereas approximately 500,000 people in the United States suffer"
+    },
+    {
+     "role": "body",
+     "text": "from interstitial cystitis, which is an inflammation of the bladder"
+    },
+    {
+     "role": "body",
+     "text": "wall;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas 90 percent of the victims of interstitial cystitis are women;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas a symptom of interstitial cystitis is an urgent need to"
+    },
+    {
+     "role": "body",
+     "text": "urinate (up to 60 times a day in severe cases);"
+    },
+    {
+     "role": "body",
+     "text": "Whereas interstitial cystitis is associated with intermittent or"
+    },
+    {
+     "role": "body",
+     "text": "chronic pain due to the inflammation of the bladder wall;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas sometimes the pain resulting from interstitial cystitis is so"
+    },
+    {
+     "role": "body",
+     "text": "great it causes victims to take their own lives, though interstitial"
+    },
+    {
+     "role": "body",
+     "text": "cystitis itself is not fatal;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the estimated economic impact in 1988 of interstitial cysti-"
+    },
+    {
+     "role": "body",
+     "text": "tis was $1,700,000,000 in medical costs and lost productivity and"
+    },
+    {
+     "role": "body",
+     "text": "wages;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas prior to 1988, interstitial cystitis was an \"orphan\" disease"
+    },
+    {
+     "role": "body",
+     "text": "and ignored by Federal funding for research; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the Federal Government should substantially increase the"
+    },
+    {
+     "role": "body",
+     "text": "funding of research of interstitial cystitis so that its funding is the"
+    },
+    {
+     "role": "body",
+     "text": "same as other urological diseases: Now, therefore, be it"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That November 16, 1989, is"
+    },
+    {
+     "role": "body",
+     "text": "designated as \"Interstitial Cystitis Awareness Day\". The President"
+    },
+    {
+     "role": "body",
+     "text": "is authorized and requested to issue a proclamation calling upon the"
+    },
+    {
+     "role": "body",
+     "text": "people of the United States to observe that day by increasing their"
+    },
+    {
+     "role": "body",
+     "text": "awareness of interstitial cystitis and participating in other appro-"
+    },
+    {
+     "role": "body",
+     "text": "priate activities."
+    },
+    {
+     "role": "body",
+     "text": "Approved November 27, 1989."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—H.J. Res. 291:"
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+    },
+    {
+     "role": "footnote",
+     "text": "Nov. 16, considered and passed House."
+    },
+    {
+     "role": "footnote",
+     "text": "Nov. 17, considered and passed Senate."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 1162,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.05592,
+   "seconds": 61.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "skipped": "transcriptions agree",
+  "disagreements": [],
+  "cost_usd": 0.0,
+  "usage": {
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 101-174—NOV. 27, 1989        103 STAT. 1293"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 101-174"
+  },
+  {
+   "role": "body",
+   "text": "101st Congress"
+  },
+  {
+   "role": "body",
+   "text": "Joint Resolution"
+  },
+  {
+   "role": "body",
+   "text": "Designating November 16, 1989, as \"Interstitial Cystitis Awareness Day\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "Nov. 27, 1989"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H.J. Res. 291]"
+  },
+  {
+   "role": "body",
+   "text": "Whereas approximately 500,000 people in the United States suffer"
+  },
+  {
+   "role": "body",
+   "text": "from interstitial cystitis, which is an inflammation of the bladder"
+  },
+  {
+   "role": "body",
+   "text": "wall;"
+  },
+  {
+   "role": "body",
+   "text": "Whereas 90 percent of the victims of interstitial cystitis are women;"
+  },
+  {
+   "role": "body",
+   "text": "Whereas a symptom of interstitial cystitis is an urgent need to"
+  },
+  {
+   "role": "body",
+   "text": "urinate (up to 60 times a day in severe cases);"
+  },
+  {
+   "role": "body",
+   "text": "Whereas interstitial cystitis is associated with intermittent or"
+  },
+  {
+   "role": "body",
+   "text": "chronic pain due to the inflammation of the bladder wall;"
+  },
+  {
+   "role": "body",
+   "text": "Whereas sometimes the pain resulting from interstitial cystitis is so"
+  },
+  {
+   "role": "body",
+   "text": "great it causes victims to take their own lives, though interstitial"
+  },
+  {
+   "role": "body",
+   "text": "cystitis itself is not fatal;"
+  },
+  {
+   "role": "body",
+   "text": "Whereas the estimated economic impact in 1988 of interstitial cysti-"
+  },
+  {
+   "role": "body",
+   "text": "tis was $1,700,000,000 in medical costs and lost productivity and"
+  },
+  {
+   "role": "body",
+   "text": "wages;"
+  },
+  {
+   "role": "body",
+   "text": "Whereas prior to 1988, interstitial cystitis was an \"orphan\" disease"
+  },
+  {
+   "role": "body",
+   "text": "and ignored by Federal funding for research; and"
+  },
+  {
+   "role": "body",
+   "text": "Whereas the Federal Government should substantially increase the"
+  },
+  {
+   "role": "body",
+   "text": "funding of research of interstitial cystitis so that its funding is the"
+  },
+  {
+   "role": "body",
+   "text": "same as other urological diseases: Now, therefore, be it"
+  },
+  {
+   "role": "body",
+   "text": "Resolved by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That November 16, 1989, is"
+  },
+  {
+   "role": "body",
+   "text": "designated as \"Interstitial Cystitis Awareness Day\". The President"
+  },
+  {
+   "role": "body",
+   "text": "is authorized and requested to issue a proclamation calling upon the"
+  },
+  {
+   "role": "body",
+   "text": "people of the United States to observe that day by increasing their"
+  },
+  {
+   "role": "body",
+   "text": "awareness of interstitial cystitis and participating in other appro-"
+  },
+  {
+   "role": "body",
+   "text": "priate activities."
+  },
+  {
+   "role": "body",
+   "text": "Approved November 27, 1989."
+  },
+  {
+   "role": "footnote",
+   "text": "LEGISLATIVE HISTORY—H.J. Res. 291:"
+  },
+  {
+   "role": "footnote",
+   "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+  },
+  {
+   "role": "footnote",
+   "text": "Nov. 16, considered and passed House."
+  },
+  {
+   "role": "footnote",
+   "text": "Nov. 17, considered and passed Senate."
+  }
+ ],
+ "disagreement_count": 0,
+ "tokens": {
+  "input_tokens": 10599,
+  "output_tokens": 2324,
+  "cache_read_input_tokens": 1490,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.11184,
+ "seconds": 124.9,
+ "created": "2026-09-08T11:36:12"
+}

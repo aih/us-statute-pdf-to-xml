@@ -1,0 +1,1081 @@
+{
+ "granule_id": "STATUTE-75-Pg401-2",
+ "package_id": "STATUTE-75",
+ "volume": 75,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend title 10, United States Code, to permit the crediting of certain minority service for the purpose of determining eligibility for retirement, and for other purposes",
+ "date_issued": "1961-08-25",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "401",
+ "image": "data/gold/STATUTE-75-Pg401-2/p1.png",
+ "image_sha256": "ebb01da566c0f6e1195eb76dc86711d51d5f1b3b1f7dc569f7069e0c15a369d0",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "75 STAT.]        PUBLIC LAW 87-166-AUG. 25, 1961                    401"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-164"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 25, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 4786]"
+    },
+    {
+     "role": "body",
+     "text": "To provide travel and transportation allowances for members of the National"
+    },
+    {
+     "role": "body",
+     "text": "Guard and reserve components when travel is performed in an active duty"
+    },
+    {
+     "role": "body",
+     "text": "or inactive duty training status in compliance with Federal directives."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "National  Guard;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reserves."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 501(b)"
+    },
+    {
+     "role": "sidenote",
+     "text": "Allowances."
+    },
+    {
+     "role": "sidenote",
+     "text": "63 Stat. 826."
+    },
+    {
+     "role": "body",
+     "text": "of the Career Compensation Act of 1949, as amended, is amended by"
+    },
+    {
+     "role": "sidenote",
+     "text": "37 USC 301."
+    },
+    {
+     "role": "body",
+     "text": "striking out the words \"furnished with transportation to and from"
+    },
+    {
+     "role": "body",
+     "text": "such duty, with subsistence en route\" in the first sentence and insert-"
+    },
+    {
+     "role": "body",
+     "text": "ing the words \"authorized the travel and transportation allowances"
+    },
+    {
+     "role": "sidenote",
+     "text": "37 USC 253."
+    },
+    {
+     "role": "body",
+     "text": "prescribed in section 303(a) of this Act for travel performed to and"
+    },
+    {
+     "role": "body",
+     "text": "from such duty\" in place thereof."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 25, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-165"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 25, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6597]"
+    },
+    {
+     "role": "body",
+     "text": "To amend title 10, United States Code, to permit the crediting of certain"
+    },
+    {
+     "role": "body",
+     "text": "minority service for the purpose of determining eligibility for retirement,"
+    },
+    {
+     "role": "body",
+     "text": "and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Armed Forces."
+    },
+    {
+     "role": "sidenote",
+     "text": "Minority service,"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That chapter 53 of"
+    },
+    {
+     "role": "sidenote",
+     "text": "credit."
+    },
+    {
+     "role": "body",
+     "text": "title 10, United States Code, is amended as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "10 USC 1031-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1038."
+    },
+    {
+     "role": "body",
+     "text": "(1) By adding the following new section at the end thereof:"
+    },
+    {
+     "role": "body",
+     "text": "\"§ 1039. Crediting of minority service"
+    },
+    {
+     "role": "body",
+     "text": "\"For the purpose of determining eligibility for retirement or trans-"
+    },
+    {
+     "role": "body",
+     "text": "fer to the Fleet Reserve or Fleet Marine Corps Reserve, entitlement"
+    },
+    {
+     "role": "body",
+     "text": "to retired or retainer pay, and years of service in computing retired or"
+    },
+    {
+     "role": "body",
+     "text": "retainer pay of a member of the armed forces, any service which"
+    },
+    {
+     "role": "body",
+     "text": "would be creditable but for the fact that it was performed by him"
+    },
+    {
+     "role": "body",
+     "text": "under an enlistment or induction entered into before he attained the"
+    },
+    {
+     "role": "body",
+     "text": "age prescribed by law for that enlistment or induction, shall be"
+    },
+    {
+     "role": "body",
+     "text": "credited.\""
+    },
+    {
+     "role": "body",
+     "text": "(2) By adding the following item at the end of the analysis:"
+    },
+    {
+     "role": "body",
+     "text": "\"1039. Crediting of minority service.\""
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Section 1 applies to service performed, and retirements or"
+    },
+    {
+     "role": "body",
+     "text": "transfers to the Fleet Reserve or the Fleet Marine Corps Reserve"
+    },
+    {
+     "role": "body",
+     "text": "effected, before and after this Act takes effect."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 25, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-166"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 25, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 7725]"
+    },
+    {
+     "role": "body",
+     "text": "To authorize the Secretary of the Army to reconvey to the town of Malone,"
+    },
+    {
+     "role": "body",
+     "text": "New York, certain real property heretofore donated by said town to the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America as an Army Reserve Center and never used by the"
+    },
+    {
+     "role": "body",
+     "text": "United States."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Malone, N. Y."
+    },
+    {
+     "role": "sidenote",
+     "text": "Reconveyance of"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Army is hereby authorized and directed to reconvey by quit-"
+    },
+    {
+     "role": "sidenote",
+     "text": "land."
+    },
+    {
+     "role": "body",
+     "text": "claim deed to the town of Malone, New York, the four acres of land"
+    },
+    {
+     "role": "body",
+     "text": "and appurtenant easements conveyed on July 26, 1956, and September"
+    },
+    {
+     "role": "body",
+     "text": "17, 1958, by said town to the United States of America as the site"
+    },
+    {
+     "role": "body",
+     "text": "for a United States Army Reserve Center and never used for that"
+    },
+    {
+     "role": "body",
+     "text": "purpose."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 25, 1961."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2068,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07913,
+   "seconds": 116.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "75 STAT.]"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 87-166—AUG. 25, 1961"
+    },
+    {
+     "role": "page-number",
+     "text": "401"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-164"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 25, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 4786]"
+    },
+    {
+     "role": "body",
+     "text": "To provide travel and transportation allowances for members of the National"
+    },
+    {
+     "role": "body",
+     "text": "Guard and reserve components when travel is performed in an active duty"
+    },
+    {
+     "role": "body",
+     "text": "or inactive duty training status in compliance with Federal directives."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 501(b)"
+    },
+    {
+     "role": "sidenote",
+     "text": "National Guard;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reserves."
+    },
+    {
+     "role": "body",
+     "text": "of the Career Compensation Act of 1949, as amended, is amended by"
+    },
+    {
+     "role": "sidenote",
+     "text": "Allowances."
+    },
+    {
+     "role": "sidenote",
+     "text": "63 Stat. 826."
+    },
+    {
+     "role": "body",
+     "text": "striking out the words \"furnished with transportation to and from"
+    },
+    {
+     "role": "sidenote",
+     "text": "37 USC 301."
+    },
+    {
+     "role": "body",
+     "text": "such duty, with subsistence en route\" in the first sentence and insert-"
+    },
+    {
+     "role": "body",
+     "text": "ing the words \"authorized the travel and transportation allowances"
+    },
+    {
+     "role": "body",
+     "text": "prescribed in section 303(a) of this Act for travel performed to and"
+    },
+    {
+     "role": "sidenote",
+     "text": "37 USC 253."
+    },
+    {
+     "role": "body",
+     "text": "from such duty\" in place thereof."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 25, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-165"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 25, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 6597]"
+    },
+    {
+     "role": "body",
+     "text": "To amend title 10, United States Code, to permit the crediting of certain"
+    },
+    {
+     "role": "body",
+     "text": "minority service for the purpose of determining eligibility for retirement,"
+    },
+    {
+     "role": "body",
+     "text": "and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That chapter 53 of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Armed Forces."
+    },
+    {
+     "role": "sidenote",
+     "text": "Minority service,"
+    },
+    {
+     "role": "body",
+     "text": "title 10, United States Code, is amended as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "credit."
+    },
+    {
+     "role": "body",
+     "text": "(1) By adding the following new section at the end thereof:"
+    },
+    {
+     "role": "sidenote",
+     "text": "10 USC 1031-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1038."
+    },
+    {
+     "role": "body",
+     "text": "\"§ 1039. Crediting of minority service"
+    },
+    {
+     "role": "body",
+     "text": "\"For the purpose of determining eligibility for retirement or trans-"
+    },
+    {
+     "role": "body",
+     "text": "fer to the Fleet Reserve or Fleet Marine Corps Reserve, entitlement"
+    },
+    {
+     "role": "body",
+     "text": "to retired or retainer pay, and years of service in computing retired or"
+    },
+    {
+     "role": "body",
+     "text": "retainer pay of a member of the armed forces, any service which"
+    },
+    {
+     "role": "body",
+     "text": "would be creditable but for the fact that it was performed by him"
+    },
+    {
+     "role": "body",
+     "text": "under an enlistment or induction entered into before he attained the"
+    },
+    {
+     "role": "body",
+     "text": "age prescribed by law for that enlistment or induction, shall be"
+    },
+    {
+     "role": "body",
+     "text": "credited.\""
+    },
+    {
+     "role": "body",
+     "text": "(2) By adding the following item at the end of the analysis:"
+    },
+    {
+     "role": "body",
+     "text": "\"1039. Crediting of minority service.\""
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Section 1 applies to service performed, and retirements or"
+    },
+    {
+     "role": "body",
+     "text": "transfers to the Fleet Reserve or the Fleet Marine Corps Reserve"
+    },
+    {
+     "role": "body",
+     "text": "effected, before and after this Act takes effect."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 25, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-166"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 25, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 7725]"
+    },
+    {
+     "role": "body",
+     "text": "To authorize the Secretary of the Army to reconvey to the town of Malone,"
+    },
+    {
+     "role": "body",
+     "text": "New York, certain real property heretofore donated by said town to the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America as an Army Reserve Center and never used by the"
+    },
+    {
+     "role": "body",
+     "text": "United States."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Secretary"
+    },
+    {
+     "role": "sidenote",
+     "text": "Malone, N. Y."
+    },
+    {
+     "role": "sidenote",
+     "text": "Reconveyance of"
+    },
+    {
+     "role": "body",
+     "text": "of the Army is hereby authorized and directed to reconvey by quit-"
+    },
+    {
+     "role": "sidenote",
+     "text": "land."
+    },
+    {
+     "role": "body",
+     "text": "claim deed to the town of Malone, New York, the four acres of land"
+    },
+    {
+     "role": "body",
+     "text": "and appurtenant easements conveyed on July 26, 1956, and September"
+    },
+    {
+     "role": "body",
+     "text": "17, 1958, by said town to the United States of America as the site"
+    },
+    {
+     "role": "body",
+     "text": "for a United States Army Reserve Center and never used for that"
+    },
+    {
+     "role": "body",
+     "text": "purpose."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 25, 1961."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2124,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08053,
+   "seconds": 62.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11619,
+   "output_tokens": 1917,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.10644,
+  "seconds": 29.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "75 STAT.]        PUBLIC LAW 87-166-AUG. 25, 1961                    401",
+    "b": "75 STAT.]\nPUBLIC LAW 87-166—AUG. 25, 1961\n401",
+    "kept": "75 STAT.]        PUBLIC LAW 87-166—AUG. 25, 1961\n401",
+    "reason": "One printed head line containing the volume/law head and, at the right margin, the page number, which takes the page-number role."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "United States of America in Congress assembled, That section 501(b)",
+    "kept": "United States of America in Congress assembled, That section 501(b)",
+    "reason": "This body line precedes the marginal note 'National Guard; Reserves.' which sits beside it."
+   },
+   {
+    "run": 3,
+    "a": "United States of America in Congress assembled, That section 501(b)",
+    "b": "of the Career Compensation Act of 1949, as amended, is amended by",
+    "kept": "of the Career Compensation Act of 1949, as amended, is amended by",
+    "reason": "Next body line after the National Guard/Reserves sidenote; the preceding body line was already placed."
+   },
+   {
+    "run": 4,
+    "a": "of the Career Compensation Act of 1949, as amended, is amended by",
+    "b": "striking out the words \"furnished with transportation to and from",
+    "kept": "striking out the words \"furnished with transportation to and from\"",
+    "reason": "Body line following the 'Allowances./63 Stat. 826.' sidenotes."
+   },
+   {
+    "run": 5,
+    "a": "striking out the words \"furnished with transportation to and from",
+    "b": "",
+    "kept": "",
+    "reason": "The 'striking out the words' line was already placed above; nothing additional printed here."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "prescribed in section 303(a) of this Act for travel performed to and",
+    "kept": "prescribed in section 303(a) of this Act for travel performed to and",
+    "reason": "This body line stands beside the '37 USC 253.' sidenote and precedes it in reading order."
+   },
+   {
+    "run": 7,
+    "a": "prescribed in section 303(a) of this Act for travel performed to and",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 6; nothing printed here."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "United States of America in Congress assembled, That chapter 53 of",
+    "kept": "United States of America in Congress assembled, That chapter 53 of",
+    "reason": "Body line aligned with, and preceding, the 'Armed Forces./Minority service,' sidenote."
+   },
+   {
+    "run": 9,
+    "a": "United States of America in Congress assembled, That chapter 53 of",
+    "b": "title 10, United States Code, is amended as follows:",
+    "kept": "title 10, United States Code, is amended as follows:",
+    "reason": "Next body line after the Armed Forces sidenote lines."
+   },
+   {
+    "run": 10,
+    "a": "title 10, United States Code, is amended as follows:",
+    "b": "(1) By adding the following new section at the end thereof:",
+    "kept": "(1) By adding the following new section at the end thereof:",
+    "reason": "Body line beside 'credit.'/'10 USC 1031-1038.' sidenotes, following them in this run."
+   },
+   {
+    "run": 11,
+    "a": "(1) By adding the following new section at the end thereof:",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed in run 10; nothing printed here."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "United States of America in Congress assembled, That the Secretary",
+    "kept": "United States of America in Congress assembled, That the Secretary",
+    "reason": "Body line aligned with, and preceding, the 'Malone, N. Y./Reconveyance of' sidenote."
+   },
+   {
+    "run": 13,
+    "a": "United States of America in Congress assembled, That the Secretary",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed in run 12; nothing printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "75 STAT.]        PUBLIC LAW 87-166—AUG. 25, 1961"
+  },
+  {
+   "role": "page-number",
+   "text": "401"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 87-164"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "August 25, 1961"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 4786]"
+  },
+  {
+   "role": "body",
+   "text": "To provide travel and transportation allowances for members of the National"
+  },
+  {
+   "role": "body",
+   "text": "Guard and reserve components when travel is performed in an active duty"
+  },
+  {
+   "role": "body",
+   "text": "or inactive duty training status in compliance with Federal directives."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That section 501(b)"
+  },
+  {
+   "role": "sidenote",
+   "text": "National  Guard;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Reserves."
+  },
+  {
+   "role": "body",
+   "text": "of the Career Compensation Act of 1949, as amended, is amended by"
+  },
+  {
+   "role": "sidenote",
+   "text": "Allowances."
+  },
+  {
+   "role": "sidenote",
+   "text": "63 Stat. 826."
+  },
+  {
+   "role": "body",
+   "text": "striking out the words \"furnished with transportation to and from\""
+  },
+  {
+   "role": "sidenote",
+   "text": "37 USC 301."
+  },
+  {
+   "role": "body",
+   "text": "such duty, with subsistence en route\" in the first sentence and insert-"
+  },
+  {
+   "role": "body",
+   "text": "ing the words \"authorized the travel and transportation allowances"
+  },
+  {
+   "role": "body",
+   "text": "prescribed in section 303(a) of this Act for travel performed to and"
+  },
+  {
+   "role": "sidenote",
+   "text": "37 USC 253."
+  },
+  {
+   "role": "body",
+   "text": "from such duty\" in place thereof."
+  },
+  {
+   "role": "body",
+   "text": "Approved August 25, 1961."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 87-165"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "August 25, 1961"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 6597]"
+  },
+  {
+   "role": "body",
+   "text": "To amend title 10, United States Code, to permit the crediting of certain"
+  },
+  {
+   "role": "body",
+   "text": "minority service for the purpose of determining eligibility for retirement,"
+  },
+  {
+   "role": "body",
+   "text": "and for other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That chapter 53 of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Armed Forces."
+  },
+  {
+   "role": "sidenote",
+   "text": "Minority service,"
+  },
+  {
+   "role": "body",
+   "text": "title 10, United States Code, is amended as follows:"
+  },
+  {
+   "role": "sidenote",
+   "text": "credit."
+  },
+  {
+   "role": "body",
+   "text": "(1) By adding the following new section at the end thereof:"
+  },
+  {
+   "role": "sidenote",
+   "text": "10 USC 1031-"
+  },
+  {
+   "role": "sidenote",
+   "text": "1038."
+  },
+  {
+   "role": "body",
+   "text": "\"§ 1039. Crediting of minority service"
+  },
+  {
+   "role": "body",
+   "text": "\"For the purpose of determining eligibility for retirement or trans-"
+  },
+  {
+   "role": "body",
+   "text": "fer to the Fleet Reserve or Fleet Marine Corps Reserve, entitlement"
+  },
+  {
+   "role": "body",
+   "text": "to retired or retainer pay, and years of service in computing retired or"
+  },
+  {
+   "role": "body",
+   "text": "retainer pay of a member of the armed forces, any service which"
+  },
+  {
+   "role": "body",
+   "text": "would be creditable but for the fact that it was performed by him"
+  },
+  {
+   "role": "body",
+   "text": "under an enlistment or induction entered into before he attained the"
+  },
+  {
+   "role": "body",
+   "text": "age prescribed by law for that enlistment or induction, shall be"
+  },
+  {
+   "role": "body",
+   "text": "credited.\""
+  },
+  {
+   "role": "body",
+   "text": "(2) By adding the following item at the end of the analysis:"
+  },
+  {
+   "role": "body",
+   "text": "\"1039. Crediting of minority service.\""
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. Section 1 applies to service performed, and retirements or"
+  },
+  {
+   "role": "body",
+   "text": "transfers to the Fleet Reserve or the Fleet Marine Corps Reserve"
+  },
+  {
+   "role": "body",
+   "text": "effected, before and after this Act takes effect."
+  },
+  {
+   "role": "body",
+   "text": "Approved August 25, 1961."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 87-166"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "August 25, 1961"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 7725]"
+  },
+  {
+   "role": "body",
+   "text": "To authorize the Secretary of the Army to reconvey to the town of Malone,"
+  },
+  {
+   "role": "body",
+   "text": "New York, certain real property heretofore donated by said town to the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America as an Army Reserve Center and never used by the"
+  },
+  {
+   "role": "body",
+   "text": "United States."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Secretary"
+  },
+  {
+   "role": "sidenote",
+   "text": "Malone, N. Y."
+  },
+  {
+   "role": "sidenote",
+   "text": "Reconveyance of"
+  },
+  {
+   "role": "body",
+   "text": "of the Army is hereby authorized and directed to reconvey by quit-"
+  },
+  {
+   "role": "sidenote",
+   "text": "land."
+  },
+  {
+   "role": "body",
+   "text": "claim deed to the town of Malone, New York, the four acres of land"
+  },
+  {
+   "role": "body",
+   "text": "and appurtenant easements conveyed on July 26, 1956, and September"
+  },
+  {
+   "role": "body",
+   "text": "17, 1958, by said town to the United States of America as the site"
+  },
+  {
+   "role": "body",
+   "text": "for a United States Army Reserve Center and never used for that"
+  },
+  {
+   "role": "body",
+   "text": "purpose."
+  },
+  {
+   "role": "body",
+   "text": "Approved August 25, 1961."
+  }
+ ],
+ "disagreement_count": 13,
+ "tokens": {
+  "input_tokens": 22442,
+  "output_tokens": 6109,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.2661,
+ "seconds": 208.5,
+ "created": "2026-09-08T12:29:11"
+}

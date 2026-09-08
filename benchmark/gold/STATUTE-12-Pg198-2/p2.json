@@ -1,0 +1,1330 @@
+{
+ "granule_id": "STATUTE-12-Pg198-2",
+ "package_id": "STATUTE-12",
+ "volume": 12,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to provide for the Payment of Expenses incurred by the Territories of Washington and Oregon in the Suppression of Indian Hostilities therein, in the Years eighteen hundred and fifty-five and ei",
+ "date_issued": "1861-03-02",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "199",
+ "image": "data/gold/STATUTE-12-Pg198-2/p2.png",
+ "image_sha256": "8e6b0d82a2dd42a92208d4f67400894976e6716629eb9e94a39cd279330ecff8",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-SIXTH CONGRESS.  SESS. II.  CH. 70, 71.  1861."
+    },
+    {
+     "role": "page-number",
+     "text": "199"
+    },
+    {
+     "role": "body",
+     "text": "regular army during the hostilities in which said volunteers were en-"
+    },
+    {
+     "role": "body",
+     "text": "gaged, he shall allow for such supplies the prices paid for similar sup-"
+    },
+    {
+     "role": "body",
+     "text": "plies for the regular army at the most convenient point where army"
+    },
+    {
+     "role": "body",
+     "text": "supplies were furnished during said time, adding thereto the cost of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "transportation to the place where such supplies were furnished to said"
+    },
+    {
+     "role": "sidenote",
+     "text": "Payments to be"
+    },
+    {
+     "role": "body",
+     "text": "volunteers : And provided, further, That no compensation shall be made"
+    },
+    {
+     "role": "sidenote",
+     "text": "in full of claims."
+    },
+    {
+     "role": "body",
+     "text": "for the services of any person in more than one capacity for the same"
+    },
+    {
+     "role": "body",
+     "text": "time ; and all payments made in pursuance of this act shall be received"
+    },
+    {
+     "role": "body",
+     "text": "in full satisfaction and discharge of the claims upon which they are made."
+    },
+    {
+     "role": "sidenote",
+     "text": "Loss of horses."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That all claims for horses or other"
+    },
+    {
+     "role": "body",
+     "text": "property lost or destroyed in said service shall be settled according to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "1849, ch. 129."
+    },
+    {
+     "role": "body",
+     "text": "act approved the third of March, eighteen hundred and forty-nine, pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. ix. p. 414."
+    },
+    {
+     "role": "body",
+     "text": "viding for payment for horses or other property lost or destroyed in the"
+    },
+    {
+     "role": "body",
+     "text": "military service of the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment to"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted. That there be paid to Robert J."
+    },
+    {
+     "role": "sidenote",
+     "text": "Robert J. Atkin"
+    },
+    {
+     "role": "body",
+     "text": "Atkinson, Third Auditor of the Treasury, for the duties heretofore"
+    },
+    {
+     "role": "sidenote",
+     "text": "son."
+    },
+    {
+     "role": "body",
+     "text": "performed by him in the investigation of said claims, the sum of one"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars, out of any money in the Treasury not otherwise ap-"
+    },
+    {
+     "role": "body",
+     "text": "propriated."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That for the payment of claims pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Bonds may be"
+    },
+    {
+     "role": "body",
+     "text": "vided for in this act, the Secretary of the Treasury may, if he deem it"
+    },
+    {
+     "role": "sidenote",
+     "text": "issued for the"
+    },
+    {
+     "role": "body",
+     "text": "expedient, issue to the claimants, or their legal representatives, bonds of"
+    },
+    {
+     "role": "sidenote",
+     "text": "payment of these"
+    },
+    {
+     "role": "body",
+     "text": "the United States of a denomination not less than fifty dollars, redeemable"
+    },
+    {
+     "role": "sidenote",
+     "text": "claims."
+    },
+    {
+     "role": "body",
+     "text": "in twenty years, and bearing interest at the rate of six per cent. per an-"
+    },
+    {
+     "role": "body",
+     "text": "num, with coupons attached, and payable annually or semi-annually at"
+    },
+    {
+     "role": "body",
+     "text": "the discretion of the Secretary of the Treasury."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 2, 1861."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1861."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXI. — An Act for the Payment of Expenses incurred in the Suppression of"
+    },
+    {
+     "role": "body",
+     "text": "Indian Hostilities in the State of California."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment for"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the sum of four hundred"
+    },
+    {
+     "role": "sidenote",
+     "text": "suppression of"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars, or so much thereof as shall be necessary, be, and the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Indian hostilities"
+    },
+    {
+     "role": "body",
+     "text": "same is hereby, appropriated, out of any money in the Treasury not other-"
+    },
+    {
+     "role": "sidenote",
+     "text": "in California."
+    },
+    {
+     "role": "body",
+     "text": "wise appropriated, to defray the expenses incurred by the State of Cali-"
+    },
+    {
+     "role": "body",
+     "text": "fornia, in the suppression of Indian hostilities therein, in the years eigh-"
+    },
+    {
+     "role": "body",
+     "text": "teen hundred and fifty-four, fifty-five, fifty-six, fifty-eight, and fifty-nine,"
+    },
+    {
+     "role": "body",
+     "text": "and the Secretary of the Treasury, when the said expenses of the State"
+    },
+    {
+     "role": "body",
+     "text": "of California shall have been audited and allowed, shall be and hereby is"
+    },
+    {
+     "role": "sidenote",
+     "text": "1861, ch. 29."
+    },
+    {
+     "role": "body",
+     "text": "authorized to pay the same in bonds of the United States authorized to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 129."
+    },
+    {
+     "role": "body",
+     "text": "issued by the act of February the eighth, eighteen hundred and sixty-one."
+    },
+    {
+     "role": "sidenote",
+     "text": "Accounts of"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the Third Auditor of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "the State to be"
+    },
+    {
+     "role": "body",
+     "text": "Treasury be, and he hereby is, authorized and required to audit the ac-"
+    },
+    {
+     "role": "sidenote",
+     "text": "audited, for vol-"
+    },
+    {
+     "role": "body",
+     "text": "counts of the said State of California for payments for the services of vol-"
+    },
+    {
+     "role": "sidenote",
+     "text": "unteers, supplies,"
+    },
+    {
+     "role": "body",
+     "text": "unteers, and for supplies, transportation, and personal services, furnished"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "body",
+     "text": "or rendered to said volunteers in the Shasta expedition of eighteen hun-"
+    },
+    {
+     "role": "body",
+     "text": "dred and fifty-four, in the Siskiyou expedition of eighteen hundred and"
+    },
+    {
+     "role": "body",
+     "text": "fifty-five, in the Klamath and Humboldt expedition of eighteen hundred"
+    },
+    {
+     "role": "body",
+     "text": "and fifty-five, in the San Bernardino expedition of eighteen hundred and"
+    },
+    {
+     "role": "body",
+     "text": "fifty-five, in the Klamath expedition of eighteen hundred and fifty-six, in"
+    },
+    {
+     "role": "body",
+     "text": "the Modoc expedition of eighteen hundred and fifty-six, in the Tulare ex-"
+    },
+    {
+     "role": "body",
+     "text": "pedition of eighteen hundred and fifty-six, in the Klamath and Humboldt"
+    },
+    {
+     "role": "body",
+     "text": "expedition of eighteen hundred fifty-eight and fifty-nine, and in the Pitt"
+    },
+    {
+     "role": "body",
+     "text": "River expedition of eighteen hundred and fifty-nine : Provided, That no"
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay to be no"
+    },
+    {
+     "role": "body",
+     "text": "higher rate shall be allowed or paid for the services of said volunteers"
+    },
+    {
+     "role": "sidenote",
+     "text": "higher than in"
+    },
+    {
+     "role": "body",
+     "text": "than was paid for services in the same grade and for the same time in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "the regular army"
+    },
+    {
+     "role": "body",
+     "text": "United States army serving in California, nor shall payment be made for"
+    },
+    {
+     "role": "body",
+     "text": "the services of any such volunteers except for the time during which they"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2612,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09273,
+   "seconds": 28.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-SIXTH CONGRESS.  SESS. II.  CH. 70, 71.  1861."
+    },
+    {
+     "role": "page-number",
+     "text": "199"
+    },
+    {
+     "role": "body",
+     "text": "regular army during the hostilities in which said volunteers were en-"
+    },
+    {
+     "role": "body",
+     "text": "gaged, he shall allow for such supplies the prices paid for similar sup-"
+    },
+    {
+     "role": "body",
+     "text": "plies for the regular army at the most convenient point where army"
+    },
+    {
+     "role": "body",
+     "text": "supplies were furnished during said time, adding thereto the cost of"
+    },
+    {
+     "role": "body",
+     "text": "transportation to the place where such supplies were furnished to said"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "volunteers : And provided, further, That no compensation shall be made"
+    },
+    {
+     "role": "sidenote",
+     "text": "Payments to be"
+    },
+    {
+     "role": "body",
+     "text": "for the services of any person in more than one capacity for the same"
+    },
+    {
+     "role": "sidenote",
+     "text": "in full of claims."
+    },
+    {
+     "role": "body",
+     "text": "time ; and all payments made in pursuance of this act shall be received"
+    },
+    {
+     "role": "body",
+     "text": "in full satisfaction and discharge of the claims upon which they are made."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That all claims for horses or other"
+    },
+    {
+     "role": "sidenote",
+     "text": "Loss of horses."
+    },
+    {
+     "role": "body",
+     "text": "property lost or destroyed in said service shall be settled according to the"
+    },
+    {
+     "role": "body",
+     "text": "act approved the third of March, eighteen hundred and forty-nine, pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1849, ch. 129."
+    },
+    {
+     "role": "body",
+     "text": "viding for payment for horses or other property lost or destroyed in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. ix. p. 414."
+    },
+    {
+     "role": "body",
+     "text": "military service of the United States."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted. That there be paid to Robert J."
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment to"
+    },
+    {
+     "role": "body",
+     "text": "Atkinson, Third Auditor of the Treasury, for the duties heretofore"
+    },
+    {
+     "role": "sidenote",
+     "text": "Robert J. Atkin"
+    },
+    {
+     "role": "sidenote",
+     "text": "son."
+    },
+    {
+     "role": "body",
+     "text": "performed by him in the investigation of said claims, the sum of one"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars, out of any money in the Treasury not otherwise ap-"
+    },
+    {
+     "role": "body",
+     "text": "propriated."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That for the payment of claims pro-"
+    },
+    {
+     "role": "body",
+     "text": "vided for in this act, the Secretary of the Treasury may, if he deem it"
+    },
+    {
+     "role": "sidenote",
+     "text": "Bonds may be"
+    },
+    {
+     "role": "body",
+     "text": "expedient, issue to the claimants, or their legal representatives, bonds of"
+    },
+    {
+     "role": "sidenote",
+     "text": "issued for the"
+    },
+    {
+     "role": "body",
+     "text": "the United States of a denomination not less than fifty dollars, redeemable"
+    },
+    {
+     "role": "sidenote",
+     "text": "payment of these"
+    },
+    {
+     "role": "sidenote",
+     "text": "claims."
+    },
+    {
+     "role": "body",
+     "text": "in twenty years, and bearing interest at the rate of six per cent. per an-"
+    },
+    {
+     "role": "body",
+     "text": "num, with coupons attached, and payable annually or semi-annually at"
+    },
+    {
+     "role": "body",
+     "text": "the discretion of the Secretary of the Treasury."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 2, 1861."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXI. — An Act for the Payment of Expenses incurred in the Suppression of"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1861."
+    },
+    {
+     "role": "body",
+     "text": "Indian Hostilities in the State of California."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the sum of four hundred"
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment for"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars, or so much thereof as shall be necessary, be, and the"
+    },
+    {
+     "role": "sidenote",
+     "text": "suppression of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Indian hostilities"
+    },
+    {
+     "role": "body",
+     "text": "same is hereby, appropriated, out of any money in the Treasury not other-"
+    },
+    {
+     "role": "sidenote",
+     "text": "in California."
+    },
+    {
+     "role": "body",
+     "text": "wise appropriated, to defray the expenses incurred by the State of Cali-"
+    },
+    {
+     "role": "body",
+     "text": "fornia, in the suppression of Indian hostilities therein, in the years eigh-"
+    },
+    {
+     "role": "body",
+     "text": "teen hundred and fifty-four, fifty-five, fifty-six, fifty-eight, and fifty-nine,"
+    },
+    {
+     "role": "body",
+     "text": "and the Secretary of the Treasury, when the said expenses of the State"
+    },
+    {
+     "role": "body",
+     "text": "of California shall have been audited and allowed, shall be and hereby is"
+    },
+    {
+     "role": "body",
+     "text": "authorized to pay the same in bonds of the United States authorized to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "1861, ch. 29."
+    },
+    {
+     "role": "body",
+     "text": "issued by the act of February the eighth, eighteen hundred and sixty-one."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 129."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the Third Auditor of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Accounts of"
+    },
+    {
+     "role": "body",
+     "text": "Treasury be, and he hereby is, authorized and required to audit the ac-"
+    },
+    {
+     "role": "sidenote",
+     "text": "the State to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "audited, for vol-"
+    },
+    {
+     "role": "body",
+     "text": "counts of the said State of California for payments for the services of vol-"
+    },
+    {
+     "role": "sidenote",
+     "text": "unteers, supplies,"
+    },
+    {
+     "role": "body",
+     "text": "unteers, and for supplies, transportation, and personal services, furnished"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "body",
+     "text": "or rendered to said volunteers in the Shasta expedition of eighteen hun-"
+    },
+    {
+     "role": "body",
+     "text": "dred and fifty-four, in the Siskiyou expedition of eighteen hundred and"
+    },
+    {
+     "role": "body",
+     "text": "fifty-five, in the Klamath and Humboldt expedition of eighteen hundred"
+    },
+    {
+     "role": "body",
+     "text": "and fifty-five, in the San Bernardino expedition of eighteen hundred and"
+    },
+    {
+     "role": "body",
+     "text": "fifty-five, in the Klamath expedition of eighteen hundred and fifty-six, in"
+    },
+    {
+     "role": "body",
+     "text": "the Modoc expedition of eighteen hundred and fifty-six, in the Tulare ex-"
+    },
+    {
+     "role": "body",
+     "text": "pedition of eighteen hundred and fifty-six, in the Klamath and Humboldt"
+    },
+    {
+     "role": "body",
+     "text": "expedition of eighteen hundred fifty-eight and fifty-nine, and in the Pitt"
+    },
+    {
+     "role": "body",
+     "text": "River expedition of eighteen hundred and fifty-nine : Provided, That no"
+    },
+    {
+     "role": "body",
+     "text": "higher rate shall be allowed or paid for the services of said volunteers"
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay to be no"
+    },
+    {
+     "role": "sidenote",
+     "text": "higher than in"
+    },
+    {
+     "role": "body",
+     "text": "than was paid for services in the same grade and for the same time in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "the regular army"
+    },
+    {
+     "role": "body",
+     "text": "United States army serving in California, nor shall payment be made for"
+    },
+    {
+     "role": "body",
+     "text": "the services of any such volunteers except for the time during which they"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2612,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09273,
+   "seconds": 28.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13740,
+   "output_tokens": 4266,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.17577,
+  "seconds": 46.6,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "transportation to the place where such supplies were furnished to said",
+    "kept": "transportation to the place where such supplies were furnished to said",
+    "reason": "The 'Proviso.' sidenote stands opposite this body line, so the body line precedes it in reading order."
+   },
+   {
+    "run": 2,
+    "a": "transportation to the place where such supplies were furnished to said",
+    "b": "volunteers : And provided, further, That no compensation shall be made",
+    "kept": "volunteers : And provided, further, That no compensation shall be made",
+    "reason": "After the 'Proviso.' sidenote the next printed body line is this one; 'transportation' was already placed above."
+   },
+   {
+    "run": 3,
+    "a": "volunteers : And provided, further, That no compensation shall be made",
+    "b": "for the services of any person in more than one capacity for the same",
+    "kept": "for the services of any person in more than one capacity for the same",
+    "reason": "'Payments to be' aligns with the 'volunteers : And provided' line, so the next body line follows it."
+   },
+   {
+    "run": 4,
+    "a": "for the services of any person in more than one capacity for the same",
+    "b": "",
+    "kept": "",
+    "reason": "This body line was already placed before the 'in full of claims.' sidenote."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "SEC. 2. And be it further enacted, That all claims for horses or other",
+    "kept": "SEC. 2. And be it further enacted, That all claims for horses or other",
+    "reason": "'Loss of horses.' is printed opposite this line, hence the body line comes first."
+   },
+   {
+    "run": 6,
+    "a": "SEC. 2. And be it further enacted, That all claims for horses or other",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate; the SEC. 2 line was already placed before its sidenote."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "act approved the third of March, eighteen hundred and forty-nine, pro-",
+    "kept": "act approved the third of March, eighteen hundred and forty-nine, pro-",
+    "reason": "'1849, ch. 129.' aligns with this line, so it precedes the sidenote."
+   },
+   {
+    "run": 8,
+    "a": "act approved the third of March, eighteen hundred and forty-nine, pro-",
+    "b": "viding for payment for horses or other property lost or destroyed in the",
+    "kept": "viding for payment for horses or other property lost or destroyed in the",
+    "reason": "Next body line after the '1849, ch. 129.' sidenote; it aligns with 'Vol. ix. p. 414.'"
+   },
+   {
+    "run": 9,
+    "a": "viding for payment for horses or other property lost or destroyed in the",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed before the 'Vol. ix. p. 414.' sidenote."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "SEC. 3. And be it further enacted. That there be paid to Robert J.",
+    "kept": "SEC. 3. And be it further enacted. That there be paid to Robert J.",
+    "reason": "'Payment to' is printed opposite this line, so the body line comes first."
+   },
+   {
+    "run": 11,
+    "a": "SEC. 3. And be it further enacted. That there be paid to Robert J.",
+    "b": "Atkinson, Third Auditor of the Treasury, for the duties heretofore",
+    "kept": "Atkinson, Third Auditor of the Treasury, for the duties heretofore",
+    "reason": "This line aligns with 'Robert J. Atkin' and follows the 'Payment to' sidenote."
+   },
+   {
+    "run": 12,
+    "a": "Atkinson, Third Auditor of the Treasury, for the duties heretofore",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed above; nothing further printed here."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "vided for in this act, the Secretary of the Treasury may, if he deem it",
+    "kept": "vided for in this act, the Secretary of the Treasury may, if he deem it",
+    "reason": "'Bonds may be' stands opposite this line, which therefore precedes it."
+   },
+   {
+    "run": 14,
+    "a": "vided for in this act, the Secretary of the Treasury may, if he deem it",
+    "b": "expedient, issue to the claimants, or their legal representatives, bonds of",
+    "kept": "expedient, issue to the claimants, or their legal representatives, bonds of",
+    "reason": "Follows the 'Bonds may be' sidenote and aligns with 'issued for the'."
+   },
+   {
+    "run": 15,
+    "a": "expedient, issue to the claimants, or their legal representatives, bonds of",
+    "b": "the United States of a denomination not less than fifty dollars, redeemable",
+    "kept": "the United States of a denomination not less than fifty dollars, redeemable",
+    "reason": "Follows the 'issued for the' sidenote and aligns with 'payment of these'."
+   },
+   {
+    "run": 16,
+    "a": "the United States of a denomination not less than fifty dollars, redeemable",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed above; nothing further printed here."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "CHAP. LXXI. — An Act for the Payment of Expenses incurred in the Suppression of",
+    "kept": "CHAP. LXXI. — An Act for the Payment of Expenses incurred in the Suppression of",
+    "reason": "The chapter heading is printed opposite the 'March 2, 1861.' sidenote, so it comes first."
+   },
+   {
+    "run": 18,
+    "a": "CHAP. LXXI. — An Act for the Payment of Expenses incurred in the Suppression of",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the heading already placed above."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "States of America in Congress assembled, That the sum of four hundred",
+    "kept": "States of America in Congress assembled, That the sum of four hundred",
+    "reason": "'Payment for' aligns with this line, which therefore precedes the sidenote."
+   },
+   {
+    "run": 20,
+    "a": "States of America in Congress assembled, That the sum of four hundred",
+    "b": "thousand dollars, or so much thereof as shall be necessary, be, and the",
+    "kept": "thousand dollars, or so much thereof as shall be necessary, be, and the",
+    "reason": "Follows the 'Payment for' sidenote and aligns with 'suppression of'."
+   },
+   {
+    "run": 21,
+    "a": "thousand dollars, or so much thereof as shall be necessary, be, and the",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed above; nothing further printed here."
+   },
+   {
+    "run": 22,
+    "a": "",
+    "b": "authorized to pay the same in bonds of the United States authorized to be",
+    "kept": "authorized to pay the same in bonds of the United States authorized to be",
+    "reason": "'1861, ch. 29.' stands opposite this line, so the body line comes first."
+   },
+   {
+    "run": 23,
+    "a": "authorized to pay the same in bonds of the United States authorized to be",
+    "b": "issued by the act of February the eighth, eighteen hundred and sixty-one.",
+    "kept": "issued by the act of February the eighth, eighteen hundred and sixty-one.",
+    "reason": "Follows the '1861, ch. 29.' sidenote and aligns with 'Ante, p. 129.'"
+   },
+   {
+    "run": 24,
+    "a": "issued by the act of February the eighth, eighteen hundred and sixty-one.",
+    "b": "SEC. 2. And be it further enacted, That the Third Auditor of the",
+    "kept": "SEC. 2. And be it further enacted, That the Third Auditor of the",
+    "reason": "Follows the 'Ante, p. 129.' sidenote and aligns with 'Accounts of'."
+   },
+   {
+    "run": 25,
+    "a": "SEC. 2. And be it further enacted, That the Third Auditor of the",
+    "b": "Treasury be, and he hereby is, authorized and required to audit the ac-",
+    "kept": "Treasury be, and he hereby is, authorized and required to audit the ac-",
+    "reason": "Follows the 'Accounts of' sidenote and aligns with 'the State to be'."
+   },
+   {
+    "run": 26,
+    "a": "Treasury be, and he hereby is, authorized and required to audit the ac-",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed above; nothing further printed here."
+   },
+   {
+    "run": 27,
+    "a": "",
+    "b": "higher rate shall be allowed or paid for the services of said volunteers",
+    "kept": "higher rate shall be allowed or paid for the services of said volunteers",
+    "reason": "'Pay to be no' is printed opposite this line, so the body line comes first."
+   },
+   {
+    "run": 28,
+    "a": "higher rate shall be allowed or paid for the services of said volunteers",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed above."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "THIRTY-SIXTH CONGRESS.  SESS. II.  CH. 70, 71.  1861."
+  },
+  {
+   "role": "page-number",
+   "text": "199"
+  },
+  {
+   "role": "body",
+   "text": "regular army during the hostilities in which said volunteers were en-"
+  },
+  {
+   "role": "body",
+   "text": "gaged, he shall allow for such supplies the prices paid for similar sup-"
+  },
+  {
+   "role": "body",
+   "text": "plies for the regular army at the most convenient point where army"
+  },
+  {
+   "role": "body",
+   "text": "supplies were furnished during said time, adding thereto the cost of"
+  },
+  {
+   "role": "body",
+   "text": "transportation to the place where such supplies were furnished to said"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "volunteers : And provided, further, That no compensation shall be made"
+  },
+  {
+   "role": "sidenote",
+   "text": "Payments to be"
+  },
+  {
+   "role": "body",
+   "text": "for the services of any person in more than one capacity for the same"
+  },
+  {
+   "role": "sidenote",
+   "text": "in full of claims."
+  },
+  {
+   "role": "body",
+   "text": "time ; and all payments made in pursuance of this act shall be received"
+  },
+  {
+   "role": "body",
+   "text": "in full satisfaction and discharge of the claims upon which they are made."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That all claims for horses or other"
+  },
+  {
+   "role": "sidenote",
+   "text": "Loss of horses."
+  },
+  {
+   "role": "body",
+   "text": "property lost or destroyed in said service shall be settled according to the"
+  },
+  {
+   "role": "body",
+   "text": "act approved the third of March, eighteen hundred and forty-nine, pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "1849, ch. 129."
+  },
+  {
+   "role": "body",
+   "text": "viding for payment for horses or other property lost or destroyed in the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. ix. p. 414."
+  },
+  {
+   "role": "body",
+   "text": "military service of the United States."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted. That there be paid to Robert J."
+  },
+  {
+   "role": "sidenote",
+   "text": "Payment to"
+  },
+  {
+   "role": "body",
+   "text": "Atkinson, Third Auditor of the Treasury, for the duties heretofore"
+  },
+  {
+   "role": "sidenote",
+   "text": "Robert J. Atkin"
+  },
+  {
+   "role": "sidenote",
+   "text": "son."
+  },
+  {
+   "role": "body",
+   "text": "performed by him in the investigation of said claims, the sum of one"
+  },
+  {
+   "role": "body",
+   "text": "thousand dollars, out of any money in the Treasury not otherwise ap-"
+  },
+  {
+   "role": "body",
+   "text": "propriated."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. And be it further enacted, That for the payment of claims pro-"
+  },
+  {
+   "role": "body",
+   "text": "vided for in this act, the Secretary of the Treasury may, if he deem it"
+  },
+  {
+   "role": "sidenote",
+   "text": "Bonds may be"
+  },
+  {
+   "role": "body",
+   "text": "expedient, issue to the claimants, or their legal representatives, bonds of"
+  },
+  {
+   "role": "sidenote",
+   "text": "issued for the"
+  },
+  {
+   "role": "body",
+   "text": "the United States of a denomination not less than fifty dollars, redeemable"
+  },
+  {
+   "role": "sidenote",
+   "text": "payment of these"
+  },
+  {
+   "role": "sidenote",
+   "text": "claims."
+  },
+  {
+   "role": "body",
+   "text": "in twenty years, and bearing interest at the rate of six per cent. per an-"
+  },
+  {
+   "role": "body",
+   "text": "num, with coupons attached, and payable annually or semi-annually at"
+  },
+  {
+   "role": "body",
+   "text": "the discretion of the Secretary of the Treasury."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 2, 1861."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LXXI. — An Act for the Payment of Expenses incurred in the Suppression of"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 2, 1861."
+  },
+  {
+   "role": "body",
+   "text": "Indian Hostilities in the State of California."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the sum of four hundred"
+  },
+  {
+   "role": "sidenote",
+   "text": "Payment for"
+  },
+  {
+   "role": "body",
+   "text": "thousand dollars, or so much thereof as shall be necessary, be, and the"
+  },
+  {
+   "role": "sidenote",
+   "text": "suppression of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Indian hostilities"
+  },
+  {
+   "role": "body",
+   "text": "same is hereby, appropriated, out of any money in the Treasury not other-"
+  },
+  {
+   "role": "sidenote",
+   "text": "in California."
+  },
+  {
+   "role": "body",
+   "text": "wise appropriated, to defray the expenses incurred by the State of Cali-"
+  },
+  {
+   "role": "body",
+   "text": "fornia, in the suppression of Indian hostilities therein, in the years eigh-"
+  },
+  {
+   "role": "body",
+   "text": "teen hundred and fifty-four, fifty-five, fifty-six, fifty-eight, and fifty-nine,"
+  },
+  {
+   "role": "body",
+   "text": "and the Secretary of the Treasury, when the said expenses of the State"
+  },
+  {
+   "role": "body",
+   "text": "of California shall have been audited and allowed, shall be and hereby is"
+  },
+  {
+   "role": "body",
+   "text": "authorized to pay the same in bonds of the United States authorized to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "1861, ch. 29."
+  },
+  {
+   "role": "body",
+   "text": "issued by the act of February the eighth, eighteen hundred and sixty-one."
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 129."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the Third Auditor of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Accounts of"
+  },
+  {
+   "role": "body",
+   "text": "Treasury be, and he hereby is, authorized and required to audit the ac-"
+  },
+  {
+   "role": "sidenote",
+   "text": "the State to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "audited, for vol-"
+  },
+  {
+   "role": "body",
+   "text": "counts of the said State of California for payments for the services of vol-"
+  },
+  {
+   "role": "sidenote",
+   "text": "unteers, supplies,"
+  },
+  {
+   "role": "body",
+   "text": "unteers, and for supplies, transportation, and personal services, furnished"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c."
+  },
+  {
+   "role": "body",
+   "text": "or rendered to said volunteers in the Shasta expedition of eighteen hun-"
+  },
+  {
+   "role": "body",
+   "text": "dred and fifty-four, in the Siskiyou expedition of eighteen hundred and"
+  },
+  {
+   "role": "body",
+   "text": "fifty-five, in the Klamath and Humboldt expedition of eighteen hundred"
+  },
+  {
+   "role": "body",
+   "text": "and fifty-five, in the San Bernardino expedition of eighteen hundred and"
+  },
+  {
+   "role": "body",
+   "text": "fifty-five, in the Klamath expedition of eighteen hundred and fifty-six, in"
+  },
+  {
+   "role": "body",
+   "text": "the Modoc expedition of eighteen hundred and fifty-six, in the Tulare ex-"
+  },
+  {
+   "role": "body",
+   "text": "pedition of eighteen hundred and fifty-six, in the Klamath and Humboldt"
+  },
+  {
+   "role": "body",
+   "text": "expedition of eighteen hundred fifty-eight and fifty-nine, and in the Pitt"
+  },
+  {
+   "role": "body",
+   "text": "River expedition of eighteen hundred and fifty-nine : Provided, That no"
+  },
+  {
+   "role": "body",
+   "text": "higher rate shall be allowed or paid for the services of said volunteers"
+  },
+  {
+   "role": "sidenote",
+   "text": "Pay to be no"
+  },
+  {
+   "role": "sidenote",
+   "text": "higher than in"
+  },
+  {
+   "role": "body",
+   "text": "than was paid for services in the same grade and for the same time in the"
+  },
+  {
+   "role": "sidenote",
+   "text": "the regular army"
+  },
+  {
+   "role": "body",
+   "text": "United States army serving in California, nor shall payment be made for"
+  },
+  {
+   "role": "body",
+   "text": "the services of any such volunteers except for the time during which they"
+  }
+ ],
+ "disagreement_count": 28,
+ "tokens": {
+  "input_tokens": 24563,
+  "output_tokens": 9490,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.36123,
+ "seconds": 104.3,
+ "created": "2026-09-08T11:54:18"
+}

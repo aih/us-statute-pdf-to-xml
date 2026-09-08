@@ -1,0 +1,1239 @@
+{
+ "granule_id": "STATUTE-36-Pg199-4",
+ "package_id": "STATUTE-36",
+ "volume": 36,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act To authorize the extension of Park place northwest.",
+ "date_issued": "1910-02-21",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "200",
+ "image": "data/gold/STATUTE-36-Pg199-4/p2.png",
+ "image_sha256": "8e9cf7bb23df615306c8fbb9b3e037a1df349834c036778ae04e87f69c96034d",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "200          SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 51-53.  1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "Condemning land"
+    },
+    {
+     "role": "sidenote",
+     "text": "for extending."
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 151."
+    },
+    {
+     "role": "body",
+     "text": "Law for the District of Columbia, within ninety days after the passage"
+    },
+    {
+     "role": "body",
+     "text": "of this Act, the Commissioners of the District of Columbia be, and"
+    },
+    {
+     "role": "body",
+     "text": "they are hereby, authorized and directed to institute in the supreme"
+    },
+    {
+     "role": "body",
+     "text": "court of the District of Columbia a proceeding in rem to condemn the"
+    },
+    {
+     "role": "body",
+     "text": "land that may be necessary for the extension of Park place along the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Damages, etc., as-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sessed as benefits."
+    },
+    {
+     "role": "body",
+     "text": "west line of the Soldiers' Home lands, with a width of forty feet: Pro-"
+    },
+    {
+     "role": "body",
+     "text": "vided, however, That the entire amount found to be due and awarded"
+    },
+    {
+     "role": "body",
+     "text": "by the jury in said proceeding as damages for, and in respect of, the"
+    },
+    {
+     "role": "body",
+     "text": "land to be condemned for said extension, including the costs and"
+    },
+    {
+     "role": "body",
+     "text": "expenses of the proceeding hereunder, shall be assessed by the jury as"
+    },
+    {
+     "role": "body",
+     "text": "benefits."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation for"
+    },
+    {
+     "role": "sidenote",
+     "text": "expenses, etc."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That there is hereby appropriated, out of the revenues of"
+    },
+    {
+     "role": "body",
+     "text": "the District of Columbia, an amount sufficient to pay the necessary"
+    },
+    {
+     "role": "body",
+     "text": "costs and expenses of the condemnation proceedings taken pursuant"
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment of awards."
+    },
+    {
+     "role": "body",
+     "text": "hereto and for the payment of amounts awarded as damages, to be"
+    },
+    {
+     "role": "body",
+     "text": "repaid to the District of Columbia from the assessments for benefits"
+    },
+    {
+     "role": "body",
+     "text": "and covered into the Treasury to the credit of the revenues of the"
+    },
+    {
+     "role": "body",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "body",
+     "text": "Approved, February 21, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "February 21, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 16328.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 56.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 52.—An Act For the extension of Franklin street northeast from its"
+    },
+    {
+     "role": "body",
+     "text": "present eastern terminus east of Twenty-fourth street to the Bladensburg road."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "Franklin    street"
+    },
+    {
+     "role": "sidenote",
+     "text": "northeast."
+    },
+    {
+     "role": "sidenote",
+     "text": "Condemning land"
+    },
+    {
+     "role": "sidenote",
+     "text": "for extending."
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 151."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That under and in accord-"
+    },
+    {
+     "role": "body",
+     "text": "ance with the provisions of subchapter one of chapter fifteen of the"
+    },
+    {
+     "role": "body",
+     "text": "Code of Law for the District of Columbia, within ninety days after"
+    },
+    {
+     "role": "body",
+     "text": "the passage of this Act, the Commissioners of the District of Columbia"
+    },
+    {
+     "role": "body",
+     "text": "be, and they are hereby, authorized and directed to institute a pro-"
+    },
+    {
+     "role": "body",
+     "text": "ceeding in rem to condemn the land that may be necessary for the"
+    },
+    {
+     "role": "body",
+     "text": "opening of Franklin street northeast from its present eastern terminus"
+    },
+    {
+     "role": "body",
+     "text": "east of Twenty-fourth street to the Bladensburg road, according to the"
+    },
+    {
+     "role": "body",
+     "text": "permanent system of highway plans in and for the District of Colum-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Damages assessed as"
+    },
+    {
+     "role": "sidenote",
+     "text": "benefits."
+    },
+    {
+     "role": "body",
+     "text": "bia: Provided, however, That the entire amount found to be due and"
+    },
+    {
+     "role": "body",
+     "text": "awarded by the jury in said proceeding as damages for and in respect"
+    },
+    {
+     "role": "body",
+     "text": "of the land to be condemned for said extension shall be assessed by"
+    },
+    {
+     "role": "sidenote",
+     "text": "Minimum assess-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment."
+    },
+    {
+     "role": "body",
+     "text": "the jury as benefits: And provided further, That nothing in said"
+    },
+    {
+     "role": "body",
+     "text": "subchapter one of chapter fifteen of said code shall be construed to"
+    },
+    {
+     "role": "body",
+     "text": "authorize the jury to assess less than the aggregate amount of the"
+    },
+    {
+     "role": "body",
+     "text": "damages awarded for and in respect of the land to be condemned and"
+    },
+    {
+     "role": "body",
+     "text": "the costs and expenses of the proceeding hereunder."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation for"
+    },
+    {
+     "role": "sidenote",
+     "text": "expenses, etc."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That there is hereby appropriated, out of the revenues of"
+    },
+    {
+     "role": "body",
+     "text": "the District of Columbia, an amount sufficient to pay the necessary"
+    },
+    {
+     "role": "body",
+     "text": "costs and expenses of the condemnation proceedings taken pursuant"
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment of awards."
+    },
+    {
+     "role": "body",
+     "text": "hereto and for the payment of amounts awarded as damages, to be"
+    },
+    {
+     "role": "body",
+     "text": "repaid to the District of Columbia from the assessments for benefits"
+    },
+    {
+     "role": "body",
+     "text": "and covered into the Treasury to the credit of the revenues of the"
+    },
+    {
+     "role": "body",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "body",
+     "text": "Approved, February 21, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "February 21, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 16329.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 57.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 53.—An Act To provide for the extension of Newton place northwest from"
+    },
+    {
+     "role": "body",
+     "text": "New Hampshire avenue to Georgia avenue, and to connect Newton place in Gass"
+    },
+    {
+     "role": "body",
+     "text": "subdivision with Newton place in Whitney Close subdivision."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "Newton place north-"
+    },
+    {
+     "role": "sidenote",
+     "text": "west."
+    },
+    {
+     "role": "sidenote",
+     "text": "Condemning land"
+    },
+    {
+     "role": "sidenote",
+     "text": "for extending."
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 151."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That under and in accordance"
+    },
+    {
+     "role": "body",
+     "text": "with the provisions of subchapter one of chapter fifteen of the Code of"
+    },
+    {
+     "role": "body",
+     "text": "Law for the District of Columbia, within ninety days from the pas-"
+    },
+    {
+     "role": "body",
+     "text": "sage of this Act, the Commissioners of the District of Columbia be,"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2853,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09876,
+   "seconds": 29.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "200"
+    },
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 51–53.  1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "Condemning land"
+    },
+    {
+     "role": "sidenote",
+     "text": "for extending."
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 151."
+    },
+    {
+     "role": "body",
+     "text": "Law for the District of Columbia, within ninety days after the passage"
+    },
+    {
+     "role": "body",
+     "text": "of this Act, the Commissioners of the District of Columbia be, and"
+    },
+    {
+     "role": "body",
+     "text": "they are hereby, authorized and directed to institute in the supreme"
+    },
+    {
+     "role": "body",
+     "text": "court of the District of Columbia a proceeding in rem to condemn the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "land that may be necessary for the extension of Park place along the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Damages, etc., as-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sessed as benefits."
+    },
+    {
+     "role": "body",
+     "text": "west line of the Soldiers' Home lands, with a width of forty feet: Pro-"
+    },
+    {
+     "role": "body",
+     "text": "vided, however, That the entire amount found to be due and awarded"
+    },
+    {
+     "role": "body",
+     "text": "by the jury in said proceeding as damages for, and in respect of, the"
+    },
+    {
+     "role": "body",
+     "text": "land to be condemned for said extension, including the costs and"
+    },
+    {
+     "role": "body",
+     "text": "expenses of the proceeding hereunder, shall be assessed by the jury as"
+    },
+    {
+     "role": "body",
+     "text": "benefits."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation for"
+    },
+    {
+     "role": "sidenote",
+     "text": "expenses, etc."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That there is hereby appropriated, out of the revenues of"
+    },
+    {
+     "role": "body",
+     "text": "the District of Columbia, an amount sufficient to pay the necessary"
+    },
+    {
+     "role": "body",
+     "text": "costs and expenses of the condemnation proceedings taken pursuant"
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment of awards."
+    },
+    {
+     "role": "body",
+     "text": "hereto and for the payment of amounts awarded as damages, to be"
+    },
+    {
+     "role": "body",
+     "text": "repaid to the District of Columbia from the assessments for benefits"
+    },
+    {
+     "role": "body",
+     "text": "and covered into the Treasury to the credit of the revenues of the"
+    },
+    {
+     "role": "body",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "body",
+     "text": "Approved, February 21, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "February 21, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 16328.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 56.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 52.—An Act For the extension of Franklin street northeast from its"
+    },
+    {
+     "role": "body",
+     "text": "present eastern terminus east of Twenty-fourth street to the Bladensburg road."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "Franklin street"
+    },
+    {
+     "role": "sidenote",
+     "text": "northeast."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That under and in accord-"
+    },
+    {
+     "role": "body",
+     "text": "ance with the provisions of subchapter one of chapter fifteen of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Condemning land"
+    },
+    {
+     "role": "sidenote",
+     "text": "for extending."
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 151."
+    },
+    {
+     "role": "body",
+     "text": "Code of Law for the District of Columbia, within ninety days after"
+    },
+    {
+     "role": "body",
+     "text": "the passage of this Act, the Commissioners of the District of Columbia"
+    },
+    {
+     "role": "body",
+     "text": "be, and they are hereby, authorized and directed to institute a pro-"
+    },
+    {
+     "role": "body",
+     "text": "ceeding in rem to condemn the land that may be necessary for the"
+    },
+    {
+     "role": "body",
+     "text": "opening of Franklin street northeast from its present eastern terminus"
+    },
+    {
+     "role": "body",
+     "text": "east of Twenty-fourth street to the Bladensburg road, according to the"
+    },
+    {
+     "role": "body",
+     "text": "permanent system of highway plans in and for the District of Colum-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Damages assessed as"
+    },
+    {
+     "role": "sidenote",
+     "text": "benefits."
+    },
+    {
+     "role": "body",
+     "text": "bia: Provided, however, That the entire amount found to be due and"
+    },
+    {
+     "role": "body",
+     "text": "awarded by the jury in said proceeding as damages for and in respect"
+    },
+    {
+     "role": "body",
+     "text": "of the land to be condemned for said extension shall be assessed by"
+    },
+    {
+     "role": "sidenote",
+     "text": "Minimum assess-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment."
+    },
+    {
+     "role": "body",
+     "text": "the jury as benefits: And provided further, That nothing in said"
+    },
+    {
+     "role": "body",
+     "text": "subchapter one of chapter fifteen of said code shall be construed to"
+    },
+    {
+     "role": "body",
+     "text": "authorize the jury to assess less than the aggregate amount of the"
+    },
+    {
+     "role": "body",
+     "text": "damages awarded for and in respect of the land to be condemned and"
+    },
+    {
+     "role": "body",
+     "text": "the costs and expenses of the proceeding hereunder."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation for"
+    },
+    {
+     "role": "sidenote",
+     "text": "expenses, etc."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That there is hereby appropriated, out of the revenues of"
+    },
+    {
+     "role": "body",
+     "text": "the District of Columbia, an amount sufficient to pay the necessary"
+    },
+    {
+     "role": "body",
+     "text": "costs and expenses of the condemnation proceedings taken pursuant"
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment of awards."
+    },
+    {
+     "role": "body",
+     "text": "hereto and for the payment of amounts awarded as damages, to be"
+    },
+    {
+     "role": "body",
+     "text": "repaid to the District of Columbia from the assessments for benefits"
+    },
+    {
+     "role": "body",
+     "text": "and covered into the Treasury to the credit of the revenues of the"
+    },
+    {
+     "role": "body",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "body",
+     "text": "Approved, February 21, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "February 21, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 16329.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 57.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 53.—An Act To provide for the extension of Newton place northwest from"
+    },
+    {
+     "role": "body",
+     "text": "New Hampshire avenue to Georgia avenue, and to connect Newton place in Gass"
+    },
+    {
+     "role": "body",
+     "text": "subdivision with Newton place in Whitney Close subdivision."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "Newton place north-"
+    },
+    {
+     "role": "sidenote",
+     "text": "west."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That under and in accordance"
+    },
+    {
+     "role": "body",
+     "text": "with the provisions of subchapter one of chapter fifteen of the Code of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Condemning land"
+    },
+    {
+     "role": "sidenote",
+     "text": "for extending."
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 151."
+    },
+    {
+     "role": "body",
+     "text": "Law for the District of Columbia, within ninety days from the pas-"
+    },
+    {
+     "role": "body",
+     "text": "sage of this Act, the Commissioners of the District of Columbia be,"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2711,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0952,
+   "seconds": 45.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12420,
+   "output_tokens": 1000,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.08752,
+  "seconds": 49.6,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "200          SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 51-53.  1910.",
+    "b": "200\nSIXTY-FIRST CONGRESS.  SESS. II.  CHS. 51–53.  1910.",
+    "kept": "200\nSIXTY-FIRST CONGRESS.  SESS. II.  CHS. 51-53.  1910.",
+    "reason": "The folio 200 is set at the outer margin as a page number, separate from the centered running head."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "Proviso.",
+    "kept": "Proviso.",
+    "reason": "The sidenote 'Proviso.' is printed level with the line 'land that may be necessary...', so it precedes that body line."
+   },
+   {
+    "run": 3,
+    "a": "Proviso.",
+    "b": "",
+    "kept": "",
+    "reason": "The 'Proviso.' sidenote belongs earlier, at the preceding body line; nothing printed here."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "States of America in Congress assembled, That under and in accord-\nance with the provisions of subchapter one of chapter fifteen of the",
+    "kept": "States of America in Congress assembled, That under and in accord-\nance with the provisions of subchapter one of chapter fifteen of the",
+    "reason": "These two body lines align with the 'District of Columbia./Franklin street/northeast.' sidenote, before the 'Condemning land' sidenote block."
+   },
+   {
+    "run": 5,
+    "a": "States of America in Congress assembled, That under and in accord-\nance with the provisions of subchapter one of chapter fifteen of the",
+    "b": "",
+    "kept": "",
+    "reason": "Those body lines occur earlier, opposite the first sidenote block; nothing additional printed here."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "States of America in Congress assembled, That under and in accordance\nwith the provisions of subchapter one of chapter fifteen of the Code of",
+    "kept": "States of America in Congress assembled, That under and in accordance\nwith the provisions of subchapter one of chapter fifteen of the Code of",
+    "reason": "These lines align with the 'District of Columbia./Newton place northwest.' sidenote, before the 'Condemning land' sidenote."
+   },
+   {
+    "run": 7,
+    "a": "States of America in Congress assembled, That under and in accordance\nwith the provisions of subchapter one of chapter fifteen of the Code of",
+    "b": "",
+    "kept": "",
+    "reason": "Those body lines belong above, opposite the preceding sidenote block; nothing printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "200"
+  },
+  {
+   "role": "running-head",
+   "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 51-53.  1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "Condemning land"
+  },
+  {
+   "role": "sidenote",
+   "text": "for extending."
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. 34, p. 151."
+  },
+  {
+   "role": "body",
+   "text": "Law for the District of Columbia, within ninety days after the passage"
+  },
+  {
+   "role": "body",
+   "text": "of this Act, the Commissioners of the District of Columbia be, and"
+  },
+  {
+   "role": "body",
+   "text": "they are hereby, authorized and directed to institute in the supreme"
+  },
+  {
+   "role": "body",
+   "text": "court of the District of Columbia a proceeding in rem to condemn the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "land that may be necessary for the extension of Park place along the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Damages, etc., as-"
+  },
+  {
+   "role": "sidenote",
+   "text": "sessed as benefits."
+  },
+  {
+   "role": "body",
+   "text": "west line of the Soldiers' Home lands, with a width of forty feet: Pro-"
+  },
+  {
+   "role": "body",
+   "text": "vided, however, That the entire amount found to be due and awarded"
+  },
+  {
+   "role": "body",
+   "text": "by the jury in said proceeding as damages for, and in respect of, the"
+  },
+  {
+   "role": "body",
+   "text": "land to be condemned for said extension, including the costs and"
+  },
+  {
+   "role": "body",
+   "text": "expenses of the proceeding hereunder, shall be assessed by the jury as"
+  },
+  {
+   "role": "body",
+   "text": "benefits."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation for"
+  },
+  {
+   "role": "sidenote",
+   "text": "expenses, etc."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That there is hereby appropriated, out of the revenues of"
+  },
+  {
+   "role": "body",
+   "text": "the District of Columbia, an amount sufficient to pay the necessary"
+  },
+  {
+   "role": "body",
+   "text": "costs and expenses of the condemnation proceedings taken pursuant"
+  },
+  {
+   "role": "sidenote",
+   "text": "Payment of awards."
+  },
+  {
+   "role": "body",
+   "text": "hereto and for the payment of amounts awarded as damages, to be"
+  },
+  {
+   "role": "body",
+   "text": "repaid to the District of Columbia from the assessments for benefits"
+  },
+  {
+   "role": "body",
+   "text": "and covered into the Treasury to the credit of the revenues of the"
+  },
+  {
+   "role": "body",
+   "text": "District of Columbia."
+  },
+  {
+   "role": "body",
+   "text": "Approved, February 21, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "February 21, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 16328.]"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 56.]"
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 52.—An Act For the extension of Franklin street northeast from its"
+  },
+  {
+   "role": "body",
+   "text": "present eastern terminus east of Twenty-fourth street to the Bladensburg road."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "District of Columbia."
+  },
+  {
+   "role": "sidenote",
+   "text": "Franklin    street"
+  },
+  {
+   "role": "sidenote",
+   "text": "northeast."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That under and in accord-"
+  },
+  {
+   "role": "body",
+   "text": "ance with the provisions of subchapter one of chapter fifteen of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Condemning land"
+  },
+  {
+   "role": "sidenote",
+   "text": "for extending."
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. 34, p. 151."
+  },
+  {
+   "role": "body",
+   "text": "Code of Law for the District of Columbia, within ninety days after"
+  },
+  {
+   "role": "body",
+   "text": "the passage of this Act, the Commissioners of the District of Columbia"
+  },
+  {
+   "role": "body",
+   "text": "be, and they are hereby, authorized and directed to institute a pro-"
+  },
+  {
+   "role": "body",
+   "text": "ceeding in rem to condemn the land that may be necessary for the"
+  },
+  {
+   "role": "body",
+   "text": "opening of Franklin street northeast from its present eastern terminus"
+  },
+  {
+   "role": "body",
+   "text": "east of Twenty-fourth street to the Bladensburg road, according to the"
+  },
+  {
+   "role": "body",
+   "text": "permanent system of highway plans in and for the District of Colum-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Provisos."
+  },
+  {
+   "role": "sidenote",
+   "text": "Damages assessed as"
+  },
+  {
+   "role": "sidenote",
+   "text": "benefits."
+  },
+  {
+   "role": "body",
+   "text": "bia: Provided, however, That the entire amount found to be due and"
+  },
+  {
+   "role": "body",
+   "text": "awarded by the jury in said proceeding as damages for and in respect"
+  },
+  {
+   "role": "body",
+   "text": "of the land to be condemned for said extension shall be assessed by"
+  },
+  {
+   "role": "sidenote",
+   "text": "Minimum assess-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ment."
+  },
+  {
+   "role": "body",
+   "text": "the jury as benefits: And provided further, That nothing in said"
+  },
+  {
+   "role": "body",
+   "text": "subchapter one of chapter fifteen of said code shall be construed to"
+  },
+  {
+   "role": "body",
+   "text": "authorize the jury to assess less than the aggregate amount of the"
+  },
+  {
+   "role": "body",
+   "text": "damages awarded for and in respect of the land to be condemned and"
+  },
+  {
+   "role": "body",
+   "text": "the costs and expenses of the proceeding hereunder."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation for"
+  },
+  {
+   "role": "sidenote",
+   "text": "expenses, etc."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That there is hereby appropriated, out of the revenues of"
+  },
+  {
+   "role": "body",
+   "text": "the District of Columbia, an amount sufficient to pay the necessary"
+  },
+  {
+   "role": "body",
+   "text": "costs and expenses of the condemnation proceedings taken pursuant"
+  },
+  {
+   "role": "sidenote",
+   "text": "Payment of awards."
+  },
+  {
+   "role": "body",
+   "text": "hereto and for the payment of amounts awarded as damages, to be"
+  },
+  {
+   "role": "body",
+   "text": "repaid to the District of Columbia from the assessments for benefits"
+  },
+  {
+   "role": "body",
+   "text": "and covered into the Treasury to the credit of the revenues of the"
+  },
+  {
+   "role": "body",
+   "text": "District of Columbia."
+  },
+  {
+   "role": "body",
+   "text": "Approved, February 21, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "February 21, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 16329.]"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 57.]"
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 53.—An Act To provide for the extension of Newton place northwest from"
+  },
+  {
+   "role": "body",
+   "text": "New Hampshire avenue to Georgia avenue, and to connect Newton place in Gass"
+  },
+  {
+   "role": "body",
+   "text": "subdivision with Newton place in Whitney Close subdivision."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "District of Columbia."
+  },
+  {
+   "role": "sidenote",
+   "text": "Newton place north-"
+  },
+  {
+   "role": "sidenote",
+   "text": "west."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That under and in accordance"
+  },
+  {
+   "role": "body",
+   "text": "with the provisions of subchapter one of chapter fifteen of the Code of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Condemning land"
+  },
+  {
+   "role": "sidenote",
+   "text": "for extending."
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. 34, p. 151."
+  },
+  {
+   "role": "body",
+   "text": "Law for the District of Columbia, within ninety days from the pas-"
+  },
+  {
+   "role": "body",
+   "text": "sage of this Act, the Commissioners of the District of Columbia be,"
+  }
+ ],
+ "disagreement_count": 7,
+ "tokens": {
+  "input_tokens": 23243,
+  "output_tokens": 6564,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.28148,
+ "seconds": 124.5,
+ "created": "2026-09-08T11:28:15"
+}

@@ -1,0 +1,921 @@
+{
+ "granule_id": "STATUTE-17-Pg466",
+ "package_id": "STATUTE-17",
+ "volume": 17,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to provide for obtaining Information of the Condition of Banks organized under State Laws.",
+ "date_issued": "1873-02-19",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "466",
+ "image": "data/gold/STATUTE-17-Pg466/p1.png",
+ "image_sha256": "2a80ffa8732f84af6fd243e131d9735985c4f80432b334083b48ca13c3877488",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "466        FORTY–SECOND  CONGRESS.  SESS. III.  CH. 166, 167.  1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Register and receiver, their residence, powers, and pay."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That the President shall appoint, by and with the advice and"
+    },
+    {
+     "role": "body",
+     "text": "consent of the Senate or in the recess of the Senate, a register and a"
+    },
+    {
+     "role": "body",
+     "text": "receiver of public moneys for said district ; and said officers shall reside in"
+    },
+    {
+     "role": "body",
+     "text": "the place where said land office is  located ; and they shall have the same"
+    },
+    {
+     "role": "body",
+     "text": "powers, perform the same duties, and receive the same emoluments as are,"
+    },
+    {
+     "role": "body",
+     "text": "or may be prescribed by law in relation to land offices of the United States"
+    },
+    {
+     "role": "body",
+     "text": "in other Territories."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 18, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 19, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLXVI. — An Act to provide for obtaining Information of the Condition of Banks"
+    },
+    {
+     "role": "body",
+     "text": "organized under State Laws."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Comptroller of the currency to report annually to Congress the con- dition of State banks, &c. ;"
+    },
+    {
+     "role": "body",
+     "text": "States of America, in Congress assembled, That it shall be the duty of the"
+    },
+    {
+     "role": "body",
+     "text": "comptroller of the currency to  report annually to Congress, under appro-"
+    },
+    {
+     "role": "body",
+     "text": "priate heads, the resources and liabilities, exhibiting the condition of the"
+    },
+    {
+     "role": "body",
+     "text": "banks, banking companies, and savings-banks organized under the laws of"
+    },
+    {
+     "role": "body",
+     "text": "the several States and Territories, such information to be obtained by the"
+    },
+    {
+     "role": "body",
+     "text": "comptroller from the reports made by such banks, banking companies, and"
+    },
+    {
+     "role": "body",
+     "text": "savings-banks to the legislatures or officers of the different States and Ter-"
+    },
+    {
+     "role": "body",
+     "text": "ritories.   And  where  such  reports  cannot  be  obtained,  the  deficiency"
+    },
+    {
+     "role": "body",
+     "text": "shall be supplied from such other authentic sources as may be available."
+    },
+    {
+     "role": "sidenote",
+     "text": "may employ an additional clerk if necessary."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That, in order to carry the provisions of the first section of"
+    },
+    {
+     "role": "body",
+     "text": "this act into effect, the comptroller of the currency is hereby authorized,"
+    },
+    {
+     "role": "body",
+     "text": "if it should be necessary, to employ one clerk of class four, who shall be"
+    },
+    {
+     "role": "body",
+     "text": "appointed by the Secretary of the Treasury in  the manner now provided"
+    },
+    {
+     "role": "body",
+     "text": "by law."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 19, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 19, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLXVII. — An Act to provide for the Sale of certain New York Indian Lands"
+    },
+    {
+     "role": "body",
+     "text": "in Kansas."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Certain settlers upon and occu- pants of certain New York Indian lands in Kansas may purchase them."
+    },
+    {
+     "role": "body",
+     "text": "States of America, in Congress assembled, That those persons being heads"
+    },
+    {
+     "role": "body",
+     "text": "of families or single persons over twenty-one years of age who have made"
+    },
+    {
+     "role": "body",
+     "text": "settlement and improvement upon, and  are  bona-fide  claimants of, and"
+    },
+    {
+     "role": "body",
+     "text": "occupants of, either  in  person  or  by tenants, the  lands  in  Kansas which"
+    },
+    {
+     "role": "body",
+     "text": "were allotted to certain New York Indians, and for which certificates of"
+    },
+    {
+     "role": "body",
+     "text": "allotment, dated the  fourteenth  day  of  September, eighteen hundred and"
+    },
+    {
+     "role": "body",
+     "text": "sixty, for  three  hundred  and  twenty  acres  of  land  each were  issued to"
+    },
+    {
+     "role": "body",
+     "text": "thirty-two  of said Indians, shall be, and  hereby are, authorized  and per-"
+    },
+    {
+     "role": "body",
+     "text": "mitted to enter and purchase at the proper  land-office said lands so occu-"
+    },
+    {
+     "role": "body",
+     "text": "pied  by  them,  in  tracts  not  exceeding  one  hundred  and  sixty  acres,"
+    },
+    {
+     "role": "body",
+     "text": "according to the government surveys, on paying therefor in lawful money"
+    },
+    {
+     "role": "sidenote",
+     "text": "Value, how ascertained"
+    },
+    {
+     "role": "body",
+     "text": "of the United States the appraised value of  said tracts respectively, to be"
+    },
+    {
+     "role": "body",
+     "text": "ascertained by three disinterested and competent appraisers, to be appointed"
+    },
+    {
+     "role": "body",
+     "text": "by the Secretary of the Interior, who  shall  examine  in  person each tract"
+    },
+    {
+     "role": "body",
+     "text": "and report under oath its  value, exclusive of improvements ; and patents"
+    },
+    {
+     "role": "sidenote",
+     "text": "Patents."
+    },
+    {
+     "role": "body",
+     "text": "shall issue to them therefor as in other cases, but no  sale shall be  made"
+    },
+    {
+     "role": "body",
+     "text": "under this act for less than three dollars and  seventy-five cents per acre ;"
+    },
+    {
+     "role": "body",
+     "text": "and the Secretary of the  Interior  shall prescribe such regulations as may"
+    },
+    {
+     "role": "body",
+     "text": "be necessary to carry this act into effect according to the intent thereof,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Entries to be made within two years."
+    },
+    {
+     "role": "body",
+     "text": "and such entries shall be made within two years from the time such regu-"
+    },
+    {
+     "role": "body",
+     "text": "lations shall be  promulgated, and  the  moneys that shall  arise from  such"
+    },
+    {
+     "role": "sidenote",
+     "text": "Purchase- money to be held in trust for the Indians, &c."
+    },
+    {
+     "role": "body",
+     "text": "sales shall be paid into the treasury of the United States, in trust for, and"
+    },
+    {
+     "role": "body",
+     "text": "to be  paid  to, said  Indians respectively, to  whom  said certificates were"
+    },
+    {
+     "role": "body",
+     "text": "issued, or to their heirs, upon satisfactory proof of their identity to the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Interior, at any time within  five years from the passage"
+    },
+    {
+     "role": "body",
+     "text": "of this act ; and in case such proof is  not made within the time specified,"
+    },
+    {
+     "role": "body",
+     "text": "then the proceeds of such sales, or so much thereof as shall not have been"
+    },
+    {
+     "role": "body",
+     "text": "paid under the provisions of  this act, shall  become  a  part  of  the public"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2304,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08503,
+   "seconds": 32.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "466"
+    },
+    {
+     "role": "running-head",
+     "text": "FORTY–SECOND CONGRESS. SESS. III. CH. 166, 167. 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Register and receiver, their residence, powers, and pay."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That the President shall appoint, by and with the advice and"
+    },
+    {
+     "role": "body",
+     "text": "consent of the Senate or in the recess of the Senate, a register and a"
+    },
+    {
+     "role": "body",
+     "text": "receiver of public moneys for said district ; and said officers shall reside in"
+    },
+    {
+     "role": "body",
+     "text": "the place where said land office is located ; and they shall have the same"
+    },
+    {
+     "role": "body",
+     "text": "powers, perform the same duties, and receive the same emoluments as are,"
+    },
+    {
+     "role": "body",
+     "text": "or may be prescribed by law in relation to land offices of the United States"
+    },
+    {
+     "role": "body",
+     "text": "in other Territories."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 18, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 19, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLXVI. — An Act to provide for obtaining Information of the Condition of Banks"
+    },
+    {
+     "role": "body",
+     "text": "organized under State Laws."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Comptroller of the currency to report annually to Congress the con- dition of State banks, &c.;"
+    },
+    {
+     "role": "body",
+     "text": "States of America, in Congress assembled, That it shall be the duty of the"
+    },
+    {
+     "role": "body",
+     "text": "comptroller of the currency to report annually to Congress, under appro-"
+    },
+    {
+     "role": "body",
+     "text": "priate heads, the resources and liabilities, exhibiting the condition of the"
+    },
+    {
+     "role": "body",
+     "text": "banks, banking companies, and savings-banks organized under the laws of"
+    },
+    {
+     "role": "body",
+     "text": "the several States and Territories, such information to be obtained by the"
+    },
+    {
+     "role": "body",
+     "text": "comptroller from the reports made by such banks, banking companies, and"
+    },
+    {
+     "role": "body",
+     "text": "savings-banks to the legislatures or officers of the different States and Ter-"
+    },
+    {
+     "role": "body",
+     "text": "ritories. And where such reports cannot be obtained, the deficiency"
+    },
+    {
+     "role": "body",
+     "text": "shall be supplied from such other authentic sources as may be available."
+    },
+    {
+     "role": "sidenote",
+     "text": "may employ an additional clerk if necessary."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That, in order to carry the provisions of the first section of"
+    },
+    {
+     "role": "body",
+     "text": "this act into effect, the comptroller of the currency is hereby authorized,"
+    },
+    {
+     "role": "body",
+     "text": "if it should be necessary, to employ one clerk of class four, who shall be"
+    },
+    {
+     "role": "body",
+     "text": "appointed by the Secretary of the Treasury in the manner now provided"
+    },
+    {
+     "role": "body",
+     "text": "by law."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 19, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 19, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLXVII. — An Act to provide for the Sale of certain New York Indian Lands"
+    },
+    {
+     "role": "body",
+     "text": "in Kansas."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Certain settlers upon and occu- pants of certain New York Indian lands in Kansas may purchase them."
+    },
+    {
+     "role": "body",
+     "text": "States of America, in Congress assembled, That those persons being heads"
+    },
+    {
+     "role": "body",
+     "text": "of families or single persons over twenty-one years of age who have made"
+    },
+    {
+     "role": "body",
+     "text": "settlement and improvement upon, and are bona-fide claimants of, and"
+    },
+    {
+     "role": "body",
+     "text": "occupants of, either in person or by tenants, the lands in Kansas which"
+    },
+    {
+     "role": "body",
+     "text": "were allotted to certain New York Indians, and for which certificates of"
+    },
+    {
+     "role": "body",
+     "text": "allotment, dated the fourteenth day of September, eighteen hundred and"
+    },
+    {
+     "role": "body",
+     "text": "sixty, for three hundred and twenty acres of land each were issued to"
+    },
+    {
+     "role": "body",
+     "text": "thirty-two of said Indians, shall be, and hereby are, authorized and per-"
+    },
+    {
+     "role": "body",
+     "text": "mitted to enter and purchase at the proper land-office said lands so occu-"
+    },
+    {
+     "role": "body",
+     "text": "pied by them, in tracts not exceeding one hundred and sixty acres,"
+    },
+    {
+     "role": "body",
+     "text": "according to the government surveys, on paying therefor in lawful money"
+    },
+    {
+     "role": "sidenote",
+     "text": "Value, how ascertained"
+    },
+    {
+     "role": "body",
+     "text": "of the United States the appraised value of said tracts respectively, to be"
+    },
+    {
+     "role": "body",
+     "text": "ascertained by three disinterested and competent appraisers, to be appointed"
+    },
+    {
+     "role": "body",
+     "text": "by the Secretary of the Interior, who shall examine in person each tract"
+    },
+    {
+     "role": "body",
+     "text": "and report under oath its value, exclusive of improvements ; and patents"
+    },
+    {
+     "role": "sidenote",
+     "text": "Patents."
+    },
+    {
+     "role": "body",
+     "text": "shall issue to them therefor as in other cases, but no sale shall be made"
+    },
+    {
+     "role": "body",
+     "text": "under this act for less than three dollars and seventy-five cents per acre ;"
+    },
+    {
+     "role": "body",
+     "text": "and the Secretary of the Interior shall prescribe such regulations as may"
+    },
+    {
+     "role": "body",
+     "text": "be necessary to carry this act into effect according to the intent thereof,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Entries to be made within two years."
+    },
+    {
+     "role": "body",
+     "text": "and such entries shall be made within two years from the time such regu-"
+    },
+    {
+     "role": "body",
+     "text": "lations shall be promulgated, and the moneys that shall arise from such"
+    },
+    {
+     "role": "sidenote",
+     "text": "Purchase- money to be held in trust for the Indians, &c."
+    },
+    {
+     "role": "body",
+     "text": "sales shall be paid into the treasury of the United States, in trust for, and"
+    },
+    {
+     "role": "body",
+     "text": "to be paid to, said Indians respectively, to whom said certificates were"
+    },
+    {
+     "role": "body",
+     "text": "issued, or to their heirs, upon satisfactory proof of their identity to the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Interior, at any time within five years from the passage"
+    },
+    {
+     "role": "body",
+     "text": "of this act ; and in case such proof is not made within the time specified,"
+    },
+    {
+     "role": "body",
+     "text": "then the proceeds of such sales, or so much thereof as shall not have been"
+    },
+    {
+     "role": "body",
+     "text": "paid under the provisions of this act, shall become a part of the public"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2234,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08328,
+   "seconds": 28.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11567,
+   "output_tokens": 148,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06195,
+  "seconds": 5.1,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "466        FORTY–SECOND  CONGRESS.  SESS. III.  CH. 166, 167.  1873.",
+    "b": "466\nFORTY–SECOND CONGRESS. SESS. III. CH. 166, 167. 1873.",
+    "kept": "466\nFORTY–SECOND CONGRESS. SESS. III. CH. 166, 167. 1873.",
+    "reason": "The page number stands apart at the left of the header line; it is best recorded as its own page-number line followed by the running head."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "466"
+  },
+  {
+   "role": "running-head",
+   "text": "FORTY–SECOND CONGRESS. SESS. III. CH. 166, 167. 1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "Register and receiver, their residence, powers, and pay."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That the President shall appoint, by and with the advice and"
+  },
+  {
+   "role": "body",
+   "text": "consent of the Senate or in the recess of the Senate, a register and a"
+  },
+  {
+   "role": "body",
+   "text": "receiver of public moneys for said district ; and said officers shall reside in"
+  },
+  {
+   "role": "body",
+   "text": "the place where said land office is  located ; and they shall have the same"
+  },
+  {
+   "role": "body",
+   "text": "powers, perform the same duties, and receive the same emoluments as are,"
+  },
+  {
+   "role": "body",
+   "text": "or may be prescribed by law in relation to land offices of the United States"
+  },
+  {
+   "role": "body",
+   "text": "in other Territories."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 18, 1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 19, 1873."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CLXVI. — An Act to provide for obtaining Information of the Condition of Banks"
+  },
+  {
+   "role": "body",
+   "text": "organized under State Laws."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Comptroller of the currency to report annually to Congress the con- dition of State banks, &c. ;"
+  },
+  {
+   "role": "body",
+   "text": "States of America, in Congress assembled, That it shall be the duty of the"
+  },
+  {
+   "role": "body",
+   "text": "comptroller of the currency to  report annually to Congress, under appro-"
+  },
+  {
+   "role": "body",
+   "text": "priate heads, the resources and liabilities, exhibiting the condition of the"
+  },
+  {
+   "role": "body",
+   "text": "banks, banking companies, and savings-banks organized under the laws of"
+  },
+  {
+   "role": "body",
+   "text": "the several States and Territories, such information to be obtained by the"
+  },
+  {
+   "role": "body",
+   "text": "comptroller from the reports made by such banks, banking companies, and"
+  },
+  {
+   "role": "body",
+   "text": "savings-banks to the legislatures or officers of the different States and Ter-"
+  },
+  {
+   "role": "body",
+   "text": "ritories.   And  where  such  reports  cannot  be  obtained,  the  deficiency"
+  },
+  {
+   "role": "body",
+   "text": "shall be supplied from such other authentic sources as may be available."
+  },
+  {
+   "role": "sidenote",
+   "text": "may employ an additional clerk if necessary."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That, in order to carry the provisions of the first section of"
+  },
+  {
+   "role": "body",
+   "text": "this act into effect, the comptroller of the currency is hereby authorized,"
+  },
+  {
+   "role": "body",
+   "text": "if it should be necessary, to employ one clerk of class four, who shall be"
+  },
+  {
+   "role": "body",
+   "text": "appointed by the Secretary of the Treasury in  the manner now provided"
+  },
+  {
+   "role": "body",
+   "text": "by law."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 19, 1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 19, 1873."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CLXVII. — An Act to provide for the Sale of certain New York Indian Lands"
+  },
+  {
+   "role": "body",
+   "text": "in Kansas."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Certain settlers upon and occu- pants of certain New York Indian lands in Kansas may purchase them."
+  },
+  {
+   "role": "body",
+   "text": "States of America, in Congress assembled, That those persons being heads"
+  },
+  {
+   "role": "body",
+   "text": "of families or single persons over twenty-one years of age who have made"
+  },
+  {
+   "role": "body",
+   "text": "settlement and improvement upon, and  are  bona-fide  claimants of, and"
+  },
+  {
+   "role": "body",
+   "text": "occupants of, either  in  person  or  by tenants, the  lands  in  Kansas which"
+  },
+  {
+   "role": "body",
+   "text": "were allotted to certain New York Indians, and for which certificates of"
+  },
+  {
+   "role": "body",
+   "text": "allotment, dated the  fourteenth  day  of  September, eighteen hundred and"
+  },
+  {
+   "role": "body",
+   "text": "sixty, for  three  hundred  and  twenty  acres  of  land  each were  issued to"
+  },
+  {
+   "role": "body",
+   "text": "thirty-two  of said Indians, shall be, and  hereby are, authorized  and per-"
+  },
+  {
+   "role": "body",
+   "text": "mitted to enter and purchase at the proper  land-office said lands so occu-"
+  },
+  {
+   "role": "body",
+   "text": "pied  by  them,  in  tracts  not  exceeding  one  hundred  and  sixty  acres,"
+  },
+  {
+   "role": "body",
+   "text": "according to the government surveys, on paying therefor in lawful money"
+  },
+  {
+   "role": "sidenote",
+   "text": "Value, how ascertained"
+  },
+  {
+   "role": "body",
+   "text": "of the United States the appraised value of  said tracts respectively, to be"
+  },
+  {
+   "role": "body",
+   "text": "ascertained by three disinterested and competent appraisers, to be appointed"
+  },
+  {
+   "role": "body",
+   "text": "by the Secretary of the Interior, who  shall  examine  in  person each tract"
+  },
+  {
+   "role": "body",
+   "text": "and report under oath its  value, exclusive of improvements ; and patents"
+  },
+  {
+   "role": "sidenote",
+   "text": "Patents."
+  },
+  {
+   "role": "body",
+   "text": "shall issue to them therefor as in other cases, but no  sale shall be  made"
+  },
+  {
+   "role": "body",
+   "text": "under this act for less than three dollars and  seventy-five cents per acre ;"
+  },
+  {
+   "role": "body",
+   "text": "and the Secretary of the  Interior  shall prescribe such regulations as may"
+  },
+  {
+   "role": "body",
+   "text": "be necessary to carry this act into effect according to the intent thereof,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Entries to be made within two years."
+  },
+  {
+   "role": "body",
+   "text": "and such entries shall be made within two years from the time such regu-"
+  },
+  {
+   "role": "body",
+   "text": "lations shall be  promulgated, and  the  moneys that shall  arise from  such"
+  },
+  {
+   "role": "sidenote",
+   "text": "Purchase- money to be held in trust for the Indians, &c."
+  },
+  {
+   "role": "body",
+   "text": "sales shall be paid into the treasury of the United States, in trust for, and"
+  },
+  {
+   "role": "body",
+   "text": "to be  paid  to, said  Indians respectively, to  whom  said certificates were"
+  },
+  {
+   "role": "body",
+   "text": "issued, or to their heirs, upon satisfactory proof of their identity to the"
+  },
+  {
+   "role": "body",
+   "text": "Secretary of the Interior, at any time within  five years from the passage"
+  },
+  {
+   "role": "body",
+   "text": "of this act ; and in case such proof is  not made within the time specified,"
+  },
+  {
+   "role": "body",
+   "text": "then the proceeds of such sales, or so much thereof as shall not have been"
+  },
+  {
+   "role": "body",
+   "text": "paid under the provisions of  this act, shall  become  a  part  of  the public"
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 22390,
+  "output_tokens": 4686,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.23026,
+ "seconds": 66.3,
+ "created": "2026-09-08T11:23:57"
+}

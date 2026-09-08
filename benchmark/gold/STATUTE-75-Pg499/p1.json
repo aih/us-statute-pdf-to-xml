@@ -1,0 +1,967 @@
+{
+ "granule_id": "STATUTE-75-Pg499",
+ "package_id": "STATUTE-75",
+ "volume": 75,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to give to the Walker River Paiute Tribe the reserved minerals underlying its reservation.",
+ "date_issued": "1961-09-14",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "499",
+ "image": "data/gold/STATUTE-75-Pg499/p1.png",
+ "image_sha256": "c7e6c1d2744bcbf6408ec28e6e968dcf47e4ad07137da0a0725809f6d89d79e7",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "75 STAT.]        PUBLIC LAW 87-230–SEPT. 14, 1961"
+    },
+    {
+     "role": "body",
+     "text": "and thereafter performs or attempts to perform any of the acts speci-"
+    },
+    {
+     "role": "body",
+     "text": "fied in subparagraphs (1), (2), and (3), shall be fined not more than"
+    },
+    {
+     "role": "body",
+     "text": "$10,000 or imprisoned for not more than five years, or both."
+    },
+    {
+     "role": "body",
+     "text": "\"(b) As used in this section 'unlawful activity' means (1) any"
+    },
+    {
+     "role": "body",
+     "text": "business enterprise involving gambling, liquor on which the Federal"
+    },
+    {
+     "role": "body",
+     "text": "excise tax has not been paid, narcotics, or prostitution offenses in"
+    },
+    {
+     "role": "body",
+     "text": "violation of the laws of the State in which they are committed or of"
+    },
+    {
+     "role": "body",
+     "text": "the United States, or (2) extortion or bribery in violation of the laws"
+    },
+    {
+     "role": "body",
+     "text": "of the State in which committed or of the United States."
+    },
+    {
+     "role": "body",
+     "text": "\"(c) Investigations of violations under this section involving liquor"
+    },
+    {
+     "role": "body",
+     "text": "or narcotics shall be conducted under the supervision of the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Treasury.\""
+    },
+    {
+     "role": "body",
+     "text": "and (b) by adding the following item to the analysis of the chapter:"
+    },
+    {
+     "role": "body",
+     "text": "\"Sec. 1952. Interstate and foreign travel or transportation in aid of racketeering"
+    },
+    {
+     "role": "body",
+     "text": "enterprises.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved September 13, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-229"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "September 14, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 2016]"
+    },
+    {
+     "role": "body",
+     "text": "To give to the Walker River Paiute Tribe the reserved minerals underlying its"
+    },
+    {
+     "role": "body",
+     "text": "reservation."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Indians."
+    },
+    {
+     "role": "sidenote",
+     "text": "Walker River"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That all lands set"
+    },
+    {
+     "role": "sidenote",
+     "text": "Paiute Tribe, Nev."
+    },
+    {
+     "role": "body",
+     "text": "aside and added to the Walker River Indian Reservation, Nevada, by"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mineral rights."
+    },
+    {
+     "role": "body",
+     "text": "the Secretary of the Interior under the authority of section 2 of the"
+    },
+    {
+     "role": "body",
+     "text": "Act of June 22, 1936 (49 Stat. 1806), are hereby withdrawn from all"
+    },
+    {
+     "role": "body",
+     "text": "forms of exploration, location, and entry under the public land mining"
+    },
+    {
+     "role": "body",
+     "text": "laws and the minerals underlying such lands are hereby made a part"
+    },
+    {
+     "role": "body",
+     "text": "of the reservation to be held in trust by the United States of America"
+    },
+    {
+     "role": "body",
+     "text": "subject to valid existing rights, and such minerals shall be subject to"
+    },
+    {
+     "role": "body",
+     "text": "lease for mining purposes pursuant to the provisions of the Act of"
+    },
+    {
+     "role": "sidenote",
+     "text": "70 Stat. 774."
+    },
+    {
+     "role": "body",
+     "text": "May 11, 1938 (52 Stat. 347; 25 U.S.C. 396a–g) as amended or supple-"
+    },
+    {
+     "role": "body",
+     "text": "mented."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 14, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-230"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "September 14, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 344]"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Seneca Leasing Act of August 14, 1950 (64 Stat. 442)."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 3 of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Indians."
+    },
+    {
+     "role": "sidenote",
+     "text": "Seneca Nation"
+    },
+    {
+     "role": "body",
+     "text": "Act of August 14, 1950 (64 Stat. 442), be, and hereby is, amended to"
+    },
+    {
+     "role": "sidenote",
+     "text": "funds, disposition."
+    },
+    {
+     "role": "body",
+     "text": "read as follows: \"The money so received shall be available for disposal"
+    },
+    {
+     "role": "body",
+     "text": "and expenditure by the council of the Seneca Nation in accordance with"
+    },
+    {
+     "role": "body",
+     "text": "the constitution and laws of the nation.  The council of the Seneca"
+    },
+    {
+     "role": "body",
+     "text": "Nation shall keep complete and detailed records of all payments and"
+    },
+    {
+     "role": "body",
+     "text": "disbursements from the funds under its control, and shall make such"
+    },
+    {
+     "role": "body",
+     "text": "records available for inspection by members of the Seneca Nation at"
+    },
+    {
+     "role": "body",
+     "text": "all reasonable times.\""
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Section 5 of the Act of August 14, 1950 (64 Stat. 442), is"
+    },
+    {
+     "role": "body",
+     "text": "amended by inserting after \"to lease\" the last time the verb appears"
+    },
+    {
+     "role": "body",
+     "text": "the words \"or grant easements or rights-of-way on\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 14, 1961."
+    },
+    {
+     "role": "page-number",
+     "text": "499"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 1944,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07603,
+   "seconds": 85.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "75 STAT.]"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 87-230–SEPT. 14, 1961"
+    },
+    {
+     "role": "page-number",
+     "text": "499"
+    },
+    {
+     "role": "body",
+     "text": "and thereafter performs or attempts to perform any of the acts speci-"
+    },
+    {
+     "role": "body",
+     "text": "fied in subparagraphs (1), (2), and (3), shall be fined not more than"
+    },
+    {
+     "role": "body",
+     "text": "$10,000 or imprisoned for not more than five years, or both."
+    },
+    {
+     "role": "body",
+     "text": "\"(b) As used in this section 'unlawful activity' means (1) any"
+    },
+    {
+     "role": "body",
+     "text": "business enterprise involving gambling, liquor on which the Federal"
+    },
+    {
+     "role": "body",
+     "text": "excise tax has not been paid, narcotics, or prostitution offenses in"
+    },
+    {
+     "role": "body",
+     "text": "violation of the laws of the State in which they are committed or of"
+    },
+    {
+     "role": "body",
+     "text": "the United States, or (2) extortion or bribery in violation of the laws"
+    },
+    {
+     "role": "body",
+     "text": "of the State in which committed or of the United States."
+    },
+    {
+     "role": "body",
+     "text": "\"(c) Investigations of violations under this section involving liquor"
+    },
+    {
+     "role": "body",
+     "text": "or narcotics shall be conducted under the supervision of the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Treasury.\""
+    },
+    {
+     "role": "body",
+     "text": "and (b) by adding the following item to the analysis of the chapter:"
+    },
+    {
+     "role": "body",
+     "text": "\"Sec. 1952. Interstate and foreign travel or transportation in aid of racketeering"
+    },
+    {
+     "role": "body",
+     "text": "enterprises.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved September 13, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-229"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "September 14, 1961"
+    },
+    {
+     "role": "body",
+     "text": "To give to the Walker River Paiute Tribe the reserved minerals underlying its"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 2016]"
+    },
+    {
+     "role": "body",
+     "text": "reservation."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That all lands set"
+    },
+    {
+     "role": "sidenote",
+     "text": "Indians."
+    },
+    {
+     "role": "body",
+     "text": "aside and added to the Walker River Indian Reservation, Nevada, by"
+    },
+    {
+     "role": "sidenote",
+     "text": "Walker River"
+    },
+    {
+     "role": "sidenote",
+     "text": "Paiute Tribe, Nev."
+    },
+    {
+     "role": "body",
+     "text": "the Secretary of the Interior under the authority of section 2 of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mineral rights."
+    },
+    {
+     "role": "body",
+     "text": "Act of June 22, 1936 (49 Stat. 1806), are hereby withdrawn from all"
+    },
+    {
+     "role": "body",
+     "text": "forms of exploration, location, and entry under the public land mining"
+    },
+    {
+     "role": "body",
+     "text": "laws and the minerals underlying such lands are hereby made a part"
+    },
+    {
+     "role": "body",
+     "text": "of the reservation to be held in trust by the United States of America"
+    },
+    {
+     "role": "body",
+     "text": "subject to valid existing rights, and such minerals shall be subject to"
+    },
+    {
+     "role": "body",
+     "text": "lease for mining purposes pursuant to the provisions of the Act of"
+    },
+    {
+     "role": "body",
+     "text": "May 11, 1938 (52 Stat. 347; 25 U.S.C. 396a–g) as amended or supple-"
+    },
+    {
+     "role": "sidenote",
+     "text": "70 Stat. 774."
+    },
+    {
+     "role": "body",
+     "text": "mented."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 14, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-230"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "September 14, 1961"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Seneca Leasing Act of August 14, 1950 (64 Stat. 442)."
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 344]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 3 of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Indians."
+    },
+    {
+     "role": "body",
+     "text": "Act of August 14, 1950 (64 Stat. 442), be, and hereby is, amended to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Seneca Nation"
+    },
+    {
+     "role": "sidenote",
+     "text": "funds, disposition."
+    },
+    {
+     "role": "body",
+     "text": "read as follows: \"The money so received shall be available for disposal"
+    },
+    {
+     "role": "body",
+     "text": "and expenditure by the council of the Seneca Nation in accordance with"
+    },
+    {
+     "role": "body",
+     "text": "the constitution and laws of the nation.  The council of the Seneca"
+    },
+    {
+     "role": "body",
+     "text": "Nation shall keep complete and detailed records of all payments and"
+    },
+    {
+     "role": "body",
+     "text": "disbursements from the funds under its control, and shall make such"
+    },
+    {
+     "role": "body",
+     "text": "records available for inspection by members of the Seneca Nation at"
+    },
+    {
+     "role": "body",
+     "text": "all reasonable times.\""
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Section 5 of the Act of August 14, 1950 (64 Stat. 442), is"
+    },
+    {
+     "role": "body",
+     "text": "amended by inserting after \"to lease\" the last time the verb appears"
+    },
+    {
+     "role": "body",
+     "text": "the words \"or grant easements or rights-of-way on\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 14, 1961."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 1884,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07453,
+   "seconds": 105.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11669,
+   "output_tokens": 2319,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.11674,
+  "seconds": 161.7,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "75 STAT.]        PUBLIC LAW 87-230–SEPT. 14, 1961",
+    "b": "75 STAT.]\nPUBLIC LAW 87-230–SEPT. 14, 1961\n499",
+    "kept": "75 STAT.]        PUBLIC LAW 87-230–SEPT. 14, 1961\n499",
+    "reason": "The head is one printed line with the stat. cite and law title; the page number 499 is printed at the top right of the same line."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "To give to the Walker River Paiute Tribe the reserved minerals underlying its",
+    "kept": "To give to the Walker River Paiute Tribe the reserved minerals underlying its",
+    "reason": "The title line follows the 'September 14, 1961' sidenote, which sits opposite 'AN ACT'; the [S. 2016] sidenote is opposite this title line."
+   },
+   {
+    "run": 3,
+    "a": "To give to the Walker River Paiute Tribe the reserved minerals underlying its",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the title line already placed in run 2."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "United States of America in Congress assembled, That all lands set",
+    "kept": "United States of America in Congress assembled, That all lands set",
+    "reason": "This body line is printed opposite the 'Indians.' sidenote and precedes it in reading order."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "aside and added to the Walker River Indian Reservation, Nevada, by",
+    "kept": "aside and added to the Walker River Indian Reservation, Nevada, by",
+    "reason": "Body line printed opposite the 'Walker River' sidenote."
+   },
+   {
+    "run": 6,
+    "a": "United States of America in Congress assembled, That all lands set",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed in run 4."
+   },
+   {
+    "run": 7,
+    "a": "aside and added to the Walker River Indian Reservation, Nevada, by",
+    "b": "the Secretary of the Interior under the authority of section 2 of the",
+    "kept": "the Secretary of the Interior under the authority of section 2 of the",
+    "reason": "After the 'Paiute Tribe, Nev.' sidenote the next printed body line is this one; the 'aside and added' line was already placed."
+   },
+   {
+    "run": 8,
+    "a": "the Secretary of the Interior under the authority of section 2 of the",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed in run 7."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "May 11, 1938 (52 Stat. 347; 25 U.S.C. 396a–g) as amended or supple-",
+    "kept": "May 11, 1938 (52 Stat. 347; 25 U.S.C. 396a–g) as amended or supple-",
+    "reason": "Body line printed opposite the '70 Stat. 774.' sidenote and precedes it."
+   },
+   {
+    "run": 10,
+    "a": "May 11, 1938 (52 Stat. 347; 25 U.S.C. 396a–g) as amended or supple-",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed in run 9."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "To amend the Seneca Leasing Act of August 14, 1950 (64 Stat. 442).",
+    "kept": "To amend the Seneca Leasing Act of August 14, 1950 (64 Stat. 442).",
+    "reason": "Title line printed opposite the [S. 344] sidenote, after the date sidenote."
+   },
+   {
+    "run": 12,
+    "a": "To amend the Seneca Leasing Act of August 14, 1950 (64 Stat. 442).",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed in run 11."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "Act of August 14, 1950 (64 Stat. 442), be, and hereby is, amended to",
+    "kept": "Act of August 14, 1950 (64 Stat. 442), be, and hereby is, amended to",
+    "reason": "Body line printed opposite the 'Seneca Nation' sidenote and precedes it."
+   },
+   {
+    "run": 14,
+    "a": "Act of August 14, 1950 (64 Stat. 442), be, and hereby is, amended to",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed in run 13."
+   },
+   {
+    "run": 15,
+    "a": "499",
+    "b": "",
+    "kept": "",
+    "reason": "The page number 499 appears at the top of the page, already given in run 1; nothing is printed at the foot."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "75 STAT.]        PUBLIC LAW 87-230–SEPT. 14, 1961"
+  },
+  {
+   "role": "page-number",
+   "text": "499"
+  },
+  {
+   "role": "body",
+   "text": "and thereafter performs or attempts to perform any of the acts speci-"
+  },
+  {
+   "role": "body",
+   "text": "fied in subparagraphs (1), (2), and (3), shall be fined not more than"
+  },
+  {
+   "role": "body",
+   "text": "$10,000 or imprisoned for not more than five years, or both."
+  },
+  {
+   "role": "body",
+   "text": "\"(b) As used in this section 'unlawful activity' means (1) any"
+  },
+  {
+   "role": "body",
+   "text": "business enterprise involving gambling, liquor on which the Federal"
+  },
+  {
+   "role": "body",
+   "text": "excise tax has not been paid, narcotics, or prostitution offenses in"
+  },
+  {
+   "role": "body",
+   "text": "violation of the laws of the State in which they are committed or of"
+  },
+  {
+   "role": "body",
+   "text": "the United States, or (2) extortion or bribery in violation of the laws"
+  },
+  {
+   "role": "body",
+   "text": "of the State in which committed or of the United States."
+  },
+  {
+   "role": "body",
+   "text": "\"(c) Investigations of violations under this section involving liquor"
+  },
+  {
+   "role": "body",
+   "text": "or narcotics shall be conducted under the supervision of the Secretary"
+  },
+  {
+   "role": "body",
+   "text": "of the Treasury.\""
+  },
+  {
+   "role": "body",
+   "text": "and (b) by adding the following item to the analysis of the chapter:"
+  },
+  {
+   "role": "body",
+   "text": "\"Sec. 1952. Interstate and foreign travel or transportation in aid of racketeering"
+  },
+  {
+   "role": "body",
+   "text": "enterprises.\""
+  },
+  {
+   "role": "body",
+   "text": "Approved September 13, 1961."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 87-229"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "September 14, 1961"
+  },
+  {
+   "role": "body",
+   "text": "To give to the Walker River Paiute Tribe the reserved minerals underlying its"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 2016]"
+  },
+  {
+   "role": "body",
+   "text": "reservation."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That all lands set"
+  },
+  {
+   "role": "sidenote",
+   "text": "Indians."
+  },
+  {
+   "role": "body",
+   "text": "aside and added to the Walker River Indian Reservation, Nevada, by"
+  },
+  {
+   "role": "sidenote",
+   "text": "Walker River"
+  },
+  {
+   "role": "sidenote",
+   "text": "Paiute Tribe, Nev."
+  },
+  {
+   "role": "body",
+   "text": "the Secretary of the Interior under the authority of section 2 of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Mineral rights."
+  },
+  {
+   "role": "body",
+   "text": "Act of June 22, 1936 (49 Stat. 1806), are hereby withdrawn from all"
+  },
+  {
+   "role": "body",
+   "text": "forms of exploration, location, and entry under the public land mining"
+  },
+  {
+   "role": "body",
+   "text": "laws and the minerals underlying such lands are hereby made a part"
+  },
+  {
+   "role": "body",
+   "text": "of the reservation to be held in trust by the United States of America"
+  },
+  {
+   "role": "body",
+   "text": "subject to valid existing rights, and such minerals shall be subject to"
+  },
+  {
+   "role": "body",
+   "text": "lease for mining purposes pursuant to the provisions of the Act of"
+  },
+  {
+   "role": "body",
+   "text": "May 11, 1938 (52 Stat. 347; 25 U.S.C. 396a–g) as amended or supple-"
+  },
+  {
+   "role": "sidenote",
+   "text": "70 Stat. 774."
+  },
+  {
+   "role": "body",
+   "text": "mented."
+  },
+  {
+   "role": "body",
+   "text": "Approved September 14, 1961."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 87-230"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "September 14, 1961"
+  },
+  {
+   "role": "body",
+   "text": "To amend the Seneca Leasing Act of August 14, 1950 (64 Stat. 442)."
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 344]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That section 3 of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Indians."
+  },
+  {
+   "role": "body",
+   "text": "Act of August 14, 1950 (64 Stat. 442), be, and hereby is, amended to"
+  },
+  {
+   "role": "sidenote",
+   "text": "Seneca Nation"
+  },
+  {
+   "role": "sidenote",
+   "text": "funds, disposition."
+  },
+  {
+   "role": "body",
+   "text": "read as follows: \"The money so received shall be available for disposal"
+  },
+  {
+   "role": "body",
+   "text": "and expenditure by the council of the Seneca Nation in accordance with"
+  },
+  {
+   "role": "body",
+   "text": "the constitution and laws of the nation.  The council of the Seneca"
+  },
+  {
+   "role": "body",
+   "text": "Nation shall keep complete and detailed records of all payments and"
+  },
+  {
+   "role": "body",
+   "text": "disbursements from the funds under its control, and shall make such"
+  },
+  {
+   "role": "body",
+   "text": "records available for inspection by members of the Seneca Nation at"
+  },
+  {
+   "role": "body",
+   "text": "all reasonable times.\""
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. Section 5 of the Act of August 14, 1950 (64 Stat. 442), is"
+  },
+  {
+   "role": "body",
+   "text": "amended by inserting after \"to lease\" the last time the verb appears"
+  },
+  {
+   "role": "body",
+   "text": "the words \"or grant easements or rights-of-way on\"."
+  },
+  {
+   "role": "body",
+   "text": "Approved September 14, 1961."
+  }
+ ],
+ "disagreement_count": 15,
+ "tokens": {
+  "input_tokens": 22492,
+  "output_tokens": 6147,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.2673,
+ "seconds": 352.9,
+ "created": "2026-09-08T11:38:28"
+}

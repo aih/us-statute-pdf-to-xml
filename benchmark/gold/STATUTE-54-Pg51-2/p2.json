@@ -1,0 +1,1001 @@
+{
+ "granule_id": "STATUTE-54-Pg51-2",
+ "package_id": "STATUTE-54",
+ "volume": 54,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To authorize the Administrator of Veterans' Affairs to exchange certain property located at Veterans' Administration facility, Tuskegee, Alabama, title to which is now vested in the United Stat",
+ "date_issued": "1940-03-15",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "52",
+ "image": "data/gold/STATUTE-54-Pg51-2/p2.png",
+ "image_sha256": "7c9dcac154014a674afb633d14b24f0fa48f4065257ac8e59e25fee46cdd9720",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "52                    PUBLIC LAWS—CHS. 58–60—MAR. 15, 1940            [54 STAT."
+    },
+    {
+     "role": "body",
+     "text": "three one-hundredths chains south of the east and west half section"
+    },
+    {
+     "role": "body",
+     "text": "line of said section 23 and ten and two-tenths chains west of the east"
+    },
+    {
+     "role": "body",
+     "text": "line of said section 23, and further being in the south line of the"
+    },
+    {
+     "role": "body",
+     "text": "Government reservation as at present constituted; thence south a"
+    },
+    {
+     "role": "body",
+     "text": "distance of six and eighty-one one-hundredths chains to a point;"
+    },
+    {
+     "role": "body",
+     "text": "thence west a distance of eleven chains to a point, said point being"
+    },
+    {
+     "role": "body",
+     "text": "west one and two-tenths chains from the east line of the northwest"
+    },
+    {
+     "role": "body",
+     "text": "quarter of the southeast quarter of said section 23; thence north a"
+    },
+    {
+     "role": "body",
+     "text": "distance of six and eighty-one one-hundredths chains to a point, said"
+    },
+    {
+     "role": "body",
+     "text": "point being in the southerly boundary line of the present Government"
+    },
+    {
+     "role": "body",
+     "text": "reservation; thence east along the southerly boundary line of the"
+    },
+    {
+     "role": "body",
+     "text": "Government reservation a distance of eleven chains to the point of"
+    },
+    {
+     "role": "body",
+     "text": "beginning, containing seven and five-tenths acres, more or less."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 15, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 59]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 15, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 2152]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 436]"
+    },
+    {
+     "role": "body",
+     "text": "To protect scenic values along the Catalina Highway within the Coronado"
+    },
+    {
+     "role": "body",
+     "text": "National Forest, Arizona."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Coronado National"
+    },
+    {
+     "role": "sidenote",
+     "text": "Forest, Ariz."
+    },
+    {
+     "role": "sidenote",
+     "text": "Conditional title to"
+    },
+    {
+     "role": "sidenote",
+     "text": "certain lands along"
+    },
+    {
+     "role": "sidenote",
+     "text": "Catalina Highway"
+    },
+    {
+     "role": "sidenote",
+     "text": "within, authorized."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That hereafter"
+    },
+    {
+     "role": "body",
+     "text": "mining locations made under the mining laws of the United States"
+    },
+    {
+     "role": "body",
+     "text": "upon lands within four hundred feet of the center line of the Catalina"
+    },
+    {
+     "role": "body",
+     "text": "Highway, Coronado National Forest, Arizona, which highway begins"
+    },
+    {
+     "role": "body",
+     "text": "at the south boundary of said national forest near the southeast"
+    },
+    {
+     "role": "body",
+     "text": "corner of section 7, township 13 south, range 16 east, Gila and Salt"
+    },
+    {
+     "role": "body",
+     "text": "River base and meridian, and runs in a general northerly direction"
+    },
+    {
+     "role": "body",
+     "text": "for a distance of about twenty-five miles to Soldier Camp, shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "Use restricted."
+    },
+    {
+     "role": "body",
+     "text": "confer on the locator no right to the surface of the land described"
+    },
+    {
+     "role": "body",
+     "text": "in his location other than the right to occupy and use, under the"
+    },
+    {
+     "role": "body",
+     "text": "rules and regulations relating to the administration of the Coronado"
+    },
+    {
+     "role": "body",
+     "text": "National Forest, so much thereof as may be reasonably necessary to"
+    },
+    {
+     "role": "body",
+     "text": "carry on prospecting and mining, and shall not authorize the taking"
+    },
+    {
+     "role": "body",
+     "text": "of any resource other than the mineral deposits, or the occupancy"
+    },
+    {
+     "role": "body",
+     "text": "of said land for any purpose other than prospecting and mining;"
+    },
+    {
+     "role": "body",
+     "text": "and each patent issued thereafter under the United States mining"
+    },
+    {
+     "role": "body",
+     "text": "laws upon a mineral location made upon lands within four hundred"
+    },
+    {
+     "role": "body",
+     "text": "feet of said center line shall convey title only to the mineral deposits"
+    },
+    {
+     "role": "body",
+     "text": "within said land and the right, subject to rules and regulations"
+    },
+    {
+     "role": "body",
+     "text": "relating to the national forests, to occupy and use the surface of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Existing claims."
+    },
+    {
+     "role": "body",
+     "text": "land for prospecting and mining only: Provided, That valid mining"
+    },
+    {
+     "role": "body",
+     "text": "claims within said lands existing on the date of enactment of this"
+    },
+    {
+     "role": "body",
+     "text": "Act and thereafter maintained in compliance with the laws under"
+    },
+    {
+     "role": "body",
+     "text": "which they were initiated and the laws of the State of Arizona may"
+    },
+    {
+     "role": "body",
+     "text": "be perfected in accordance with the laws under which they were"
+    },
+    {
+     "role": "body",
+     "text": "initiated."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 15, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 60]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 15, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 2740]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 437]"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 9a, National Defense Act, as amended, so as to provide specific"
+    },
+    {
+     "role": "body",
+     "text": "authority for the employment of warrant officers of the Regular Army as agents"
+    },
+    {
+     "role": "body",
+     "text": "of officers of the finance department for the disbursement of public funds."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "National Defense"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act, amendment."
+    },
+    {
+     "role": "sidenote",
+     "text": "10 U. S. C. § 173."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 9a"
+    },
+    {
+     "role": "body",
+     "text": "of the National Defense Act, as amended by the Act of June 4, 1920"
+    },
+    {
+     "role": "body",
+     "text": "(41 Stat. 766), be, and the same is hereby, further amended as follows:"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2089,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07966,
+   "seconds": 24.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "52"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAWS—CHS. 58–60—MAR. 15, 1940"
+    },
+    {
+     "role": "running-head",
+     "text": "[54 STAT."
+    },
+    {
+     "role": "body",
+     "text": "three one-hundredths chains south of the east and west half section"
+    },
+    {
+     "role": "body",
+     "text": "line of said section 23 and ten and two-tenths chains west of the east"
+    },
+    {
+     "role": "body",
+     "text": "line of said section 23, and further being in the south line of the"
+    },
+    {
+     "role": "body",
+     "text": "Government reservation as at present constituted; thence south a"
+    },
+    {
+     "role": "body",
+     "text": "distance of six and eighty-one one-hundredths chains to a point;"
+    },
+    {
+     "role": "body",
+     "text": "thence west a distance of eleven chains to a point, said point being"
+    },
+    {
+     "role": "body",
+     "text": "west one and two-tenths chains from the east line of the northwest"
+    },
+    {
+     "role": "body",
+     "text": "quarter of the southeast quarter of said section 23; thence north a"
+    },
+    {
+     "role": "body",
+     "text": "distance of six and eighty-one one-hundredths chains to a point, said"
+    },
+    {
+     "role": "body",
+     "text": "point being in the southerly boundary line of the present Government"
+    },
+    {
+     "role": "body",
+     "text": "reservation; thence east along the southerly boundary line of the"
+    },
+    {
+     "role": "body",
+     "text": "Government reservation a distance of eleven chains to the point of"
+    },
+    {
+     "role": "body",
+     "text": "beginning, containing seven and five-tenths acres, more or less."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 15, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 59]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 15, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 2152]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 436]"
+    },
+    {
+     "role": "body",
+     "text": "To protect scenic values along the Catalina Highway within the Coronado"
+    },
+    {
+     "role": "body",
+     "text": "National Forest, Arizona."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Coronado National"
+    },
+    {
+     "role": "sidenote",
+     "text": "Forest, Ariz."
+    },
+    {
+     "role": "sidenote",
+     "text": "Conditional title to"
+    },
+    {
+     "role": "sidenote",
+     "text": "certain lands along"
+    },
+    {
+     "role": "sidenote",
+     "text": "Catalina Highway"
+    },
+    {
+     "role": "sidenote",
+     "text": "within, authorized."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That hereafter"
+    },
+    {
+     "role": "body",
+     "text": "mining locations made under the mining laws of the United States"
+    },
+    {
+     "role": "body",
+     "text": "upon lands within four hundred feet of the center line of the Catalina"
+    },
+    {
+     "role": "body",
+     "text": "Highway, Coronado National Forest, Arizona, which highway begins"
+    },
+    {
+     "role": "body",
+     "text": "at the south boundary of said national forest near the southeast"
+    },
+    {
+     "role": "body",
+     "text": "corner of section 7, township 13 south, range 16 east, Gila and Salt"
+    },
+    {
+     "role": "body",
+     "text": "River base and meridian, and runs in a general northerly direction"
+    },
+    {
+     "role": "body",
+     "text": "for a distance of about twenty-five miles to Soldier Camp, shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "Use restricted."
+    },
+    {
+     "role": "body",
+     "text": "confer on the locator no right to the surface of the land described"
+    },
+    {
+     "role": "body",
+     "text": "in his location other than the right to occupy and use, under the"
+    },
+    {
+     "role": "body",
+     "text": "rules and regulations relating to the administration of the Coronado"
+    },
+    {
+     "role": "body",
+     "text": "National Forest, so much thereof as may be reasonably necessary to"
+    },
+    {
+     "role": "body",
+     "text": "carry on prospecting and mining, and shall not authorize the taking"
+    },
+    {
+     "role": "body",
+     "text": "of any resource other than the mineral deposits, or the occupancy"
+    },
+    {
+     "role": "body",
+     "text": "of said land for any purpose other than prospecting and mining;"
+    },
+    {
+     "role": "body",
+     "text": "and each patent issued thereafter under the United States mining"
+    },
+    {
+     "role": "body",
+     "text": "laws upon a mineral location made upon lands within four hundred"
+    },
+    {
+     "role": "body",
+     "text": "feet of said center line shall convey title only to the mineral deposits"
+    },
+    {
+     "role": "body",
+     "text": "within said land and the right, subject to rules and regulations"
+    },
+    {
+     "role": "body",
+     "text": "relating to the national forests, to occupy and use the surface of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Existing claims."
+    },
+    {
+     "role": "body",
+     "text": "land for prospecting and mining only: Provided, That valid mining"
+    },
+    {
+     "role": "body",
+     "text": "claims within said lands existing on the date of enactment of this"
+    },
+    {
+     "role": "body",
+     "text": "Act and thereafter maintained in compliance with the laws under"
+    },
+    {
+     "role": "body",
+     "text": "which they were initiated and the laws of the State of Arizona may"
+    },
+    {
+     "role": "body",
+     "text": "be perfected in accordance with the laws under which they were"
+    },
+    {
+     "role": "body",
+     "text": "initiated."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 15, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 60]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 15, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 2740]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 437]"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 9a, National Defense Act, as amended, so as to provide specific"
+    },
+    {
+     "role": "body",
+     "text": "authority for the employment of warrant officers of the Regular Army as agents"
+    },
+    {
+     "role": "body",
+     "text": "of officers of the finance department for the disbursement of public funds."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "National Defense"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act, amendment."
+    },
+    {
+     "role": "sidenote",
+     "text": "10 U. S. C. § 173."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 9a"
+    },
+    {
+     "role": "body",
+     "text": "of the National Defense Act, as amended by the Act of June 4, 1920"
+    },
+    {
+     "role": "body",
+     "text": "(41 Stat. 766), be, and the same is hereby, further amended as follows:"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2114,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08028,
+   "seconds": 23.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11178,
+   "output_tokens": 141,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.05983,
+  "seconds": 123.9,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "52                    PUBLIC LAWS—CHS. 58–60—MAR. 15, 1940            [54 STAT.",
+    "b": "52\nPUBLIC LAWS—CHS. 58–60—MAR. 15, 1940\n[54 STAT.",
+    "kept": "52\nPUBLIC LAWS—CHS. 58–60—MAR. 15, 1940\n[54 STAT.",
+    "reason": "The page number is a separate element at left; the centered head and the bracketed volume note are distinct printed items."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "52"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAWS—CHS. 58–60—MAR. 15, 1940"
+  },
+  {
+   "role": "running-head",
+   "text": "[54 STAT."
+  },
+  {
+   "role": "body",
+   "text": "three one-hundredths chains south of the east and west half section"
+  },
+  {
+   "role": "body",
+   "text": "line of said section 23 and ten and two-tenths chains west of the east"
+  },
+  {
+   "role": "body",
+   "text": "line of said section 23, and further being in the south line of the"
+  },
+  {
+   "role": "body",
+   "text": "Government reservation as at present constituted; thence south a"
+  },
+  {
+   "role": "body",
+   "text": "distance of six and eighty-one one-hundredths chains to a point;"
+  },
+  {
+   "role": "body",
+   "text": "thence west a distance of eleven chains to a point, said point being"
+  },
+  {
+   "role": "body",
+   "text": "west one and two-tenths chains from the east line of the northwest"
+  },
+  {
+   "role": "body",
+   "text": "quarter of the southeast quarter of said section 23; thence north a"
+  },
+  {
+   "role": "body",
+   "text": "distance of six and eighty-one one-hundredths chains to a point, said"
+  },
+  {
+   "role": "body",
+   "text": "point being in the southerly boundary line of the present Government"
+  },
+  {
+   "role": "body",
+   "text": "reservation; thence east along the southerly boundary line of the"
+  },
+  {
+   "role": "body",
+   "text": "Government reservation a distance of eleven chains to the point of"
+  },
+  {
+   "role": "body",
+   "text": "beginning, containing seven and five-tenths acres, more or less."
+  },
+  {
+   "role": "body",
+   "text": "Approved, March 15, 1940."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 59]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 15, 1940"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 2152]"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 436]"
+  },
+  {
+   "role": "body",
+   "text": "To protect scenic values along the Catalina Highway within the Coronado"
+  },
+  {
+   "role": "body",
+   "text": "National Forest, Arizona."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Coronado National"
+  },
+  {
+   "role": "sidenote",
+   "text": "Forest, Ariz."
+  },
+  {
+   "role": "sidenote",
+   "text": "Conditional title to"
+  },
+  {
+   "role": "sidenote",
+   "text": "certain lands along"
+  },
+  {
+   "role": "sidenote",
+   "text": "Catalina Highway"
+  },
+  {
+   "role": "sidenote",
+   "text": "within, authorized."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That hereafter"
+  },
+  {
+   "role": "body",
+   "text": "mining locations made under the mining laws of the United States"
+  },
+  {
+   "role": "body",
+   "text": "upon lands within four hundred feet of the center line of the Catalina"
+  },
+  {
+   "role": "body",
+   "text": "Highway, Coronado National Forest, Arizona, which highway begins"
+  },
+  {
+   "role": "body",
+   "text": "at the south boundary of said national forest near the southeast"
+  },
+  {
+   "role": "body",
+   "text": "corner of section 7, township 13 south, range 16 east, Gila and Salt"
+  },
+  {
+   "role": "body",
+   "text": "River base and meridian, and runs in a general northerly direction"
+  },
+  {
+   "role": "body",
+   "text": "for a distance of about twenty-five miles to Soldier Camp, shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "Use restricted."
+  },
+  {
+   "role": "body",
+   "text": "confer on the locator no right to the surface of the land described"
+  },
+  {
+   "role": "body",
+   "text": "in his location other than the right to occupy and use, under the"
+  },
+  {
+   "role": "body",
+   "text": "rules and regulations relating to the administration of the Coronado"
+  },
+  {
+   "role": "body",
+   "text": "National Forest, so much thereof as may be reasonably necessary to"
+  },
+  {
+   "role": "body",
+   "text": "carry on prospecting and mining, and shall not authorize the taking"
+  },
+  {
+   "role": "body",
+   "text": "of any resource other than the mineral deposits, or the occupancy"
+  },
+  {
+   "role": "body",
+   "text": "of said land for any purpose other than prospecting and mining;"
+  },
+  {
+   "role": "body",
+   "text": "and each patent issued thereafter under the United States mining"
+  },
+  {
+   "role": "body",
+   "text": "laws upon a mineral location made upon lands within four hundred"
+  },
+  {
+   "role": "body",
+   "text": "feet of said center line shall convey title only to the mineral deposits"
+  },
+  {
+   "role": "body",
+   "text": "within said land and the right, subject to rules and regulations"
+  },
+  {
+   "role": "body",
+   "text": "relating to the national forests, to occupy and use the surface of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "sidenote",
+   "text": "Existing claims."
+  },
+  {
+   "role": "body",
+   "text": "land for prospecting and mining only: Provided, That valid mining"
+  },
+  {
+   "role": "body",
+   "text": "claims within said lands existing on the date of enactment of this"
+  },
+  {
+   "role": "body",
+   "text": "Act and thereafter maintained in compliance with the laws under"
+  },
+  {
+   "role": "body",
+   "text": "which they were initiated and the laws of the State of Arizona may"
+  },
+  {
+   "role": "body",
+   "text": "be perfected in accordance with the laws under which they were"
+  },
+  {
+   "role": "body",
+   "text": "initiated."
+  },
+  {
+   "role": "body",
+   "text": "Approved, March 15, 1940."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 60]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 15, 1940"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 2740]"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 437]"
+  },
+  {
+   "role": "body",
+   "text": "To amend section 9a, National Defense Act, as amended, so as to provide specific"
+  },
+  {
+   "role": "body",
+   "text": "authority for the employment of warrant officers of the Regular Army as agents"
+  },
+  {
+   "role": "body",
+   "text": "of officers of the finance department for the disbursement of public funds."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "National Defense"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act, amendment."
+  },
+  {
+   "role": "sidenote",
+   "text": "10 U. S. C. § 173."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That section 9a"
+  },
+  {
+   "role": "body",
+   "text": "of the National Defense Act, as amended by the Act of June 4, 1920"
+  },
+  {
+   "role": "body",
+   "text": "(41 Stat. 766), be, and the same is hereby, further amended as follows:"
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 22001,
+  "output_tokens": 4344,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.21977,
+ "seconds": 171.1,
+ "created": "2026-09-08T12:26:21"
+}

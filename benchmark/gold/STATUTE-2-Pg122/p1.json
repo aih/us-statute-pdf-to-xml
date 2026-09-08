@@ -1,0 +1,849 @@
+{
+ "granule_id": "STATUTE-2-Pg122",
+ "package_id": "STATUTE-2",
+ "volume": 2,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act making appropriations for the Navy of the United States, for the year one thousand eight hundred and one.",
+ "date_issued": "1801-03-03",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "122",
+ "image": "data/gold/STATUTE-2-Pg122/p1.png",
+ "image_sha256": "072d55ba7f575c938dc79656e8bdda03480d99fe1a42eb3ef65e78c7451d1adb",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "122"
+    },
+    {
+     "role": "running-head",
+     "text": "SIXTH CONGRESS.  SESS. II. CH. 31.  1801."
+    },
+    {
+     "role": "body",
+     "text": "tary of the Treasury be authorized to appoint a proper person, who shall"
+    },
+    {
+     "role": "body",
+     "text": "receive the public property belonging to the household of the President"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, and, after taking an inventory of the same, shall"
+    },
+    {
+     "role": "body",
+     "text": "deliver it, after the third day of March instant, to the President of the"
+    },
+    {
+     "role": "body",
+     "text": "United States."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That such articles of the furni-"
+    },
+    {
+     "role": "body",
+     "text": "ture belonging to the President's household as may be decayed, out of"
+    },
+    {
+     "role": "body",
+     "text": "repair, or unfit for use, and as the President of the United States for"
+    },
+    {
+     "role": "body",
+     "text": "the time being, may direct, and all the public property, other than furni-"
+    },
+    {
+     "role": "body",
+     "text": "ture, now belonging to the said household, shall be sold, under the"
+    },
+    {
+     "role": "body",
+     "text": "direction of the heads of the several departments of state, of the trea-"
+    },
+    {
+     "role": "body",
+     "text": "sury, of war, and of the navy; and that the proceeds of such sales be"
+    },
+    {
+     "role": "body",
+     "text": "expended, in addition to the funds already appropriated for that purpose,"
+    },
+    {
+     "role": "body",
+     "text": "under the direction of the same officers, for the purpose of providing"
+    },
+    {
+     "role": "body",
+     "text": "furniture for the house erected for the accommodation of the President"
+    },
+    {
+     "role": "body",
+     "text": "of the United States."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1801."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1801."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXI.—An Act making appropriations for the Navy of the United States,"
+    },
+    {
+     "role": "body",
+     "text": "for the year one thousand eight hundred and one."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Specific ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "propriations."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That for de-"
+    },
+    {
+     "role": "body",
+     "text": "fraying the expenses of the navy of the United States, for the year one"
+    },
+    {
+     "role": "body",
+     "text": "thousand eight hundred and one, there shall be, and hereby is appro-"
+    },
+    {
+     "role": "body",
+     "text": "priated the sum of three millions forty-two thousand three hundred and"
+    },
+    {
+     "role": "body",
+     "text": "fifty-two dollars and ninety-five cents, that is to say:"
+    },
+    {
+     "role": "body",
+     "text": "For the pay of the officers of the navy of the United States, the sum"
+    },
+    {
+     "role": "body",
+     "text": "of three hundred and eighty-two thousand seven hundred and eighty-"
+    },
+    {
+     "role": "body",
+     "text": "eight dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the subsistence of the officers of the navy, the sum of sixty-nine"
+    },
+    {
+     "role": "body",
+     "text": "thousand eight hundred and two dollars and sixty cents."
+    },
+    {
+     "role": "body",
+     "text": "For the pay of the seamen, the sum of eight hundred and sixteen"
+    },
+    {
+     "role": "body",
+     "text": "thousand six hundred and sixty dollars."
+    },
+    {
+     "role": "body",
+     "text": "For provisions, the sum of five hundred and ninety-seven thousand"
+    },
+    {
+     "role": "body",
+     "text": "one hundred and one dollars and thirty-seven cents."
+    },
+    {
+     "role": "body",
+     "text": "For the expenses of medicines, hospitals, and hospital stores, the"
+    },
+    {
+     "role": "body",
+     "text": "sum of thirty-one thousand six hundred and forty-seven dollars, and"
+    },
+    {
+     "role": "body",
+     "text": "twenty cents."
+    },
+    {
+     "role": "body",
+     "text": "For the contingent expenses of the navy, including expenditure of"
+    },
+    {
+     "role": "body",
+     "text": "military stores, the sum of three hundred and forty-four thousand six"
+    },
+    {
+     "role": "body",
+     "text": "hundred dollars."
+    },
+    {
+     "role": "body",
+     "text": "For salaries to store-keepers, clerks, store rent, labourers, and other"
+    },
+    {
+     "role": "body",
+     "text": "contingencies, the sum of thirty-seven thousand eight hundred and fifty"
+    },
+    {
+     "role": "body",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the pay of the officers, non-commissioned officers, and privates"
+    },
+    {
+     "role": "body",
+     "text": "of the marine corps, the sum of ninety-nine thousand two hundred and"
+    },
+    {
+     "role": "body",
+     "text": "thirty-four dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the subsistence of the officers and privates of the marine corps,"
+    },
+    {
+     "role": "body",
+     "text": "the sum of eleven thousand four hundred and eighty-six dollars and ten"
+    },
+    {
+     "role": "body",
+     "text": "cents."
+    },
+    {
+     "role": "body",
+     "text": "For clothing for the marine corps, the sum of thirty-three thousand"
+    },
+    {
+     "role": "body",
+     "text": "five hundred and eighty-one dollars, and thirty cents."
+    },
+    {
+     "role": "body",
+     "text": "For military stores for the marine corps, the sum of nine thousand"
+    },
+    {
+     "role": "body",
+     "text": "one hundred and sixty-six dollars, and thirty-eight cents."
+    },
+    {
+     "role": "body",
+     "text": "For the contingent expenses of the marine corps, including camp"
+    },
+    {
+     "role": "body",
+     "text": "equipage, quartermaster, barrack master, hospital stores, stationery, and"
+    },
+    {
+     "role": "body",
+     "text": "other contingencies, the sum of thirteen thousand four hundred and"
+    },
+    {
+     "role": "body",
+     "text": "thirty-six dollars."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 1914,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07584,
+   "seconds": 22.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "122"
+    },
+    {
+     "role": "running-head",
+     "text": "SIXTH CONGRESS.  SESS. II. CH. 31.  1801."
+    },
+    {
+     "role": "body",
+     "text": "tary of the Treasury be authorized to appoint a proper person, who shall"
+    },
+    {
+     "role": "body",
+     "text": "receive the public property belonging to the household of the President"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, and, after taking an inventory of the same, shall"
+    },
+    {
+     "role": "body",
+     "text": "deliver it, after the third day of March instant, to the President of the"
+    },
+    {
+     "role": "body",
+     "text": "United States."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That such articles of the furni-"
+    },
+    {
+     "role": "body",
+     "text": "ture belonging to the President's household as may be decayed, out of"
+    },
+    {
+     "role": "body",
+     "text": "repair, or unfit for use, and as the President of the United States for"
+    },
+    {
+     "role": "body",
+     "text": "the time being, may direct, and all the public property, other than furni-"
+    },
+    {
+     "role": "body",
+     "text": "ture, now belonging to the said household, shall be sold, under the"
+    },
+    {
+     "role": "body",
+     "text": "direction of the heads of the several departments of state, of the trea-"
+    },
+    {
+     "role": "body",
+     "text": "sury, of war, and of the navy ; and that the proceeds of such sales be"
+    },
+    {
+     "role": "body",
+     "text": "expended, in addition to the funds already appropriated for that purpose,"
+    },
+    {
+     "role": "body",
+     "text": "under the direction of the same officers, for the purpose of providing"
+    },
+    {
+     "role": "body",
+     "text": "furniture for the house erected for the accommodation of the President"
+    },
+    {
+     "role": "body",
+     "text": "of the United States."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1801."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1801."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXI.—An Act making appropriations for the Navy of the United States,"
+    },
+    {
+     "role": "body",
+     "text": "for the year one thousand eight hundred and one."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Specific ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "propriations."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That for de-"
+    },
+    {
+     "role": "body",
+     "text": "fraying the expenses of the navy of the United States, for the year one"
+    },
+    {
+     "role": "body",
+     "text": "thousand eight hundred and one, there shall be, and hereby is appro-"
+    },
+    {
+     "role": "body",
+     "text": "priated the sum of three millions forty-two thousand three hundred and"
+    },
+    {
+     "role": "body",
+     "text": "fifty-two dollars and ninety-five cents, that is to say :"
+    },
+    {
+     "role": "body",
+     "text": "For the pay of the officers of the navy of the United States, the sum"
+    },
+    {
+     "role": "body",
+     "text": "of three hundred and eighty-two thousand seven hundred and eighty-"
+    },
+    {
+     "role": "body",
+     "text": "eight dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the subsistence of the officers of the navy, the sum of sixty-nine"
+    },
+    {
+     "role": "body",
+     "text": "thousand eight hundred and two dollars and sixty cents."
+    },
+    {
+     "role": "body",
+     "text": "For the pay of the seamen, the sum of eight hundred and sixteen"
+    },
+    {
+     "role": "body",
+     "text": "thousand six hundred and sixty dollars."
+    },
+    {
+     "role": "body",
+     "text": "For provisions, the sum of five hundred and ninety-seven thousand"
+    },
+    {
+     "role": "body",
+     "text": "one hundred and one dollars and thirty-seven cents."
+    },
+    {
+     "role": "body",
+     "text": "For the expenses of medicines, hospitals, and hospital stores, the"
+    },
+    {
+     "role": "body",
+     "text": "sum of thirty-one thousand six hundred and forty-seven dollars, and"
+    },
+    {
+     "role": "body",
+     "text": "twenty cents."
+    },
+    {
+     "role": "body",
+     "text": "For the contingent expenses of the navy, including expenditure of"
+    },
+    {
+     "role": "body",
+     "text": "military stores, the sum of three hundred and forty-four thousand six"
+    },
+    {
+     "role": "body",
+     "text": "hundred dollars."
+    },
+    {
+     "role": "body",
+     "text": "For salaries to store-keepers, clerks, store rent, labourers, and other"
+    },
+    {
+     "role": "body",
+     "text": "contingencies, the sum of thirty-seven thousand eight hundred and fifty"
+    },
+    {
+     "role": "body",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the pay of the officers, non-commissioned officers, and privates"
+    },
+    {
+     "role": "body",
+     "text": "of the marine corps, the sum of ninety-nine thousand two hundred and"
+    },
+    {
+     "role": "body",
+     "text": "thirty-four dollars."
+    },
+    {
+     "role": "body",
+     "text": "For the subsistence of the officers and privates of the marine corps,"
+    },
+    {
+     "role": "body",
+     "text": "the sum of eleven thousand four hundred and eighty-six dollars and ten"
+    },
+    {
+     "role": "body",
+     "text": "cents."
+    },
+    {
+     "role": "body",
+     "text": "For clothing for the marine corps, the sum of thirty-three thousand"
+    },
+    {
+     "role": "body",
+     "text": "five hundred and eighty-one dollars, and thirty cents."
+    },
+    {
+     "role": "body",
+     "text": "For military stores for the marine corps, the sum of nine thousand"
+    },
+    {
+     "role": "body",
+     "text": "one hundred and sixty-six dollars, and thirty-eight cents."
+    },
+    {
+     "role": "body",
+     "text": "For the contingent expenses of the marine corps, including camp"
+    },
+    {
+     "role": "body",
+     "text": "equipage, quartermaster, barrack master, hospital stores, stationery, and"
+    },
+    {
+     "role": "body",
+     "text": "other contingencies, the sum of thirteen thousand four hundred and"
+    },
+    {
+     "role": "body",
+     "text": "thirty-six dollars."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 1915,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07586,
+   "seconds": 21.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "skipped": "transcriptions agree",
+  "disagreements": [],
+  "cost_usd": 0.0,
+  "usage": {
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "122"
+  },
+  {
+   "role": "running-head",
+   "text": "SIXTH CONGRESS.  SESS. II. CH. 31.  1801."
+  },
+  {
+   "role": "body",
+   "text": "tary of the Treasury be authorized to appoint a proper person, who shall"
+  },
+  {
+   "role": "body",
+   "text": "receive the public property belonging to the household of the President"
+  },
+  {
+   "role": "body",
+   "text": "of the United States, and, after taking an inventory of the same, shall"
+  },
+  {
+   "role": "body",
+   "text": "deliver it, after the third day of March instant, to the President of the"
+  },
+  {
+   "role": "body",
+   "text": "United States."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That such articles of the furni-"
+  },
+  {
+   "role": "body",
+   "text": "ture belonging to the President's household as may be decayed, out of"
+  },
+  {
+   "role": "body",
+   "text": "repair, or unfit for use, and as the President of the United States for"
+  },
+  {
+   "role": "body",
+   "text": "the time being, may direct, and all the public property, other than furni-"
+  },
+  {
+   "role": "body",
+   "text": "ture, now belonging to the said household, shall be sold, under the"
+  },
+  {
+   "role": "body",
+   "text": "direction of the heads of the several departments of state, of the trea-"
+  },
+  {
+   "role": "body",
+   "text": "sury, of war, and of the navy; and that the proceeds of such sales be"
+  },
+  {
+   "role": "body",
+   "text": "expended, in addition to the funds already appropriated for that purpose,"
+  },
+  {
+   "role": "body",
+   "text": "under the direction of the same officers, for the purpose of providing"
+  },
+  {
+   "role": "body",
+   "text": "furniture for the house erected for the accommodation of the President"
+  },
+  {
+   "role": "body",
+   "text": "of the United States."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1801."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1801."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXXI.—An Act making appropriations for the Navy of the United States,"
+  },
+  {
+   "role": "body",
+   "text": "for the year one thousand eight hundred and one."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "sidenote",
+   "text": "Specific ap-"
+  },
+  {
+   "role": "sidenote",
+   "text": "propriations."
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+  },
+  {
+   "role": "body",
+   "text": "of the United States of America in Congress assembled, That for de-"
+  },
+  {
+   "role": "body",
+   "text": "fraying the expenses of the navy of the United States, for the year one"
+  },
+  {
+   "role": "body",
+   "text": "thousand eight hundred and one, there shall be, and hereby is appro-"
+  },
+  {
+   "role": "body",
+   "text": "priated the sum of three millions forty-two thousand three hundred and"
+  },
+  {
+   "role": "body",
+   "text": "fifty-two dollars and ninety-five cents, that is to say:"
+  },
+  {
+   "role": "body",
+   "text": "For the pay of the officers of the navy of the United States, the sum"
+  },
+  {
+   "role": "body",
+   "text": "of three hundred and eighty-two thousand seven hundred and eighty-"
+  },
+  {
+   "role": "body",
+   "text": "eight dollars."
+  },
+  {
+   "role": "body",
+   "text": "For the subsistence of the officers of the navy, the sum of sixty-nine"
+  },
+  {
+   "role": "body",
+   "text": "thousand eight hundred and two dollars and sixty cents."
+  },
+  {
+   "role": "body",
+   "text": "For the pay of the seamen, the sum of eight hundred and sixteen"
+  },
+  {
+   "role": "body",
+   "text": "thousand six hundred and sixty dollars."
+  },
+  {
+   "role": "body",
+   "text": "For provisions, the sum of five hundred and ninety-seven thousand"
+  },
+  {
+   "role": "body",
+   "text": "one hundred and one dollars and thirty-seven cents."
+  },
+  {
+   "role": "body",
+   "text": "For the expenses of medicines, hospitals, and hospital stores, the"
+  },
+  {
+   "role": "body",
+   "text": "sum of thirty-one thousand six hundred and forty-seven dollars, and"
+  },
+  {
+   "role": "body",
+   "text": "twenty cents."
+  },
+  {
+   "role": "body",
+   "text": "For the contingent expenses of the navy, including expenditure of"
+  },
+  {
+   "role": "body",
+   "text": "military stores, the sum of three hundred and forty-four thousand six"
+  },
+  {
+   "role": "body",
+   "text": "hundred dollars."
+  },
+  {
+   "role": "body",
+   "text": "For salaries to store-keepers, clerks, store rent, labourers, and other"
+  },
+  {
+   "role": "body",
+   "text": "contingencies, the sum of thirty-seven thousand eight hundred and fifty"
+  },
+  {
+   "role": "body",
+   "text": "dollars."
+  },
+  {
+   "role": "body",
+   "text": "For the pay of the officers, non-commissioned officers, and privates"
+  },
+  {
+   "role": "body",
+   "text": "of the marine corps, the sum of ninety-nine thousand two hundred and"
+  },
+  {
+   "role": "body",
+   "text": "thirty-four dollars."
+  },
+  {
+   "role": "body",
+   "text": "For the subsistence of the officers and privates of the marine corps,"
+  },
+  {
+   "role": "body",
+   "text": "the sum of eleven thousand four hundred and eighty-six dollars and ten"
+  },
+  {
+   "role": "body",
+   "text": "cents."
+  },
+  {
+   "role": "body",
+   "text": "For clothing for the marine corps, the sum of thirty-three thousand"
+  },
+  {
+   "role": "body",
+   "text": "five hundred and eighty-one dollars, and thirty cents."
+  },
+  {
+   "role": "body",
+   "text": "For military stores for the marine corps, the sum of nine thousand"
+  },
+  {
+   "role": "body",
+   "text": "one hundred and sixty-six dollars, and thirty-eight cents."
+  },
+  {
+   "role": "body",
+   "text": "For the contingent expenses of the marine corps, including camp"
+  },
+  {
+   "role": "body",
+   "text": "equipage, quartermaster, barrack master, hospital stores, stationery, and"
+  },
+  {
+   "role": "body",
+   "text": "other contingencies, the sum of thirteen thousand four hundred and"
+  },
+  {
+   "role": "body",
+   "text": "thirty-six dollars."
+  }
+ ],
+ "disagreement_count": 0,
+ "tokens": {
+  "input_tokens": 11047,
+  "output_tokens": 3829,
+  "cache_read_input_tokens": 1490,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.1517,
+ "seconds": 44.3,
+ "created": "2026-09-08T11:26:38"
+}

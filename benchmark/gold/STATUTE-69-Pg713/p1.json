@@ -1,0 +1,1085 @@
+{
+ "granule_id": "STATUTE-69-Pg713",
+ "package_id": "STATUTE-69",
+ "volume": 69,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend Public Laws 815 and 874, 81st Congress, which provide for assistance to local educational agencies in areas affected by Federal activities, and for other purposes",
+ "date_issued": "1955-08-12",
+ "pdf_page": 1,
+ "pdf_pages": 3,
+ "stat_page": "713",
+ "image": "data/gold/STATUTE-69-Pg713/p1.png",
+ "image_sha256": "464fa58d16216884a76cfbd6f340f916f6abfd3c66b825e794dbf5abad3dad2a",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "69 STAT.]                PUBLIC LAW 382–AUG. 12, 1955                                713"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 382                                                                CHAPTER 868"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 12, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 7245]"
+    },
+    {
+     "role": "body",
+     "text": "To amend Public Laws 815 and 874, Eighty-first Congress, which provide for"
+    },
+    {
+     "role": "body",
+     "text": "assistance to local educational agencies in areas affected by Federal activities,"
+    },
+    {
+     "role": "body",
+     "text": "and for other purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "E d u c a t i o n a l"
+    },
+    {
+     "role": "sidenote",
+     "text": "agencies in Fed-"
+    },
+    {
+     "role": "sidenote",
+     "text": "erally  affected"
+    },
+    {
+     "role": "sidenote",
+     "text": "areas."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "EXTENSION OF PUBLIC LAW 874"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. The first sentence of section 2 (a) of the Act of Sep-"
+    },
+    {
+     "role": "sidenote",
+     "text": "67 Stat. 530."
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 237."
+    },
+    {
+     "role": "body",
+     "text": "tember 30, 1950 (Public Law 874, Eighty-first Congress), as amended,"
+    },
+    {
+     "role": "body",
+     "text": "is amended by striking out \"five succeeding fiscal years\" and inserting"
+    },
+    {
+     "role": "sidenote",
+     "text": "67 Stat. 530, 531,"
+    },
+    {
+     "role": "sidenote",
+     "text": "532, 536."
+    },
+    {
+     "role": "body",
+     "text": "\"six succeeding fiscal years\".   Sections 3 (a), 3 (c), 4 (a), and 8 (d)"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 238, 239,"
+    },
+    {
+     "role": "sidenote",
+     "text": "243."
+    },
+    {
+     "role": "body",
+     "text": "of such Act are amended by striking out \"1956\" wherever appearing"
+    },
+    {
+     "role": "body",
+     "text": "therein and inserting \"1957\".   Section 3 (c) (2) (D) of such Act is"
+    },
+    {
+     "role": "body",
+     "text": "amended by inserting after \"July 1, 1955,\" the following: \"and the"
+    },
+    {
+     "role": "sidenote",
+     "text": "67 Stat. 536."
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 245."
+    },
+    {
+     "role": "body",
+     "text": "succeeding fiscal year,\".   Section 10 (a) of such Act is amended by"
+    },
+    {
+     "role": "body",
+     "text": "striking out \"or the succeeding fiscal year\" in the first sentence and"
+    },
+    {
+     "role": "body",
+     "text": "inserting \"or either of the two succeeding fiscal years\", and by striking"
+    },
+    {
+     "role": "body",
+     "text": "out the second sentence and inserting the following: \"Notice of such"
+    },
+    {
+     "role": "body",
+     "text": "an election shall be filed with the Secretary of the Interior and with"
+    },
+    {
+     "role": "body",
+     "text": "the Commissioner of Education before January 1 of the calendar year"
+    },
+    {
+     "role": "body",
+     "text": "in which the fiscal year in question begins.\"."
+    },
+    {
+     "role": "body",
+     "text": "PAYMENTS UNDER PUBLIC LAW 874 FOR CURRENT INCREASES IN FEDERALLY"
+    },
+    {
+     "role": "body",
+     "text": "CONNECTED CHILDREN"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 239."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Section 4 (a) (1) of such Act is amended by striking out"
+    },
+    {
+     "role": "body",
+     "text": "\"at least 5 per centum of the number of all children in average daily"
+    },
+    {
+     "role": "body",
+     "text": "attendance at the schools of such agency during the preceding fiscal"
+    },
+    {
+     "role": "body",
+     "text": "year\" and inserting \"at least 5 per centum of the difference between"
+    },
+    {
+     "role": "body",
+     "text": "the number of children in average daily attendance at the schools of"
+    },
+    {
+     "role": "body",
+     "text": "such agency during the preceding fiscal year and the number of such"
+    },
+    {
+     "role": "body",
+     "text": "children whose attendance during such year resulted from activities of"
+    },
+    {
+     "role": "body",
+     "text": "the United States (including children who resided on Federal prop-"
+    },
+    {
+     "role": "body",
+     "text": "erty or with a parent employed on Federal property)\"."
+    },
+    {
+     "role": "body",
+     "text": "POSTPONEMENT OF 3 PER CENTUM \"ABSORPTION\" REQUIREMENT UNDER"
+    },
+    {
+     "role": "body",
+     "text": "PUBLIC LAW 874"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. The Act of August 31, 1954 (Public Law 732, Eighty-third"
+    },
+    {
+     "role": "sidenote",
+     "text": "68 Stat. 1006."
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 238 note."
+    },
+    {
+     "role": "body",
+     "text": "Congress), is amended by inserting after \"June 30, 1955,\" the"
+    },
+    {
+     "role": "body",
+     "text": "following: \"and the succeeding fiscal year\"."
+    },
+    {
+     "role": "body",
+     "text": "TRANSFER OF TEMPORARY SCHOOL FACILITIES MADE AVAILABLE UNDER"
+    },
+    {
+     "role": "body",
+     "text": "PUBLIC LAW 815"
+    },
+    {
+     "role": "sidenote",
+     "text": "64 Stat. 971; 67"
+    },
+    {
+     "role": "sidenote",
+     "text": "Stat. 525."
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 273, 299."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. Sections 203 and 309 of the Act of September 23, 1950 (Pub-"
+    },
+    {
+     "role": "body",
+     "text": "lic Law 815, Eighty-first Congress), as amended, are each amended"
+    },
+    {
+     "role": "body",
+     "text": "by inserting at the end thereof the following new sentence: \"The"
+    },
+    {
+     "role": "body",
+     "text": "Commissioner may transfer to such agency or its successor all the"
+    },
+    {
+     "role": "body",
+     "text": "right, title, and interest of the United States in and to any temporary"
+    },
+    {
+     "role": "body",
+     "text": "facilities made available to such agency under this section; any such"
+    },
+    {
+     "role": "body",
+     "text": "transfer shall be without charge, but may be made on such other"
+    },
+    {
+     "role": "body",
+     "text": "terms and conditions, and at such time, as the Commissioner deems"
+    },
+    {
+     "role": "body",
+     "text": "appropriate to carry out the purposes of this title.\"   The amend-"
+    },
+    {
+     "role": "body",
+     "text": "ments made by this section shall apply to any facility made available"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2219,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08235,
+   "seconds": 24.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "69 STAT.]"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 382-AUG. 12, 1955"
+    },
+    {
+     "role": "page-number",
+     "text": "713"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 382"
+    },
+    {
+     "role": "body",
+     "text": "CHAPTER 868"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 12, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 7245]"
+    },
+    {
+     "role": "body",
+     "text": "To amend Public Laws 815 and 874, Eighty-first Congress, which provide for"
+    },
+    {
+     "role": "body",
+     "text": "assistance to local educational agencies in areas affected by Federal activities,"
+    },
+    {
+     "role": "body",
+     "text": "and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled,"
+    },
+    {
+     "role": "sidenote",
+     "text": "E d u c a t i o n a l"
+    },
+    {
+     "role": "sidenote",
+     "text": "agencies in Fed-"
+    },
+    {
+     "role": "sidenote",
+     "text": "erally  affected"
+    },
+    {
+     "role": "sidenote",
+     "text": "areas."
+    },
+    {
+     "role": "body",
+     "text": "EXTENSION OF PUBLIC LAW 874"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. The first sentence of section 2 (a) of the Act of Sep-"
+    },
+    {
+     "role": "body",
+     "text": "tember 30, 1950 (Public Law 874, Eighty-first Congress), as amended,"
+    },
+    {
+     "role": "sidenote",
+     "text": "67 Stat. 530."
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 237."
+    },
+    {
+     "role": "body",
+     "text": "is amended by striking out \"five succeeding fiscal years\" and inserting"
+    },
+    {
+     "role": "body",
+     "text": "\"six succeeding fiscal years\".   Sections 3 (a), 3 (c), 4 (a), and 8 (d)"
+    },
+    {
+     "role": "sidenote",
+     "text": "67 Stat. 530, 531,"
+    },
+    {
+     "role": "sidenote",
+     "text": "532, 536."
+    },
+    {
+     "role": "body",
+     "text": "of such Act are amended by striking out \"1956\" wherever appearing"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 238, 239,"
+    },
+    {
+     "role": "sidenote",
+     "text": "243."
+    },
+    {
+     "role": "body",
+     "text": "therein and inserting \"1957\".   Section 3 (c) (2) (D) of such Act is"
+    },
+    {
+     "role": "body",
+     "text": "amended by inserting after \"July 1, 1955,\" the following: \"and the"
+    },
+    {
+     "role": "body",
+     "text": "succeeding fiscal year,\".    Section 10 (a) of such Act is amended by"
+    },
+    {
+     "role": "sidenote",
+     "text": "67 Stat. 536."
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 245."
+    },
+    {
+     "role": "body",
+     "text": "striking out \"or the succeeding fiscal year\" in the first sentence and"
+    },
+    {
+     "role": "body",
+     "text": "inserting \"or either of the two succeeding fiscal years\", and by striking"
+    },
+    {
+     "role": "body",
+     "text": "out the second sentence and inserting the following: \"Notice of such"
+    },
+    {
+     "role": "body",
+     "text": "an election shall be filed with the Secretary of the Interior and with"
+    },
+    {
+     "role": "body",
+     "text": "the Commissioner of Education before January 1 of the calendar year"
+    },
+    {
+     "role": "body",
+     "text": "in which the fiscal year in question begins.\"."
+    },
+    {
+     "role": "body",
+     "text": "PAYMENTS UNDER PUBLIC LAW 874 FOR CURRENT INCREASES IN FEDERALLY"
+    },
+    {
+     "role": "body",
+     "text": "CONNECTED CHILDREN"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Section 4 (a) (1) of such Act is amended by striking out"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 239."
+    },
+    {
+     "role": "body",
+     "text": "\"at least 5 per centum of the number of all children in average daily"
+    },
+    {
+     "role": "body",
+     "text": "attendance at the schools of such agency during the preceding fiscal"
+    },
+    {
+     "role": "body",
+     "text": "year\" and inserting \"at least 5 per centum of the difference between"
+    },
+    {
+     "role": "body",
+     "text": "the number of children in average daily attendance at the schools of"
+    },
+    {
+     "role": "body",
+     "text": "such agency during the preceding fiscal year and the number of such"
+    },
+    {
+     "role": "body",
+     "text": "children whose attendance during such year resulted from activities of"
+    },
+    {
+     "role": "body",
+     "text": "the United States (including children who resided on Federal prop-"
+    },
+    {
+     "role": "body",
+     "text": "erty or with a parent employed on Federal property)\"."
+    },
+    {
+     "role": "body",
+     "text": "POSTPONEMENT OF 3 PER CENTUM \"ABSORPTION\" REQUIREMENT UNDER"
+    },
+    {
+     "role": "body",
+     "text": "PUBLIC LAW 874"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. The Act of August 31, 1954 (Public Law 732, Eighty-third"
+    },
+    {
+     "role": "body",
+     "text": "Congress), is amended by inserting after \"June 30, 1955,\" the"
+    },
+    {
+     "role": "sidenote",
+     "text": "68 Stat. 1006."
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 238 note."
+    },
+    {
+     "role": "body",
+     "text": "following: \"and the succeeding fiscal year\"."
+    },
+    {
+     "role": "body",
+     "text": "TRANSFER OF TEMPORARY SCHOOL FACILITIES MADE AVAILABLE UNDER"
+    },
+    {
+     "role": "body",
+     "text": "PUBLIC LAW 815"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. Sections 203 and 309 of the Act of September 23, 1950 (Pub-"
+    },
+    {
+     "role": "sidenote",
+     "text": "64 Stat. 971; 67"
+    },
+    {
+     "role": "sidenote",
+     "text": "Stat. 525."
+    },
+    {
+     "role": "body",
+     "text": "lic Law 815, Eighty-first Congress), as amended, are each amended"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 273, 299."
+    },
+    {
+     "role": "body",
+     "text": "by inserting at the end thereof the following new sentence: \"The"
+    },
+    {
+     "role": "body",
+     "text": "Commissioner may transfer to such agency or its successor all the"
+    },
+    {
+     "role": "body",
+     "text": "right, title, and interest of the United States in and to any temporary"
+    },
+    {
+     "role": "body",
+     "text": "facilities made available to such agency under this section; any such"
+    },
+    {
+     "role": "body",
+     "text": "transfer shall be without charge, but may be made on such other"
+    },
+    {
+     "role": "body",
+     "text": "terms and conditions, and at such time, as the Commissioner deems"
+    },
+    {
+     "role": "body",
+     "text": "appropriate to carry out the purposes of this title.\"   The amend-"
+    },
+    {
+     "role": "body",
+     "text": "ments made by this section shall apply to any facility made available"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2252,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08317,
+   "seconds": 26.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12509,
+   "output_tokens": 2505,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.12559,
+  "seconds": 36.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "69 STAT.]                PUBLIC LAW 382–AUG. 12, 1955                                713\nPublic Law 382                                                                CHAPTER 868",
+    "b": "69 STAT.]\nPUBLIC LAW 382-AUG. 12, 1955\n713\nPublic Law 382\nCHAPTER 868",
+    "kept": "69 STAT.]\nPUBLIC LAW 382-AUG. 12, 1955\n713\nPublic Law 382\nCHAPTER 868",
+    "reason": "Head, centered title and page number are separate printed elements; the law and chapter designations sit at opposite margins as separate lines."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the\nUnited States of America in Congress assembled,",
+    "kept": "Be it enacted by the Senate and House of Representatives of the\nUnited States of America in Congress assembled,",
+    "reason": "The enacting clause follows the act title; the 'Educational agencies' sidenote is aligned beside it and therefore follows it."
+   },
+   {
+    "run": 3,
+    "a": "Be it enacted by the Senate and House of Representatives of the\nUnited States of America in Congress assembled,",
+    "b": "",
+    "kept": "",
+    "reason": "These lines already appear at their correct place in run 2."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "tember 30, 1950 (Public Law 874, Eighty-first Congress), as amended,",
+    "kept": "tember 30, 1950 (Public Law 874, Eighty-first Congress), as amended,",
+    "reason": "The 67 Stat. 530 sidenote is aligned with this line, so the body line comes first."
+   },
+   {
+    "run": 5,
+    "a": "tember 30, 1950 (Public Law 874, Eighty-first Congress), as amended,",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 4."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "\"six succeeding fiscal years\".   Sections 3 (a), 3 (c), 4 (a), and 8 (d)",
+    "kept": "\"six succeeding fiscal years\".   Sections 3 (a), 3 (c), 4 (a), and 8 (d)",
+    "reason": "The 67 Stat. 530, 531 sidenote is aligned with this line, which therefore precedes it."
+   },
+   {
+    "run": 7,
+    "a": "\"six succeeding fiscal years\".   Sections 3 (a), 3 (c), 4 (a), and 8 (d)",
+    "b": "of such Act are amended by striking out \"1956\" wherever appearing",
+    "kept": "of such Act are amended by striking out \"1956\" wherever appearing",
+    "reason": "After the 532, 536 sidenote the next body line is this one, aligned with the 20 USC 238, 239 note."
+   },
+   {
+    "run": 8,
+    "a": "of such Act are amended by striking out \"1956\" wherever appearing",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 7."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "succeeding fiscal year,\".    Section 10 (a) of such Act is amended by",
+    "kept": "succeeding fiscal year,\".    Section 10 (a) of such Act is amended by",
+    "reason": "The 67 Stat. 536 sidenote is aligned with this line, so it precedes the note."
+   },
+   {
+    "run": 10,
+    "a": "succeeding fiscal year,\".   Section 10 (a) of such Act is amended by",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 9."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "SEC. 2. Section 4 (a) (1) of such Act is amended by striking out",
+    "kept": "SEC. 2. Section 4 (a) (1) of such Act is amended by striking out",
+    "reason": "The 20 USC 239 sidenote stands beside this first line of section 2."
+   },
+   {
+    "run": 12,
+    "a": "SEC. 2. Section 4 (a) (1) of such Act is amended by striking out",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 11."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "Congress), is amended by inserting after \"June 30, 1955,\" the",
+    "kept": "Congress), is amended by inserting after \"June 30, 1955,\" the",
+    "reason": "The 68 Stat. 1006 sidenote is aligned with this line, which precedes it."
+   },
+   {
+    "run": 14,
+    "a": "Congress), is amended by inserting after \"June 30, 1955,\" the",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 13."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "SEC. 4. Sections 203 and 309 of the Act of September 23, 1950 (Pub-",
+    "kept": "SEC. 4. Sections 203 and 309 of the Act of September 23, 1950 (Pub-",
+    "reason": "The 64 Stat. 971; 67 sidenote is aligned with this line, which comes first."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "lic Law 815, Eighty-first Congress), as amended, are each amended",
+    "kept": "lic Law 815, Eighty-first Congress), as amended, are each amended",
+    "reason": "This line is aligned with the 20 USC 273, 299 sidenote that follows it."
+   },
+   {
+    "run": 17,
+    "a": "SEC. 4. Sections 203 and 309 of the Act of September 23, 1950 (Pub-\nlic Law 815, Eighty-first Congress), as amended, are each amended",
+    "b": "",
+    "kept": "",
+    "reason": "Both lines already placed in runs 15 and 16."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "69 STAT.]"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 382-AUG. 12, 1955"
+  },
+  {
+   "role": "page-number",
+   "text": "713"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 382"
+  },
+  {
+   "role": "body",
+   "text": "CHAPTER 868"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "August 12, 1955"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 7245]"
+  },
+  {
+   "role": "body",
+   "text": "To amend Public Laws 815 and 874, Eighty-first Congress, which provide for"
+  },
+  {
+   "role": "body",
+   "text": "assistance to local educational agencies in areas affected by Federal activities,"
+  },
+  {
+   "role": "body",
+   "text": "and for other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled,"
+  },
+  {
+   "role": "sidenote",
+   "text": "E d u c a t i o n a l"
+  },
+  {
+   "role": "sidenote",
+   "text": "agencies in Fed-"
+  },
+  {
+   "role": "sidenote",
+   "text": "erally  affected"
+  },
+  {
+   "role": "sidenote",
+   "text": "areas."
+  },
+  {
+   "role": "body",
+   "text": "EXTENSION OF PUBLIC LAW 874"
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. The first sentence of section 2 (a) of the Act of Sep-"
+  },
+  {
+   "role": "body",
+   "text": "tember 30, 1950 (Public Law 874, Eighty-first Congress), as amended,"
+  },
+  {
+   "role": "sidenote",
+   "text": "67 Stat. 530."
+  },
+  {
+   "role": "sidenote",
+   "text": "20 USC 237."
+  },
+  {
+   "role": "body",
+   "text": "is amended by striking out \"five succeeding fiscal years\" and inserting"
+  },
+  {
+   "role": "body",
+   "text": "\"six succeeding fiscal years\".   Sections 3 (a), 3 (c), 4 (a), and 8 (d)"
+  },
+  {
+   "role": "sidenote",
+   "text": "67 Stat. 530, 531,"
+  },
+  {
+   "role": "sidenote",
+   "text": "532, 536."
+  },
+  {
+   "role": "body",
+   "text": "of such Act are amended by striking out \"1956\" wherever appearing"
+  },
+  {
+   "role": "sidenote",
+   "text": "20 USC 238, 239,"
+  },
+  {
+   "role": "sidenote",
+   "text": "243."
+  },
+  {
+   "role": "body",
+   "text": "therein and inserting \"1957\".   Section 3 (c) (2) (D) of such Act is"
+  },
+  {
+   "role": "body",
+   "text": "amended by inserting after \"July 1, 1955,\" the following: \"and the"
+  },
+  {
+   "role": "body",
+   "text": "succeeding fiscal year,\".    Section 10 (a) of such Act is amended by"
+  },
+  {
+   "role": "sidenote",
+   "text": "67 Stat. 536."
+  },
+  {
+   "role": "sidenote",
+   "text": "20 USC 245."
+  },
+  {
+   "role": "body",
+   "text": "striking out \"or the succeeding fiscal year\" in the first sentence and"
+  },
+  {
+   "role": "body",
+   "text": "inserting \"or either of the two succeeding fiscal years\", and by striking"
+  },
+  {
+   "role": "body",
+   "text": "out the second sentence and inserting the following: \"Notice of such"
+  },
+  {
+   "role": "body",
+   "text": "an election shall be filed with the Secretary of the Interior and with"
+  },
+  {
+   "role": "body",
+   "text": "the Commissioner of Education before January 1 of the calendar year"
+  },
+  {
+   "role": "body",
+   "text": "in which the fiscal year in question begins.\"."
+  },
+  {
+   "role": "body",
+   "text": "PAYMENTS UNDER PUBLIC LAW 874 FOR CURRENT INCREASES IN FEDERALLY"
+  },
+  {
+   "role": "body",
+   "text": "CONNECTED CHILDREN"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. Section 4 (a) (1) of such Act is amended by striking out"
+  },
+  {
+   "role": "sidenote",
+   "text": "20 USC 239."
+  },
+  {
+   "role": "body",
+   "text": "\"at least 5 per centum of the number of all children in average daily"
+  },
+  {
+   "role": "body",
+   "text": "attendance at the schools of such agency during the preceding fiscal"
+  },
+  {
+   "role": "body",
+   "text": "year\" and inserting \"at least 5 per centum of the difference between"
+  },
+  {
+   "role": "body",
+   "text": "the number of children in average daily attendance at the schools of"
+  },
+  {
+   "role": "body",
+   "text": "such agency during the preceding fiscal year and the number of such"
+  },
+  {
+   "role": "body",
+   "text": "children whose attendance during such year resulted from activities of"
+  },
+  {
+   "role": "body",
+   "text": "the United States (including children who resided on Federal prop-"
+  },
+  {
+   "role": "body",
+   "text": "erty or with a parent employed on Federal property)\"."
+  },
+  {
+   "role": "body",
+   "text": "POSTPONEMENT OF 3 PER CENTUM \"ABSORPTION\" REQUIREMENT UNDER"
+  },
+  {
+   "role": "body",
+   "text": "PUBLIC LAW 874"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. The Act of August 31, 1954 (Public Law 732, Eighty-third"
+  },
+  {
+   "role": "body",
+   "text": "Congress), is amended by inserting after \"June 30, 1955,\" the"
+  },
+  {
+   "role": "sidenote",
+   "text": "68 Stat. 1006."
+  },
+  {
+   "role": "sidenote",
+   "text": "20 USC 238 note."
+  },
+  {
+   "role": "body",
+   "text": "following: \"and the succeeding fiscal year\"."
+  },
+  {
+   "role": "body",
+   "text": "TRANSFER OF TEMPORARY SCHOOL FACILITIES MADE AVAILABLE UNDER"
+  },
+  {
+   "role": "body",
+   "text": "PUBLIC LAW 815"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. Sections 203 and 309 of the Act of September 23, 1950 (Pub-"
+  },
+  {
+   "role": "sidenote",
+   "text": "64 Stat. 971; 67"
+  },
+  {
+   "role": "sidenote",
+   "text": "Stat. 525."
+  },
+  {
+   "role": "body",
+   "text": "lic Law 815, Eighty-first Congress), as amended, are each amended"
+  },
+  {
+   "role": "sidenote",
+   "text": "20 USC 273, 299."
+  },
+  {
+   "role": "body",
+   "text": "by inserting at the end thereof the following new sentence: \"The"
+  },
+  {
+   "role": "body",
+   "text": "Commissioner may transfer to such agency or its successor all the"
+  },
+  {
+   "role": "body",
+   "text": "right, title, and interest of the United States in and to any temporary"
+  },
+  {
+   "role": "body",
+   "text": "facilities made available to such agency under this section; any such"
+  },
+  {
+   "role": "body",
+   "text": "transfer shall be without charge, but may be made on such other"
+  },
+  {
+   "role": "body",
+   "text": "terms and conditions, and at such time, as the Commissioner deems"
+  },
+  {
+   "role": "body",
+   "text": "appropriate to carry out the purposes of this title.\"   The amend-"
+  },
+  {
+   "role": "body",
+   "text": "ments made by this section shall apply to any facility made available"
+  }
+ ],
+ "disagreement_count": 17,
+ "tokens": {
+  "input_tokens": 23108,
+  "output_tokens": 6976,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.29111,
+ "seconds": 87.7,
+ "created": "2026-09-08T12:00:30"
+}

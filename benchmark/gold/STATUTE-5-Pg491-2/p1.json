@@ -1,0 +1,1142 @@
+{
+ "granule_id": "STATUTE-5-Pg491-2",
+ "package_id": "STATUTE-5",
+ "volume": 5,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act confirming certain land claims in Louisiana.",
+ "date_issued": "1842-07-06",
+ "pdf_page": 1,
+ "pdf_pages": 3,
+ "stat_page": "491",
+ "image": "data/gold/STATUTE-5-Pg491-2/p1.png",
+ "image_sha256": "34d3d6a3f20a3e75aca53064c30904612e578389af45ba29ec6d618de00a43bd",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "TWENTY-SEVENTH CONGRESS.  SESS. II.  CH. 47, 50.  1842."
+    },
+    {
+     "role": "page-number",
+     "text": "491"
+    },
+    {
+     "role": "body",
+     "text": "have been offered at public sale within either of the land districts in"
+    },
+    {
+     "role": "body",
+     "text": "said State of Mississippi, contiguous to said lands, within said State,\""
+    },
+    {
+     "role": "body",
+     "text": "ceded by the Chickasaws, be so amended that the said lands may be"
+    },
+    {
+     "role": "body",
+     "text": "selected, under the direction of the Governor of said State of Missis-"
+    },
+    {
+     "role": "body",
+     "text": "sippi, out of any public lands remaining unsold within either of the land"
+    },
+    {
+     "role": "body",
+     "text": "districts in said State of Mississippi, contiguous to the lands in said"
+    },
+    {
+     "role": "body",
+     "text": "State, ceded by the Chickasaw Indians."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 13, 1842."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 25, 1842."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLVII.—An Act for the apportionment of Representatives among the several"
+    },
+    {
+     "role": "body",
+     "text": "States according to the sixth census. (a)"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "House of Re-"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That from and after"
+    },
+    {
+     "role": "sidenote",
+     "text": "presentatives,"
+    },
+    {
+     "role": "body",
+     "text": "the third day of March, one thousand eight hundred and forty-three, the"
+    },
+    {
+     "role": "sidenote",
+     "text": "how to be com-"
+    },
+    {
+     "role": "body",
+     "text": "House of Representatives shall be composed of members elected agree-"
+    },
+    {
+     "role": "sidenote",
+     "text": "posed."
+    },
+    {
+     "role": "body",
+     "text": "ably to a ratio of one Representative for every seventy thousand six hun-"
+    },
+    {
+     "role": "body",
+     "text": "dred and eighty persons in each State, and of one additional represen-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ratio of Re-"
+    },
+    {
+     "role": "body",
+     "text": "tative for each State having a fraction greater than one moiety of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "presentation."
+    },
+    {
+     "role": "body",
+     "text": "said ratio, computed according to the rule prescribed by the Constitu-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the United States; that is to say: Within the State of Maine,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Number of"
+    },
+    {
+     "role": "body",
+     "text": "seven; within the State of New Hampshire, four; within the State of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Representatives"
+    },
+    {
+     "role": "body",
+     "text": "Massachusetts, ten; within the State of Rhode Island, two; within the"
+    },
+    {
+     "role": "sidenote",
+     "text": "to each State."
+    },
+    {
+     "role": "body",
+     "text": "State of Connecticut, four; within the State of Vermont, four; within"
+    },
+    {
+     "role": "body",
+     "text": "the State of New York, thirty-four; within the State of New Jersey,"
+    },
+    {
+     "role": "body",
+     "text": "five; within the State of Pennsylvania, twenty-four; within the State of"
+    },
+    {
+     "role": "body",
+     "text": "Delaware, one; within the State of Maryland, six; within the State of"
+    },
+    {
+     "role": "body",
+     "text": "Virginia, fifteen; within the State of North Carolina, nine; within the"
+    },
+    {
+     "role": "body",
+     "text": "State of South Carolina, seven; within the State of Georgia, eight;"
+    },
+    {
+     "role": "body",
+     "text": "within the State of Alabama, seven; within the State of Louisiana,"
+    },
+    {
+     "role": "body",
+     "text": "four; within the State of Mississippi, four; within the State of Ten-"
+    },
+    {
+     "role": "body",
+     "text": "nessee, eleven; within the State of Kentucky, ten; within the State of"
+    },
+    {
+     "role": "body",
+     "text": "Ohio, twenty-one; within the State of Indiana, ten; within the State of"
+    },
+    {
+     "role": "body",
+     "text": "Illinois, seven; within the State of Missouri, five; within the State of"
+    },
+    {
+     "role": "body",
+     "text": "Arkansas, one; and within the State of Michigan, three."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That in every case where a State"
+    },
+    {
+     "role": "sidenote",
+     "text": "Where a State"
+    },
+    {
+     "role": "body",
+     "text": "is entitled to more than one Representative, the number to which each"
+    },
+    {
+     "role": "sidenote",
+     "text": "is entitled to"
+    },
+    {
+     "role": "body",
+     "text": "State shall be entitled under this apportionment shall be elected by dis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "more than one"
+    },
+    {
+     "role": "sidenote",
+     "text": "representative,"
+    },
+    {
+     "role": "body",
+     "text": "tricts composed of contiguous territory equal in number to the number"
+    },
+    {
+     "role": "sidenote",
+     "text": "the election to"
+    },
+    {
+     "role": "body",
+     "text": "of Representatives to which said State may be entitled, no one district"
+    },
+    {
+     "role": "sidenote",
+     "text": "be by districts,"
+    },
+    {
+     "role": "body",
+     "text": "electing more than one Representative."
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 25, 1842."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. L.—An Act confirming certain land claims in Louisiana."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 6, 1842."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 649."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the claims to lands"
+    },
+    {
+     "role": "sidenote",
+     "text": "Certain land"
+    },
+    {
+     "role": "body",
+     "text": "within the land district of New Orleans, being numbers six, seven,"
+    },
+    {
+     "role": "sidenote",
+     "text": "claims in New"
+    },
+    {
+     "role": "body",
+     "text": "eight, nine, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Orleans district"
+    },
+    {
+     "role": "body",
+     "text": "eighteen, nineteen, twenty, twenty-one, thirty, thirty-four, thirty-five,"
+    },
+    {
+     "role": "sidenote",
+     "text": "confirmed."
+    },
+    {
+     "role": "body",
+     "text": "thirty-eight, forty-seven, forty-eight, fifty-seven, fifty-nine, sixty, sixty-"
+    },
+    {
+     "role": "body",
+     "text": "one, and sixty-two, of the two reports of the register and receiver of"
+    },
+    {
+     "role": "body",
+     "text": "said land district, dated fourteenth of December, eighteen hundred and"
+    },
+    {
+     "role": "body",
+     "text": "thirty-six, and second of November, eighteen hundred and thirty-seven,"
+    },
+    {
+     "role": "body",
+     "text": "and made under the provisions of the act of the sixth of February, eigh-"
+    },
+    {
+     "role": "body",
+     "text": "teen hundred and thirty-five, entitled \" An act for the final adjustment"
+    },
+    {
+     "role": "sidenote",
+     "text": "1835, ch. 17."
+    },
+    {
+     "role": "body",
+     "text": "of claims to lands in the State of Louisiana,\" be, and the same are"
+    },
+    {
+     "role": "footnote",
+     "text": "(a) See notes of the acts for the apportionment of representatives among the several States, according"
+    },
+    {
+     "role": "footnote",
+     "text": "to the first, second, third, fourth, fifth, and sixth census; act of Jan. 14, 1802, chap. 1."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2539,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09091,
+   "seconds": 62.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "TWENTY-SEVENTH CONGRESS.  SESS. II.  CH. 47, 50.  1842."
+    },
+    {
+     "role": "page-number",
+     "text": "491"
+    },
+    {
+     "role": "body",
+     "text": "have been offered at public sale within either of the land districts in"
+    },
+    {
+     "role": "body",
+     "text": "said State of Mississippi, contiguous to said lands, within said State,\""
+    },
+    {
+     "role": "body",
+     "text": "ceded by the Chickasaws, be so amended that the said lands may be"
+    },
+    {
+     "role": "body",
+     "text": "selected, under the direction of the Governor of said State of Missis-"
+    },
+    {
+     "role": "body",
+     "text": "sippi, out of any public lands remaining unsold within either of the land"
+    },
+    {
+     "role": "body",
+     "text": "districts in said State of Mississippi, contiguous to the lands in said"
+    },
+    {
+     "role": "body",
+     "text": "State, ceded by the Chickasaw Indians."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 13, 1842."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLVII.—An Act for the apportionment of Representatives among the several"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 25, 1842."
+    },
+    {
+     "role": "body",
+     "text": "States according to the sixth census. (a)"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That from and after"
+    },
+    {
+     "role": "sidenote",
+     "text": "House of Re-"
+    },
+    {
+     "role": "body",
+     "text": "the third day of March, one thousand eight hundred and forty-three, the"
+    },
+    {
+     "role": "sidenote",
+     "text": "presentatives,"
+    },
+    {
+     "role": "body",
+     "text": "House of Representatives shall be composed of members elected agree-"
+    },
+    {
+     "role": "sidenote",
+     "text": "how to be com-"
+    },
+    {
+     "role": "body",
+     "text": "ably to a ratio of one Representative for every seventy thousand six hun-"
+    },
+    {
+     "role": "sidenote",
+     "text": "posed."
+    },
+    {
+     "role": "body",
+     "text": "dred and eighty persons in each State, and of one additional represen-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ratio of Re-"
+    },
+    {
+     "role": "body",
+     "text": "tative for each State having a fraction greater than one moiety of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "presentation."
+    },
+    {
+     "role": "body",
+     "text": "said ratio, computed according to the rule prescribed by the Constitu-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the United States; that is to say: Within the State of Maine,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Number of"
+    },
+    {
+     "role": "body",
+     "text": "seven; within the State of New Hampshire, four; within the State of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Representatives"
+    },
+    {
+     "role": "body",
+     "text": "Massachusetts, ten; within the State of Rhode Island, two; within the"
+    },
+    {
+     "role": "sidenote",
+     "text": "to each State."
+    },
+    {
+     "role": "body",
+     "text": "State of Connecticut, four; within the State of Vermont, four; within"
+    },
+    {
+     "role": "body",
+     "text": "the State of New York, thirty-four; within the State of New Jersey,"
+    },
+    {
+     "role": "body",
+     "text": "five; within the State of Pennsylvania, twenty-four; within the State of"
+    },
+    {
+     "role": "body",
+     "text": "Delaware, one; within the State of Maryland, six; within the State of"
+    },
+    {
+     "role": "body",
+     "text": "Virginia, fifteen; within the State of North Carolina, nine; within the"
+    },
+    {
+     "role": "body",
+     "text": "State of South Carolina, seven; within the State of Georgia, eight;"
+    },
+    {
+     "role": "body",
+     "text": "within the State of Alabama, seven; within the State of Louisiana,"
+    },
+    {
+     "role": "body",
+     "text": "four; within the State of Mississippi, four; within the State of Ten-"
+    },
+    {
+     "role": "body",
+     "text": "nessee, eleven; within the State of Kentucky, ten; within the State of"
+    },
+    {
+     "role": "body",
+     "text": "Ohio, twenty-one; within the State of Indiana, ten; within the State of"
+    },
+    {
+     "role": "body",
+     "text": "Illinois, seven; within the State of Missouri, five; within the State of"
+    },
+    {
+     "role": "body",
+     "text": "Arkansas, one; and within the State of Michigan, three."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That in every case where a State"
+    },
+    {
+     "role": "sidenote",
+     "text": "Where a State"
+    },
+    {
+     "role": "body",
+     "text": "is entitled to more than one Representative, the number to which each"
+    },
+    {
+     "role": "sidenote",
+     "text": "is entitled to"
+    },
+    {
+     "role": "body",
+     "text": "State shall be entitled under this apportionment shall be elected by dis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "more than one"
+    },
+    {
+     "role": "sidenote",
+     "text": "representative,"
+    },
+    {
+     "role": "body",
+     "text": "tricts composed of contiguous territory equal in number to the number"
+    },
+    {
+     "role": "sidenote",
+     "text": "the election to"
+    },
+    {
+     "role": "body",
+     "text": "of Representatives to which said State may be entitled, no one district"
+    },
+    {
+     "role": "sidenote",
+     "text": "be by districts,"
+    },
+    {
+     "role": "body",
+     "text": "electing more than one Representative."
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 25, 1842."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. L.—An Act confirming certain land claims in Louisiana."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 6, 1842."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 649."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the claims to lands"
+    },
+    {
+     "role": "sidenote",
+     "text": "Certain land"
+    },
+    {
+     "role": "body",
+     "text": "within the land district of New Orleans, being numbers six, seven,"
+    },
+    {
+     "role": "sidenote",
+     "text": "claims in New"
+    },
+    {
+     "role": "body",
+     "text": "eight, nine, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Orleans district"
+    },
+    {
+     "role": "body",
+     "text": "eighteen, nineteen, twenty, twenty-one, thirty, thirty-four, thirty-five,"
+    },
+    {
+     "role": "sidenote",
+     "text": "confirmed."
+    },
+    {
+     "role": "body",
+     "text": "thirty-eight, forty-seven, forty-eight, fifty-seven, fifty-nine, sixty, sixty-"
+    },
+    {
+     "role": "body",
+     "text": "one, and sixty-two, of the two reports of the register and receiver of"
+    },
+    {
+     "role": "body",
+     "text": "said land district, dated fourteenth of December, eighteen hundred and"
+    },
+    {
+     "role": "body",
+     "text": "thirty-six, and second of November, eighteen hundred and thirty-seven,"
+    },
+    {
+     "role": "body",
+     "text": "and made under the provisions of the act of the sixth of February, eigh-"
+    },
+    {
+     "role": "body",
+     "text": "teen hundred and thirty-five, entitled \"An act for the final adjustment"
+    },
+    {
+     "role": "sidenote",
+     "text": "1835, ch. 17."
+    },
+    {
+     "role": "body",
+     "text": "of claims to lands in the State of Louisiana,\" be, and the same are"
+    },
+    {
+     "role": "footnote",
+     "text": "(a) See notes of the acts for the apportionment of representatives among the several States, according"
+    },
+    {
+     "role": "footnote",
+     "text": "to the first, second, third, fourth, fifth, and sixth census; act of Jan. 14, 1802, chap. 1."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2478,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08938,
+   "seconds": 126.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12198,
+   "output_tokens": 1518,
+   "cache_read_input_tokens": 0,
+   "cache_creation_input_tokens": 833
+  },
+  "cost_usd": 0.10415,
+  "seconds": 50.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "CHAP. XLVII.—An Act for the apportionment of Representatives among the several",
+    "kept": "CHAP. XLVII.—An Act for the apportionment of Representatives among the several",
+    "reason": "The sidenote \"June 25, 1842.\" sits level with the chapter-heading line, so the heading follows STATUTE II. before that date sidenote."
+   },
+   {
+    "run": 2,
+    "a": "CHAP. XLVII.—An Act for the apportionment of Representatives among the several",
+    "b": "",
+    "kept": "",
+    "reason": "The heading line was already placed above; nothing further printed here."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "United States of America in Congress assembled, That from and after",
+    "kept": "United States of America in Congress assembled, That from and after",
+    "reason": "The sidenote \"House of Re-\" is level with this body line, so the body line comes first."
+   },
+   {
+    "run": 4,
+    "a": "United States of America in Congress assembled, That from and after",
+    "b": "the third day of March, one thousand eight hundred and forty-three, the",
+    "kept": "the third day of March, one thousand eight hundred and forty-three, the",
+    "reason": "Following the sidenote \"House of Re-\", the next body line is this one, aligned with \"presentatives,\"."
+   },
+   {
+    "run": 5,
+    "a": "the third day of March, one thousand eight hundred and forty-three, the",
+    "b": "House of Representatives shall be composed of members elected agree-",
+    "kept": "House of Representatives shall be composed of members elected agree-",
+    "reason": "Aligned with sidenote \"how to be com-\", which follows it."
+   },
+   {
+    "run": 6,
+    "a": "House of Representatives shall be composed of members elected agree-",
+    "b": "ably to a ratio of one Representative for every seventy thousand six hun-",
+    "kept": "ably to a ratio of one Representative for every seventy thousand six hun-",
+    "reason": "Aligned with sidenote \"posed.\", which follows it."
+   },
+   {
+    "run": 7,
+    "a": "ably to a ratio of one Representative for every seventy thousand six hun-",
+    "b": "",
+    "kept": "",
+    "reason": "That body line has already been placed above; nothing additional printed here."
+   },
+   {
+    "run": 8,
+    "a": "teen hundred and thirty-five, entitled \" An act for the final adjustment",
+    "b": "teen hundred and thirty-five, entitled \"An act for the final adjustment",
+    "kept": "teen hundred and thirty-five, entitled \" An act for the final adjustment",
+    "reason": "The image shows a space between the opening quotation mark and \"An act\"."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "TWENTY-SEVENTH CONGRESS.  SESS. II.  CH. 47, 50.  1842."
+  },
+  {
+   "role": "page-number",
+   "text": "491"
+  },
+  {
+   "role": "body",
+   "text": "have been offered at public sale within either of the land districts in"
+  },
+  {
+   "role": "body",
+   "text": "said State of Mississippi, contiguous to said lands, within said State,\""
+  },
+  {
+   "role": "body",
+   "text": "ceded by the Chickasaws, be so amended that the said lands may be"
+  },
+  {
+   "role": "body",
+   "text": "selected, under the direction of the Governor of said State of Missis-"
+  },
+  {
+   "role": "body",
+   "text": "sippi, out of any public lands remaining unsold within either of the land"
+  },
+  {
+   "role": "body",
+   "text": "districts in said State of Mississippi, contiguous to the lands in said"
+  },
+  {
+   "role": "body",
+   "text": "State, ceded by the Chickasaw Indians."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, June 13, 1842."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XLVII.—An Act for the apportionment of Representatives among the several"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 25, 1842."
+  },
+  {
+   "role": "body",
+   "text": "States according to the sixth census. (a)"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That from and after"
+  },
+  {
+   "role": "sidenote",
+   "text": "House of Re-"
+  },
+  {
+   "role": "body",
+   "text": "the third day of March, one thousand eight hundred and forty-three, the"
+  },
+  {
+   "role": "sidenote",
+   "text": "presentatives,"
+  },
+  {
+   "role": "body",
+   "text": "House of Representatives shall be composed of members elected agree-"
+  },
+  {
+   "role": "sidenote",
+   "text": "how to be com-"
+  },
+  {
+   "role": "body",
+   "text": "ably to a ratio of one Representative for every seventy thousand six hun-"
+  },
+  {
+   "role": "sidenote",
+   "text": "posed."
+  },
+  {
+   "role": "body",
+   "text": "dred and eighty persons in each State, and of one additional represen-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ratio of Re-"
+  },
+  {
+   "role": "body",
+   "text": "tative for each State having a fraction greater than one moiety of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "presentation."
+  },
+  {
+   "role": "body",
+   "text": "said ratio, computed according to the rule prescribed by the Constitu-"
+  },
+  {
+   "role": "body",
+   "text": "tion of the United States; that is to say: Within the State of Maine,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Number of"
+  },
+  {
+   "role": "body",
+   "text": "seven; within the State of New Hampshire, four; within the State of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Representatives"
+  },
+  {
+   "role": "body",
+   "text": "Massachusetts, ten; within the State of Rhode Island, two; within the"
+  },
+  {
+   "role": "sidenote",
+   "text": "to each State."
+  },
+  {
+   "role": "body",
+   "text": "State of Connecticut, four; within the State of Vermont, four; within"
+  },
+  {
+   "role": "body",
+   "text": "the State of New York, thirty-four; within the State of New Jersey,"
+  },
+  {
+   "role": "body",
+   "text": "five; within the State of Pennsylvania, twenty-four; within the State of"
+  },
+  {
+   "role": "body",
+   "text": "Delaware, one; within the State of Maryland, six; within the State of"
+  },
+  {
+   "role": "body",
+   "text": "Virginia, fifteen; within the State of North Carolina, nine; within the"
+  },
+  {
+   "role": "body",
+   "text": "State of South Carolina, seven; within the State of Georgia, eight;"
+  },
+  {
+   "role": "body",
+   "text": "within the State of Alabama, seven; within the State of Louisiana,"
+  },
+  {
+   "role": "body",
+   "text": "four; within the State of Mississippi, four; within the State of Ten-"
+  },
+  {
+   "role": "body",
+   "text": "nessee, eleven; within the State of Kentucky, ten; within the State of"
+  },
+  {
+   "role": "body",
+   "text": "Ohio, twenty-one; within the State of Indiana, ten; within the State of"
+  },
+  {
+   "role": "body",
+   "text": "Illinois, seven; within the State of Missouri, five; within the State of"
+  },
+  {
+   "role": "body",
+   "text": "Arkansas, one; and within the State of Michigan, three."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That in every case where a State"
+  },
+  {
+   "role": "sidenote",
+   "text": "Where a State"
+  },
+  {
+   "role": "body",
+   "text": "is entitled to more than one Representative, the number to which each"
+  },
+  {
+   "role": "sidenote",
+   "text": "is entitled to"
+  },
+  {
+   "role": "body",
+   "text": "State shall be entitled under this apportionment shall be elected by dis-"
+  },
+  {
+   "role": "sidenote",
+   "text": "more than one"
+  },
+  {
+   "role": "sidenote",
+   "text": "representative,"
+  },
+  {
+   "role": "body",
+   "text": "tricts composed of contiguous territory equal in number to the number"
+  },
+  {
+   "role": "sidenote",
+   "text": "the election to"
+  },
+  {
+   "role": "body",
+   "text": "of Representatives to which said State may be entitled, no one district"
+  },
+  {
+   "role": "sidenote",
+   "text": "be by districts,"
+  },
+  {
+   "role": "body",
+   "text": "electing more than one Representative."
+  },
+  {
+   "role": "sidenote",
+   "text": "&c."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, June 25, 1842."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. L.—An Act confirming certain land claims in Louisiana."
+  },
+  {
+   "role": "sidenote",
+   "text": "July 6, 1842."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, p. 649."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the claims to lands"
+  },
+  {
+   "role": "sidenote",
+   "text": "Certain land"
+  },
+  {
+   "role": "body",
+   "text": "within the land district of New Orleans, being numbers six, seven,"
+  },
+  {
+   "role": "sidenote",
+   "text": "claims in New"
+  },
+  {
+   "role": "body",
+   "text": "eight, nine, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Orleans district"
+  },
+  {
+   "role": "body",
+   "text": "eighteen, nineteen, twenty, twenty-one, thirty, thirty-four, thirty-five,"
+  },
+  {
+   "role": "sidenote",
+   "text": "confirmed."
+  },
+  {
+   "role": "body",
+   "text": "thirty-eight, forty-seven, forty-eight, fifty-seven, fifty-nine, sixty, sixty-"
+  },
+  {
+   "role": "body",
+   "text": "one, and sixty-two, of the two reports of the register and receiver of"
+  },
+  {
+   "role": "body",
+   "text": "said land district, dated fourteenth of December, eighteen hundred and"
+  },
+  {
+   "role": "body",
+   "text": "thirty-six, and second of November, eighteen hundred and thirty-seven,"
+  },
+  {
+   "role": "body",
+   "text": "and made under the provisions of the act of the sixth of February, eigh-"
+  },
+  {
+   "role": "body",
+   "text": "teen hundred and thirty-five, entitled \" An act for the final adjustment"
+  },
+  {
+   "role": "sidenote",
+   "text": "1835, ch. 17."
+  },
+  {
+   "role": "body",
+   "text": "of claims to lands in the State of Louisiana,\" be, and the same are"
+  },
+  {
+   "role": "footnote",
+   "text": "(a) See notes of the acts for the apportionment of representatives among the several States, according"
+  },
+  {
+   "role": "footnote",
+   "text": "to the first, second, third, fourth, fifth, and sixth census; act of Jan. 14, 1802, chap. 1."
+  }
+ ],
+ "disagreement_count": 8,
+ "tokens": {
+  "input_tokens": 23021,
+  "output_tokens": 6535,
+  "cache_read_input_tokens": 1490,
+  "cache_creation_input_tokens": 833
+ },
+ "cost_usd": 0.28444,
+ "seconds": 238.7,
+ "created": "2026-09-08T11:08:12"
+}

@@ -1,0 +1,1426 @@
+{
+ "granule_id": "STATUTE-5-Pg153",
+ "package_id": "STATUTE-5",
+ "volume": 5,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to provide for the enlistment of boys for the naval service, and to extend the term of the enlistment of seamen.",
+ "date_issued": "1837-03-02",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "153",
+ "image": "data/gold/STATUTE-5-Pg153/p1.png",
+ "image_sha256": "d08bb6c71c067c284951dcd4b50172887e5a2cdb3cf6c81af996e7657a055e96",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "TWENTY-FOURTH CONGRESS.  SESS. II. CH. 21, 22.   1837."
+    },
+    {
+     "role": "page-number",
+     "text": "153"
+    },
+    {
+     "role": "body",
+     "text": "out of any money in the Treasury not otherwise appropriated, to defray"
+    },
+    {
+     "role": "body",
+     "text": "any expenses which have been, or may be incurred, in preventing or"
+    },
+    {
+     "role": "sidenote",
+     "text": "How to be ex-"
+    },
+    {
+     "role": "body",
+     "text": "suppressing the hostilities of any Indians; to be expended under the"
+    },
+    {
+     "role": "sidenote",
+     "text": "pended."
+    },
+    {
+     "role": "body",
+     "text": "direction of the Secretary of War, conformably to the acts of Congress"
+    },
+    {
+     "role": "body",
+     "text": "of the 19th of March, and the second of July last, and of the acts"
+    },
+    {
+     "role": "body",
+     "text": "therein referred to."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 2, 1837."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXI.—An Act to provide for the enlistment of boys for the naval service,"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1837."
+    },
+    {
+     "role": "body",
+     "text": "and to extend the term of the enlistment of seamen."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Boys may be"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That it shall be lawful"
+    },
+    {
+     "role": "sidenote",
+     "text": "enlisted."
+    },
+    {
+     "role": "body",
+     "text": "to enlist boys for the navy, with the consent of their parents or guar-"
+    },
+    {
+     "role": "body",
+     "text": "dians, not being under thirteen, nor over eighteen years of age, to serve"
+    },
+    {
+     "role": "body",
+     "text": "until they shall arrive at the age of twenty-one years; and it shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Other persons"
+    },
+    {
+     "role": "body",
+     "text": "lawful to enlist other persons for the navy, to serve for a period not"
+    },
+    {
+     "role": "sidenote",
+     "text": "may be enlisted"
+    },
+    {
+     "role": "body",
+     "text": "exceeding five years, unless sooner discharged by direction of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "for five years."
+    },
+    {
+     "role": "body",
+     "text": "President of the United States; and so much of an act entitled \" An"
+    },
+    {
+     "role": "sidenote",
+     "text": "So much of"
+    },
+    {
+     "role": "body",
+     "text": "act to amend the act entitled ' An act to amend the act authorizing"
+    },
+    {
+     "role": "sidenote",
+     "text": "act 15th May,"
+    },
+    {
+     "role": "body",
+     "text": "the employment of an additional naval force,' \" approved fifteenth"
+    },
+    {
+     "role": "sidenote",
+     "text": "1820, ch. 132,"
+    },
+    {
+     "role": "body",
+     "text": "May, one thousand eight hundred and twenty, as is inconsistent with"
+    },
+    {
+     "role": "sidenote",
+     "text": "as is inconsis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tent with this"
+    },
+    {
+     "role": "body",
+     "text": "the provisions of this act, shall be, and is hereby, repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "act, repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Any person"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That when the time of service of"
+    },
+    {
+     "role": "sidenote",
+     "text": "whose time ex-"
+    },
+    {
+     "role": "body",
+     "text": "any person enlisted for the navy, shall expire, while he is on board any"
+    },
+    {
+     "role": "sidenote",
+     "text": "pires while on"
+    },
+    {
+     "role": "body",
+     "text": "of the public vessels of the United States, employed on foreign service,"
+    },
+    {
+     "role": "sidenote",
+     "text": "foreign service,"
+    },
+    {
+     "role": "body",
+     "text": "it shall be the duty of the commanding officer of the fleet, squadron, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be sent to U."
+    },
+    {
+     "role": "body",
+     "text": "vessel, in which such person may be, to send him to the United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "States, &c."
+    },
+    {
+     "role": "body",
+     "text": "in some public or other vessel, unless his detention shall be essential to"
+    },
+    {
+     "role": "sidenote",
+     "text": "1845, ch. 77, § 9."
+    },
+    {
+     "role": "body",
+     "text": "the public interests, in which case the said officer may detain him until"
+    },
+    {
+     "role": "body",
+     "text": "the vessel in which he shall be serving shall return to the United States;"
+    },
+    {
+     "role": "body",
+     "text": "and it shall be the duty of said officer, immediately to make report to"
+    },
+    {
+     "role": "body",
+     "text": "the Navy Department, of such detention and the causes thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "Persons de-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That such persons as may be"
+    },
+    {
+     "role": "sidenote",
+     "text": "tained to be"
+    },
+    {
+     "role": "body",
+     "text": "detained after the expiration of their enlistment, under the next pre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "subject to laws,"
+    },
+    {
+     "role": "body",
+     "text": "ceding section of this act, shall be subject, in all respects, to the laws"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c., of navy."
+    },
+    {
+     "role": "body",
+     "text": "and regulations for the government of the navy, until their return to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Those who"
+    },
+    {
+     "role": "body",
+     "text": "the United States, and all such persons as shall be so detained, and all"
+    },
+    {
+     "role": "sidenote",
+     "text": "re-enlist to re-"
+    },
+    {
+     "role": "body",
+     "text": "such as shall voluntarily re-enlist to serve until the return of the vessel"
+    },
+    {
+     "role": "sidenote",
+     "text": "ceive additional"
+    },
+    {
+     "role": "body",
+     "text": "in which they shall be serving, and their regular discharge therefrom"
+    },
+    {
+     "role": "sidenote",
+     "text": "pay."
+    },
+    {
+     "role": "body",
+     "text": "in the United States, shall, while so detained and while so serving"
+    },
+    {
+     "role": "body",
+     "text": "under their re-enlistment, receive an addition of one-fourth to their"
+    },
+    {
+     "role": "body",
+     "text": "former pay."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 2, 1837."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXII.—An Act concerning Pilots. (a)"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1837."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Upon waters"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That it shall and may"
+    },
+    {
+     "role": "sidenote",
+     "text": "which are the"
+    },
+    {
+     "role": "footnote",
+     "text": "(a) Cases decided in the courts of the United States, as to Pilots and Pilotage."
+    },
+    {
+     "role": "footnote",
+     "text": "What a pilot does beyond the limits of his duty, as such, may be the foundation of a claim for"
+    },
+    {
+     "role": "footnote",
+     "text": "salvage; but not such acts as were within his duties.  Hand v. The Elvira, Gilpin's D. C. R. 65."
+    },
+    {
+     "role": "footnote",
+     "text": "Where a steamboat was hired for the purpose of towing a vessel, to which she was fastened, and"
+    },
+    {
+     "role": "footnote",
+     "text": "both were under the direction of a licensed pilot, the owner of the steamboat is not entitled to damages"
+    },
+    {
+     "role": "footnote",
+     "text": "on account of injury sustained in the course of navigation, and not caused by negligence of the pilot."
+    },
+    {
+     "role": "footnote",
+     "text": "Reeves et al. v. The Ship Constitution, Gilpin's D. C. R. 579."
+    },
+    {
+     "role": "footnote",
+     "text": "Assisting vessels in distress, beyond what the mere duty of pilot requires, entitles pilots to compen-"
+    },
+    {
+     "role": "footnote",
+     "text": "sation.  Delany, a Pilot v. The Sloop Peragio, Bee's Adm. Rep. 212."
+    },
+    {
+     "role": "footnote",
+     "text": "The brig Hope, with a valuable cargo, had been conducted, in the evening, by a pilot inside of"
+    },
+    {
+     "role": "footnote",
+     "text": "Mobile point, where pilots of the outer harbor usually leave vessels which they pilot inside of that"
+    },
+    {
+     "role": "footnote",
+     "text": "bar.  The pilot was discharged, and the Hope proceeded up the bay of Mobile.  The wind soon after"
+    },
+    {
+     "role": "footnote",
+     "text": "changed, blew a violent gale from the northwest, both anchors parted, and the Hope was driven on a"
+    },
+    {
+     "role": "body",
+     "text": "VOL. V.—20"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2841,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09846,
+   "seconds": 31.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "TWENTY-FOURTH CONGRESS.  SESS. II. CH. 21, 22.   1837."
+    },
+    {
+     "role": "page-number",
+     "text": "153"
+    },
+    {
+     "role": "body",
+     "text": "out of any money in the Treasury not otherwise appropriated, to defray"
+    },
+    {
+     "role": "body",
+     "text": "any expenses which have been, or may be incurred, in preventing or"
+    },
+    {
+     "role": "body",
+     "text": "suppressing the hostilities of any Indians; to be expended under the"
+    },
+    {
+     "role": "sidenote",
+     "text": "How to be ex-"
+    },
+    {
+     "role": "body",
+     "text": "direction of the Secretary of War, conformably to the acts of Congress"
+    },
+    {
+     "role": "sidenote",
+     "text": "pended."
+    },
+    {
+     "role": "body",
+     "text": "of the 19th of March, and the second of July last, and of the acts"
+    },
+    {
+     "role": "body",
+     "text": "therein referred to."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 2, 1837."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXI.—An Act to provide for the enlistment of boys for the naval service,"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1837."
+    },
+    {
+     "role": "body",
+     "text": "and to extend the term of the enlistment of seamen."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That it shall be lawful"
+    },
+    {
+     "role": "sidenote",
+     "text": "Boys may be"
+    },
+    {
+     "role": "body",
+     "text": "to enlist boys for the navy, with the consent of their parents or guar-"
+    },
+    {
+     "role": "sidenote",
+     "text": "enlisted."
+    },
+    {
+     "role": "body",
+     "text": "dians, not being under thirteen, nor over eighteen years of age, to serve"
+    },
+    {
+     "role": "body",
+     "text": "until they shall arrive at the age of twenty-one years; and it shall be"
+    },
+    {
+     "role": "body",
+     "text": "lawful to enlist other persons for the navy, to serve for a period not"
+    },
+    {
+     "role": "sidenote",
+     "text": "Other persons"
+    },
+    {
+     "role": "body",
+     "text": "exceeding five years, unless sooner discharged by direction of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "may be enlisted"
+    },
+    {
+     "role": "body",
+     "text": "President of the United States; and so much of an act entitled \" An"
+    },
+    {
+     "role": "sidenote",
+     "text": "for five years."
+    },
+    {
+     "role": "body",
+     "text": "act to amend the act entitled ' An act to amend the act authorizing"
+    },
+    {
+     "role": "sidenote",
+     "text": "So much of"
+    },
+    {
+     "role": "sidenote",
+     "text": "act 15th May,"
+    },
+    {
+     "role": "body",
+     "text": "the employment of an additional naval force,' \" approved fifteenth"
+    },
+    {
+     "role": "sidenote",
+     "text": "1820, ch. 132,"
+    },
+    {
+     "role": "body",
+     "text": "May, one thousand eight hundred and twenty, as is inconsistent with"
+    },
+    {
+     "role": "sidenote",
+     "text": "as is inconsis-"
+    },
+    {
+     "role": "body",
+     "text": "the provisions of this act, shall be, and is hereby, repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "tent with this"
+    },
+    {
+     "role": "sidenote",
+     "text": "act, repealed."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That when the time of service of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Any person"
+    },
+    {
+     "role": "body",
+     "text": "any person enlisted for the navy, shall expire, while he is on board any"
+    },
+    {
+     "role": "sidenote",
+     "text": "whose time ex-"
+    },
+    {
+     "role": "body",
+     "text": "of the public vessels of the United States, employed on foreign service,"
+    },
+    {
+     "role": "sidenote",
+     "text": "pires while on"
+    },
+    {
+     "role": "body",
+     "text": "it shall be the duty of the commanding officer of the fleet, squadron, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "foreign service,"
+    },
+    {
+     "role": "body",
+     "text": "vessel, in which such person may be, to send him to the United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be sent to U."
+    },
+    {
+     "role": "sidenote",
+     "text": "States, &c."
+    },
+    {
+     "role": "body",
+     "text": "in some public or other vessel, unless his detention shall be essential to"
+    },
+    {
+     "role": "sidenote",
+     "text": "1845, ch. 77, § 9."
+    },
+    {
+     "role": "body",
+     "text": "the public interests, in which case the said officer may detain him until"
+    },
+    {
+     "role": "body",
+     "text": "the vessel in which he shall be serving shall return to the United States;"
+    },
+    {
+     "role": "body",
+     "text": "and it shall be the duty of said officer, immediately to make report to"
+    },
+    {
+     "role": "body",
+     "text": "the Navy Department, of such detention and the causes thereof."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That such persons as may be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Persons de-"
+    },
+    {
+     "role": "body",
+     "text": "detained after the expiration of their enlistment, under the next pre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tained to be"
+    },
+    {
+     "role": "body",
+     "text": "ceding section of this act, shall be subject, in all respects, to the laws"
+    },
+    {
+     "role": "sidenote",
+     "text": "subject to laws,"
+    },
+    {
+     "role": "body",
+     "text": "and regulations for the government of the navy, until their return to"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c., of navy."
+    },
+    {
+     "role": "body",
+     "text": "the United States, and all such persons as shall be so detained, and all"
+    },
+    {
+     "role": "sidenote",
+     "text": "Those who"
+    },
+    {
+     "role": "body",
+     "text": "such as shall voluntarily re-enlist to serve until the return of the vessel"
+    },
+    {
+     "role": "sidenote",
+     "text": "re-enlist to re-"
+    },
+    {
+     "role": "body",
+     "text": "in which they shall be serving, and their regular discharge therefrom"
+    },
+    {
+     "role": "sidenote",
+     "text": "ceive additional"
+    },
+    {
+     "role": "sidenote",
+     "text": "pay."
+    },
+    {
+     "role": "body",
+     "text": "in the United States, shall, while so detained and while so serving"
+    },
+    {
+     "role": "body",
+     "text": "under their re-enlistment, receive an addition of one-fourth to their"
+    },
+    {
+     "role": "body",
+     "text": "former pay."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 2, 1837."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXII.—An Act concerning Pilots. (a)"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 2, 1837."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Upon waters"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That it shall and may"
+    },
+    {
+     "role": "sidenote",
+     "text": "which are the"
+    },
+    {
+     "role": "footnote",
+     "text": "(a)  Cases decided in the courts of the United States, as to Pilots and Pilotage."
+    },
+    {
+     "role": "footnote",
+     "text": "What a pilot does beyond the limits of his duty, as such, may be the foundation of a claim for"
+    },
+    {
+     "role": "footnote",
+     "text": "salvage; but not such acts as were within his duties.  Hand v. The Elvira, Gilpin's D. C. R. 65."
+    },
+    {
+     "role": "footnote",
+     "text": "Where a steamboat was hired for the purpose of towing a vessel, to which she was fastened, and"
+    },
+    {
+     "role": "footnote",
+     "text": "both were under the direction of a licensed pilot, the owner of the steamboat is not entitled to damages"
+    },
+    {
+     "role": "footnote",
+     "text": "on account of injury sustained in the course of navigation, and not caused by negligence of the pilot."
+    },
+    {
+     "role": "footnote",
+     "text": "Reeves et al. v. The Ship Constitution, Gilpin's D. C. R. 579."
+    },
+    {
+     "role": "footnote",
+     "text": "Assisting vessels in distress, beyond what the mere duty of pilot requires, entitles pilots to compen-"
+    },
+    {
+     "role": "footnote",
+     "text": "sation.  Delany, a Pilot v. The Sloop Peragio, Bee's Adm. Rep. 212."
+    },
+    {
+     "role": "footnote",
+     "text": "The brig Hope, with a valuable cargo, had been conducted, in the evening, by a pilot inside of"
+    },
+    {
+     "role": "footnote",
+     "text": "Mobile point, where pilots of the outer harbor usually leave vessels which they pilot inside of that"
+    },
+    {
+     "role": "footnote",
+     "text": "bar.  The pilot was discharged, and the Hope proceeded up the bay of Mobile.  The wind soon after"
+    },
+    {
+     "role": "footnote",
+     "text": "changed, blew a violent gale from the northwest, both anchors parted, and the Hope was driven on a"
+    },
+    {
+     "role": "footnote",
+     "text": "VOL. V.—20"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2844,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09853,
+   "seconds": 31.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 14193,
+   "output_tokens": 3151,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.15016,
+  "seconds": 35.0,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "suppressing the hostilities of any Indians; to be expended under the",
+    "kept": "suppressing the hostilities of any Indians; to be expended under the",
+    "reason": "Body line stands level with the sidenote \"How to be ex-\"; body text is read before the marginal note."
+   },
+   {
+    "run": 2,
+    "a": "suppressing the hostilities of any Indians; to be expended under the",
+    "b": "direction of the Secretary of War, conformably to the acts of Congress",
+    "kept": "direction of the Secretary of War, conformably to the acts of Congress",
+    "reason": "Next body line follows the sidenote \"How to be ex-\"."
+   },
+   {
+    "run": 3,
+    "a": "direction of the Secretary of War, conformably to the acts of Congress",
+    "b": "",
+    "kept": "",
+    "reason": "The \"direction of the Secretary\" line was already placed; nothing more printed here."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "United States of America in Congress assembled, That it shall be lawful",
+    "kept": "United States of America in Congress assembled, That it shall be lawful",
+    "reason": "This body line is level with sidenote \"Boys may be\" and precedes it in reading order."
+   },
+   {
+    "run": 5,
+    "a": "United States of America in Congress assembled, That it shall be lawful",
+    "b": "to enlist boys for the navy, with the consent of their parents or guar-",
+    "kept": "to enlist boys for the navy, with the consent of their parents or guar-",
+    "reason": "Follows the sidenote \"Boys may be\"; aligns with \"enlisted.\""
+   },
+   {
+    "run": 6,
+    "a": "to enlist boys for the navy, with the consent of their parents or guar-",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing additional printed here."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "lawful to enlist other persons for the navy, to serve for a period not",
+    "kept": "lawful to enlist other persons for the navy, to serve for a period not",
+    "reason": "Body line level with sidenote \"Other persons\", read first."
+   },
+   {
+    "run": 8,
+    "a": "lawful to enlist other persons for the navy, to serve for a period not",
+    "b": "exceeding five years, unless sooner discharged by direction of the",
+    "kept": "exceeding five years, unless sooner discharged by direction of the",
+    "reason": "Next body line, level with \"may be enlisted\"."
+   },
+   {
+    "run": 9,
+    "a": "exceeding five years, unless sooner discharged by direction of the",
+    "b": "President of the United States; and so much of an act entitled \" An",
+    "kept": "President of the United States; and so much of an act entitled \" An",
+    "reason": "Body line level with sidenote \"for five years.\""
+   },
+   {
+    "run": 10,
+    "a": "President of the United States; and so much of an act entitled \" An",
+    "b": "act to amend the act entitled ' An act to amend the act authorizing",
+    "kept": "act to amend the act entitled ' An act to amend the act authorizing",
+    "reason": "Body line level with sidenote \"So much of\"."
+   },
+   {
+    "run": 11,
+    "a": "act to amend the act entitled ' An act to amend the act authorizing",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing additional printed here."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "the provisions of this act, shall be, and is hereby, repealed.",
+    "kept": "the provisions of this act, shall be, and is hereby, repealed.",
+    "reason": "Body line follows sidenote \"as is inconsis-\" and precedes \"tent with this\"."
+   },
+   {
+    "run": 13,
+    "a": "the provisions of this act, shall be, and is hereby, repealed.",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing additional printed here."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "SEC. 2. And be it further enacted, That when the time of service of",
+    "kept": "SEC. 2. And be it further enacted, That when the time of service of",
+    "reason": "Body line is level with sidenote \"Any person\" and read before it."
+   },
+   {
+    "run": 15,
+    "a": "SEC. 2. And be it further enacted, That when the time of service of",
+    "b": "any person enlisted for the navy, shall expire, while he is on board any",
+    "kept": "any person enlisted for the navy, shall expire, while he is on board any",
+    "reason": "Next body line, level with \"whose time ex-\"."
+   },
+   {
+    "run": 16,
+    "a": "any person enlisted for the navy, shall expire, while he is on board any",
+    "b": "of the public vessels of the United States, employed on foreign service,",
+    "kept": "of the public vessels of the United States, employed on foreign service,",
+    "reason": "Body line level with \"pires while on\"."
+   },
+   {
+    "run": 17,
+    "a": "of the public vessels of the United States, employed on foreign service,",
+    "b": "it shall be the duty of the commanding officer of the fleet, squadron, or",
+    "kept": "it shall be the duty of the commanding officer of the fleet, squadron, or",
+    "reason": "Body line level with \"foreign service,\"."
+   },
+   {
+    "run": 18,
+    "a": "it shall be the duty of the commanding officer of the fleet, squadron, or",
+    "b": "vessel, in which such person may be, to send him to the United States",
+    "kept": "vessel, in which such person may be, to send him to the United States",
+    "reason": "Body line level with \"to be sent to U.\"."
+   },
+   {
+    "run": 19,
+    "a": "vessel, in which such person may be, to send him to the United States",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing additional printed here."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "SEC. 3. And be it further enacted, That such persons as may be",
+    "kept": "SEC. 3. And be it further enacted, That such persons as may be",
+    "reason": "Body line level with sidenote \"Persons de-\", read first."
+   },
+   {
+    "run": 21,
+    "a": "SEC. 3. And be it further enacted, That such persons as may be",
+    "b": "detained after the expiration of their enlistment, under the next pre-",
+    "kept": "detained after the expiration of their enlistment, under the next pre-",
+    "reason": "Next body line, level with \"tained to be\"."
+   },
+   {
+    "run": 22,
+    "a": "detained after the expiration of their enlistment, under the next pre-",
+    "b": "ceding section of this act, shall be subject, in all respects, to the laws",
+    "kept": "ceding section of this act, shall be subject, in all respects, to the laws",
+    "reason": "Body line level with \"subject to laws,\"."
+   },
+   {
+    "run": 23,
+    "a": "ceding section of this act, shall be subject, in all respects, to the laws",
+    "b": "and regulations for the government of the navy, until their return to",
+    "kept": "and regulations for the government of the navy, until their return to",
+    "reason": "Body line level with \"&c., of navy.\"."
+   },
+   {
+    "run": 24,
+    "a": "and regulations for the government of the navy, until their return to",
+    "b": "the United States, and all such persons as shall be so detained, and all",
+    "kept": "the United States, and all such persons as shall be so detained, and all",
+    "reason": "Body line level with \"Those who\"."
+   },
+   {
+    "run": 25,
+    "a": "the United States, and all such persons as shall be so detained, and all",
+    "b": "such as shall voluntarily re-enlist to serve until the return of the vessel",
+    "kept": "such as shall voluntarily re-enlist to serve until the return of the vessel",
+    "reason": "Body line level with \"re-enlist to re-\"."
+   },
+   {
+    "run": 26,
+    "a": "such as shall voluntarily re-enlist to serve until the return of the vessel",
+    "b": "in which they shall be serving, and their regular discharge therefrom",
+    "kept": "in which they shall be serving, and their regular discharge therefrom",
+    "reason": "Body line level with \"ceive additional\"."
+   },
+   {
+    "run": 27,
+    "a": "in which they shall be serving, and their regular discharge therefrom",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing additional printed here."
+   },
+   {
+    "run": 28,
+    "a": "VOL. V.—20",
+    "b": "VOL. V.—20",
+    "kept": "VOL. V.—20",
+    "reason": "Volume signature at foot of page, not part of the footnote text."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "TWENTY-FOURTH CONGRESS.  SESS. II. CH. 21, 22.   1837."
+  },
+  {
+   "role": "page-number",
+   "text": "153"
+  },
+  {
+   "role": "body",
+   "text": "out of any money in the Treasury not otherwise appropriated, to defray"
+  },
+  {
+   "role": "body",
+   "text": "any expenses which have been, or may be incurred, in preventing or"
+  },
+  {
+   "role": "body",
+   "text": "suppressing the hostilities of any Indians; to be expended under the"
+  },
+  {
+   "role": "sidenote",
+   "text": "How to be ex-"
+  },
+  {
+   "role": "body",
+   "text": "direction of the Secretary of War, conformably to the acts of Congress"
+  },
+  {
+   "role": "sidenote",
+   "text": "pended."
+  },
+  {
+   "role": "body",
+   "text": "of the 19th of March, and the second of July last, and of the acts"
+  },
+  {
+   "role": "body",
+   "text": "therein referred to."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 2, 1837."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXI.—An Act to provide for the enlistment of boys for the naval service,"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 2, 1837."
+  },
+  {
+   "role": "body",
+   "text": "and to extend the term of the enlistment of seamen."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That it shall be lawful"
+  },
+  {
+   "role": "sidenote",
+   "text": "Boys may be"
+  },
+  {
+   "role": "body",
+   "text": "to enlist boys for the navy, with the consent of their parents or guar-"
+  },
+  {
+   "role": "sidenote",
+   "text": "enlisted."
+  },
+  {
+   "role": "body",
+   "text": "dians, not being under thirteen, nor over eighteen years of age, to serve"
+  },
+  {
+   "role": "body",
+   "text": "until they shall arrive at the age of twenty-one years; and it shall be"
+  },
+  {
+   "role": "body",
+   "text": "lawful to enlist other persons for the navy, to serve for a period not"
+  },
+  {
+   "role": "sidenote",
+   "text": "Other persons"
+  },
+  {
+   "role": "body",
+   "text": "exceeding five years, unless sooner discharged by direction of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "may be enlisted"
+  },
+  {
+   "role": "body",
+   "text": "President of the United States; and so much of an act entitled \" An"
+  },
+  {
+   "role": "sidenote",
+   "text": "for five years."
+  },
+  {
+   "role": "body",
+   "text": "act to amend the act entitled ' An act to amend the act authorizing"
+  },
+  {
+   "role": "sidenote",
+   "text": "So much of"
+  },
+  {
+   "role": "sidenote",
+   "text": "act 15th May,"
+  },
+  {
+   "role": "body",
+   "text": "the employment of an additional naval force,' \" approved fifteenth"
+  },
+  {
+   "role": "sidenote",
+   "text": "1820, ch. 132,"
+  },
+  {
+   "role": "body",
+   "text": "May, one thousand eight hundred and twenty, as is inconsistent with"
+  },
+  {
+   "role": "sidenote",
+   "text": "as is inconsis-"
+  },
+  {
+   "role": "body",
+   "text": "the provisions of this act, shall be, and is hereby, repealed."
+  },
+  {
+   "role": "sidenote",
+   "text": "tent with this"
+  },
+  {
+   "role": "sidenote",
+   "text": "act, repealed."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That when the time of service of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Any person"
+  },
+  {
+   "role": "body",
+   "text": "any person enlisted for the navy, shall expire, while he is on board any"
+  },
+  {
+   "role": "sidenote",
+   "text": "whose time ex-"
+  },
+  {
+   "role": "body",
+   "text": "of the public vessels of the United States, employed on foreign service,"
+  },
+  {
+   "role": "sidenote",
+   "text": "pires while on"
+  },
+  {
+   "role": "body",
+   "text": "it shall be the duty of the commanding officer of the fleet, squadron, or"
+  },
+  {
+   "role": "sidenote",
+   "text": "foreign service,"
+  },
+  {
+   "role": "body",
+   "text": "vessel, in which such person may be, to send him to the United States"
+  },
+  {
+   "role": "sidenote",
+   "text": "to be sent to U."
+  },
+  {
+   "role": "sidenote",
+   "text": "States, &c."
+  },
+  {
+   "role": "body",
+   "text": "in some public or other vessel, unless his detention shall be essential to"
+  },
+  {
+   "role": "sidenote",
+   "text": "1845, ch. 77, § 9."
+  },
+  {
+   "role": "body",
+   "text": "the public interests, in which case the said officer may detain him until"
+  },
+  {
+   "role": "body",
+   "text": "the vessel in which he shall be serving shall return to the United States;"
+  },
+  {
+   "role": "body",
+   "text": "and it shall be the duty of said officer, immediately to make report to"
+  },
+  {
+   "role": "body",
+   "text": "the Navy Department, of such detention and the causes thereof."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That such persons as may be"
+  },
+  {
+   "role": "sidenote",
+   "text": "Persons de-"
+  },
+  {
+   "role": "body",
+   "text": "detained after the expiration of their enlistment, under the next pre-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tained to be"
+  },
+  {
+   "role": "body",
+   "text": "ceding section of this act, shall be subject, in all respects, to the laws"
+  },
+  {
+   "role": "sidenote",
+   "text": "subject to laws,"
+  },
+  {
+   "role": "body",
+   "text": "and regulations for the government of the navy, until their return to"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c., of navy."
+  },
+  {
+   "role": "body",
+   "text": "the United States, and all such persons as shall be so detained, and all"
+  },
+  {
+   "role": "sidenote",
+   "text": "Those who"
+  },
+  {
+   "role": "body",
+   "text": "such as shall voluntarily re-enlist to serve until the return of the vessel"
+  },
+  {
+   "role": "sidenote",
+   "text": "re-enlist to re-"
+  },
+  {
+   "role": "body",
+   "text": "in which they shall be serving, and their regular discharge therefrom"
+  },
+  {
+   "role": "sidenote",
+   "text": "ceive additional"
+  },
+  {
+   "role": "sidenote",
+   "text": "pay."
+  },
+  {
+   "role": "body",
+   "text": "in the United States, shall, while so detained and while so serving"
+  },
+  {
+   "role": "body",
+   "text": "under their re-enlistment, receive an addition of one-fourth to their"
+  },
+  {
+   "role": "body",
+   "text": "former pay."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 2, 1837."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXII.—An Act concerning Pilots. (a)"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 2, 1837."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Upon waters"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That it shall and may"
+  },
+  {
+   "role": "sidenote",
+   "text": "which are the"
+  },
+  {
+   "role": "footnote",
+   "text": "(a) Cases decided in the courts of the United States, as to Pilots and Pilotage."
+  },
+  {
+   "role": "footnote",
+   "text": "What a pilot does beyond the limits of his duty, as such, may be the foundation of a claim for"
+  },
+  {
+   "role": "footnote",
+   "text": "salvage; but not such acts as were within his duties.  Hand v. The Elvira, Gilpin's D. C. R. 65."
+  },
+  {
+   "role": "footnote",
+   "text": "Where a steamboat was hired for the purpose of towing a vessel, to which she was fastened, and"
+  },
+  {
+   "role": "footnote",
+   "text": "both were under the direction of a licensed pilot, the owner of the steamboat is not entitled to damages"
+  },
+  {
+   "role": "footnote",
+   "text": "on account of injury sustained in the course of navigation, and not caused by negligence of the pilot."
+  },
+  {
+   "role": "footnote",
+   "text": "Reeves et al. v. The Ship Constitution, Gilpin's D. C. R. 579."
+  },
+  {
+   "role": "footnote",
+   "text": "Assisting vessels in distress, beyond what the mere duty of pilot requires, entitles pilots to compen-"
+  },
+  {
+   "role": "footnote",
+   "text": "sation.  Delany, a Pilot v. The Sloop Peragio, Bee's Adm. Rep. 212."
+  },
+  {
+   "role": "footnote",
+   "text": "The brig Hope, with a valuable cargo, had been conducted, in the evening, by a pilot inside of"
+  },
+  {
+   "role": "footnote",
+   "text": "Mobile point, where pilots of the outer harbor usually leave vessels which they pilot inside of that"
+  },
+  {
+   "role": "footnote",
+   "text": "bar.  The pilot was discharged, and the Hope proceeded up the bay of Mobile.  The wind soon after"
+  },
+  {
+   "role": "footnote",
+   "text": "changed, blew a violent gale from the northwest, both anchors parted, and the Hope was driven on a"
+  },
+  {
+   "role": "body",
+   "text": "VOL. V.—20"
+  }
+ ],
+ "disagreement_count": 28,
+ "tokens": {
+  "input_tokens": 25016,
+  "output_tokens": 8836,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.34715,
+ "seconds": 98.3,
+ "created": "2026-09-08T11:24:25"
+}

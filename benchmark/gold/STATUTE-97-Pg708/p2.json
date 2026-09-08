@@ -1,0 +1,910 @@
+{
+ "granule_id": "STATUTE-97-Pg708",
+ "package_id": "STATUTE-97",
+ "volume": 97,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Challenge Grant Amendments of 1983",
+ "date_issued": "1983-09-26",
+ "pdf_page": 2,
+ "pdf_pages": 5,
+ "stat_page": "709",
+ "image": "data/gold/STATUTE-97-Pg708/p2.png",
+ "image_sha256": "e135a838e222ad75378dd34bab925d092fc57086f98b0ddd7669782cc5adc8c8",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98-95—SEPT. 26, 1983        97 STAT. 709"
+    },
+    {
+     "role": "sidenote",
+     "text": "Eligibility."
+    },
+    {
+     "role": "body",
+     "text": "\"(4)(A) An institution of higher education is eligible to receive a"
+    },
+    {
+     "role": "body",
+     "text": "grant under this section if it is an eligible institution as described in"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 1064."
+    },
+    {
+     "role": "body",
+     "text": "section 331(a)(1)."
+    },
+    {
+     "role": "body",
+     "text": "\"(B) No institution shall be ineligible for an endowment grant for"
+    },
+    {
+     "role": "body",
+     "text": "a fiscal year by reason of the previous receipt of such a grant, but no"
+    },
+    {
+     "role": "body",
+     "text": "institution shall be eligible to receive such a grant for more than"
+    },
+    {
+     "role": "body",
+     "text": "two fiscal years out of any period of five consecutive fiscal years."
+    },
+    {
+     "role": "body",
+     "text": "\"(5) An endowment grant under this section to an eligible institu-"
+    },
+    {
+     "role": "body",
+     "text": "tion year shall—"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) not be less than $50,000 for any fiscal year; and"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) not be more than (i) $250,000 for fiscal year 1984; or (ii)"
+    },
+    {
+     "role": "body",
+     "text": "$500,000 for fiscal year 1985 or any succeeding fiscal year."
+    },
+    {
+     "role": "body",
+     "text": "\"(6)(A) An eligible institution may designate a foundation, which"
+    },
+    {
+     "role": "body",
+     "text": "was established for the purpose of raising money for the institution,"
+    },
+    {
+     "role": "body",
+     "text": "as the recipient of the grant awarded under this section."
+    },
+    {
+     "role": "body",
+     "text": "\"(B) The Secretary shall not award a grant to a foundation on"
+    },
+    {
+     "role": "body",
+     "text": "behalf of an institution unless—"
+    },
+    {
+     "role": "body",
+     "text": "\"(i) the institution assures the Secretary that the foundation"
+    },
+    {
+     "role": "body",
+     "text": "is legally authorized to receive the endowment fund corpus and"
+    },
+    {
+     "role": "body",
+     "text": "is legally authorized to administer the fund in accordance with"
+    },
+    {
+     "role": "body",
+     "text": "this section and any implementing regulations;"
+    },
+    {
+     "role": "body",
+     "text": "\"(ii) the foundation agrees to administer the fund in accord-"
+    },
+    {
+     "role": "body",
+     "text": "ance with the requirements of this section and any implement-"
+    },
+    {
+     "role": "body",
+     "text": "ing regulation; and"
+    },
+    {
+     "role": "body",
+     "text": "\"(iii) the institution agrees to be liable for any violation by the"
+    },
+    {
+     "role": "body",
+     "text": "foundation of the provisions of this section and any implement-"
+    },
+    {
+     "role": "body",
+     "text": "ing regulations, including any monetary liability that may arise"
+    },
+    {
+     "role": "body",
+     "text": "as a result of such violation."
+    },
+    {
+     "role": "sidenote",
+     "text": "Agreement with"
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary."
+    },
+    {
+     "role": "body",
+     "text": "\"(c)(1) An institution awarded a grant under this section shall"
+    },
+    {
+     "role": "body",
+     "text": "enter into an agreement with the Secretary containing satisfactory"
+    },
+    {
+     "role": "body",
+     "text": "assurances that it will (A) immediately comply with the matching"
+    },
+    {
+     "role": "body",
+     "text": "requirements of subsection (b)(2), (B) establish an endowment fund"
+    },
+    {
+     "role": "body",
+     "text": "independent of any other such fund of the institution, (C) invest the"
+    },
+    {
+     "role": "body",
+     "text": "endowment fund corpus, and (D) meet the other requirements of this"
+    },
+    {
+     "role": "body",
+     "text": "section."
+    },
+    {
+     "role": "sidenote",
+     "text": "Investment"
+    },
+    {
+     "role": "sidenote",
+     "text": "requirements."
+    },
+    {
+     "role": "body",
+     "text": "\"(2)(A) An institution shall invest the endowment fund corpus and"
+    },
+    {
+     "role": "body",
+     "text": "endowment fund income in low-risk securities in which a regulated"
+    },
+    {
+     "role": "body",
+     "text": "insurance company may invest under the law of the State in which"
+    },
+    {
+     "role": "body",
+     "text": "the institution is located such as a federally insured bank savings"
+    },
+    {
+     "role": "body",
+     "text": "account or comparable interest bearing account, certificate of depos-"
+    },
+    {
+     "role": "body",
+     "text": "it, money market fund, mutual fund, or obligations of the United"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "body",
+     "text": "\"(B) The institution, in investing the endowment fund established"
+    },
+    {
+     "role": "body",
+     "text": "under this section, shall exercise the judgment and care, under the"
+    },
+    {
+     "role": "body",
+     "text": "circumstances then prevailing, which a person of prudence, discre-"
+    },
+    {
+     "role": "body",
+     "text": "tion, and intelligence would exercise in the management of his own"
+    },
+    {
+     "role": "body",
+     "text": "affairs."
+    },
+    {
+     "role": "body",
+     "text": "\"(3)(A) An institution may withdraw and expend the endowment"
+    },
+    {
+     "role": "body",
+     "text": "fund income to defray any expenses necessary to the operation of"
+    },
+    {
+     "role": "body",
+     "text": "such college, including expenses of operations and maintenance,"
+    },
+    {
+     "role": "body",
+     "text": "administration, academic and support personnel, construction and"
+    },
+    {
+     "role": "body",
+     "text": "renovation, community and student services programs, and techni-"
+    },
+    {
+     "role": "body",
+     "text": "cal assistance."
+    },
+    {
+     "role": "body",
+     "text": "\"(B)(i) Except as provided in clause (ii), an institution may not"
+    },
+    {
+     "role": "body",
+     "text": "spend more than 50 per centum of the total aggregate endowment"
+    },
+    {
+     "role": "body",
+     "text": "fund income earned prior to the time of expenditure."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 1823,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07245,
+   "seconds": 132.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98-95—SEPT. 26, 1983"
+    },
+    {
+     "role": "running-head",
+     "text": "97 STAT. 709"
+    },
+    {
+     "role": "body",
+     "text": "\"(4)(A) An institution of higher education is eligible to receive a"
+    },
+    {
+     "role": "sidenote",
+     "text": "Eligibility."
+    },
+    {
+     "role": "body",
+     "text": "grant under this section if it is an eligible institution as described in"
+    },
+    {
+     "role": "body",
+     "text": "section 331(a)(1)."
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 1064."
+    },
+    {
+     "role": "body",
+     "text": "\"(B) No institution shall be ineligible for an endowment grant for"
+    },
+    {
+     "role": "body",
+     "text": "a fiscal year by reason of the previous receipt of such a grant, but no"
+    },
+    {
+     "role": "body",
+     "text": "institution shall be eligible to receive such a grant for more than"
+    },
+    {
+     "role": "body",
+     "text": "two fiscal years out of any period of five consecutive fiscal years."
+    },
+    {
+     "role": "body",
+     "text": "\"(5) An endowment grant under this section to an eligible institu-"
+    },
+    {
+     "role": "body",
+     "text": "tion year shall—"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) not be less than $50,000 for any fiscal year; and"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) not be more than (i) $250,000 for fiscal year 1984; or (ii)"
+    },
+    {
+     "role": "body",
+     "text": "$500,000 for fiscal year 1985 or any succeeding fiscal year."
+    },
+    {
+     "role": "body",
+     "text": "\"(6)(A) An eligible institution may designate a foundation, which"
+    },
+    {
+     "role": "body",
+     "text": "was established for the purpose of raising money for the institution,"
+    },
+    {
+     "role": "body",
+     "text": "as the recipient of the grant awarded under this section."
+    },
+    {
+     "role": "body",
+     "text": "\"(B) The Secretary shall not award a grant to a foundation on"
+    },
+    {
+     "role": "body",
+     "text": "behalf of an institution unless—"
+    },
+    {
+     "role": "body",
+     "text": "\"(i) the institution assures the Secretary that the foundation"
+    },
+    {
+     "role": "body",
+     "text": "is legally authorized to receive the endowment fund corpus and"
+    },
+    {
+     "role": "body",
+     "text": "is legally authorized to administer the fund in accordance with"
+    },
+    {
+     "role": "body",
+     "text": "this section and any implementing regulations;"
+    },
+    {
+     "role": "body",
+     "text": "\"(ii) the foundation agrees to administer the fund in accord-"
+    },
+    {
+     "role": "body",
+     "text": "ance with the requirements of this section and any implement-"
+    },
+    {
+     "role": "body",
+     "text": "ing regulation; and"
+    },
+    {
+     "role": "body",
+     "text": "\"(iii) the institution agrees to be liable for any violation by the"
+    },
+    {
+     "role": "body",
+     "text": "foundation of the provisions of this section and any implement-"
+    },
+    {
+     "role": "body",
+     "text": "ing regulations, including any monetary liability that may arise"
+    },
+    {
+     "role": "body",
+     "text": "as a result of such violation."
+    },
+    {
+     "role": "body",
+     "text": "\"(c)(1) An institution awarded a grant under this section shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "Agreement with"
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary."
+    },
+    {
+     "role": "body",
+     "text": "enter into an agreement with the Secretary containing satisfactory"
+    },
+    {
+     "role": "body",
+     "text": "assurances that it will (A) immediately comply with the matching"
+    },
+    {
+     "role": "body",
+     "text": "requirements of subsection (b)(2), (B) establish an endowment fund"
+    },
+    {
+     "role": "body",
+     "text": "independent of any other such fund of the institution, (C) invest the"
+    },
+    {
+     "role": "body",
+     "text": "endowment fund corpus, and (D) meet the other requirements of this"
+    },
+    {
+     "role": "body",
+     "text": "section."
+    },
+    {
+     "role": "body",
+     "text": "\"(2)(A) An institution shall invest the endowment fund corpus and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Investment"
+    },
+    {
+     "role": "sidenote",
+     "text": "requirements."
+    },
+    {
+     "role": "body",
+     "text": "endowment fund income in low-risk securities in which a regulated"
+    },
+    {
+     "role": "body",
+     "text": "insurance company may invest under the law of the State in which"
+    },
+    {
+     "role": "body",
+     "text": "the institution is located such as a federally insured bank savings"
+    },
+    {
+     "role": "body",
+     "text": "account or comparable interest bearing account, certificate of depos-"
+    },
+    {
+     "role": "body",
+     "text": "it, money market fund, mutual fund, or obligations of the United"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "body",
+     "text": "\"(B) The institution, in investing the endowment fund established"
+    },
+    {
+     "role": "body",
+     "text": "under this section, shall exercise the judgment and care, under the"
+    },
+    {
+     "role": "body",
+     "text": "circumstances then prevailing, which a person of prudence, discre-"
+    },
+    {
+     "role": "body",
+     "text": "tion, and intelligence would exercise in the management of his own"
+    },
+    {
+     "role": "body",
+     "text": "affairs."
+    },
+    {
+     "role": "body",
+     "text": "\"(3)(A) An institution may withdraw and expend the endowment"
+    },
+    {
+     "role": "body",
+     "text": "fund income to defray any expenses necessary to the operation of"
+    },
+    {
+     "role": "body",
+     "text": "such college, including expenses of operations and maintenance,"
+    },
+    {
+     "role": "body",
+     "text": "administration, academic and support personnel, construction and"
+    },
+    {
+     "role": "body",
+     "text": "renovation, community and student services programs, and techni-"
+    },
+    {
+     "role": "body",
+     "text": "cal assistance."
+    },
+    {
+     "role": "body",
+     "text": "\"(B)(i) Except as provided in clause (ii), an institution may not"
+    },
+    {
+     "role": "body",
+     "text": "spend more than 50 per centum of the total aggregate endowment"
+    },
+    {
+     "role": "body",
+     "text": "fund income earned prior to the time of expenditure."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 1836,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07277,
+   "seconds": 131.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 10979,
+   "output_tokens": 1033,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.08114,
+  "seconds": 148.3,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "PUBLIC LAW 98-95—SEPT. 26, 1983        97 STAT. 709",
+    "b": "PUBLIC LAW 98-95—SEPT. 26, 1983\n97 STAT. 709\n\"(4)(A) An institution of higher education is eligible to receive a",
+    "kept": "PUBLIC LAW 98-95—SEPT. 26, 1983\n97 STAT. 709\n\"(4)(A) An institution of higher education is eligible to receive a",
+    "reason": "The head has two separated elements; the first body line follows, with the sidenote 'Eligibility.' set to its right."
+   },
+   {
+    "run": 2,
+    "a": "\"(4)(A) An institution of higher education is eligible to receive a",
+    "b": "",
+    "kept": "",
+    "reason": "That body line is already placed in run 1."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "section 331(a)(1).",
+    "kept": "section 331(a)(1).",
+    "reason": "Body line precedes its right-margin sidenote '20 USC 1064.'"
+   },
+   {
+    "run": 4,
+    "a": "section 331(a)(1).",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 3."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "\"(c)(1) An institution awarded a grant under this section shall",
+    "kept": "\"(c)(1) An institution awarded a grant under this section shall",
+    "reason": "Body line comes first; sidenote 'Agreement with/Secretary.' is aligned to its right."
+   },
+   {
+    "run": 6,
+    "a": "\"(c)(1) An institution awarded a grant under this section shall",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 5."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "\"(2)(A) An institution shall invest the endowment fund corpus and",
+    "kept": "\"(2)(A) An institution shall invest the endowment fund corpus and",
+    "reason": "Body line comes first; sidenote 'Investment/requirements.' is aligned to its right."
+   },
+   {
+    "run": 8,
+    "a": "\"(2)(A) An institution shall invest the endowment fund corpus and",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 7."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 98-95—SEPT. 26, 1983"
+  },
+  {
+   "role": "running-head",
+   "text": "97 STAT. 709"
+  },
+  {
+   "role": "body",
+   "text": "\"(4)(A) An institution of higher education is eligible to receive a"
+  },
+  {
+   "role": "sidenote",
+   "text": "Eligibility."
+  },
+  {
+   "role": "body",
+   "text": "grant under this section if it is an eligible institution as described in"
+  },
+  {
+   "role": "body",
+   "text": "section 331(a)(1)."
+  },
+  {
+   "role": "sidenote",
+   "text": "20 USC 1064."
+  },
+  {
+   "role": "body",
+   "text": "\"(B) No institution shall be ineligible for an endowment grant for"
+  },
+  {
+   "role": "body",
+   "text": "a fiscal year by reason of the previous receipt of such a grant, but no"
+  },
+  {
+   "role": "body",
+   "text": "institution shall be eligible to receive such a grant for more than"
+  },
+  {
+   "role": "body",
+   "text": "two fiscal years out of any period of five consecutive fiscal years."
+  },
+  {
+   "role": "body",
+   "text": "\"(5) An endowment grant under this section to an eligible institu-"
+  },
+  {
+   "role": "body",
+   "text": "tion year shall—"
+  },
+  {
+   "role": "body",
+   "text": "\"(A) not be less than $50,000 for any fiscal year; and"
+  },
+  {
+   "role": "body",
+   "text": "\"(B) not be more than (i) $250,000 for fiscal year 1984; or (ii)"
+  },
+  {
+   "role": "body",
+   "text": "$500,000 for fiscal year 1985 or any succeeding fiscal year."
+  },
+  {
+   "role": "body",
+   "text": "\"(6)(A) An eligible institution may designate a foundation, which"
+  },
+  {
+   "role": "body",
+   "text": "was established for the purpose of raising money for the institution,"
+  },
+  {
+   "role": "body",
+   "text": "as the recipient of the grant awarded under this section."
+  },
+  {
+   "role": "body",
+   "text": "\"(B) The Secretary shall not award a grant to a foundation on"
+  },
+  {
+   "role": "body",
+   "text": "behalf of an institution unless—"
+  },
+  {
+   "role": "body",
+   "text": "\"(i) the institution assures the Secretary that the foundation"
+  },
+  {
+   "role": "body",
+   "text": "is legally authorized to receive the endowment fund corpus and"
+  },
+  {
+   "role": "body",
+   "text": "is legally authorized to administer the fund in accordance with"
+  },
+  {
+   "role": "body",
+   "text": "this section and any implementing regulations;"
+  },
+  {
+   "role": "body",
+   "text": "\"(ii) the foundation agrees to administer the fund in accord-"
+  },
+  {
+   "role": "body",
+   "text": "ance with the requirements of this section and any implement-"
+  },
+  {
+   "role": "body",
+   "text": "ing regulation; and"
+  },
+  {
+   "role": "body",
+   "text": "\"(iii) the institution agrees to be liable for any violation by the"
+  },
+  {
+   "role": "body",
+   "text": "foundation of the provisions of this section and any implement-"
+  },
+  {
+   "role": "body",
+   "text": "ing regulations, including any monetary liability that may arise"
+  },
+  {
+   "role": "body",
+   "text": "as a result of such violation."
+  },
+  {
+   "role": "body",
+   "text": "\"(c)(1) An institution awarded a grant under this section shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "Agreement with"
+  },
+  {
+   "role": "sidenote",
+   "text": "Secretary."
+  },
+  {
+   "role": "body",
+   "text": "enter into an agreement with the Secretary containing satisfactory"
+  },
+  {
+   "role": "body",
+   "text": "assurances that it will (A) immediately comply with the matching"
+  },
+  {
+   "role": "body",
+   "text": "requirements of subsection (b)(2), (B) establish an endowment fund"
+  },
+  {
+   "role": "body",
+   "text": "independent of any other such fund of the institution, (C) invest the"
+  },
+  {
+   "role": "body",
+   "text": "endowment fund corpus, and (D) meet the other requirements of this"
+  },
+  {
+   "role": "body",
+   "text": "section."
+  },
+  {
+   "role": "body",
+   "text": "\"(2)(A) An institution shall invest the endowment fund corpus and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Investment"
+  },
+  {
+   "role": "sidenote",
+   "text": "requirements."
+  },
+  {
+   "role": "body",
+   "text": "endowment fund income in low-risk securities in which a regulated"
+  },
+  {
+   "role": "body",
+   "text": "insurance company may invest under the law of the State in which"
+  },
+  {
+   "role": "body",
+   "text": "the institution is located such as a federally insured bank savings"
+  },
+  {
+   "role": "body",
+   "text": "account or comparable interest bearing account, certificate of depos-"
+  },
+  {
+   "role": "body",
+   "text": "it, money market fund, mutual fund, or obligations of the United"
+  },
+  {
+   "role": "body",
+   "text": "States."
+  },
+  {
+   "role": "body",
+   "text": "\"(B) The institution, in investing the endowment fund established"
+  },
+  {
+   "role": "body",
+   "text": "under this section, shall exercise the judgment and care, under the"
+  },
+  {
+   "role": "body",
+   "text": "circumstances then prevailing, which a person of prudence, discre-"
+  },
+  {
+   "role": "body",
+   "text": "tion, and intelligence would exercise in the management of his own"
+  },
+  {
+   "role": "body",
+   "text": "affairs."
+  },
+  {
+   "role": "body",
+   "text": "\"(3)(A) An institution may withdraw and expend the endowment"
+  },
+  {
+   "role": "body",
+   "text": "fund income to defray any expenses necessary to the operation of"
+  },
+  {
+   "role": "body",
+   "text": "such college, including expenses of operations and maintenance,"
+  },
+  {
+   "role": "body",
+   "text": "administration, academic and support personnel, construction and"
+  },
+  {
+   "role": "body",
+   "text": "renovation, community and student services programs, and techni-"
+  },
+  {
+   "role": "body",
+   "text": "cal assistance."
+  },
+  {
+   "role": "body",
+   "text": "\"(B)(i) Except as provided in clause (ii), an institution may not"
+  },
+  {
+   "role": "body",
+   "text": "spend more than 50 per centum of the total aggregate endowment"
+  },
+  {
+   "role": "body",
+   "text": "fund income earned prior to the time of expenditure."
+  }
+ ],
+ "disagreement_count": 8,
+ "tokens": {
+  "input_tokens": 21578,
+  "output_tokens": 4692,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.22636,
+ "seconds": 411.7,
+ "created": "2026-09-08T12:20:34"
+}

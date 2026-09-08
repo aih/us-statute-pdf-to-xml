@@ -1,0 +1,1190 @@
+{
+ "granule_id": "STATUTE-54-Pg1119",
+ "package_id": "STATUTE-54",
+ "volume": 54,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To amend an Act entitled \"An Act authorizing construction of water conservation and utilization projects in the Great Plains and arid and semiarid areas of the United States\", approved August 1",
+ "date_issued": "1940-10-14",
+ "pdf_page": 7,
+ "pdf_pages": 7,
+ "stat_page": "1125",
+ "image": "data/gold/STATUTE-54-Pg1119/p7.png",
+ "image_sha256": "7a22d020f1c191467cc90f3c1088f0a8807037f3e3d18c8bc2cfc413040e18f9",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "54 STAT.]     76TH CONG., 3D SESS.—CHS. 861, 862—OCT. 14, 1940"
+    },
+    {
+     "role": "page-number",
+     "text": "1125"
+    },
+    {
+     "role": "body",
+     "text": "in the facilities provided for such municipal or miscellaneous water"
+    },
+    {
+     "role": "body",
+     "text": "supplies or surplus power and the revenues derived therefrom shall"
+    },
+    {
+     "role": "body",
+     "text": "be and remain in the United States.  Contracts for such municipal"
+    },
+    {
+     "role": "sidenote",
+     "text": "Rates."
+    },
+    {
+     "role": "body",
+     "text": "or miscellaneous water supplies or for such surplus power shall be"
+    },
+    {
+     "role": "body",
+     "text": "at such rates as, in the Secretary's judgment, will produce revenues"
+    },
+    {
+     "role": "body",
+     "text": "at least sufficient to cover the appropriate share of the annual opera-"
+    },
+    {
+     "role": "body",
+     "text": "tion and maintenance cost of the project and such fixed charges,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Duration of con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tracts."
+    },
+    {
+     "role": "body",
+     "text": "including interest, as the Secretary deems proper.  Contracts for"
+    },
+    {
+     "role": "body",
+     "text": "the sale of surplus power shall be for periods not to exceed forty"
+    },
+    {
+     "role": "body",
+     "text": "years and contracts for water supply for municipal or miscellaneous"
+    },
+    {
+     "role": "body",
+     "text": "purposes shall be for such periods as the Secretary may determine"
+    },
+    {
+     "role": "body",
+     "text": "and may include such renewal options as the Secretary deems"
+    },
+    {
+     "role": "sidenote",
+     "text": "Preference in sales"
+    },
+    {
+     "role": "sidenote",
+     "text": "or leases."
+    },
+    {
+     "role": "body",
+     "text": "desirable: And provided further, That in sales or leases of such"
+    },
+    {
+     "role": "body",
+     "text": "power, preference shall be given to municipalities and other public"
+    },
+    {
+     "role": "body",
+     "text": "corporations or agencies; and also to cooperatives and other non-"
+    },
+    {
+     "role": "body",
+     "text": "profit organizations financed in whole or in part by loans made"
+    },
+    {
+     "role": "sidenote",
+     "text": "49 Stat. 1363."
+    },
+    {
+     "role": "sidenote",
+     "text": "7 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 901-914."
+    },
+    {
+     "role": "body",
+     "text": "pursuant to the Rural Electrification Act of 1936 and any amend-"
+    },
+    {
+     "role": "body",
+     "text": "ments thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "Authority of Secre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tary to utilize Federal"
+    },
+    {
+     "role": "sidenote",
+     "text": "lands."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 10. (a) In connection with any project constructed pur-"
+    },
+    {
+     "role": "body",
+     "text": "suant to the provisions of this Act, the Secretary shall have the same"
+    },
+    {
+     "role": "body",
+     "text": "authority, with regard to the utilization of lands owned by the"
+    },
+    {
+     "role": "body",
+     "text": "United States, other than lands acquired under section 5 as he has in"
+    },
+    {
+     "role": "body",
+     "text": "connection with projects undertaken pursuant to the Federal reclama-"
+    },
+    {
+     "role": "sidenote",
+     "text": "43 U. S. C., ch. 12;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Supp. V, ch. 12."
+    },
+    {
+     "role": "body",
+     "text": "tion laws, Act of June 17, 1902 (32 Stat. 388), and Acts amendatory"
+    },
+    {
+     "role": "body",
+     "text": "thereof or supplementary thereto."
+    },
+    {
+     "role": "sidenote",
+     "text": "Authority to ac-"
+    },
+    {
+     "role": "sidenote",
+     "text": "quire lands, etc."
+    },
+    {
+     "role": "body",
+     "text": "\"(b) In connection with the construction or operation and main-"
+    },
+    {
+     "role": "body",
+     "text": "tenance of a project undertaken pursuant to the authority of this"
+    },
+    {
+     "role": "body",
+     "text": "Act, the Secretary shall have with respect to construction and sup-"
+    },
+    {
+     "role": "body",
+     "text": "ply contracts, and with respect to the acquisition, exchange, and"
+    },
+    {
+     "role": "body",
+     "text": "disposition of lands, interest in lands, water rights, and other prop-"
+    },
+    {
+     "role": "body",
+     "text": "erty and the relocation thereof, the same authority, including author-"
+    },
+    {
+     "role": "body",
+     "text": "ity to acquire lands and interests in land and water rights with"
+    },
+    {
+     "role": "body",
+     "text": "titles and at prices satisfactory to him, which he has in connection"
+    },
+    {
+     "role": "body",
+     "text": "with projects under the Federal reclamation laws."
+    },
+    {
+     "role": "sidenote",
+     "text": "Administrative pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "visions."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 11. The Secretary of the Interior and the Secretary of Agri-"
+    },
+    {
+     "role": "body",
+     "text": "culture are hereby authorized to perform any and all Acts and to"
+    },
+    {
+     "role": "body",
+     "text": "make such rules and regulations as may be necessary and proper for"
+    },
+    {
+     "role": "body",
+     "text": "the purpose of carrying out their respective functions under this"
+    },
+    {
+     "role": "body",
+     "text": "Act and for the purpose of carrying the provisions of this Act into"
+    },
+    {
+     "role": "body",
+     "text": "full force and effect."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriations au-"
+    },
+    {
+     "role": "sidenote",
+     "text": "thorized."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 12. To carry out the purposes of this Act there is hereby"
+    },
+    {
+     "role": "body",
+     "text": "authorized to be appropriated, out of any money in the Treasury"
+    },
+    {
+     "role": "body",
+     "text": "not otherwise appropriated (1) for the Department of the Interior"
+    },
+    {
+     "role": "body",
+     "text": "such sums as may be necessary to carry out its functions under this"
+    },
+    {
+     "role": "body",
+     "text": "Act, and (2) for the Department of Agriculture such sums as may"
+    },
+    {
+     "role": "body",
+     "text": "be necessary to carry out its functions under this Act.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved, October 14, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 862]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 14, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 10412]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 849]"
+    },
+    {
+     "role": "body",
+     "text": "To expedite the provision of housing in connection with national defense, and for"
+    },
+    {
+     "role": "body",
+     "text": "other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled,"
+    },
+    {
+     "role": "sidenote",
+     "text": "National defense"
+    },
+    {
+     "role": "sidenote",
+     "text": "housing."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. In order to provide housing for persons engaged in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Authority of Fed-"
+    },
+    {
+     "role": "sidenote",
+     "text": "eral Works Adminis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "trator."
+    },
+    {
+     "role": "body",
+     "text": "national-defense activities, and their families, in those areas or locali-"
+    },
+    {
+     "role": "body",
+     "text": "ties in which the President shall find that an acute shortage of hous-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, pp. 681, 1115."
+    },
+    {
+     "role": "body",
+     "text": "ing exists or impends which would impede national-defense activities"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2438,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08838,
+   "seconds": 27.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "54 STAT.]     76TH CONG., 3D SESS.—CHS. 861, 862—OCT. 14, 1940"
+    },
+    {
+     "role": "page-number",
+     "text": "1125"
+    },
+    {
+     "role": "body",
+     "text": "in the facilities provided for such municipal or miscellaneous water"
+    },
+    {
+     "role": "body",
+     "text": "supplies or surplus power and the revenues derived therefrom shall"
+    },
+    {
+     "role": "body",
+     "text": "be and remain in the United States.  Contracts for such municipal"
+    },
+    {
+     "role": "sidenote",
+     "text": "Rates."
+    },
+    {
+     "role": "body",
+     "text": "or miscellaneous water supplies or for such surplus power shall be"
+    },
+    {
+     "role": "body",
+     "text": "at such rates as, in the Secretary's judgment, will produce revenues"
+    },
+    {
+     "role": "body",
+     "text": "at least sufficient to cover the appropriate share of the annual opera-"
+    },
+    {
+     "role": "body",
+     "text": "tion and maintenance cost of the project and such fixed charges,"
+    },
+    {
+     "role": "body",
+     "text": "including interest, as the Secretary deems proper.  Contracts for"
+    },
+    {
+     "role": "sidenote",
+     "text": "Duration of con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tracts."
+    },
+    {
+     "role": "body",
+     "text": "the sale of surplus power shall be for periods not to exceed forty"
+    },
+    {
+     "role": "body",
+     "text": "years and contracts for water supply for municipal or miscellaneous"
+    },
+    {
+     "role": "body",
+     "text": "purposes shall be for such periods as the Secretary may determine"
+    },
+    {
+     "role": "body",
+     "text": "and may include such renewal options as the Secretary deems"
+    },
+    {
+     "role": "sidenote",
+     "text": "Preference in sales"
+    },
+    {
+     "role": "sidenote",
+     "text": "or leases."
+    },
+    {
+     "role": "body",
+     "text": "desirable: And provided further, That in sales or leases of such"
+    },
+    {
+     "role": "body",
+     "text": "power, preference shall be given to municipalities and other public"
+    },
+    {
+     "role": "body",
+     "text": "corporations or agencies; and also to cooperatives and other non-"
+    },
+    {
+     "role": "body",
+     "text": "profit organizations financed in whole or in part by loans made"
+    },
+    {
+     "role": "sidenote",
+     "text": "49 Stat. 1363."
+    },
+    {
+     "role": "sidenote",
+     "text": "7 U. S. C., Supp. V,"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 901-914."
+    },
+    {
+     "role": "body",
+     "text": "pursuant to the Rural Electrification Act of 1936 and any amend-"
+    },
+    {
+     "role": "body",
+     "text": "ments thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "Authority of Secre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tary to utilize Federal"
+    },
+    {
+     "role": "sidenote",
+     "text": "lands."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 10. (a) In connection with any project constructed pur-"
+    },
+    {
+     "role": "body",
+     "text": "suant to the provisions of this Act, the Secretary shall have the same"
+    },
+    {
+     "role": "body",
+     "text": "authority, with regard to the utilization of lands owned by the"
+    },
+    {
+     "role": "body",
+     "text": "United States, other than lands acquired under section 5 as he has in"
+    },
+    {
+     "role": "body",
+     "text": "connection with projects undertaken pursuant to the Federal reclama-"
+    },
+    {
+     "role": "sidenote",
+     "text": "43 U. S. C., ch. 12;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Supp. V, ch. 12."
+    },
+    {
+     "role": "body",
+     "text": "tion laws, Act of June 17, 1902 (32 Stat. 388), and Acts amendatory"
+    },
+    {
+     "role": "body",
+     "text": "thereof or supplementary thereto."
+    },
+    {
+     "role": "sidenote",
+     "text": "Authority to ac-"
+    },
+    {
+     "role": "sidenote",
+     "text": "quire lands, etc."
+    },
+    {
+     "role": "body",
+     "text": "\"(b) In connection with the construction or operation and main-"
+    },
+    {
+     "role": "body",
+     "text": "tenance of a project undertaken pursuant to the authority of this"
+    },
+    {
+     "role": "body",
+     "text": "Act, the Secretary shall have with respect to construction and sup-"
+    },
+    {
+     "role": "body",
+     "text": "ply contracts, and with respect to the acquisition, exchange, and"
+    },
+    {
+     "role": "body",
+     "text": "disposition of lands, interest in lands, water rights, and other prop-"
+    },
+    {
+     "role": "body",
+     "text": "erty and the relocation thereof, the same authority, including author-"
+    },
+    {
+     "role": "body",
+     "text": "ity to acquire lands and interests in land and water rights with"
+    },
+    {
+     "role": "body",
+     "text": "titles and at prices satisfactory to him, which he has in connection"
+    },
+    {
+     "role": "body",
+     "text": "with projects under the Federal reclamation laws."
+    },
+    {
+     "role": "sidenote",
+     "text": "Administrative pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "visions."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 11. The Secretary of the Interior and the Secretary of Agri-"
+    },
+    {
+     "role": "body",
+     "text": "culture are hereby authorized to perform any and all Acts and to"
+    },
+    {
+     "role": "body",
+     "text": "make such rules and regulations as may be necessary and proper for"
+    },
+    {
+     "role": "body",
+     "text": "the purpose of carrying out their respective functions under this"
+    },
+    {
+     "role": "body",
+     "text": "Act and for the purpose of carrying the provisions of this Act into"
+    },
+    {
+     "role": "body",
+     "text": "full force and effect."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriations au-"
+    },
+    {
+     "role": "sidenote",
+     "text": "thorized."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 12. To carry out the purposes of this Act there is hereby"
+    },
+    {
+     "role": "body",
+     "text": "authorized to be appropriated, out of any money in the Treasury"
+    },
+    {
+     "role": "body",
+     "text": "not otherwise appropriated (1) for the Department of the Interior"
+    },
+    {
+     "role": "body",
+     "text": "such sums as may be necessary to carry out its functions under this"
+    },
+    {
+     "role": "body",
+     "text": "Act, and (2) for the Department of Agriculture such sums as may"
+    },
+    {
+     "role": "body",
+     "text": "be necessary to carry out its functions under this Act.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved, October 14, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 862]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 14, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 10412]"
+    },
+    {
+     "role": "body",
+     "text": "To expedite the provision of housing in connection with national defense, and for"
+    },
+    {
+     "role": "body",
+     "text": "other purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 849]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled,"
+    },
+    {
+     "role": "sidenote",
+     "text": "National defense"
+    },
+    {
+     "role": "sidenote",
+     "text": "housing."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. In order to provide housing for persons engaged in"
+    },
+    {
+     "role": "body",
+     "text": "national-defense activities, and their families, in those areas or locali-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Authority of Fed-"
+    },
+    {
+     "role": "sidenote",
+     "text": "eral Works Adminis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "trator."
+    },
+    {
+     "role": "body",
+     "text": "ties in which the President shall find that an acute shortage of hous-"
+    },
+    {
+     "role": "body",
+     "text": "ing exists or impends which would impede national-defense activities"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, pp. 681, 1115."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2438,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08838,
+   "seconds": 27.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11952,
+   "output_tokens": 1856,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.10658,
+  "seconds": 25.7,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "including interest, as the Secretary deems proper.  Contracts for",
+    "kept": "",
+    "reason": "The sidenote \"Duration of con-/tracts.\" is set level with \"including interest...\"; the body line follows the sidenote block, so nothing is printed here."
+   },
+   {
+    "run": 2,
+    "a": "including interest, as the Secretary deems proper.  Contracts for",
+    "b": "",
+    "kept": "including interest, as the Secretary deems proper.  Contracts for",
+    "reason": "This body line is aligned with the \"Duration of contracts.\" sidenote and thus follows it."
+   },
+   {
+    "run": 3,
+    "a": "[Public, No. 849]",
+    "b": "",
+    "kept": "[Public, No. 849]",
+    "reason": "The sidenote block October 14, 1940 / [H. R. 10412] / [Public, No. 849] is printed as one unit beside the act heading."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "[Public, No. 849]",
+    "kept": "",
+    "reason": "The [Public, No. 849] sidenote belongs to the preceding sidenote block; nothing additional is printed here."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "national-defense activities, and their families, in those areas or locali-",
+    "kept": "",
+    "reason": "The \"Authority of Federal Works Administrator.\" sidenote begins level with the \"national-defense activities\" line and precedes it."
+   },
+   {
+    "run": 6,
+    "a": "national-defense activities, and their families, in those areas or locali-",
+    "b": "",
+    "kept": "national-defense activities, and their families, in those areas or locali-",
+    "reason": "This body line follows the sidenote block it is aligned with."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "ing exists or impends which would impede national-defense activities",
+    "kept": "",
+    "reason": "The \"Ante, pp. 681, 1115.\" sidenote is level with the final body line and precedes it."
+   },
+   {
+    "run": 8,
+    "a": "ing exists or impends which would impede national-defense activities",
+    "b": "",
+    "kept": "ing exists or impends which would impede national-defense activities",
+    "reason": "Final body line of the page, printed after the aligned sidenote."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "54 STAT.]     76TH CONG., 3D SESS.—CHS. 861, 862—OCT. 14, 1940"
+  },
+  {
+   "role": "page-number",
+   "text": "1125"
+  },
+  {
+   "role": "body",
+   "text": "in the facilities provided for such municipal or miscellaneous water"
+  },
+  {
+   "role": "body",
+   "text": "supplies or surplus power and the revenues derived therefrom shall"
+  },
+  {
+   "role": "body",
+   "text": "be and remain in the United States.  Contracts for such municipal"
+  },
+  {
+   "role": "sidenote",
+   "text": "Rates."
+  },
+  {
+   "role": "body",
+   "text": "or miscellaneous water supplies or for such surplus power shall be"
+  },
+  {
+   "role": "body",
+   "text": "at such rates as, in the Secretary's judgment, will produce revenues"
+  },
+  {
+   "role": "body",
+   "text": "at least sufficient to cover the appropriate share of the annual opera-"
+  },
+  {
+   "role": "body",
+   "text": "tion and maintenance cost of the project and such fixed charges,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Duration of con-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tracts."
+  },
+  {
+   "role": "body",
+   "text": "including interest, as the Secretary deems proper.  Contracts for"
+  },
+  {
+   "role": "body",
+   "text": "the sale of surplus power shall be for periods not to exceed forty"
+  },
+  {
+   "role": "body",
+   "text": "years and contracts for water supply for municipal or miscellaneous"
+  },
+  {
+   "role": "body",
+   "text": "purposes shall be for such periods as the Secretary may determine"
+  },
+  {
+   "role": "body",
+   "text": "and may include such renewal options as the Secretary deems"
+  },
+  {
+   "role": "sidenote",
+   "text": "Preference in sales"
+  },
+  {
+   "role": "sidenote",
+   "text": "or leases."
+  },
+  {
+   "role": "body",
+   "text": "desirable: And provided further, That in sales or leases of such"
+  },
+  {
+   "role": "body",
+   "text": "power, preference shall be given to municipalities and other public"
+  },
+  {
+   "role": "body",
+   "text": "corporations or agencies; and also to cooperatives and other non-"
+  },
+  {
+   "role": "body",
+   "text": "profit organizations financed in whole or in part by loans made"
+  },
+  {
+   "role": "sidenote",
+   "text": "49 Stat. 1363."
+  },
+  {
+   "role": "sidenote",
+   "text": "7 U. S. C., Supp. V,"
+  },
+  {
+   "role": "sidenote",
+   "text": "§§ 901-914."
+  },
+  {
+   "role": "body",
+   "text": "pursuant to the Rural Electrification Act of 1936 and any amend-"
+  },
+  {
+   "role": "body",
+   "text": "ments thereof."
+  },
+  {
+   "role": "sidenote",
+   "text": "Authority of Secre-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tary to utilize Federal"
+  },
+  {
+   "role": "sidenote",
+   "text": "lands."
+  },
+  {
+   "role": "body",
+   "text": "\"SEC. 10. (a) In connection with any project constructed pur-"
+  },
+  {
+   "role": "body",
+   "text": "suant to the provisions of this Act, the Secretary shall have the same"
+  },
+  {
+   "role": "body",
+   "text": "authority, with regard to the utilization of lands owned by the"
+  },
+  {
+   "role": "body",
+   "text": "United States, other than lands acquired under section 5 as he has in"
+  },
+  {
+   "role": "body",
+   "text": "connection with projects undertaken pursuant to the Federal reclama-"
+  },
+  {
+   "role": "sidenote",
+   "text": "43 U. S. C., ch. 12;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Supp. V, ch. 12."
+  },
+  {
+   "role": "body",
+   "text": "tion laws, Act of June 17, 1902 (32 Stat. 388), and Acts amendatory"
+  },
+  {
+   "role": "body",
+   "text": "thereof or supplementary thereto."
+  },
+  {
+   "role": "sidenote",
+   "text": "Authority to ac-"
+  },
+  {
+   "role": "sidenote",
+   "text": "quire lands, etc."
+  },
+  {
+   "role": "body",
+   "text": "\"(b) In connection with the construction or operation and main-"
+  },
+  {
+   "role": "body",
+   "text": "tenance of a project undertaken pursuant to the authority of this"
+  },
+  {
+   "role": "body",
+   "text": "Act, the Secretary shall have with respect to construction and sup-"
+  },
+  {
+   "role": "body",
+   "text": "ply contracts, and with respect to the acquisition, exchange, and"
+  },
+  {
+   "role": "body",
+   "text": "disposition of lands, interest in lands, water rights, and other prop-"
+  },
+  {
+   "role": "body",
+   "text": "erty and the relocation thereof, the same authority, including author-"
+  },
+  {
+   "role": "body",
+   "text": "ity to acquire lands and interests in land and water rights with"
+  },
+  {
+   "role": "body",
+   "text": "titles and at prices satisfactory to him, which he has in connection"
+  },
+  {
+   "role": "body",
+   "text": "with projects under the Federal reclamation laws."
+  },
+  {
+   "role": "sidenote",
+   "text": "Administrative pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "visions."
+  },
+  {
+   "role": "body",
+   "text": "\"SEC. 11. The Secretary of the Interior and the Secretary of Agri-"
+  },
+  {
+   "role": "body",
+   "text": "culture are hereby authorized to perform any and all Acts and to"
+  },
+  {
+   "role": "body",
+   "text": "make such rules and regulations as may be necessary and proper for"
+  },
+  {
+   "role": "body",
+   "text": "the purpose of carrying out their respective functions under this"
+  },
+  {
+   "role": "body",
+   "text": "Act and for the purpose of carrying the provisions of this Act into"
+  },
+  {
+   "role": "body",
+   "text": "full force and effect."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriations au-"
+  },
+  {
+   "role": "sidenote",
+   "text": "thorized."
+  },
+  {
+   "role": "body",
+   "text": "\"SEC. 12. To carry out the purposes of this Act there is hereby"
+  },
+  {
+   "role": "body",
+   "text": "authorized to be appropriated, out of any money in the Treasury"
+  },
+  {
+   "role": "body",
+   "text": "not otherwise appropriated (1) for the Department of the Interior"
+  },
+  {
+   "role": "body",
+   "text": "such sums as may be necessary to carry out its functions under this"
+  },
+  {
+   "role": "body",
+   "text": "Act, and (2) for the Department of Agriculture such sums as may"
+  },
+  {
+   "role": "body",
+   "text": "be necessary to carry out its functions under this Act.\""
+  },
+  {
+   "role": "body",
+   "text": "Approved, October 14, 1940."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 862]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "October 14, 1940"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 10412]"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 849]"
+  },
+  {
+   "role": "body",
+   "text": "To expedite the provision of housing in connection with national defense, and for"
+  },
+  {
+   "role": "body",
+   "text": "other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled,"
+  },
+  {
+   "role": "sidenote",
+   "text": "National defense"
+  },
+  {
+   "role": "sidenote",
+   "text": "housing."
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. In order to provide housing for persons engaged in"
+  },
+  {
+   "role": "sidenote",
+   "text": "Authority of Fed-"
+  },
+  {
+   "role": "sidenote",
+   "text": "eral Works Adminis-"
+  },
+  {
+   "role": "sidenote",
+   "text": "trator."
+  },
+  {
+   "role": "body",
+   "text": "national-defense activities, and their families, in those areas or locali-"
+  },
+  {
+   "role": "body",
+   "text": "ties in which the President shall find that an acute shortage of hous-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, pp. 681, 1115."
+  },
+  {
+   "role": "body",
+   "text": "ing exists or impends which would impede national-defense activities"
+  }
+ ],
+ "disagreement_count": 8,
+ "tokens": {
+  "input_tokens": 22775,
+  "output_tokens": 6732,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.28334,
+ "seconds": 80.5,
+ "created": "2026-09-08T11:22:46"
+}

@@ -1,0 +1,501 @@
+{
+ "granule_id": "STATUTE-103-Pg630",
+ "package_id": "STATUTE-103",
+ "volume": 103,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Joint resolution to designate the period commencing September 11, 1989, and ending on September 15, 1989, as \"National Historically Black Colleges Week\"",
+ "date_issued": "1989-09-13",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "630",
+ "image": "data/gold/STATUTE-103-Pg630/p1.png",
+ "image_sha256": "e05b9e83edbdf0a9524509ac172a55e23b96d877aa107a8dcecc1912b66bed75",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "103 STAT. 630                PUBLIC LAW 101-95—SEPT. 13, 1989"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 101-95"
+    },
+    {
+     "role": "body",
+     "text": "101st Congress"
+    },
+    {
+     "role": "body",
+     "text": "Joint Resolution"
+    },
+    {
+     "role": "sidenote",
+     "text": "Sept. 13, 1989"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S.J. Res. 109]"
+    },
+    {
+     "role": "body",
+     "text": "To designate the period commencing September 11, 1989, and ending on Septem-"
+    },
+    {
+     "role": "body",
+     "text": "ber 15, 1989, as \"National Historically Black Colleges Week\"."
+    },
+    {
+     "role": "body",
+     "text": "Whereas there are 107 Historically Black Colleges and Universities"
+    },
+    {
+     "role": "body",
+     "text": "in the United States;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas such colleges and universities provide the quality edu-"
+    },
+    {
+     "role": "body",
+     "text": "cation so essential to full participation in a complex, highly"
+    },
+    {
+     "role": "body",
+     "text": "technological society;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas black colleges and universities have a rich heritage and"
+    },
+    {
+     "role": "body",
+     "text": "have played a prominent role in American history;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas such institutions have allowed many underprivileged stu-"
+    },
+    {
+     "role": "body",
+     "text": "dents to attain their full potential through higher education; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the achievements and goals of the Historically Black Col-"
+    },
+    {
+     "role": "body",
+     "text": "leges are deserving of national recognition: Now, therefore, be it"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the period commenc-"
+    },
+    {
+     "role": "body",
+     "text": "ing September 11, 1989, and ending on September 15, 1989, is"
+    },
+    {
+     "role": "body",
+     "text": "designated as \"National Historically Black Colleges Week\" and the"
+    },
+    {
+     "role": "body",
+     "text": "President of the United States is authorized and requested to issue a"
+    },
+    {
+     "role": "body",
+     "text": "proclamation calling upon the people of the United States and"
+    },
+    {
+     "role": "body",
+     "text": "interested groups to observe such week with appropriate cere-"
+    },
+    {
+     "role": "body",
+     "text": "monies, activities, and programs, thereby demonstrating support for"
+    },
+    {
+     "role": "body",
+     "text": "Historically Black Colleges and Universities in the United States."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 13, 1989."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—S.J. Res. 109:"
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+    },
+    {
+     "role": "footnote",
+     "text": "June 9, considered and passed Senate."
+    },
+    {
+     "role": "footnote",
+     "text": "Sept. 12, considered and passed House."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5354,
+    "output_tokens": 973,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.05148,
+   "seconds": 12.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "103 STAT. 630"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 101-95—SEPT. 13, 1989"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 101-95"
+    },
+    {
+     "role": "body",
+     "text": "101st Congress"
+    },
+    {
+     "role": "body",
+     "text": "Joint Resolution"
+    },
+    {
+     "role": "sidenote",
+     "text": "Sept. 13, 1989"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S.J. Res. 109]"
+    },
+    {
+     "role": "body",
+     "text": "To designate the period commencing September 11, 1989, and ending on Septem-"
+    },
+    {
+     "role": "body",
+     "text": "ber 15, 1989, as \"National Historically Black Colleges Week\"."
+    },
+    {
+     "role": "body",
+     "text": "Whereas there are 107 Historically Black Colleges and Universities"
+    },
+    {
+     "role": "body",
+     "text": "in the United States;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas such colleges and universities provide the quality edu-"
+    },
+    {
+     "role": "body",
+     "text": "cation so essential to full participation in a complex, highly"
+    },
+    {
+     "role": "body",
+     "text": "technological society;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas black colleges and universities have a rich heritage and"
+    },
+    {
+     "role": "body",
+     "text": "have played a prominent role in American history;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas such institutions have allowed many underprivileged stu-"
+    },
+    {
+     "role": "body",
+     "text": "dents to attain their full potential through higher education; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the achievements and goals of the Historically Black Col-"
+    },
+    {
+     "role": "body",
+     "text": "leges are deserving of national recognition: Now, therefore, be it"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the period commenc-"
+    },
+    {
+     "role": "body",
+     "text": "ing September 11, 1989, and ending on September 15, 1989, is"
+    },
+    {
+     "role": "body",
+     "text": "designated as \"National Historically Black Colleges Week\" and the"
+    },
+    {
+     "role": "body",
+     "text": "President of the United States is authorized and requested to issue a"
+    },
+    {
+     "role": "body",
+     "text": "proclamation calling upon the people of the United States and"
+    },
+    {
+     "role": "body",
+     "text": "interested groups to observe such week with appropriate cere-"
+    },
+    {
+     "role": "body",
+     "text": "monies, activities, and programs, thereby demonstrating support for"
+    },
+    {
+     "role": "body",
+     "text": "Historically Black Colleges and Universities in the United States."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 13, 1989."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—S.J. Res. 109:"
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+    },
+    {
+     "role": "footnote",
+     "text": "June 9, considered and passed Senate."
+    },
+    {
+     "role": "footnote",
+     "text": "Sept. 12, considered and passed House."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5357,
+    "output_tokens": 986,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0518,
+   "seconds": 12.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 9243,
+   "output_tokens": 132,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.04993,
+  "seconds": 4.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "103 STAT. 630                PUBLIC LAW 101-95—SEPT. 13, 1989",
+    "b": "103 STAT. 630\nPUBLIC LAW 101-95—SEPT. 13, 1989",
+    "kept": "103 STAT. 630\nPUBLIC LAW 101-95—SEPT. 13, 1989",
+    "reason": "The header consists of two separate elements (page-stat marker at left, law title centered); treating them as separate lines matches the printed layout."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "103 STAT. 630"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 101-95—SEPT. 13, 1989"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 101-95"
+  },
+  {
+   "role": "body",
+   "text": "101st Congress"
+  },
+  {
+   "role": "body",
+   "text": "Joint Resolution"
+  },
+  {
+   "role": "sidenote",
+   "text": "Sept. 13, 1989"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S.J. Res. 109]"
+  },
+  {
+   "role": "body",
+   "text": "To designate the period commencing September 11, 1989, and ending on Septem-"
+  },
+  {
+   "role": "body",
+   "text": "ber 15, 1989, as \"National Historically Black Colleges Week\"."
+  },
+  {
+   "role": "body",
+   "text": "Whereas there are 107 Historically Black Colleges and Universities"
+  },
+  {
+   "role": "body",
+   "text": "in the United States;"
+  },
+  {
+   "role": "body",
+   "text": "Whereas such colleges and universities provide the quality edu-"
+  },
+  {
+   "role": "body",
+   "text": "cation so essential to full participation in a complex, highly"
+  },
+  {
+   "role": "body",
+   "text": "technological society;"
+  },
+  {
+   "role": "body",
+   "text": "Whereas black colleges and universities have a rich heritage and"
+  },
+  {
+   "role": "body",
+   "text": "have played a prominent role in American history;"
+  },
+  {
+   "role": "body",
+   "text": "Whereas such institutions have allowed many underprivileged stu-"
+  },
+  {
+   "role": "body",
+   "text": "dents to attain their full potential through higher education; and"
+  },
+  {
+   "role": "body",
+   "text": "Whereas the achievements and goals of the Historically Black Col-"
+  },
+  {
+   "role": "body",
+   "text": "leges are deserving of national recognition: Now, therefore, be it"
+  },
+  {
+   "role": "body",
+   "text": "Resolved by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the period commenc-"
+  },
+  {
+   "role": "body",
+   "text": "ing September 11, 1989, and ending on September 15, 1989, is"
+  },
+  {
+   "role": "body",
+   "text": "designated as \"National Historically Black Colleges Week\" and the"
+  },
+  {
+   "role": "body",
+   "text": "President of the United States is authorized and requested to issue a"
+  },
+  {
+   "role": "body",
+   "text": "proclamation calling upon the people of the United States and"
+  },
+  {
+   "role": "body",
+   "text": "interested groups to observe such week with appropriate cere-"
+  },
+  {
+   "role": "body",
+   "text": "monies, activities, and programs, thereby demonstrating support for"
+  },
+  {
+   "role": "body",
+   "text": "Historically Black Colleges and Universities in the United States."
+  },
+  {
+   "role": "body",
+   "text": "Approved September 13, 1989."
+  },
+  {
+   "role": "footnote",
+   "text": "LEGISLATIVE HISTORY—S.J. Res. 109:"
+  },
+  {
+   "role": "footnote",
+   "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+  },
+  {
+   "role": "footnote",
+   "text": "June 9, considered and passed Senate."
+  },
+  {
+   "role": "footnote",
+   "text": "Sept. 12, considered and passed House."
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 19954,
+  "output_tokens": 2091,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.15321,
+ "seconds": 29.1,
+ "created": "2026-09-08T12:30:41"
+}

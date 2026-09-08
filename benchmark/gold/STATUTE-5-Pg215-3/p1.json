@@ -1,0 +1,1651 @@
+{
+ "granule_id": "STATUTE-5-Pg215-3",
+ "package_id": "STATUTE-5",
+ "volume": 5,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to restore circuit jurisdiction to the district courts of the western district of Virginia. (a)",
+ "date_issued": "1838-03-28",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "215",
+ "image": "data/gold/STATUTE-5-Pg215-3/p1.png",
+ "image_sha256": "bc657e814d45b29bf828a2e81b14658b4c0f4f174dc463231c8a238c84ce47a2",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "TWENTY-FIFTH CONGRESS.  SESS. II. CH. 33, 34, 46.  1838."
+    },
+    {
+     "role": "page-number",
+     "text": "215"
+    },
+    {
+     "role": "sidenote",
+     "text": "For half-pay"
+    },
+    {
+     "role": "body",
+     "text": "For half-pay pensions, payable through the office of the Third Audi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "pensions paya-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ble through off."
+    },
+    {
+     "role": "body",
+     "text": "tor, five thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Third Auditor."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 10, 1838."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXIII.—An Act to change the times of holding the circuit and district"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 10, 1838."
+    },
+    {
+     "role": "body",
+     "text": "courts of the United States in the seventh circuit."
+    },
+    {
+     "role": "sidenote",
+     "text": "1842, ch, 31."
+    },
+    {
+     "role": "sidenote",
+     "text": "Times of hold-"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing the circuit"
+    },
+    {
+     "role": "sidenote",
+     "text": "and district"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the circuit"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts U. S. in"
+    },
+    {
+     "role": "body",
+     "text": "and district courts of the United States shall be held in the district of"
+    },
+    {
+     "role": "sidenote",
+     "text": "the districts of"
+    },
+    {
+     "role": "body",
+     "text": "Indiana, at the seat of Government in said State, on the third Mondays"
+    },
+    {
+     "role": "sidenote",
+     "text": "Indiana, Illinois,"
+    },
+    {
+     "role": "body",
+     "text": "of May and November; at the seat of Government in the district of"
+    },
+    {
+     "role": "sidenote",
+     "text": "and Michigan."
+    },
+    {
+     "role": "body",
+     "text": "Illinois, on the first Mondays of June and December; in the district"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of March"
+    },
+    {
+     "role": "body",
+     "text": "of Michigan, at the seat of Government in said State, on the third"
+    },
+    {
+     "role": "sidenote",
+     "text": "3, 1837, ch. 34."
+    },
+    {
+     "role": "body",
+     "text": "Monday in June and the first Monday in November; and in the district"
+    },
+    {
+     "role": "sidenote",
+     "text": "All recogni-"
+    },
+    {
+     "role": "body",
+     "text": "of Ohio, at the seat of Government in said State, on the first Monday"
+    },
+    {
+     "role": "sidenote",
+     "text": "zances, &c.,"
+    },
+    {
+     "role": "sidenote",
+     "text": "shall be return-"
+    },
+    {
+     "role": "body",
+     "text": "of July, and the third Monday in December, and all recognizances"
+    },
+    {
+     "role": "sidenote",
+     "text": "able to the first"
+    },
+    {
+     "role": "body",
+     "text": "entered into, and all mesne and final process, which have been issued,"
+    },
+    {
+     "role": "sidenote",
+     "text": "term as above"
+    },
+    {
+     "role": "body",
+     "text": "or which shall hereafter be issued, shall be returnable in the respective"
+    },
+    {
+     "role": "sidenote",
+     "text": "established."
+    },
+    {
+     "role": "body",
+     "text": "districts to the first term, as above established : And it shall be the duty"
+    },
+    {
+     "role": "sidenote",
+     "text": "Circuit judge"
+    },
+    {
+     "role": "sidenote",
+     "text": "shall attend one"
+    },
+    {
+     "role": "body",
+     "text": "of the circuit judge, to attend one circuit court in each year, in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "circuit court"
+    },
+    {
+     "role": "body",
+     "text": "districts of Indiana, Illinois, and Michigan, and should any question of"
+    },
+    {
+     "role": "sidenote",
+     "text": "every year."
+    },
+    {
+     "role": "sidenote",
+     "text": "On a question"
+    },
+    {
+     "role": "body",
+     "text": "law be raised, in any case, in the absence of the circuit judge, the"
+    },
+    {
+     "role": "sidenote",
+     "text": "of law, &c., the"
+    },
+    {
+     "role": "body",
+     "text": "district judge may, at his discretion, adjourn the cause to the succeeding"
+    },
+    {
+     "role": "sidenote",
+     "text": "dist. judge may"
+    },
+    {
+     "role": "sidenote",
+     "text": "adjourn the"
+    },
+    {
+     "role": "body",
+     "text": "term of the circuit court."
+    },
+    {
+     "role": "sidenote",
+     "text": "cause."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 10, 1838."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXIV.—An Act to continue in force an act therein mentioned, relating to"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 19, 1838."
+    },
+    {
+     "role": "body",
+     "text": "the port of Baltimore."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Expired.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "The act passed"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the act passed"
+    },
+    {
+     "role": "sidenote",
+     "text": "17th March,"
+    },
+    {
+     "role": "body",
+     "text": "the seventeenth day of March, in the year one thousand eight hundred,"
+    },
+    {
+     "role": "sidenote",
+     "text": "1800, chap. 15,"
+    },
+    {
+     "role": "body",
+     "text": "entitled \"An act declaring the assent of Congress to certain acts of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "so far as relates"
+    },
+    {
+     "role": "sidenote",
+     "text": "to the act of"
+    },
+    {
+     "role": "body",
+     "text": "States of Maryland and Georgia,\" and which, by subsequent acts, has"
+    },
+    {
+     "role": "sidenote",
+     "text": "Maryland, con-"
+    },
+    {
+     "role": "body",
+     "text": "been revived and continued in force until the third day of March, one"
+    },
+    {
+     "role": "sidenote",
+     "text": "tinued to 3d"
+    },
+    {
+     "role": "body",
+     "text": "thousand eight hundred and thirty-eight, be, and the same, so far as it"
+    },
+    {
+     "role": "sidenote",
+     "text": "March, 1843."
+    },
+    {
+     "role": "body",
+     "text": "relates to the act of Maryland, is hereby revived and continued in force"
+    },
+    {
+     "role": "body",
+     "text": "until the third day of March, one thousand eight hundred and forty-"
+    },
+    {
+     "role": "body",
+     "text": "three.  Provided, That nothing herein contained shall authorize the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "demand of a duty on tonnage on vessels propelled by steam, employed"
+    },
+    {
+     "role": "body",
+     "text": "in the transportation of passengers."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 19, 1838."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLVI.—An Act to restore circuit jurisdiction to the district courts of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 28, 1838."
+    },
+    {
+     "role": "body",
+     "text": "western district of Virginia. (a)"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "So much of 3d"
+    },
+    {
+     "role": "sidenote",
+     "text": "section act 3d"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That so much of the third"
+    },
+    {
+     "role": "sidenote",
+     "text": "March, 1837,"
+    },
+    {
+     "role": "body",
+     "text": "section of the act entitled \"An act supplementary to the act entitled"
+    },
+    {
+     "role": "sidenote",
+     "text": "ch. 34, as re-"
+    },
+    {
+     "role": "body",
+     "text": "'An act to amend the judicial system of the United States,'\" approved"
+    },
+    {
+     "role": "sidenote",
+     "text": "peals all acts"
+    },
+    {
+     "role": "sidenote",
+     "text": "conferring cir-"
+    },
+    {
+     "role": "body",
+     "text": "March third, eighteen hundred and thirty-seven, as repeals all former"
+    },
+    {
+     "role": "sidenote",
+     "text": "cuit court juris-"
+    },
+    {
+     "role": "body",
+     "text": "acts, or parts of acts, conferring circuit court jurisdiction on certain"
+    },
+    {
+     "role": "sidenote",
+     "text": "diction on cer-"
+    },
+    {
+     "role": "body",
+     "text": "district courts therein named, be, and the same is hereby, repealed, so"
+    },
+    {
+     "role": "sidenote",
+     "text": "tain district"
+    },
+    {
+     "role": "body",
+     "text": "far as relates to the courts of the western district of Virginia; and that"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts, repeal-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed, &c."
+    },
+    {
+     "role": "body",
+     "text": "the district courts of said district exercise the same jurisdiction with"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of March"
+    },
+    {
+     "role": "body",
+     "text": "which they were invested previous to the passage of said act."
+    },
+    {
+     "role": "sidenote",
+     "text": "3, 1839, ch. 81."
+    },
+    {
+     "role": "footnote",
+     "text": "(a) See notes of the acts relating to the District Courts of Virginia, vol. 3, 479."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2930,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.10068,
+   "seconds": 101.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "TWENTY-FIFTH CONGRESS.  SESS. II. CH. 33, 34, 46.  1838."
+    },
+    {
+     "role": "page-number",
+     "text": "215"
+    },
+    {
+     "role": "body",
+     "text": "For half-pay pensions, payable through the office of the Third Audi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "For half-pay"
+    },
+    {
+     "role": "body",
+     "text": "tor, five thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "pensions paya-"
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 10, 1838."
+    },
+    {
+     "role": "sidenote",
+     "text": "ble through off."
+    },
+    {
+     "role": "sidenote",
+     "text": "Third Auditor."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXIII.—An Act to change the times of holding the circuit and district"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 10, 1838."
+    },
+    {
+     "role": "body",
+     "text": "courts of the United States in the seventh circuit."
+    },
+    {
+     "role": "sidenote",
+     "text": "1842, ch, 31."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Times of hold-"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the circuit"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing the circuit"
+    },
+    {
+     "role": "body",
+     "text": "and district courts of the United States shall be held in the district of"
+    },
+    {
+     "role": "sidenote",
+     "text": "and district"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts U. S. in"
+    },
+    {
+     "role": "body",
+     "text": "Indiana, at the seat of Government in said State, on the third Mondays"
+    },
+    {
+     "role": "sidenote",
+     "text": "the districts of"
+    },
+    {
+     "role": "body",
+     "text": "of May and November; at the seat of Government in the district of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Indiana, Illinois,"
+    },
+    {
+     "role": "body",
+     "text": "Illinois, on the first Mondays of June and December; in the district"
+    },
+    {
+     "role": "sidenote",
+     "text": "and Michigan."
+    },
+    {
+     "role": "body",
+     "text": "of Michigan, at the seat of Government in said State, on the third"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of March"
+    },
+    {
+     "role": "sidenote",
+     "text": "3, 1837, ch. 34."
+    },
+    {
+     "role": "body",
+     "text": "Monday in June and the first Monday in November; and in the district"
+    },
+    {
+     "role": "sidenote",
+     "text": "All recogni-"
+    },
+    {
+     "role": "body",
+     "text": "of Ohio, at the seat of Government in said State, on the first Monday"
+    },
+    {
+     "role": "sidenote",
+     "text": "zances, &c.,"
+    },
+    {
+     "role": "sidenote",
+     "text": "shall be return-"
+    },
+    {
+     "role": "body",
+     "text": "of July, and the third Monday in December, and all recognizances"
+    },
+    {
+     "role": "sidenote",
+     "text": "able to the first"
+    },
+    {
+     "role": "body",
+     "text": "entered into, and all mesne and final process, which have been issued,"
+    },
+    {
+     "role": "sidenote",
+     "text": "term as above"
+    },
+    {
+     "role": "body",
+     "text": "or which shall hereafter be issued, shall be returnable in the respective"
+    },
+    {
+     "role": "sidenote",
+     "text": "established."
+    },
+    {
+     "role": "body",
+     "text": "districts to the first term, as above established : And it shall be the duty"
+    },
+    {
+     "role": "sidenote",
+     "text": "Circuit judge"
+    },
+    {
+     "role": "sidenote",
+     "text": "shall attend one"
+    },
+    {
+     "role": "body",
+     "text": "of the circuit judge, to attend one circuit court in each year, in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "circuit court"
+    },
+    {
+     "role": "body",
+     "text": "districts of Indiana, Illinois, and Michigan, and should any question of"
+    },
+    {
+     "role": "sidenote",
+     "text": "every year."
+    },
+    {
+     "role": "body",
+     "text": "law be raised, in any case, in the absence of the circuit judge, the"
+    },
+    {
+     "role": "sidenote",
+     "text": "On a question"
+    },
+    {
+     "role": "sidenote",
+     "text": "of law, &c., the"
+    },
+    {
+     "role": "body",
+     "text": "district judge may, at his discretion, adjourn the cause to the succeeding"
+    },
+    {
+     "role": "sidenote",
+     "text": "dist. judge may"
+    },
+    {
+     "role": "body",
+     "text": "term of the circuit court."
+    },
+    {
+     "role": "sidenote",
+     "text": "adjourn the"
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 10, 1838."
+    },
+    {
+     "role": "sidenote",
+     "text": "cause."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXIV.—An Act to continue in force an act therein mentioned, relating to"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 19, 1838."
+    },
+    {
+     "role": "body",
+     "text": "the port of Baltimore."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Expired.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the act passed"
+    },
+    {
+     "role": "sidenote",
+     "text": "The act passed"
+    },
+    {
+     "role": "body",
+     "text": "the seventeenth day of March, in the year one thousand eight hundred,"
+    },
+    {
+     "role": "sidenote",
+     "text": "17th March,"
+    },
+    {
+     "role": "body",
+     "text": "entitled \"An act declaring the assent of Congress to certain acts of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "1800, chap. 15,"
+    },
+    {
+     "role": "sidenote",
+     "text": "so far as relates"
+    },
+    {
+     "role": "body",
+     "text": "States of Maryland and Georgia,\" and which, by subsequent acts, has"
+    },
+    {
+     "role": "sidenote",
+     "text": "to the act of"
+    },
+    {
+     "role": "body",
+     "text": "been revived and continued in force until the third day of March, one"
+    },
+    {
+     "role": "sidenote",
+     "text": "Maryland, con-"
+    },
+    {
+     "role": "body",
+     "text": "thousand eight hundred and thirty-eight, be, and the same, so far as it"
+    },
+    {
+     "role": "sidenote",
+     "text": "tinued to 3d"
+    },
+    {
+     "role": "sidenote",
+     "text": "March, 1843."
+    },
+    {
+     "role": "body",
+     "text": "relates to the act of Maryland, is hereby revived and continued in force"
+    },
+    {
+     "role": "body",
+     "text": "until the third day of March, one thousand eight hundred and forty-"
+    },
+    {
+     "role": "body",
+     "text": "three.  Provided, That nothing herein contained shall authorize the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "demand of a duty on tonnage on vessels propelled by steam, employed"
+    },
+    {
+     "role": "body",
+     "text": "in the transportation of passengers."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 19, 1838."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLVI.—An Act to restore circuit jurisdiction to the district courts of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 28, 1838."
+    },
+    {
+     "role": "body",
+     "text": "western district of Virginia. (a)"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "So much of 3d"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That so much of the third"
+    },
+    {
+     "role": "sidenote",
+     "text": "section act 3d"
+    },
+    {
+     "role": "sidenote",
+     "text": "March, 1837,"
+    },
+    {
+     "role": "body",
+     "text": "section of the act entitled \"An act supplementary to the act entitled"
+    },
+    {
+     "role": "sidenote",
+     "text": "ch. 34, as re-"
+    },
+    {
+     "role": "body",
+     "text": "'An act to amend the judicial system of the United States,'\" approved"
+    },
+    {
+     "role": "sidenote",
+     "text": "peals all acts"
+    },
+    {
+     "role": "body",
+     "text": "March third, eighteen hundred and thirty-seven, as repeals all former"
+    },
+    {
+     "role": "sidenote",
+     "text": "conferring cir-"
+    },
+    {
+     "role": "sidenote",
+     "text": "cuit court juris-"
+    },
+    {
+     "role": "body",
+     "text": "acts, or parts of acts, conferring circuit court jurisdiction on certain"
+    },
+    {
+     "role": "sidenote",
+     "text": "diction on cer-"
+    },
+    {
+     "role": "body",
+     "text": "district courts therein named, be, and the same is hereby, repealed, so"
+    },
+    {
+     "role": "sidenote",
+     "text": "tain district"
+    },
+    {
+     "role": "body",
+     "text": "far as relates to the courts of the western district of Virginia; and that"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts, repeal-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed, &c."
+    },
+    {
+     "role": "body",
+     "text": "the district courts of said district exercise the same jurisdiction with"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of March"
+    },
+    {
+     "role": "body",
+     "text": "which they were invested previous to the passage of said act."
+    },
+    {
+     "role": "sidenote",
+     "text": "3, 1839, ch. 81."
+    },
+    {
+     "role": "footnote",
+     "text": "(a) See notes of the acts relating to the District Courts of Virginia, vol. 3, 479."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2930,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.10068,
+   "seconds": 125.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 14114,
+   "output_tokens": 12674,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.38784,
+  "seconds": 263.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "For half-pay pensions, payable through the office of the Third Audi-",
+    "kept": "For half-pay pensions, payable through the office of the Third Audi-",
+    "reason": "Body line is the first printed line of the paragraph, aligned with the first sidenote line 'For half-pay'; body precedes the sidenote at the same level."
+   },
+   {
+    "run": 2,
+    "a": "For half-pay pensions, payable through the office of the Third Audi-",
+    "b": "tor, five thousand dollars.",
+    "kept": "tor, five thousand dollars.",
+    "reason": "Second body line falls between sidenote lines 'For half-pay' and 'pensions paya-'."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "APPROVED, March 10, 1838.",
+    "kept": "APPROVED, March 10, 1838.",
+    "reason": "The APPROVED line falls at the level between 'pensions paya-' and 'ble through off.'"
+   },
+   {
+    "run": 4,
+    "a": "tor, five thousand dollars.",
+    "b": "",
+    "kept": "",
+    "reason": "No printed line here; A duplicates the body line already placed."
+   },
+   {
+    "run": 5,
+    "a": "APPROVED, March 10, 1838.",
+    "b": "",
+    "kept": "",
+    "reason": "No printed line here; the APPROVED line was already placed above."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the",
+    "kept": "Be it enacted by the Senate and House of Representatives of the",
+    "reason": "First body line of the section is level with the first sidenote 'Times of hold-'; body comes first."
+   },
+   {
+    "run": 7,
+    "a": "Be it enacted by the Senate and House of Representatives of the",
+    "b": "United States of America in Congress assembled, That the circuit",
+    "kept": "United States of America in Congress assembled, That the circuit",
+    "reason": "Second body line lies between sidenotes 'Times of hold-' and 'ing the circuit'."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "and district courts of the United States shall be held in the district of",
+    "kept": "and district courts of the United States shall be held in the district of",
+    "reason": "Third body line lies just after 'ing the circuit'."
+   },
+   {
+    "run": 9,
+    "a": "United States of America in Congress assembled, That the circuit",
+    "b": "",
+    "kept": "",
+    "reason": "Nothing printed here; the body line was already placed above."
+   },
+   {
+    "run": 10,
+    "a": "and district courts of the United States shall be held in the district of",
+    "b": "Indiana, at the seat of Government in said State, on the third Mondays",
+    "kept": "Indiana, at the seat of Government in said State, on the third Mondays",
+    "reason": "Body line is level with sidenote 'courts U. S. in'/'the districts of' gap."
+   },
+   {
+    "run": 11,
+    "a": "Indiana, at the seat of Government in said State, on the third Mondays",
+    "b": "of May and November; at the seat of Government in the district of",
+    "kept": "of May and November; at the seat of Government in the district of",
+    "reason": "Follows the sidenote 'the districts of' in vertical order."
+   },
+   {
+    "run": 12,
+    "a": "of May and November; at the seat of Government in the district of",
+    "b": "Illinois, on the first Mondays of June and December; in the district",
+    "kept": "Illinois, on the first Mondays of June and December; in the district",
+    "reason": "Falls between 'Indiana,Illinois,' and 'and Michigan.'"
+   },
+   {
+    "run": 13,
+    "a": "Illinois, on the first Mondays of June and December; in the district",
+    "b": "of Michigan, at the seat of Government in said State, on the third",
+    "kept": "of Michigan, at the seat of Government in said State, on the third",
+    "reason": "Falls between 'and Michigan.' and 'Act of March'."
+   },
+   {
+    "run": 14,
+    "a": "of Michigan, at the seat of Government in said State, on the third",
+    "b": "",
+    "kept": "",
+    "reason": "Nothing printed here; body line already placed above."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "law be raised, in any case, in the absence of the circuit judge, the",
+    "kept": "law be raised, in any case, in the absence of the circuit judge, the",
+    "reason": "This body line stands just after sidenote 'every year.' and before 'On a question'."
+   },
+   {
+    "run": 16,
+    "a": "law be raised, in any case, in the absence of the circuit judge, the",
+    "b": "",
+    "kept": "",
+    "reason": "Nothing printed here; line already placed above."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "term of the circuit court.",
+    "kept": "term of the circuit court.",
+    "reason": "Body line falls after sidenote 'dist. judge may' and before 'adjourn the'."
+   },
+   {
+    "run": 18,
+    "a": "term of the circuit court.",
+    "b": "APPROVED, March 10, 1838.",
+    "kept": "APPROVED, March 10, 1838.",
+    "reason": "The APPROVED line stands after 'adjourn the' and before 'cause.'"
+   },
+   {
+    "run": 19,
+    "a": "APPROVED, March 10, 1838.",
+    "b": "",
+    "kept": "",
+    "reason": "Nothing printed here; APPROVED already placed above."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "United States of America in Congress assembled, That the act passed",
+    "kept": "United States of America in Congress assembled, That the act passed",
+    "reason": "This body line is level with the sidenote 'The act passed', which follows it."
+   },
+   {
+    "run": 21,
+    "a": "United States of America in Congress assembled, That the act passed",
+    "b": "the seventeenth day of March, in the year one thousand eight hundred,",
+    "kept": "the seventeenth day of March, in the year one thousand eight hundred,",
+    "reason": "Body line falls between sidenotes 'The act passed' and '17th March,'."
+   },
+   {
+    "run": 22,
+    "a": "the seventeenth day of March, in the year one thousand eight hundred,",
+    "b": "entitled \"An act declaring the assent of Congress to certain acts of the",
+    "kept": "entitled \"An act declaring the assent of Congress to certain acts of the",
+    "reason": "Body line falls after '17th March,' and before '1800, chap. 15,'."
+   },
+   {
+    "run": 23,
+    "a": "entitled \"An act declaring the assent of Congress to certain acts of the",
+    "b": "",
+    "kept": "",
+    "reason": "Nothing printed here; line already placed above."
+   },
+   {
+    "run": 24,
+    "a": "",
+    "b": "States of Maryland and Georgia,\" and which, by subsequent acts, has",
+    "kept": "States of Maryland and Georgia,\" and which, by subsequent acts, has",
+    "reason": "Body line follows the sidenote 'so far as relates'."
+   },
+   {
+    "run": 25,
+    "a": "States of Maryland and Georgia,\" and which, by subsequent acts, has",
+    "b": "been revived and continued in force until the third day of March, one",
+    "kept": "been revived and continued in force until the third day of March, one",
+    "reason": "Body line follows the sidenote 'to the act of'."
+   },
+   {
+    "run": 26,
+    "a": "been revived and continued in force until the third day of March, one",
+    "b": "thousand eight hundred and thirty-eight, be, and the same, so far as it",
+    "kept": "thousand eight hundred and thirty-eight, be, and the same, so far as it",
+    "reason": "Body line follows the sidenote 'Maryland, con-'."
+   },
+   {
+    "run": 27,
+    "a": "thousand eight hundred and thirty-eight, be, and the same, so far as it",
+    "b": "",
+    "kept": "",
+    "reason": "Nothing printed here; line already placed above."
+   },
+   {
+    "run": 28,
+    "a": "",
+    "b": "States of America in Congress assembled, That so much of the third",
+    "kept": "States of America in Congress assembled, That so much of the third",
+    "reason": "Body line follows the first sidenote 'So much of 3d'."
+   },
+   {
+    "run": 29,
+    "a": "States of America in Congress assembled, That so much of the third",
+    "b": "",
+    "kept": "",
+    "reason": "Nothing printed here; line already placed above."
+   },
+   {
+    "run": 30,
+    "a": "",
+    "b": "March third, eighteen hundred and thirty-seven, as repeals all former",
+    "kept": "March third, eighteen hundred and thirty-seven, as repeals all former",
+    "reason": "Body line follows the sidenote 'peals all acts'."
+   },
+   {
+    "run": 31,
+    "a": "March third, eighteen hundred and thirty-seven, as repeals all former",
+    "b": "",
+    "kept": "",
+    "reason": "Nothing printed here; line already placed above."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "TWENTY-FIFTH CONGRESS.  SESS. II. CH. 33, 34, 46.  1838."
+  },
+  {
+   "role": "page-number",
+   "text": "215"
+  },
+  {
+   "role": "body",
+   "text": "For half-pay pensions, payable through the office of the Third Audi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "For half-pay"
+  },
+  {
+   "role": "body",
+   "text": "tor, five thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "pensions paya-"
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 10, 1838."
+  },
+  {
+   "role": "sidenote",
+   "text": "ble through off."
+  },
+  {
+   "role": "sidenote",
+   "text": "Third Auditor."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXXIII.—An Act to change the times of holding the circuit and district"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 10, 1838."
+  },
+  {
+   "role": "body",
+   "text": "courts of the United States in the seventh circuit."
+  },
+  {
+   "role": "sidenote",
+   "text": "1842, ch, 31."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Times of hold-"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the circuit"
+  },
+  {
+   "role": "sidenote",
+   "text": "ing the circuit"
+  },
+  {
+   "role": "body",
+   "text": "and district courts of the United States shall be held in the district of"
+  },
+  {
+   "role": "sidenote",
+   "text": "and district"
+  },
+  {
+   "role": "sidenote",
+   "text": "courts U. S. in"
+  },
+  {
+   "role": "body",
+   "text": "Indiana, at the seat of Government in said State, on the third Mondays"
+  },
+  {
+   "role": "sidenote",
+   "text": "the districts of"
+  },
+  {
+   "role": "body",
+   "text": "of May and November; at the seat of Government in the district of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Indiana, Illinois,"
+  },
+  {
+   "role": "body",
+   "text": "Illinois, on the first Mondays of June and December; in the district"
+  },
+  {
+   "role": "sidenote",
+   "text": "and Michigan."
+  },
+  {
+   "role": "body",
+   "text": "of Michigan, at the seat of Government in said State, on the third"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of March"
+  },
+  {
+   "role": "sidenote",
+   "text": "3, 1837, ch. 34."
+  },
+  {
+   "role": "body",
+   "text": "Monday in June and the first Monday in November; and in the district"
+  },
+  {
+   "role": "sidenote",
+   "text": "All recogni-"
+  },
+  {
+   "role": "body",
+   "text": "of Ohio, at the seat of Government in said State, on the first Monday"
+  },
+  {
+   "role": "sidenote",
+   "text": "zances, &c.,"
+  },
+  {
+   "role": "sidenote",
+   "text": "shall be return-"
+  },
+  {
+   "role": "body",
+   "text": "of July, and the third Monday in December, and all recognizances"
+  },
+  {
+   "role": "sidenote",
+   "text": "able to the first"
+  },
+  {
+   "role": "body",
+   "text": "entered into, and all mesne and final process, which have been issued,"
+  },
+  {
+   "role": "sidenote",
+   "text": "term as above"
+  },
+  {
+   "role": "body",
+   "text": "or which shall hereafter be issued, shall be returnable in the respective"
+  },
+  {
+   "role": "sidenote",
+   "text": "established."
+  },
+  {
+   "role": "body",
+   "text": "districts to the first term, as above established : And it shall be the duty"
+  },
+  {
+   "role": "sidenote",
+   "text": "Circuit judge"
+  },
+  {
+   "role": "sidenote",
+   "text": "shall attend one"
+  },
+  {
+   "role": "body",
+   "text": "of the circuit judge, to attend one circuit court in each year, in the"
+  },
+  {
+   "role": "sidenote",
+   "text": "circuit court"
+  },
+  {
+   "role": "body",
+   "text": "districts of Indiana, Illinois, and Michigan, and should any question of"
+  },
+  {
+   "role": "sidenote",
+   "text": "every year."
+  },
+  {
+   "role": "body",
+   "text": "law be raised, in any case, in the absence of the circuit judge, the"
+  },
+  {
+   "role": "sidenote",
+   "text": "On a question"
+  },
+  {
+   "role": "sidenote",
+   "text": "of law, &c., the"
+  },
+  {
+   "role": "body",
+   "text": "district judge may, at his discretion, adjourn the cause to the succeeding"
+  },
+  {
+   "role": "sidenote",
+   "text": "dist. judge may"
+  },
+  {
+   "role": "body",
+   "text": "term of the circuit court."
+  },
+  {
+   "role": "sidenote",
+   "text": "adjourn the"
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 10, 1838."
+  },
+  {
+   "role": "sidenote",
+   "text": "cause."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXXIV.—An Act to continue in force an act therein mentioned, relating to"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 19, 1838."
+  },
+  {
+   "role": "body",
+   "text": "the port of Baltimore."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Expired.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the act passed"
+  },
+  {
+   "role": "sidenote",
+   "text": "The act passed"
+  },
+  {
+   "role": "body",
+   "text": "the seventeenth day of March, in the year one thousand eight hundred,"
+  },
+  {
+   "role": "sidenote",
+   "text": "17th March,"
+  },
+  {
+   "role": "body",
+   "text": "entitled \"An act declaring the assent of Congress to certain acts of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "1800, chap. 15,"
+  },
+  {
+   "role": "sidenote",
+   "text": "so far as relates"
+  },
+  {
+   "role": "body",
+   "text": "States of Maryland and Georgia,\" and which, by subsequent acts, has"
+  },
+  {
+   "role": "sidenote",
+   "text": "to the act of"
+  },
+  {
+   "role": "body",
+   "text": "been revived and continued in force until the third day of March, one"
+  },
+  {
+   "role": "sidenote",
+   "text": "Maryland, con-"
+  },
+  {
+   "role": "body",
+   "text": "thousand eight hundred and thirty-eight, be, and the same, so far as it"
+  },
+  {
+   "role": "sidenote",
+   "text": "tinued to 3d"
+  },
+  {
+   "role": "sidenote",
+   "text": "March, 1843."
+  },
+  {
+   "role": "body",
+   "text": "relates to the act of Maryland, is hereby revived and continued in force"
+  },
+  {
+   "role": "body",
+   "text": "until the third day of March, one thousand eight hundred and forty-"
+  },
+  {
+   "role": "body",
+   "text": "three.  Provided, That nothing herein contained shall authorize the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "demand of a duty on tonnage on vessels propelled by steam, employed"
+  },
+  {
+   "role": "body",
+   "text": "in the transportation of passengers."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 19, 1838."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XLVI.—An Act to restore circuit jurisdiction to the district courts of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 28, 1838."
+  },
+  {
+   "role": "body",
+   "text": "western district of Virginia. (a)"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "So much of 3d"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That so much of the third"
+  },
+  {
+   "role": "sidenote",
+   "text": "section act 3d"
+  },
+  {
+   "role": "sidenote",
+   "text": "March, 1837,"
+  },
+  {
+   "role": "body",
+   "text": "section of the act entitled \"An act supplementary to the act entitled"
+  },
+  {
+   "role": "sidenote",
+   "text": "ch. 34, as re-"
+  },
+  {
+   "role": "body",
+   "text": "'An act to amend the judicial system of the United States,'\" approved"
+  },
+  {
+   "role": "sidenote",
+   "text": "peals all acts"
+  },
+  {
+   "role": "body",
+   "text": "March third, eighteen hundred and thirty-seven, as repeals all former"
+  },
+  {
+   "role": "sidenote",
+   "text": "conferring cir-"
+  },
+  {
+   "role": "sidenote",
+   "text": "cuit court juris-"
+  },
+  {
+   "role": "body",
+   "text": "acts, or parts of acts, conferring circuit court jurisdiction on certain"
+  },
+  {
+   "role": "sidenote",
+   "text": "diction on cer-"
+  },
+  {
+   "role": "body",
+   "text": "district courts therein named, be, and the same is hereby, repealed, so"
+  },
+  {
+   "role": "sidenote",
+   "text": "tain district"
+  },
+  {
+   "role": "body",
+   "text": "far as relates to the courts of the western district of Virginia; and that"
+  },
+  {
+   "role": "sidenote",
+   "text": "courts, repeal-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ed, &c."
+  },
+  {
+   "role": "body",
+   "text": "the district courts of said district exercise the same jurisdiction with"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of March"
+  },
+  {
+   "role": "body",
+   "text": "which they were invested previous to the passage of said act."
+  },
+  {
+   "role": "sidenote",
+   "text": "3, 1839, ch. 81."
+  },
+  {
+   "role": "footnote",
+   "text": "(a) See notes of the acts relating to the District Courts of Virginia, vol. 3, 479."
+  }
+ ],
+ "disagreement_count": 31,
+ "tokens": {
+  "input_tokens": 24937,
+  "output_tokens": 18534,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.5892,
+ "seconds": 490.9,
+ "created": "2026-09-08T11:16:28"
+}

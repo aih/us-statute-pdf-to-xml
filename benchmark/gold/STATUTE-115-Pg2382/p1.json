@@ -1,0 +1,489 @@
+{
+ "granule_id": "STATUTE-115-Pg2382",
+ "package_id": "STATUTE-115",
+ "volume": 115,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Office of Government Ethics Authorization Act of 2001",
+ "date_issued": "2002-01-15",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "2382",
+ "image": "data/gold/STATUTE-115-Pg2382/p1.png",
+ "image_sha256": "2bc7a7a99d8c1d3b4c441910f84261e1cb9a079862eb176ac8a65977f2f76470",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "115 STAT. 2382          PUBLIC LAW 107–119—JAN. 15, 2002"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 107–119"
+    },
+    {
+     "role": "body",
+     "text": "107th Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 15, 2002"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1202]"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Ethics in Government Act of 1978 (5 U.S.C. App.) to extend the"
+    },
+    {
+     "role": "body",
+     "text": "authorization of appropriations for the Office of Government Ethics through fiscal"
+    },
+    {
+     "role": "body",
+     "text": "year 2006."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Office of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Government"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ethics"
+    },
+    {
+     "role": "body",
+     "text": "the United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. SHORT TITLE."
+    },
+    {
+     "role": "sidenote",
+     "text": "Authorization"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of 2001."
+    },
+    {
+     "role": "sidenote",
+     "text": "5 USC app."
+    },
+    {
+     "role": "body",
+     "text": "This Act may be cited as the \"Office of Government Ethics"
+    },
+    {
+     "role": "body",
+     "text": "Authorization Act of 2001\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. EXTENSION OF AUTHORIZATION OF APPROPRIATIONS."
+    },
+    {
+     "role": "body",
+     "text": "Section 405 of the Ethics in Government Act of 1978 (5 U.S.C."
+    },
+    {
+     "role": "body",
+     "text": "App.) is amended by striking \"1997 through 1999\" and inserting"
+    },
+    {
+     "role": "body",
+     "text": "\"2002 through 2006\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved January 15, 2002."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—S. 1202:"
+    },
+    {
+     "role": "footnote",
+     "text": "SENATE REPORTS: No. 107–88 (Comm. on Governmental Affairs)."
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 147 (2001):"
+    },
+    {
+     "role": "footnote",
+     "text": "Nov. 15, considered and passed Senate."
+    },
+    {
+     "role": "footnote",
+     "text": "Dec. 19, 20, considered and passed House."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 858,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.04832,
+   "seconds": 10.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "115 STAT. 2382"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 107–119—JAN. 15, 2002"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 107–119"
+    },
+    {
+     "role": "body",
+     "text": "107th Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 15, 2002"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1202]"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Ethics in Government Act of 1978 (5 U.S.C. App.) to extend the"
+    },
+    {
+     "role": "body",
+     "text": "authorization of appropriations for the Office of Government Ethics through fiscal"
+    },
+    {
+     "role": "body",
+     "text": "year 2006."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Office of"
+    },
+    {
+     "role": "body",
+     "text": "the United States of America in Congress assembled,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Government"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ethics"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. SHORT TITLE."
+    },
+    {
+     "role": "sidenote",
+     "text": "Authorization"
+    },
+    {
+     "role": "body",
+     "text": "This Act may be cited as the “Office of Government Ethics"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of 2001."
+    },
+    {
+     "role": "sidenote",
+     "text": "5 USC app."
+    },
+    {
+     "role": "body",
+     "text": "Authorization Act of 2001”."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. EXTENSION OF AUTHORIZATION OF APPROPRIATIONS."
+    },
+    {
+     "role": "body",
+     "text": "Section 405 of the Ethics in Government Act of 1978 (5 U.S.C."
+    },
+    {
+     "role": "body",
+     "text": "App.) is amended by striking “1997 through 1999” and inserting"
+    },
+    {
+     "role": "body",
+     "text": "“2002 through 2006”."
+    },
+    {
+     "role": "body",
+     "text": "Approved January 15, 2002."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—S. 1202:"
+    },
+    {
+     "role": "footnote",
+     "text": "SENATE REPORTS: No. 107–88 (Comm. on Governmental Affairs)."
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 147 (2001):"
+    },
+    {
+     "role": "footnote",
+     "text": "Nov. 15, considered and passed Senate."
+    },
+    {
+     "role": "footnote",
+     "text": "Dec. 19, 20, considered and passed House."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 865,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.04849,
+   "seconds": 10.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 9197,
+   "output_tokens": 818,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06685,
+  "seconds": 18.3,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "115 STAT. 2382          PUBLIC LAW 107–119—JAN. 15, 2002",
+    "b": "115 STAT. 2382\nPUBLIC LAW 107–119—JAN. 15, 2002",
+    "kept": "115 STAT. 2382          PUBLIC LAW 107–119—JAN. 15, 2002",
+    "reason": "The page number and law caption are printed on a single running-head line at the top of the page."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "the United States of America in Congress assembled,",
+    "kept": "the United States of America in Congress assembled,",
+    "reason": "The sidenote 'Office of' is vertically aligned with this body line, so the body line follows it in reading order."
+   },
+   {
+    "run": 3,
+    "a": "the United States of America in Congress assembled,",
+    "b": "",
+    "kept": "",
+    "reason": "This body line is placed earlier (run 2); it is not repeated here."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "This Act may be cited as the “Office of Government Ethics",
+    "kept": "This Act may be cited as the “Office of Government Ethics",
+    "reason": "The sidenote 'Authorization' aligns with this body line, which therefore follows it."
+   },
+   {
+    "run": 5,
+    "a": "This Act may be cited as the \"Office of Government Ethics",
+    "b": "",
+    "kept": "",
+    "reason": "This body line already appears at run 4; not printed again here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "115 STAT. 2382          PUBLIC LAW 107–119—JAN. 15, 2002"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 107–119"
+  },
+  {
+   "role": "body",
+   "text": "107th Congress"
+  },
+  {
+   "role": "body",
+   "text": "An Act"
+  },
+  {
+   "role": "sidenote",
+   "text": "Jan. 15, 2002"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 1202]"
+  },
+  {
+   "role": "body",
+   "text": "To amend the Ethics in Government Act of 1978 (5 U.S.C. App.) to extend the"
+  },
+  {
+   "role": "body",
+   "text": "authorization of appropriations for the Office of Government Ethics through fiscal"
+  },
+  {
+   "role": "body",
+   "text": "year 2006."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Office of"
+  },
+  {
+   "role": "body",
+   "text": "the United States of America in Congress assembled,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Government"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ethics"
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. SHORT TITLE."
+  },
+  {
+   "role": "sidenote",
+   "text": "Authorization"
+  },
+  {
+   "role": "body",
+   "text": "This Act may be cited as the “Office of Government Ethics"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of 2001."
+  },
+  {
+   "role": "sidenote",
+   "text": "5 USC app."
+  },
+  {
+   "role": "body",
+   "text": "Authorization Act of 2001\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. EXTENSION OF AUTHORIZATION OF APPROPRIATIONS."
+  },
+  {
+   "role": "body",
+   "text": "Section 405 of the Ethics in Government Act of 1978 (5 U.S.C."
+  },
+  {
+   "role": "body",
+   "text": "App.) is amended by striking \"1997 through 1999\" and inserting"
+  },
+  {
+   "role": "body",
+   "text": "\"2002 through 2006\"."
+  },
+  {
+   "role": "body",
+   "text": "Approved January 15, 2002."
+  },
+  {
+   "role": "footnote",
+   "text": "LEGISLATIVE HISTORY—S. 1202:"
+  },
+  {
+   "role": "footnote",
+   "text": "SENATE REPORTS: No. 107–88 (Comm. on Governmental Affairs)."
+  },
+  {
+   "role": "footnote",
+   "text": "CONGRESSIONAL RECORD, Vol. 147 (2001):"
+  },
+  {
+   "role": "footnote",
+   "text": "Nov. 15, considered and passed Senate."
+  },
+  {
+   "role": "footnote",
+   "text": "Dec. 19, 20, considered and passed House."
+  }
+ ],
+ "disagreement_count": 5,
+ "tokens": {
+  "input_tokens": 19796,
+  "output_tokens": 2541,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.16366,
+ "seconds": 38.9,
+ "created": "2026-09-08T12:24:25"
+}

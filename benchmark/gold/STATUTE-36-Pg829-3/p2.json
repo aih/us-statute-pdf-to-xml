@@ -1,0 +1,1183 @@
+{
+ "granule_id": "STATUTE-36-Pg829-3",
+ "package_id": "STATUTE-36",
+ "volume": 36,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act To amend section thirteen of an Act entitled \"An Act to establish a Bureau of Immigration and Naturalization, and to provide for a uniform rule for the naturalization of aliens throughout the U",
+ "date_issued": "1910-06-25",
+ "pdf_page": 2,
+ "pdf_pages": 3,
+ "stat_page": "830",
+ "image": "data/gold/STATUTE-36-Pg829-3/p2.png",
+ "image_sha256": "b2d66553e9c511117f72579712db7e505e7e2ba09ac9b31fee4da8de3343fd0a",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CH. 401.  1910."
+    },
+    {
+     "role": "body",
+     "text": "the said Secretary the business of such clerk warrants such allow-"
+    },
+    {
+     "role": "body",
+     "text": "ance,\" and inserting in lieu thereof the following:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Clerks of courts."
+    },
+    {
+     "role": "sidenote",
+     "text": "Salaries allowed to"
+    },
+    {
+     "role": "sidenote",
+     "text": "additional naturaliza-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion clerks."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 765."
+    },
+    {
+     "role": "body",
+     "text": "\"And in case the clerk of any court exercising naturalization juris-"
+    },
+    {
+     "role": "body",
+     "text": "diction collects fees in excess of the sum of six thousand dollars in any"
+    },
+    {
+     "role": "body",
+     "text": "fiscal year the Secretary of Commerce and Labor may allow salaries,"
+    },
+    {
+     "role": "body",
+     "text": "for naturalization purposes only, to pay for clerical assistance, to be"
+    },
+    {
+     "role": "body",
+     "text": "selected and employed by that clerk, additional to the clerical force,"
+    },
+    {
+     "role": "body",
+     "text": "for which clerks of courts are required by this section to pay from"
+    },
+    {
+     "role": "body",
+     "text": "fees received by such clerks in naturalization proceedings, if in the"
+    },
+    {
+     "role": "body",
+     "text": "opinion of said Secretary the naturalization business of such clerk"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Limit."
+    },
+    {
+     "role": "body",
+     "text": "warrants further additional assistance: Provided, That in no event"
+    },
+    {
+     "role": "body",
+     "text": "shall the whole amount allowed the clerk of a court and his assistants"
+    },
+    {
+     "role": "body",
+     "text": "exceed the one-half of the gross receipts of the office of said clerk from"
+    },
+    {
+     "role": "sidenote",
+     "text": "Continuance at be-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ginning of fiscal year."
+    },
+    {
+     "role": "body",
+     "text": "naturalization fees during such fiscal year: Provided further, That"
+    },
+    {
+     "role": "body",
+     "text": "when, at the close of any fiscal year, the business of such clerk of"
+    },
+    {
+     "role": "body",
+     "text": "court indicates in the opinion of the Secretary of Commerce and"
+    },
+    {
+     "role": "body",
+     "text": "Labor that the naturalization fees for the succeeding fiscal year will"
+    },
+    {
+     "role": "body",
+     "text": "exceed six thousand dollars the Secretary of Commerce and Labor"
+    },
+    {
+     "role": "body",
+     "text": "may authorize the continuance of the allowance of salaries for the"
+    },
+    {
+     "role": "body",
+     "text": "additional clerical assistance herein provided for and employed on"
+    },
+    {
+     "role": "body",
+     "text": "the last day of the fiscal year until such time as the remittances indi-"
+    },
+    {
+     "role": "body",
+     "text": "cate in the opinion of said Secretary that the fees for the then current"
+    },
+    {
+     "role": "body",
+     "text": "fiscal year will not be sufficient to allow the additional clerical assist-"
+    },
+    {
+     "role": "body",
+     "text": "ance authorized by this Act."
+    },
+    {
+     "role": "sidenote",
+     "text": "Mode of payment,"
+    },
+    {
+     "role": "sidenote",
+     "text": "etc."
+    },
+    {
+     "role": "body",
+     "text": "\"That payment for the additional clerical assistance herein"
+    },
+    {
+     "role": "body",
+     "text": "authorized shall be in the manner and under such regulations as the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of Commerce and Labor may prescribe.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment for clerical"
+    },
+    {
+     "role": "sidenote",
+     "text": "assistance September"
+    },
+    {
+     "role": "sidenote",
+     "text": "27, 1906, to June 30,"
+    },
+    {
+     "role": "sidenote",
+     "text": "1907."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That the Secretary of Commerce and Labor is hereby"
+    },
+    {
+     "role": "body",
+     "text": "authorized to make requisition on the Treasurer of the United States"
+    },
+    {
+     "role": "body",
+     "text": "for such amount as may be necessary in his opinion to pay the clerks"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 596."
+    },
+    {
+     "role": "body",
+     "text": "of the several courts exercising jurisdiction under section three of the"
+    },
+    {
+     "role": "body",
+     "text": "Act of June twenty-ninth, nineteen hundred and six (Thirty-fourth"
+    },
+    {
+     "role": "body",
+     "text": "Statutes, page five hundred and ninety-six), for any additional clerical"
+    },
+    {
+     "role": "body",
+     "text": "assistance employed by them during the period from September"
+    },
+    {
+     "role": "body",
+     "text": "twenty-seventh, nineteen hundred and six, to June thirtieth, nineteen"
+    },
+    {
+     "role": "body",
+     "text": "hundred and seven, inclusive, if in the opinion of said Secretary the"
+    },
+    {
+     "role": "body",
+     "text": "business of such clerks, during the aforesaid period, warranted any"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Restriction."
+    },
+    {
+     "role": "body",
+     "text": "allowance for such additional clerical assistance: Provided, That no"
+    },
+    {
+     "role": "body",
+     "text": "allowance shall be made by said Secretary to any clerk for additional"
+    },
+    {
+     "role": "body",
+     "text": "clerical assistance who has not collected fees in naturalization pro-"
+    },
+    {
+     "role": "body",
+     "text": "ceedings in excess of the sum of four thousand five hundred dollars"
+    },
+    {
+     "role": "body",
+     "text": "during the period from September twenty-seventh, nineteen hundred"
+    },
+    {
+     "role": "body",
+     "text": "and six, to June thirtieth, nineteen hundred and seven, inclusive, and"
+    },
+    {
+     "role": "body",
+     "text": "that the total salaries of such additional clerical assistance shall in"
+    },
+    {
+     "role": "body",
+     "text": "no instance exceed the fees received by the United States from the"
+    },
+    {
+     "role": "body",
+     "text": "clerk of that court during the period from September twenty-seventh,"
+    },
+    {
+     "role": "body",
+     "text": "nineteen hundred and six, to June thirtieth, nineteen hundred and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "body",
+     "text": "seven, inclusive.  Such amount as may be necessary to pay the"
+    },
+    {
+     "role": "body",
+     "text": "additional clerical assistance herein provided for, not exceeding two"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars, is hereby appropriated from any moneys in the"
+    },
+    {
+     "role": "body",
+     "text": "Treasury of the United States not otherwise appropriated: Provided,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Regulations."
+    },
+    {
+     "role": "body",
+     "text": "That payment for the clerical assistance herein provided for shall be"
+    },
+    {
+     "role": "body",
+     "text": "in the manner and under such regulations as the Secretary of Com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Limit."
+    },
+    {
+     "role": "body",
+     "text": "merce and Labor may prescribe: Provided further, That no moneys"
+    },
+    {
+     "role": "body",
+     "text": "shall be paid to any clerk in excess of the aggregate of the sums paid"
+    },
+    {
+     "role": "body",
+     "text": "out by him."
+    },
+    {
+     "role": "sidenote",
+     "text": "Petitions for citizen-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ship."
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol.  34,  p.  597,"
+    },
+    {
+     "role": "sidenote",
+     "text": "amended."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That paragraph two of section four of an Act entitled \"An"
+    },
+    {
+     "role": "body",
+     "text": "Act to establish a Bureau of Immigration and Naturalization, and to"
+    },
+    {
+     "role": "body",
+     "text": "provide for a uniform rule for the naturalization of aliens throughout"
+    },
+    {
+     "role": "body",
+     "text": "the United States,\" approved June twenty-ninth, nineteen hundred"
+    },
+    {
+     "role": "page-number",
+     "text": "830"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2779,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09635,
+   "seconds": 30.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "830"
+    },
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CH. 401.  1910."
+    },
+    {
+     "role": "body",
+     "text": "the said Secretary the business of such clerk warrants such allow-"
+    },
+    {
+     "role": "body",
+     "text": "ance,\" and inserting in lieu thereof the following:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Clerks of courts."
+    },
+    {
+     "role": "body",
+     "text": "\"And in case the clerk of any court exercising naturalization juris-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Salaries allowed to"
+    },
+    {
+     "role": "sidenote",
+     "text": "additional naturaliza-"
+    },
+    {
+     "role": "body",
+     "text": "diction collects fees in excess of the sum of six thousand dollars in any"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion clerks."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 765."
+    },
+    {
+     "role": "body",
+     "text": "fiscal year the Secretary of Commerce and Labor may allow salaries,"
+    },
+    {
+     "role": "body",
+     "text": "for naturalization purposes only, to pay for clerical assistance, to be"
+    },
+    {
+     "role": "body",
+     "text": "selected and employed by that clerk, additional to the clerical force,"
+    },
+    {
+     "role": "body",
+     "text": "for which clerks of courts are required by this section to pay from"
+    },
+    {
+     "role": "body",
+     "text": "fees received by such clerks in naturalization proceedings, if in the"
+    },
+    {
+     "role": "body",
+     "text": "opinion of said Secretary the naturalization business of such clerk"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Limit."
+    },
+    {
+     "role": "body",
+     "text": "warrants further additional assistance: Provided, That in no event"
+    },
+    {
+     "role": "body",
+     "text": "shall the whole amount allowed the clerk of a court and his assistants"
+    },
+    {
+     "role": "body",
+     "text": "exceed the one-half of the gross receipts of the office of said clerk from"
+    },
+    {
+     "role": "sidenote",
+     "text": "Continuance at be-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ginning of fiscal year."
+    },
+    {
+     "role": "body",
+     "text": "naturalization fees during such fiscal year: Provided further, That"
+    },
+    {
+     "role": "body",
+     "text": "when, at the close of any fiscal year, the business of such clerk of"
+    },
+    {
+     "role": "body",
+     "text": "court indicates in the opinion of the Secretary of Commerce and"
+    },
+    {
+     "role": "body",
+     "text": "Labor that the naturalization fees for the succeeding fiscal year will"
+    },
+    {
+     "role": "body",
+     "text": "exceed six thousand dollars the Secretary of Commerce and Labor"
+    },
+    {
+     "role": "body",
+     "text": "may authorize the continuance of the allowance of salaries for the"
+    },
+    {
+     "role": "body",
+     "text": "additional clerical assistance herein provided for and employed on"
+    },
+    {
+     "role": "body",
+     "text": "the last day of the fiscal year until such time as the remittances indi-"
+    },
+    {
+     "role": "body",
+     "text": "cate in the opinion of said Secretary that the fees for the then current"
+    },
+    {
+     "role": "body",
+     "text": "fiscal year will not be sufficient to allow the additional clerical assist-"
+    },
+    {
+     "role": "body",
+     "text": "ance authorized by this Act."
+    },
+    {
+     "role": "sidenote",
+     "text": "Mode of payment,"
+    },
+    {
+     "role": "sidenote",
+     "text": "etc."
+    },
+    {
+     "role": "body",
+     "text": "\"That payment for the additional clerical assistance herein"
+    },
+    {
+     "role": "body",
+     "text": "authorized shall be in the manner and under such regulations as the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of Commerce and Labor may prescribe.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment for clerical"
+    },
+    {
+     "role": "sidenote",
+     "text": "assistance September"
+    },
+    {
+     "role": "sidenote",
+     "text": "27, 1906, to June 30,"
+    },
+    {
+     "role": "sidenote",
+     "text": "1907."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That the Secretary of Commerce and Labor is hereby"
+    },
+    {
+     "role": "body",
+     "text": "authorized to make requisition on the Treasurer of the United States"
+    },
+    {
+     "role": "body",
+     "text": "for such amount as may be necessary in his opinion to pay the clerks"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 596."
+    },
+    {
+     "role": "body",
+     "text": "of the several courts exercising jurisdiction under section three of the"
+    },
+    {
+     "role": "body",
+     "text": "Act of June twenty-ninth, nineteen hundred and six (Thirty-fourth"
+    },
+    {
+     "role": "body",
+     "text": "Statutes, page five hundred and ninety-six), for any additional clerical"
+    },
+    {
+     "role": "body",
+     "text": "assistance employed by them during the period from September"
+    },
+    {
+     "role": "body",
+     "text": "twenty-seventh, nineteen hundred and six, to June thirtieth, nineteen"
+    },
+    {
+     "role": "body",
+     "text": "hundred and seven, inclusive, if in the opinion of said Secretary the"
+    },
+    {
+     "role": "body",
+     "text": "business of such clerks, during the aforesaid period, warranted any"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Restriction."
+    },
+    {
+     "role": "body",
+     "text": "allowance for such additional clerical assistance: Provided, That no"
+    },
+    {
+     "role": "body",
+     "text": "allowance shall be made by said Secretary to any clerk for additional"
+    },
+    {
+     "role": "body",
+     "text": "clerical assistance who has not collected fees in naturalization pro-"
+    },
+    {
+     "role": "body",
+     "text": "ceedings in excess of the sum of four thousand five hundred dollars"
+    },
+    {
+     "role": "body",
+     "text": "during the period from September twenty-seventh, nineteen hundred"
+    },
+    {
+     "role": "body",
+     "text": "and six, to June thirtieth, nineteen hundred and seven, inclusive, and"
+    },
+    {
+     "role": "body",
+     "text": "that the total salaries of such additional clerical assistance shall in"
+    },
+    {
+     "role": "body",
+     "text": "no instance exceed the fees received by the United States from the"
+    },
+    {
+     "role": "body",
+     "text": "clerk of that court during the period from September twenty-seventh,"
+    },
+    {
+     "role": "body",
+     "text": "nineteen hundred and six, to June thirtieth, nineteen hundred and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "body",
+     "text": "seven, inclusive.  Such amount as may be necessary to pay the"
+    },
+    {
+     "role": "body",
+     "text": "additional clerical assistance herein provided for, not exceeding two"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars, is hereby appropriated from any moneys in the"
+    },
+    {
+     "role": "body",
+     "text": "Treasury of the United States not otherwise appropriated: Provided,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Regulations."
+    },
+    {
+     "role": "body",
+     "text": "That payment for the clerical assistance herein provided for shall be"
+    },
+    {
+     "role": "body",
+     "text": "in the manner and under such regulations as the Secretary of Com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Limit."
+    },
+    {
+     "role": "body",
+     "text": "merce and Labor may prescribe: Provided further, That no moneys"
+    },
+    {
+     "role": "body",
+     "text": "shall be paid to any clerk in excess of the aggregate of the sums paid"
+    },
+    {
+     "role": "body",
+     "text": "out by him."
+    },
+    {
+     "role": "sidenote",
+     "text": "Petitions for citizen-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ship."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That paragraph two of section four of an Act entitled \"An"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 597,"
+    },
+    {
+     "role": "sidenote",
+     "text": "amended."
+    },
+    {
+     "role": "body",
+     "text": "Act to establish a Bureau of Immigration and Naturalization, and to"
+    },
+    {
+     "role": "body",
+     "text": "provide for a uniform rule for the naturalization of aliens throughout"
+    },
+    {
+     "role": "body",
+     "text": "the United States,\" approved June twenty-ninth, nineteen hundred"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2577,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09129,
+   "seconds": 27.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12147,
+   "output_tokens": 721,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.07918,
+  "seconds": 11.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "830",
+    "kept": "830",
+    "reason": "The page number 830 is printed at the top left, before the running head."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "\"And in case the clerk of any court exercising naturalization juris-",
+    "kept": "",
+    "reason": "The sidenote block 'Clerks of courts. / Salaries allowed to / additional naturalization clerks. / Ante, p. 765.' is a single marginal block; the body text follows it, not interleaved."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "diction collects fees in excess of the sum of six thousand dollars in any",
+    "kept": "",
+    "reason": "Same sidenote block continues here; no body line intervenes in the margin block."
+   },
+   {
+    "run": 4,
+    "a": "\"And in case the clerk of any court exercising naturalization juris-\ndiction collects fees in excess of the sum of six thousand dollars in any",
+    "b": "",
+    "kept": "\"And in case the clerk of any court exercising naturalization juris-\ndiction collects fees in excess of the sum of six thousand dollars in any",
+    "reason": "These two body lines follow the complete sidenote block."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "SEC. 3. That paragraph two of section four of an Act entitled \"An",
+    "kept": "",
+    "reason": "The sidenote block 'Petitions for citizenship. / Vol. 34, p. 597, amended.' is continuous; no body line inside it."
+   },
+   {
+    "run": 6,
+    "a": "SEC. 3. That paragraph two of section four of an Act entitled \"An",
+    "b": "",
+    "kept": "SEC. 3. That paragraph two of section four of an Act entitled \"An",
+    "reason": "Body line follows the complete sidenote block."
+   },
+   {
+    "run": 7,
+    "a": "830",
+    "b": "",
+    "kept": "",
+    "reason": "The page number appears at the top of the page, not at the bottom."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "830"
+  },
+  {
+   "role": "running-head",
+   "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CH. 401.  1910."
+  },
+  {
+   "role": "body",
+   "text": "the said Secretary the business of such clerk warrants such allow-"
+  },
+  {
+   "role": "body",
+   "text": "ance,\" and inserting in lieu thereof the following:"
+  },
+  {
+   "role": "sidenote",
+   "text": "Clerks of courts."
+  },
+  {
+   "role": "sidenote",
+   "text": "Salaries allowed to"
+  },
+  {
+   "role": "sidenote",
+   "text": "additional naturaliza-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tion clerks."
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 765."
+  },
+  {
+   "role": "body",
+   "text": "\"And in case the clerk of any court exercising naturalization juris-"
+  },
+  {
+   "role": "body",
+   "text": "diction collects fees in excess of the sum of six thousand dollars in any"
+  },
+  {
+   "role": "body",
+   "text": "fiscal year the Secretary of Commerce and Labor may allow salaries,"
+  },
+  {
+   "role": "body",
+   "text": "for naturalization purposes only, to pay for clerical assistance, to be"
+  },
+  {
+   "role": "body",
+   "text": "selected and employed by that clerk, additional to the clerical force,"
+  },
+  {
+   "role": "body",
+   "text": "for which clerks of courts are required by this section to pay from"
+  },
+  {
+   "role": "body",
+   "text": "fees received by such clerks in naturalization proceedings, if in the"
+  },
+  {
+   "role": "body",
+   "text": "opinion of said Secretary the naturalization business of such clerk"
+  },
+  {
+   "role": "sidenote",
+   "text": "Provisos."
+  },
+  {
+   "role": "sidenote",
+   "text": "Limit."
+  },
+  {
+   "role": "body",
+   "text": "warrants further additional assistance: Provided, That in no event"
+  },
+  {
+   "role": "body",
+   "text": "shall the whole amount allowed the clerk of a court and his assistants"
+  },
+  {
+   "role": "body",
+   "text": "exceed the one-half of the gross receipts of the office of said clerk from"
+  },
+  {
+   "role": "sidenote",
+   "text": "Continuance at be-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ginning of fiscal year."
+  },
+  {
+   "role": "body",
+   "text": "naturalization fees during such fiscal year: Provided further, That"
+  },
+  {
+   "role": "body",
+   "text": "when, at the close of any fiscal year, the business of such clerk of"
+  },
+  {
+   "role": "body",
+   "text": "court indicates in the opinion of the Secretary of Commerce and"
+  },
+  {
+   "role": "body",
+   "text": "Labor that the naturalization fees for the succeeding fiscal year will"
+  },
+  {
+   "role": "body",
+   "text": "exceed six thousand dollars the Secretary of Commerce and Labor"
+  },
+  {
+   "role": "body",
+   "text": "may authorize the continuance of the allowance of salaries for the"
+  },
+  {
+   "role": "body",
+   "text": "additional clerical assistance herein provided for and employed on"
+  },
+  {
+   "role": "body",
+   "text": "the last day of the fiscal year until such time as the remittances indi-"
+  },
+  {
+   "role": "body",
+   "text": "cate in the opinion of said Secretary that the fees for the then current"
+  },
+  {
+   "role": "body",
+   "text": "fiscal year will not be sufficient to allow the additional clerical assist-"
+  },
+  {
+   "role": "body",
+   "text": "ance authorized by this Act."
+  },
+  {
+   "role": "sidenote",
+   "text": "Mode of payment,"
+  },
+  {
+   "role": "sidenote",
+   "text": "etc."
+  },
+  {
+   "role": "body",
+   "text": "\"That payment for the additional clerical assistance herein"
+  },
+  {
+   "role": "body",
+   "text": "authorized shall be in the manner and under such regulations as the"
+  },
+  {
+   "role": "body",
+   "text": "Secretary of Commerce and Labor may prescribe.\""
+  },
+  {
+   "role": "sidenote",
+   "text": "Payment for clerical"
+  },
+  {
+   "role": "sidenote",
+   "text": "assistance September"
+  },
+  {
+   "role": "sidenote",
+   "text": "27, 1906, to June 30,"
+  },
+  {
+   "role": "sidenote",
+   "text": "1907."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That the Secretary of Commerce and Labor is hereby"
+  },
+  {
+   "role": "body",
+   "text": "authorized to make requisition on the Treasurer of the United States"
+  },
+  {
+   "role": "body",
+   "text": "for such amount as may be necessary in his opinion to pay the clerks"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. 34, p. 596."
+  },
+  {
+   "role": "body",
+   "text": "of the several courts exercising jurisdiction under section three of the"
+  },
+  {
+   "role": "body",
+   "text": "Act of June twenty-ninth, nineteen hundred and six (Thirty-fourth"
+  },
+  {
+   "role": "body",
+   "text": "Statutes, page five hundred and ninety-six), for any additional clerical"
+  },
+  {
+   "role": "body",
+   "text": "assistance employed by them during the period from September"
+  },
+  {
+   "role": "body",
+   "text": "twenty-seventh, nineteen hundred and six, to June thirtieth, nineteen"
+  },
+  {
+   "role": "body",
+   "text": "hundred and seven, inclusive, if in the opinion of said Secretary the"
+  },
+  {
+   "role": "body",
+   "text": "business of such clerks, during the aforesaid period, warranted any"
+  },
+  {
+   "role": "sidenote",
+   "text": "Provisos."
+  },
+  {
+   "role": "sidenote",
+   "text": "Restriction."
+  },
+  {
+   "role": "body",
+   "text": "allowance for such additional clerical assistance: Provided, That no"
+  },
+  {
+   "role": "body",
+   "text": "allowance shall be made by said Secretary to any clerk for additional"
+  },
+  {
+   "role": "body",
+   "text": "clerical assistance who has not collected fees in naturalization pro-"
+  },
+  {
+   "role": "body",
+   "text": "ceedings in excess of the sum of four thousand five hundred dollars"
+  },
+  {
+   "role": "body",
+   "text": "during the period from September twenty-seventh, nineteen hundred"
+  },
+  {
+   "role": "body",
+   "text": "and six, to June thirtieth, nineteen hundred and seven, inclusive, and"
+  },
+  {
+   "role": "body",
+   "text": "that the total salaries of such additional clerical assistance shall in"
+  },
+  {
+   "role": "body",
+   "text": "no instance exceed the fees received by the United States from the"
+  },
+  {
+   "role": "body",
+   "text": "clerk of that court during the period from September twenty-seventh,"
+  },
+  {
+   "role": "body",
+   "text": "nineteen hundred and six, to June thirtieth, nineteen hundred and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation."
+  },
+  {
+   "role": "body",
+   "text": "seven, inclusive.  Such amount as may be necessary to pay the"
+  },
+  {
+   "role": "body",
+   "text": "additional clerical assistance herein provided for, not exceeding two"
+  },
+  {
+   "role": "body",
+   "text": "thousand dollars, is hereby appropriated from any moneys in the"
+  },
+  {
+   "role": "body",
+   "text": "Treasury of the United States not otherwise appropriated: Provided,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Regulations."
+  },
+  {
+   "role": "body",
+   "text": "That payment for the clerical assistance herein provided for shall be"
+  },
+  {
+   "role": "body",
+   "text": "in the manner and under such regulations as the Secretary of Com-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Limit."
+  },
+  {
+   "role": "body",
+   "text": "merce and Labor may prescribe: Provided further, That no moneys"
+  },
+  {
+   "role": "body",
+   "text": "shall be paid to any clerk in excess of the aggregate of the sums paid"
+  },
+  {
+   "role": "body",
+   "text": "out by him."
+  },
+  {
+   "role": "sidenote",
+   "text": "Petitions for citizen-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ship."
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol.  34,  p.  597,"
+  },
+  {
+   "role": "sidenote",
+   "text": "amended."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. That paragraph two of section four of an Act entitled \"An"
+  },
+  {
+   "role": "body",
+   "text": "Act to establish a Bureau of Immigration and Naturalization, and to"
+  },
+  {
+   "role": "body",
+   "text": "provide for a uniform rule for the naturalization of aliens throughout"
+  },
+  {
+   "role": "body",
+   "text": "the United States,\" approved June twenty-ninth, nineteen hundred"
+  }
+ ],
+ "disagreement_count": 7,
+ "tokens": {
+  "input_tokens": 22746,
+  "output_tokens": 6077,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.26682,
+ "seconds": 69.5,
+ "created": "2026-09-08T11:57:30"
+}

@@ -1,0 +1,489 @@
+{
+ "granule_id": "STATUTE-103-Pg7",
+ "package_id": "STATUTE-103",
+ "volume": 103,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "An act to designate March 16, 1989, as \"Freedom of Information Day\"",
+ "date_issued": "1989-03-23",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "7",
+ "image": "data/gold/STATUTE-103-Pg7/p1.png",
+ "image_sha256": "2e03051be1f778452d76222ac44ef0c3f4c841c93516b7fca767b349b3b3de61",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 101-5—MAR. 23, 1989        103 STAT. 7"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 101-5"
+    },
+    {
+     "role": "body",
+     "text": "101st Congress"
+    },
+    {
+     "role": "body",
+     "text": "Joint Resolution"
+    },
+    {
+     "role": "body",
+     "text": "To designate March 16, 1989, as \"Freedom of Information Day\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Mar. 23, 1989"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.J. Res. 167]"
+    },
+    {
+     "role": "body",
+     "text": "Whereas a fundamental principle of our Government is that a well-"
+    },
+    {
+     "role": "body",
+     "text": "informed citizenry can reach the important decisions that deter-"
+    },
+    {
+     "role": "body",
+     "text": "mine the present and future of the Nation;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the freedoms we cherish as Americans are fostered by free"
+    },
+    {
+     "role": "body",
+     "text": "access to information;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas many Americans, because they have never known any"
+    },
+    {
+     "role": "body",
+     "text": "other way of life, take for granted the guarantee of free access to"
+    },
+    {
+     "role": "body",
+     "text": "information that derives from the First Amendment to the Con-"
+    },
+    {
+     "role": "body",
+     "text": "stitution of the United States;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the guarantee of free access to information should be"
+    },
+    {
+     "role": "body",
+     "text": "emphasized and celebrated annually; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas March 16 is the anniversary of the birth of James Madison,"
+    },
+    {
+     "role": "body",
+     "text": "one of the Founding Fathers, who recognized and supported the"
+    },
+    {
+     "role": "body",
+     "text": "need to guarantee individual rights through the Bill of Rights:"
+    },
+    {
+     "role": "body",
+     "text": "Now, therefore, be it"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That March 16, 1989, is"
+    },
+    {
+     "role": "body",
+     "text": "designated as \"Freedom of Information Day\", and the President is"
+    },
+    {
+     "role": "body",
+     "text": "authorized and requested to issue a proclamation calling upon"
+    },
+    {
+     "role": "body",
+     "text": "Federal, State, and local government agencies and the people of the"
+    },
+    {
+     "role": "body",
+     "text": "United States to observe such day with appropriate programs, cere-"
+    },
+    {
+     "role": "body",
+     "text": "monies, and activities."
+    },
+    {
+     "role": "body",
+     "text": "Approved March 23, 1989."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—H.J. Res. 167:"
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+    },
+    {
+     "role": "footnote",
+     "text": "Mar. 14, considered and passed House."
+    },
+    {
+     "role": "footnote",
+     "text": "Mar. 16, considered and passed Senate."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 976,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.05127,
+   "seconds": 12.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 101-5—MAR. 23, 1989          103 STAT. 7"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 101-5"
+    },
+    {
+     "role": "body",
+     "text": "101st Congress"
+    },
+    {
+     "role": "body",
+     "text": "Joint Resolution"
+    },
+    {
+     "role": "body",
+     "text": "To designate March 16, 1989, as \"Freedom of Information Day\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Mar. 23, 1989"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.J. Res. 167]"
+    },
+    {
+     "role": "body",
+     "text": "Whereas a fundamental principle of our Government is that a well-"
+    },
+    {
+     "role": "body",
+     "text": "informed citizenry can reach the important decisions that deter-"
+    },
+    {
+     "role": "body",
+     "text": "mine the present and future of the Nation;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the freedoms we cherish as Americans are fostered by free"
+    },
+    {
+     "role": "body",
+     "text": "access to information;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas many Americans, because they have never known any"
+    },
+    {
+     "role": "body",
+     "text": "other way of life, take for granted the guarantee of free access to"
+    },
+    {
+     "role": "body",
+     "text": "information that derives from the First Amendment to the Con-"
+    },
+    {
+     "role": "body",
+     "text": "stitution of the United States;"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the guarantee of free access to information should be"
+    },
+    {
+     "role": "body",
+     "text": "emphasized and celebrated annually; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas March 16 is the anniversary of the birth of James Madison,"
+    },
+    {
+     "role": "body",
+     "text": "one of the Founding Fathers, who recognized and supported the"
+    },
+    {
+     "role": "body",
+     "text": "need to guarantee individual rights through the Bill of Rights:"
+    },
+    {
+     "role": "body",
+     "text": "Now, therefore, be it"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That March 16, 1989, is"
+    },
+    {
+     "role": "body",
+     "text": "designated as \"Freedom of Information Day\", and the President is"
+    },
+    {
+     "role": "body",
+     "text": "authorized and requested to issue a proclamation calling upon"
+    },
+    {
+     "role": "body",
+     "text": "Federal, State, and local government agencies and the people of the"
+    },
+    {
+     "role": "body",
+     "text": "United States to observe such day with appropriate programs, cere-"
+    },
+    {
+     "role": "body",
+     "text": "monies, and activities."
+    },
+    {
+     "role": "body",
+     "text": "Approved March 23, 1989."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—H.J. Res. 167:"
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+    },
+    {
+     "role": "footnote",
+     "text": "Mar. 14, considered and passed House."
+    },
+    {
+     "role": "footnote",
+     "text": "Mar. 16, considered and passed Senate."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 976,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.05127,
+   "seconds": 22.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "skipped": "transcriptions agree",
+  "disagreements": [],
+  "cost_usd": 0.0,
+  "usage": {
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 101-5—MAR. 23, 1989        103 STAT. 7"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 101-5"
+  },
+  {
+   "role": "body",
+   "text": "101st Congress"
+  },
+  {
+   "role": "body",
+   "text": "Joint Resolution"
+  },
+  {
+   "role": "body",
+   "text": "To designate March 16, 1989, as \"Freedom of Information Day\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "Mar. 23, 1989"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H.J. Res. 167]"
+  },
+  {
+   "role": "body",
+   "text": "Whereas a fundamental principle of our Government is that a well-"
+  },
+  {
+   "role": "body",
+   "text": "informed citizenry can reach the important decisions that deter-"
+  },
+  {
+   "role": "body",
+   "text": "mine the present and future of the Nation;"
+  },
+  {
+   "role": "body",
+   "text": "Whereas the freedoms we cherish as Americans are fostered by free"
+  },
+  {
+   "role": "body",
+   "text": "access to information;"
+  },
+  {
+   "role": "body",
+   "text": "Whereas many Americans, because they have never known any"
+  },
+  {
+   "role": "body",
+   "text": "other way of life, take for granted the guarantee of free access to"
+  },
+  {
+   "role": "body",
+   "text": "information that derives from the First Amendment to the Con-"
+  },
+  {
+   "role": "body",
+   "text": "stitution of the United States;"
+  },
+  {
+   "role": "body",
+   "text": "Whereas the guarantee of free access to information should be"
+  },
+  {
+   "role": "body",
+   "text": "emphasized and celebrated annually; and"
+  },
+  {
+   "role": "body",
+   "text": "Whereas March 16 is the anniversary of the birth of James Madison,"
+  },
+  {
+   "role": "body",
+   "text": "one of the Founding Fathers, who recognized and supported the"
+  },
+  {
+   "role": "body",
+   "text": "need to guarantee individual rights through the Bill of Rights:"
+  },
+  {
+   "role": "body",
+   "text": "Now, therefore, be it"
+  },
+  {
+   "role": "body",
+   "text": "Resolved by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That March 16, 1989, is"
+  },
+  {
+   "role": "body",
+   "text": "designated as \"Freedom of Information Day\", and the President is"
+  },
+  {
+   "role": "body",
+   "text": "authorized and requested to issue a proclamation calling upon"
+  },
+  {
+   "role": "body",
+   "text": "Federal, State, and local government agencies and the people of the"
+  },
+  {
+   "role": "body",
+   "text": "United States to observe such day with appropriate programs, cere-"
+  },
+  {
+   "role": "body",
+   "text": "monies, and activities."
+  },
+  {
+   "role": "body",
+   "text": "Approved March 23, 1989."
+  },
+  {
+   "role": "footnote",
+   "text": "LEGISLATIVE HISTORY—H.J. Res. 167:"
+  },
+  {
+   "role": "footnote",
+   "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+  },
+  {
+   "role": "footnote",
+   "text": "Mar. 14, considered and passed House."
+  },
+  {
+   "role": "footnote",
+   "text": "Mar. 16, considered and passed Senate."
+  }
+ ],
+ "disagreement_count": 0,
+ "tokens": {
+  "input_tokens": 10599,
+  "output_tokens": 1952,
+  "cache_read_input_tokens": 1490,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.10254,
+ "seconds": 34.6,
+ "created": "2026-09-08T11:23:13"
+}

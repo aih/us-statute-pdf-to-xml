@@ -1,0 +1,789 @@
+{
+ "granule_id": "STATUTE-97-Pg817",
+ "package_id": "STATUTE-97",
+ "volume": 97,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "An act to provide for the use and distribution of funds awarded the Assiniboine Tribe of the Fort Belknap Indian Community, Montana, and the Assiniboine Tribe of the Fort Peck Indian Reservation, Mont",
+ "date_issued": "1983-10-13",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "818",
+ "image": "data/gold/STATUTE-97-Pg817/p2.png",
+ "image_sha256": "684a07c157de287cc47311999bfb3cb3eea5c9440d61c45a2eacd5dee45416a7",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "97 STAT. 818                    PUBLIC LAW 98-124—OCT. 13, 1983"
+    },
+    {
+     "role": "body",
+     "text": "with this legislation, and related attorney fees and expenses, shall"
+    },
+    {
+     "role": "body",
+     "text": "be used and distributed as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Membership"
+    },
+    {
+     "role": "sidenote",
+     "text": "roll."
+    },
+    {
+     "role": "body",
+     "text": "(a) The Assiniboine membership roll of the Fort Peck Indian"
+    },
+    {
+     "role": "body",
+     "text": "Reservation, Montana, shall be brought current to include all"
+    },
+    {
+     "role": "body",
+     "text": "eligible members born on or prior to and living on the date of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Per capita"
+    },
+    {
+     "role": "sidenote",
+     "text": "payment."
+    },
+    {
+     "role": "body",
+     "text": "enactment of this Act. Subsequent to the preparation and"
+    },
+    {
+     "role": "body",
+     "text": "approval by the Secretary of this roll, the Secretary shall make"
+    },
+    {
+     "role": "body",
+     "text": "a per capita distribution of 70 percent of the funds (in sums as"
+    },
+    {
+     "role": "body",
+     "text": "equal as possible), to each enrollee."
+    },
+    {
+     "role": "sidenote",
+     "text": "Trust and"
+    },
+    {
+     "role": "sidenote",
+     "text": "investment."
+    },
+    {
+     "role": "body",
+     "text": "(b) 30 percent of these funds and any amounts remaining"
+    },
+    {
+     "role": "body",
+     "text": "after the per capita payment, shall be held in trust and invested"
+    },
+    {
+     "role": "body",
+     "text": "by the Secretary for the benefit of the Assiniboine Tribe of the"
+    },
+    {
+     "role": "body",
+     "text": "Fort Peck Indian Reservation and its members. The principal of"
+    },
+    {
+     "role": "body",
+     "text": "the funds and the income therefrom shall be applied and used"
+    },
+    {
+     "role": "body",
+     "text": "for the benefit of the Assiniboine Tribe of the Fort Peck Indian"
+    },
+    {
+     "role": "body",
+     "text": "Reservation and its members in accordance with reasonable"
+    },
+    {
+     "role": "body",
+     "text": "terms established by the Fort Peck Assiniboine Council with the"
+    },
+    {
+     "role": "body",
+     "text": "concurrence of the Tribal Executive Board of the Assiniboine"
+    },
+    {
+     "role": "body",
+     "text": "and Sioux Tribes of the Fort Peck Indian Reservation, and"
+    },
+    {
+     "role": "body",
+     "text": "approved by the Secretary: Provided, That until such terms has"
+    },
+    {
+     "role": "body",
+     "text": "been agreed upon, the Secretary shall fix the terms of the"
+    },
+    {
+     "role": "body",
+     "text": "administration of the portion of the funds as to which there is"
+    },
+    {
+     "role": "body",
+     "text": "no agreement."
+    },
+    {
+     "role": "sidenote",
+     "text": "Living and"
+    },
+    {
+     "role": "sidenote",
+     "text": "deceased"
+    },
+    {
+     "role": "sidenote",
+     "text": "individuals."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. The per capita shares of living competent adults shall be"
+    },
+    {
+     "role": "body",
+     "text": "paid directly to them. Shares of deceased individual beneficiaries"
+    },
+    {
+     "role": "body",
+     "text": "shall be determined and distributed in accordance with regulations"
+    },
+    {
+     "role": "body",
+     "text": "of the Secretary."
+    },
+    {
+     "role": "sidenote",
+     "text": "Tax exemption."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. None of the funds distributed per capita or held in trust"
+    },
+    {
+     "role": "body",
+     "text": "under the provisions of this Act shall be subject to Federal or State"
+    },
+    {
+     "role": "body",
+     "text": "income taxes, and the per capita or family interest payments shall"
+    },
+    {
+     "role": "body",
+     "text": "not be considered as income or resources when determining the"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 1305."
+    },
+    {
+     "role": "body",
+     "text": "extent of eligibility for assistance under the Social Security Act or"
+    },
+    {
+     "role": "body",
+     "text": "any Federal or federally assisted programs."
+    },
+    {
+     "role": "sidenote",
+     "text": "Rules and"
+    },
+    {
+     "role": "sidenote",
+     "text": "regulations."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. The Secretary is authorized to prescribe rules and regula-"
+    },
+    {
+     "role": "body",
+     "text": "tions to carry out the provisions of this Act, including the establish-"
+    },
+    {
+     "role": "body",
+     "text": "ment of deadlines for filing applications for enrollment."
+    },
+    {
+     "role": "body",
+     "text": "Approved October 13, 1983."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—S. 1148:"
+    },
+    {
+     "role": "footnote",
+     "text": "HOUSE REPORT No. 98-390 (Comm. on Interior and Insular Affairs)."
+    },
+    {
+     "role": "footnote",
+     "text": "SENATE REPORT No. 98-204 (Comm. on Indian Affairs)."
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 129 (1983):"
+    },
+    {
+     "role": "footnote",
+     "text": "Aug. 3, considered and passed Senate."
+    },
+    {
+     "role": "footnote",
+     "text": "Oct. 3, considered and passed House."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 1666,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.06852,
+   "seconds": 18.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "97 STAT. 818"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98-124—OCT. 13, 1983"
+    },
+    {
+     "role": "body",
+     "text": "with this legislation, and related attorney fees and expenses, shall"
+    },
+    {
+     "role": "body",
+     "text": "be used and distributed as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Membership"
+    },
+    {
+     "role": "sidenote",
+     "text": "roll."
+    },
+    {
+     "role": "body",
+     "text": "(a) The Assiniboine membership roll of the Fort Peck Indian"
+    },
+    {
+     "role": "body",
+     "text": "Reservation, Montana, shall be brought current to include all"
+    },
+    {
+     "role": "body",
+     "text": "eligible members born on or prior to and living on the date of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Per capita"
+    },
+    {
+     "role": "sidenote",
+     "text": "payment."
+    },
+    {
+     "role": "body",
+     "text": "enactment of this Act. Subsequent to the preparation and"
+    },
+    {
+     "role": "body",
+     "text": "approval by the Secretary of this roll, the Secretary shall make"
+    },
+    {
+     "role": "body",
+     "text": "a per capita distribution of 70 percent of the funds (in sums as"
+    },
+    {
+     "role": "body",
+     "text": "equal as possible), to each enrollee."
+    },
+    {
+     "role": "sidenote",
+     "text": "Trust and"
+    },
+    {
+     "role": "sidenote",
+     "text": "investment."
+    },
+    {
+     "role": "body",
+     "text": "(b) 30 percent of these funds and any amounts remaining"
+    },
+    {
+     "role": "body",
+     "text": "after the per capita payment, shall be held in trust and invested"
+    },
+    {
+     "role": "body",
+     "text": "by the Secretary for the benefit of the Assiniboine Tribe of the"
+    },
+    {
+     "role": "body",
+     "text": "Fort Peck Indian Reservation and its members. The principal of"
+    },
+    {
+     "role": "body",
+     "text": "the funds and the income therefrom shall be applied and used"
+    },
+    {
+     "role": "body",
+     "text": "for the benefit of the Assiniboine Tribe of the Fort Peck Indian"
+    },
+    {
+     "role": "body",
+     "text": "Reservation and its members in accordance with reasonable"
+    },
+    {
+     "role": "body",
+     "text": "terms established by the Fort Peck Assiniboine Council with the"
+    },
+    {
+     "role": "body",
+     "text": "concurrence of the Tribal Executive Board of the Assiniboine"
+    },
+    {
+     "role": "body",
+     "text": "and Sioux Tribes of the Fort Peck Indian Reservation, and"
+    },
+    {
+     "role": "body",
+     "text": "approved by the Secretary: Provided, That until such terms has"
+    },
+    {
+     "role": "body",
+     "text": "been agreed upon, the Secretary shall fix the terms of the"
+    },
+    {
+     "role": "body",
+     "text": "administration of the portion of the funds as to which there is"
+    },
+    {
+     "role": "body",
+     "text": "no agreement."
+    },
+    {
+     "role": "sidenote",
+     "text": "Living and"
+    },
+    {
+     "role": "sidenote",
+     "text": "deceased"
+    },
+    {
+     "role": "sidenote",
+     "text": "individuals."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. The per capita shares of living competent adults shall be"
+    },
+    {
+     "role": "body",
+     "text": "paid directly to them. Shares of deceased individual beneficiaries"
+    },
+    {
+     "role": "body",
+     "text": "shall be determined and distributed in accordance with regulations"
+    },
+    {
+     "role": "body",
+     "text": "of the Secretary."
+    },
+    {
+     "role": "sidenote",
+     "text": "Tax exemption."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. None of the funds distributed per capita or held in trust"
+    },
+    {
+     "role": "body",
+     "text": "under the provisions of this Act shall be subject to Federal or State"
+    },
+    {
+     "role": "body",
+     "text": "income taxes, and the per capita or family interest payments shall"
+    },
+    {
+     "role": "body",
+     "text": "not be considered as income or resources when determining the"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 1305."
+    },
+    {
+     "role": "body",
+     "text": "extent of eligibility for assistance under the Social Security Act or"
+    },
+    {
+     "role": "body",
+     "text": "any Federal or federally assisted programs."
+    },
+    {
+     "role": "sidenote",
+     "text": "Rules and"
+    },
+    {
+     "role": "sidenote",
+     "text": "regulations."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. The Secretary is authorized to prescribe rules and regula-"
+    },
+    {
+     "role": "body",
+     "text": "tions to carry out the provisions of this Act, including the establish-"
+    },
+    {
+     "role": "body",
+     "text": "ment of deadlines for filing applications for enrollment."
+    },
+    {
+     "role": "body",
+     "text": "Approved October 13, 1983."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—S. 1148:"
+    },
+    {
+     "role": "footnote",
+     "text": "HOUSE REPORT No. 98-390 (Comm. on Interior and Insular Affairs)."
+    },
+    {
+     "role": "footnote",
+     "text": "SENATE REPORT No. 98-204 (Comm. on Indian Affairs)."
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 129 (1983):"
+    },
+    {
+     "role": "footnote",
+     "text": "Aug. 3, considered and passed Senate."
+    },
+    {
+     "role": "footnote",
+     "text": "Oct. 3, considered and passed House."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 1661,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.06839,
+   "seconds": 18.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 10327,
+   "output_tokens": 121,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.05508,
+  "seconds": 6.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "97 STAT. 818                    PUBLIC LAW 98-124—OCT. 13, 1983",
+    "b": "97 STAT. 818\nPUBLIC LAW 98-124—OCT. 13, 1983",
+    "kept": "97 STAT. 818\nPUBLIC LAW 98-124—OCT. 13, 1983",
+    "reason": "The header consists of a page-number element at left and the law title centered; they are separate elements rather than one line."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "97 STAT. 818"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 98-124—OCT. 13, 1983"
+  },
+  {
+   "role": "body",
+   "text": "with this legislation, and related attorney fees and expenses, shall"
+  },
+  {
+   "role": "body",
+   "text": "be used and distributed as follows:"
+  },
+  {
+   "role": "sidenote",
+   "text": "Membership"
+  },
+  {
+   "role": "sidenote",
+   "text": "roll."
+  },
+  {
+   "role": "body",
+   "text": "(a) The Assiniboine membership roll of the Fort Peck Indian"
+  },
+  {
+   "role": "body",
+   "text": "Reservation, Montana, shall be brought current to include all"
+  },
+  {
+   "role": "body",
+   "text": "eligible members born on or prior to and living on the date of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Per capita"
+  },
+  {
+   "role": "sidenote",
+   "text": "payment."
+  },
+  {
+   "role": "body",
+   "text": "enactment of this Act. Subsequent to the preparation and"
+  },
+  {
+   "role": "body",
+   "text": "approval by the Secretary of this roll, the Secretary shall make"
+  },
+  {
+   "role": "body",
+   "text": "a per capita distribution of 70 percent of the funds (in sums as"
+  },
+  {
+   "role": "body",
+   "text": "equal as possible), to each enrollee."
+  },
+  {
+   "role": "sidenote",
+   "text": "Trust and"
+  },
+  {
+   "role": "sidenote",
+   "text": "investment."
+  },
+  {
+   "role": "body",
+   "text": "(b) 30 percent of these funds and any amounts remaining"
+  },
+  {
+   "role": "body",
+   "text": "after the per capita payment, shall be held in trust and invested"
+  },
+  {
+   "role": "body",
+   "text": "by the Secretary for the benefit of the Assiniboine Tribe of the"
+  },
+  {
+   "role": "body",
+   "text": "Fort Peck Indian Reservation and its members. The principal of"
+  },
+  {
+   "role": "body",
+   "text": "the funds and the income therefrom shall be applied and used"
+  },
+  {
+   "role": "body",
+   "text": "for the benefit of the Assiniboine Tribe of the Fort Peck Indian"
+  },
+  {
+   "role": "body",
+   "text": "Reservation and its members in accordance with reasonable"
+  },
+  {
+   "role": "body",
+   "text": "terms established by the Fort Peck Assiniboine Council with the"
+  },
+  {
+   "role": "body",
+   "text": "concurrence of the Tribal Executive Board of the Assiniboine"
+  },
+  {
+   "role": "body",
+   "text": "and Sioux Tribes of the Fort Peck Indian Reservation, and"
+  },
+  {
+   "role": "body",
+   "text": "approved by the Secretary: Provided, That until such terms has"
+  },
+  {
+   "role": "body",
+   "text": "been agreed upon, the Secretary shall fix the terms of the"
+  },
+  {
+   "role": "body",
+   "text": "administration of the portion of the funds as to which there is"
+  },
+  {
+   "role": "body",
+   "text": "no agreement."
+  },
+  {
+   "role": "sidenote",
+   "text": "Living and"
+  },
+  {
+   "role": "sidenote",
+   "text": "deceased"
+  },
+  {
+   "role": "sidenote",
+   "text": "individuals."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. The per capita shares of living competent adults shall be"
+  },
+  {
+   "role": "body",
+   "text": "paid directly to them. Shares of deceased individual beneficiaries"
+  },
+  {
+   "role": "body",
+   "text": "shall be determined and distributed in accordance with regulations"
+  },
+  {
+   "role": "body",
+   "text": "of the Secretary."
+  },
+  {
+   "role": "sidenote",
+   "text": "Tax exemption."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. None of the funds distributed per capita or held in trust"
+  },
+  {
+   "role": "body",
+   "text": "under the provisions of this Act shall be subject to Federal or State"
+  },
+  {
+   "role": "body",
+   "text": "income taxes, and the per capita or family interest payments shall"
+  },
+  {
+   "role": "body",
+   "text": "not be considered as income or resources when determining the"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 1305."
+  },
+  {
+   "role": "body",
+   "text": "extent of eligibility for assistance under the Social Security Act or"
+  },
+  {
+   "role": "body",
+   "text": "any Federal or federally assisted programs."
+  },
+  {
+   "role": "sidenote",
+   "text": "Rules and"
+  },
+  {
+   "role": "sidenote",
+   "text": "regulations."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 6. The Secretary is authorized to prescribe rules and regula-"
+  },
+  {
+   "role": "body",
+   "text": "tions to carry out the provisions of this Act, including the establish-"
+  },
+  {
+   "role": "body",
+   "text": "ment of deadlines for filing applications for enrollment."
+  },
+  {
+   "role": "body",
+   "text": "Approved October 13, 1983."
+  },
+  {
+   "role": "footnote",
+   "text": "LEGISLATIVE HISTORY—S. 1148:"
+  },
+  {
+   "role": "footnote",
+   "text": "HOUSE REPORT No. 98-390 (Comm. on Interior and Insular Affairs)."
+  },
+  {
+   "role": "footnote",
+   "text": "SENATE REPORT No. 98-204 (Comm. on Indian Affairs)."
+  },
+  {
+   "role": "footnote",
+   "text": "CONGRESSIONAL RECORD, Vol. 129 (1983):"
+  },
+  {
+   "role": "footnote",
+   "text": "Aug. 3, considered and passed Senate."
+  },
+  {
+   "role": "footnote",
+   "text": "Oct. 3, considered and passed House."
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 20926,
+  "output_tokens": 3448,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.19199,
+ "seconds": 43.8,
+ "created": "2026-09-08T11:21:26"
+}

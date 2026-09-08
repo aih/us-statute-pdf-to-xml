@@ -1,0 +1,1445 @@
+{
+ "granule_id": "STATUTE-12-Pg33",
+ "package_id": "STATUTE-12",
+ "volume": 12,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend an Act entitled an Act to define and regulate the Jurisdiction of the District Courts of the United States in California in Regard to the Survey and Location of confirmed Private Land ",
+ "date_issued": "1860-06-14",
+ "pdf_page": 1,
+ "pdf_pages": 3,
+ "stat_page": "33",
+ "image": "data/gold/STATUTE-12-Pg33/p1.png",
+ "image_sha256": "b281d9b4502f79c2faee22700292c9c396d1fdcd6ff4c5f1c45aa3e12c0f4ba4",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-SIXTH CONGRESS.  SESS. I.  CH. 122, 128.  1860."
+    },
+    {
+     "role": "page-number",
+     "text": "33"
+    },
+    {
+     "role": "body",
+     "text": "manners and according to such forms as may be prescribed, from time to"
+    },
+    {
+     "role": "body",
+     "text": "time, by the corporation of Washington."
+    },
+    {
+     "role": "sidenote",
+     "text": "Certificate of"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 8. And be it further enacted, That a certificate under seal of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "lot to have same"
+    },
+    {
+     "role": "body",
+     "text": "corporation, of the ownership of any lot aforesaid, shall, in all respects,"
+    },
+    {
+     "role": "sidenote",
+     "text": "effect as deed."
+    },
+    {
+     "role": "body",
+     "text": "have the same effect as any conveyance from said corporation of said lot"
+    },
+    {
+     "role": "body",
+     "text": "would have if executed, acknowledged, and recorded, as conveyances of"
+    },
+    {
+     "role": "body",
+     "text": "real estate are required to be."
+    },
+    {
+     "role": "sidenote",
+     "text": "Corporation"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 9. And be it further enacted, That nothing in this act shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "not to issue notes,"
+    },
+    {
+     "role": "body",
+     "text": "so construed as to authorize the said corporation to issue any note, token,"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c., as currency."
+    },
+    {
+     "role": "body",
+     "text": "device, or scrip, or other evidence of debt, to be used as currency."
+    },
+    {
+     "role": "sidenote",
+     "text": "When act takes"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 10. And be it further enacted, That this act shall take effect from"
+    },
+    {
+     "role": "sidenote",
+     "text": "effect."
+    },
+    {
+     "role": "body",
+     "text": "the passage thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "Congress may"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 11. And be it further enacted, That it may be lawful for Con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "amend, &c., this"
+    },
+    {
+     "role": "body",
+     "text": "gress hereafter to alter, modify, or repeal the foregoing act."
+    },
+    {
+     "role": "sidenote",
+     "text": "act."
+    },
+    {
+     "role": "sidenote",
+     "text": "Stockholders"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 12. And be it further enacted, That each of the stockholders in"
+    },
+    {
+     "role": "sidenote",
+     "text": "individually lia-"
+    },
+    {
+     "role": "body",
+     "text": "the said company shall be held liable in his or her individual capacity, for"
+    },
+    {
+     "role": "sidenote",
+     "text": "ble for debts."
+    },
+    {
+     "role": "body",
+     "text": "all the debts and liabilities of the said company, however contracted or"
+    },
+    {
+     "role": "body",
+     "text": "incurred, to be recovered by suit, as other debts or liabilities, before the"
+    },
+    {
+     "role": "body",
+     "text": "court or tribunal having jurisdiction of the case."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 13, 1860."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 14, 1860."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CXXVIII.—An Act to amend an Act entitled an Act to define and regulate the"
+    },
+    {
+     "role": "body",
+     "text": "Jurisdiction of the District Courts of the United States in California in Regard to the Sur-"
+    },
+    {
+     "role": "body",
+     "text": "vey and Location of confirmed Private Land Claims."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That whenever the surveyor-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Notice of sur-"
+    },
+    {
+     "role": "body",
+     "text": "general of California shall, in compliance with the thirteenth section of an"
+    },
+    {
+     "role": "sidenote",
+     "text": "vey of private"
+    },
+    {
+     "role": "body",
+     "text": "act entitled \" An act to ascertain and settle [the] private land claims in"
+    },
+    {
+     "role": "sidenote",
+     "text": "land claim and"
+    },
+    {
+     "role": "body",
+     "text": "the State of California,\" approved March three, eighteen hundred and"
+    },
+    {
+     "role": "sidenote",
+     "text": "approval of plat"
+    },
+    {
+     "role": "body",
+     "text": "fifty-one, have caused any private land claim to be surveyed, and a plat to"
+    },
+    {
+     "role": "sidenote",
+     "text": "thereof by the"
+    },
+    {
+     "role": "body",
+     "text": "be made thereof, he shall give notice that the same has been done, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "surveyor-general"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be published."
+    },
+    {
+     "role": "body",
+     "text": "the survey and plat approved by him, by a publication once a week for"
+    },
+    {
+     "role": "sidenote",
+     "text": "1851, ch. 41."
+    },
+    {
+     "role": "body",
+     "text": "four weeks in two newspapers, one published in the city of San Francisco,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. ix. p. 631."
+    },
+    {
+     "role": "body",
+     "text": "and one of which the place of publication is nearest the land, if the land is"
+    },
+    {
+     "role": "body",
+     "text": "situated in the northern district of California; and once a week for four"
+    },
+    {
+     "role": "body",
+     "text": "weeks in two newspapers, one published in Los Angeles, and one of which"
+    },
+    {
+     "role": "body",
+     "text": "the place of publication is nearest the land, if the land is situated in the"
+    },
+    {
+     "role": "body",
+     "text": "southern district of California; and until the expiration of such time, the"
+    },
+    {
+     "role": "body",
+     "text": "survey and plat shall be retained in his office, subject to inspection."
+    },
+    {
+     "role": "sidenote",
+     "text": "District court"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the district courts of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "may order survey"
+    },
+    {
+     "role": "body",
+     "text": "United States for the northern and southern districts of California are"
+    },
+    {
+     "role": "sidenote",
+     "text": "of private land"
+    },
+    {
+     "role": "body",
+     "text": "hereby authorized, upon the application of any party interested, to make"
+    },
+    {
+     "role": "sidenote",
+     "text": "claim to be re-"
+    },
+    {
+     "role": "body",
+     "text": "an order requiring any survey of a private land claim within their respec-"
+    },
+    {
+     "role": "sidenote",
+     "text": "turned into court,"
+    },
+    {
+     "role": "body",
+     "text": "tive districts to be returned into the district court for examination and"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "body",
+     "text": "adjudication, and on the receipt of said order, duly certified by the clerk"
+    },
+    {
+     "role": "body",
+     "text": "of either of said courts, it shall be the duty of the surveyor-general to"
+    },
+    {
+     "role": "body",
+     "text": "transmit said survey and plat forthwith to the said court."
+    },
+    {
+     "role": "sidenote",
+     "text": "Order to be"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That said order shall be granted by"
+    },
+    {
+     "role": "sidenote",
+     "text": "granted in discre-"
+    },
+    {
+     "role": "body",
+     "text": "said courts on the application of any party whom the district courts, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion of court, and"
+    },
+    {
+     "role": "body",
+     "text": "the judge thereof, in vacation, shall deem to have such an interest in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "on whose appli-"
+    },
+    {
+     "role": "body",
+     "text": "survey and location of a land claim, as to make it just and proper, that he"
+    },
+    {
+     "role": "sidenote",
+     "text": "cation."
+    },
+    {
+     "role": "body",
+     "text": "should be allowed to take testimony and to intervene for his interest"
+    },
+    {
+     "role": "body",
+     "text": "therein ; and if objections to the survey and location shall be made on the"
+    },
+    {
+     "role": "body",
+     "text": "part of the United States, the order to return the survey into court shall"
+    },
+    {
+     "role": "body",
+     "text": "be made on the motion of the district attorney founded on sufficient affi-"
+    },
+    {
+     "role": "body",
+     "text": "davits ; and if the application for such order is made by other parties"
+    },
+    {
+     "role": "body",
+     "text": "claiming to be interested in, or that their rights are affected by, such"
+    },
+    {
+     "role": "body",
+     "text": "survey and location, the court, or the judge in vacation, shall proceed"
+    },
+    {
+     "role": "body",
+     "text": "summarily, on affidavits or otherwise, to inquire into the fact of such"
+    },
+    {
+     "role": "body",
+     "text": "VOL. XII.  PUB.—5"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2744,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09603,
+   "seconds": 60.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY–SIXTH CONGRESS.  SESS. I.  CH. 122, 128.  1860."
+    },
+    {
+     "role": "page-number",
+     "text": "33"
+    },
+    {
+     "role": "body",
+     "text": "manners and according to such forms as may be prescribed, from time to"
+    },
+    {
+     "role": "body",
+     "text": "time, by the corporation of Washington."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 8. And be it further enacted, That a certificate under seal of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Certificate of"
+    },
+    {
+     "role": "body",
+     "text": "corporation, of the ownership of any lot aforesaid, shall, in all respects,"
+    },
+    {
+     "role": "sidenote",
+     "text": "lot to have same"
+    },
+    {
+     "role": "body",
+     "text": "have the same effect as any conveyance from said corporation of said lot"
+    },
+    {
+     "role": "sidenote",
+     "text": "effect as deed."
+    },
+    {
+     "role": "body",
+     "text": "would have if executed, acknowledged, and recorded, as conveyances of"
+    },
+    {
+     "role": "body",
+     "text": "real estate are required to be."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 9. And be it further enacted, That nothing in this act shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Corporation"
+    },
+    {
+     "role": "body",
+     "text": "so construed as to authorize the said corporation to issue any note, token,"
+    },
+    {
+     "role": "sidenote",
+     "text": "not to issue notes,"
+    },
+    {
+     "role": "body",
+     "text": "device, or scrip, or other evidence of debt, to be used as currency."
+    },
+    {
+     "role": "sidenote",
+     "text": "&c., as currency."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 10. And be it further enacted, That this act shall take effect from"
+    },
+    {
+     "role": "sidenote",
+     "text": "When act takes"
+    },
+    {
+     "role": "body",
+     "text": "the passage thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "effect."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 11. And be it further enacted, That it may be lawful for Con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Congress may"
+    },
+    {
+     "role": "body",
+     "text": "gress hereafter to alter, modify, or repeal the foregoing act."
+    },
+    {
+     "role": "sidenote",
+     "text": "amend, &c., this"
+    },
+    {
+     "role": "sidenote",
+     "text": "act."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 12. And be it further enacted, That each of the stockholders in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Stockholders"
+    },
+    {
+     "role": "body",
+     "text": "the said company shall be held liable in his or her individual capacity, for"
+    },
+    {
+     "role": "sidenote",
+     "text": "individually lia-"
+    },
+    {
+     "role": "body",
+     "text": "all the debts and liabilities of the said company, however contracted or"
+    },
+    {
+     "role": "sidenote",
+     "text": "ble for debts."
+    },
+    {
+     "role": "body",
+     "text": "incurred, to be recovered by suit, as other debts or liabilities, before the"
+    },
+    {
+     "role": "body",
+     "text": "court or tribunal having jurisdiction of the case."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 13, 1860."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CXXVIII.—An Act to amend an Act entitled an Act to define and regulate the"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 14, 1860."
+    },
+    {
+     "role": "body",
+     "text": "Jurisdiction of the District Courts of the United States in California in Regard to the Sur-"
+    },
+    {
+     "role": "body",
+     "text": "vey and Location of confirmed Private Land Claims."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That whenever the surveyor-"
+    },
+    {
+     "role": "body",
+     "text": "general of California shall, in compliance with the thirteenth section of an"
+    },
+    {
+     "role": "sidenote",
+     "text": "Notice of sur-"
+    },
+    {
+     "role": "body",
+     "text": "act entitled “ An act to ascertain and settle [the] private land claims in"
+    },
+    {
+     "role": "sidenote",
+     "text": "vey of private"
+    },
+    {
+     "role": "body",
+     "text": "the State of California,” approved March three, eighteen hundred and"
+    },
+    {
+     "role": "sidenote",
+     "text": "land claim and"
+    },
+    {
+     "role": "sidenote",
+     "text": "approval of plat"
+    },
+    {
+     "role": "body",
+     "text": "fifty-one, have caused any private land claim to be surveyed, and a plat to"
+    },
+    {
+     "role": "sidenote",
+     "text": "thereof by the"
+    },
+    {
+     "role": "body",
+     "text": "be made thereof, he shall give notice that the same has been done, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "surveyor-general"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be published."
+    },
+    {
+     "role": "body",
+     "text": "the survey and plat approved by him, by a publication once a week for"
+    },
+    {
+     "role": "sidenote",
+     "text": "1851, ch. 41."
+    },
+    {
+     "role": "body",
+     "text": "four weeks in two newspapers, one published in the city of San Francisco,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. ix. p. 631."
+    },
+    {
+     "role": "body",
+     "text": "and one of which the place of publication is nearest the land, if the land is"
+    },
+    {
+     "role": "body",
+     "text": "situated in the northern district of California; and once a week for four"
+    },
+    {
+     "role": "body",
+     "text": "weeks in two newspapers, one published in Los Angeles, and one of which"
+    },
+    {
+     "role": "body",
+     "text": "the place of publication is nearest the land, if the land is situated in the"
+    },
+    {
+     "role": "body",
+     "text": "southern district of California ; and until the expiration of such time, the"
+    },
+    {
+     "role": "body",
+     "text": "survey and plat shall be retained in his office, subject to inspection."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the district courts of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "District court"
+    },
+    {
+     "role": "body",
+     "text": "United States for the northern and southern districts of California are"
+    },
+    {
+     "role": "sidenote",
+     "text": "may order survey"
+    },
+    {
+     "role": "body",
+     "text": "hereby authorized, upon the application of any party interested, to make"
+    },
+    {
+     "role": "sidenote",
+     "text": "of private land"
+    },
+    {
+     "role": "sidenote",
+     "text": "claim to be re-"
+    },
+    {
+     "role": "body",
+     "text": "an order requiring any survey of a private land claim within their respec-"
+    },
+    {
+     "role": "sidenote",
+     "text": "turned into court,"
+    },
+    {
+     "role": "body",
+     "text": "tive districts to be returned into the district court for examination and"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "body",
+     "text": "adjudication, and on the receipt of said order, duly certified by the clerk"
+    },
+    {
+     "role": "body",
+     "text": "of either of said courts, it shall be the duty of the surveyor-general to"
+    },
+    {
+     "role": "body",
+     "text": "transmit said survey and plat forthwith to the said court."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That said order shall be granted by"
+    },
+    {
+     "role": "sidenote",
+     "text": "Order to be"
+    },
+    {
+     "role": "body",
+     "text": "said courts on the application of any party whom the district courts, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "granted in discre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion of court, and"
+    },
+    {
+     "role": "body",
+     "text": "the judge thereof, in vacation, shall deem to have such an interest in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "on whose appli-"
+    },
+    {
+     "role": "body",
+     "text": "survey and location of a land claim, as to make it just and proper, that he"
+    },
+    {
+     "role": "sidenote",
+     "text": "cation."
+    },
+    {
+     "role": "body",
+     "text": "should be allowed to take testimony and to intervene for his interest"
+    },
+    {
+     "role": "body",
+     "text": "therein ; and if objections to the survey and location shall be made on the"
+    },
+    {
+     "role": "body",
+     "text": "part of the United States, the order to return the survey into court shall"
+    },
+    {
+     "role": "body",
+     "text": "be made on the motion of the district attorney founded on sufficient affi-"
+    },
+    {
+     "role": "body",
+     "text": "davits ; and if the application for such order is made by other parties"
+    },
+    {
+     "role": "body",
+     "text": "claiming to be interested in, or that their rights are affected by, such"
+    },
+    {
+     "role": "body",
+     "text": "survey and location, the court, or the judge in vacation, shall proceed"
+    },
+    {
+     "role": "body",
+     "text": "summarily, on affidavits or otherwise, to inquire into the fact of such"
+    },
+    {
+     "role": "body",
+     "text": "VOL. XII.  PUB.—5"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2685,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09455,
+   "seconds": 50.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13895,
+   "output_tokens": 2693,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.13722,
+  "seconds": 63.9,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "SEC. 8. And be it further enacted, That a certificate under seal of the",
+    "kept": "SEC. 8. And be it further enacted, That a certificate under seal of the",
+    "reason": "Body line is printed on the same line as the sidenote \"Certificate of\"; body precedes sidenote in reading order."
+   },
+   {
+    "run": 2,
+    "a": "SEC. 8. And be it further enacted, That a certificate under seal of the",
+    "b": "corporation, of the ownership of any lot aforesaid, shall, in all respects,",
+    "kept": "corporation, of the ownership of any lot aforesaid, shall, in all respects,",
+    "reason": "Next body line, aligned with sidenote \"lot to have same\"."
+   },
+   {
+    "run": 3,
+    "a": "corporation, of the ownership of any lot aforesaid, shall, in all respects,",
+    "b": "have the same effect as any conveyance from said corporation of said lot",
+    "kept": "have the same effect as any conveyance from said corporation of said lot",
+    "reason": "Body line aligned with sidenote \"effect as deed.\""
+   },
+   {
+    "run": 4,
+    "a": "have the same effect as any conveyance from said corporation of said lot",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 3; nothing further printed here."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "SEC. 9. And be it further enacted, That nothing in this act shall be",
+    "kept": "SEC. 9. And be it further enacted, That nothing in this act shall be",
+    "reason": "Body line printed on same line as sidenote \"Corporation\"."
+   },
+   {
+    "run": 6,
+    "a": "SEC. 9. And be it further enacted, That nothing in this act shall be",
+    "b": "so construed as to authorize the said corporation to issue any note, token,",
+    "kept": "so construed as to authorize the said corporation to issue any note, token,",
+    "reason": "Body line aligned with \"not to issue notes,\"."
+   },
+   {
+    "run": 7,
+    "a": "so construed as to authorize the said corporation to issue any note, token,",
+    "b": "device, or scrip, or other evidence of debt, to be used as currency.",
+    "kept": "device, or scrip, or other evidence of debt, to be used as currency.",
+    "reason": "Body line aligned with \"&c., as currency.\""
+   },
+   {
+    "run": 8,
+    "a": "device, or scrip, or other evidence of debt, to be used as currency.",
+    "b": "SEC. 10. And be it further enacted, That this act shall take effect from",
+    "kept": "SEC. 10. And be it further enacted, That this act shall take effect from",
+    "reason": "Body line aligned with \"When act takes\"."
+   },
+   {
+    "run": 9,
+    "a": "SEC. 10. And be it further enacted, That this act shall take effect from",
+    "b": "the passage thereof.",
+    "kept": "the passage thereof.",
+    "reason": "Body line aligned with \"effect.\""
+   },
+   {
+    "run": 10,
+    "a": "the passage thereof.",
+    "b": "SEC. 11. And be it further enacted, That it may be lawful for Con-",
+    "kept": "SEC. 11. And be it further enacted, That it may be lawful for Con-",
+    "reason": "Body line aligned with \"Congress may\"."
+   },
+   {
+    "run": 11,
+    "a": "SEC. 11. And be it further enacted, That it may be lawful for Con-",
+    "b": "gress hereafter to alter, modify, or repeal the foregoing act.",
+    "kept": "gress hereafter to alter, modify, or repeal the foregoing act.",
+    "reason": "Body line aligned with \"amend, &c., this\"."
+   },
+   {
+    "run": 12,
+    "a": "gress hereafter to alter, modify, or repeal the foregoing act.",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 11."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "SEC. 12. And be it further enacted, That each of the stockholders in",
+    "kept": "SEC. 12. And be it further enacted, That each of the stockholders in",
+    "reason": "Body line aligned with \"Stockholders\"."
+   },
+   {
+    "run": 14,
+    "a": "SEC. 12. And be it further enacted, That each of the stockholders in",
+    "b": "the said company shall be held liable in his or her individual capacity, for",
+    "kept": "the said company shall be held liable in his or her individual capacity, for",
+    "reason": "Body line aligned with \"individually lia-\"."
+   },
+   {
+    "run": 15,
+    "a": "the said company shall be held liable in his or her individual capacity, for",
+    "b": "all the debts and liabilities of the said company, however contracted or",
+    "kept": "all the debts and liabilities of the said company, however contracted or",
+    "reason": "Body line aligned with \"ble for debts.\""
+   },
+   {
+    "run": 16,
+    "a": "all the debts and liabilities of the said company, however contracted or",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 15."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "CHAP. CXXVIII.—An Act to amend an Act entitled an Act to define and regulate the",
+    "kept": "CHAP. CXXVIII.—An Act to amend an Act entitled an Act to define and regulate the",
+    "reason": "Chapter heading printed on same line as sidenote \"June 14, 1860.\", heading first."
+   },
+   {
+    "run": 18,
+    "a": "CHAP. CXXVIII.—An Act to amend an Act entitled an Act to define and regulate the",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 17."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "general of California shall, in compliance with the thirteenth section of an",
+    "kept": "general of California shall, in compliance with the thirteenth section of an",
+    "reason": "Body line aligned with \"Notice of sur-\"."
+   },
+   {
+    "run": 20,
+    "a": "general of California shall, in compliance with the thirteenth section of an",
+    "b": "act entitled “ An act to ascertain and settle [the] private land claims in",
+    "kept": "act entitled “ An act to ascertain and settle [the] private land claims in",
+    "reason": "Body line with curly opening quote, aligned with \"vey of private\"."
+   },
+   {
+    "run": 21,
+    "a": "act entitled \" An act to ascertain and settle [the] private land claims in",
+    "b": "the State of California,” approved March three, eighteen hundred and",
+    "kept": "the State of California,” approved March three, eighteen hundred and",
+    "reason": "Body line with curly closing quote, aligned with \"land claim and\"."
+   },
+   {
+    "run": 22,
+    "a": "the State of California,\" approved March three, eighteen hundred and",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 21."
+   },
+   {
+    "run": 23,
+    "a": "",
+    "b": "SEC. 2. And be it further enacted, That the district courts of the",
+    "kept": "SEC. 2. And be it further enacted, That the district courts of the",
+    "reason": "Body line aligned with \"District court\"."
+   },
+   {
+    "run": 24,
+    "a": "SEC. 2. And be it further enacted, That the district courts of the",
+    "b": "United States for the northern and southern districts of California are",
+    "kept": "United States for the northern and southern districts of California are",
+    "reason": "Body line aligned with \"may order survey\"."
+   },
+   {
+    "run": 25,
+    "a": "United States for the northern and southern districts of California are",
+    "b": "hereby authorized, upon the application of any party interested, to make",
+    "kept": "hereby authorized, upon the application of any party interested, to make",
+    "reason": "Body line aligned with \"of private land\"."
+   },
+   {
+    "run": 26,
+    "a": "hereby authorized, upon the application of any party interested, to make",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 25."
+   },
+   {
+    "run": 27,
+    "a": "",
+    "b": "SEC. 3. And be it further enacted, That said order shall be granted by",
+    "kept": "SEC. 3. And be it further enacted, That said order shall be granted by",
+    "reason": "Body line aligned with \"Order to be\"."
+   },
+   {
+    "run": 28,
+    "a": "SEC. 3. And be it further enacted, That said order shall be granted by",
+    "b": "said courts on the application of any party whom the district courts, or",
+    "kept": "said courts on the application of any party whom the district courts, or",
+    "reason": "Body line aligned with \"granted in discre-\"."
+   },
+   {
+    "run": 29,
+    "a": "said courts on the application of any party whom the district courts, or",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 28."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "THIRTY-SIXTH CONGRESS.  SESS. I.  CH. 122, 128.  1860."
+  },
+  {
+   "role": "page-number",
+   "text": "33"
+  },
+  {
+   "role": "body",
+   "text": "manners and according to such forms as may be prescribed, from time to"
+  },
+  {
+   "role": "body",
+   "text": "time, by the corporation of Washington."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 8. And be it further enacted, That a certificate under seal of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Certificate of"
+  },
+  {
+   "role": "body",
+   "text": "corporation, of the ownership of any lot aforesaid, shall, in all respects,"
+  },
+  {
+   "role": "sidenote",
+   "text": "lot to have same"
+  },
+  {
+   "role": "body",
+   "text": "have the same effect as any conveyance from said corporation of said lot"
+  },
+  {
+   "role": "sidenote",
+   "text": "effect as deed."
+  },
+  {
+   "role": "body",
+   "text": "would have if executed, acknowledged, and recorded, as conveyances of"
+  },
+  {
+   "role": "body",
+   "text": "real estate are required to be."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 9. And be it further enacted, That nothing in this act shall be"
+  },
+  {
+   "role": "sidenote",
+   "text": "Corporation"
+  },
+  {
+   "role": "body",
+   "text": "so construed as to authorize the said corporation to issue any note, token,"
+  },
+  {
+   "role": "sidenote",
+   "text": "not to issue notes,"
+  },
+  {
+   "role": "body",
+   "text": "device, or scrip, or other evidence of debt, to be used as currency."
+  },
+  {
+   "role": "sidenote",
+   "text": "&c., as currency."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 10. And be it further enacted, That this act shall take effect from"
+  },
+  {
+   "role": "sidenote",
+   "text": "When act takes"
+  },
+  {
+   "role": "body",
+   "text": "the passage thereof."
+  },
+  {
+   "role": "sidenote",
+   "text": "effect."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 11. And be it further enacted, That it may be lawful for Con-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Congress may"
+  },
+  {
+   "role": "body",
+   "text": "gress hereafter to alter, modify, or repeal the foregoing act."
+  },
+  {
+   "role": "sidenote",
+   "text": "amend, &c., this"
+  },
+  {
+   "role": "sidenote",
+   "text": "act."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 12. And be it further enacted, That each of the stockholders in"
+  },
+  {
+   "role": "sidenote",
+   "text": "Stockholders"
+  },
+  {
+   "role": "body",
+   "text": "the said company shall be held liable in his or her individual capacity, for"
+  },
+  {
+   "role": "sidenote",
+   "text": "individually lia-"
+  },
+  {
+   "role": "body",
+   "text": "all the debts and liabilities of the said company, however contracted or"
+  },
+  {
+   "role": "sidenote",
+   "text": "ble for debts."
+  },
+  {
+   "role": "body",
+   "text": "incurred, to be recovered by suit, as other debts or liabilities, before the"
+  },
+  {
+   "role": "body",
+   "text": "court or tribunal having jurisdiction of the case."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, June 13, 1860."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CXXVIII.—An Act to amend an Act entitled an Act to define and regulate the"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 14, 1860."
+  },
+  {
+   "role": "body",
+   "text": "Jurisdiction of the District Courts of the United States in California in Regard to the Sur-"
+  },
+  {
+   "role": "body",
+   "text": "vey and Location of confirmed Private Land Claims."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That whenever the surveyor-"
+  },
+  {
+   "role": "body",
+   "text": "general of California shall, in compliance with the thirteenth section of an"
+  },
+  {
+   "role": "sidenote",
+   "text": "Notice of sur-"
+  },
+  {
+   "role": "body",
+   "text": "act entitled “ An act to ascertain and settle [the] private land claims in"
+  },
+  {
+   "role": "sidenote",
+   "text": "vey of private"
+  },
+  {
+   "role": "body",
+   "text": "the State of California,” approved March three, eighteen hundred and"
+  },
+  {
+   "role": "sidenote",
+   "text": "land claim and"
+  },
+  {
+   "role": "sidenote",
+   "text": "approval of plat"
+  },
+  {
+   "role": "body",
+   "text": "fifty-one, have caused any private land claim to be surveyed, and a plat to"
+  },
+  {
+   "role": "sidenote",
+   "text": "thereof by the"
+  },
+  {
+   "role": "body",
+   "text": "be made thereof, he shall give notice that the same has been done, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "surveyor-general"
+  },
+  {
+   "role": "sidenote",
+   "text": "to be published."
+  },
+  {
+   "role": "body",
+   "text": "the survey and plat approved by him, by a publication once a week for"
+  },
+  {
+   "role": "sidenote",
+   "text": "1851, ch. 41."
+  },
+  {
+   "role": "body",
+   "text": "four weeks in two newspapers, one published in the city of San Francisco,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. ix. p. 631."
+  },
+  {
+   "role": "body",
+   "text": "and one of which the place of publication is nearest the land, if the land is"
+  },
+  {
+   "role": "body",
+   "text": "situated in the northern district of California; and once a week for four"
+  },
+  {
+   "role": "body",
+   "text": "weeks in two newspapers, one published in Los Angeles, and one of which"
+  },
+  {
+   "role": "body",
+   "text": "the place of publication is nearest the land, if the land is situated in the"
+  },
+  {
+   "role": "body",
+   "text": "southern district of California; and until the expiration of such time, the"
+  },
+  {
+   "role": "body",
+   "text": "survey and plat shall be retained in his office, subject to inspection."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the district courts of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "District court"
+  },
+  {
+   "role": "body",
+   "text": "United States for the northern and southern districts of California are"
+  },
+  {
+   "role": "sidenote",
+   "text": "may order survey"
+  },
+  {
+   "role": "body",
+   "text": "hereby authorized, upon the application of any party interested, to make"
+  },
+  {
+   "role": "sidenote",
+   "text": "of private land"
+  },
+  {
+   "role": "sidenote",
+   "text": "claim to be re-"
+  },
+  {
+   "role": "body",
+   "text": "an order requiring any survey of a private land claim within their respec-"
+  },
+  {
+   "role": "sidenote",
+   "text": "turned into court,"
+  },
+  {
+   "role": "body",
+   "text": "tive districts to be returned into the district court for examination and"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c."
+  },
+  {
+   "role": "body",
+   "text": "adjudication, and on the receipt of said order, duly certified by the clerk"
+  },
+  {
+   "role": "body",
+   "text": "of either of said courts, it shall be the duty of the surveyor-general to"
+  },
+  {
+   "role": "body",
+   "text": "transmit said survey and plat forthwith to the said court."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That said order shall be granted by"
+  },
+  {
+   "role": "sidenote",
+   "text": "Order to be"
+  },
+  {
+   "role": "body",
+   "text": "said courts on the application of any party whom the district courts, or"
+  },
+  {
+   "role": "sidenote",
+   "text": "granted in discre-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tion of court, and"
+  },
+  {
+   "role": "body",
+   "text": "the judge thereof, in vacation, shall deem to have such an interest in the"
+  },
+  {
+   "role": "sidenote",
+   "text": "on whose appli-"
+  },
+  {
+   "role": "body",
+   "text": "survey and location of a land claim, as to make it just and proper, that he"
+  },
+  {
+   "role": "sidenote",
+   "text": "cation."
+  },
+  {
+   "role": "body",
+   "text": "should be allowed to take testimony and to intervene for his interest"
+  },
+  {
+   "role": "body",
+   "text": "therein ; and if objections to the survey and location shall be made on the"
+  },
+  {
+   "role": "body",
+   "text": "part of the United States, the order to return the survey into court shall"
+  },
+  {
+   "role": "body",
+   "text": "be made on the motion of the district attorney founded on sufficient affi-"
+  },
+  {
+   "role": "body",
+   "text": "davits ; and if the application for such order is made by other parties"
+  },
+  {
+   "role": "body",
+   "text": "claiming to be interested in, or that their rights are affected by, such"
+  },
+  {
+   "role": "body",
+   "text": "survey and location, the court, or the judge in vacation, shall proceed"
+  },
+  {
+   "role": "body",
+   "text": "summarily, on affidavits or otherwise, to inquire into the fact of such"
+  },
+  {
+   "role": "body",
+   "text": "VOL. XII.  PUB.—5"
+  }
+ ],
+ "disagreement_count": 29,
+ "tokens": {
+  "input_tokens": 24718,
+  "output_tokens": 8122,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.3278,
+ "seconds": 174.4,
+ "created": "2026-09-08T12:04:12"
+}

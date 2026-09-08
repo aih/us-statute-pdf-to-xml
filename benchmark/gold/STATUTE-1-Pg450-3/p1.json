@@ -1,0 +1,1141 @@
+{
+ "granule_id": "STATUTE-1-Pg450-3",
+ "package_id": "STATUTE-1",
+ "volume": 1,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act making certain provisions in regard to the Circuit Court, for the district of North Carolina.",
+ "date_issued": "1796-03-31",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "450",
+ "image": "data/gold/STATUTE-1-Pg450-3/p1.png",
+ "image_sha256": "7c7da3c69f02dd722dd9d2839f26eafef33a6337266839d0fb75413921a5b6e9",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "450"
+    },
+    {
+     "role": "running-head",
+     "text": "FOURTH CONGRESS.  SESS. I. CH. 7, 8, 10.   1796."
+    },
+    {
+     "role": "body",
+     "text": "scribed by law, for such vessels respectively, as may now be within the"
+    },
+    {
+     "role": "body",
+     "text": "United States, within ninety days from the passing of this act; and for"
+    },
+    {
+     "role": "body",
+     "text": "others, within the same time after their first arrival within the United"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 10, 1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 12, 1796."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. VII.—An Act making a partial appropriation for the support of the Mili-"
+    },
+    {
+     "role": "body",
+     "text": "tary establishment, for the year one thousand seven hundred and ninety-six."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation"
+    },
+    {
+     "role": "sidenote",
+     "text": "for the expense"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the military"
+    },
+    {
+     "role": "sidenote",
+     "text": "establishment."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That the sum"
+    },
+    {
+     "role": "body",
+     "text": "of five hundred thousand dollars be, and the same is hereby appropriated"
+    },
+    {
+     "role": "body",
+     "text": "towards defraying the expenses of the military establishment, for the"
+    },
+    {
+     "role": "body",
+     "text": "year one thousand seven hundred and ninety-six."
+    },
+    {
+     "role": "sidenote",
+     "text": "Out of what"
+    },
+    {
+     "role": "sidenote",
+     "text": "funds payable."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the said sum shall be paid"
+    },
+    {
+     "role": "body",
+     "text": "and discharged out of the funds following, to wit : First, the balance"
+    },
+    {
+     "role": "body",
+     "text": "which may remain unexpended of the sum of six hundred thousand dol-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 138."
+    },
+    {
+     "role": "body",
+     "text": "lars, reserved by the act \"making provision for the debt of the United"
+    },
+    {
+     "role": "body",
+     "text": "States,\" after satisfying the appropriations made in the present session,"
+    },
+    {
+     "role": "body",
+     "text": "for the support of government: Secondly, the surplus of revenue and"
+    },
+    {
+     "role": "body",
+     "text": "income beyond the appropriations heretofore charged thereupon, to the"
+    },
+    {
+     "role": "body",
+     "text": "end of the year one thousand seven hundred and ninety-six."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 12, 1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 23, 1796."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. VIII.—An Act for the relief of certain officers and soldiers who have been"
+    },
+    {
+     "role": "body",
+     "text": "wounded or disabled in the actual service of the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provision for"
+    },
+    {
+     "role": "sidenote",
+     "text": "persons wound-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed or disabled in"
+    },
+    {
+     "role": "sidenote",
+     "text": "the militia, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "for volunteers in"
+    },
+    {
+     "role": "sidenote",
+     "text": "the like case."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That every commis-"
+    },
+    {
+     "role": "body",
+     "text": "sioned, non-commissioned officer, private or musician, who has been"
+    },
+    {
+     "role": "body",
+     "text": "wounded or disabled, while in the line of his duty, in actual service,"
+    },
+    {
+     "role": "body",
+     "text": "called out by authority of any law of the United States, while he be-"
+    },
+    {
+     "role": "body",
+     "text": "longed to the militia; or any volunteer not belonging to the militia, who"
+    },
+    {
+     "role": "body",
+     "text": "has been wounded or disabled, while in the line of his duty, in actual"
+    },
+    {
+     "role": "body",
+     "text": "service, as aforesaid, shall be placed on the list of invalids of the United"
+    },
+    {
+     "role": "body",
+     "text": "States, at such rate of pay, and under such regulations, as shall be"
+    },
+    {
+     "role": "body",
+     "text": "directed by the President of the United States for the time being : Pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Extent of com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "pensation to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "allowed."
+    },
+    {
+     "role": "body",
+     "text": "vided, the rate of compensation for such wounds and disabilities shall"
+    },
+    {
+     "role": "body",
+     "text": "never exceed for the highest disabilities, half the monthly pay received"
+    },
+    {
+     "role": "body",
+     "text": "by any commissioned officer, at the time of being so wounded or dis-"
+    },
+    {
+     "role": "body",
+     "text": "abled; and that the rate of compensation to non-commissioned officers,"
+    },
+    {
+     "role": "body",
+     "text": "privates and musicians, shall never exceed five dollars per month; and"
+    },
+    {
+     "role": "body",
+     "text": "that all inferior disabilities shall entitle the person so disabled, to receive"
+    },
+    {
+     "role": "sidenote",
+     "text": "What persons"
+    },
+    {
+     "role": "sidenote",
+     "text": "this provision"
+    },
+    {
+     "role": "sidenote",
+     "text": "extends to."
+    },
+    {
+     "role": "body",
+     "text": "only a sum in proportion to the highest disability : And provided, that"
+    },
+    {
+     "role": "body",
+     "text": "these provisions shall not be construed to extend to any person wounded"
+    },
+    {
+     "role": "body",
+     "text": "or disabled, before the fourth of March, one thousand seven hundred"
+    },
+    {
+     "role": "body",
+     "text": "and eighty-nine, nor to any person wounded or disabled since that time,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Application to"
+    },
+    {
+     "role": "sidenote",
+     "text": "be made within"
+    },
+    {
+     "role": "sidenote",
+     "text": "one year after"
+    },
+    {
+     "role": "sidenote",
+     "text": "the end of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "session."
+    },
+    {
+     "role": "body",
+     "text": "who has made application for a pension, under any existing law of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, and has been denied, or admitted on the pension list:"
+    },
+    {
+     "role": "body",
+     "text": "And provided, that all applications herein shall be made within one year"
+    },
+    {
+     "role": "body",
+     "text": "after the end of the present session of Congress."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 23, 1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 31, 1796."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. X.—An Act making certain provisions in regard to the Circuit Court, for"
+    },
+    {
+     "role": "body",
+     "text": "the district of North Carolina."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "WHEREAS a sufficient quorum of judges did not attend to hold the"
+    },
+    {
+     "role": "body",
+     "text": "circuit court, for the district of North Carolina, for the purpose of doing"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2431,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08821,
+   "seconds": 63.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "450"
+    },
+    {
+     "role": "running-head",
+     "text": "FOURTH CONGRESS.  Sess. I. Ch. 7, 8, 10.   1796."
+    },
+    {
+     "role": "body",
+     "text": "scribed by law, for such vessels respectively, as may now be within the"
+    },
+    {
+     "role": "body",
+     "text": "United States, within ninety days from the passing of this act; and for"
+    },
+    {
+     "role": "body",
+     "text": "others, within the same time after their first arrival within the United"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 10, 1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 12, 1796."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. VII.—An Act making a partial appropriation for the support of the Mili-"
+    },
+    {
+     "role": "body",
+     "text": "tary establishment, for the year one thousand seven hundred and ninety-six."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation"
+    },
+    {
+     "role": "sidenote",
+     "text": "for the expense"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the military"
+    },
+    {
+     "role": "sidenote",
+     "text": "establishment."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That the sum"
+    },
+    {
+     "role": "body",
+     "text": "of five hundred thousand dollars be, and the same is hereby appropriated"
+    },
+    {
+     "role": "body",
+     "text": "towards defraying the expenses of the military establishment, for the"
+    },
+    {
+     "role": "body",
+     "text": "year one thousand seven hundred and ninety-six."
+    },
+    {
+     "role": "sidenote",
+     "text": "Out of what"
+    },
+    {
+     "role": "sidenote",
+     "text": "funds payable."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the said sum shall be paid"
+    },
+    {
+     "role": "body",
+     "text": "and discharged out of the funds following, to wit : First, the balance"
+    },
+    {
+     "role": "body",
+     "text": "which may remain unexpended of the sum of six hundred thousand dol-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 138."
+    },
+    {
+     "role": "body",
+     "text": "lars, reserved by the act “ making provision for the debt of the United"
+    },
+    {
+     "role": "body",
+     "text": "States,” after satisfying the appropriations made in the present session,"
+    },
+    {
+     "role": "body",
+     "text": "for the support of government: Secondly, the surplus of revenue and"
+    },
+    {
+     "role": "body",
+     "text": "income beyond the appropriations heretofore charged thereupon, to the"
+    },
+    {
+     "role": "body",
+     "text": "end of the year one thousand seven hundred and ninety-six."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 12, 1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 23, 1796."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. VIII.—An Act for the relief of certain officers and soldiers who have been"
+    },
+    {
+     "role": "body",
+     "text": "wounded or disabled in the actual service of the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provision for"
+    },
+    {
+     "role": "sidenote",
+     "text": "persons wound-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed or disabled in"
+    },
+    {
+     "role": "sidenote",
+     "text": "the militia, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "for volunteers in"
+    },
+    {
+     "role": "sidenote",
+     "text": "the like case."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That every commis-"
+    },
+    {
+     "role": "body",
+     "text": "sioned, non-commissioned officer, private or musician, who has been"
+    },
+    {
+     "role": "body",
+     "text": "wounded or disabled, while in the line of his duty, in actual service,"
+    },
+    {
+     "role": "body",
+     "text": "called out by authority of any law of the United States, while he be-"
+    },
+    {
+     "role": "body",
+     "text": "longed to the militia; or any volunteer not belonging to the militia, who"
+    },
+    {
+     "role": "body",
+     "text": "has been wounded or disabled, while in the line of his duty, in actual"
+    },
+    {
+     "role": "body",
+     "text": "service, as aforesaid, shall be placed on the list of invalids of the United"
+    },
+    {
+     "role": "body",
+     "text": "States, at such rate of pay, and under such regulations, as shall be"
+    },
+    {
+     "role": "body",
+     "text": "directed by the President of the United States for the time being : Pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Extent of com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "pensation to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "allowed."
+    },
+    {
+     "role": "body",
+     "text": "vided, the rate of compensation for such wounds and disabilities shall"
+    },
+    {
+     "role": "body",
+     "text": "never exceed for the highest disabilities, half the monthly pay received"
+    },
+    {
+     "role": "body",
+     "text": "by any commissioned officer, at the time of being so wounded or dis-"
+    },
+    {
+     "role": "body",
+     "text": "abled; and that the rate of compensation to non-commissioned officers,"
+    },
+    {
+     "role": "body",
+     "text": "privates and musicians, shall never exceed five dollars per month ; and"
+    },
+    {
+     "role": "body",
+     "text": "that all inferior disabilities shall entitle the person so disabled, to receive"
+    },
+    {
+     "role": "sidenote",
+     "text": "What persons"
+    },
+    {
+     "role": "sidenote",
+     "text": "this provision"
+    },
+    {
+     "role": "sidenote",
+     "text": "extends to."
+    },
+    {
+     "role": "body",
+     "text": "only a sum in proportion to the highest disability : And provided, that"
+    },
+    {
+     "role": "body",
+     "text": "these provisions shall not be construed to extend to any person wounded"
+    },
+    {
+     "role": "body",
+     "text": "or disabled, before the fourth of March, one thousand seven hundred"
+    },
+    {
+     "role": "body",
+     "text": "and eighty-nine, nor to any person wounded or disabled since that time,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Application to"
+    },
+    {
+     "role": "sidenote",
+     "text": "be made within"
+    },
+    {
+     "role": "sidenote",
+     "text": "one year after"
+    },
+    {
+     "role": "sidenote",
+     "text": "the end of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "session."
+    },
+    {
+     "role": "body",
+     "text": "who has made application for a pension, under any existing law of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, and has been denied, or admitted on the pension list:"
+    },
+    {
+     "role": "body",
+     "text": "And provided, that all applications herein shall be made within one year"
+    },
+    {
+     "role": "body",
+     "text": "after the end of the present session of Congress."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 23, 1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 31, 1796."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. X.—An Act making certain provisions in regard to the Circuit Court, for"
+    },
+    {
+     "role": "body",
+     "text": "the district of North Carolina."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "WHEREAS a sufficient quorum of judges did not attend to hold the"
+    },
+    {
+     "role": "body",
+     "text": "circuit court, for the district of North Carolina, for the purpose of doing"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2442,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 721
+   },
+   "cost_usd": 0.09262,
+   "seconds": 114.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11527,
+   "output_tokens": 171,
+   "cache_read_input_tokens": 0,
+   "cache_creation_input_tokens": 833
+  },
+  "cost_usd": 0.06712,
+  "seconds": 46.1,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "lars, reserved by the act \"making provision for the debt of the United",
+    "b": "lars, reserved by the act “ making provision for the debt of the United",
+    "kept": "lars, reserved by the act “ making provision for the debt of the United",
+    "reason": "Image shows an opening double quote followed by a space before \"making\"."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "450"
+  },
+  {
+   "role": "running-head",
+   "text": "FOURTH CONGRESS.  SESS. I. CH. 7, 8, 10.   1796."
+  },
+  {
+   "role": "body",
+   "text": "scribed by law, for such vessels respectively, as may now be within the"
+  },
+  {
+   "role": "body",
+   "text": "United States, within ninety days from the passing of this act; and for"
+  },
+  {
+   "role": "body",
+   "text": "others, within the same time after their first arrival within the United"
+  },
+  {
+   "role": "body",
+   "text": "States."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 10, 1796."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 12, 1796."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. VII.—An Act making a partial appropriation for the support of the Mili-"
+  },
+  {
+   "role": "body",
+   "text": "tary establishment, for the year one thousand seven hundred and ninety-six."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation"
+  },
+  {
+   "role": "sidenote",
+   "text": "for the expense"
+  },
+  {
+   "role": "sidenote",
+   "text": "of the military"
+  },
+  {
+   "role": "sidenote",
+   "text": "establishment."
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+  },
+  {
+   "role": "body",
+   "text": "of the United States of America in Congress assembled, That the sum"
+  },
+  {
+   "role": "body",
+   "text": "of five hundred thousand dollars be, and the same is hereby appropriated"
+  },
+  {
+   "role": "body",
+   "text": "towards defraying the expenses of the military establishment, for the"
+  },
+  {
+   "role": "body",
+   "text": "year one thousand seven hundred and ninety-six."
+  },
+  {
+   "role": "sidenote",
+   "text": "Out of what"
+  },
+  {
+   "role": "sidenote",
+   "text": "funds payable."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the said sum shall be paid"
+  },
+  {
+   "role": "body",
+   "text": "and discharged out of the funds following, to wit : First, the balance"
+  },
+  {
+   "role": "body",
+   "text": "which may remain unexpended of the sum of six hundred thousand dol-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 138."
+  },
+  {
+   "role": "body",
+   "text": "lars, reserved by the act “ making provision for the debt of the United"
+  },
+  {
+   "role": "body",
+   "text": "States,\" after satisfying the appropriations made in the present session,"
+  },
+  {
+   "role": "body",
+   "text": "for the support of government: Secondly, the surplus of revenue and"
+  },
+  {
+   "role": "body",
+   "text": "income beyond the appropriations heretofore charged thereupon, to the"
+  },
+  {
+   "role": "body",
+   "text": "end of the year one thousand seven hundred and ninety-six."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 12, 1796."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 23, 1796."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. VIII.—An Act for the relief of certain officers and soldiers who have been"
+  },
+  {
+   "role": "body",
+   "text": "wounded or disabled in the actual service of the United States."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "sidenote",
+   "text": "Provision for"
+  },
+  {
+   "role": "sidenote",
+   "text": "persons wound-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ed or disabled in"
+  },
+  {
+   "role": "sidenote",
+   "text": "the militia, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "for volunteers in"
+  },
+  {
+   "role": "sidenote",
+   "text": "the like case."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That every commis-"
+  },
+  {
+   "role": "body",
+   "text": "sioned, non-commissioned officer, private or musician, who has been"
+  },
+  {
+   "role": "body",
+   "text": "wounded or disabled, while in the line of his duty, in actual service,"
+  },
+  {
+   "role": "body",
+   "text": "called out by authority of any law of the United States, while he be-"
+  },
+  {
+   "role": "body",
+   "text": "longed to the militia; or any volunteer not belonging to the militia, who"
+  },
+  {
+   "role": "body",
+   "text": "has been wounded or disabled, while in the line of his duty, in actual"
+  },
+  {
+   "role": "body",
+   "text": "service, as aforesaid, shall be placed on the list of invalids of the United"
+  },
+  {
+   "role": "body",
+   "text": "States, at such rate of pay, and under such regulations, as shall be"
+  },
+  {
+   "role": "body",
+   "text": "directed by the President of the United States for the time being : Pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Extent of com-"
+  },
+  {
+   "role": "sidenote",
+   "text": "pensation to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "allowed."
+  },
+  {
+   "role": "body",
+   "text": "vided, the rate of compensation for such wounds and disabilities shall"
+  },
+  {
+   "role": "body",
+   "text": "never exceed for the highest disabilities, half the monthly pay received"
+  },
+  {
+   "role": "body",
+   "text": "by any commissioned officer, at the time of being so wounded or dis-"
+  },
+  {
+   "role": "body",
+   "text": "abled; and that the rate of compensation to non-commissioned officers,"
+  },
+  {
+   "role": "body",
+   "text": "privates and musicians, shall never exceed five dollars per month; and"
+  },
+  {
+   "role": "body",
+   "text": "that all inferior disabilities shall entitle the person so disabled, to receive"
+  },
+  {
+   "role": "sidenote",
+   "text": "What persons"
+  },
+  {
+   "role": "sidenote",
+   "text": "this provision"
+  },
+  {
+   "role": "sidenote",
+   "text": "extends to."
+  },
+  {
+   "role": "body",
+   "text": "only a sum in proportion to the highest disability : And provided, that"
+  },
+  {
+   "role": "body",
+   "text": "these provisions shall not be construed to extend to any person wounded"
+  },
+  {
+   "role": "body",
+   "text": "or disabled, before the fourth of March, one thousand seven hundred"
+  },
+  {
+   "role": "body",
+   "text": "and eighty-nine, nor to any person wounded or disabled since that time,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Application to"
+  },
+  {
+   "role": "sidenote",
+   "text": "be made within"
+  },
+  {
+   "role": "sidenote",
+   "text": "one year after"
+  },
+  {
+   "role": "sidenote",
+   "text": "the end of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "session."
+  },
+  {
+   "role": "body",
+   "text": "who has made application for a pension, under any existing law of the"
+  },
+  {
+   "role": "body",
+   "text": "United States, and has been denied, or admitted on the pension list:"
+  },
+  {
+   "role": "body",
+   "text": "And provided, that all applications herein shall be made within one year"
+  },
+  {
+   "role": "body",
+   "text": "after the end of the present session of Congress."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 23, 1796."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 31, 1796."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. X.—An Act making certain provisions in regard to the Circuit Court, for"
+  },
+  {
+   "role": "body",
+   "text": "the district of North Carolina."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "WHEREAS a sufficient quorum of judges did not attend to hold the"
+  },
+  {
+   "role": "body",
+   "text": "circuit court, for the district of North Carolina, for the purpose of doing"
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 22350,
+  "output_tokens": 5044,
+  "cache_read_input_tokens": 769,
+  "cache_creation_input_tokens": 1554
+ },
+ "cost_usd": 0.24795,
+ "seconds": 223.9,
+ "created": "2026-09-08T11:07:58"
+}

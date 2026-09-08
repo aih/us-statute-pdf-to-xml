@@ -1,0 +1,897 @@
+{
+ "granule_id": "STATUTE-77-Pg144",
+ "package_id": "STATUTE-77",
+ "volume": 77,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to remove the percentage limitations on retirement of enlisted men of the Coast Guard, and for other purposes.",
+ "date_issued": "1963-09-06",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "144",
+ "image": "data/gold/STATUTE-77-Pg144/p1.png",
+ "image_sha256": "6cc4edb6b7da4348c431887e3073dbf62dc9cab348147c4d9d35e4721a8655ac",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "144"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 88-114–SEPT. 6, 1963"
+    },
+    {
+     "role": "running-head",
+     "text": "[77 STAT."
+    },
+    {
+     "role": "sidenote",
+     "text": "Transfer of"
+    },
+    {
+     "role": "sidenote",
+     "text": "funds."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. The Administrator is hereby authorized to transfer, with"
+    },
+    {
+     "role": "body",
+     "text": "the approval of the Bureau of the Budget, funds appropriated pursu-"
+    },
+    {
+     "role": "body",
+     "text": "ant to this Act (other than funds appropriated pursuant to paragraph"
+    },
+    {
+     "role": "body",
+     "text": "(15) of subsection 1(b)), to any other agency of the Government"
+    },
+    {
+     "role": "body",
+     "text": "whenever the Administrator determines such transfer necessary for"
+    },
+    {
+     "role": "body",
+     "text": "the efficient accomplishment of the objectives for which the funds have"
+    },
+    {
+     "role": "sidenote",
+     "text": "Report to Con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gressional Com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "mittees."
+    },
+    {
+     "role": "body",
+     "text": "been appropriated.    Not more than $20,000,000 of the funds authorized"
+    },
+    {
+     "role": "body",
+     "text": "by this Act may be transferred by the Administrator under this section,"
+    },
+    {
+     "role": "body",
+     "text": "and no transfer in excess of $250,000 shall be made under this section"
+    },
+    {
+     "role": "body",
+     "text": "unless the Administrator has transmitted to the Committee on Aero-"
+    },
+    {
+     "role": "body",
+     "text": "nautical and Space Sciences of the Senate and to the Committee on"
+    },
+    {
+     "role": "body",
+     "text": "Science and Astronautics of the House of Representatives a written"
+    },
+    {
+     "role": "body",
+     "text": "statement concerning the amount and purpose of, and the reason for,"
+    },
+    {
+     "role": "body",
+     "text": "such transfer, and (1) each such committee has transmitted to the"
+    },
+    {
+     "role": "body",
+     "text": "Administrator written notice to the effect that such committee has"
+    },
+    {
+     "role": "body",
+     "text": "no objection to that transfer, or (2) thirty days have passed after the"
+    },
+    {
+     "role": "body",
+     "text": "transmittal by the Administrator of such statement to those com-"
+    },
+    {
+     "role": "body",
+     "text": "mittees."
+    },
+    {
+     "role": "sidenote",
+     "text": "72 Stat. 438."
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 2459."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. Section 307 of the National Aeronautics and Space Act of"
+    },
+    {
+     "role": "body",
+     "text": "1958 is amended by adding at the end thereof the following new sub-"
+    },
+    {
+     "role": "body",
+     "text": "section:"
+    },
+    {
+     "role": "body",
+     "text": "\"(c) Notwithstanding any other provision of law, the authorization"
+    },
+    {
+     "role": "body",
+     "text": "of any appropriation to the Administration shall expire (unless an"
+    },
+    {
+     "role": "body",
+     "text": "earlier expiration is specifically provided) at the close of the third"
+    },
+    {
+     "role": "body",
+     "text": "fiscal year following the fiscal year in which the authorization was"
+    },
+    {
+     "role": "body",
+     "text": "enacted, to the extent that such appropriation has not theretofore"
+    },
+    {
+     "role": "body",
+     "text": "actually been made.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "Short title."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. This Act may be cited as the \"National Aeronautics and"
+    },
+    {
+     "role": "body",
+     "text": "Space Administration Authorization Act, 1964\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 6, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-114"
+    },
+    {
+     "role": "sidenote",
+     "text": "September 6, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1194]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To remove the percentage limitations on retirement of enlisted men of the Coast"
+    },
+    {
+     "role": "body",
+     "text": "Guard, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Coast Guard."
+    },
+    {
+     "role": "sidenote",
+     "text": "Enlisted men,"
+    },
+    {
+     "role": "sidenote",
+     "text": "retirement."
+    },
+    {
+     "role": "sidenote",
+     "text": "63 Stat. 521."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That title 14, United"
+    },
+    {
+     "role": "body",
+     "text": "States Code, is amended as follows:"
+    },
+    {
+     "role": "body",
+     "text": "(1) Section 357(c) is amended by striking out the words \"or any"
+    },
+    {
+     "role": "body",
+     "text": "enlisted man so retired whose average marks in conduct during his"
+    },
+    {
+     "role": "body",
+     "text": "service in the Coast Guard were not less than 97½ per centum of the"
+    },
+    {
+     "role": "body",
+     "text": "maximum, or any enlisted man so retired who shall have been both so"
+    },
+    {
+     "role": "body",
+     "text": "cited and shall have received such average marks,\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "63 Stat. 522."
+    },
+    {
+     "role": "body",
+     "text": "(2) Section 358 is repealed."
+    },
+    {
+     "role": "body",
+     "text": "(3) The analysis of chapter 11 is amended by striking out the"
+    },
+    {
+     "role": "body",
+     "text": "following item:"
+    },
+    {
+     "role": "body",
+     "text": "\"358. Limitation of retirements.\""
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The amendment made by subsection (1) of section 1 of this"
+    },
+    {
+     "role": "body",
+     "text": "Act does not apply to any enlisted man in service on the effective date"
+    },
+    {
+     "role": "body",
+     "text": "of this Act."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 6, 1963."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 1957,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07636,
+   "seconds": 27.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "144"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 88-114–SEPT. 6, 1963"
+    },
+    {
+     "role": "running-head",
+     "text": "[77 STAT."
+    },
+    {
+     "role": "sidenote",
+     "text": "Transfer of"
+    },
+    {
+     "role": "sidenote",
+     "text": "funds."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. The Administrator is hereby authorized to transfer, with"
+    },
+    {
+     "role": "body",
+     "text": "the approval of the Bureau of the Budget, funds appropriated pursu-"
+    },
+    {
+     "role": "body",
+     "text": "ant to this Act (other than funds appropriated pursuant to paragraph"
+    },
+    {
+     "role": "body",
+     "text": "(15) of subsection 1(b)), to any other agency of the Government"
+    },
+    {
+     "role": "body",
+     "text": "whenever the Administrator determines such transfer necessary for"
+    },
+    {
+     "role": "body",
+     "text": "the efficient accomplishment of the objectives for which the funds have"
+    },
+    {
+     "role": "sidenote",
+     "text": "Report to Con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gressional Com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "mittees."
+    },
+    {
+     "role": "body",
+     "text": "been appropriated.   Not more than $20,000,000 of the funds authorized"
+    },
+    {
+     "role": "body",
+     "text": "by this Act may be transferred by the Administrator under this section,"
+    },
+    {
+     "role": "body",
+     "text": "and no transfer in excess of $250,000 shall be made under this section"
+    },
+    {
+     "role": "body",
+     "text": "unless the Administrator has transmitted to the Committee on Aero-"
+    },
+    {
+     "role": "body",
+     "text": "nautical and Space Sciences of the Senate and to the Committee on"
+    },
+    {
+     "role": "body",
+     "text": "Science and Astronautics of the House of Representatives a written"
+    },
+    {
+     "role": "body",
+     "text": "statement concerning the amount and purpose of, and the reason for,"
+    },
+    {
+     "role": "body",
+     "text": "such transfer, and (1) each such committee has transmitted to the"
+    },
+    {
+     "role": "body",
+     "text": "Administrator written notice to the effect that such committee has"
+    },
+    {
+     "role": "body",
+     "text": "no objection to that transfer, or (2) thirty days have passed after the"
+    },
+    {
+     "role": "body",
+     "text": "transmittal by the Administrator of such statement to those com-"
+    },
+    {
+     "role": "body",
+     "text": "mittees."
+    },
+    {
+     "role": "sidenote",
+     "text": "72 Stat. 438."
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 2459."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. Section 307 of the National Aeronautics and Space Act of"
+    },
+    {
+     "role": "body",
+     "text": "1958 is amended by adding at the end thereof the following new sub-"
+    },
+    {
+     "role": "body",
+     "text": "section:"
+    },
+    {
+     "role": "body",
+     "text": "\"(c) Notwithstanding any other provision of law, the authorization"
+    },
+    {
+     "role": "body",
+     "text": "of any appropriation to the Administration shall expire (unless an"
+    },
+    {
+     "role": "body",
+     "text": "earlier expiration is specifically provided) at the close of the third"
+    },
+    {
+     "role": "body",
+     "text": "fiscal year following the fiscal year in which the authorization was"
+    },
+    {
+     "role": "body",
+     "text": "enacted, to the extent that such appropriation has not theretofore"
+    },
+    {
+     "role": "body",
+     "text": "actually been made.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "Short title."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. This Act may be cited as the \"National Aeronautics and"
+    },
+    {
+     "role": "body",
+     "text": "Space Administration Authorization Act, 1964\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 6, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-114"
+    },
+    {
+     "role": "sidenote",
+     "text": "September 6, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1194]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To remove the percentage limitations on retirement of enlisted men of the Coast"
+    },
+    {
+     "role": "body",
+     "text": "Guard, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Coast Guard."
+    },
+    {
+     "role": "sidenote",
+     "text": "Enlisted men,"
+    },
+    {
+     "role": "sidenote",
+     "text": "retirement."
+    },
+    {
+     "role": "sidenote",
+     "text": "63 Stat. 521."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That title 14, United"
+    },
+    {
+     "role": "body",
+     "text": "States Code, is amended as follows:"
+    },
+    {
+     "role": "body",
+     "text": "(1) Section 357(c) is amended by striking out the words \"or any"
+    },
+    {
+     "role": "body",
+     "text": "enlisted man so retired whose average marks in conduct during his"
+    },
+    {
+     "role": "body",
+     "text": "service in the Coast Guard were not less than 97½ per centum of the"
+    },
+    {
+     "role": "body",
+     "text": "maximum, or any enlisted man so retired who shall have been both so"
+    },
+    {
+     "role": "body",
+     "text": "cited and shall have received such average marks,\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "63 Stat. 522."
+    },
+    {
+     "role": "body",
+     "text": "(2) Section 358 is repealed."
+    },
+    {
+     "role": "body",
+     "text": "(3) The analysis of chapter 11 is amended by striking out the"
+    },
+    {
+     "role": "body",
+     "text": "following item:"
+    },
+    {
+     "role": "body",
+     "text": "\"358. Limitation of retirements.\""
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The amendment made by subsection (1) of section 1 of this"
+    },
+    {
+     "role": "body",
+     "text": "Act does not apply to any enlisted man in service on the effective date"
+    },
+    {
+     "role": "body",
+     "text": "of this Act."
+    },
+    {
+     "role": "body",
+     "text": "Approved September 6, 1963."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 1972,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07673,
+   "seconds": 23.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "skipped": "transcriptions agree",
+  "disagreements": [],
+  "cost_usd": 0.0,
+  "usage": {
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "144"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 88-114–SEPT. 6, 1963"
+  },
+  {
+   "role": "running-head",
+   "text": "[77 STAT."
+  },
+  {
+   "role": "sidenote",
+   "text": "Transfer of"
+  },
+  {
+   "role": "sidenote",
+   "text": "funds."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. The Administrator is hereby authorized to transfer, with"
+  },
+  {
+   "role": "body",
+   "text": "the approval of the Bureau of the Budget, funds appropriated pursu-"
+  },
+  {
+   "role": "body",
+   "text": "ant to this Act (other than funds appropriated pursuant to paragraph"
+  },
+  {
+   "role": "body",
+   "text": "(15) of subsection 1(b)), to any other agency of the Government"
+  },
+  {
+   "role": "body",
+   "text": "whenever the Administrator determines such transfer necessary for"
+  },
+  {
+   "role": "body",
+   "text": "the efficient accomplishment of the objectives for which the funds have"
+  },
+  {
+   "role": "sidenote",
+   "text": "Report to Con-"
+  },
+  {
+   "role": "sidenote",
+   "text": "gressional Com-"
+  },
+  {
+   "role": "sidenote",
+   "text": "mittees."
+  },
+  {
+   "role": "body",
+   "text": "been appropriated.    Not more than $20,000,000 of the funds authorized"
+  },
+  {
+   "role": "body",
+   "text": "by this Act may be transferred by the Administrator under this section,"
+  },
+  {
+   "role": "body",
+   "text": "and no transfer in excess of $250,000 shall be made under this section"
+  },
+  {
+   "role": "body",
+   "text": "unless the Administrator has transmitted to the Committee on Aero-"
+  },
+  {
+   "role": "body",
+   "text": "nautical and Space Sciences of the Senate and to the Committee on"
+  },
+  {
+   "role": "body",
+   "text": "Science and Astronautics of the House of Representatives a written"
+  },
+  {
+   "role": "body",
+   "text": "statement concerning the amount and purpose of, and the reason for,"
+  },
+  {
+   "role": "body",
+   "text": "such transfer, and (1) each such committee has transmitted to the"
+  },
+  {
+   "role": "body",
+   "text": "Administrator written notice to the effect that such committee has"
+  },
+  {
+   "role": "body",
+   "text": "no objection to that transfer, or (2) thirty days have passed after the"
+  },
+  {
+   "role": "body",
+   "text": "transmittal by the Administrator of such statement to those com-"
+  },
+  {
+   "role": "body",
+   "text": "mittees."
+  },
+  {
+   "role": "sidenote",
+   "text": "72 Stat. 438."
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 2459."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 6. Section 307 of the National Aeronautics and Space Act of"
+  },
+  {
+   "role": "body",
+   "text": "1958 is amended by adding at the end thereof the following new sub-"
+  },
+  {
+   "role": "body",
+   "text": "section:"
+  },
+  {
+   "role": "body",
+   "text": "\"(c) Notwithstanding any other provision of law, the authorization"
+  },
+  {
+   "role": "body",
+   "text": "of any appropriation to the Administration shall expire (unless an"
+  },
+  {
+   "role": "body",
+   "text": "earlier expiration is specifically provided) at the close of the third"
+  },
+  {
+   "role": "body",
+   "text": "fiscal year following the fiscal year in which the authorization was"
+  },
+  {
+   "role": "body",
+   "text": "enacted, to the extent that such appropriation has not theretofore"
+  },
+  {
+   "role": "body",
+   "text": "actually been made.\""
+  },
+  {
+   "role": "sidenote",
+   "text": "Short title."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 7. This Act may be cited as the \"National Aeronautics and"
+  },
+  {
+   "role": "body",
+   "text": "Space Administration Authorization Act, 1964\"."
+  },
+  {
+   "role": "body",
+   "text": "Approved September 6, 1963."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 88-114"
+  },
+  {
+   "role": "sidenote",
+   "text": "September 6, 1963"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 1194]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "body",
+   "text": "To remove the percentage limitations on retirement of enlisted men of the Coast"
+  },
+  {
+   "role": "body",
+   "text": "Guard, and for other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Coast Guard."
+  },
+  {
+   "role": "sidenote",
+   "text": "Enlisted men,"
+  },
+  {
+   "role": "sidenote",
+   "text": "retirement."
+  },
+  {
+   "role": "sidenote",
+   "text": "63 Stat. 521."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That title 14, United"
+  },
+  {
+   "role": "body",
+   "text": "States Code, is amended as follows:"
+  },
+  {
+   "role": "body",
+   "text": "(1) Section 357(c) is amended by striking out the words \"or any"
+  },
+  {
+   "role": "body",
+   "text": "enlisted man so retired whose average marks in conduct during his"
+  },
+  {
+   "role": "body",
+   "text": "service in the Coast Guard were not less than 97½ per centum of the"
+  },
+  {
+   "role": "body",
+   "text": "maximum, or any enlisted man so retired who shall have been both so"
+  },
+  {
+   "role": "body",
+   "text": "cited and shall have received such average marks,\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "63 Stat. 522."
+  },
+  {
+   "role": "body",
+   "text": "(2) Section 358 is repealed."
+  },
+  {
+   "role": "body",
+   "text": "(3) The analysis of chapter 11 is amended by striking out the"
+  },
+  {
+   "role": "body",
+   "text": "following item:"
+  },
+  {
+   "role": "body",
+   "text": "\"358. Limitation of retirements.\""
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The amendment made by subsection (1) of section 1 of this"
+  },
+  {
+   "role": "body",
+   "text": "Act does not apply to any enlisted man in service on the effective date"
+  },
+  {
+   "role": "body",
+   "text": "of this Act."
+  },
+  {
+   "role": "body",
+   "text": "Approved September 6, 1963."
+  }
+ ],
+ "disagreement_count": 0,
+ "tokens": {
+  "input_tokens": 10823,
+  "output_tokens": 3929,
+  "cache_read_input_tokens": 1490,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.15309,
+ "seconds": 50.6,
+ "created": "2026-09-08T12:35:30"
+}

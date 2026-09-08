@@ -1,0 +1,1308 @@
+{
+ "granule_id": "STATUTE-54-Pg1174",
+ "package_id": "STATUTE-54",
+ "volume": 54,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To amend the Act of June 23, 1938 (52 Stat. 944).",
+ "date_issued": "1940-10-14",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "1175",
+ "image": "data/gold/STATUTE-54-Pg1174/p2.png",
+ "image_sha256": "258414056fbf308ead0b6bd4d93ae2ca9db139d2a7d5b7252427161f43e02eb1",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "54 STAT.]        76TH CONG., 3D SESS.—CHS. 877–879—OCT. 14, 1940"
+    },
+    {
+     "role": "page-number",
+     "text": "1175"
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp. V, § 404 (k)."
+    },
+    {
+     "role": "body",
+     "text": "Section 12, strike out subsection (k) and substitute the following:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Retirement of designated officers."
+    },
+    {
+     "role": "body",
+     "text": "“(k) Lieutenant commanders and lieutenants with date of rank as"
+    },
+    {
+     "role": "body",
+     "text": "such prior to June 23, 1938, and lieutenants (junior grade) who on"
+    },
+    {
+     "role": "body",
+     "text": "that date were carried as additional numbers in grade by reason of"
+    },
+    {
+     "role": "body",
+     "text": "not having been recommended for promotion, shall, at their own"
+    },
+    {
+     "role": "body",
+     "text": "request, in lieu of honorable discharge as provided in subsection (c)"
+    },
+    {
+     "role": "body",
+     "text": "of this section, be retired on June 30 of the fiscal year in which they"
+    },
+    {
+     "role": "body",
+     "text": "fail of selection as best fitted the second time or on June 30 of the"
+    },
+    {
+     "role": "body",
+     "text": "fiscal year in which they complete the period of service designated"
+    },
+    {
+     "role": "sidenote",
+     "text": "46 Stat. 1483."
+    },
+    {
+     "role": "body",
+     "text": "in the Act of March 3, 1931, as amended (U. S. C., title 34, Supp."
+    },
+    {
+     "role": "body",
+     "text": "III, secs. 286a and 286i), whichever date shall be later with retired"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "body",
+     "text": "pay computed as provided in subsection (b) of this section: Pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ineligibility for promotion."
+    },
+    {
+     "role": "body",
+     "text": "vided, That any officer retained on the active list pursuant to this"
+    },
+    {
+     "role": "body",
+     "text": "subsection shall be ineligible for consideration for promotion by sub-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Advancement of lieutenants with specified service."
+    },
+    {
+     "role": "body",
+     "text": "sequent selection boards: Provided further, That lieutenants who"
+    },
+    {
+     "role": "body",
+     "text": "served in the Navy or Naval Reserve Force prior to November 12,"
+    },
+    {
+     "role": "body",
+     "text": "1918, and who shall have completed not less than twenty-one years"
+    },
+    {
+     "role": "body",
+     "text": "of service, and who subsequent to June 23, 1938, have been or shall"
+    },
+    {
+     "role": "body",
+     "text": "hereafter be retired under any provision of law, shall be advanced"
+    },
+    {
+     "role": "body",
+     "text": "to the grade of lieutenant commander on the retired list effective"
+    },
+    {
+     "role": "body",
+     "text": "from date of retirement with the retired pay of that grade.”"
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp. V, § 405."
+    },
+    {
+     "role": "body",
+     "text": "Section 14, in line 9 of subsection (a), after “grade” insert “with"
+    },
+    {
+     "role": "body",
+     "text": "probationary appointments”."
+    },
+    {
+     "role": "body",
+     "text": "Approved, October 14, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 878]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 14, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 2627]"
+    },
+    {
+     "role": "body",
+     "text": "To empower and authorize special agents and such other employees of the Divi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 855]"
+    },
+    {
+     "role": "body",
+     "text": "sion of Investigations, Department of the Interior, as are designated by the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Interior for that purpose, to administer oaths in the perform-"
+    },
+    {
+     "role": "body",
+     "text": "ance of their official duties."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Division of Investigations, Department of Interior."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That special agents"
+    },
+    {
+     "role": "sidenote",
+     "text": "Special agents empowered to administer oaths, etc."
+    },
+    {
+     "role": "body",
+     "text": "and such other employees of the Division of Investigations, Depart-"
+    },
+    {
+     "role": "body",
+     "text": "ment of the Interior of the United States, as are designated by the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Interior for that purpose, are authorized and em-"
+    },
+    {
+     "role": "body",
+     "text": "powered to administer to or take from any person an oath, affirmation,"
+    },
+    {
+     "role": "body",
+     "text": "affidavit, or deposition whenever necessary in the performance of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Validity."
+    },
+    {
+     "role": "body",
+     "text": "their official duties.  Any such oath, affirmation, affidavit, or deposi-"
+    },
+    {
+     "role": "body",
+     "text": "tion administered or taken by or before a special agent or such other"
+    },
+    {
+     "role": "body",
+     "text": "employee of the Division of Investigations, Department of the In-"
+    },
+    {
+     "role": "body",
+     "text": "terior, designated by the Secretary of the Interior, when certified"
+    },
+    {
+     "role": "body",
+     "text": "under his hand, shall have like force and effect as if administered or"
+    },
+    {
+     "role": "body",
+     "text": "taken before an officer having a seal."
+    },
+    {
+     "role": "body",
+     "text": "Approved, October 14, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 879]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 14, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 9851]"
+    },
+    {
+     "role": "body",
+     "text": "Authorizing special arrangements in the transportation of mail within the"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 856]"
+    },
+    {
+     "role": "body",
+     "text": "Territory of Alaska."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Alaska."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That whenever"
+    },
+    {
+     "role": "sidenote",
+     "text": "Transportation of mail by aircraft."
+    },
+    {
+     "role": "body",
+     "text": "required by the Postmaster General, any air carrier authorized by the"
+    },
+    {
+     "role": "body",
+     "text": "Civil Aeronautics Authority under title IV of the Civil Aeronautics"
+    },
+    {
+     "role": "sidenote",
+     "text": "52 Stat. 987–1005."
+    },
+    {
+     "role": "body",
+     "text": "Act of 1938 to engage in the transportation of mail in the Territory"
+    },
+    {
+     "role": "sidenote",
+     "text": "40 U. S. C., Supp. V, §§ 481–496."
+    },
+    {
+     "role": "body",
+     "text": "of Alaska shall, within the limits of such authorization, transport, in"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2279,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08441,
+   "seconds": 25.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "54 STAT.]      76TH CONG., 3D SESS.—CHS. 877–879—OCT. 14, 1940"
+    },
+    {
+     "role": "page-number",
+     "text": "1175"
+    },
+    {
+     "role": "body",
+     "text": "Section 12, strike out subsection (k) and substitute the following:"
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 404 (k)."
+    },
+    {
+     "role": "body",
+     "text": "\"(k) Lieutenant commanders and lieutenants with date of rank as"
+    },
+    {
+     "role": "sidenote",
+     "text": "Retirement of des-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ignated officers."
+    },
+    {
+     "role": "body",
+     "text": "such prior to June 23, 1938, and lieutenants (junior grade) who on"
+    },
+    {
+     "role": "body",
+     "text": "that date were carried as additional numbers in grade by reason of"
+    },
+    {
+     "role": "body",
+     "text": "not having been recommended for promotion, shall, at their own"
+    },
+    {
+     "role": "body",
+     "text": "request, in lieu of honorable discharge as provided in subsection (c)"
+    },
+    {
+     "role": "body",
+     "text": "of this section, be retired on June 30 of the fiscal year in which they"
+    },
+    {
+     "role": "body",
+     "text": "fail of selection as best fitted the second time or on June 30 of the"
+    },
+    {
+     "role": "body",
+     "text": "fiscal year in which they complete the period of service designated"
+    },
+    {
+     "role": "body",
+     "text": "in the Act of March 3, 1931, as amended (U. S. C., title 34, Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "46 Stat. 1483."
+    },
+    {
+     "role": "body",
+     "text": "III, secs. 286a and 286i), whichever date shall be later with retired"
+    },
+    {
+     "role": "body",
+     "text": "pay computed as provided in subsection (b) of this section: Pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ineligibility for pro-"
+    },
+    {
+     "role": "body",
+     "text": "vided, That any officer retained on the active list pursuant to this"
+    },
+    {
+     "role": "sidenote",
+     "text": "motion."
+    },
+    {
+     "role": "body",
+     "text": "subsection shall be ineligible for consideration for promotion by sub-"
+    },
+    {
+     "role": "body",
+     "text": "sequent selection boards: Provided further, That lieutenants who"
+    },
+    {
+     "role": "sidenote",
+     "text": "Advancement of"
+    },
+    {
+     "role": "sidenote",
+     "text": "lieutenants with speci-"
+    },
+    {
+     "role": "body",
+     "text": "served in the Navy or Naval Reserve Force prior to November 12,"
+    },
+    {
+     "role": "sidenote",
+     "text": "fied service."
+    },
+    {
+     "role": "body",
+     "text": "1918, and who shall have completed not less than twenty-one years"
+    },
+    {
+     "role": "body",
+     "text": "of service, and who subsequent to June 23, 1938, have been or shall"
+    },
+    {
+     "role": "body",
+     "text": "hereafter be retired under any provision of law, shall be advanced"
+    },
+    {
+     "role": "body",
+     "text": "to the grade of lieutenant commander on the retired list effective"
+    },
+    {
+     "role": "body",
+     "text": "from date of retirement with the retired pay of that grade.\""
+    },
+    {
+     "role": "body",
+     "text": "Section 14, in line 9 of subsection (a), after \"grade\" insert \"with"
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, § 405."
+    },
+    {
+     "role": "body",
+     "text": "probationary appointments\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved, October 14, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 878]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To empower and authorize special agents and such other employees of the Divi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 14, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 2627]"
+    },
+    {
+     "role": "body",
+     "text": "sion of Investigations, Department of the Interior, as are designated by the"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 855]"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Interior for that purpose, to administer oaths in the perform-"
+    },
+    {
+     "role": "body",
+     "text": "ance of their official duties."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That special agents"
+    },
+    {
+     "role": "sidenote",
+     "text": "Division of Investi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gations, Department"
+    },
+    {
+     "role": "body",
+     "text": "and such other employees of the Division of Investigations, Depart-"
+    },
+    {
+     "role": "sidenote",
+     "text": "of Interior."
+    },
+    {
+     "role": "body",
+     "text": "ment of the Interior of the United States, as are designated by the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Special agents em-"
+    },
+    {
+     "role": "sidenote",
+     "text": "powered to administer"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Interior for that purpose, are authorized and em-"
+    },
+    {
+     "role": "sidenote",
+     "text": "oaths, etc."
+    },
+    {
+     "role": "body",
+     "text": "powered to administer to or take from any person an oath, affirmation,"
+    },
+    {
+     "role": "body",
+     "text": "affidavit, or deposition whenever necessary in the performance of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Validity."
+    },
+    {
+     "role": "body",
+     "text": "their official duties.  Any such oath, affirmation, affidavit, or deposi-"
+    },
+    {
+     "role": "body",
+     "text": "tion administered or taken by or before a special agent or such other"
+    },
+    {
+     "role": "body",
+     "text": "employee of the Division of Investigations, Department of the In-"
+    },
+    {
+     "role": "body",
+     "text": "terior, designated by the Secretary of the Interior, when certified"
+    },
+    {
+     "role": "body",
+     "text": "under his hand, shall have like force and effect as if administered or"
+    },
+    {
+     "role": "body",
+     "text": "taken before an officer having a seal."
+    },
+    {
+     "role": "body",
+     "text": "Approved, October 14, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 879]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 14, 1940"
+    },
+    {
+     "role": "body",
+     "text": "Authorizing special arrangements in the transportation of mail within the"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 9851]"
+    },
+    {
+     "role": "body",
+     "text": "Territory of Alaska."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 856]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That whenever"
+    },
+    {
+     "role": "sidenote",
+     "text": "Alaska."
+    },
+    {
+     "role": "sidenote",
+     "text": "Transportation of"
+    },
+    {
+     "role": "body",
+     "text": "required by the Postmaster General, any air carrier authorized by the"
+    },
+    {
+     "role": "sidenote",
+     "text": "mail by aircraft."
+    },
+    {
+     "role": "body",
+     "text": "Civil Aeronautics Authority under title IV of the Civil Aeronautics"
+    },
+    {
+     "role": "body",
+     "text": "Act of 1938 to engage in the transportation of mail in the Territory"
+    },
+    {
+     "role": "sidenote",
+     "text": "52 Stat. 987–1005."
+    },
+    {
+     "role": "sidenote",
+     "text": "40 U. S. C., Supp."
+    },
+    {
+     "role": "body",
+     "text": "of Alaska shall, within the limits of such authorization, transport, in"
+    },
+    {
+     "role": "sidenote",
+     "text": "V, §§ 481–496."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2446,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08858,
+   "seconds": 26.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13240,
+   "output_tokens": 2689,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.13384,
+  "seconds": 29.4,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "34 U. S. C., Supp. V, § 404 (k).",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote is printed to the right of the first body line, not before it; A's placement duplicates it."
+   },
+   {
+    "run": 2,
+    "a": "Retirement of designated officers.",
+    "b": "34 U. S. C., Supp.\nV, § 404 (k).",
+    "kept": "34 U. S. C., Supp.\nV, § 404 (k).",
+    "reason": "Sidenote printed on two lines as shown in image."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "Retirement of des-\nignated officers.",
+    "kept": "Retirement of des-\nignated officers.",
+    "reason": "Second sidenote printed on two lines beside these body lines."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "in the Act of March 3, 1931, as amended (U. S. C., title 34, Supp.",
+    "kept": "in the Act of March 3, 1931, as amended (U. S. C., title 34, Supp.",
+    "reason": "Body line precedes the '46 Stat. 1483.' sidenote in reading order."
+   },
+   {
+    "run": 5,
+    "a": "in the Act of March 3, 1931, as amended (U. S. C., title 34, Supp.",
+    "b": "",
+    "kept": "",
+    "reason": "Same body line already placed in run 4."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "pay computed as provided in subsection (b) of this section: Pro-",
+    "kept": "pay computed as provided in subsection (b) of this section: Pro-",
+    "reason": "Body line precedes the 'Provisos.' sidenote."
+   },
+   {
+    "run": 7,
+    "a": "pay computed as provided in subsection (b) of this section: Pro-\nIneligibility for promotion.",
+    "b": "Ineligibility for pro-",
+    "kept": "Ineligibility for pro-",
+    "reason": "Sidenote printed broken across lines; body line already placed."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "motion.",
+    "kept": "motion.",
+    "reason": "Continuation of the sidenote as printed."
+   },
+   {
+    "run": 9,
+    "a": "Advancement of lieutenants with specified service.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote appears lower, beside the following lines."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "Advancement of\nlieutenants with speci-",
+    "kept": "Advancement of\nlieutenants with speci-",
+    "reason": "Sidenote printed on separate lines here."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "fied service.",
+    "kept": "fied service.",
+    "reason": "Continuation line of the sidenote."
+   },
+   {
+    "run": 12,
+    "a": "34 U. S. C., Supp. V, § 405.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote appears beside the following body line, not before it."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "34 U. S. C., Supp.\nV, § 405.",
+    "kept": "34 U. S. C., Supp.\nV, § 405.",
+    "reason": "Sidenote printed on two lines beside 'Section 14'."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "To empower and authorize special agents and such other employees of the Divi-",
+    "kept": "To empower and authorize special agents and such other employees of the Divi-",
+    "reason": "First line of the act's title precedes the date sidenote."
+   },
+   {
+    "run": 15,
+    "a": "To empower and authorize special agents and such other employees of the Divi-",
+    "b": "sion of Investigations, Department of the Interior, as are designated by the",
+    "kept": "sion of Investigations, Department of the Interior, as are designated by the",
+    "reason": "Next title line follows the [S. 2627] sidenote."
+   },
+   {
+    "run": 16,
+    "a": "sion of Investigations, Department of the Interior, as are designated by the",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 15."
+   },
+   {
+    "run": 17,
+    "a": "Division of Investigations, Department of Interior.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote begins beside the second body line, not the first."
+   },
+   {
+    "run": 18,
+    "a": "Special agents empowered to administer oaths, etc.",
+    "b": "Division of Investi-\ngations, Department",
+    "kept": "Division of Investi-\ngations, Department",
+    "reason": "Sidenote printed on separate lines as shown."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "of Interior.",
+    "kept": "of Interior.",
+    "reason": "Continuation of the sidenote."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "Special agents em-\npowered to administer",
+    "kept": "Special agents em-\npowered to administer",
+    "reason": "Sidenote printed on separate lines."
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "oaths, etc.",
+    "kept": "oaths, etc.",
+    "reason": "Final line of that sidenote."
+   },
+   {
+    "run": 22,
+    "a": "",
+    "b": "Authorizing special arrangements in the transportation of mail within the",
+    "kept": "Authorizing special arrangements in the transportation of mail within the",
+    "reason": "Title line precedes the [H. R. 9851] sidenote."
+   },
+   {
+    "run": 23,
+    "a": "Authorizing special arrangements in the transportation of mail within the",
+    "b": "Territory of Alaska.",
+    "kept": "Territory of Alaska.",
+    "reason": "Second title line follows in reading order."
+   },
+   {
+    "run": 24,
+    "a": "Territory of Alaska.",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 23."
+   },
+   {
+    "run": 25,
+    "a": "",
+    "b": "United States of America in Congress assembled, That whenever",
+    "kept": "United States of America in Congress assembled, That whenever",
+    "reason": "Body line precedes the 'Alaska.' sidenote."
+   },
+   {
+    "run": 26,
+    "a": "United States of America in Congress assembled, That whenever\nTransportation of mail by aircraft.",
+    "b": "Transportation of",
+    "kept": "Transportation of",
+    "reason": "Sidenote printed on two lines; first line here."
+   },
+   {
+    "run": 27,
+    "a": "",
+    "b": "mail by aircraft.",
+    "kept": "mail by aircraft.",
+    "reason": "Second line of the sidenote."
+   },
+   {
+    "run": 28,
+    "a": "",
+    "b": "Act of 1938 to engage in the transportation of mail in the Territory",
+    "kept": "Act of 1938 to engage in the transportation of mail in the Territory",
+    "reason": "Body line precedes the 52 Stat. sidenote."
+   },
+   {
+    "run": 29,
+    "a": "Act of 1938 to engage in the transportation of mail in the Territory\n40 U. S. C., Supp. V, §§ 481–496.",
+    "b": "40 U. S. C., Supp.",
+    "kept": "40 U. S. C., Supp.",
+    "reason": "Sidenote printed on two lines; first line here."
+   },
+   {
+    "run": 30,
+    "a": "",
+    "b": "V, §§ 481–496.",
+    "kept": "V, §§ 481–496.",
+    "reason": "Final sidenote line printed at foot of column."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "54 STAT.]        76TH CONG., 3D SESS.—CHS. 877–879—OCT. 14, 1940"
+  },
+  {
+   "role": "page-number",
+   "text": "1175"
+  },
+  {
+   "role": "body",
+   "text": "Section 12, strike out subsection (k) and substitute the following:"
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C., Supp."
+  },
+  {
+   "role": "sidenote",
+   "text": "V, § 404 (k)."
+  },
+  {
+   "role": "body",
+   "text": "“(k) Lieutenant commanders and lieutenants with date of rank as"
+  },
+  {
+   "role": "sidenote",
+   "text": "Retirement of des-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ignated officers."
+  },
+  {
+   "role": "body",
+   "text": "such prior to June 23, 1938, and lieutenants (junior grade) who on"
+  },
+  {
+   "role": "body",
+   "text": "that date were carried as additional numbers in grade by reason of"
+  },
+  {
+   "role": "body",
+   "text": "not having been recommended for promotion, shall, at their own"
+  },
+  {
+   "role": "body",
+   "text": "request, in lieu of honorable discharge as provided in subsection (c)"
+  },
+  {
+   "role": "body",
+   "text": "of this section, be retired on June 30 of the fiscal year in which they"
+  },
+  {
+   "role": "body",
+   "text": "fail of selection as best fitted the second time or on June 30 of the"
+  },
+  {
+   "role": "body",
+   "text": "fiscal year in which they complete the period of service designated"
+  },
+  {
+   "role": "body",
+   "text": "in the Act of March 3, 1931, as amended (U. S. C., title 34, Supp."
+  },
+  {
+   "role": "sidenote",
+   "text": "46 Stat. 1483."
+  },
+  {
+   "role": "body",
+   "text": "III, secs. 286a and 286i), whichever date shall be later with retired"
+  },
+  {
+   "role": "body",
+   "text": "pay computed as provided in subsection (b) of this section: Pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Provisos."
+  },
+  {
+   "role": "sidenote",
+   "text": "Ineligibility for pro-"
+  },
+  {
+   "role": "body",
+   "text": "vided, That any officer retained on the active list pursuant to this"
+  },
+  {
+   "role": "sidenote",
+   "text": "motion."
+  },
+  {
+   "role": "body",
+   "text": "subsection shall be ineligible for consideration for promotion by sub-"
+  },
+  {
+   "role": "body",
+   "text": "sequent selection boards: Provided further, That lieutenants who"
+  },
+  {
+   "role": "sidenote",
+   "text": "Advancement of"
+  },
+  {
+   "role": "sidenote",
+   "text": "lieutenants with speci-"
+  },
+  {
+   "role": "body",
+   "text": "served in the Navy or Naval Reserve Force prior to November 12,"
+  },
+  {
+   "role": "sidenote",
+   "text": "fied service."
+  },
+  {
+   "role": "body",
+   "text": "1918, and who shall have completed not less than twenty-one years"
+  },
+  {
+   "role": "body",
+   "text": "of service, and who subsequent to June 23, 1938, have been or shall"
+  },
+  {
+   "role": "body",
+   "text": "hereafter be retired under any provision of law, shall be advanced"
+  },
+  {
+   "role": "body",
+   "text": "to the grade of lieutenant commander on the retired list effective"
+  },
+  {
+   "role": "body",
+   "text": "from date of retirement with the retired pay of that grade.”"
+  },
+  {
+   "role": "body",
+   "text": "Section 14, in line 9 of subsection (a), after “grade” insert “with"
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C., Supp."
+  },
+  {
+   "role": "sidenote",
+   "text": "V, § 405."
+  },
+  {
+   "role": "body",
+   "text": "probationary appointments”."
+  },
+  {
+   "role": "body",
+   "text": "Approved, October 14, 1940."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 878]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "body",
+   "text": "To empower and authorize special agents and such other employees of the Divi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "October 14, 1940"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 2627]"
+  },
+  {
+   "role": "body",
+   "text": "sion of Investigations, Department of the Interior, as are designated by the"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 855]"
+  },
+  {
+   "role": "body",
+   "text": "Secretary of the Interior for that purpose, to administer oaths in the perform-"
+  },
+  {
+   "role": "body",
+   "text": "ance of their official duties."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That special agents"
+  },
+  {
+   "role": "sidenote",
+   "text": "Division of Investi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "gations, Department"
+  },
+  {
+   "role": "body",
+   "text": "and such other employees of the Division of Investigations, Depart-"
+  },
+  {
+   "role": "sidenote",
+   "text": "of Interior."
+  },
+  {
+   "role": "body",
+   "text": "ment of the Interior of the United States, as are designated by the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Special agents em-"
+  },
+  {
+   "role": "sidenote",
+   "text": "powered to administer"
+  },
+  {
+   "role": "body",
+   "text": "Secretary of the Interior for that purpose, are authorized and em-"
+  },
+  {
+   "role": "sidenote",
+   "text": "oaths, etc."
+  },
+  {
+   "role": "body",
+   "text": "powered to administer to or take from any person an oath, affirmation,"
+  },
+  {
+   "role": "body",
+   "text": "affidavit, or deposition whenever necessary in the performance of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Validity."
+  },
+  {
+   "role": "body",
+   "text": "their official duties.  Any such oath, affirmation, affidavit, or deposi-"
+  },
+  {
+   "role": "body",
+   "text": "tion administered or taken by or before a special agent or such other"
+  },
+  {
+   "role": "body",
+   "text": "employee of the Division of Investigations, Department of the In-"
+  },
+  {
+   "role": "body",
+   "text": "terior, designated by the Secretary of the Interior, when certified"
+  },
+  {
+   "role": "body",
+   "text": "under his hand, shall have like force and effect as if administered or"
+  },
+  {
+   "role": "body",
+   "text": "taken before an officer having a seal."
+  },
+  {
+   "role": "body",
+   "text": "Approved, October 14, 1940."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 879]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "October 14, 1940"
+  },
+  {
+   "role": "body",
+   "text": "Authorizing special arrangements in the transportation of mail within the"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 9851]"
+  },
+  {
+   "role": "body",
+   "text": "Territory of Alaska."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 856]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That whenever"
+  },
+  {
+   "role": "sidenote",
+   "text": "Alaska."
+  },
+  {
+   "role": "sidenote",
+   "text": "Transportation of"
+  },
+  {
+   "role": "body",
+   "text": "required by the Postmaster General, any air carrier authorized by the"
+  },
+  {
+   "role": "sidenote",
+   "text": "mail by aircraft."
+  },
+  {
+   "role": "body",
+   "text": "Civil Aeronautics Authority under title IV of the Civil Aeronautics"
+  },
+  {
+   "role": "body",
+   "text": "Act of 1938 to engage in the transportation of mail in the Territory"
+  },
+  {
+   "role": "sidenote",
+   "text": "52 Stat. 987–1005."
+  },
+  {
+   "role": "sidenote",
+   "text": "40 U. S. C., Supp."
+  },
+  {
+   "role": "body",
+   "text": "of Alaska shall, within the limits of such authorization, transport, in"
+  },
+  {
+   "role": "sidenote",
+   "text": "V, §§ 481–496."
+  }
+ ],
+ "disagreement_count": 30,
+ "tokens": {
+  "input_tokens": 24063,
+  "output_tokens": 7414,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.30683,
+ "seconds": 82.1,
+ "created": "2026-09-08T12:33:28"
+}

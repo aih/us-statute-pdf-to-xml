@@ -1,0 +1,1113 @@
+{
+ "granule_id": "STATUTE-2-Pg679",
+ "package_id": "STATUTE-2",
+ "volume": 2,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An act authorizing the Secretary of the Treasury to locate the Lands reserved for the use of Jefferson College, in the Mississippi territory.",
+ "date_issued": "1812-02-20",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "679",
+ "image": "data/gold/STATUTE-2-Pg679/p1.png",
+ "image_sha256": "573b642960d7c8cec04e65dcbaaf3db5028f1f7d40a4a5293416f3bdc9c18dd4",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "high"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "TWELFTH CONGRESS.  SESS. I. CH. 24, 25.  1812."
+    },
+    {
+     "role": "page-number",
+     "text": "679"
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXIV.—An act authorizing the Secretary of the Treasury to locate the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 20, 1812."
+    },
+    {
+     "role": "body",
+     "text": "Lands reserved for the use of Jefferson College, in the Mississippi territory."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "The Secretary"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the Treasury"
+    },
+    {
+     "role": "body",
+     "text": "Treasury be, and he is hereby authorized and empowered to locate in"
+    },
+    {
+     "role": "sidenote",
+     "text": "to locate in one"
+    },
+    {
+     "role": "sidenote",
+     "text": "body the thirty-"
+    },
+    {
+     "role": "body",
+     "text": "one body, the thirty-six sections of land reserved for the use of Jefferson"
+    },
+    {
+     "role": "sidenote",
+     "text": "six sections of"
+    },
+    {
+     "role": "body",
+     "text": "college in the Mississippi territory, by an act, entituled “An act regu-"
+    },
+    {
+     "role": "sidenote",
+     "text": "land reserved"
+    },
+    {
+     "role": "sidenote",
+     "text": "for Jefferson"
+    },
+    {
+     "role": "body",
+     "text": "lating the grants of land, and providing for the sale of the lands of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "College by the"
+    },
+    {
+     "role": "body",
+     "text": "United States south of the state of Tennessee,” passed on the third day"
+    },
+    {
+     "role": "sidenote",
+     "text": "act of March 3,"
+    },
+    {
+     "role": "body",
+     "text": "of March, one thousand eight hundred and three, on any lands within"
+    },
+    {
+     "role": "sidenote",
+     "text": "1803, sec. 12."
+    },
+    {
+     "role": "body",
+     "text": "the said territory not sold, or otherwise disposed of, and to which the"
+    },
+    {
+     "role": "body",
+     "text": "Indian title has been extinguished."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 20, 1812."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXV.—An Act for the more convenient taking of affidavits and bail in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 20, 1812."
+    },
+    {
+     "role": "body",
+     "text": "civil causes depending in the courts of the United States.(a)"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of March"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "1, 1817, ch. 30."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That it shall be lawful for the"
+    },
+    {
+     "role": "footnote",
+     "text": "(a) The decisions of the Courts of the United States upon the law of Bail have been:"
+    },
+    {
+     "role": "footnote",
+     "text": "Bail in Criminal Cases.—The circuit court has no authority to issue a habeas corpus for the purpose of"
+    },
+    {
+     "role": "footnote",
+     "text": "surrendering a principal in discharge of his bail, when the principal is confined in jail merely under the"
+    },
+    {
+     "role": "footnote",
+     "text": "process of a state court; nor will the court discharge the bail of such party, who has become bound by"
+    },
+    {
+     "role": "footnote",
+     "text": "recognizance in the circuit court to answer, &c., merely on account of such impediment; but, in their"
+    },
+    {
+     "role": "footnote",
+     "text": "discretion, the court will respite the recognizance.  U. S. v. Jonathan French, 1 Gallis. C. C. R. 1."
+    },
+    {
+     "role": "footnote",
+     "text": "The mere continuance of a cause, on sufficient grounds exhibited by the district attorney, constitutes"
+    },
+    {
+     "role": "footnote",
+     "text": "no reason why the court should admit a defendant who is in confinement, to bail.  But if the court is"
+    },
+    {
+     "role": "footnote",
+     "text": "satisfied that the health of the accused is such as that his life will be endangered by his being kept in"
+    },
+    {
+     "role": "footnote",
+     "text": "confinement until next term, it furnishes a strong ground for bail.  The U. S. v. Jones, 3 Wash. C. C. R."
+    },
+    {
+     "role": "footnote",
+     "text": "209."
+    },
+    {
+     "role": "footnote",
+     "text": "Probable cause, on oath, must be stated, to justify the holding a defendant to bail under the 3d sec."
+    },
+    {
+     "role": "footnote",
+     "text": "of the act of Congress of 26th Feb. 1795, ch. 31.   Leonard v. Caskin, Bee's Adm. Decis. 146."
+    },
+    {
+     "role": "footnote",
+     "text": "Aaron Burr, charged with carrying on a military expedition against a nation with whom the United"
+    },
+    {
+     "role": "footnote",
+     "text": "States were at peace, was admitted to bail.  1 Burr's Trial, 18."
+    },
+    {
+     "role": "footnote",
+     "text": "The postponement of a criminal case, on the application of the defendant, to allow him an opportunity"
+    },
+    {
+     "role": "footnote",
+     "text": "to obtain testimony, is not a cause of bail.  The U. S. v. Stewart.  C. C. U. S. of Pennsylvania, 2 Dall."
+    },
+    {
+     "role": "footnote",
+     "text": "345."
+    },
+    {
+     "role": "footnote",
+     "text": "The circumstances must be very strong, which will, at any time, induce the court to admit a person to"
+    },
+    {
+     "role": "footnote",
+     "text": "bail who stands charged with high treason.  Ibid."
+    },
+    {
+     "role": "footnote",
+     "text": "The supreme court of the United States has jurisdiction, under the constitution and laws of the United"
+    },
+    {
+     "role": "footnote",
+     "text": "States, to bail a person committed for trial on a criminal charge, by a district judge of the United States."
+    },
+    {
+     "role": "footnote",
+     "text": "U. S. v. Hamilton, 3 Dall. 13."
+    },
+    {
+     "role": "footnote",
+     "text": "The marshal of the United States of the Connecticut district, upon a writ of attachment sued out by the"
+    },
+    {
+     "role": "footnote",
+     "text": "United States, to recover a penalty, may commit a defendant to prison for want of bail, without a mitti-"
+    },
+    {
+     "role": "footnote",
+     "text": "mus from a state magistrate, as is required by the local laws of the state; for such municipal regulation"
+    },
+    {
+     "role": "footnote",
+     "text": "does not bind the officers of the United States.  Palmer v. Allen, 7 Cranch, 560; 2 Cond. Rep. 607."
+    },
+    {
+     "role": "footnote",
+     "text": "Bail in Civil Cases.—The bail is fixed by the death of the principal, after the return of a capias ad"
+    },
+    {
+     "role": "footnote",
+     "text": "satisfaciendum, and before the return of the scire facias; and the bail is not entitled to an exoneretur in"
+    },
+    {
+     "role": "footnote",
+     "text": "such a case.  Davidson v. Taylor, 12 Wheat. 604; 6 Cond. Rep. 660."
+    },
+    {
+     "role": "footnote",
+     "text": "Demanding excessive bail, where the plaintiff has a good cause of action, or holding to bail where"
+    },
+    {
+     "role": "footnote",
+     "text": "there is no cause of action, if done vexatiously, entitles the party injured to an action for a malicious"
+    },
+    {
+     "role": "footnote",
+     "text": "prosecution.  If bail be not demanded, no such action will lie.  Ray v. Law, Peters' C. C. R. 207."
+    },
+    {
+     "role": "footnote",
+     "text": "Pennsylvania.  The circuit court will discharge, on common bail, a defendant who has been arrested"
+    },
+    {
+     "role": "footnote",
+     "text": "for a debt contracted in the state in which he has, subsequent to the commencement of the suit, been"
+    },
+    {
+     "role": "footnote",
+     "text": "discharged by the insolvent laws of the state.  Read v. Chapman, Peters' C. C. R. 404."
+    },
+    {
+     "role": "footnote",
+     "text": "Pennsylvania.  Where a capias has been issued against a person who has been discharged from the"
+    },
+    {
+     "role": "footnote",
+     "text": "debt for which it was issued, by the insolvent laws of the state in which it was contracted, the court will"
+    },
+    {
+     "role": "footnote",
+     "text": "not quash the writ, but will discharge the defendant on common bail.  Ibid."
+    },
+    {
+     "role": "footnote",
+     "text": "On a rule to show cause why the defendant should not be discharged on common bail, he having been"
+    },
+    {
+     "role": "footnote",
+     "text": "discharged under the insolvent laws of Pennsylvania; evidence to show that the discharge had been"
+    },
+    {
+     "role": "footnote",
+     "text": "fraudulently obtained, cannot be given.  Campbell et al. v. Claudius, Peters' C. C. R. 484."
+    },
+    {
+     "role": "footnote",
+     "text": "Pennsylvania.  Where the debt has been contracted and made payable out of the state, the circuit"
+    },
+    {
+     "role": "footnote",
+     "text": "court will not discharge, on common bail, a defendant arrested for such debt, notwithstanding his dis-"
+    },
+    {
+     "role": "footnote",
+     "text": "charge by the insolvent laws of the state in which the action was brought.  Ibid."
+    },
+    {
+     "role": "footnote",
+     "text": "After bail given, and plea pleaded, the defendant cannot arrest the judgment on the ground of a mis-"
+    },
+    {
+     "role": "footnote",
+     "text": "nomer.  Scull v. Briddle, 2 Wash. C. C. R. 200."
+    },
+    {
+     "role": "footnote",
+     "text": "The proceedings were amended by the recognizance of bail, and the name of the defendant in the"
+    },
+    {
+     "role": "footnote",
+     "text": "recognizance was inserted in the declaration.  Ibid."
+    },
+    {
+     "role": "footnote",
+     "text": "The court are not precluded from obtaining further satisfaction as to the debt sworn to in an affidavit to"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7552,
+    "output_tokens": 3275,
+    "cache_read_input_tokens": 770,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.12002,
+   "seconds": 43.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "TWELFTH CONGRESS.  SESS. I. CH. 24, 25.  1812."
+    },
+    {
+     "role": "page-number",
+     "text": "679"
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXIV.—An act authorizing the Secretary of the Treasury to locate the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 20, 1812."
+    },
+    {
+     "role": "body",
+     "text": "Lands reserved for the use of Jefferson College, in the Mississippi territory."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "The Secretary"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the Treasury"
+    },
+    {
+     "role": "body",
+     "text": "Treasury be, and he is hereby authorized and empowered to locate in"
+    },
+    {
+     "role": "sidenote",
+     "text": "to locate in one"
+    },
+    {
+     "role": "sidenote",
+     "text": "body the thirty-"
+    },
+    {
+     "role": "body",
+     "text": "one body, the thirty-six sections of land reserved for the use of Jefferson"
+    },
+    {
+     "role": "sidenote",
+     "text": "six sections of"
+    },
+    {
+     "role": "body",
+     "text": "college in the Mississippi territory, by an act, entituled “An act regu-"
+    },
+    {
+     "role": "sidenote",
+     "text": "land reserved"
+    },
+    {
+     "role": "sidenote",
+     "text": "for  Jefferson"
+    },
+    {
+     "role": "body",
+     "text": "lating the grants of land, and providing for the sale of the lands of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "College by the"
+    },
+    {
+     "role": "body",
+     "text": "United States south of the state of Tennessee,” passed on the third day"
+    },
+    {
+     "role": "sidenote",
+     "text": "act of March 3,"
+    },
+    {
+     "role": "body",
+     "text": "of March, one thousand eight hundred and three, on any lands within"
+    },
+    {
+     "role": "sidenote",
+     "text": "1803, sec. 12."
+    },
+    {
+     "role": "body",
+     "text": "the said territory not sold, or otherwise disposed of, and to which the"
+    },
+    {
+     "role": "body",
+     "text": "Indian title has been extinguished."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 20, 1812."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXV.—An Act for the more convenient taking of affidavits and bail in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 20, 1812."
+    },
+    {
+     "role": "body",
+     "text": "civil causes depending in the courts of the United States.(a)"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of March"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "1, 1817, ch. 30."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That it shall be lawful for the"
+    },
+    {
+     "role": "footnote",
+     "text": "(a) The decisions of the Courts of the United States upon the law of Bail have been:"
+    },
+    {
+     "role": "footnote",
+     "text": "Bail in Criminal Cases.—The circuit court has no authority to issue a habeas corpus for the purpose of"
+    },
+    {
+     "role": "footnote",
+     "text": "surrendering a principal in discharge of his bail, when the principal is confined in jail merely under the"
+    },
+    {
+     "role": "footnote",
+     "text": "process of a state court; nor will the court discharge the bail of such party, who has become bound by"
+    },
+    {
+     "role": "footnote",
+     "text": "recognizance in the circuit court to answer, &c., merely on account of such impediment; but, in their"
+    },
+    {
+     "role": "footnote",
+     "text": "discretion, the court will respite the recognizance.  U. S. v. Jonathan French, 1 Gallis. C. C. R. 1."
+    },
+    {
+     "role": "footnote",
+     "text": "The mere continuance of a cause, on sufficient grounds exhibited by the district attorney, constitutes"
+    },
+    {
+     "role": "footnote",
+     "text": "no reason why the court should admit a defendant who is in confinement, to bail.  But if the court is"
+    },
+    {
+     "role": "footnote",
+     "text": "satisfied that the health of the accused is such as that his life will be endangered by his being kept in"
+    },
+    {
+     "role": "footnote",
+     "text": "confinement until next term, it furnishes a strong ground for bail.  The U. S. v. Jones, 3 Wash. C. C. R."
+    },
+    {
+     "role": "footnote",
+     "text": "209."
+    },
+    {
+     "role": "footnote",
+     "text": "Probable cause, on oath, must be stated, to justify the holding a defendant to bail under the 3d sec."
+    },
+    {
+     "role": "footnote",
+     "text": "of the act of Congress of 26th Feb. 1795, ch. 31.   Leonard v. Caskin, Bee’s Adm. Decis. 146."
+    },
+    {
+     "role": "footnote",
+     "text": "Aaron Burr, charged with carrying on a military expedition against a nation with whom the United"
+    },
+    {
+     "role": "footnote",
+     "text": "States were at peace, was admitted to bail.  1 Burr’s Trial, 18."
+    },
+    {
+     "role": "footnote",
+     "text": "The postponement of a criminal case, on the application of the defendant, to allow him an opportunity"
+    },
+    {
+     "role": "footnote",
+     "text": "to obtain testimony, is not a cause of bail.  The U. S. v. Stewart.  C. C. U. S. of Pennsylvania, 2 Dall."
+    },
+    {
+     "role": "footnote",
+     "text": "345."
+    },
+    {
+     "role": "footnote",
+     "text": "The circumstances must be very strong, which will, at any time, induce the court to admit a person to"
+    },
+    {
+     "role": "footnote",
+     "text": "bail who stands charged with high treason.  Ibid."
+    },
+    {
+     "role": "footnote",
+     "text": "The supreme court of the United States has jurisdiction, under the constitution and laws of the United"
+    },
+    {
+     "role": "footnote",
+     "text": "States, to bail a person committed for trial on a criminal charge, by a district judge of the United States."
+    },
+    {
+     "role": "footnote",
+     "text": "U. S. v. Hamilton, 3 Dall. 13."
+    },
+    {
+     "role": "footnote",
+     "text": "The marshal of the United States of the Connecticut district, upon a writ of attachment sued out by the"
+    },
+    {
+     "role": "footnote",
+     "text": "United States, to recover a penalty, may commit a defendant to prison for want of bail, without a mitti-"
+    },
+    {
+     "role": "footnote",
+     "text": "mus from a state magistrate, as is required by the local laws of the state; for such municipal regulation"
+    },
+    {
+     "role": "footnote",
+     "text": "does not bind the officers of the United States.  Palmer v. Allen, 7 Cranch, 560; 2 Cond. Rep. 607."
+    },
+    {
+     "role": "footnote",
+     "text": "Bail in Civil Cases.—The bail is fixed by the death of the principal, after the return of a capias ad"
+    },
+    {
+     "role": "footnote",
+     "text": "satisfaciendum, and before the return of the scire facias; and the bail is not entitled to an exoneretur in"
+    },
+    {
+     "role": "footnote",
+     "text": "such a case.  Davidson v. Taylor, 12 Wheat. 604; 6 Cond. Rep. 660."
+    },
+    {
+     "role": "footnote",
+     "text": "Demanding excessive bail, where the plaintiff has a good cause of action, or holding to bail where"
+    },
+    {
+     "role": "footnote",
+     "text": "there is no cause of action, if done vexatiously, entitles the party injured to an action for a malicious"
+    },
+    {
+     "role": "footnote",
+     "text": "prosecution.  If bail be not demanded, no such action will lie.  Ray v. Law, Peters’ C. C. R. 207."
+    },
+    {
+     "role": "footnote",
+     "text": "Pennsylvania.  The circuit court will discharge, on common bail, a defendant who has been arrested"
+    },
+    {
+     "role": "footnote",
+     "text": "for a debt contracted in the state in which he has, subsequent to the commencement of the suit, been"
+    },
+    {
+     "role": "footnote",
+     "text": "discharged by the insolvent laws of the state.  Read v. Chapman, Peters’ C. C. R. 404."
+    },
+    {
+     "role": "footnote",
+     "text": "Pennsylvania.  Where a capias has been issued against a person who has been discharged from the"
+    },
+    {
+     "role": "footnote",
+     "text": "debt for which it was issued, by the insolvent laws of the state in which it was contracted, the court will"
+    },
+    {
+     "role": "footnote",
+     "text": "not quash the writ, but will discharge the defendant on common bail.  Ibid."
+    },
+    {
+     "role": "footnote",
+     "text": "On a rule to show cause why the defendant should not be discharged on common bail, he having been"
+    },
+    {
+     "role": "footnote",
+     "text": "discharged under the insolvent laws of Pennsylvania; evidence to show that the discharge had been"
+    },
+    {
+     "role": "footnote",
+     "text": "fraudulently obtained, cannot be given.  Campbell et al. v. Claudius, Peters’ C. C. R. 484."
+    },
+    {
+     "role": "footnote",
+     "text": "Pennsylvania.  Where the debt has been contracted and made payable out of the state, the circuit"
+    },
+    {
+     "role": "footnote",
+     "text": "court will not discharge, on common bail, a defendant arrested for such debt, notwithstanding his dis-"
+    },
+    {
+     "role": "footnote",
+     "text": "charge by the insolvent laws of the state in which the action was brought.  Ibid."
+    },
+    {
+     "role": "footnote",
+     "text": "After bail given, and plea pleaded, the defendant cannot arrest the judgment on the ground of a mis-"
+    },
+    {
+     "role": "footnote",
+     "text": "nomer.  Scull v. Briddle, 2 Wash. C. C. R. 200."
+    },
+    {
+     "role": "footnote",
+     "text": "The proceedings were amended by the recognizance of bail, and the name of the defendant in the"
+    },
+    {
+     "role": "footnote",
+     "text": "recognizance was inserted in the declaration.  Ibid."
+    },
+    {
+     "role": "footnote",
+     "text": "The court are not precluded from obtaining further satisfaction as to the debt sworn to in an affidavit to"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7555,
+    "output_tokens": 3281,
+    "cache_read_input_tokens": 712,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.12016,
+   "seconds": 41.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "skipped": "transcriptions agree",
+  "disagreements": [],
+  "cost_usd": 0.0,
+  "usage": {
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "TWELFTH CONGRESS.  SESS. I. CH. 24, 25.  1812."
+  },
+  {
+   "role": "page-number",
+   "text": "679"
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXIV.—An act authorizing the Secretary of the Treasury to locate the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 20, 1812."
+  },
+  {
+   "role": "body",
+   "text": "Lands reserved for the use of Jefferson College, in the Mississippi territory."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "The Secretary"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the Secretary of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "of the Treasury"
+  },
+  {
+   "role": "body",
+   "text": "Treasury be, and he is hereby authorized and empowered to locate in"
+  },
+  {
+   "role": "sidenote",
+   "text": "to locate in one"
+  },
+  {
+   "role": "sidenote",
+   "text": "body the thirty-"
+  },
+  {
+   "role": "body",
+   "text": "one body, the thirty-six sections of land reserved for the use of Jefferson"
+  },
+  {
+   "role": "sidenote",
+   "text": "six sections of"
+  },
+  {
+   "role": "body",
+   "text": "college in the Mississippi territory, by an act, entituled “An act regu-"
+  },
+  {
+   "role": "sidenote",
+   "text": "land reserved"
+  },
+  {
+   "role": "sidenote",
+   "text": "for Jefferson"
+  },
+  {
+   "role": "body",
+   "text": "lating the grants of land, and providing for the sale of the lands of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "College by the"
+  },
+  {
+   "role": "body",
+   "text": "United States south of the state of Tennessee,” passed on the third day"
+  },
+  {
+   "role": "sidenote",
+   "text": "act of March 3,"
+  },
+  {
+   "role": "body",
+   "text": "of March, one thousand eight hundred and three, on any lands within"
+  },
+  {
+   "role": "sidenote",
+   "text": "1803, sec. 12."
+  },
+  {
+   "role": "body",
+   "text": "the said territory not sold, or otherwise disposed of, and to which the"
+  },
+  {
+   "role": "body",
+   "text": "Indian title has been extinguished."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 20, 1812."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXV.—An Act for the more convenient taking of affidavits and bail in"
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 20, 1812."
+  },
+  {
+   "role": "body",
+   "text": "civil causes depending in the courts of the United States.(a)"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of March"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "1, 1817, ch. 30."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That it shall be lawful for the"
+  },
+  {
+   "role": "footnote",
+   "text": "(a) The decisions of the Courts of the United States upon the law of Bail have been:"
+  },
+  {
+   "role": "footnote",
+   "text": "Bail in Criminal Cases.—The circuit court has no authority to issue a habeas corpus for the purpose of"
+  },
+  {
+   "role": "footnote",
+   "text": "surrendering a principal in discharge of his bail, when the principal is confined in jail merely under the"
+  },
+  {
+   "role": "footnote",
+   "text": "process of a state court; nor will the court discharge the bail of such party, who has become bound by"
+  },
+  {
+   "role": "footnote",
+   "text": "recognizance in the circuit court to answer, &c., merely on account of such impediment; but, in their"
+  },
+  {
+   "role": "footnote",
+   "text": "discretion, the court will respite the recognizance.  U. S. v. Jonathan French, 1 Gallis. C. C. R. 1."
+  },
+  {
+   "role": "footnote",
+   "text": "The mere continuance of a cause, on sufficient grounds exhibited by the district attorney, constitutes"
+  },
+  {
+   "role": "footnote",
+   "text": "no reason why the court should admit a defendant who is in confinement, to bail.  But if the court is"
+  },
+  {
+   "role": "footnote",
+   "text": "satisfied that the health of the accused is such as that his life will be endangered by his being kept in"
+  },
+  {
+   "role": "footnote",
+   "text": "confinement until next term, it furnishes a strong ground for bail.  The U. S. v. Jones, 3 Wash. C. C. R."
+  },
+  {
+   "role": "footnote",
+   "text": "209."
+  },
+  {
+   "role": "footnote",
+   "text": "Probable cause, on oath, must be stated, to justify the holding a defendant to bail under the 3d sec."
+  },
+  {
+   "role": "footnote",
+   "text": "of the act of Congress of 26th Feb. 1795, ch. 31.   Leonard v. Caskin, Bee's Adm. Decis. 146."
+  },
+  {
+   "role": "footnote",
+   "text": "Aaron Burr, charged with carrying on a military expedition against a nation with whom the United"
+  },
+  {
+   "role": "footnote",
+   "text": "States were at peace, was admitted to bail.  1 Burr's Trial, 18."
+  },
+  {
+   "role": "footnote",
+   "text": "The postponement of a criminal case, on the application of the defendant, to allow him an opportunity"
+  },
+  {
+   "role": "footnote",
+   "text": "to obtain testimony, is not a cause of bail.  The U. S. v. Stewart.  C. C. U. S. of Pennsylvania, 2 Dall."
+  },
+  {
+   "role": "footnote",
+   "text": "345."
+  },
+  {
+   "role": "footnote",
+   "text": "The circumstances must be very strong, which will, at any time, induce the court to admit a person to"
+  },
+  {
+   "role": "footnote",
+   "text": "bail who stands charged with high treason.  Ibid."
+  },
+  {
+   "role": "footnote",
+   "text": "The supreme court of the United States has jurisdiction, under the constitution and laws of the United"
+  },
+  {
+   "role": "footnote",
+   "text": "States, to bail a person committed for trial on a criminal charge, by a district judge of the United States."
+  },
+  {
+   "role": "footnote",
+   "text": "U. S. v. Hamilton, 3 Dall. 13."
+  },
+  {
+   "role": "footnote",
+   "text": "The marshal of the United States of the Connecticut district, upon a writ of attachment sued out by the"
+  },
+  {
+   "role": "footnote",
+   "text": "United States, to recover a penalty, may commit a defendant to prison for want of bail, without a mitti-"
+  },
+  {
+   "role": "footnote",
+   "text": "mus from a state magistrate, as is required by the local laws of the state; for such municipal regulation"
+  },
+  {
+   "role": "footnote",
+   "text": "does not bind the officers of the United States.  Palmer v. Allen, 7 Cranch, 560; 2 Cond. Rep. 607."
+  },
+  {
+   "role": "footnote",
+   "text": "Bail in Civil Cases.—The bail is fixed by the death of the principal, after the return of a capias ad"
+  },
+  {
+   "role": "footnote",
+   "text": "satisfaciendum, and before the return of the scire facias; and the bail is not entitled to an exoneretur in"
+  },
+  {
+   "role": "footnote",
+   "text": "such a case.  Davidson v. Taylor, 12 Wheat. 604; 6 Cond. Rep. 660."
+  },
+  {
+   "role": "footnote",
+   "text": "Demanding excessive bail, where the plaintiff has a good cause of action, or holding to bail where"
+  },
+  {
+   "role": "footnote",
+   "text": "there is no cause of action, if done vexatiously, entitles the party injured to an action for a malicious"
+  },
+  {
+   "role": "footnote",
+   "text": "prosecution.  If bail be not demanded, no such action will lie.  Ray v. Law, Peters' C. C. R. 207."
+  },
+  {
+   "role": "footnote",
+   "text": "Pennsylvania.  The circuit court will discharge, on common bail, a defendant who has been arrested"
+  },
+  {
+   "role": "footnote",
+   "text": "for a debt contracted in the state in which he has, subsequent to the commencement of the suit, been"
+  },
+  {
+   "role": "footnote",
+   "text": "discharged by the insolvent laws of the state.  Read v. Chapman, Peters' C. C. R. 404."
+  },
+  {
+   "role": "footnote",
+   "text": "Pennsylvania.  Where a capias has been issued against a person who has been discharged from the"
+  },
+  {
+   "role": "footnote",
+   "text": "debt for which it was issued, by the insolvent laws of the state in which it was contracted, the court will"
+  },
+  {
+   "role": "footnote",
+   "text": "not quash the writ, but will discharge the defendant on common bail.  Ibid."
+  },
+  {
+   "role": "footnote",
+   "text": "On a rule to show cause why the defendant should not be discharged on common bail, he having been"
+  },
+  {
+   "role": "footnote",
+   "text": "discharged under the insolvent laws of Pennsylvania; evidence to show that the discharge had been"
+  },
+  {
+   "role": "footnote",
+   "text": "fraudulently obtained, cannot be given.  Campbell et al. v. Claudius, Peters' C. C. R. 484."
+  },
+  {
+   "role": "footnote",
+   "text": "Pennsylvania.  Where the debt has been contracted and made payable out of the state, the circuit"
+  },
+  {
+   "role": "footnote",
+   "text": "court will not discharge, on common bail, a defendant arrested for such debt, notwithstanding his dis-"
+  },
+  {
+   "role": "footnote",
+   "text": "charge by the insolvent laws of the state in which the action was brought.  Ibid."
+  },
+  {
+   "role": "footnote",
+   "text": "After bail given, and plea pleaded, the defendant cannot arrest the judgment on the ground of a mis-"
+  },
+  {
+   "role": "footnote",
+   "text": "nomer.  Scull v. Briddle, 2 Wash. C. C. R. 200."
+  },
+  {
+   "role": "footnote",
+   "text": "The proceedings were amended by the recognizance of bail, and the name of the defendant in the"
+  },
+  {
+   "role": "footnote",
+   "text": "recognizance was inserted in the declaration.  Ibid."
+  },
+  {
+   "role": "footnote",
+   "text": "The court are not precluded from obtaining further satisfaction as to the debt sworn to in an affidavit to"
+  }
+ ],
+ "disagreement_count": 0,
+ "tokens": {
+  "input_tokens": 15107,
+  "output_tokens": 6556,
+  "cache_read_input_tokens": 1482,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.24018,
+ "seconds": 84.9,
+ "created": "2026-09-08T10:53:11"
+}

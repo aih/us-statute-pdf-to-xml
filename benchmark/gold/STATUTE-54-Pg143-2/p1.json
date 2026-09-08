@@ -1,0 +1,1298 @@
+{
+ "granule_id": "STATUTE-54-Pg143-2",
+ "package_id": "STATUTE-54",
+ "volume": 54,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To amend the Act entitled \"An Act for the grading and classification of clerks in the Foreign Service of the United States of America, and providing compensation therefor\", approved February 23",
+ "date_issued": "1940-04-20",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "143",
+ "image": "data/gold/STATUTE-54-Pg143-2/p1.png",
+ "image_sha256": "28547ae59027f66c61068794535e0601535b1ac4755a059783e7feef1f5a997c",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "54 STAT.]    76TH CONG., 3D SESS.—CHS. 117, 118—APR. 20, 1940"
+    },
+    {
+     "role": "page-number",
+     "text": "143"
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 117]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "April 20, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 8822]"
+    },
+    {
+     "role": "body",
+     "text": "To extend original jurisdiction to district courts in civil suits between citizens"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 463]"
+    },
+    {
+     "role": "body",
+     "text": "of the District of Columbia, the Territories of Hawaii or Alaska, and any"
+    },
+    {
+     "role": "body",
+     "text": "State or Territory."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Judicial   C o d e ,"
+    },
+    {
+     "role": "sidenote",
+     "text": "amendment."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That clause (b)"
+    },
+    {
+     "role": "body",
+     "text": "of paragraph (1), section 24, of the Judicial Code, as amended"
+    },
+    {
+     "role": "sidenote",
+     "text": "36 Stat. 1091."
+    },
+    {
+     "role": "body",
+     "text": "(U. S. C., 1934 edition, title 28, sec. 41; Supp. IV, title 28, sec. 41),"
+    },
+    {
+     "role": "body",
+     "text": "be, and the same is hereby, amended to read as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "U. S. district courts."
+    },
+    {
+     "role": "sidenote",
+     "text": "Original jurisdiction"
+    },
+    {
+     "role": "sidenote",
+     "text": "in civil suits extended."
+    },
+    {
+     "role": "body",
+     "text": "\"(b) Is between citizens of different States, or citizens of the Dis-"
+    },
+    {
+     "role": "body",
+     "text": "trict of Columbia, the Territory of Hawaii, or Alaska, and any State"
+    },
+    {
+     "role": "body",
+     "text": "or Territory.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved, April 20, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 118]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "April 20, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 8446]"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Act entitled \"An Act for the grading and classification of clerks"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 464]"
+    },
+    {
+     "role": "body",
+     "text": "in the Foreign Service of the United States of America, and providing com-"
+    },
+    {
+     "role": "body",
+     "text": "pensation therefor\", approved February 23, 1931, as amended."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Foreign Service re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tirement and disabil-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ity system."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Act"
+    },
+    {
+     "role": "body",
+     "text": "entitled \"An Act for the grading and classification of clerks in the"
+    },
+    {
+     "role": "body",
+     "text": "Foreign Service of the United States of America, and providing"
+    },
+    {
+     "role": "sidenote",
+     "text": "46 Stat. 1211."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 U. S. C. § 21 (e);"
+    },
+    {
+     "role": "body",
+     "text": "compensation therefor\", approved February 23, 1931, as amended,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Supp. V, § 21 (e)."
+    },
+    {
+     "role": "sidenote",
+     "text": "53 Stat. 585."
+    },
+    {
+     "role": "body",
+     "text": "be, and the same is hereby, amended as follows: Section 26 (e) of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 184."
+    },
+    {
+     "role": "body",
+     "text": "said Act, as amended by the Act of April 24, 1939, is amended to"
+    },
+    {
+     "role": "body",
+     "text": "read as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Annuities; amount."
+    },
+    {
+     "role": "body",
+     "text": "\"(e) The annuity of a retired Foreign Service officer shall"
+    },
+    {
+     "role": "body",
+     "text": "be equal to 2 per centum of his average annual basic salary"
+    },
+    {
+     "role": "body",
+     "text": "for the ten years next preceding the date of retirement, mul-"
+    },
+    {
+     "role": "body",
+     "text": "tiplied by the number of years of service not exceeding thirty"
+    },
+    {
+     "role": "body",
+     "text": "years and in determining the aggregate period of service upon"
+    },
+    {
+     "role": "body",
+     "text": "which the annuity is to be based, the fractional part of a month,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Wife as beneficiary."
+    },
+    {
+     "role": "body",
+     "text": "if any, in the total service shall be eliminated: Provided, That"
+    },
+    {
+     "role": "body",
+     "text": "at the time of his retirement a Foreign Service officer, if the"
+    },
+    {
+     "role": "body",
+     "text": "husband of a wife to whom he has been married for at least"
+    },
+    {
+     "role": "body",
+     "text": "five years, may elect to receive a reduced annuity and designate"
+    },
+    {
+     "role": "body",
+     "text": "his wife as his beneficiary, to whom will be paid any portion"
+    },
+    {
+     "role": "body",
+     "text": "up to two-thirds of his reduced annuity, at the option of"
+    },
+    {
+     "role": "body",
+     "text": "the officer, as long as she may live after his death: Provided,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Annuity payable to"
+    },
+    {
+     "role": "sidenote",
+     "text": "widow, limitation."
+    },
+    {
+     "role": "body",
+     "text": "however, That the annuity payable to the widow shall in no"
+    },
+    {
+     "role": "body",
+     "text": "case exceed 25 per centum of the officer's average annual basic"
+    },
+    {
+     "role": "body",
+     "text": "salary for the ten years next preceding the date of retirement."
+    },
+    {
+     "role": "sidenote",
+     "text": "Computation   of"
+    },
+    {
+     "role": "sidenote",
+     "text": "amounts."
+    },
+    {
+     "role": "body",
+     "text": "If the age of the officer is less than the age of the wife or exceeds"
+    },
+    {
+     "role": "body",
+     "text": "her age by not more than eight years, the annuity of the officer"
+    },
+    {
+     "role": "body",
+     "text": "will be reduced by an amount equal to one-half the annuity"
+    },
+    {
+     "role": "body",
+     "text": "which he elects to have paid to his widow.  If the age of the"
+    },
+    {
+     "role": "body",
+     "text": "officer exceeds the age of the wife by more than eight years,"
+    },
+    {
+     "role": "body",
+     "text": "the annuity of the officer will be reduced by an amount equal"
+    },
+    {
+     "role": "body",
+     "text": "to one-half the annuity which he elects to have paid to his"
+    },
+    {
+     "role": "body",
+     "text": "widow plus an additional reduction equal to 2 per centum of"
+    },
+    {
+     "role": "body",
+     "text": "such widow's annuity for each year, or fraction thereof, that"
+    },
+    {
+     "role": "sidenote",
+     "text": "Survivorship provi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sion."
+    },
+    {
+     "role": "body",
+     "text": "the difference in age exceeds eight: Provided further, That the"
+    },
+    {
+     "role": "body",
+     "text": "officer may at his option also elect to have his annuity reduced"
+    },
+    {
+     "role": "body",
+     "text": "by an additional 5 per centum of the amount which he elects"
+    },
+    {
+     "role": "body",
+     "text": "to have paid to his widow, with a provision that, from and"
+    },
+    {
+     "role": "body",
+     "text": "after the death of his wife, if the officer shall survive her, the"
+    },
+    {
+     "role": "body",
+     "text": "annuity payable to the officer shall be that amount which would"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2679,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09385,
+   "seconds": 29.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "54 STAT.]    76TH CONG., 3D SESS.—CHS. 117, 118—APR. 20, 1940"
+    },
+    {
+     "role": "page-number",
+     "text": "143"
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 117]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "April 20, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 8822]"
+    },
+    {
+     "role": "body",
+     "text": "To extend original jurisdiction to district courts in civil suits between citizens"
+    },
+    {
+     "role": "body",
+     "text": "of the District of Columbia, the Territories of Hawaii or Alaska, and any"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 463]"
+    },
+    {
+     "role": "body",
+     "text": "State or Territory."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That clause (b)"
+    },
+    {
+     "role": "sidenote",
+     "text": "Judicial   C o d e ,"
+    },
+    {
+     "role": "sidenote",
+     "text": "amendment."
+    },
+    {
+     "role": "body",
+     "text": "of paragraph (1), section 24, of the Judicial Code, as amended"
+    },
+    {
+     "role": "body",
+     "text": "(U. S. C., 1934 edition, title 28, sec. 41; Supp. IV, title 28, sec. 41),"
+    },
+    {
+     "role": "sidenote",
+     "text": "36 Stat. 1091."
+    },
+    {
+     "role": "body",
+     "text": "be, and the same is hereby, amended to read as follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"(b) Is between citizens of different States, or citizens of the Dis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "U. S. district courts."
+    },
+    {
+     "role": "sidenote",
+     "text": "Original jurisdiction"
+    },
+    {
+     "role": "body",
+     "text": "trict of Columbia, the Territory of Hawaii, or Alaska, and any State"
+    },
+    {
+     "role": "sidenote",
+     "text": "in civil suits extended."
+    },
+    {
+     "role": "body",
+     "text": "or Territory.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved, April 20, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 118]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "April 20, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 8446]"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Act entitled \"An Act for the grading and classification of clerks"
+    },
+    {
+     "role": "body",
+     "text": "in the Foreign Service of the United States of America, and providing com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 464]"
+    },
+    {
+     "role": "body",
+     "text": "pensation therefor\", approved February 23, 1931, as amended."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Foreign Service re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tirement and disabil-"
+    },
+    {
+     "role": "body",
+     "text": "entitled \"An Act for the grading and classification of clerks in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "ity system."
+    },
+    {
+     "role": "body",
+     "text": "Foreign Service of the United States of America, and providing"
+    },
+    {
+     "role": "body",
+     "text": "compensation therefor\", approved February 23, 1931, as amended,"
+    },
+    {
+     "role": "sidenote",
+     "text": "46 Stat. 1211."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 U. S. C. § 21 (e);"
+    },
+    {
+     "role": "body",
+     "text": "be, and the same is hereby, amended as follows: Section 26 (e) of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Supp. V, § 21 (e)."
+    },
+    {
+     "role": "sidenote",
+     "text": "53 Stat. 585."
+    },
+    {
+     "role": "body",
+     "text": "said Act, as amended by the Act of April 24, 1939, is amended to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 184."
+    },
+    {
+     "role": "body",
+     "text": "read as follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"(e) The annuity of a retired Foreign Service officer shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "Annuities; amount."
+    },
+    {
+     "role": "body",
+     "text": "be equal to 2 per centum of his average annual basic salary"
+    },
+    {
+     "role": "body",
+     "text": "for the ten years next preceding the date of retirement, mul-"
+    },
+    {
+     "role": "body",
+     "text": "tiplied by the number of years of service not exceeding thirty"
+    },
+    {
+     "role": "body",
+     "text": "years and in determining the aggregate period of service upon"
+    },
+    {
+     "role": "body",
+     "text": "which the annuity is to be based, the fractional part of a month,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Wife as beneficiary."
+    },
+    {
+     "role": "body",
+     "text": "if any, in the total service shall be eliminated: Provided, That"
+    },
+    {
+     "role": "body",
+     "text": "at the time of his retirement a Foreign Service officer, if the"
+    },
+    {
+     "role": "body",
+     "text": "husband of a wife to whom he has been married for at least"
+    },
+    {
+     "role": "body",
+     "text": "five years, may elect to receive a reduced annuity and designate"
+    },
+    {
+     "role": "body",
+     "text": "his wife as his beneficiary, to whom will be paid any portion"
+    },
+    {
+     "role": "body",
+     "text": "up to two-thirds of his reduced annuity, at the option of"
+    },
+    {
+     "role": "body",
+     "text": "the officer, as long as she may live after his death: Provided,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Annuity payable to"
+    },
+    {
+     "role": "sidenote",
+     "text": "widow, limitation."
+    },
+    {
+     "role": "body",
+     "text": "however, That the annuity payable to the widow shall in no"
+    },
+    {
+     "role": "body",
+     "text": "case exceed 25 per centum of the officer's average annual basic"
+    },
+    {
+     "role": "body",
+     "text": "salary for the ten years next preceding the date of retirement."
+    },
+    {
+     "role": "sidenote",
+     "text": "Computation   of"
+    },
+    {
+     "role": "sidenote",
+     "text": "amounts."
+    },
+    {
+     "role": "body",
+     "text": "If the age of the officer is less than the age of the wife or exceeds"
+    },
+    {
+     "role": "body",
+     "text": "her age by not more than eight years, the annuity of the officer"
+    },
+    {
+     "role": "body",
+     "text": "will be reduced by an amount equal to one-half the annuity"
+    },
+    {
+     "role": "body",
+     "text": "which he elects to have paid to his widow.  If the age of the"
+    },
+    {
+     "role": "body",
+     "text": "officer exceeds the age of the wife by more than eight years,"
+    },
+    {
+     "role": "body",
+     "text": "the annuity of the officer will be reduced by an amount equal"
+    },
+    {
+     "role": "body",
+     "text": "to one-half the annuity which he elects to have paid to his"
+    },
+    {
+     "role": "body",
+     "text": "widow plus an additional reduction equal to 2 per centum of"
+    },
+    {
+     "role": "body",
+     "text": "such widow's annuity for each year, or fraction thereof, that"
+    },
+    {
+     "role": "sidenote",
+     "text": "Survivorship provi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sion."
+    },
+    {
+     "role": "body",
+     "text": "the difference in age exceeds eight: Provided further, That the"
+    },
+    {
+     "role": "body",
+     "text": "officer may at his option also elect to have his annuity reduced"
+    },
+    {
+     "role": "body",
+     "text": "by an additional 5 per centum of the amount which he elects"
+    },
+    {
+     "role": "body",
+     "text": "to have paid to his widow, with a provision that, from and"
+    },
+    {
+     "role": "body",
+     "text": "after the death of his wife, if the officer shall survive her, the"
+    },
+    {
+     "role": "body",
+     "text": "annuity payable to the officer shall be that amount which would"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2631,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09264,
+   "seconds": 28.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12860,
+   "output_tokens": 8740,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.28322,
+  "seconds": 104.0,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "of the District of Columbia, the Territories of Hawaii or Alaska, and any",
+    "kept": "",
+    "reason": "The sidenote [Public, No. 463] sits at the level of this body line; per the page's consistent pattern the sidenote precedes the body line it aligns with, so the body line follows the sidenote."
+   },
+   {
+    "run": 2,
+    "a": "of the District of Columbia, the Territories of Hawaii or Alaska, and any",
+    "b": "",
+    "kept": "of the District of Columbia, the Territories of Hawaii or Alaska, and any",
+    "reason": "Body line printed after the [Public, No. 463] sidenote at that level."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "United States of America in Congress assembled, That clause (b)",
+    "kept": "",
+    "reason": "The 'Judicial Code, amendment.' sidenote block precedes this body line, as in the agreed pattern."
+   },
+   {
+    "run": 4,
+    "a": "United States of America in Congress assembled, That clause (b)",
+    "b": "",
+    "kept": "United States of America in Congress assembled, That clause (b)",
+    "reason": "Body line follows the two-line Judicial Code sidenote."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "(U. S. C., 1934 edition, title 28, sec. 41; Supp. IV, title 28, sec. 41),",
+    "kept": "",
+    "reason": "The '36 Stat. 1091.' sidenote is aligned with and precedes this body line."
+   },
+   {
+    "run": 6,
+    "a": "(U. S. C., 1934 edition, title 28, sec. 41; Supp. IV, title 28, sec. 41),",
+    "b": "",
+    "kept": "(U. S. C., 1934 edition, title 28, sec. 41; Supp. IV, title 28, sec. 41),",
+    "reason": "Body line follows the 36 Stat. sidenote."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "\"(b) Is between citizens of different States, or citizens of the Dis-",
+    "kept": "",
+    "reason": "The three-line 'U. S. district courts.' sidenote block is kept together and placed before the body lines it spans."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "trict of Columbia, the Territory of Hawaii, or Alaska, and any State",
+    "kept": "",
+    "reason": "No text belongs between the sidenote lines; the block stays intact."
+   },
+   {
+    "run": 9,
+    "a": "\"(b) Is between citizens of different States, or citizens of the Dis-\ntrict of Columbia, the Territory of Hawaii, or Alaska, and any State",
+    "b": "",
+    "kept": "\"(b) Is between citizens of different States, or citizens of the Dis-\ntrict of Columbia, the Territory of Hawaii, or Alaska, and any State",
+    "reason": "Both body lines follow the complete three-line sidenote block, matching the grouping used elsewhere on the page."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "in the Foreign Service of the United States of America, and providing com-",
+    "kept": "",
+    "reason": "The [Public, No. 464] sidenote precedes the body line it aligns with."
+   },
+   {
+    "run": 11,
+    "a": "in the Foreign Service of the United States of America, and providing com-",
+    "b": "",
+    "kept": "in the Foreign Service of the United States of America, and providing com-",
+    "reason": "Body line follows the [Public, No. 464] sidenote."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "United States of America in Congress assembled, That the Act",
+    "kept": "",
+    "reason": "The 'Foreign Service retirement and disability system.' sidenote block is placed as a unit before the body lines it spans."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "entitled \"An Act for the grading and classification of clerks in the",
+    "kept": "",
+    "reason": "No printed line separates the sidenote block lines."
+   },
+   {
+    "run": 14,
+    "a": "United States of America in Congress assembled, That the Act\nentitled \"An Act for the grading and classification of clerks in the",
+    "b": "",
+    "kept": "United States of America in Congress assembled, That the Act\nentitled \"An Act for the grading and classification of clerks in the",
+    "reason": "Both body lines follow the complete three-line sidenote block."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "compensation therefor\", approved February 23, 1931, as amended,",
+    "kept": "",
+    "reason": "'46 Stat. 1211.' aligns with the following body line and is printed before it, as elsewhere on the page."
+   },
+   {
+    "run": 16,
+    "a": "compensation therefor\", approved February 23, 1931, as amended,",
+    "b": "be, and the same is hereby, amended as follows: Section 26 (e) of",
+    "kept": "compensation therefor\", approved February 23, 1931, as amended,",
+    "reason": "Body line follows the 46 Stat./22 U. S. C. sidenote lines."
+   },
+   {
+    "run": 17,
+    "a": "be, and the same is hereby, amended as follows: Section 26 (e) of",
+    "b": "said Act, as amended by the Act of April 24, 1939, is amended to",
+    "kept": "be, and the same is hereby, amended as follows: Section 26 (e) of",
+    "reason": "Body line follows the Supp. V/53 Stat. sidenote lines aligned with it."
+   },
+   {
+    "run": 18,
+    "a": "said Act, as amended by the Act of April 24, 1939, is amended to",
+    "b": "",
+    "kept": "said Act, as amended by the Act of April 24, 1939, is amended to",
+    "reason": "Body line follows the 'Post, p. 184.' sidenote aligned with it."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "\"(e) The annuity of a retired Foreign Service officer shall",
+    "kept": "",
+    "reason": "'Annuities; amount.' precedes the body line it aligns with."
+   },
+   {
+    "run": 20,
+    "a": "\"(e) The annuity of a retired Foreign Service officer shall",
+    "b": "",
+    "kept": "\"(e) The annuity of a retired Foreign Service officer shall",
+    "reason": "Body line follows the 'Annuities; amount.' sidenote."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "54 STAT.]    76TH CONG., 3D SESS.—CHS. 117, 118—APR. 20, 1940"
+  },
+  {
+   "role": "page-number",
+   "text": "143"
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 117]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "April 20, 1940"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 8822]"
+  },
+  {
+   "role": "body",
+   "text": "To extend original jurisdiction to district courts in civil suits between citizens"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 463]"
+  },
+  {
+   "role": "body",
+   "text": "of the District of Columbia, the Territories of Hawaii or Alaska, and any"
+  },
+  {
+   "role": "body",
+   "text": "State or Territory."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Judicial   C o d e ,"
+  },
+  {
+   "role": "sidenote",
+   "text": "amendment."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That clause (b)"
+  },
+  {
+   "role": "body",
+   "text": "of paragraph (1), section 24, of the Judicial Code, as amended"
+  },
+  {
+   "role": "sidenote",
+   "text": "36 Stat. 1091."
+  },
+  {
+   "role": "body",
+   "text": "(U. S. C., 1934 edition, title 28, sec. 41; Supp. IV, title 28, sec. 41),"
+  },
+  {
+   "role": "body",
+   "text": "be, and the same is hereby, amended to read as follows:"
+  },
+  {
+   "role": "sidenote",
+   "text": "U. S. district courts."
+  },
+  {
+   "role": "sidenote",
+   "text": "Original jurisdiction"
+  },
+  {
+   "role": "sidenote",
+   "text": "in civil suits extended."
+  },
+  {
+   "role": "body",
+   "text": "\"(b) Is between citizens of different States, or citizens of the Dis-"
+  },
+  {
+   "role": "body",
+   "text": "trict of Columbia, the Territory of Hawaii, or Alaska, and any State"
+  },
+  {
+   "role": "body",
+   "text": "or Territory.\""
+  },
+  {
+   "role": "body",
+   "text": "Approved, April 20, 1940."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 118]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "April 20, 1940"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 8446]"
+  },
+  {
+   "role": "body",
+   "text": "To amend the Act entitled \"An Act for the grading and classification of clerks"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 464]"
+  },
+  {
+   "role": "body",
+   "text": "in the Foreign Service of the United States of America, and providing com-"
+  },
+  {
+   "role": "body",
+   "text": "pensation therefor\", approved February 23, 1931, as amended."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Foreign Service re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tirement and disabil-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ity system."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Act"
+  },
+  {
+   "role": "body",
+   "text": "entitled \"An Act for the grading and classification of clerks in the"
+  },
+  {
+   "role": "body",
+   "text": "Foreign Service of the United States of America, and providing"
+  },
+  {
+   "role": "sidenote",
+   "text": "46 Stat. 1211."
+  },
+  {
+   "role": "sidenote",
+   "text": "22 U. S. C. § 21 (e);"
+  },
+  {
+   "role": "body",
+   "text": "compensation therefor\", approved February 23, 1931, as amended,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Supp. V, § 21 (e)."
+  },
+  {
+   "role": "sidenote",
+   "text": "53 Stat. 585."
+  },
+  {
+   "role": "body",
+   "text": "be, and the same is hereby, amended as follows: Section 26 (e) of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, p. 184."
+  },
+  {
+   "role": "body",
+   "text": "said Act, as amended by the Act of April 24, 1939, is amended to"
+  },
+  {
+   "role": "body",
+   "text": "read as follows:"
+  },
+  {
+   "role": "sidenote",
+   "text": "Annuities; amount."
+  },
+  {
+   "role": "body",
+   "text": "\"(e) The annuity of a retired Foreign Service officer shall"
+  },
+  {
+   "role": "body",
+   "text": "be equal to 2 per centum of his average annual basic salary"
+  },
+  {
+   "role": "body",
+   "text": "for the ten years next preceding the date of retirement, mul-"
+  },
+  {
+   "role": "body",
+   "text": "tiplied by the number of years of service not exceeding thirty"
+  },
+  {
+   "role": "body",
+   "text": "years and in determining the aggregate period of service upon"
+  },
+  {
+   "role": "body",
+   "text": "which the annuity is to be based, the fractional part of a month,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Provisos."
+  },
+  {
+   "role": "sidenote",
+   "text": "Wife as beneficiary."
+  },
+  {
+   "role": "body",
+   "text": "if any, in the total service shall be eliminated: Provided, That"
+  },
+  {
+   "role": "body",
+   "text": "at the time of his retirement a Foreign Service officer, if the"
+  },
+  {
+   "role": "body",
+   "text": "husband of a wife to whom he has been married for at least"
+  },
+  {
+   "role": "body",
+   "text": "five years, may elect to receive a reduced annuity and designate"
+  },
+  {
+   "role": "body",
+   "text": "his wife as his beneficiary, to whom will be paid any portion"
+  },
+  {
+   "role": "body",
+   "text": "up to two-thirds of his reduced annuity, at the option of"
+  },
+  {
+   "role": "body",
+   "text": "the officer, as long as she may live after his death: Provided,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Annuity payable to"
+  },
+  {
+   "role": "sidenote",
+   "text": "widow, limitation."
+  },
+  {
+   "role": "body",
+   "text": "however, That the annuity payable to the widow shall in no"
+  },
+  {
+   "role": "body",
+   "text": "case exceed 25 per centum of the officer's average annual basic"
+  },
+  {
+   "role": "body",
+   "text": "salary for the ten years next preceding the date of retirement."
+  },
+  {
+   "role": "sidenote",
+   "text": "Computation   of"
+  },
+  {
+   "role": "sidenote",
+   "text": "amounts."
+  },
+  {
+   "role": "body",
+   "text": "If the age of the officer is less than the age of the wife or exceeds"
+  },
+  {
+   "role": "body",
+   "text": "her age by not more than eight years, the annuity of the officer"
+  },
+  {
+   "role": "body",
+   "text": "will be reduced by an amount equal to one-half the annuity"
+  },
+  {
+   "role": "body",
+   "text": "which he elects to have paid to his widow.  If the age of the"
+  },
+  {
+   "role": "body",
+   "text": "officer exceeds the age of the wife by more than eight years,"
+  },
+  {
+   "role": "body",
+   "text": "the annuity of the officer will be reduced by an amount equal"
+  },
+  {
+   "role": "body",
+   "text": "to one-half the annuity which he elects to have paid to his"
+  },
+  {
+   "role": "body",
+   "text": "widow plus an additional reduction equal to 2 per centum of"
+  },
+  {
+   "role": "body",
+   "text": "such widow's annuity for each year, or fraction thereof, that"
+  },
+  {
+   "role": "sidenote",
+   "text": "Survivorship provi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "sion."
+  },
+  {
+   "role": "body",
+   "text": "the difference in age exceeds eight: Provided further, That the"
+  },
+  {
+   "role": "body",
+   "text": "officer may at his option also elect to have his annuity reduced"
+  },
+  {
+   "role": "body",
+   "text": "by an additional 5 per centum of the amount which he elects"
+  },
+  {
+   "role": "body",
+   "text": "to have paid to his widow, with a provision that, from and"
+  },
+  {
+   "role": "body",
+   "text": "after the death of his wife, if the officer shall survive her, the"
+  },
+  {
+   "role": "body",
+   "text": "annuity payable to the officer shall be that amount which would"
+  }
+ ],
+ "disagreement_count": 20,
+ "tokens": {
+  "input_tokens": 23459,
+  "output_tokens": 14050,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.46971,
+ "seconds": 162.2,
+ "created": "2026-09-08T12:00:13"
+}

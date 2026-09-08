@@ -1,0 +1,1256 @@
+{
+ "granule_id": "STATUTE-17-Pg339",
+ "package_id": "STATUTE-17",
+ "volume": 17,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act granting the Right of Way through the public Lands to the Denver and Rio Grande Railway Company.",
+ "date_issued": "1872-06-08",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "339",
+ "image": "data/gold/STATUTE-17-Pg339/p1.png",
+ "image_sha256": "cdda79dc9f9b8555bd21d115173aa692a0d39ee7335b407e4ea9e7cc78eced90",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FORTY-SECOND CONGRESS.  SESS. II.  CH. 353-356.  1872."
+    },
+    {
+     "role": "page-number",
+     "text": "339"
+    },
+    {
+     "role": "sidenote",
+     "text": "when to com-"
+    },
+    {
+     "role": "body",
+     "text": "held to commence in each case with the filing of the application under"
+    },
+    {
+     "role": "sidenote",
+     "text": "mence."
+    },
+    {
+     "role": "body",
+     "text": "that act."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 8, 1872."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 8, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCCLIV. — An Act granting the Right of Way through the public Lands to the"
+    },
+    {
+     "role": "body",
+     "text": "Denver and Rio Grande Railway Company."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Right of way"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the right of way over the"
+    },
+    {
+     "role": "sidenote",
+     "text": "through the pub"
+    },
+    {
+     "role": "body",
+     "text": "public domain, one hundred feet in width on each side of the track,"
+    },
+    {
+     "role": "sidenote",
+     "text": "lic lands granted"
+    },
+    {
+     "role": "body",
+     "text": "together with such public lands adjacent thereto as may be needed for"
+    },
+    {
+     "role": "sidenote",
+     "text": "to the Denver"
+    },
+    {
+     "role": "body",
+     "text": "depots, shops, and other buildings for railroad purposes, and for yard-"
+    },
+    {
+     "role": "sidenote",
+     "text": "and Rio Grande"
+    },
+    {
+     "role": "body",
+     "text": "room and side-tracks, not exceeding twenty acres at any one station, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Railway Co."
+    },
+    {
+     "role": "sidenote",
+     "text": "Extent of"
+    },
+    {
+     "role": "body",
+     "text": "not more than one station in every ten miles, and the right to take from"
+    },
+    {
+     "role": "sidenote",
+     "text": "grant."
+    },
+    {
+     "role": "body",
+     "text": "the public lands adjacent thereto stone, timber, earth, water, and other"
+    },
+    {
+     "role": "body",
+     "text": "material required for the construction and repair of its railway and tel-"
+    },
+    {
+     "role": "body",
+     "text": "egraph line be, and the same are hereby, granted and confirmed unto the"
+    },
+    {
+     "role": "body",
+     "text": "Denver and Rio Grande Railway Company, a corporation created under"
+    },
+    {
+     "role": "body",
+     "text": "the incorporation laws of the Territory of Colorado, its successors and"
+    },
+    {
+     "role": "body",
+     "text": "assigns ; and all the rights, powers, and franchises conferred by the said"
+    },
+    {
+     "role": "body",
+     "text": "laws on corporations created under them for constructing and operating"
+    },
+    {
+     "role": "body",
+     "text": "railroad and telegraph lines are hereby ratified and confirmed to the above-"
+    },
+    {
+     "role": "body",
+     "text": "named railway company, its successors and assigns ; and the same rights,"
+    },
+    {
+     "role": "body",
+     "text": "powers, and franchises conferred by the general incorporation laws of the"
+    },
+    {
+     "role": "body",
+     "text": "Territory of Colorado for the construction of railroads and telegraph lines,"
+    },
+    {
+     "role": "body",
+     "text": "are hereby granted to the said company, its successors and assigns, for"
+    },
+    {
+     "role": "body",
+     "text": "the extension and operation of its railway and telegraph line in and"
+    },
+    {
+     "role": "body",
+     "text": "through any contiguous territory of the United States to the northern"
+    },
+    {
+     "role": "body",
+     "text": "boundary line of Mexico, subject to the compliance with the conditions"
+    },
+    {
+     "role": "body",
+     "text": "and requirements of the general incorporation laws of such territory so"
+    },
+    {
+     "role": "body",
+     "text": "far as the same are applicable and not inconsistent with the laws of the"
+    },
+    {
+     "role": "body",
+     "text": "United States ; and the same rights, powers, and privileges conferred upon"
+    },
+    {
+     "role": "sidenote",
+     "text": "1864, ch. 216, § 3."
+    },
+    {
+     "role": "body",
+     "text": "the Union Pacific Railroad Company by section three of an act approved"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. xiii. p. 357."
+    },
+    {
+     "role": "body",
+     "text": "July second, eighteen hundred and sixty-four, are hereby conferred upon"
+    },
+    {
+     "role": "sidenote",
+     "text": "Damages."
+    },
+    {
+     "role": "body",
+     "text": "the above-named company, its successors and assigns : Provided, That"
+    },
+    {
+     "role": "body",
+     "text": "applications for the assessment of damages shall be made to the court, or"
+    },
+    {
+     "role": "body",
+     "text": "any judge of a court having jurisdiction in the county in which the lands"
+    },
+    {
+     "role": "sidenote",
+     "text": "Railway when"
+    },
+    {
+     "role": "body",
+     "text": "or premises lie : Provided, That said company shall complete its railway"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be completed."
+    },
+    {
+     "role": "body",
+     "text": "to a point on the Rio Grande as far south as Santa Fé within five years"
+    },
+    {
+     "role": "body",
+     "text": "of the passage of this act, and shall complete fifty miles additional south"
+    },
+    {
+     "role": "body",
+     "text": "of said point in each year thereafter, and in default thereof, the rights and"
+    },
+    {
+     "role": "body",
+     "text": "privileges herein granted shall be rendered null and void so far as respects"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "the unfinished portion of said road : And provided further, That nothing"
+    },
+    {
+     "role": "body",
+     "text": "in this act contained shall be construed as affirming or denying the right"
+    },
+    {
+     "role": "body",
+     "text": "of any territory to incorporate a railroad company."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 8, 1872."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 8, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCCLV. — An Act to grant an American Register to the British Brig Balear."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "American reg-"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the Treas-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ister to issue to"
+    },
+    {
+     "role": "body",
+     "text": "ury is hereby authorized and directed to issue an American register to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "the British brig"
+    },
+    {
+     "role": "body",
+     "text": "American-built British brig Balear, recently purchased and repaired by"
+    },
+    {
+     "role": "sidenote",
+     "text": "Balear"
+    },
+    {
+     "role": "body",
+     "text": "Gerhard Wessels, of the city and State of New York."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 8, 1872."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 8, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCCLVI. — An Act to reimburse United States Marshals for Moneys neces-"
+    },
+    {
+     "role": "body",
+     "text": "sarily expended by them in taking the ninth Census in Excess of the Compensation al-"
+    },
+    {
+     "role": "body",
+     "text": "lowed them under the Law in Force before the Passage of this Act."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "United States"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That when it is made to appear"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2374,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08678,
+   "seconds": 107.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FORTY–SECOND  CONGRESS.  SESS. II.  CH. 353–356.  1872."
+    },
+    {
+     "role": "page-number",
+     "text": "339"
+    },
+    {
+     "role": "body",
+     "text": "held  to  commence  in  each  case with  the  filing  of  the  application  under"
+    },
+    {
+     "role": "sidenote",
+     "text": "when to com-"
+    },
+    {
+     "role": "body",
+     "text": "that act."
+    },
+    {
+     "role": "sidenote",
+     "text": "mence."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 8, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCCLIV. — An  Act granting the Right of Way through the public Lands to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 8, 1872."
+    },
+    {
+     "role": "body",
+     "text": "Denver and Rio Grande Railway Company."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled,  That the right of way over the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Right of way"
+    },
+    {
+     "role": "body",
+     "text": "public domain,  one hundred feet in  width  on  each  side  of  the  track,"
+    },
+    {
+     "role": "sidenote",
+     "text": "through the pub"
+    },
+    {
+     "role": "sidenote",
+     "text": "lic lands granted"
+    },
+    {
+     "role": "body",
+     "text": "together with  such  public lands  adjacent  thereto  as  may  be  needed  for"
+    },
+    {
+     "role": "sidenote",
+     "text": "to the Denver"
+    },
+    {
+     "role": "body",
+     "text": "depots,  shops,  and  other  buildings  for  railroad  purposes,  and  for  yard-"
+    },
+    {
+     "role": "sidenote",
+     "text": "and Rio Grande"
+    },
+    {
+     "role": "body",
+     "text": "room  and  side-tracks,  not  exceeding  twenty  acres at any one station, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Railway Co."
+    },
+    {
+     "role": "sidenote",
+     "text": "Extent of"
+    },
+    {
+     "role": "body",
+     "text": "not  more  than  one  station  in  every ten miles, and the right to take from"
+    },
+    {
+     "role": "sidenote",
+     "text": "grant."
+    },
+    {
+     "role": "body",
+     "text": "the  public  lands  adjacent  thereto stone,  timber,  earth,  water,  and  other"
+    },
+    {
+     "role": "body",
+     "text": "material  required  for  the  construction  and  repair  of  its  railway  and tel-"
+    },
+    {
+     "role": "body",
+     "text": "egraph  line  be,  and  the  same  are hereby,  granted  and  confirmed  unto the"
+    },
+    {
+     "role": "body",
+     "text": "Denver  and  Rio  Grande  Railway  Company,  a  corporation  created  under"
+    },
+    {
+     "role": "body",
+     "text": "the  incorporation  laws  of  the  Territory  of  Colorado,  its  successors  and"
+    },
+    {
+     "role": "body",
+     "text": "assigns ;  and  all  the  rights,  powers,  and  franchises  conferred  by  the  said"
+    },
+    {
+     "role": "body",
+     "text": "laws  on  corporations  created  under  them  for  constructing  and  operating"
+    },
+    {
+     "role": "body",
+     "text": "railroad  and  telegraph  lines  are hereby  ratified  and  confirmed  to  the above-"
+    },
+    {
+     "role": "body",
+     "text": "named  railway  company,  its  successors  and  assigns ;  and  the  same  rights,"
+    },
+    {
+     "role": "body",
+     "text": "powers,  and  franchises  conferred  by  the  general  incorporation  laws  of  the"
+    },
+    {
+     "role": "body",
+     "text": "Territory  of  Colorado  for  the  construction  of  railroads  and  telegraph  lines,"
+    },
+    {
+     "role": "body",
+     "text": "are  hereby  granted  to  the  said  company, its  successors  and  assigns,  for"
+    },
+    {
+     "role": "body",
+     "text": "the  extension  and  operation  of  its  railway  and  telegraph  line  in  and"
+    },
+    {
+     "role": "body",
+     "text": "through  any  contiguous  territory  of  the  United  States  to  the  northern"
+    },
+    {
+     "role": "body",
+     "text": "boundary  line  of  Mexico,  subject  to  the  compliance  with  the  conditions"
+    },
+    {
+     "role": "body",
+     "text": "and  requirements  of  the  general  incorporation  laws  of  such  territory  so"
+    },
+    {
+     "role": "body",
+     "text": "far  as  the  same  are  applicable  and  not inconsistent  with  the  laws  of  the"
+    },
+    {
+     "role": "body",
+     "text": "United States ;  and  the  same  rights,  powers,  and  privileges conferred  upon"
+    },
+    {
+     "role": "body",
+     "text": "the  Union  Pacific  Railroad  Company  by  section  three  of  an  act  approved"
+    },
+    {
+     "role": "sidenote",
+     "text": "1864, ch. 216, § 3."
+    },
+    {
+     "role": "body",
+     "text": "July  second,  eighteen  hundred  and  sixty-four,  are  hereby  conferred  upon"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. xiii. p. 357."
+    },
+    {
+     "role": "body",
+     "text": "the  above-named  company,  its  successors  and  assigns :  Provided,  That"
+    },
+    {
+     "role": "sidenote",
+     "text": "Damages."
+    },
+    {
+     "role": "body",
+     "text": "applications  for  the  assessment  of damages  shall  be  made  to  the  court,  or"
+    },
+    {
+     "role": "body",
+     "text": "any judge  of  a  court  having jurisdiction in the county in which the lands"
+    },
+    {
+     "role": "body",
+     "text": "or  premises  lie :  Provided,  That  said company  shall complete  its  railway"
+    },
+    {
+     "role": "sidenote",
+     "text": "Railway when"
+    },
+    {
+     "role": "body",
+     "text": "to  a  point  on  the  Rio  Grande  as far south as Santa Fé within five years"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be completed."
+    },
+    {
+     "role": "body",
+     "text": "of  the passage  of this act, and  shall  complete  fifty  miles additional  south"
+    },
+    {
+     "role": "body",
+     "text": "of  said point  in each year  thereafter,  and  in  default thereof,  the  rights and"
+    },
+    {
+     "role": "body",
+     "text": "privileges  herein  granted  shall  be  rendered  null  and  void  so far  as  respects"
+    },
+    {
+     "role": "body",
+     "text": "the  unfinished  portion  of  said  road :  And provided further,  That  nothing"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "in  this  act  contained  shall  be  construed  as  affirming  or  denying  the  right"
+    },
+    {
+     "role": "body",
+     "text": "of  any  territory  to  incorporate  a railroad  company."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 8, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCCLV. — An Act to grant an American Register to the British Brig Balear."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 8, 1872."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives  of  the  United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled,  That the Secretary of the Treas-"
+    },
+    {
+     "role": "sidenote",
+     "text": "American reg-"
+    },
+    {
+     "role": "body",
+     "text": "ury is hereby authorized and directed to issue an American register to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "ister to issue to"
+    },
+    {
+     "role": "sidenote",
+     "text": "the British brig"
+    },
+    {
+     "role": "body",
+     "text": "American-built  British  brig  Balear,  recently  purchased  and  repaired  by"
+    },
+    {
+     "role": "sidenote",
+     "text": "Balear"
+    },
+    {
+     "role": "body",
+     "text": "Gerhard Wessels, of the city and State of New York."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 8, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCCLVI. — An Act to reimburse United States Marshals for Moneys neces-"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 8, 1872."
+    },
+    {
+     "role": "body",
+     "text": "sarily expended by them in taking the ninth Census in Excess of the Compensation al-"
+    },
+    {
+     "role": "body",
+     "text": "lowed them under the Law in Force before the Passage of this Act."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in  Congress assembled,  That when it is made to appear"
+    },
+    {
+     "role": "sidenote",
+     "text": "·  United States"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2731,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0957,
+   "seconds": 125.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13510,
+   "output_tokens": 2305,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.12559,
+  "seconds": 181.3,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "held  to  commence  in  each  case with  the  filing  of  the  application  under",
+    "kept": "held to commence in each case with the filing of the application under",
+    "reason": "Body line precedes its marginal note in reading order; text printed as first line under the head."
+   },
+   {
+    "run": 2,
+    "a": "held to commence in each case with the filing of the application under",
+    "b": "that act.",
+    "kept": "that act.",
+    "reason": "Next printed body line after the sidenote 'when to com-'."
+   },
+   {
+    "run": 3,
+    "a": "that act.",
+    "b": "",
+    "kept": "",
+    "reason": "'that act.' already placed in run 2; no additional line here."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "CHAP. CCCLIV. — An  Act granting the Right of Way through the public Lands to the",
+    "kept": "CHAP. CCCLIV. — An Act granting the Right of Way through the public Lands to the",
+    "reason": "Chapter heading line printed before its date sidenote."
+   },
+   {
+    "run": 5,
+    "a": "CHAP. CCCLIV. — An Act granting the Right of Way through the public Lands to the",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed in run 4."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "States of America in Congress assembled,  That the right of way over the",
+    "kept": "States of America in Congress assembled, That the right of way over the",
+    "reason": "Body line printed before the 'Right of way' sidenote."
+   },
+   {
+    "run": 7,
+    "a": "States of America in Congress assembled, That the right of way over the",
+    "b": "public domain,  one hundred feet in  width  on  each  side  of  the  track,",
+    "kept": "public domain, one hundred feet in width on each side of the track,",
+    "reason": "Next body line following the sidenote 'Right of way'."
+   },
+   {
+    "run": 8,
+    "a": "public domain, one hundred feet in width on each side of the track,",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 7."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "the  Union  Pacific  Railroad  Company  by  section  three  of  an  act  approved",
+    "kept": "the Union Pacific Railroad Company by section three of an act approved",
+    "reason": "Body line precedes the '1864, ch. 216, § 3.' sidenote."
+   },
+   {
+    "run": 10,
+    "a": "the Union Pacific Railroad Company by section three of an act approved",
+    "b": "July  second,  eighteen  hundred  and  sixty-four,  are  hereby  conferred  upon",
+    "kept": "July second, eighteen hundred and sixty-four, are hereby conferred upon",
+    "reason": "Next body line after that sidenote."
+   },
+   {
+    "run": 11,
+    "a": "July second, eighteen hundred and sixty-four, are hereby conferred upon",
+    "b": "the  above-named  company,  its  successors  and  assigns :  Provided,  That",
+    "kept": "the above-named company, its successors and assigns : Provided, That",
+    "reason": "Next body line after the 'Vol. xiii. p. 357.' sidenote."
+   },
+   {
+    "run": 12,
+    "a": "the above-named company, its successors and assigns : Provided, That",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 11."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "or  premises  lie :  Provided,  That  said company  shall complete  its  railway",
+    "kept": "or premises lie : Provided, That said company shall complete its railway",
+    "reason": "Body line precedes the 'Railway when' sidenote."
+   },
+   {
+    "run": 14,
+    "a": "or premises lie : Provided, That said company shall complete its railway",
+    "b": "to  a  point  on  the  Rio  Grande  as far south as Santa Fé within five years",
+    "kept": "to a point on the Rio Grande as far south as Santa Fé within five years",
+    "reason": "Next body line after that sidenote."
+   },
+   {
+    "run": 15,
+    "a": "to a point on the Rio Grande as far south as Santa Fé within five years",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 14."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "the  unfinished  portion  of  said  road :  And provided further,  That  nothing",
+    "kept": "the unfinished portion of said road : And provided further, That nothing",
+    "reason": "Body line precedes the 'Proviso.' sidenote."
+   },
+   {
+    "run": 17,
+    "a": "the unfinished portion of said road : And provided further, That nothing",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 16."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "CHAP. CCCLV. — An Act to grant an American Register to the British Brig Balear.",
+    "kept": "CHAP. CCCLV. — An Act to grant an American Register to the British Brig Balear.",
+    "reason": "Chapter heading precedes its date sidenote."
+   },
+   {
+    "run": 19,
+    "a": "CHAP. CCCLV. — An Act to grant an American Register to the British Brig Balear.",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed in run 18."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "States of America in Congress assembled,  That the Secretary of the Treas-",
+    "kept": "States of America in Congress assembled, That the Secretary of the Treas-",
+    "reason": "Body line precedes the 'American reg-' sidenote."
+   },
+   {
+    "run": 21,
+    "a": "States of America in Congress assembled, That the Secretary of the Treas-",
+    "b": "ury is hereby authorized and directed to issue an American register to the",
+    "kept": "ury is hereby authorized and directed to issue an American register to the",
+    "reason": "Next body line after that sidenote."
+   },
+   {
+    "run": 22,
+    "a": "ury is hereby authorized and directed to issue an American register to the",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 21."
+   },
+   {
+    "run": 23,
+    "a": "",
+    "b": "CHAP. CCCLVI. — An Act to reimburse United States Marshals for Moneys neces-",
+    "kept": "CHAP. CCCLVI. — An Act to reimburse United States Marshals for Moneys neces-",
+    "reason": "Chapter heading precedes its date sidenote."
+   },
+   {
+    "run": 24,
+    "a": "CHAP. CCCLVI. — An Act to reimburse United States Marshals for Moneys neces-",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed in run 23."
+   },
+   {
+    "run": 25,
+    "a": "United States",
+    "b": "",
+    "kept": "",
+    "reason": "The marginal note stands beside the final body line, so it follows it."
+   },
+   {
+    "run": 26,
+    "a": "",
+    "b": "·  United States",
+    "kept": "United States",
+    "reason": "Marginal note printed at the right of the last body line; the preceding dot is a stray mark."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "FORTY-SECOND CONGRESS.  SESS. II.  CH. 353-356.  1872."
+  },
+  {
+   "role": "page-number",
+   "text": "339"
+  },
+  {
+   "role": "body",
+   "text": "held to commence in each case with the filing of the application under"
+  },
+  {
+   "role": "sidenote",
+   "text": "when to com-"
+  },
+  {
+   "role": "body",
+   "text": "that act."
+  },
+  {
+   "role": "sidenote",
+   "text": "mence."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, June 8, 1872."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCCLIV. — An Act granting the Right of Way through the public Lands to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 8, 1872."
+  },
+  {
+   "role": "body",
+   "text": "Denver and Rio Grande Railway Company."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the right of way over the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Right of way"
+  },
+  {
+   "role": "body",
+   "text": "public domain, one hundred feet in width on each side of the track,"
+  },
+  {
+   "role": "sidenote",
+   "text": "through the pub"
+  },
+  {
+   "role": "sidenote",
+   "text": "lic lands granted"
+  },
+  {
+   "role": "body",
+   "text": "together with such public lands adjacent thereto as may be needed for"
+  },
+  {
+   "role": "sidenote",
+   "text": "to the Denver"
+  },
+  {
+   "role": "body",
+   "text": "depots, shops, and other buildings for railroad purposes, and for yard-"
+  },
+  {
+   "role": "sidenote",
+   "text": "and Rio Grande"
+  },
+  {
+   "role": "body",
+   "text": "room and side-tracks, not exceeding twenty acres at any one station, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Railway Co."
+  },
+  {
+   "role": "sidenote",
+   "text": "Extent of"
+  },
+  {
+   "role": "body",
+   "text": "not more than one station in every ten miles, and the right to take from"
+  },
+  {
+   "role": "sidenote",
+   "text": "grant."
+  },
+  {
+   "role": "body",
+   "text": "the public lands adjacent thereto stone, timber, earth, water, and other"
+  },
+  {
+   "role": "body",
+   "text": "material required for the construction and repair of its railway and tel-"
+  },
+  {
+   "role": "body",
+   "text": "egraph line be, and the same are hereby, granted and confirmed unto the"
+  },
+  {
+   "role": "body",
+   "text": "Denver and Rio Grande Railway Company, a corporation created under"
+  },
+  {
+   "role": "body",
+   "text": "the incorporation laws of the Territory of Colorado, its successors and"
+  },
+  {
+   "role": "body",
+   "text": "assigns ; and all the rights, powers, and franchises conferred by the said"
+  },
+  {
+   "role": "body",
+   "text": "laws on corporations created under them for constructing and operating"
+  },
+  {
+   "role": "body",
+   "text": "railroad and telegraph lines are hereby ratified and confirmed to the above-"
+  },
+  {
+   "role": "body",
+   "text": "named railway company, its successors and assigns ; and the same rights,"
+  },
+  {
+   "role": "body",
+   "text": "powers, and franchises conferred by the general incorporation laws of the"
+  },
+  {
+   "role": "body",
+   "text": "Territory of Colorado for the construction of railroads and telegraph lines,"
+  },
+  {
+   "role": "body",
+   "text": "are hereby granted to the said company, its successors and assigns, for"
+  },
+  {
+   "role": "body",
+   "text": "the extension and operation of its railway and telegraph line in and"
+  },
+  {
+   "role": "body",
+   "text": "through any contiguous territory of the United States to the northern"
+  },
+  {
+   "role": "body",
+   "text": "boundary line of Mexico, subject to the compliance with the conditions"
+  },
+  {
+   "role": "body",
+   "text": "and requirements of the general incorporation laws of such territory so"
+  },
+  {
+   "role": "body",
+   "text": "far as the same are applicable and not inconsistent with the laws of the"
+  },
+  {
+   "role": "body",
+   "text": "United States ; and the same rights, powers, and privileges conferred upon"
+  },
+  {
+   "role": "body",
+   "text": "the Union Pacific Railroad Company by section three of an act approved"
+  },
+  {
+   "role": "sidenote",
+   "text": "1864, ch. 216, § 3."
+  },
+  {
+   "role": "body",
+   "text": "July second, eighteen hundred and sixty-four, are hereby conferred upon"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. xiii. p. 357."
+  },
+  {
+   "role": "body",
+   "text": "the above-named company, its successors and assigns : Provided, That"
+  },
+  {
+   "role": "sidenote",
+   "text": "Damages."
+  },
+  {
+   "role": "body",
+   "text": "applications for the assessment of damages shall be made to the court, or"
+  },
+  {
+   "role": "body",
+   "text": "any judge of a court having jurisdiction in the county in which the lands"
+  },
+  {
+   "role": "body",
+   "text": "or premises lie : Provided, That said company shall complete its railway"
+  },
+  {
+   "role": "sidenote",
+   "text": "Railway when"
+  },
+  {
+   "role": "body",
+   "text": "to a point on the Rio Grande as far south as Santa Fé within five years"
+  },
+  {
+   "role": "sidenote",
+   "text": "to be completed."
+  },
+  {
+   "role": "body",
+   "text": "of the passage of this act, and shall complete fifty miles additional south"
+  },
+  {
+   "role": "body",
+   "text": "of said point in each year thereafter, and in default thereof, the rights and"
+  },
+  {
+   "role": "body",
+   "text": "privileges herein granted shall be rendered null and void so far as respects"
+  },
+  {
+   "role": "body",
+   "text": "the unfinished portion of said road : And provided further, That nothing"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "in this act contained shall be construed as affirming or denying the right"
+  },
+  {
+   "role": "body",
+   "text": "of any territory to incorporate a railroad company."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, June 8, 1872."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCCLV. — An Act to grant an American Register to the British Brig Balear."
+  },
+  {
+   "role": "sidenote",
+   "text": "June 8, 1872."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the Secretary of the Treas-"
+  },
+  {
+   "role": "sidenote",
+   "text": "American reg-"
+  },
+  {
+   "role": "body",
+   "text": "ury is hereby authorized and directed to issue an American register to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "ister to issue to"
+  },
+  {
+   "role": "sidenote",
+   "text": "the British brig"
+  },
+  {
+   "role": "body",
+   "text": "American-built British brig Balear, recently purchased and repaired by"
+  },
+  {
+   "role": "sidenote",
+   "text": "Balear"
+  },
+  {
+   "role": "body",
+   "text": "Gerhard Wessels, of the city and State of New York."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, June 8, 1872."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCCLVI. — An Act to reimburse United States Marshals for Moneys neces-"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 8, 1872."
+  },
+  {
+   "role": "body",
+   "text": "sarily expended by them in taking the ninth Census in Excess of the Compensation al-"
+  },
+  {
+   "role": "body",
+   "text": "lowed them under the Law in Force before the Passage of this Act."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That when it is made to appear"
+  },
+  {
+   "role": "sidenote",
+   "text": "United States"
+  }
+ ],
+ "disagreement_count": 26,
+ "tokens": {
+  "input_tokens": 24333,
+  "output_tokens": 7410,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.30807,
+ "seconds": 413.5,
+ "created": "2026-09-08T11:43:06"
+}

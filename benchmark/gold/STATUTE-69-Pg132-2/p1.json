@@ -1,0 +1,910 @@
+{
+ "granule_id": "STATUTE-69-Pg132-2",
+ "package_id": "STATUTE-69",
+ "volume": 69,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to make retrocession to the Commonwealth of Massachusetts of jurisdiction over certain land in the vicinity of Fort Devens, Mass",
+ "date_issued": "1955-06-15",
+ "pdf_page": 1,
+ "pdf_pages": 3,
+ "stat_page": "132",
+ "image": "data/gold/STATUTE-69-Pg132-2/p1.png",
+ "image_sha256": "5a136bd3c7477e297801c595baca75f3cebf50d50d6c5a1ade5ff65c0831cf45",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "132                    PUBLIC LAW 71–JUNE 15, 1955          [69 STAT."
+    },
+    {
+     "role": "body",
+     "text": "25 per centum of said sums for rural electrification loans may be"
+    },
+    {
+     "role": "body",
+     "text": "employed in any one State or in all of the Territories.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "7 USC 904."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Section 4 of such Act is amended by striking out \"10 per"
+    },
+    {
+     "role": "body",
+     "text": "centum\" and inserting \"25 per centum\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 15, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 71                                CHAPTER 140"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 15, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 414]"
+    },
+    {
+     "role": "body",
+     "text": "To authorize an examination and survey of the coastal and tidal areas of the"
+    },
+    {
+     "role": "body",
+     "text": "eastern and southern United States, with particular reference to areas where"
+    },
+    {
+     "role": "body",
+     "text": "severe damages have occurred from hurricane winds and tides."
+    },
+    {
+     "role": "sidenote",
+     "text": "Hurricanes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That in view of the"
+    },
+    {
+     "role": "body",
+     "text": "severe damage to the coastal and tidal areas of the eastern and south-"
+    },
+    {
+     "role": "body",
+     "text": "ern United States from the occurrence of hurricanes, particularly the"
+    },
+    {
+     "role": "body",
+     "text": "hurricanes of August 31, 1954, and September 11, 1954, in the New"
+    },
+    {
+     "role": "body",
+     "text": "England, New York, and New Jersey coastal and tidal areas, and the"
+    },
+    {
+     "role": "body",
+     "text": "hurricane of October 15, 1954, in the coastal and tidal areas extending"
+    },
+    {
+     "role": "body",
+     "text": "south to South Carolina, and in view of the damages caused by other"
+    },
+    {
+     "role": "body",
+     "text": "hurricanes in the past, the Secretary of the Army, in cooperation with"
+    },
+    {
+     "role": "body",
+     "text": "the Secretary of Commerce and other Federal agencies concerned"
+    },
+    {
+     "role": "body",
+     "text": "with hurricanes, is hereby authorized and directed to cause an ex-"
+    },
+    {
+     "role": "body",
+     "text": "amination and survey to be made of the eastern and southern seaboard"
+    },
+    {
+     "role": "body",
+     "text": "of the United States with respect to hurricanes, with particular refer-"
+    },
+    {
+     "role": "body",
+     "text": "ence to areas where severe damages have occurred."
+    },
+    {
+     "role": "sidenote",
+     "text": "Survey."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Such survey, to be made under the direction of the Chief"
+    },
+    {
+     "role": "body",
+     "text": "of Engineers, shall include the securing of data on the behavior and"
+    },
+    {
+     "role": "body",
+     "text": "frequency of hurricanes, and the determination of methods of fore-"
+    },
+    {
+     "role": "body",
+     "text": "casting their paths and improving warning services, and of possible"
+    },
+    {
+     "role": "body",
+     "text": "means of preventing loss of human lives and damages to property,"
+    },
+    {
+     "role": "body",
+     "text": "with due consideration of the economics of proposed breakwaters, sea-"
+    },
+    {
+     "role": "body",
+     "text": "walls, dikes, dams, and other structures, warning services, or other"
+    },
+    {
+     "role": "body",
+     "text": "measures which might be required."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. There are hereby authorized to be appropriated such sums"
+    },
+    {
+     "role": "body",
+     "text": "as may be necessary to carry out the provisions of this Act."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 15, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 72                                CHAPTER 141"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 15, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 3825]"
+    },
+    {
+     "role": "body",
+     "text": "To make retrocession to the Commonwealth of Massachusetts of jurisdiction"
+    },
+    {
+     "role": "body",
+     "text": "over certain land in the vicinity of Fort Devens, Massachusetts."
+    },
+    {
+     "role": "sidenote",
+     "text": "Massachusetts."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Jurisdiction of lands."
+    },
+    {
+     "role": "body",
+     "text": "States hereby makes retrocession to the Commonwealth of Massa-"
+    },
+    {
+     "role": "body",
+     "text": "chusetts of concurrent jurisdiction over the following-described land:"
+    },
+    {
+     "role": "body",
+     "text": "Parcel \"A\": A parcel of land in the town of Harvard, comprising"
+    },
+    {
+     "role": "body",
+     "text": "a portion of the original reservation of Fort Devens, shown on sheet"
+    },
+    {
+     "role": "body",
+     "text": "numbered 1 of a plan on file in the Office of the Corps of Engi-"
+    },
+    {
+     "role": "body",
+     "text": "neers, New England Division, at Boston, Massachusetts, as number"
+    },
+    {
+     "role": "body",
+     "text": "MED–PA–638, dated May 1946, said parcel being located in the"
+    },
+    {
+     "role": "body",
+     "text": "northernmost portion of said original reservation and being bounded"
+    },
+    {
+     "role": "body",
+     "text": "and described as follows:"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5186,
+    "output_tokens": 1836,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07221,
+   "seconds": 90.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "132"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 71–JUNE 15, 1955"
+    },
+    {
+     "role": "running-head",
+     "text": "[69 STAT."
+    },
+    {
+     "role": "body",
+     "text": "25 per centum of said sums for rural electrification loans may be"
+    },
+    {
+     "role": "body",
+     "text": "employed in any one State or in all of the Territories.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "7 USC 904."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Section 4 of such Act is amended by striking out \"10 per"
+    },
+    {
+     "role": "body",
+     "text": "centum\" and inserting \"25 per centum\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 15, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 71"
+    },
+    {
+     "role": "body",
+     "text": "CHAPTER 140"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 15, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 414]"
+    },
+    {
+     "role": "body",
+     "text": "To authorize an examination and survey of the coastal and tidal areas of the"
+    },
+    {
+     "role": "body",
+     "text": "eastern and southern United States, with particular reference to areas where"
+    },
+    {
+     "role": "body",
+     "text": "severe damages have occurred from hurricane winds and tides."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Hurricanes."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That in view of the"
+    },
+    {
+     "role": "body",
+     "text": "severe damage to the coastal and tidal areas of the eastern and south-"
+    },
+    {
+     "role": "body",
+     "text": "ern United States from the occurrence of hurricanes, particularly the"
+    },
+    {
+     "role": "body",
+     "text": "hurricanes of August 31, 1954, and September 11, 1954, in the New"
+    },
+    {
+     "role": "body",
+     "text": "England, New York, and New Jersey coastal and tidal areas, and the"
+    },
+    {
+     "role": "body",
+     "text": "hurricane of October 15, 1954, in the coastal and tidal areas extending"
+    },
+    {
+     "role": "body",
+     "text": "south to South Carolina, and in view of the damages caused by other"
+    },
+    {
+     "role": "body",
+     "text": "hurricanes in the past, the Secretary of the Army, in cooperation with"
+    },
+    {
+     "role": "body",
+     "text": "the Secretary of Commerce and other Federal agencies concerned"
+    },
+    {
+     "role": "body",
+     "text": "with hurricanes, is hereby authorized and directed to cause an ex-"
+    },
+    {
+     "role": "body",
+     "text": "amination and survey to be made of the eastern and southern seaboard"
+    },
+    {
+     "role": "body",
+     "text": "of the United States with respect to hurricanes, with particular refer-"
+    },
+    {
+     "role": "body",
+     "text": "ence to areas where severe damages have occurred."
+    },
+    {
+     "role": "sidenote",
+     "text": "Survey."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Such survey, to be made under the direction of the Chief"
+    },
+    {
+     "role": "body",
+     "text": "of Engineers, shall include the securing of data on the behavior and"
+    },
+    {
+     "role": "body",
+     "text": "frequency of hurricanes, and the determination of methods of fore-"
+    },
+    {
+     "role": "body",
+     "text": "casting their paths and improving warning services, and of possible"
+    },
+    {
+     "role": "body",
+     "text": "means of preventing loss of human lives and damages to property,"
+    },
+    {
+     "role": "body",
+     "text": "with due consideration of the economics of proposed breakwaters, sea-"
+    },
+    {
+     "role": "body",
+     "text": "walls, dikes, dams, and other structures, warning services, or other"
+    },
+    {
+     "role": "body",
+     "text": "measures which might be required."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. There are hereby authorized to be appropriated such sums"
+    },
+    {
+     "role": "body",
+     "text": "as may be necessary to carry out the provisions of this Act."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 15, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 72"
+    },
+    {
+     "role": "body",
+     "text": "CHAPTER 141"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 15, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 3825]"
+    },
+    {
+     "role": "body",
+     "text": "To make retrocession to the Commonwealth of Massachusetts of jurisdiction"
+    },
+    {
+     "role": "body",
+     "text": "over certain land in the vicinity of Fort Devens, Massachusetts."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Massachusetts."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Jurisdiction  of"
+    },
+    {
+     "role": "sidenote",
+     "text": "lands."
+    },
+    {
+     "role": "body",
+     "text": "States hereby makes retrocession to the Commonwealth of Massa-"
+    },
+    {
+     "role": "body",
+     "text": "chusetts of concurrent jurisdiction over the following-described land:"
+    },
+    {
+     "role": "body",
+     "text": "Parcel \"A\": A parcel of land in the town of Harvard, comprising"
+    },
+    {
+     "role": "body",
+     "text": "a portion of the original reservation of Fort Devens, shown on sheet"
+    },
+    {
+     "role": "body",
+     "text": "numbered 1 of a plan on file in the Office of the Corps of Engi-"
+    },
+    {
+     "role": "body",
+     "text": "neers, New England Division, at Boston, Massachusetts, as number"
+    },
+    {
+     "role": "body",
+     "text": "MED–PA–638, dated May 1946, said parcel being located in the"
+    },
+    {
+     "role": "body",
+     "text": "northernmost portion of said original reservation and being bounded"
+    },
+    {
+     "role": "body",
+     "text": "and described as follows:"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5189,
+    "output_tokens": 1897,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07373,
+   "seconds": 78.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11061,
+   "output_tokens": 991,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.0805,
+  "seconds": 129.6,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "132                    PUBLIC LAW 71–JUNE 15, 1955          [69 STAT.",
+    "b": "132\nPUBLIC LAW 71–JUNE 15, 1955\n[69 STAT.",
+    "kept": "132\nPUBLIC LAW 71–JUNE 15, 1955\n[69 STAT.",
+    "reason": "The folio number, centered head, and volume bracket are distinct elements of the header band."
+   },
+   {
+    "run": 2,
+    "a": "Public Law 71                                CHAPTER 140",
+    "b": "Public Law 71\nCHAPTER 140",
+    "kept": "Public Law 71                                CHAPTER 140",
+    "reason": "Image shows a single printed line with 'Public Law 71' at left and 'CHAPTER 140' at right."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the",
+    "kept": "",
+    "reason": "The 'Be it enacted' line appears only once; the sidenote 'Hurricanes.' precedes it."
+   },
+   {
+    "run": 4,
+    "a": "Be it enacted by the Senate and House of Representatives of the",
+    "b": "",
+    "kept": "Be it enacted by the Senate and House of Representatives of the",
+    "reason": "Body line follows the marginal note 'Hurricanes.' which is set level with it."
+   },
+   {
+    "run": 5,
+    "a": "Public Law 72                                CHAPTER 141",
+    "b": "Public Law 72\nCHAPTER 141",
+    "kept": "Public Law 72                                CHAPTER 141",
+    "reason": "Single printed line with law number left and chapter number right."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the",
+    "kept": "",
+    "reason": "Duplicate placement; the sidenote 'Massachusetts.' precedes the body line."
+   },
+   {
+    "run": 7,
+    "a": "Be it enacted by the Senate and House of Representatives of the",
+    "b": "",
+    "kept": "Be it enacted by the Senate and House of Representatives of the",
+    "reason": "Body line printed level with sidenote 'Massachusetts.'"
+   },
+   {
+    "run": 8,
+    "a": "Jurisdiction of lands.",
+    "b": "Jurisdiction  of\nlands.",
+    "kept": "Jurisdiction  of\nlands.",
+    "reason": "Margin note is printed on two lines with 'of' pushed to the right of the first line."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "132"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 71–JUNE 15, 1955"
+  },
+  {
+   "role": "running-head",
+   "text": "[69 STAT."
+  },
+  {
+   "role": "body",
+   "text": "25 per centum of said sums for rural electrification loans may be"
+  },
+  {
+   "role": "body",
+   "text": "employed in any one State or in all of the Territories.\""
+  },
+  {
+   "role": "sidenote",
+   "text": "7 USC 904."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. Section 4 of such Act is amended by striking out \"10 per"
+  },
+  {
+   "role": "body",
+   "text": "centum\" and inserting \"25 per centum\"."
+  },
+  {
+   "role": "body",
+   "text": "Approved June 15, 1955."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 71                                CHAPTER 140"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 15, 1955"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 414]"
+  },
+  {
+   "role": "body",
+   "text": "To authorize an examination and survey of the coastal and tidal areas of the"
+  },
+  {
+   "role": "body",
+   "text": "eastern and southern United States, with particular reference to areas where"
+  },
+  {
+   "role": "body",
+   "text": "severe damages have occurred from hurricane winds and tides."
+  },
+  {
+   "role": "sidenote",
+   "text": "Hurricanes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That in view of the"
+  },
+  {
+   "role": "body",
+   "text": "severe damage to the coastal and tidal areas of the eastern and south-"
+  },
+  {
+   "role": "body",
+   "text": "ern United States from the occurrence of hurricanes, particularly the"
+  },
+  {
+   "role": "body",
+   "text": "hurricanes of August 31, 1954, and September 11, 1954, in the New"
+  },
+  {
+   "role": "body",
+   "text": "England, New York, and New Jersey coastal and tidal areas, and the"
+  },
+  {
+   "role": "body",
+   "text": "hurricane of October 15, 1954, in the coastal and tidal areas extending"
+  },
+  {
+   "role": "body",
+   "text": "south to South Carolina, and in view of the damages caused by other"
+  },
+  {
+   "role": "body",
+   "text": "hurricanes in the past, the Secretary of the Army, in cooperation with"
+  },
+  {
+   "role": "body",
+   "text": "the Secretary of Commerce and other Federal agencies concerned"
+  },
+  {
+   "role": "body",
+   "text": "with hurricanes, is hereby authorized and directed to cause an ex-"
+  },
+  {
+   "role": "body",
+   "text": "amination and survey to be made of the eastern and southern seaboard"
+  },
+  {
+   "role": "body",
+   "text": "of the United States with respect to hurricanes, with particular refer-"
+  },
+  {
+   "role": "body",
+   "text": "ence to areas where severe damages have occurred."
+  },
+  {
+   "role": "sidenote",
+   "text": "Survey."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. Such survey, to be made under the direction of the Chief"
+  },
+  {
+   "role": "body",
+   "text": "of Engineers, shall include the securing of data on the behavior and"
+  },
+  {
+   "role": "body",
+   "text": "frequency of hurricanes, and the determination of methods of fore-"
+  },
+  {
+   "role": "body",
+   "text": "casting their paths and improving warning services, and of possible"
+  },
+  {
+   "role": "body",
+   "text": "means of preventing loss of human lives and damages to property,"
+  },
+  {
+   "role": "body",
+   "text": "with due consideration of the economics of proposed breakwaters, sea-"
+  },
+  {
+   "role": "body",
+   "text": "walls, dikes, dams, and other structures, warning services, or other"
+  },
+  {
+   "role": "body",
+   "text": "measures which might be required."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. There are hereby authorized to be appropriated such sums"
+  },
+  {
+   "role": "body",
+   "text": "as may be necessary to carry out the provisions of this Act."
+  },
+  {
+   "role": "body",
+   "text": "Approved June 15, 1955."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 72                                CHAPTER 141"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 15, 1955"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 3825]"
+  },
+  {
+   "role": "body",
+   "text": "To make retrocession to the Commonwealth of Massachusetts of jurisdiction"
+  },
+  {
+   "role": "body",
+   "text": "over certain land in the vicinity of Fort Devens, Massachusetts."
+  },
+  {
+   "role": "sidenote",
+   "text": "Massachusetts."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Jurisdiction  of"
+  },
+  {
+   "role": "sidenote",
+   "text": "lands."
+  },
+  {
+   "role": "body",
+   "text": "States hereby makes retrocession to the Commonwealth of Massa-"
+  },
+  {
+   "role": "body",
+   "text": "chusetts of concurrent jurisdiction over the following-described land:"
+  },
+  {
+   "role": "body",
+   "text": "Parcel \"A\": A parcel of land in the town of Harvard, comprising"
+  },
+  {
+   "role": "body",
+   "text": "a portion of the original reservation of Fort Devens, shown on sheet"
+  },
+  {
+   "role": "body",
+   "text": "numbered 1 of a plan on file in the Office of the Corps of Engi-"
+  },
+  {
+   "role": "body",
+   "text": "neers, New England Division, at Boston, Massachusetts, as number"
+  },
+  {
+   "role": "body",
+   "text": "MED–PA–638, dated May 1946, said parcel being located in the"
+  },
+  {
+   "role": "body",
+   "text": "northernmost portion of said original reservation and being bounded"
+  },
+  {
+   "role": "body",
+   "text": "and described as follows:"
+  }
+ ],
+ "disagreement_count": 8,
+ "tokens": {
+  "input_tokens": 21436,
+  "output_tokens": 4724,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.22644,
+ "seconds": 298.4,
+ "created": "2026-09-08T12:23:30"
+}
