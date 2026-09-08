@@ -166,6 +166,57 @@ GovInfo publishes USLM for all 137 volumes. For laws from the 113th Congress on,
 USLM in the PLAW collection is the reference with full identifiers; the copy served by congress.gov
 is the same file.
 
+## Benchmark results and the chosen pipeline
+
+Measured on 2026-09-08 (`docs/plans/2026-09-08-ocr-decision.md`; reports under `data/reports/`).
+
+Chosen pipeline: `hybrid:vlm:glm_ocr`. The GPO USLM for the granule supplies the document structure,
+sidenotes, and page markers; the body text comes from GLM-OCR (Zhipu, 0.9B parameters) run through
+Docling's VLM pipeline on page images; `pipeline/hybrid.py` aligns the two and adds the identifiers of
+the PLAW scheme. Fallback: `hybrid:textlayer`, the same assembly over the PDF's own text layer, with
+Tesseract per page where the text layer is empty.
+
+```bash
+python -m pipeline.vlm run --spec benchmark/sample.yaml --variant glm_ocr          # Mac (MLX) or GPU
+python -m pipeline.convert --spec benchmark/sample.yaml --profile hybrid:vlm:glm_ocr   # container
+```
+
+Two references. The gold set (`benchmark/gold/`, 150 pages, 30 per period from 1789 to 2002) is each
+page transcribed twice by `claude-opus-5` and adjudicated against the image; CER is measured on the text
+column. Tier B scores a granule against the GPO USLM slice on a 39-granule sample (volumes 10, 39, 72,
+85, 124, 132); the GPO text is itself OCR for volumes 1 to 116, so tier B has a floor near the vendor's
+own error rate.
+
+| Text source | Gold CER, median (mean) | Tier B CER, laws 1855 to 1950 | Tier B CER, laws 1951 to 2002 | Sidenotes | Cost per page | Seconds per page |
+|---|---|---|---|---|---|---|
+| GLM-OCR (`vlm:glm_ocr`) | 0.003 (0.025) | 0.002 | 0.006 | none emitted | $0 | 11.7 on an M1 Pro, MLX |
+| `claude-opus-5` (`claude:claude-opus-5`) | not run | 0.003 | 0.006 | emitted | $0.038 (Batch API) | API |
+| `claude-sonnet-5` | not run | 0.003 | 0.006 | emitted | $0.031 streaming | API |
+| `claude-haiku-4-5` | not run | 0.016 | 0.007 | emitted | $0.0064 (Batch API) | API |
+| PDF text layer (`textlayer`) | 0.022 (0.064) | 0.012 | 0.075 | 0.240 CER | $0 | 1.5 in the container |
+| LightOnOCR-2-1B (`vlm:lightonocr`) | not run | 0.015 | 0.053 | none emitted | $0 | 11 to 18, MLX |
+| Tesseract (`scanned`) | 0.143 (0.235) | 0.085 | 0.189 | 0.674 CER | $0 | 4.4 in the container |
+| RapidOCR | not run | 0.101 | 0.102 | | $0 | 5.7 |
+| GraniteDocling-258M | not run | 0.787 | 0.257 | | $0 | 4 to 23, repetition loops |
+| EasyOCR | not run | 0.819 | 0.810 | | $0 | 61, over 5 GB per page |
+| GPO USLM text (the tier B reference) | 0.011 (0.143) | | | 0.050 CER | | |
+
+GLM-OCR is first on the gold set in every period, including 1789 to 1850 (0.009 against 0.040 for the
+text layer), and ties the Claude models on tier B. The Claude models project to $8,700 to $20,800 for the
+276,763 scanned pages and are excluded by the plan's $5,000 limit; Haiku fits the limit and trails GLM-OCR
+by an order of magnitude on tier B. GLM-OCR on the Mac alone takes 37 days for the scanned volumes; the
+GPU route (HF Jobs, `benchmark/jobs.py`) is unmeasured because the HF token lacks the Jobs permission.
+
+The hybrid assembly lifts section recall from 0.00 to 0.48 for any raw profile to 0.94 to 1.00, and holds
+the tier B CER of its text source (0.002 and 0.003 for GLM-OCR). A `claude-opus-5` judge scored 20
+granules of the hybrid: text 75.1, structure 64.7, tagging 62.6 out of 100 (the 13 laws: 83.5 / 71.5 /
+68.4); its findings are in the decision document, sections 7 and 8.
+
+Known limits of the chosen text source, recorded as open items: GLM-OCR emits almost no marginal notes
+(the hybrid takes them from the GPO structure), drops a region of the page on about one page in
+fifteen, and on a page it cannot read invents text or repeats a phrase. The per-page guards that would
+catch these are not built.
+
 ## Data directories
 
 ```
@@ -183,6 +234,7 @@ data/logs/                     one log per script per day
 |---|---|
 | [docs/plans/2026-09-05-downloader-and-pipeline-plan.md](docs/plans/2026-09-05-downloader-and-pipeline-plan.md) | downloader rewrite, pipeline, benchmark (WP1 to WP7, implemented) |
 | [docs/plans/2026-09-07-ocr-pipeline-evaluation-plan.md](docs/plans/2026-09-07-ocr-pipeline-evaluation-plan.md) | benchmark defects found on 2026-09-07, two-tier ground truth, OCR candidates, reprocessing run (WP8 to WP12) |
+| [docs/plans/2026-09-08-ocr-decision.md](docs/plans/2026-09-08-ocr-decision.md) | results matrix, gold-set CER, exclusions, the chosen profile, projection for volumes 1 to 116, judge pass, open items (WP11) |
 | [docs/plans/2026-09-07-statutes-api-design.md](docs/plans/2026-09-07-statutes-api-design.md) | API for statutes.linkedlegislation.org: identifiers, enacted and compiled views, currency notes, storage |
 | [docs/prompts/](docs/prompts/) | kickoff prompts for each plan |
 
