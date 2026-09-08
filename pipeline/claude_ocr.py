@@ -9,7 +9,8 @@ pixels (about 2,000 image tokens for a letter page), sent with a cached system p
 (none on Haiku 4.5), and a JSON schema of lines in reading order, each with a role: `running-head`,
 `sidenote`, `body`, `footnote`, or `page-number`. Sidenote lines follow the body line they sit beside; body
 lines of a two-column page come column by column. `--batch` sends the same requests through the Message
-Batches API at half price and polls until they finish.
+Batches API at half price and polls until they finish; with a spec, `--batch-workers` granule batches are submitted
+and polled at once.
 
 The adapter (`to_docling`) builds a DoclingDocument with one page per PDF page (size from the PDF) and text
 items with synthetic geometry from the line order: body lines fill the main column top to bottom, sidenotes
@@ -73,6 +74,7 @@ TARGET_LONG_SIDE = 1500  # pixels; a letter page is then 1159 x 1500 px, about 2
 JPEG_QUALITY = 85
 PIXELS_PER_TOKEN = 750
 DEFAULT_WORKERS = 4  # requests in flight
+DEFAULT_BATCH_WORKERS = 10  # granule batches in flight with --batch
 MAX_ATTEMPTS = 6
 BATCH_POLL_SECONDS = 30
 ROLES = ("running-head", "sidenote", "body", "footnote", "page-number")
@@ -718,6 +720,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--effort", default=DEFAULT_EFFORT, choices=["low", "medium", "high"], help="thinking effort (default medium; ignored on Haiku 4.5)")
     p.add_argument("--batch", action="store_true", help="send the requests through the Message Batches API (half price)")
     p.add_argument("--workers", type=int, default=DEFAULT_WORKERS, help="requests in flight (default 4)")
+    p.add_argument("--batch-workers", type=int, default=DEFAULT_BATCH_WORKERS, help="granule batches polled at once with --batch (default 10)")
     p.add_argument("--limit", type=int, default=None, help="only the first N granules of the spec")
     p.add_argument("--long-side", type=int, default=TARGET_LONG_SIDE, help="pixels on the longest side of the page image")
     p.add_argument("--line-items", action="store_true", help="one DoclingDocument item per line instead of per paragraph")
@@ -746,27 +749,60 @@ def main(argv: Optional[list[str]] = None) -> int:
     transcriber = Transcriber(args.model, effort=args.effort, workers=args.workers, long_side=args.long_side)
     done = failed = skipped = 0
     total_cost = total_pages = 0.0
-    for name, pdf in jobs:
+    credit_error = None
+
+    def process(name: str, pdf: Path) -> tuple[str, float, float]:
         stem = output_stem(name, pages)
         if (out_dir / f"{stem}.json").exists() and not args.force:
             logger.info("%s: exists, skipped (use --force)", stem)
-            skipped += 1
-            continue
+            return "skipped", 0.0, 0.0
+        if credit_error:
+            return "failed", 0.0, 0.0
+        _, result = transcribe_to_docling(pdf, args.model, name, pages, batch=args.batch, merge_paragraphs=not args.line_items,
+                                          out_dir=out_dir, transcriber=transcriber)
+        t = result.totals()
+        return "done", t["cost_usd"], t["pages"]
+
+    def record(name: str, fut) -> bool:
+        nonlocal done, failed, skipped, total_cost, total_pages, credit_error
         try:
-            _, result = transcribe_to_docling(pdf, args.model, name, pages, batch=args.batch, merge_paragraphs=not args.line_items,
-                                              out_dir=out_dir, transcriber=transcriber)
+            state, cost, n_pages = fut.result()
         except CreditError as exc:
             logger.error("%s: %s; stopping", name, exc)
+            credit_error = str(exc)
             failed += 1
-            break
+            return False
         except Exception as exc:
             logger.error("%s: %s", name, exc)
             failed += 1
-            continue
-        t = result.totals()
-        total_cost += t["cost_usd"]
-        total_pages += t["pages"]
-        done += 1
+            return True
+        if state == "skipped":
+            skipped += 1
+        elif state == "failed":
+            failed += 1
+        else:
+            done += 1
+            total_cost += cost
+            total_pages += n_pages
+        return True
+
+    if args.batch and len(jobs) > 1:
+        # one batch per granule, polled concurrently; the granules of a spec are independent
+        with ThreadPoolExecutor(max_workers=args.batch_workers) as pool:
+            futures = {pool.submit(process, name, pdf): name for name, pdf in jobs}
+            for fut in as_completed(futures):
+                record(futures[fut], fut)
+    else:
+        for name, pdf in jobs:
+            from concurrent.futures import Future
+
+            fut: Future = Future()
+            try:
+                fut.set_result(process(name, pdf))
+            except Exception as exc:
+                fut.set_exception(exc)
+            if not record(name, fut):
+                break
     logger.info("done: %d transcribed, %d skipped, %d failed; %d page(s), $%.4f ($%.4f/page) with %s", done, skipped, failed,
                 int(total_pages), total_cost, total_cost / total_pages if total_pages else 0.0, args.model)
     return 1 if failed else 0
