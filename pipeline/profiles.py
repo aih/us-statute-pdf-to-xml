@@ -51,6 +51,9 @@ class ProfileFamily:
     # uslm_builder(pdf_path, variant, page_range, identity=..., doclang_path=..., xml_path=...) -> (lxml tree, stats dict)
     uslm_builder: Optional[Callable[..., object]] = None
     variants: tuple[str, ...] = ()
+    # Docling pipeline class for the family (default StandardPdfPipeline); a callable returning the class,
+    # so the import stays lazy: e.g. lambda: docling.pipeline.vlm_pipeline.VlmPipeline
+    pipeline_cls: Optional[Callable[[], type]] = None
     runs_in_container: bool = True
     # Docling input format override: a family that consumes page images sets "image".
     input_kind: str = "pdf"
@@ -197,7 +200,10 @@ def make_converter(profile: str, artifacts_path: Optional[str] = None, num_threa
 
     opts = pipeline_options(profile, artifacts_path, num_threads, dpi)
     family = get_family(profile)
-    fmt_opts = {InputFormat.PDF: PdfFormatOption(pipeline_options=opts)}
+    kwargs = {"pipeline_options": opts}
+    if family.pipeline_cls is not None:
+        kwargs["pipeline_cls"] = family.pipeline_cls()
+    fmt_opts = {InputFormat.PDF: PdfFormatOption(**kwargs)}
     if family.input_kind == "image":
-        fmt_opts[InputFormat.IMAGE] = PdfFormatOption(pipeline_options=opts)
+        fmt_opts[InputFormat.IMAGE] = PdfFormatOption(**kwargs)
     return DocumentConverter(format_options=fmt_opts)
