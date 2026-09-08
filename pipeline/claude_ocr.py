@@ -68,6 +68,7 @@ CACHE_READ_MULTIPLIER = 0.1
 BATCH_MULTIPLIER = 0.5
 NO_THINKING_MODELS = ("claude-haiku-4-5",)  # takes budget_tokens only; transcription runs without thinking
 NO_EFFORT_MODELS = ("claude-haiku-4-5",)
+NO_FALLBACK_MODELS = ("claude-haiku-4-5",)  # the API rejects the `fallbacks` parameter
 DEFAULT_EFFORT = "medium"
 DEFAULT_MAX_TOKENS = 32000
 TARGET_LONG_SIDE = 1500  # pixels; a letter page is then 1159 x 1500 px, about 2,300 image tokens
@@ -350,7 +351,7 @@ class Transcriber:
         self.workers = max(1, workers)
         self.max_tokens = max_tokens
         self.long_side = long_side
-        self.use_fallbacks = use_fallbacks
+        self.use_fallbacks = use_fallbacks and model not in NO_FALLBACK_MODELS
         self.poll_seconds = poll_seconds
         self.sleep = sleep
         self._stop = threading.Event()
@@ -381,7 +382,7 @@ class Transcriber:
                 if is_credit_error(exc):
                     self._stop.set()
                     raise CreditError(str(exc)) from exc
-                if self.use_fallbacks and "fallback" in str(exc).lower():
+                if "fallback" in str(exc).lower():  # concurrent pages may all see the rejection; each retries
                     logger.warning("%s: the API rejected `fallbacks` for %s; retrying without it", label, self.model)
                     self.use_fallbacks = False
                     continue
