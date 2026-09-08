@@ -244,7 +244,7 @@ def test_budget_projects_after_min_pages_and_counts_existing():
     b = gold.Budget(10.0, 10, spent=2.0, done=4, min_pages=2)
     b.add(0.5)
     assert not b.stopped and b.projected() == pytest.approx(2.5 + 5 * 0.5)
-    b.add(4.0)  # 6.5 on 6 pages projects to 10.83
+    b.add(4.0)  # this run's mean 2.25 on 4 remaining pages projects to 15.5
     assert b.stopped and b.run_pages == 2 and b.run_spent == 4.5
     c = gold.Budget(1.0, 100)
     c.add(0.9)  # projection not trusted yet

@@ -697,7 +697,8 @@ def volume_dates(client, volumes: Iterable[int], listings: dict[int, list[dict]]
 
 class Budget:
     """Stops the run when the pages built so far project the whole set over the limit. Pages already on disk
-    count in `spent` and `done`; the projection is trusted after `min_pages` pages of this run."""
+    count in `spent` and `done`; the remaining pages are projected at this run's mean cost per page, and the
+    projection is trusted after `min_pages` pages of this run."""
 
     def __init__(self, limit_usd: float, total_pages: int, spent: float = 0.0, done: int = 0, min_pages: int = 5):
         self.limit = limit_usd
@@ -711,7 +712,8 @@ class Budget:
         self.lock = threading.Lock()
 
     def projected(self) -> float:
-        return self.spent + (self.total - self.done) * (self.spent / self.done) if self.done else 0.0
+        mean = self.run_spent / self.run_pages if self.run_pages else (self.spent / self.done if self.done else 0.0)
+        return self.spent + (self.total - self.done) * mean
 
     def add(self, cost: float) -> None:
         with self.lock:
