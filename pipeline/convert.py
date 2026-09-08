@@ -216,6 +216,19 @@ def convert_unit(unit: Unit, doclang_path: str, xml_path: str, num_threads: int 
     With `rebuild`, an existing DoclingDocument JSON is loaded instead of running the profile again."""
     started = time.monotonic()
     try:
+        family = profiles.get_family(unit.profile)
+        if family.builds_uslm:
+            _, variant = profiles.parse_profile(unit.profile)
+            identity = uslm.DocIdentity(**unit.identity)
+            tree, stats = family.uslm_builder(unit.pdf, variant, unit.page_range, identity=identity,
+                                              doclang_path=doclang_path, xml_path=xml_path)
+            uslm.write_uslm(tree, xml_path)
+            ok, errors = uslm.validate(tree)
+            return UnitResult(
+                unit_id=unit.unit_id, status="success", doclang_path=doclang_path if Path(doclang_path).exists() else None,
+                xml_path=xml_path, pages=int(stats.get("pages") or 0), seconds=time.monotonic() - started, xsd_valid=ok,
+                xsd_errors=errors or None, stats=stats,
+            )
         if rebuild and Path(doclang_path).exists():
             from docling_core.types.doc import DoclingDocument
 

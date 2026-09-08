@@ -44,8 +44,11 @@ class ProfileFamily:
     description: str
     # Docling families: build PdfPipelineOptions for a variant.
     options: Optional[Callable[..., object]] = None
-    # Non-Docling families: convert(pdf_path, variant, page_range, **kw) -> DoclingDocument.
+    # Non-Docling families: convert(pdf_path, variant, page_range, identity=..., dpi=...) -> DoclingDocument.
     converter: Optional[Callable[..., object]] = None
+    # Families that produce USLM themselves (the hybrid builder):
+    # uslm_builder(pdf_path, variant, page_range, identity=..., doclang_path=..., xml_path=...) -> (lxml tree, stats dict)
+    uslm_builder: Optional[Callable[..., object]] = None
     variants: tuple[str, ...] = ()
     runs_in_container: bool = True
     # Docling input format override: a family that consumes page images sets "image".
@@ -55,6 +58,10 @@ class ProfileFamily:
     @property
     def is_docling(self) -> bool:
         return self.options is not None
+
+    @property
+    def builds_uslm(self) -> bool:
+        return self.uslm_builder is not None
 
 
 _FAMILIES: dict[str, ProfileFamily] = {}
