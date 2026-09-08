@@ -20,6 +20,13 @@ dependencies = [
 dev = [
     "pytest>=8.0",
 ]
+# CPU OCR engines for the rapidocr and easyocr profiles (pipeline/ocr_engines.py); the versions Docling 2.126 pins.
+ocr = [
+    "rapidocr>=3.9.1,<4",
+    "onnxruntime>=1.7.0,<2",
+    "easyocr>=1.7,<2",
+    "scikit-image>=0.19",
+]
 
 [build-system]
 requires = ["hatchling"]
