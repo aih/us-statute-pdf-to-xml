@@ -32,5 +32,7 @@ def test_page_one_of_pl_85_910_from_the_text_layer():
     if not PDF.exists():
         pytest.skip(f"{PDF} not downloaded")
     doc = profiles.make_converter("textlayer").convert(str(PDF), page_range=(1, 1)).document
-    text = " ".join(getattr(item, "text", "") or "" for item, _ in doc.iterate_items())
-    assert "Grand Portage" in text
+    text = " ".join(" ".join((getattr(item, "text", "") or "").split()) for item, _ in doc.iterate_items())
+    # the vendor text layer renders the title line differently per pdf backend; the body heading and the
+    # enacting formula are stable across hosts
+    assert "NORTHWEST COMPANY AREA" in text and "Be it enacted" in text

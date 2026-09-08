@@ -385,6 +385,8 @@ def run(args) -> int:
                     err = result.error if result else "not converted"
                     if err and "--rebuild: no DoclingDocument JSON" in err:
                         skipped[key] = "no DoclingDocument JSON for this profile (not converted by its runner)"
+                    elif err and "candidate USLM" in err and "missing" in err:
+                        skipped[key] = "no candidate output for the hybrid's text profile on this granule"
                     else:
                         failures[key] = err
                     continue
