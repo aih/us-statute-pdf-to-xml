@@ -120,13 +120,24 @@ def test_count_disagreements_and_agreed_lines():
     assert gold.count_disagreements(A, A[:-1] + [{"role": "footnote", "text": A[-1]["text"]}]) == 1  # role counts
 
 
-def test_merge_agreed_reinserts_dropped_lines_in_order():
-    adjudicated = [A[0], {"role": "sidenote", "text": "Grand Portage National Monument, Minn."}, A[4]]  # dropped A[1] and A[3]
-    merged, inserted = gold.merge_agreed(A, B, adjudicated)
-    assert inserted == 2
-    assert [l["text"] for l in merged] == [A[0]["text"], A[1]["text"], "Grand Portage National Monument, Minn.", A[3]["text"], A[4]["text"]]
-    merged2, inserted2 = gold.merge_agreed(A, B, merged)
-    assert inserted2 == 0 and merged2 == merged
+def test_differing_runs_and_apply_resolutions():
+    runs = gold.differing_runs(A, B)
+    assert len(runs) == 1 and runs[0]["run"] == 1 and runs[0]["a"] == [A[2]] and runs[0]["b"] == [B[2]]
+    assert "A3 [sidenote] Grand Portage" in gold.runs_text(runs) and "B3 [sidenote] Grant Portage" in gold.runs_text(runs)
+    fixed = {"role": "sidenote", "text": "Grand Portage National Monument, Minnesota."}
+    lines, dis, unresolved = gold.apply_resolutions(A, runs, [{"run": 1, "lines": [fixed], "reason": "image"}])
+    assert lines == A[:2] + [fixed] + A[3:] and unresolved == 0
+    assert dis == [{"run": 1, "a": A[2]["text"], "b": B[2]["text"], "kept": fixed["text"], "reason": "image"}]
+    # an unanswered run keeps A; an empty resolution drops the line; an extra B line is an insert run
+    lines, dis, unresolved = gold.apply_resolutions(A, runs, [])
+    assert lines == A and unresolved == 1 and dis[0]["reason"].startswith("unresolved")
+    lines, _, _ = gold.apply_resolutions(A, runs, [{"run": 1, "lines": [], "reason": "not printed"}])
+    assert lines == A[:2] + A[3:]
+    extra = {"role": "footnote", "text": "1 Repealed."}
+    runs2 = gold.differing_runs(A, A + [extra])
+    assert runs2[0]["op"] == "insert" and runs2[0]["a"] == [] and runs2[0]["b"] == [extra]
+    lines, _, _ = gold.apply_resolutions(A, runs2, [{"run": 1, "lines": [extra], "reason": "printed"}])
+    assert lines == A + [extra]
 
 
 # ---------------------------------------------------------------------------- Claude calls with a fake client
@@ -181,16 +192,16 @@ PAGE = {"granule_id": "STATUTE-72-Pg1751", "package_id": "STATUTE-72", "volume":
 
 
 def test_build_record_adjudicates_when_transcriptions_differ(page_png):
-    adjudicated = [A[0], A[1], {"role": "sidenote", "text": "Grand Portage National Monument, Minn."}, A[4]]  # drops A[3]
+    fixed = {"role": "sidenote", "text": "Grand Portage National Monument, Minn."}
     client, fake = fake_client([{"lines": A}, {"lines": B},
-                                {"lines": adjudicated, "disagreements": [{"a": "Grand", "b": "Grant", "kept": "Grand", "reason": "image reads Grand"}]}])
+                                {"resolutions": [{"run": 1, "lines": [fixed], "reason": "image reads Grand"}]}])
     t = gold.Transcriber(client=client, model="claude-opus-5")
     rec = gold.build_record(PAGE, page_png, t)
     assert len(fake.calls) == 3
-    assert rec["disagreement_count"] == 1 and rec["adjudication"]["reinserted"] == 1
-    assert [l["text"] for l in rec["lines"]] == [A[0]["text"], A[1]["text"], "Grand Portage National Monument, Minn.", A[3]["text"], A[4]["text"]]
+    assert rec["disagreement_count"] == 1 and rec["adjudication"]["unresolved"] == 0
+    assert rec["lines"] == A[:2] + [fixed] + A[3:]
     assert rec["transcriptions"]["A"]["lines"] == A and rec["transcriptions"]["B"]["lines"] == B
-    assert rec["adjudication"]["disagreements"][0]["kept"] == "Grand"
+    assert rec["adjudication"]["disagreements"][0]["kept"] == fixed["text"] and rec["adjudication"]["disagreements"][0]["b"] == B[2]["text"]
     assert rec["tokens"] == {"input_tokens": 15000, "output_tokens": 2400, "cache_read_input_tokens": 1200, "cache_creation_input_tokens": 0}
     assert rec["cost_usd"] == pytest.approx(3 * (5000 * 5 + 400 * 0.5 + 800 * 25) / 1e6, rel=1e-3)
     assert rec["image_sha256"] == gold.sha256_file(page_png) and rec["dpi"] == 300 and rec["api_images"] == 3
@@ -201,9 +212,10 @@ def test_build_record_adjudicates_when_transcriptions_differ(page_png):
     for c in fake.calls:
         assert c["thinking"] == {"type": "adaptive"} and c["fallbacks"] == "default" and c["betas"] == [gold.FALLBACK_BETA]
         assert c["output_config"]["format"]["type"] == "json_schema"
-        assert sum(1 for b in c["messages"][0]["content"] if b["type"] == "image") == 3
+    assert [sum(1 for b in c["messages"][0]["content"] if b["type"] == "image") for c in fake.calls] == [2, 2, 3]
     assert fake.calls[0]["output_config"]["effort"] == "medium" and fake.calls[2]["output_config"]["effort"] == "high"
-    assert "Transcription A:" in fake.calls[2]["messages"][0]["content"][-1]["text"]
+    adj_text = fake.calls[2]["messages"][0]["content"][-1]["text"]
+    assert "Transcription A:" in adj_text and "Run 1 (after A line 2, B line 2):" in adj_text
 
 
 def test_build_record_skips_adjudication_when_transcriptions_agree(page_png):
@@ -226,6 +238,19 @@ def test_record_roundtrip_and_review(tmp_path, page_png):
     assert review == records
     md = gold.review_markdown(review)
     assert "STATUTE-72-Pg1751 page 1" in md and "[sidenote] Grand Portage" in md
+
+
+def test_budget_projects_after_min_pages_and_counts_existing():
+    b = gold.Budget(10.0, 10, spent=2.0, done=4, min_pages=2)
+    b.add(0.5)
+    assert not b.stopped and b.projected() == pytest.approx(2.5 + 5 * 0.5)
+    b.add(4.0)  # 6.5 on 6 pages projects to 10.83
+    assert b.stopped and b.run_pages == 2 and b.run_spent == 4.5
+    c = gold.Budget(1.0, 100)
+    c.add(0.9)  # projection not trusted yet
+    assert not c.stopped
+    c.add(0.2)  # spent itself passes the limit
+    assert c.stopped
 
 
 def test_choose_review_is_seeded_and_spread_over_periods():

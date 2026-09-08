@@ -13,11 +13,14 @@ do not depend on which granules were downloaded before it. Granule listings are 
 benchmark.sample.load_listing; PDFs and MODS go to data/granules/ (downloader.fetch_granules.process_granule
 when POSTGRES_URL is set, a database-free download otherwise).
 
-Each page is rendered at 300 dpi to data/gold/{granule}/p{n}.png and sent to the model as the full page
-plus enlarged crops of its top and bottom halves. Two transcriptions come from two system prompts with
-different wording (`SYSTEM_A`, `SYSTEM_B`); when they differ, a third call sees both and the image and
-returns the final lines and the disagreements it resolved. Lines both transcriptions agree on are
-re-inserted if the adjudicator dropped them (`merge_agreed`). The record for each page is
+Each page is rendered at 300 dpi to data/gold/{granule}/p{n}.png; the two transcription calls see enlarged
+crops of its top and bottom halves (overlapping) and the adjudication call sees the full page as well. Two
+transcriptions come from two system prompts with
+different wording (`SYSTEM_A`, `SYSTEM_B`). The two line lists are aligned (`differing_runs`, on role and
+normalized text); when they differ, a third call sees both transcriptions, the numbered differing runs, and
+the image, and returns the printed lines for each run. The page is A's lines where the two agree and the
+adjudicator's lines in each differing run (`apply_resolutions`); a run the adjudicator did not answer keeps
+A's lines and is counted in `adjudication.unresolved`. The record for each page is
 benchmark/gold/{granule}/p{n}.json.
 
 Scoring (`score`): the gold body text of a page is its `body` lines joined by newlines and normalized
@@ -326,28 +329,27 @@ LINES_SCHEMA = {
 ADJUDICATION_SCHEMA = {
     "type": "object",
     "properties": {
-        "lines": {"type": "array", "items": LINE_ITEM},
-        "disagreements": {
+        "resolutions": {
             "type": "array",
             "items": {
                 "type": "object",
                 "properties": {
-                    "a": {"type": "string", "description": "Transcription A's version (empty when A has no such line)."},
-                    "b": {"type": "string", "description": "Transcription B's version (empty when B has no such line)."},
-                    "kept": {"type": "string", "description": "The text kept in the final lines."},
+                    "run": {"type": "integer", "description": "The run number from the list of differing runs."},
+                    "lines": {"type": "array", "items": LINE_ITEM,
+                              "description": "The lines printed at this point of the page, in order; empty when nothing is printed there."},
                     "reason": {"type": "string"},
                 },
-                "required": ["a", "b", "kept", "reason"],
+                "required": ["run", "lines", "reason"],
                 "additionalProperties": False,
             },
         },
     },
-    "required": ["lines", "disagreements"],
+    "required": ["resolutions"],
     "additionalProperties": False,
 }
 
-SYSTEM_A = """You transcribe one printed page of the United States Statutes at Large from its image. You receive the
-whole page and two enlarged crops of its upper and lower halves; the crops overlap and show the same page.
+SYSTEM_A = """You transcribe one printed page of the United States Statutes at Large from its image. You receive two
+enlarged crops of the page, its upper half and its lower half; the crops overlap by a few lines.
 
 Return every line of text on the page as one entry in `lines`, in reading order: the running head first,
 then the main text column from top to bottom, with each marginal note placed immediately before the body
@@ -367,8 +369,8 @@ Long s is written as s. Do not expand abbreviations, correct errors, or merge or
 that cannot be read is written as [illegible]. Return only the transcription."""
 
 SYSTEM_B = """You are producing a diplomatic transcription of a page from the United States Statutes at Large for an
-OCR benchmark. The page is provided at full size together with enlarged views of its top half and its
-bottom half; use the enlarged views to read small type.
+OCR benchmark. The page is provided as two enlarged views, its top half and its bottom half, which overlap
+by a few lines; a line shown in both views is transcribed once.
 
 Output the text as a list of `lines`, one entry per typeset line, ordered as a reader proceeds: header
 lines, then the text column top to bottom. Marginal notes are separate entries with role sidenote, inserted
@@ -383,16 +385,16 @@ do not join lines into paragraphs. Use [illegible] for characters that cannot be
 transcription."""
 
 SYSTEM_ADJ = """You reconcile two independent transcriptions of one page of the United States Statutes at Large against
-the page image. You receive the page at full size, enlarged crops of its top and bottom halves, and the two
-transcriptions as numbered lines with roles (running-head, sidenote, body, footnote, page-number).
+the page image. You receive the page at full size, enlarged crops of its top and bottom halves, the two
+transcriptions as numbered lines with roles (running-head, sidenote, body, footnote, page-number), and a
+numbered list of the runs where the transcriptions differ in text, role, line breaks, or the presence of a
+line. Lines outside those runs are agreed and are kept as they are.
 
-Return the final transcription in `lines`, one entry per printed line in reading order (running head, then
-the text column top to bottom with each marginal note placed before the body line it sits beside, then
-footnotes, then a standalone page number). Where the transcriptions agree, keep the agreed line unchanged.
-Where they differ in text, role, line breaks, or the presence of a line, read the image and keep what is
-printed; record each such decision in `disagreements` with both versions, the text kept, and a short
-reason. Keep printed spelling, capitalization, end-of-line hyphens, and small capitals as capitals; use
-[illegible] only where neither version can be confirmed from the image."""
+For every run in the list, read the image and return in `resolutions` the lines actually printed at that
+point of the page, in reading order, with the role of each line, and a short reason. Return an empty list
+of lines for a run when nothing is printed there (a line one transcription invented). Keep printed
+spelling, capitalization, end-of-line hyphens, and small capitals as capitals; use [illegible] only where
+neither version can be confirmed from the image. Return one resolution per run and nothing else."""
 
 PROMPTS = {"A": SYSTEM_A, "B": SYSTEM_B}
 USER_TEXT = {"A": "Transcribe this page.", "B": "Produce the transcription of this page."}
@@ -472,16 +474,20 @@ class Transcriber:
         return data, meta
 
     def transcribe(self, images: list[bytes], variant: str) -> dict:
-        content = image_blocks(images) + [{"type": "text", "text": USER_TEXT[variant]}]
+        """One transcription from the enlarged crops (`images[1:]` when the full page is `images[0]`)."""
+        crops = images[1:] if len(images) == 3 else images
+        content = image_blocks(crops) + [{"type": "text", "text": USER_TEXT[variant]}]
         data, meta = self._call(PROMPTS[variant], content, LINES_SCHEMA, self.effort)
         return {"variant": variant, "lines": clean_lines(data.get("lines")), **meta}
 
-    def adjudicate(self, images: list[bytes], a: list[dict], b: list[dict]) -> dict:
+    def adjudicate(self, images: list[bytes], a: list[dict], b: list[dict], runs: list[dict]) -> dict:
         text = (f"Transcription A:\n{numbered(a)}\n\nTranscription B:\n{numbered(b)}\n\n"
-                "Return the final lines and the disagreements you resolved.")
+                f"Differing runs:\n{runs_text(runs)}\n\nReturn one resolution per run.")
         content = image_blocks(images) + [{"type": "text", "text": text}]
         data, meta = self._call(SYSTEM_ADJ, content, ADJUDICATION_SCHEMA, self.adjudication_effort)
-        return {"lines": clean_lines(data.get("lines")), "disagreements": list(data.get("disagreements") or []), **meta}
+        resolutions = [{"run": int(r.get("run", -1)), "lines": clean_lines(r.get("lines")), "reason": str(r.get("reason", ""))}
+                       for r in (data.get("resolutions") or [])]
+        return {"resolutions": resolutions, **meta}
 
 
 # ---------------------------------------------------------------------------- merging
@@ -509,37 +515,54 @@ def agreed_lines(a: list[dict], b: list[dict]) -> list[dict]:
     return out
 
 
-def similar(x: str, y: str, threshold: float = 85.0) -> bool:
-    from rapidfuzz import fuzz
+def differing_runs(a: list[dict], b: list[dict]) -> list[dict]:
+    """The runs where A and B differ (role or normalized text), numbered from 1, with each side's lines and
+    the position in A and B."""
+    ka, kb = [line_key(l) for l in a], [line_key(l) for l in b]
+    runs = []
+    for op, i1, i2, j1, j2 in difflib.SequenceMatcher(a=ka, b=kb, autojunk=False).get_opcodes():
+        if op != "equal":
+            runs.append({"run": len(runs) + 1, "op": op, "a_range": (i1, i2), "b_range": (j1, j2), "a": a[i1:i2], "b": b[j1:j2]})
+    return runs
 
-    return fuzz.ratio(metrics.normalize(x).lower(), metrics.normalize(y).lower()) >= threshold
+
+def runs_text(runs: list[dict]) -> str:
+    parts = []
+    for r in runs:
+        i1, i2 = r["a_range"]
+        j1, j2 = r["b_range"]
+        a_lines = "\n".join(f"    A{i + 1} [{l['role']}] {l['text']}" for i, l in zip(range(i1, i2), r["a"])) or "    (no line in A)"
+        b_lines = "\n".join(f"    B{j + 1} [{l['role']}] {l['text']}" for j, l in zip(range(j1, j2), r["b"])) or "    (no line in B)"
+        parts.append(f"Run {r['run']} (after A line {i1}, B line {j1}):\n{a_lines}\n{b_lines}")
+    return "\n".join(parts) or "(none)"
 
 
-def merge_agreed(a: list[dict], b: list[dict], adjudicated: list[dict]) -> tuple[list[dict], int]:
-    """Re-insert every line A and B agree on that the adjudicated lines lack. A is aligned with the
-    adjudicated lines; an agreed line in a deleted run goes back at that position, and one in a replaced
-    run goes back unless the replacement holds a close variant of it. Returns the merged lines and the
-    number re-inserted."""
-    agreed = {line_key(l) for l in agreed_lines(a, b)}
-    ka, kadj = [line_key(l) for l in a], [line_key(l) for l in adjudicated]
-    merged: list[dict] = []
-    inserted = 0
-    for op, i1, i2, j1, j2 in difflib.SequenceMatcher(a=ka, b=kadj, autojunk=False).get_opcodes():
-        if op in ("equal", "insert"):
-            merged.extend(adjudicated[j1:j2])
-        elif op == "delete":
-            for line in a[i1:i2]:
-                if line_key(line) in agreed:
-                    merged.append(dict(line))
-                    inserted += 1
-        else:  # replace
-            block = list(adjudicated[j1:j2])
-            for offset, line in enumerate(a[i1:i2]):
-                if line_key(line) in agreed and not any(similar(line["text"], r["text"]) for r in block):
-                    block.insert(min(offset, len(block)), dict(line))
-                    inserted += 1
-            merged.extend(block)
-    return merged, inserted
+def apply_resolutions(a: list[dict], runs: list[dict], resolutions: list[dict]) -> tuple[list[dict], list[dict], int]:
+    """Assemble the page: A's lines where A and B agree, the adjudicator's lines for each differing run. A run
+    without a resolution keeps A's lines and is counted as unresolved. Returns the lines, one disagreement
+    record per run (both versions, the text kept, the reason), and the unresolved count."""
+    by_run = {r["run"]: r for r in resolutions}
+    lines: list[dict] = []
+    disagreements: list[dict] = []
+    unresolved = 0
+    pos = 0
+    for r in runs:
+        i1, i2 = r["a_range"]
+        lines.extend(a[pos:i1])
+        res = by_run.get(r["run"])
+        if res is None:
+            unresolved += 1
+            kept = list(r["a"])
+            reason = "unresolved: no resolution returned; A kept"
+        else:
+            kept = [dict(l) for l in res["lines"]]
+            reason = res["reason"]
+        lines.extend(kept)
+        disagreements.append({"run": r["run"], "a": "\n".join(l["text"] for l in r["a"]), "b": "\n".join(l["text"] for l in r["b"]),
+                              "kept": "\n".join(l["text"] for l in kept), "reason": reason})
+        pos = i2
+    lines.extend(a[pos:])
+    return lines, disagreements, unresolved
 
 
 # ---------------------------------------------------------------------------- records
@@ -558,14 +581,15 @@ def build_record(page: dict, png: Path, transcriber: Transcriber, images: Option
     images = images if images is not None else api_images(png)
     a = transcriber.transcribe(images, "A")
     b = transcriber.transcribe(images, "B")
-    disagreements = count_disagreements(a["lines"], b["lines"])
+    runs = differing_runs(a["lines"], b["lines"])
+    disagreements = len(runs)
     calls = [a, b]
-    if disagreements:
-        adj = transcriber.adjudicate(images, a["lines"], b["lines"])
+    if runs:
+        adj = transcriber.adjudicate(images, a["lines"], b["lines"], runs)
         calls.append(adj)
-        lines, reinserted = merge_agreed(a["lines"], b["lines"], adj["lines"])
-        adjudication = {k: v for k, v in adj.items() if k != "lines"}
-        adjudication["reinserted"] = reinserted
+        lines, resolved, unresolved = apply_resolutions(a["lines"], runs, adj["resolutions"])
+        adjudication = {k: v for k, v in adj.items() if k != "resolutions"}
+        adjudication.update({"disagreements": resolved, "unresolved": unresolved})
     else:
         lines, adjudication = list(a["lines"]), {"skipped": "transcriptions agree", "disagreements": [], "cost_usd": 0.0,
                                                   "usage": {"input_tokens": 0, "output_tokens": 0}}
@@ -672,20 +696,31 @@ def volume_dates(client, volumes: Iterable[int], listings: dict[int, list[dict]]
 
 
 class Budget:
-    def __init__(self, limit_usd: float, total_pages: int):
+    """Stops the run when the pages built so far project the whole set over the limit. Pages already on disk
+    count in `spent` and `done`; the projection is trusted after `min_pages` pages of this run."""
+
+    def __init__(self, limit_usd: float, total_pages: int, spent: float = 0.0, done: int = 0, min_pages: int = 5):
         self.limit = limit_usd
         self.total = total_pages
-        self.spent = 0.0
-        self.done = 0
+        self.spent = spent
+        self.done = done
+        self.min_pages = min_pages
+        self.run_pages = 0
+        self.run_spent = 0.0
         self.stopped = False
         self.lock = threading.Lock()
+
+    def projected(self) -> float:
+        return self.spent + (self.total - self.done) * (self.spent / self.done) if self.done else 0.0
 
     def add(self, cost: float) -> None:
         with self.lock:
             self.spent += cost
             self.done += 1
-            projected = self.spent / self.done * self.total if self.done else 0.0
-            if projected > self.limit:
+            self.run_pages += 1
+            self.run_spent += cost
+            projected = self.projected()
+            if self.spent > self.limit or (self.run_pages >= self.min_pages and projected > self.limit):
                 self.stopped = True
                 logger.error("budget: $%.2f spent on %d/%d pages projects to $%.2f, over the $%.2f limit; stopping",
                              self.spent, self.done, self.total, projected, self.limit)
@@ -743,9 +778,10 @@ def build(args) -> int:
         return 0
 
     transcriber = Transcriber(model=args.model, effort=args.effort, adjudication_effort=args.adjudication_effort)
-    budget = Budget(args.budget, len(planned))
+    budget = Budget(args.budget, len(planned), spent=existing_cost, done=existing)
     todo = []
     existing = 0
+    existing_cost = 0.0
     for p in planned:
         pdf_path, _ = granule_paths(p["granule_id"])
         png = render_page(pdf_path, p["pdf_page"], image_path(p["granule_id"], p["pdf_page"]))
@@ -754,10 +790,11 @@ def build(args) -> int:
             rec = json.loads(out.read_text(encoding="utf-8"))
             if rec.get("image_sha256") == sha256_file(png):
                 existing += 1
+                existing_cost += float(rec.get("cost_usd") or 0.0)
                 continue
         todo.append((p, png, out))
-    logger.info("%d page(s) already built, %d to transcribe with %s (%d in flight, budget $%.0f)",
-                existing, len(todo), args.model, IN_FLIGHT, args.budget)
+    logger.info("%d page(s) already built ($%.2f), %d to transcribe with %s (%d in flight, budget $%.0f)",
+                existing, existing_cost, len(todo), args.model, IN_FLIGHT, args.budget)
     if args.fetch_only:
         logger.info("fetch only: %d page image(s) under %s; no API calls", len(planned), IMAGE_DIR)
         return 0
@@ -798,7 +835,8 @@ def build(args) -> int:
     review = choose_review(records, seed)
     IMAGE_DIR.mkdir(parents=True, exist_ok=True)
     (IMAGE_DIR / "review.md").write_text(review_markdown(review), encoding="utf-8")
-    print(f"\n{len(records)} gold page(s); ${budget.spent:.2f} spent this run. Pages for spot-check ({IMAGE_DIR / 'review.md'}):")
+    print(f"\n{len(records)} gold page(s); ${budget.run_spent:.2f} spent this run, ${budget.spent:.2f} in all. "
+          f"Pages for spot-check ({IMAGE_DIR / 'review.md'}):")
     for r in review:
         print(f"  {r['period']}  {r['granule_id']} p{r['pdf_page']}  {r['image']}")
     for key, err in sorted(failures.items()):
