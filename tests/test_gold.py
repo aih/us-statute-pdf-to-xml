@@ -294,7 +294,8 @@ def test_docling_page_texts_separates_body_sidenote_and_furniture(tmp_path):
     pytest.importorskip("docling_core")
     pages = gold.docling_page_texts(docling_json(tmp_path))
     assert set(pages) == {1, 2}
-    assert pages[1]["body"] == "Be it enacted by the Senate and House of Representatives of the United States"
+    # footnote items count as text-column text (no candidate separates footnotes reliably)
+    assert pages[1]["body"] == "Be it enacted by the Senate and House of Representatives of the United States 1 See 16 U.S.C. 431."
     assert pages[1]["sidenote"] == "Grand Portage National Monument."
     assert pages[2]["body"] == "SEC. 2. The Secretary of the Interior" and pages[2]["sidenote"] == ""
 

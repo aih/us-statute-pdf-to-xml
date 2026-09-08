@@ -23,10 +23,11 @@ adjudicator's lines in each differing run (`apply_resolutions`); a run the adjud
 A's lines and is counted in `adjudication.unresolved`. The record for each page is
 benchmark/gold/{granule}/p{n}.json.
 
-Scoring (`score`): the gold body text of a page is its `body` lines joined by newlines and normalized
-with benchmark.metrics.normalize; sidenote lines are scored separately. A profile's page text comes
-from data/doclang/<profile dir>/{granule}.json through pipeline.uslm.load_pages (items of kind `body`
-that are not footnotes; kind `sidenote` for the sidenote score). C0's page text is the GPO USLM text
+Scoring (`score`): the gold text of a page is its `body` and `footnote` lines joined by newlines and
+normalized with benchmark.metrics.normalize (the text column; the Peters edition prints case notes as
+footnotes that fill most of some pages, and no candidate separates them reliably); sidenote lines are
+scored separately. A profile's page text comes from data/doclang/<profile dir>/{granule}.json through
+pipeline.uslm.load_pages (items of kind `body`; kind `sidenote` for the sidenote score). C0's page text is the GPO USLM text
 between the page markers of that Statutes at Large page, read from the volume USLM
 (data/volumes/xmls/STATUTE-{v}.xml, downloaded from the Hub dataset when missing) or, failing that,
 from the granule slice in data/granules/STATUTE-{v}/uslm/. The report goes to
@@ -629,7 +630,7 @@ def load_gold(root: Optional[Path] = None, period: Optional[str] = None) -> list
     return records
 
 
-def gold_text(record: dict, roles: Iterable[str] = ("body",)) -> str:
+def gold_text(record: dict, roles: Iterable[str] = ("body", "footnote")) -> str:
     roles = set(roles)
     return metrics.normalize("\n".join(l["text"] for l in record["lines"] if l["role"] in roles))
 
@@ -860,7 +861,7 @@ def docling_page_texts(doc_json: Path) -> dict[int, dict[str, str]]:
     doc = DoclingDocument.load_from_json(doc_json)
     out = {}
     for page in load_pages(doc):
-        body = [it.text for it in page.items if it.kind == "body" and it.label != "footnote"]
+        body = [it.text for it in page.items if it.kind == "body"]
         side = [it.text for it in page.items if it.kind == "sidenote"]
         out[page.no] = {"body": metrics.normalize("\n".join(body)), "sidenote": metrics.normalize("\n".join(side))}
     return out
@@ -1003,7 +1004,7 @@ def score_candidate(records: list[dict], candidate: str, page_texts) -> list[Pag
         if texts is None:
             out.append(PageScore(r, candidate, None, None, source))
             continue
-        ref = gold_text(r, ("body",))
+        ref = gold_text(r)
         ref_side = gold_text(r, ("sidenote",))
         out.append(PageScore(r, candidate, metrics.cer(ref, texts["body"]) if ref else None,
                              metrics.cer(ref_side, texts["sidenote"]) if ref_side else None, source, len(texts["body"])))
@@ -1077,11 +1078,14 @@ def write_score_report(records: list[dict], results: dict[str, list[PageScore]],
         f"Transcription tokens: {total_in:,} in, {total_out:,} out, ${total_cost:.2f}. "
         f"Pages with disagreements between the two transcriptions: {sum(1 for d in disagree if d)}/{len(records)} "
         f"(mean {mean(disagree) if disagree else 0:.1f} differing runs per page).", "",
-        "CER is the Levenshtein distance over normalized characters divided by the gold length, on the `body` lines of "
-        "the page; `Sidenote CER` is the same over the `sidenote` lines, on pages that have any. C0 is the GPO USLM text "
-        "between the page markers of the Statutes at Large page; a profile's text is the body items of the PDF page "
-        "in its DoclingDocument, classified by pipeline.uslm.load_pages. Pages without candidate text are counted "
-        "under `Pages` and not under `Scored`.", "",
+        "CER is the Levenshtein distance over normalized characters divided by the gold length, on the `body` and "
+        "`footnote` lines of the page (the text column); `Sidenote CER` is the same over the `sidenote` lines, on pages "
+        "that have any. C0 is the GPO USLM text between the page markers of the Statutes at Large page, footnotes "
+        "included where the USLM places them (inline at their reference, so a footnote that runs over several pages "
+        "counts on the page of its reference); a profile's text is the body items of the PDF page in its "
+        "DoclingDocument, classified by pipeline.uslm.load_pages. Pages without candidate text are counted under "
+        "`Pages` and not under `Scored`. The median is the figure to compare: a page whose candidate text or C0 slice "
+        "covers a different span (a multi-page footnote, a mislabeled page) gives a CER above 1 that dominates the mean.", "",
         "## Per period", "", summary_table(results), "",
         "## Per page", "", page_table(records, results), "",
     ]
