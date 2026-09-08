@@ -174,29 +174,34 @@ class PageImage:
         return base64.standard_b64encode(self.jpeg).decode("ascii")
 
 
+PDFIUM_LOCK = threading.Lock()  # PDFium is not thread-safe; one document open at a time per process
+
+
 def page_sizes(pdf_path: Path | str) -> list[tuple[float, float]]:
     """(width, height) in points for every page."""
     import pypdfium2 as pdfium
 
-    pdf = pdfium.PdfDocument(str(pdf_path))
-    try:
-        return [tuple(float(v) for v in pdf[i].get_size()) for i in range(len(pdf))]
-    finally:
-        pdf.close()
+    with PDFIUM_LOCK:
+        pdf = pdfium.PdfDocument(str(pdf_path))
+        try:
+            return [tuple(float(v) for v in pdf[i].get_size()) for i in range(len(pdf))]
+        finally:
+            pdf.close()
 
 
 def render_page(pdf_path: Path | str, page_no: int, long_side: int = TARGET_LONG_SIDE, quality: int = JPEG_QUALITY) -> PageImage:
     """Render one 1-based page so that its longest side is `long_side` pixels; JPEG bytes."""
     import pypdfium2 as pdfium
 
-    pdf = pdfium.PdfDocument(str(pdf_path))
-    try:
-        page = pdf[page_no - 1]
-        width_pt, height_pt = (float(v) for v in page.get_size())
-        scale = long_side / max(width_pt, height_pt)
-        image = page.render(scale=scale).to_pil().convert("RGB")
-    finally:
-        pdf.close()
+    with PDFIUM_LOCK:
+        pdf = pdfium.PdfDocument(str(pdf_path))
+        try:
+            page = pdf[page_no - 1]
+            width_pt, height_pt = (float(v) for v in page.get_size())
+            scale = long_side / max(width_pt, height_pt)
+            image = page.render(scale=scale).to_pil().convert("RGB")
+        finally:
+            pdf.close()
     buf = io.BytesIO()
     image.save(buf, format="JPEG", quality=quality, optimize=True)
     return PageImage(page_no, width_pt, height_pt, image.width, image.height, buf.getvalue())
