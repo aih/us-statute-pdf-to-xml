@@ -80,6 +80,7 @@ PERIODS = [
     {"name": "1951-1975", "volumes": [65, 89]},
     {"name": "1976-2002", "volumes": [90, 116]},
 ]
+PERIODS_INDEX = {p["name"]: i for i, p in enumerate(PERIODS)}
 PAGES_PER_PERIOD = 30
 VOLUMES_PER_PERIOD = 3
 PAGES_PER_GRANULE = 2
@@ -723,7 +724,7 @@ class Budget:
             self.run_pages += 1
             self.run_spent += cost
             projected = self.projected()
-            if self.spent > self.limit or (self.run_pages >= self.min_pages and projected > self.limit):
+            if self.spent > self.limit or (self.min_pages > 0 and self.run_pages >= self.min_pages and projected > self.limit):
                 self.stopped = True
                 logger.error("budget: $%.2f spent on %d/%d pages projects to $%.2f, over the $%.2f limit; stopping",
                              self.spent, self.done, self.total, projected, self.limit)
@@ -795,7 +796,14 @@ def build(args) -> int:
                 existing_cost += float(rec.get("cost_usd") or 0.0)
                 continue
         todo.append((p, png, out))
-    budget = Budget(args.budget, len(planned), spent=existing_cost, done=existing)
+    # interleave the periods so that a budget stop leaves every period with about the same number of pages
+    rank: dict[str, int] = defaultdict(int)
+    order = []
+    for item in todo:
+        order.append((rank[item[0]["period"]], PERIODS_INDEX.get(item[0]["period"], 0)))
+        rank[item[0]["period"]] += 1
+    todo = [item for _, item in sorted(zip(order, todo), key=lambda pair: pair[0])]
+    budget = Budget(args.budget, len(planned), spent=existing_cost, done=existing, min_pages=args.min_pages)
     logger.info("%d page(s) already built ($%.2f), %d to transcribe with %s (%d in flight, budget $%.0f)",
                 existing, existing_cost, len(todo), args.model, IN_FLIGHT, args.budget)
     if args.fetch_only:
@@ -1145,6 +1153,7 @@ def build_parser() -> argparse.ArgumentParser:
     b.add_argument("--effort", default="medium", help="effort for the two transcriptions")
     b.add_argument("--adjudication-effort", default="high")
     b.add_argument("--budget", type=float, default=DEFAULT_BUDGET_USD, help="stop when the projected cost passes this (USD)")
+    b.add_argument("--min-pages", type=int, default=5, help="pages of this run before the projection is trusted; 0 stops on spent only")
     b.add_argument("--dry-run", action="store_true", help="print the sampled pages and write the spec; no download, no API calls")
     b.add_argument("--fetch-only", action="store_true", help="download the granules, render the page images, write the spec; no API calls")
     b.add_argument("--dates", action="store_true", help="fetch the volume dates in a dry run too")
