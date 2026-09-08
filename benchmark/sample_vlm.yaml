@@ -1,0 +1,158 @@
+seed: 20260905
+per_cell: 3
+max_pages: 12
+volumes:
+  scanned-pre-1951:
+  - 10
+  - 39
+  scanned-1951-2002:
+  - 72
+  - 85
+  digital-2003+:
+  - 124
+  - 132
+eras:
+- name: scanned-pre-1951
+  volumes:
+  - 1
+  - 64
+- name: scanned-1951-2002
+  volumes:
+  - 65
+  - 116
+- name: digital-2003+
+  volumes:
+  - 117
+  - 137
+classes:
+- PUBLICLAW
+- PRIVATELAW
+- PROCLAMATION
+- TREATY
+- HCONRES
+- SCONRES
+era_classes:
+  digital-2003+:
+  - PUBLICLAW
+  - PRIVATELAW
+granules:
+- granule_id: STATUTE-39-Pg342-2
+  package_id: STATUTE-39
+  volume: 39
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act To amend an Act entitled "An Act to establish a Court of Private Land
+    Claims and to provide for the settlement of private land claims in certain States
+    and Territories," approved March third, e
+  est_pages: 1
+  date_issued: '1916-07-03'
+- granule_id: STATUTE-39-Pg354-4
+  package_id: STATUTE-39
+  volume: 39
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act To amend existing laws relating to the use of alcohol, free of tax,
+    by scientific institutions or colleges of learning.
+  est_pages: 1
+  date_issued: '1916-07-08'
+- granule_id: STATUTE-10-Pg764
+  package_id: STATUTE-10
+  volume: 10
+  era: scanned-pre-1951
+  granule_class: PRIVATELAW
+  title: An Act for the Relief of Robert Gibson.
+  est_pages: 1
+  date_issued: '1853-03-03'
+- granule_id: STATUTE-10-Pg826-5
+  package_id: STATUTE-10
+  volume: 10
+  era: scanned-pre-1951
+  granule_class: PRIVATELAW
+  title: An Act for the Relief of Asa Leach.
+  est_pages: 1
+  date_issued: '1854-08-05'
+- granule_id: STATUTE-10-Pg840-3
+  package_id: STATUTE-10
+  volume: 10
+  era: scanned-pre-1951
+  granule_class: PRIVATELAW
+  title: An Act for the Relief of Thomas B. Parsons.
+  est_pages: 1
+  date_issued: '1855-01-12'
+- granule_id: STATUTE-72-Pg983-2
+  package_id: STATUTE-72
+  volume: 72
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act authorizing a survey of the Tensaw River, Ala., in the interest of
+    navigation and allied purposes.
+  est_pages: 1
+  date_issued: '1958-08-28'
+- granule_id: STATUTE-72-Pg1751
+  package_id: STATUTE-72
+  volume: 72
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to provide for the establishment of Grand Portage National Monument
+    in the State of Minnesota, and for other purposes
+  est_pages: 3
+  date_issued: '1958-09-02'
+- granule_id: STATUTE-72-PgA13
+  package_id: STATUTE-72
+  volume: 72
+  era: scanned-1951-2002
+  granule_class: PRIVATELAW
+  title: An Act for the Relief of Mrs. Margot M. Draughon.
+  est_pages: 1
+  date_issued: '1958-03-15'
+- granule_id: STATUTE-72-PgA144-2
+  package_id: STATUTE-72
+  volume: 72
+  era: scanned-1951-2002
+  granule_class: PRIVATELAW
+  title: An Act for the Relief of Lori Biagi.
+  est_pages: 1
+  date_issued: '1958-08-26'
+- granule_id: STATUTE-85-Pg844-2
+  package_id: STATUTE-85
+  volume: 85
+  era: scanned-1951-2002
+  granule_class: PRIVATELAW
+  title: An Act for the Relief of John Borbridge, Junior.
+  est_pages: 1
+  date_issued: '1971-09-30'
+- granule_id: STATUTE-124-Pg2256
+  package_id: STATUTE-124
+  volume: 124
+  era: digital-2003+
+  granule_class: PUBLICLAW
+  title: Joint resolution approving the renewal of import restrictions contained in
+    the Burmese Freedom and Democracy Act of 2003, and for other purposes
+  est_pages: 2
+  date_issued: '2010-07-27'
+- granule_id: STATUTE-124-Pg4523
+  package_id: STATUTE-124
+  volume: 124
+  era: digital-2003+
+  granule_class: PRIVATELAW
+  title: An act for the relief of Shigeru Yamada
+  est_pages: 2
+  date_issued: '2010-12-22'
+- granule_id: STATUTE-124-Pg4525
+  package_id: STATUTE-124
+  volume: 124
+  era: digital-2003+
+  granule_class: PRIVATELAW
+  title: An act for the relief of Hotaru Nakama Ferschke
+  est_pages: 2
+  date_issued: '2010-12-22'
+- granule_id: STATUTE-132-Pg5595
+  package_id: STATUTE-132
+  volume: 132
+  era: digital-2003+
+  granule_class: PRIVATELAW
+  title: An act to authorize the President to award the Medal of Honor to John L.
+    Canley for acts of valor during the Vietnam War while a member of the Marine Corps
+  est_pages: 4
+  date_issued: '2018-01-29'
+source_spec: benchmark/sample.yaml
