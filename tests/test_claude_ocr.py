@@ -241,9 +241,13 @@ def test_fallbacks_rejected_then_retried_without():
     import anthropic
 
     client = _client([_api_error(anthropic.BadRequestError, 400, "fallbacks is not supported"), _message(LINES[:1])])
-    tr = Transcriber("claude-haiku-4-5", client=client, sleep=lambda s: None)
-    tr.call(claude_ocr.build_params("claude-haiku-4-5", _image(), "G", 1, 1), "G p1")
+    tr = Transcriber("claude-sonnet-5", client=client, sleep=lambda s: None)
+    tr.call(claude_ocr.build_params("claude-sonnet-5", _image(), "G", 1, 1), "G p1")
     assert "fallbacks" in client.beta.messages.calls[0] and "fallbacks" not in client.beta.messages.calls[1]
+    # Haiku 4.5 rejects the parameter, so it is never sent
+    client2 = _client([_message(LINES[:1])])
+    Transcriber("claude-haiku-4-5", client=client2).call(claude_ocr.build_params("claude-haiku-4-5", _image(), "G", 1, 1), "G p1")
+    assert "fallbacks" not in client2.beta.messages.calls[0]
 
 
 def test_max_tokens_and_refusal_are_errors():
