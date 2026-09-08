@@ -154,7 +154,7 @@ on the available hosts.
 | C3 RapidOCR | $0 | 18 days with one worker (memory), 9 with two | borderline; CER behind the text layer in both eras |
 | C4 GraniteDocling | $0 | | yes, repetition loops and CER 0.79 pre-1951 |
 | C4 LightOnOCR | $0 | 36 to 58 days on the Mac | yes, time on the Mac; CER behind GLM-OCR |
-| C4 GLM-OCR on the Mac alone | $0 | 35 days at 11 s per page | yes, time; see section 5 for the GPU route |
+| C4 GLM-OCR on the Mac alone | $0 | 37 days at 11.7 s per page | yes, time; see section 5 for the GPU route |
 
 ## 4. Decision
 
@@ -166,10 +166,13 @@ tier B on the scanned laws puts it first (0.002 and 0.006 against 0.012 and 0.07
 0.003 and 0.006 for the best Claude model); section recall puts the hybrid form of any candidate (0.94 to 1.00)
 ahead of its raw form (0.00 to 0.48). The gold set does not reverse the order of GLM-OCR and the text layer.
 
-Two measurements qualify the choice. GLM-OCR leaves out the marginal notes (gold sidenote CER 1.000), so the
-sidenotes in the generated USLM come from the GPO structure and are only as good as the vendor's OCR of
-them (C0 sidenote CER 0.050 over the gold set, 0.171 for 1789 to 1850). The judge pass (section 7) scores
-structure 71.5 and tagging 68.4 on the hybrid; its findings are listed there and in section 8.
+Three measurements qualify the choice. GLM-OCR leaves out the marginal notes (gold sidenote CER 1.000), so
+the sidenotes in the generated USLM come from the GPO structure and are only as good as the vendor's OCR of
+them (C0 sidenote CER 0.050 over the gold set, 0.171 for 1789 to 1850). GLM-OCR drops a region of the page
+on about one page in fifteen and, on a page it cannot read, invents text or loops on a phrase (section 2
+notes, section 7 finding 6); the per-page guards in section 8 items 7 and 8 are not built. The judge pass
+(section 7) scores structure 64.7 and tagging 62.6 on 20 granules of the hybrid; its findings are listed
+there and in section 8.
 
 Fallback profile: `hybrid:textlayer`, the same structure with the vendor text layer as the text source
 (CER 0.011 and 0.061 on the common laws; 0.140 mean pre-1951 over all classes because some pages carry a
