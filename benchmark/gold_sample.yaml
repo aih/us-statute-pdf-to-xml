@@ -1,0 +1,1756 @@
+seed: 20260908
+created: '2026-09-08'
+dry_run: false
+volumes:
+  1789-1850:
+  - 1
+  - 2
+  - 5
+  1851-1900:
+  - 11
+  - 12
+  - 17
+  1901-1950:
+  - 36
+  - 54
+  - 60
+  1951-1975:
+  - 69
+  - 75
+  - 77
+  1976-2002:
+  - 97
+  - 103
+  - 115
+volume_dates:
+  1:
+    date_issued: '1845-03-03'
+    congress: '28'
+    title: United States Statutes at Large, Volume 1, 28th Congress, 2nd Session
+    public_law_dates:
+    - '1789-06-01'
+    - '1799-03-03'
+  2:
+    date_issued: '1845-03-03'
+    congress: '28'
+    title: United States Statutes at Large, Volume 2, 28th Congress, 2nd Session
+    public_law_dates:
+    - '1799-12-24'
+    - '1813-03-03'
+  5:
+    date_issued: '1845-03-03'
+    congress: '28'
+    title: United States Statutes at Large, Volume 5, 28th Congress, 2nd Session
+    public_law_dates:
+    - '1836-01-14'
+    - '1845-03-03'
+  9:
+    date_issued: '1851-03-03'
+    congress: '31'
+    title: United States Statutes at Large, Volume 9, 31st Congress, 2nd Session
+  10:
+    date_issued: '1855-03-03'
+    congress: '33'
+    title: United States Statutes at Large, Volume 10, 33rd Congress, 2nd Session
+  11:
+    date_issued: '1859-03-03'
+    congress: '35'
+    title: United States Statutes at Large, Volume 11, 35th Congress, 2nd Session
+    public_law_dates:
+    - '1856-02-20'
+    - '1859-03-03'
+  12:
+    date_issued: '1863-03-03'
+    congress: '37'
+    title: United States Statutes at Large, Volume 12, 37th Congress, 3rd Session
+    public_law_dates:
+    - '1860-02-15'
+    - '1863-03-03'
+  17:
+    date_issued: '1873-03-03'
+    congress: '42'
+    title: United States Statutes at Large, Volume 17, 42nd Congress, 3rd Session
+    public_law_dates:
+    - '1871-03-20'
+    - '1873-03-03'
+  31:
+    date_issued: '1901-03-03'
+    congress: '56'
+    title: United States Statutes at Large, Volume 31, 56th Congress, 2nd Session
+  32:
+    date_issued: '1903-03-03'
+    congress: '57'
+    title: United States Statutes at Large, Volume 32, 57th Congress, 2nd Session
+  36:
+    date_issued: '1911-03-03'
+    congress: '61'
+    title: United States Statutes at Large, Volume 36, 61st Congress, 3rd Session
+    public_law_dates:
+    - '1909-06-29'
+    - '1911-03-04'
+  54:
+    date_issued: '1941-01-03'
+    congress: '76'
+    title: United States Statutes at Large, Volume 54, 76th Congress, 3rd Session
+    public_law_dates:
+    - '1940-01-13'
+    - '1941-01-07'
+  60:
+    date_issued: '1946-08-02'
+    congress: '79'
+    title: United States Statutes at Large, Volume 60, 79th Congress, 2nd Session
+    public_law_dates:
+    - '1946-02-09'
+    - '1946-08-14'
+  64:
+    date_issued: '1951-01-02'
+    congress: '81'
+    title: United States Statutes at Large, Volume 64, 81st Congress, 2nd Session
+  65:
+    date_issued: '1951-10-20'
+    congress: '82'
+    title: United States Statutes at Large, Volume 65, 82nd Congress, 1st Session
+  69:
+    date_issued: '1955-08-02'
+    congress: '84'
+    title: United States Statutes at Large, Volume 69, 84th Congress, 1st Session
+    public_law_dates:
+    - '1955-01-20'
+    - '1955-08-14'
+  75:
+    date_issued: '1961-09-27'
+    congress: '87'
+    title: United States Statutes at Large, Volume 75, 87th Congress, 1st Session
+    public_law_dates:
+    - '1961-03-01'
+    - '1961-10-05'
+  77:
+    date_issued: '1963-12-30'
+    congress: '88'
+    title: United States Statutes at Large, Volume 77, 88th Congress, 1st Session
+    public_law_dates:
+    - '1963-03-06'
+    - '1964-01-06'
+  89:
+    date_issued: '1975-12-19'
+    congress: '94'
+    title: United States Statutes at Large, Volume 89, 94th Congress, 1st Session
+  90:
+    date_issued: '1976-10-01'
+    congress: '94'
+    title: United States Statutes at Large, Volume 90, 94th Congress, 2nd Session
+  97:
+    date_issued: '1983-11-18'
+    congress: '98'
+    title: United States Statutes at Large, Volume 97, 98th Congress, 1st Session
+    public_law_dates:
+    - '1983-02-15'
+    - '1983-12-09'
+  103:
+    date_issued: '1989-11-22'
+    congress: '101'
+    title: United States Statutes at Large, Volume 103, 101st Congress, 1st Session
+    public_law_dates:
+    - '1989-02-07'
+    - '1989-12-19'
+  115:
+    date_issued: '2001-12-20'
+    congress: '107'
+    title: United States Statutes at Large, Volume 115, 107th Congress, 1st Session
+    public_law_dates:
+    - '2001-02-15'
+    - '2002-01-24'
+  116:
+    date_issued: '2002-11-22'
+    congress: '107'
+    title: United States Statutes at Large, Volume 116, 107th Congress, 2nd Session
+periods:
+- name: 1789-1850
+  volumes:
+  - 1
+  - 9
+- name: 1851-1900
+  volumes:
+  - 10
+  - 31
+- name: 1901-1950
+  volumes:
+  - 32
+  - 64
+- name: 1951-1975
+  volumes:
+  - 65
+  - 89
+- name: 1976-2002
+  volumes:
+  - 90
+  - 116
+granule_class: PUBLICLAW
+pages_per_period: 30
+pages_per_granule: 2
+granules:
+- granule_id: STATUTE-1-Pg608-2
+  package_id: STATUTE-1
+  volume: 1
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act for allowing an additional compensation to the doorkeepers and assistant doorkeepers of the Senate and House
+    of Representatives, for their services during the present session of Congress.
+  est_pages: 1
+  date_issued: '1798-07-16'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '608'
+- granule_id: STATUTE-2-Pg156
+  package_id: STATUTE-2
+  volume: 2
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to amend the Judicial System of the United States.(a)
+  est_pages: 11
+  date_issued: '1802-04-29'
+  pdf_pages: 12
+  pages:
+  - 5
+  - 7
+  stat_pages:
+  - '160'
+  - '162'
+- granule_id: STATUTE-5-Pg651-2
+  package_id: STATUTE-5
+  volume: 5
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to refund the fine imposed on General Andrew Jackson.
+  est_pages: 1
+  date_issued: '1844-02-16'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '651'
+- granule_id: STATUTE-1-Pg341-2
+  package_id: STATUTE-1
+  volume: 1
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act in alteration of the act establishing a Mint and regulating the Coins of the United States.
+  est_pages: 1
+  date_issued: '1794-03-03'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '341'
+- granule_id: STATUTE-2-Pg679
+  package_id: STATUTE-2
+  volume: 2
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An act authorizing the Secretary of the Treasury to locate the Lands reserved for the use of Jefferson College, in
+    the Mississippi territory.
+  est_pages: 1
+  date_issued: '1812-02-20'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '679'
+- granule_id: STATUTE-5-Pg178
+  package_id: STATUTE-5
+  volume: 5
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to authorize the proper officers of the Treasury Department to credit the account of the Treasurer of the
+    United States with the amount of unavailable funds standing to his debit on the books o
+  est_pages: 1
+  date_issued: '1836-03-03'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '178'
+- granule_id: STATUTE-1-Pg448-2
+  package_id: STATUTE-1
+  volume: 1
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act for allowing compensation to the members of the Senate and House of Representatives of the United States,
+    and to certain officers of both Houses.
+  est_pages: 1
+  date_issued: '1796-03-10'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '448'
+  - '449'
+- granule_id: STATUTE-2-Pg661-3
+  package_id: STATUTE-2
+  volume: 2
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act in addition to the act to regulate the laying out and making a road from Cumberland, in the state of Maryland,
+    to the state of Ohio.(a)
+  est_pages: 1
+  date_issued: '1811-03-03'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '661'
+  - '662'
+- granule_id: STATUTE-5-Pg66-2
+  package_id: STATUTE-5
+  volume: 5
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to repair and extend the United States Arsenal at Charleston, South Carolina.
+  est_pages: 1
+  date_issued: '1836-07-02'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '66'
+- granule_id: STATUTE-1-Pg508
+  package_id: STATUTE-1
+  volume: 1
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act making appropriations for the Military and Naval establishments for the year one thousand seven hundred and
+    ninety-seven.
+  est_pages: 1
+  date_issued: '1797-03-03'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '508'
+  - '509'
+- granule_id: STATUTE-2-Pg730-3
+  package_id: STATUTE-2
+  volume: 2
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to alter and establish certain Post Roads.
+  est_pages: 2
+  date_issued: '1812-05-11'
+  pdf_pages: 3
+  pages:
+  - 1
+  - 3
+  stat_pages:
+  - '730'
+  - '732'
+- granule_id: STATUTE-5-Pg491-2
+  package_id: STATUTE-5
+  volume: 5
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act confirming certain land claims in Louisiana.
+  est_pages: 2
+  date_issued: '1842-07-06'
+  pdf_pages: 3
+  pages:
+  - 1
+  - 3
+  stat_pages:
+  - '491'
+  - '493'
+- granule_id: STATUTE-1-Pg450-3
+  package_id: STATUTE-1
+  volume: 1
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act making certain provisions in regard to the Circuit Court, for the district of North Carolina.
+  est_pages: 1
+  date_issued: '1796-03-31'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '450'
+  - '451'
+- granule_id: STATUTE-2-Pg730
+  package_id: STATUTE-2
+  volume: 2
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act in addition to the act to regulate the laying out and making a road from Cumberland in the state of Maryland
+    to the state of Ohio.
+  est_pages: 1
+  date_issued: '1812-05-06'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '730'
+- granule_id: STATUTE-5-Pg215-3
+  package_id: STATUTE-5
+  volume: 5
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to restore circuit jurisdiction to the district courts of the western district of Virginia. (a)
+  est_pages: 1
+  date_issued: '1838-03-28'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '215'
+  - '216'
+- granule_id: STATUTE-1-Pg576
+  package_id: STATUTE-1
+  volume: 1
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act providing Arms for the Militia throughout the United States.
+  est_pages: 1
+  date_issued: '1798-07-06'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '576'
+  - '577'
+- granule_id: STATUTE-2-Pg668-2
+  package_id: STATUTE-2
+  volume: 2
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act allowing further time for completing the payments on certain lands held by right of pre-emption, in the Mississippi
+    territory.
+  est_pages: 1
+  date_issued: '1811-12-12'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '668'
+- granule_id: STATUTE-5-Pg153
+  package_id: STATUTE-5
+  volume: 5
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to provide for the enlistment of boys for the naval service, and to extend the term of the enlistment of seamen.
+  est_pages: 1
+  date_issued: '1837-03-02'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '153'
+- granule_id: STATUTE-1-Pg96
+  package_id: STATUTE-1
+  volume: 1
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to alter the Time for the next Meeting of Congress.
+  est_pages: 1
+  date_issued: '1789-09-29'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '96'
+- granule_id: STATUTE-2-Pg122
+  package_id: STATUTE-2
+  volume: 2
+  period: 1789-1850
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act making appropriations for the Navy of the United States, for the year one thousand eight hundred and one.
+  est_pages: 1
+  date_issued: '1801-03-03'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '122'
+  - '123'
+- granule_id: STATUTE-11-Pg337-2
+  package_id: STATUTE-11
+  volume: 11
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act making an Appropriation for the Completion of the Military Road from Astoria to Salem, in Oregon Territory.
+  est_pages: 1
+  date_issued: '1858-06-14'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '337'
+- granule_id: STATUTE-12-Pg577-2
+  package_id: STATUTE-12
+  volume: 12
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to prevent Members of Congress and Officers of the Government of the United States from taking Consideration
+    for procuring Contracts, Office, or Place, from the United States, and for other Pur
+  est_pages: 1
+  date_issued: '1862-07-16'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '577'
+  - '578'
+- granule_id: STATUTE-17-Pg466
+  package_id: STATUTE-17
+  volume: 17
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to provide for obtaining Information of the Condition of Banks organized under State Laws.
+  est_pages: 1
+  date_issued: '1873-02-19'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '466'
+- granule_id: STATUTE-11-Pg18
+  package_id: STATUTE-11
+  volume: 11
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act making a Grant of Lands to the State of Louisiana, to aid in the Construction of Railroads in said State.
+  est_pages: 2
+  date_issued: '1856-06-03'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '18'
+  - '19'
+- granule_id: STATUTE-12-Pg657-3
+  package_id: STATUTE-12
+  volume: 12
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to allow the United States to prosecute Appeals and Writs of Error without giving Security.
+  est_pages: 1
+  date_issued: '1863-02-21'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '657'
+  - '658'
+- granule_id: STATUTE-17-Pg339
+  package_id: STATUTE-17
+  volume: 17
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act granting the Right of Way through the public Lands to the Denver and Rio Grande Railway Company.
+  est_pages: 1
+  date_issued: '1872-06-08'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '339'
+- granule_id: STATUTE-11-Pg292
+  package_id: STATUTE-11
+  volume: 11
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: 'An Act to amend an Act entitled "An Act to authorize the President of the United States to cause to be surveyed
+    the Tract of Land, in the Territory of Minnesota, belonging to the Half breeds or mixed '
+  est_pages: 1
+  date_issued: '1858-05-19'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '292'
+- granule_id: STATUTE-12-Pg198-2
+  package_id: STATUTE-12
+  volume: 12
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to provide for the Payment of Expenses incurred by the Territories of Washington and Oregon in the Suppression
+    of Indian Hostilities therein, in the Years eighteen hundred and fifty-five and ei
+  est_pages: 1
+  date_issued: '1861-03-02'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '198'
+  - '199'
+- granule_id: STATUTE-17-Pg578-2
+  package_id: STATUTE-17
+  volume: 17
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to amend an Act entitled "An Act to establish the Department of Justice, and for other Purposes."
+  est_pages: 1
+  date_issued: '1873-03-03'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '578'
+- granule_id: STATUTE-11-Pg385
+  package_id: STATUTE-11
+  volume: 11
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to authorize Settlers upon sixteenth and thirty-six[th] Sections, who settled before the Surveys of the Public
+    Lands, to preëmpt their Settlements.
+  est_pages: 1
+  date_issued: '1859-02-26'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '385'
+- granule_id: STATUTE-12-Pg660
+  package_id: STATUTE-12
+  volume: 12
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to divide the State of Michigan into two Judicial Districts, and to provide for holding the District and Circuit
+    Courts therein.
+  est_pages: 2
+  date_issued: '1863-02-24'
+  pdf_pages: 3
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '660'
+  - '661'
+- granule_id: STATUTE-17-Pg281-2
+  package_id: STATUTE-17
+  volume: 17
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act relating to a Site for public Buildings in Harrisburgh, Pennsylvania, and Sacramento, California.
+  est_pages: 1
+  date_issued: '1872-06-07'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '281'
+- granule_id: STATUTE-11-Pg156-2
+  package_id: STATUTE-11
+  volume: 11
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act authorizing the establishing of a Navy Depot on Blythe Island, at Brunswick, on the Coast of Georgia, and
+    for other Purposes.
+  est_pages: 1
+  date_issued: '1857-01-28'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '156'
+- granule_id: STATUTE-12-Pg33
+  package_id: STATUTE-12
+  volume: 12
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: 'An Act to amend an Act entitled an Act to define and regulate the Jurisdiction of the District Courts of the United
+    States in California in Regard to the Survey and Location of confirmed Private Land '
+  est_pages: 2
+  date_issued: '1860-06-14'
+  pdf_pages: 3
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '33'
+  - '34'
+- granule_id: STATUTE-17-Pg409-3
+  package_id: STATUTE-17
+  volume: 17
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act authorizing the East Chester National Bank of Mount Vernon to change its Location and Name.
+  est_pages: 1
+  date_issued: '1873-01-11'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '409'
+  - '410'
+- granule_id: STATUTE-11-Pg15-2
+  package_id: STATUTE-11
+  volume: 11
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act granting Public Lands, in alternate Sections, to the States of Florida and Alabama, to aid in the Construction
+    of certain Railroads in said States.
+  est_pages: 2
+  date_issued: '1856-05-17'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '15'
+  - '16'
+- granule_id: STATUTE-12-Pg657
+  package_id: STATUTE-12
+  volume: 12
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to change the Times of holding the Circuit and District Courts of the United States for the District of Indiana.
+  est_pages: 1
+  date_issued: '1863-02-20'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '657'
+- granule_id: STATUTE-17-Pg484
+  package_id: STATUTE-17
+  volume: 17
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to change and fix the Time of holding the Spring Terms of the United States Circuit and District Courts in
+    the Cities of Covington and Paducah, in the State of Kentucky.
+  est_pages: 1
+  date_issued: '1873-03-01'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '484'
+- granule_id: STATUTE-11-Pg6
+  package_id: STATUTE-11
+  volume: 11
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act amendatory of an Act entitled "An Act to regulate the Fees and Costs to be allowed Clerks, Marshals, and Attorneys
+    of the Circuit and District Courts of the United States, and for other Purpose
+  est_pages: 1
+  date_issued: '1856-04-23'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '6'
+- granule_id: STATUTE-12-Pg709-2
+  package_id: STATUTE-12
+  volume: 12
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to provide Ways and Means for the Support of the Government.
+  est_pages: 4
+  date_issued: '1863-03-03'
+  pdf_pages: 5
+  pages:
+  - 1
+  - 5
+  stat_pages:
+  - '709'
+  - '713'
+- granule_id: STATUTE-17-Pg27-3
+  package_id: STATUTE-17
+  volume: 17
+  period: 1851-1900
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act to change the Times for holding Circuit and District Courts of the United States for the western District
+    of Virginia.
+  est_pages: 1
+  date_issued: '1872-02-01'
+  pdf_pages: 2
+  pages:
+  - 1
+  stat_pages:
+  - '27'
+- granule_id: STATUTE-36-Pg1347
+  package_id: STATUTE-36
+  volume: 36
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act To authorize the extension of Seventeenth Street northeast.
+  est_pages: 1
+  date_issued: '1911-03-04'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '1347'
+- granule_id: STATUTE-54-Pg1119
+  package_id: STATUTE-54
+  volume: 54
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: AN ACT To amend an Act entitled "An Act authorizing construction of water conservation and utilization projects in
+    the Great Plains and arid and semiarid areas of the United States", approved August 1
+  est_pages: 6
+  date_issued: '1940-10-14'
+  pdf_pages: 7
+  pages:
+  - 6
+  - 7
+  stat_pages:
+  - '1124'
+  - '1125'
+- granule_id: STATUTE-60-Pg85
+  package_id: STATUTE-60
+  volume: 60
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: 'AN ACT To amend section 502 of the Act entitled "An Act to expedite the provision of housing in connection with
+    national defense, and for other purposes", approved October 14, 1940, as amended, so as '
+  est_pages: 1
+  date_issued: '1946-03-28'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '85'
+- granule_id: STATUTE-36-Pg199-4
+  package_id: STATUTE-36
+  volume: 36
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act To authorize the extension of Park place northwest.
+  est_pages: 1
+  date_issued: '1910-02-21'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '199'
+  - '200'
+- granule_id: STATUTE-54-Pg240
+  package_id: STATUTE-54
+  volume: 54
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: AN ACT To provide for the enlargement of the Coast Guard depot at Seattle, Washington, and for the establishment
+    of a Coast Guard servicing base at or near Chattanooga, Tennessee.
+  est_pages: 1
+  date_issued: '1940-06-06'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '240'
+- granule_id: STATUTE-60-Pg945
+  package_id: STATUTE-60
+  volume: 60
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: AN ACT To amend the Act of June 23, 1943, so as to authorize inclusion of periods of education and training in an
+    Army Transportation Corps civilian marine school as "service in the merchant marine".
+  est_pages: 1
+  date_issued: '1946-08-08'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '945'
+  - '946'
+- granule_id: STATUTE-36-Pg355-2
+  package_id: STATUTE-36
+  volume: 36
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act Making appropriations for the service of the Post-Office Department for the fiscal year ending June thirtieth,
+    nineteen hundred and eleven, and for other purposes.
+  est_pages: 12
+  date_issued: '1910-05-12'
+  pdf_pages: 13
+  pages:
+  - 10
+  - 12
+  stat_pages:
+  - '364'
+  - '366'
+- granule_id: STATUTE-54-Pg1092
+  package_id: STATUTE-54
+  volume: 54
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: AN ACT To expedite national defense by suspending, during the national emergency, provisions of law that prohibit
+    more than eight hours' labor in any one day of persons engaged upon work covered by co
+  est_pages: 1
+  date_issued: '1940-10-10'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '1092'
+- granule_id: STATUTE-60-Pg235-2
+  package_id: STATUTE-60
+  volume: 60
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: AN ACT For the relief of the city of San Diego, Texas.
+  est_pages: 1
+  date_issued: '1946-06-08'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '235'
+- granule_id: STATUTE-36-Pg829-3
+  package_id: STATUTE-36
+  volume: 36
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act To amend section thirteen of an Act entitled "An Act to establish a Bureau of Immigration and Naturalization,
+    and to provide for a uniform rule for the naturalization of aliens throughout the U
+  est_pages: 2
+  date_issued: '1910-06-25'
+  pdf_pages: 3
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '829'
+  - '830'
+- granule_id: STATUTE-54-Pg143-2
+  package_id: STATUTE-54
+  volume: 54
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: AN ACT To amend the Act entitled "An Act for the grading and classification of clerks in the Foreign Service of the
+    United States of America, and providing compensation therefor", approved February 23
+  est_pages: 1
+  date_issued: '1940-04-20'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '143'
+  - '144'
+- granule_id: STATUTE-60-Pg33-2
+  package_id: STATUTE-60
+  volume: 60
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: AN ACT To authorize municipalities and public utility districts in the Territory of Alaska to issue revenue bonds
+    for public-works purposes.
+  est_pages: 1
+  date_issued: '1946-03-06'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '33'
+  - '34'
+- granule_id: STATUTE-36-Pg448-2
+  package_id: STATUTE-36
+  volume: 36
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act To authorize the sale and disposition of a portion of the surplus and unallotted lands in Mellette and Washabaugh
+    counties in the Rosebud Indian Reservation in the State of South Dakota, and ma
+  est_pages: 4
+  date_issued: '1910-05-30'
+  pdf_pages: 5
+  pages:
+  - 4
+  - 5
+  stat_pages:
+  - '451'
+  - '452'
+- granule_id: STATUTE-54-Pg51-2
+  package_id: STATUTE-54
+  volume: 54
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: AN ACT To authorize the Administrator of Veterans' Affairs to exchange certain property located at Veterans' Administration
+    facility, Tuskegee, Alabama, title to which is now vested in the United Stat
+  est_pages: 1
+  date_issued: '1940-03-15'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '51'
+  - '52'
+- granule_id: STATUTE-60-Pg1062
+  package_id: STATUTE-60
+  volume: 60
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: AN ACT To fix the rate of postage on domestic air mail, and for other purposes.
+  est_pages: 1
+  date_issued: '1946-08-14'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '1062'
+- granule_id: STATUTE-36-Pg353-2
+  package_id: STATUTE-36
+  volume: 36
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act To authorize the opening of a road along the Anacostia River in the District of Columbia.
+  est_pages: 1
+  date_issued: '1910-05-10'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '353'
+  - '354'
+- granule_id: STATUTE-54-Pg1174
+  package_id: STATUTE-54
+  volume: 54
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: AN ACT To amend the Act of June 23, 1938 (52 Stat. 944).
+  est_pages: 1
+  date_issued: '1940-10-14'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '1174'
+  - '1175'
+- granule_id: STATUTE-60-Pg181-2
+  package_id: STATUTE-60
+  volume: 60
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: AN ACT To exempt from taxation certain property of the Disabled American Veterans in the District of Columbia.
+  est_pages: 1
+  date_issued: '1946-05-15'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '181'
+- granule_id: STATUTE-36-Pg1013-3
+  package_id: STATUTE-36
+  volume: 36
+  period: 1901-1950
+  era: scanned-pre-1951
+  granule_class: PUBLICLAW
+  title: An Act To fix the time of holding the circuit and district courts for the northern district of West Virginia.
+  est_pages: 1
+  date_issued: '1911-03-02'
+  pdf_pages: 2
+  pages:
+  - 1
+  stat_pages:
+  - '1013'
+- granule_id: STATUTE-69-Pg397
+  package_id: STATUTE-69
+  volume: 69
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act making appropriations for the Department of Labor, and Health, Education, and Welfare, and related agencies,
+    for the fiscal year ending June 30, 1956, and for other purposes
+  est_pages: 16
+  date_issued: '1955-08-01'
+  pdf_pages: 16
+  pages:
+  - 10
+  - 13
+  stat_pages:
+  - '406'
+  - '409'
+- granule_id: STATUTE-75-Pg131
+  package_id: STATUTE-75
+  volume: 75
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to improve benefits under the old-age, survivors, and disability insurance program by increasing the minimum
+    benefits and aged widows benefits and by making additional persons eligible for bene
+  est_pages: 13
+  date_issued: '1961-06-30'
+  pdf_pages: 13
+  pages:
+  - 3
+  - 5
+  stat_pages:
+  - '133'
+  - '135'
+- granule_id: STATUTE-77-Pg359-2
+  package_id: STATUTE-77
+  volume: 77
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to amend further the Peace Corps Act, as amended
+  est_pages: 2
+  date_issued: '1963-12-13'
+  pdf_pages: 3
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '359'
+  - '360'
+- granule_id: STATUTE-69-Pg623-2
+  package_id: STATUTE-69
+  volume: 69
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to revive and reenact the act ""Authorizing the Arkansas-Mississippi Bridge Commission, its public successors
+    or public assigns, to construct, maintain, and operate a bridge across the Mississi
+  est_pages: 1
+  date_issued: '1955-08-09'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '623'
+- granule_id: STATUTE-75-Pg499
+  package_id: STATUTE-75
+  volume: 75
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to give to the Walker River Paiute Tribe the reserved minerals underlying its reservation.
+  est_pages: 1
+  date_issued: '1961-09-14'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '499'
+- granule_id: STATUTE-77-Pg470
+  package_id: STATUTE-77
+  volume: 77
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to amend section 511 (h) of the Merchant Marine Act, 1936, as amended, in order to extend the time for commitment
+    of constructive reserve funds.
+  est_pages: 1
+  date_issued: '1963-12-23'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '470'
+- granule_id: STATUTE-69-Pg654
+  package_id: STATUTE-69
+  volume: 69
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act granting the consent of Congress to the States of Arkansas, Louisiana, Oklahoma, and Texas to negotiate and
+    enter into a compact providing for the apportionment of the waters of the Red River a
+  est_pages: 1
+  date_issued: '1955-08-11'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '654'
+- granule_id: STATUTE-75-Pg675
+  package_id: STATUTE-75
+  volume: 75
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to provide for the disposal of certain lands held for inclusion in the Cape Hatteras National Seashore Recreational
+    Area, N.C., and for other purposes.
+  est_pages: 1
+  date_issued: '1961-09-26'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '675'
+- granule_id: STATUTE-77-Pg359
+  package_id: STATUTE-77
+  volume: 77
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to authorize the Secretary of the Interior to acquire and add certain lands to the Salem Maritime National
+    Historic Site in Massachusetts, and for other purposes
+  est_pages: 1
+  date_issued: '1963-12-12'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '359'
+- granule_id: STATUTE-69-Pg13-3
+  package_id: STATUTE-69
+  volume: 69
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: Joint resolution to amend the joint resolution of March 25,1953, relating to electrical or mechanical office equipment
+    for the use of Members, officers, and committees of the House of Representatives
+  est_pages: 1
+  date_issued: '1955-03-25'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '13'
+- granule_id: STATUTE-75-Pg758
+  package_id: STATUTE-75
+  volume: 75
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to amend further the Federal Farm LoAn Act and the Farm Credit Act of 1933, as amended, and for other purposes.
+  est_pages: 1
+  date_issued: '1961-10-03'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '758'
+- granule_id: STATUTE-77-Pg66-2
+  package_id: STATUTE-77
+  volume: 77
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to authorize the Secretary of Defense to lend certain Army, Navy, and Air Force equipment and provide certain
+    services to the Boy Scouts of America for use in the 1964 National Jamboree, and fo
+  est_pages: 1
+  date_issued: '1963-06-21'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '66'
+  - '67'
+- granule_id: STATUTE-69-Pg713
+  package_id: STATUTE-69
+  volume: 69
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to amend Public Laws 815 and 874, 81st Congress, which provide for assistance to local educational agencies
+    in areas affected by Federal activities, and for other purposes
+  est_pages: 2
+  date_issued: '1955-08-12'
+  pdf_pages: 3
+  pages:
+  - 1
+  - 3
+  stat_pages:
+  - '713'
+  - '715'
+- granule_id: STATUTE-75-Pg772-2
+  package_id: STATUTE-75
+  volume: 75
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to redesignate the Jefferson Division of the Eastern District of Texas as the Marshall Division.
+  est_pages: 1
+  date_issued: '1961-10-04'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '772'
+- granule_id: STATUTE-77-Pg4-3
+  package_id: STATUTE-77
+  volume: 77
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: 'An Act to amend the Internal Revenue Code of 1954 to provide that the deduction for child care expenses shall be
+    available to a wife who has been deserted by and cannot locate her husband on the same '
+  est_pages: 1
+  date_issued: '1963-04-02'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '4'
+  - '5'
+- granule_id: STATUTE-69-Pg132-2
+  package_id: STATUTE-69
+  volume: 69
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to make retrocession to the Commonwealth of Massachusetts of jurisdiction over certain land in the vicinity
+    of Fort Devens, Mass
+  est_pages: 2
+  date_issued: '1955-06-15'
+  pdf_pages: 3
+  pages:
+  - 1
+  - 3
+  stat_pages:
+  - '132'
+  - '134'
+- granule_id: STATUTE-75-Pg401-2
+  package_id: STATUTE-75
+  volume: 75
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to amend title 10, United States Code, to permit the crediting of certain minority service for the purpose
+    of determining eligibility for retirement, and for other purposes
+  est_pages: 1
+  date_issued: '1961-08-25'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '401'
+- granule_id: STATUTE-77-Pg304-2
+  package_id: STATUTE-77
+  volume: 77
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to make certain changes in the functions of the Beach Erosion Board and the Board of Engineers for Rivers
+    and Harbors, and for other purposes.
+  est_pages: 1
+  date_issued: '1963-11-07'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '304'
+  - '305'
+- granule_id: STATUTE-69-Pg536-2
+  package_id: STATUTE-69
+  volume: 69
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to amend the act of May 28, 1949, to strengthen and improve the organization of the Department of State, and
+    for other purposes
+  est_pages: 1
+  date_issued: '1955-08-05'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '536'
+  - '537'
+- granule_id: STATUTE-75-Pg93
+  package_id: STATUTE-75
+  volume: 75
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to amend section 4 of the Employment Act of 1946
+  est_pages: 1
+  date_issued: '1961-06-16'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '93'
+- granule_id: STATUTE-77-Pg144
+  package_id: STATUTE-77
+  volume: 77
+  period: 1951-1975
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An Act to remove the percentage limitations on retirement of enlisted men of the Coast Guard, and for other purposes.
+  est_pages: 1
+  date_issued: '1963-09-06'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '144'
+- granule_id: STATUTE-97-Pg817
+  package_id: STATUTE-97
+  volume: 97
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An act to provide for the use and distribution of funds awarded the Assiniboine Tribe of the Fort Belknap Indian
+    Community, Montana, and the Assiniboine Tribe of the Fort Peck Indian Reservation, Mont
+  est_pages: 2
+  date_issued: '1983-10-13'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '817'
+  - '818'
+- granule_id: STATUTE-103-Pg7
+  package_id: STATUTE-103
+  volume: 103
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An act to designate March 16, 1989, as "Freedom of Information Day"
+  est_pages: 1
+  date_issued: '1989-03-23'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '7'
+- granule_id: STATUTE-115-Pg900
+  package_id: STATUTE-115
+  volume: 115
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: Veterans' Compensation Rate Amendments of 2001
+  est_pages: 3
+  date_issued: '2001-12-21'
+  pdf_pages: 3
+  pages:
+  - 2
+  - 3
+  stat_pages:
+  - '901'
+  - '902'
+- granule_id: STATUTE-97-Pg190
+  package_id: STATUTE-97
+  volume: 97
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: Joint resolution designating May 21, 1983, as "Andrei Sakharov Day"
+  est_pages: 2
+  date_issued: '1983-05-18'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '190'
+  - '191'
+- granule_id: STATUTE-103-Pg1293
+  package_id: STATUTE-103
+  volume: 103
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: Designating November 16, 1989, as "Interstitial Cystitis Awareness Day"
+  est_pages: 1
+  date_issued: '1989-11-27'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '1293'
+- granule_id: STATUTE-115-Pg269
+  package_id: STATUTE-115
+  volume: 115
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: Making further continuing appropriations for the fiscal year 2002, and for other purposes
+  est_pages: 1
+  date_issued: '2001-10-22'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '269'
+- granule_id: STATUTE-97-Pg219
+  package_id: STATUTE-97
+  volume: 97
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: Department of Housing and Urban Development-Independent Agencies Appropriation Act, 1984
+  est_pages: 22
+  date_issued: '1983-07-12'
+  pdf_pages: 22
+  pages:
+  - 12
+  - 20
+  stat_pages:
+  - '230'
+  - '238'
+- granule_id: STATUTE-103-Pg1945
+  package_id: STATUTE-103
+  volume: 103
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: Providing for the convening of the second session of the One Hundred First Congress
+  est_pages: 1
+  date_issued: '1989-12-12'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '1945'
+- granule_id: STATUTE-115-Pg10
+  package_id: STATUTE-115
+  volume: 115
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An act to extend for 11 additional months the period for which chapter 12 of title 11 of the United States Code is
+    reenacted
+  est_pages: 1
+  date_issued: '2001-05-11'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '10'
+- granule_id: STATUTE-97-Pg1387
+  package_id: STATUTE-97
+  volume: 97
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An act to designate the Federal building to be constructed in Savannah, Georgia, as the "Juliette Gordon Low Federal
+    Building"
+  est_pages: 3
+  date_issued: '1983-12-02'
+  pdf_pages: 3
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '1387'
+  - '1388'
+- granule_id: STATUTE-103-Pg936
+  package_id: STATUTE-103
+  volume: 103
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An act to revise and clarify the authority of the Administrator of General Services relating to the acquisition and
+    management of certain property in the city of New York
+  est_pages: 2
+  date_issued: '1989-11-16'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '936'
+  - '937'
+- granule_id: STATUTE-115-Pg1003
+  package_id: STATUTE-115
+  volume: 115
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: Administrative Simplification Compliance Act
+  est_pages: 6
+  date_issued: '2001-12-27'
+  pdf_pages: 6
+  pages:
+  - 3
+  - 5
+  stat_pages:
+  - '1005'
+  - '1007'
+- granule_id: STATUTE-97-Pg708
+  package_id: STATUTE-97
+  volume: 97
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: Challenge Grant Amendments of 1983
+  est_pages: 5
+  date_issued: '1983-09-26'
+  pdf_pages: 5
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '708'
+  - '709'
+- granule_id: STATUTE-103-Pg1839
+  package_id: STATUTE-103
+  volume: 103
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: Joint resolution providing for the appointment of Homer Alfred Neal of Michigan as a citizen regent of the Board
+    of Regents of the Smithsonian Institution
+  est_pages: 1
+  date_issued: '1989-12-07'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '1839'
+- granule_id: STATUTE-115-Pg2382
+  package_id: STATUTE-115
+  volume: 115
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: Office of Government Ethics Authorization Act of 2001
+  est_pages: 1
+  date_issued: '2002-01-15'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '2382'
+- granule_id: STATUTE-97-Pg57
+  package_id: STATUTE-97
+  volume: 97
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: Joint resolution to authorize and request the President to proclaim May, 1983 as "National Amateur Baseball Month"
+  est_pages: 2
+  date_issued: '1983-04-04'
+  pdf_pages: 2
+  pages:
+  - 1
+  - 2
+  stat_pages:
+  - '57'
+  - '58'
+- granule_id: STATUTE-103-Pg630
+  package_id: STATUTE-103
+  volume: 103
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: Joint resolution to designate the period commencing September 11, 1989, and ending on September 15, 1989, as "National
+    Historically Black Colleges Week"
+  est_pages: 1
+  date_issued: '1989-09-13'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '630'
+- granule_id: STATUTE-115-Pg210
+  package_id: STATUTE-115
+  volume: 115
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An act to provide further protections for the watershed of the Little Sandy River as part of the Bull Run Watershed
+    Management Unit, Oregon, and for other purposes
+  est_pages: 3
+  date_issued: '2001-08-20'
+  pdf_pages: 3
+  pages:
+  - 1
+  - 3
+  stat_pages:
+  - '210'
+  - '212'
+- granule_id: STATUTE-97-Pg290
+  package_id: STATUTE-97
+  volume: 97
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: Joint resolution designating September 22, 1983, as "American Business Women's Day."
+  est_pages: 1
+  date_issued: '1983-07-19'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '290'
+- granule_id: STATUTE-103-Pg763
+  package_id: STATUTE-103
+  volume: 103
+  period: 1976-2002
+  era: scanned-1951-2002
+  granule_class: PUBLICLAW
+  title: An act to name the Department of Veterans Affairs medical center in Leavenworth, Kansas, as the "Dwight D. Eisenhower
+    Department of Veterans Affairs Medical Center"
+  est_pages: 1
+  date_issued: '1989-10-24'
+  pdf_pages: 1
+  pages:
+  - 1
+  stat_pages:
+  - '763'
