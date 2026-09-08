@@ -280,6 +280,7 @@ class VlmTiming:
     input: Optional[str] = None
     input_sha256: Optional[str] = None
     started: Optional[str] = None
+    model_load_seconds: Optional[float] = None  # set on the first unit of a run: converter creation, download, load
     host: dict = field(default_factory=dict)
     versions: dict = field(default_factory=dict)
 
@@ -328,7 +329,9 @@ def make_vlm_converter(variant: VlmVariant, engine: str, num_threads: int = 2, o
 
     settings.debug.profile_pipeline_timings = True
     opts = _vlm_options(variant.name, num_threads=num_threads, engine=engine, ollama_url=ollama_url, repo_id=repo_id)
-    return DocumentConverter(format_options={InputFormat.PDF: PdfFormatOption(pipeline_options=opts, pipeline_cls=_pipeline_cls())})
+    converter = DocumentConverter(format_options={InputFormat.PDF: PdfFormatOption(pipeline_options=opts, pipeline_cls=_pipeline_cls())})
+    converter.initialize_pipeline(InputFormat.PDF)  # download and load the model now, not inside the first conversion
+    return converter
 
 
 def convert_pdf(pdf: Path | str, variant: VlmVariant, engine: str, converter, stem: Optional[str] = None,
@@ -484,12 +487,14 @@ def run_units(units: list[VlmUnit], variant: VlmVariant, engine: str, data_dir: 
     t_load = time.monotonic()
     converter = make_vlm_converter(variant, engine, num_threads=num_threads, ollama_url=ollama_url, repo_id=repo_id)
     started = time.monotonic()
+    load_seconds: Optional[float] = started - t_load
     for u, out in todo:
         if time_budget_s and time.monotonic() - started > time_budget_s:
             logger.warning("time budget reached; %s and later units not started", u.stem)
             break
         doc, timing = convert_pdf(u.pdf, variant, engine, converter, stem=u.stem, granule_id=u.granule_id)
         timing.spec = spec_info(variant, engine, repo_id)
+        timing.model_load_seconds, load_seconds = load_seconds, None
         timing.stats.update({"granule_class": u.granule_class, "era": u.era, "tier": u.tier})
         write_outputs(doc, timing, out)
         results.append(timing)
