@@ -1,0 +1,1197 @@
+{
+ "granule_id": "STATUTE-36-Pg355-2",
+ "package_id": "STATUTE-36",
+ "volume": 36,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act Making appropriations for the service of the Post-Office Department for the fiscal year ending June thirtieth, nineteen hundred and eleven, and for other purposes.",
+ "date_issued": "1910-05-12",
+ "pdf_page": 10,
+ "pdf_pages": 13,
+ "stat_page": "364",
+ "image": "data/gold/STATUTE-36-Pg355-2/p10.png",
+ "image_sha256": "acadfb0beff1876f47eed2a4ae5bf8f0325c7e616089693081f692c400668783",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "364\tSIXTY-FIRST CONGRESS.  SESS. II.  CH. 230.  1910."
+    },
+    {
+     "role": "body",
+     "text": "postal clerks, seventy-five thousand dollars, including rental of offices"
+    },
+    {
+     "role": "body",
+     "text": "for division headquarters, Railway Mail Service, in Washington,"
+    },
+    {
+     "role": "body",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "Per diem, etc., as-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sistant superintend-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ents."
+    },
+    {
+     "role": "body",
+     "text": "For per diem allowance of assistant superintendents while actually"
+    },
+    {
+     "role": "body",
+     "text": "traveling on official business away from their home, their official"
+    },
+    {
+     "role": "body",
+     "text": "domicile, and their headquarters, at a rate to be fixed by the"
+    },
+    {
+     "role": "body",
+     "text": "Postmaster-General, not to exceed four dollars per day, thirty"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars, and for their necessary official expenses not covered"
+    },
+    {
+     "role": "body",
+     "text": "by their per diem allowance, not exceeding three thousand six hun-"
+    },
+    {
+     "role": "body",
+     "text": "dred dollars; in all, thirty-three thousand six hundred dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Electric and cable"
+    },
+    {
+     "role": "sidenote",
+     "text": "car service."
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Compensation."
+    },
+    {
+     "role": "body",
+     "text": "For inland transportation of mail by electric and cable cars, seven"
+    },
+    {
+     "role": "body",
+     "text": "hundred and twenty thousand dollars: Provided, That the rate of"
+    },
+    {
+     "role": "body",
+     "text": "compensation to be paid per mile shall not exceed the rate now paid"
+    },
+    {
+     "role": "body",
+     "text": "to companies performing such service, except that the Postmaster-"
+    },
+    {
+     "role": "body",
+     "text": "General, in cases where the quantity of mail is large and the number"
+    },
+    {
+     "role": "body",
+     "text": "of exchange points numerous, may, in his discretion, authorize pay-"
+    },
+    {
+     "role": "body",
+     "text": "ment for closed-pouch service at a rate per mile not to exceed one-"
+    },
+    {
+     "role": "body",
+     "text": "third above the rate per mile now paid for closed-pouch service; and"
+    },
+    {
+     "role": "body",
+     "text": "for mail cars and apartments carrying the mails, not to exceed the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Outside of cities."
+    },
+    {
+     "role": "body",
+     "text": "rate of one cent per linear foot per car mile of travel: Provided further,"
+    },
+    {
+     "role": "body",
+     "text": "That the rates for electric-car service on routes over twenty miles in"
+    },
+    {
+     "role": "body",
+     "text": "length outside of cities shall not exceed the rates paid for service on"
+    },
+    {
+     "role": "sidenote",
+     "text": "Unusual conditions."
+    },
+    {
+     "role": "body",
+     "text": "steam railroads: Provided, however, That not to exceed ten thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars of the sum hereby appropriated may be expended, in the"
+    },
+    {
+     "role": "body",
+     "text": "discretion of the Postmaster-General where unusual conditions exist"
+    },
+    {
+     "role": "body",
+     "text": "or where such service will be more expeditious and efficient and at no"
+    },
+    {
+     "role": "sidenote",
+     "text": "Substitution of"
+    },
+    {
+     "role": "sidenote",
+     "text": "wagon service."
+    },
+    {
+     "role": "body",
+     "text": "greater cost than otherwise, and not to exceed one hundred thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars of this appropriation may be expended for regulation, screen,"
+    },
+    {
+     "role": "body",
+     "text": "or motor screen-wagon service which may be authorized in lieu of"
+    },
+    {
+     "role": "body",
+     "text": "electric or cable car service."
+    },
+    {
+     "role": "sidenote",
+     "text": "Foreign mails."
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Clerks on steam-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ships."
+    },
+    {
+     "role": "body",
+     "text": "For transportation of foreign mails, three million two hundred"
+    },
+    {
+     "role": "body",
+     "text": "and sixty-three thousand dollars: Provided, That the Postmaster-"
+    },
+    {
+     "role": "body",
+     "text": "General shall be authorized to expend such sums as may be necessary,"
+    },
+    {
+     "role": "body",
+     "text": "not exceeding one hundred and thirty thousand dollars, to cover"
+    },
+    {
+     "role": "body",
+     "text": "one-half of the cost of transportation, compensation, and expenses of"
+    },
+    {
+     "role": "body",
+     "text": "clerks to be employed in assorting and pouching mails in transit on"
+    },
+    {
+     "role": "body",
+     "text": "steamships between the United States and other postal administra-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Pier transfers, New"
+    },
+    {
+     "role": "sidenote",
+     "text": "York and San Fran-"
+    },
+    {
+     "role": "sidenote",
+     "text": "cisco."
+    },
+    {
+     "role": "body",
+     "text": "tions in the International Postal Union, and not exceeding eighty"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars for transferring the foreign mail from incoming"
+    },
+    {
+     "role": "body",
+     "text": "steamships in New York Bay to the steamship and railway piers, and"
+    },
+    {
+     "role": "body",
+     "text": "for transferring the foreign mail from incoming steamships in San"
+    },
+    {
+     "role": "body",
+     "text": "Francisco Bay to the piers; also for transferring the mail from steam-"
+    },
+    {
+     "role": "body",
+     "text": "ships performing service under contract for transporting United"
+    },
+    {
+     "role": "body",
+     "text": "States mail."
+    },
+    {
+     "role": "sidenote",
+     "text": "Assistant superin-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tendent."
+    },
+    {
+     "role": "body",
+     "text": "For assistant superintendent, division of foreign mails, with head-"
+    },
+    {
+     "role": "body",
+     "text": "quarters in New York, New York, two thousand five hundred dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Balances due for-"
+    },
+    {
+     "role": "sidenote",
+     "text": "eign countries."
+    },
+    {
+     "role": "body",
+     "text": "For balances due foreign countries, two hundred and thirty-five"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Travel, etc."
+    },
+    {
+     "role": "body",
+     "text": "For travel and miscellaneous expenses in the postal service, office of"
+    },
+    {
+     "role": "body",
+     "text": "the Second Assistant Postmaster-General, one thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Third Assistant"
+    },
+    {
+     "role": "sidenote",
+     "text": "Postmaster-General."
+    },
+    {
+     "role": "body",
+     "text": "OFFICE OF THE THIRD ASSISTANT POSTMASTER-GENERAL."
+    },
+    {
+     "role": "sidenote",
+     "text": "Stamps."
+    },
+    {
+     "role": "body",
+     "text": "For manufacture of adhesive postage stamps, special-delivery"
+    },
+    {
+     "role": "body",
+     "text": "stamps, books of stamps, and for coiling of stamps, six hundred and"
+    },
+    {
+     "role": "body",
+     "text": "twenty thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Stamped envelopes"
+    },
+    {
+     "role": "sidenote",
+     "text": "and wrappers."
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Printing name of"
+    },
+    {
+     "role": "sidenote",
+     "text": "sender, etc., prohib-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ited."
+    },
+    {
+     "role": "body",
+     "text": "For manufacture of stamped envelopes and newspaper wrappers,"
+    },
+    {
+     "role": "body",
+     "text": "one million four hundred thousand dollars: Provided, That no part of"
+    },
+    {
+     "role": "body",
+     "text": "the foregoing sum shall be used to print or have printed, or sell or offer"
+    },
+    {
+     "role": "body",
+     "text": "to sell any stamped envelope bearing upon it a printed direction giving"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2561,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0909,
+   "seconds": 74.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "364"
+    },
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CH. 230.  1910."
+    },
+    {
+     "role": "body",
+     "text": "postal clerks, seventy-five thousand dollars, including rental of offices"
+    },
+    {
+     "role": "body",
+     "text": "for division headquarters, Railway Mail Service, in Washington,"
+    },
+    {
+     "role": "body",
+     "text": "District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "Per diem, etc., as-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sistant superintend-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ents."
+    },
+    {
+     "role": "body",
+     "text": "For per diem allowance of assistant superintendents while actually"
+    },
+    {
+     "role": "body",
+     "text": "traveling on official business away from their home, their official"
+    },
+    {
+     "role": "body",
+     "text": "domicile, and their headquarters, at a rate to be fixed by the"
+    },
+    {
+     "role": "body",
+     "text": "Postmaster-General, not to exceed four dollars per day, thirty"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars, and for their necessary official expenses not covered"
+    },
+    {
+     "role": "body",
+     "text": "by their per diem allowance, not exceeding three thousand six hun-"
+    },
+    {
+     "role": "body",
+     "text": "dred dollars; in all, thirty-three thousand six hundred dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Electric and cable"
+    },
+    {
+     "role": "sidenote",
+     "text": "car service."
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Compensation."
+    },
+    {
+     "role": "body",
+     "text": "For inland transportation of mail by electric and cable cars, seven"
+    },
+    {
+     "role": "body",
+     "text": "hundred and twenty thousand dollars: Provided, That the rate of"
+    },
+    {
+     "role": "body",
+     "text": "compensation to be paid per mile shall not exceed the rate now paid"
+    },
+    {
+     "role": "body",
+     "text": "to companies performing such service, except that the Postmaster-"
+    },
+    {
+     "role": "body",
+     "text": "General, in cases where the quantity of mail is large and the number"
+    },
+    {
+     "role": "body",
+     "text": "of exchange points numerous, may, in his discretion, authorize pay-"
+    },
+    {
+     "role": "body",
+     "text": "ment for closed-pouch service at a rate per mile not to exceed one-"
+    },
+    {
+     "role": "body",
+     "text": "third above the rate per mile now paid for closed-pouch service; and"
+    },
+    {
+     "role": "body",
+     "text": "for mail cars and apartments carrying the mails, not to exceed the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Outside of cities."
+    },
+    {
+     "role": "body",
+     "text": "rate of one cent per linear foot per car mile of travel: Provided further,"
+    },
+    {
+     "role": "body",
+     "text": "That the rates for electric-car service on routes over twenty miles in"
+    },
+    {
+     "role": "body",
+     "text": "length outside of cities shall not exceed the rates paid for service on"
+    },
+    {
+     "role": "sidenote",
+     "text": "Unusual conditions."
+    },
+    {
+     "role": "body",
+     "text": "steam railroads: Provided, however, That not to exceed ten thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars of the sum hereby appropriated may be expended, in the"
+    },
+    {
+     "role": "body",
+     "text": "discretion of the Postmaster-General where unusual conditions exist"
+    },
+    {
+     "role": "body",
+     "text": "or where such service will be more expeditious and efficient and at no"
+    },
+    {
+     "role": "sidenote",
+     "text": "Substitution of"
+    },
+    {
+     "role": "sidenote",
+     "text": "wagon service."
+    },
+    {
+     "role": "body",
+     "text": "greater cost than otherwise, and not to exceed one hundred thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars of this appropriation may be expended for regulation, screen,"
+    },
+    {
+     "role": "body",
+     "text": "or motor screen-wagon service which may be authorized in lieu of"
+    },
+    {
+     "role": "body",
+     "text": "electric or cable car service."
+    },
+    {
+     "role": "sidenote",
+     "text": "Foreign mails."
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Clerks on steam-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ships."
+    },
+    {
+     "role": "body",
+     "text": "For transportation of foreign mails, three million two hundred"
+    },
+    {
+     "role": "body",
+     "text": "and sixty-three thousand dollars: Provided, That the Postmaster-"
+    },
+    {
+     "role": "body",
+     "text": "General shall be authorized to expend such sums as may be necessary,"
+    },
+    {
+     "role": "body",
+     "text": "not exceeding one hundred and thirty thousand dollars, to cover"
+    },
+    {
+     "role": "body",
+     "text": "one-half of the cost of transportation, compensation, and expenses of"
+    },
+    {
+     "role": "body",
+     "text": "clerks to be employed in assorting and pouching mails in transit on"
+    },
+    {
+     "role": "body",
+     "text": "steamships between the United States and other postal administra-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Pier transfers, New"
+    },
+    {
+     "role": "sidenote",
+     "text": "York and San Fran-"
+    },
+    {
+     "role": "sidenote",
+     "text": "cisco."
+    },
+    {
+     "role": "body",
+     "text": "tions in the International Postal Union, and not exceeding eighty"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars for transferring the foreign mail from incoming"
+    },
+    {
+     "role": "body",
+     "text": "steamships in New York Bay to the steamship and railway piers, and"
+    },
+    {
+     "role": "body",
+     "text": "for transferring the foreign mail from incoming steamships in San"
+    },
+    {
+     "role": "body",
+     "text": "Francisco Bay to the piers; also for transferring the mail from steam-"
+    },
+    {
+     "role": "body",
+     "text": "ships performing service under contract for transporting United"
+    },
+    {
+     "role": "body",
+     "text": "States mail."
+    },
+    {
+     "role": "sidenote",
+     "text": "Assistant superin-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tendent."
+    },
+    {
+     "role": "body",
+     "text": "For assistant superintendent, division of foreign mails, with head-"
+    },
+    {
+     "role": "body",
+     "text": "quarters in New York, New York, two thousand five hundred dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Balances due for-"
+    },
+    {
+     "role": "sidenote",
+     "text": "eign countries."
+    },
+    {
+     "role": "body",
+     "text": "For balances due foreign countries, two hundred and thirty-five"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Travel, etc."
+    },
+    {
+     "role": "body",
+     "text": "For travel and miscellaneous expenses in the postal service, office of"
+    },
+    {
+     "role": "body",
+     "text": "the Second Assistant Postmaster-General, one thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Third Assistant"
+    },
+    {
+     "role": "sidenote",
+     "text": "Postmaster-General."
+    },
+    {
+     "role": "body",
+     "text": "OFFICE OF THE THIRD ASSISTANT POSTMASTER-GENERAL."
+    },
+    {
+     "role": "sidenote",
+     "text": "Stamps."
+    },
+    {
+     "role": "body",
+     "text": "For manufacture of adhesive postage stamps, special-delivery"
+    },
+    {
+     "role": "body",
+     "text": "stamps, books of stamps, and for coiling of stamps, six hundred and"
+    },
+    {
+     "role": "body",
+     "text": "twenty thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Stamped envelopes"
+    },
+    {
+     "role": "sidenote",
+     "text": "and wrappers."
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Printing name of"
+    },
+    {
+     "role": "sidenote",
+     "text": "sender, etc., prohib-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ited."
+    },
+    {
+     "role": "body",
+     "text": "For manufacture of stamped envelopes and newspaper wrappers,"
+    },
+    {
+     "role": "body",
+     "text": "one million four hundred thousand dollars: Provided, That no part of"
+    },
+    {
+     "role": "body",
+     "text": "the foregoing sum shall be used to print or have printed, or sell or offer"
+    },
+    {
+     "role": "body",
+     "text": "to sell any stamped envelope bearing upon it a printed direction giving"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2573,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09119,
+   "seconds": 97.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11899,
+   "output_tokens": 117,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06284,
+  "seconds": 132.7,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "364\tSIXTY-FIRST CONGRESS.  SESS. II.  CH. 230.  1910.",
+    "b": "364\nSIXTY-FIRST CONGRESS.  SESS. II.  CH. 230.  1910.",
+    "kept": "364\nSIXTY-FIRST CONGRESS.  SESS. II.  CH. 230.  1910.",
+    "reason": "The page number is a separate element at the left margin, distinct from the centered running head."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "364"
+  },
+  {
+   "role": "running-head",
+   "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CH. 230.  1910."
+  },
+  {
+   "role": "body",
+   "text": "postal clerks, seventy-five thousand dollars, including rental of offices"
+  },
+  {
+   "role": "body",
+   "text": "for division headquarters, Railway Mail Service, in Washington,"
+  },
+  {
+   "role": "body",
+   "text": "District of Columbia."
+  },
+  {
+   "role": "sidenote",
+   "text": "Per diem, etc., as-"
+  },
+  {
+   "role": "sidenote",
+   "text": "sistant superintend-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ents."
+  },
+  {
+   "role": "body",
+   "text": "For per diem allowance of assistant superintendents while actually"
+  },
+  {
+   "role": "body",
+   "text": "traveling on official business away from their home, their official"
+  },
+  {
+   "role": "body",
+   "text": "domicile, and their headquarters, at a rate to be fixed by the"
+  },
+  {
+   "role": "body",
+   "text": "Postmaster-General, not to exceed four dollars per day, thirty"
+  },
+  {
+   "role": "body",
+   "text": "thousand dollars, and for their necessary official expenses not covered"
+  },
+  {
+   "role": "body",
+   "text": "by their per diem allowance, not exceeding three thousand six hun-"
+  },
+  {
+   "role": "body",
+   "text": "dred dollars; in all, thirty-three thousand six hundred dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Electric and cable"
+  },
+  {
+   "role": "sidenote",
+   "text": "car service."
+  },
+  {
+   "role": "sidenote",
+   "text": "Provisos."
+  },
+  {
+   "role": "sidenote",
+   "text": "Compensation."
+  },
+  {
+   "role": "body",
+   "text": "For inland transportation of mail by electric and cable cars, seven"
+  },
+  {
+   "role": "body",
+   "text": "hundred and twenty thousand dollars: Provided, That the rate of"
+  },
+  {
+   "role": "body",
+   "text": "compensation to be paid per mile shall not exceed the rate now paid"
+  },
+  {
+   "role": "body",
+   "text": "to companies performing such service, except that the Postmaster-"
+  },
+  {
+   "role": "body",
+   "text": "General, in cases where the quantity of mail is large and the number"
+  },
+  {
+   "role": "body",
+   "text": "of exchange points numerous, may, in his discretion, authorize pay-"
+  },
+  {
+   "role": "body",
+   "text": "ment for closed-pouch service at a rate per mile not to exceed one-"
+  },
+  {
+   "role": "body",
+   "text": "third above the rate per mile now paid for closed-pouch service; and"
+  },
+  {
+   "role": "body",
+   "text": "for mail cars and apartments carrying the mails, not to exceed the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Outside of cities."
+  },
+  {
+   "role": "body",
+   "text": "rate of one cent per linear foot per car mile of travel: Provided further,"
+  },
+  {
+   "role": "body",
+   "text": "That the rates for electric-car service on routes over twenty miles in"
+  },
+  {
+   "role": "body",
+   "text": "length outside of cities shall not exceed the rates paid for service on"
+  },
+  {
+   "role": "sidenote",
+   "text": "Unusual conditions."
+  },
+  {
+   "role": "body",
+   "text": "steam railroads: Provided, however, That not to exceed ten thousand"
+  },
+  {
+   "role": "body",
+   "text": "dollars of the sum hereby appropriated may be expended, in the"
+  },
+  {
+   "role": "body",
+   "text": "discretion of the Postmaster-General where unusual conditions exist"
+  },
+  {
+   "role": "body",
+   "text": "or where such service will be more expeditious and efficient and at no"
+  },
+  {
+   "role": "sidenote",
+   "text": "Substitution of"
+  },
+  {
+   "role": "sidenote",
+   "text": "wagon service."
+  },
+  {
+   "role": "body",
+   "text": "greater cost than otherwise, and not to exceed one hundred thousand"
+  },
+  {
+   "role": "body",
+   "text": "dollars of this appropriation may be expended for regulation, screen,"
+  },
+  {
+   "role": "body",
+   "text": "or motor screen-wagon service which may be authorized in lieu of"
+  },
+  {
+   "role": "body",
+   "text": "electric or cable car service."
+  },
+  {
+   "role": "sidenote",
+   "text": "Foreign mails."
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "sidenote",
+   "text": "Clerks on steam-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ships."
+  },
+  {
+   "role": "body",
+   "text": "For transportation of foreign mails, three million two hundred"
+  },
+  {
+   "role": "body",
+   "text": "and sixty-three thousand dollars: Provided, That the Postmaster-"
+  },
+  {
+   "role": "body",
+   "text": "General shall be authorized to expend such sums as may be necessary,"
+  },
+  {
+   "role": "body",
+   "text": "not exceeding one hundred and thirty thousand dollars, to cover"
+  },
+  {
+   "role": "body",
+   "text": "one-half of the cost of transportation, compensation, and expenses of"
+  },
+  {
+   "role": "body",
+   "text": "clerks to be employed in assorting and pouching mails in transit on"
+  },
+  {
+   "role": "body",
+   "text": "steamships between the United States and other postal administra-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Pier transfers, New"
+  },
+  {
+   "role": "sidenote",
+   "text": "York and San Fran-"
+  },
+  {
+   "role": "sidenote",
+   "text": "cisco."
+  },
+  {
+   "role": "body",
+   "text": "tions in the International Postal Union, and not exceeding eighty"
+  },
+  {
+   "role": "body",
+   "text": "thousand dollars for transferring the foreign mail from incoming"
+  },
+  {
+   "role": "body",
+   "text": "steamships in New York Bay to the steamship and railway piers, and"
+  },
+  {
+   "role": "body",
+   "text": "for transferring the foreign mail from incoming steamships in San"
+  },
+  {
+   "role": "body",
+   "text": "Francisco Bay to the piers; also for transferring the mail from steam-"
+  },
+  {
+   "role": "body",
+   "text": "ships performing service under contract for transporting United"
+  },
+  {
+   "role": "body",
+   "text": "States mail."
+  },
+  {
+   "role": "sidenote",
+   "text": "Assistant superin-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tendent."
+  },
+  {
+   "role": "body",
+   "text": "For assistant superintendent, division of foreign mails, with head-"
+  },
+  {
+   "role": "body",
+   "text": "quarters in New York, New York, two thousand five hundred dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Balances due for-"
+  },
+  {
+   "role": "sidenote",
+   "text": "eign countries."
+  },
+  {
+   "role": "body",
+   "text": "For balances due foreign countries, two hundred and thirty-five"
+  },
+  {
+   "role": "body",
+   "text": "thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Travel, etc."
+  },
+  {
+   "role": "body",
+   "text": "For travel and miscellaneous expenses in the postal service, office of"
+  },
+  {
+   "role": "body",
+   "text": "the Second Assistant Postmaster-General, one thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Third Assistant"
+  },
+  {
+   "role": "sidenote",
+   "text": "Postmaster-General."
+  },
+  {
+   "role": "body",
+   "text": "OFFICE OF THE THIRD ASSISTANT POSTMASTER-GENERAL."
+  },
+  {
+   "role": "sidenote",
+   "text": "Stamps."
+  },
+  {
+   "role": "body",
+   "text": "For manufacture of adhesive postage stamps, special-delivery"
+  },
+  {
+   "role": "body",
+   "text": "stamps, books of stamps, and for coiling of stamps, six hundred and"
+  },
+  {
+   "role": "body",
+   "text": "twenty thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "Stamped envelopes"
+  },
+  {
+   "role": "sidenote",
+   "text": "and wrappers."
+  },
+  {
+   "role": "sidenote",
+   "text": "Provisos."
+  },
+  {
+   "role": "sidenote",
+   "text": "Printing name of"
+  },
+  {
+   "role": "sidenote",
+   "text": "sender, etc., prohib-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ited."
+  },
+  {
+   "role": "body",
+   "text": "For manufacture of stamped envelopes and newspaper wrappers,"
+  },
+  {
+   "role": "body",
+   "text": "one million four hundred thousand dollars: Provided, That no part of"
+  },
+  {
+   "role": "body",
+   "text": "the foregoing sum shall be used to print or have printed, or sell or offer"
+  },
+  {
+   "role": "body",
+   "text": "to sell any stamped envelope bearing upon it a printed direction giving"
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 22498,
+  "output_tokens": 5251,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.24493,
+ "seconds": 304.3,
+ "created": "2026-09-08T11:48:11"
+}

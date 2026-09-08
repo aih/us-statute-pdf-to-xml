@@ -1,0 +1,393 @@
+{
+ "granule_id": "STATUTE-103-Pg1839",
+ "package_id": "STATUTE-103",
+ "volume": 103,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Joint resolution providing for the appointment of Homer Alfred Neal of Michigan as a citizen regent of the Board of Regents of the Smithsonian Institution",
+ "date_issued": "1989-12-07",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "1839",
+ "image": "data/gold/STATUTE-103-Pg1839/p1.png",
+ "image_sha256": "c698a4c0b46b078b1306e92e2c254629a663620e6262177623f037826516c5d2",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 101-210—DEC. 7, 1989          103 STAT. 1839"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 101-210"
+    },
+    {
+     "role": "body",
+     "text": "101st Congress"
+    },
+    {
+     "role": "body",
+     "text": "Joint Resolution"
+    },
+    {
+     "role": "body",
+     "text": "Providing for the appointment of Homer Alfred Neal as a citizen regent of the Board"
+    },
+    {
+     "role": "sidenote",
+     "text": "Dec. 7, 1989"
+    },
+    {
+     "role": "body",
+     "text": "of Regents of the Smithsonian Institution."
+    },
+    {
+     "role": "sidenote",
+     "text": "[S.J. Res. 203]"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That, in accordance with"
+    },
+    {
+     "role": "body",
+     "text": "Section 5581 of the Revised Statutes of the United States (20 U.S.C."
+    },
+    {
+     "role": "body",
+     "text": "43), the vacancy on the Board of Regents of the Smithsonian Institu-"
+    },
+    {
+     "role": "body",
+     "text": "tion, in the class other than Members of Congress, occurring by"
+    },
+    {
+     "role": "body",
+     "text": "reason of the resignation of Murray Gell-Mann of California on"
+    },
+    {
+     "role": "body",
+     "text": "September 13, 1988, is filled by the appointment of Homer Alfred"
+    },
+    {
+     "role": "body",
+     "text": "Neal of Michigan. The appointment is for a term of six years,"
+    },
+    {
+     "role": "body",
+     "text": "beginning on the date on which this joint resolution becomes law."
+    },
+    {
+     "role": "body",
+     "text": "Approved December 7, 1989."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—S.J. Res. 203:"
+    },
+    {
+     "role": "footnote",
+     "text": "SENATE REPORTS: No. 101-149 (Comm. on Rules and Administration)."
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+    },
+    {
+     "role": "footnote",
+     "text": "Oct. 2, considered and passed Senate."
+    },
+    {
+     "role": "footnote",
+     "text": "Nov. 17, considered and passed House, amended."
+    },
+    {
+     "role": "footnote",
+     "text": "Nov. 19, Senate concurred in House amendments."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 825,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0475,
+   "seconds": 41.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 101-210—DEC. 7, 1989"
+    },
+    {
+     "role": "running-head",
+     "text": "103 STAT. 1839"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 101-210"
+    },
+    {
+     "role": "body",
+     "text": "101st Congress"
+    },
+    {
+     "role": "body",
+     "text": "Joint Resolution"
+    },
+    {
+     "role": "body",
+     "text": "Providing for the appointment of Homer Alfred Neal as a citizen regent of the Board"
+    },
+    {
+     "role": "sidenote",
+     "text": "Dec. 7, 1989"
+    },
+    {
+     "role": "body",
+     "text": "of Regents of the Smithsonian Institution."
+    },
+    {
+     "role": "sidenote",
+     "text": "[S.J. Res. 203]"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That, in accordance with"
+    },
+    {
+     "role": "body",
+     "text": "Section 5581 of the Revised Statutes of the United States (20 U.S.C."
+    },
+    {
+     "role": "body",
+     "text": "43), the vacancy on the Board of Regents of the Smithsonian Institu-"
+    },
+    {
+     "role": "body",
+     "text": "tion, in the class other than Members of Congress, occurring by"
+    },
+    {
+     "role": "body",
+     "text": "reason of the resignation of Murray Gell-Mann of California on"
+    },
+    {
+     "role": "body",
+     "text": "September 13, 1988, is filled by the appointment of Homer Alfred"
+    },
+    {
+     "role": "body",
+     "text": "Neal of Michigan. The appointment is for a term of six years,"
+    },
+    {
+     "role": "body",
+     "text": "beginning on the date on which this joint resolution becomes law."
+    },
+    {
+     "role": "body",
+     "text": "Approved December 7, 1989."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—S.J. Res. 203:"
+    },
+    {
+     "role": "footnote",
+     "text": "SENATE REPORTS: No. 101-149 (Comm. on Rules and Administration)."
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+    },
+    {
+     "role": "footnote",
+     "text": "Oct. 2, considered and passed Senate."
+    },
+    {
+     "role": "footnote",
+     "text": "Nov. 17, considered and passed House, amended."
+    },
+    {
+     "role": "footnote",
+     "text": "Nov. 19, Senate concurred in House amendments."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 786,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.04652,
+   "seconds": 12.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 8891,
+   "output_tokens": 119,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.04785,
+  "seconds": 53.4,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "PUBLIC LAW 101-210—DEC. 7, 1989          103 STAT. 1839",
+    "b": "PUBLIC LAW 101-210—DEC. 7, 1989\n103 STAT. 1839",
+    "kept": "PUBLIC LAW 101-210—DEC. 7, 1989\n103 STAT. 1839",
+    "reason": "The header line contains the running head at center and the volume/page citation at right, which is the page number element."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 101-210—DEC. 7, 1989"
+  },
+  {
+   "role": "page-number",
+   "text": "103 STAT. 1839"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 101-210"
+  },
+  {
+   "role": "body",
+   "text": "101st Congress"
+  },
+  {
+   "role": "body",
+   "text": "Joint Resolution"
+  },
+  {
+   "role": "body",
+   "text": "Providing for the appointment of Homer Alfred Neal as a citizen regent of the Board"
+  },
+  {
+   "role": "sidenote",
+   "text": "Dec. 7, 1989"
+  },
+  {
+   "role": "body",
+   "text": "of Regents of the Smithsonian Institution."
+  },
+  {
+   "role": "sidenote",
+   "text": "[S.J. Res. 203]"
+  },
+  {
+   "role": "body",
+   "text": "Resolved by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That, in accordance with"
+  },
+  {
+   "role": "body",
+   "text": "Section 5581 of the Revised Statutes of the United States (20 U.S.C."
+  },
+  {
+   "role": "body",
+   "text": "43), the vacancy on the Board of Regents of the Smithsonian Institu-"
+  },
+  {
+   "role": "body",
+   "text": "tion, in the class other than Members of Congress, occurring by"
+  },
+  {
+   "role": "body",
+   "text": "reason of the resignation of Murray Gell-Mann of California on"
+  },
+  {
+   "role": "body",
+   "text": "September 13, 1988, is filled by the appointment of Homer Alfred"
+  },
+  {
+   "role": "body",
+   "text": "Neal of Michigan. The appointment is for a term of six years,"
+  },
+  {
+   "role": "body",
+   "text": "beginning on the date on which this joint resolution becomes law."
+  },
+  {
+   "role": "body",
+   "text": "Approved December 7, 1989."
+  },
+  {
+   "role": "footnote",
+   "text": "LEGISLATIVE HISTORY—S.J. Res. 203:"
+  },
+  {
+   "role": "footnote",
+   "text": "SENATE REPORTS: No. 101-149 (Comm. on Rules and Administration)."
+  },
+  {
+   "role": "footnote",
+   "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+  },
+  {
+   "role": "footnote",
+   "text": "Oct. 2, considered and passed Senate."
+  },
+  {
+   "role": "footnote",
+   "text": "Nov. 17, considered and passed House, amended."
+  },
+  {
+   "role": "footnote",
+   "text": "Nov. 19, Senate concurred in House amendments."
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 19490,
+  "output_tokens": 1730,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.14187,
+ "seconds": 107.1,
+ "created": "2026-09-08T12:22:21"
+}

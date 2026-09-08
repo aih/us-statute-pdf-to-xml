@@ -1,0 +1,1332 @@
+{
+ "granule_id": "STATUTE-17-Pg409-3",
+ "package_id": "STATUTE-17",
+ "volume": 17,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act authorizing the East Chester National Bank of Mount Vernon to change its Location and Name.",
+ "date_issued": "1873-01-11",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "410",
+ "image": "data/gold/STATUTE-17-Pg409-3/p2.png",
+ "image_sha256": "d3f10e260d62f4a8d4855f510d55bf8cda7d8002ab366cd09323924a2d0b6057",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "410                    FORTY–SECOND CONGRESS.  SESS. III.  CH. 34, 35.  1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Rights and li-"
+    },
+    {
+     "role": "sidenote",
+     "text": "abilities of bank"
+    },
+    {
+     "role": "sidenote",
+     "text": "not affected."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That nothing in this act contained shall be so construed as in"
+    },
+    {
+     "role": "body",
+     "text": "any manner to release the said bank from any liability, or affect any action"
+    },
+    {
+     "role": "body",
+     "text": "or proceeding in law in which the said bank may be a party or interested."
+    },
+    {
+     "role": "sidenote",
+     "text": "Change to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "advertised."
+    },
+    {
+     "role": "body",
+     "text": "And when such change shall have been determined upon as aforesaid, notice"
+    },
+    {
+     "role": "body",
+     "text": "thereof, and of such change, shall be published in one weekly paper in the"
+    },
+    {
+     "role": "body",
+     "text": "village of Mount Vernon not less than four weeks."
+    },
+    {
+     "role": "sidenote",
+     "text": "When location"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That whenever the location of said bank shall have been"
+    },
+    {
+     "role": "sidenote",
+     "text": "is changed, name"
+    },
+    {
+     "role": "body",
+     "text": "changed from the village of Mount Vernon to the city of Evansville, in"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be German"
+    },
+    {
+     "role": "sidenote",
+     "text": "National Bank of"
+    },
+    {
+     "role": "body",
+     "text": "accordance with the first section of this act, its name shall be changed to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Evansville, if, &c."
+    },
+    {
+     "role": "body",
+     "text": "the German National Bank of Evansville, if the board of directors of said"
+    },
+    {
+     "role": "body",
+     "text": "bank shall accept the new name by resolution of the board, and cause a"
+    },
+    {
+     "role": "body",
+     "text": "copy of such resolution, duly authenticated, to be filed with the comptroller"
+    },
+    {
+     "role": "body",
+     "text": "of the currency."
+    },
+    {
+     "role": "sidenote",
+     "text": "Rights, liabili-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. That all the debts, demands, liabilities, rights, privileges, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "ties, &c., to con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tinue on the bank"
+    },
+    {
+     "role": "body",
+     "text": "powers of the East Chester National Bank of Mount Vernon shall devolve"
+    },
+    {
+     "role": "sidenote",
+     "text": "under the new"
+    },
+    {
+     "role": "body",
+     "text": "upon the German National Bank of Evansville whenever the change of"
+    },
+    {
+     "role": "sidenote",
+     "text": "name."
+    },
+    {
+     "role": "body",
+     "text": "location and name as provided in the first section of this act shall be"
+    },
+    {
+     "role": "body",
+     "text": "effected."
+    },
+    {
+     "role": "sidenote",
+     "text": "When act takes"
+    },
+    {
+     "role": "sidenote",
+     "text": "effect."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. That this act shall take effect and be in force from and after"
+    },
+    {
+     "role": "body",
+     "text": "the date of its passage."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 11, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 11, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXIV. — An Act to authorize the Employment of Keepers, and Crews of Surf-"
+    },
+    {
+     "role": "body",
+     "text": "men for the life-saving Stations on the Coasts of Cape Cod, and Block Island, and for"
+    },
+    {
+     "role": "body",
+     "text": "other Purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary of"
+    },
+    {
+     "role": "sidenote",
+     "text": "the Treasury to"
+    },
+    {
+     "role": "sidenote",
+     "text": "appoint keepers"
+    },
+    {
+     "role": "sidenote",
+     "text": "and crews for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "life-saving sta-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tions on Cape"
+    },
+    {
+     "role": "sidenote",
+     "text": "Cod and Block"
+    },
+    {
+     "role": "sidenote",
+     "text": "Island:"
+    },
+    {
+     "role": "sidenote",
+     "text": "their pay."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the Treas-"
+    },
+    {
+     "role": "body",
+     "text": "ury be, and hereby is, authorized to appoint a keeper for each of the ten"
+    },
+    {
+     "role": "body",
+     "text": "life-saving stations on the coasts of Cape Cod, Massachusetts, and Block"
+    },
+    {
+     "role": "body",
+     "text": "Island, Rhode Island, whose compensation shall be at the rate of two hun-"
+    },
+    {
+     "role": "body",
+     "text": "dred dollars per annum, and to employ crews of experienced surfmen at"
+    },
+    {
+     "role": "body",
+     "text": "such stations and for such periods as he may deem necessary and proper,"
+    },
+    {
+     "role": "body",
+     "text": "and at such compensation as he may deem reasonable, not to exceed forty"
+    },
+    {
+     "role": "body",
+     "text": "dollars per month for each person to be employed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Stations to"
+    },
+    {
+     "role": "sidenote",
+     "text": "be under whose"
+    },
+    {
+     "role": "sidenote",
+     "text": "supervision."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That the life-saving stations at Narragansett Pier, and Block"
+    },
+    {
+     "role": "body",
+     "text": "Island, Rhode Island, are hereby placed under the supervision of the"
+    },
+    {
+     "role": "body",
+     "text": "superintendent of life-saving stations for the coast of Long Island."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That the sum of two thousand dollars is hereby appropriated,"
+    },
+    {
+     "role": "body",
+     "text": "out of any money in the treasury not otherwise appropriated, to carry out"
+    },
+    {
+     "role": "body",
+     "text": "the provisions of this act during the current fiscal year."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 11, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 15, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "1872, ch. 322, §12."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 264."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXV. — An Act to amend Section twelve of an Act entitled “ An Act to author-"
+    },
+    {
+     "role": "body",
+     "text": "ize the Appointment of Shipping-Commissioners,” &c., approved June seven, eighteen hun-"
+    },
+    {
+     "role": "body",
+     "text": "dred and seventy-two."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Law requiring"
+    },
+    {
+     "role": "sidenote",
+     "text": "masters of certain"
+    },
+    {
+     "role": "sidenote",
+     "text": "vessels to make a"
+    },
+    {
+     "role": "sidenote",
+     "text": "written agree-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment with sea-"
+    },
+    {
+     "role": "sidenote",
+     "text": "men, before, &c.,"
+    },
+    {
+     "role": "sidenote",
+     "text": "not to apply to"
+    },
+    {
+     "role": "sidenote",
+     "text": "vessels engaged"
+    },
+    {
+     "role": "sidenote",
+     "text": "in certain trade."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That section twelve of the act"
+    },
+    {
+     "role": "body",
+     "text": "entitled “ An act to authorize the appointment of shipping-commis-"
+    },
+    {
+     "role": "body",
+     "text": "sioners,” &c., approved June seven, eighteen hundred and seventy-two,"
+    },
+    {
+     "role": "body",
+     "text": "be amended by adding to said section the following proviso : “ Provided"
+    },
+    {
+     "role": "body",
+     "text": "further, That this section shall not apply to masters of vessels when"
+    },
+    {
+     "role": "body",
+     "text": "engaged in trade between the United States and the British North"
+    },
+    {
+     "role": "body",
+     "text": "American possessions, or the West India Islands, or the Republic of"
+    },
+    {
+     "role": "body",
+     "text": "Mexico.”"
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 15, 1873."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2692,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09417,
+   "seconds": 140.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "410"
+    },
+    {
+     "role": "running-head",
+     "text": "FORTY-SECOND CONGRESS.  SESS. III.  CH. 34, 35.  1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Rights and li-"
+    },
+    {
+     "role": "sidenote",
+     "text": "abilities of bank"
+    },
+    {
+     "role": "sidenote",
+     "text": "not affected."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That nothing in this act contained shall be so construed as in"
+    },
+    {
+     "role": "body",
+     "text": "any manner to release the said bank from any liability, or affect any action"
+    },
+    {
+     "role": "body",
+     "text": "or proceeding in law in which the said bank may be a party or interested."
+    },
+    {
+     "role": "sidenote",
+     "text": "Change to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "advertised."
+    },
+    {
+     "role": "body",
+     "text": "And when such change shall have been determined upon as aforesaid, notice"
+    },
+    {
+     "role": "body",
+     "text": "thereof, and of such change, shall be published in one weekly paper in the"
+    },
+    {
+     "role": "body",
+     "text": "village of Mount Vernon not less than four weeks."
+    },
+    {
+     "role": "sidenote",
+     "text": "When location"
+    },
+    {
+     "role": "sidenote",
+     "text": "is changed, name"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be German"
+    },
+    {
+     "role": "sidenote",
+     "text": "National Bank of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Evansville, if, &c."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That whenever the location of said bank shall have been"
+    },
+    {
+     "role": "body",
+     "text": "changed from the village of Mount Vernon to the city of Evansville, in"
+    },
+    {
+     "role": "body",
+     "text": "accordance with the first section of this act, its name shall be changed to"
+    },
+    {
+     "role": "body",
+     "text": "the German National Bank of Evansville, if the board of directors of said"
+    },
+    {
+     "role": "body",
+     "text": "bank shall accept the new name by resolution of the board, and cause a"
+    },
+    {
+     "role": "body",
+     "text": "copy of such resolution, duly authenticated, to be filed with the comptroller"
+    },
+    {
+     "role": "body",
+     "text": "of the currency."
+    },
+    {
+     "role": "sidenote",
+     "text": "Rights, liabili-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ties, &c., to con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tinue on the bank"
+    },
+    {
+     "role": "sidenote",
+     "text": "under the new"
+    },
+    {
+     "role": "sidenote",
+     "text": "name."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. That all the debts, demands, liabilities, rights, privileges, and"
+    },
+    {
+     "role": "body",
+     "text": "powers of the East Chester National Bank of Mount Vernon shall devolve"
+    },
+    {
+     "role": "body",
+     "text": "upon the German National Bank of Evansville whenever the change of"
+    },
+    {
+     "role": "body",
+     "text": "location and name as provided in the first section of this act shall be"
+    },
+    {
+     "role": "body",
+     "text": "effected."
+    },
+    {
+     "role": "sidenote",
+     "text": "When act takes"
+    },
+    {
+     "role": "sidenote",
+     "text": "effect."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. That this act shall take effect and be in force from and after"
+    },
+    {
+     "role": "body",
+     "text": "the date of its passage."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 11, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 11, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXIV. — An Act to authorize the Employment of Keepers, and Crews of Surf-"
+    },
+    {
+     "role": "body",
+     "text": "men for the life-saving Stations on the Coasts of Cape Cod, and Block Island, and for"
+    },
+    {
+     "role": "body",
+     "text": "other Purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary of"
+    },
+    {
+     "role": "sidenote",
+     "text": "the Treasury to"
+    },
+    {
+     "role": "sidenote",
+     "text": "appoint keepers"
+    },
+    {
+     "role": "sidenote",
+     "text": "and crews for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "life-saving sta-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tions on Cape"
+    },
+    {
+     "role": "sidenote",
+     "text": "Cod and Block"
+    },
+    {
+     "role": "sidenote",
+     "text": "Island:"
+    },
+    {
+     "role": "sidenote",
+     "text": "their pay."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the Treas-"
+    },
+    {
+     "role": "body",
+     "text": "ury be, and hereby is, authorized to appoint a keeper for each of the ten"
+    },
+    {
+     "role": "body",
+     "text": "life-saving stations on the coasts of Cape Cod, Massachusetts, and Block"
+    },
+    {
+     "role": "body",
+     "text": "Island, Rhode Island, whose compensation shall be at the rate of two hun-"
+    },
+    {
+     "role": "body",
+     "text": "dred dollars per annum, and to employ crews of experienced surfmen at"
+    },
+    {
+     "role": "body",
+     "text": "such stations and for such periods as he may deem necessary and proper,"
+    },
+    {
+     "role": "body",
+     "text": "and at such compensation as he may deem reasonable, not to exceed forty"
+    },
+    {
+     "role": "body",
+     "text": "dollars per month for each person to be employed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Stations to"
+    },
+    {
+     "role": "sidenote",
+     "text": "be under whose"
+    },
+    {
+     "role": "sidenote",
+     "text": "supervision."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That the life-saving stations at Narragansett Pier, and Block"
+    },
+    {
+     "role": "body",
+     "text": "Island, Rhode Island, are hereby placed under the supervision of the"
+    },
+    {
+     "role": "body",
+     "text": "superintendent of life-saving stations for the coast of Long Island."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That the sum of two thousand dollars is hereby appropriated,"
+    },
+    {
+     "role": "body",
+     "text": "out of any money in the treasury not otherwise appropriated, to carry out"
+    },
+    {
+     "role": "body",
+     "text": "the provisions of this act during the current fiscal year."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 11, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 15, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "1872, ch. 322, §12."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 264."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXV. — An Act to amend Section twelve of an Act entitled \" An Act to author-"
+    },
+    {
+     "role": "body",
+     "text": "ize the Appointment of Shipping-Commissioners,\" &c., approved June seven, eighteen hun-"
+    },
+    {
+     "role": "body",
+     "text": "dred and seventy-two."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Law requiring"
+    },
+    {
+     "role": "sidenote",
+     "text": "masters of certain"
+    },
+    {
+     "role": "sidenote",
+     "text": "vessels to make a"
+    },
+    {
+     "role": "sidenote",
+     "text": "written agree-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment with sea-"
+    },
+    {
+     "role": "sidenote",
+     "text": "men, before, &c.,"
+    },
+    {
+     "role": "sidenote",
+     "text": "not to apply to"
+    },
+    {
+     "role": "sidenote",
+     "text": "vessels engaged"
+    },
+    {
+     "role": "sidenote",
+     "text": "in certain trade."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That section twelve of the act"
+    },
+    {
+     "role": "body",
+     "text": "entitled \"An act to authorize the appointment of shipping-commis-"
+    },
+    {
+     "role": "body",
+     "text": "sioners,\" &c., approved June seven, eighteen hundred and seventy-two,"
+    },
+    {
+     "role": "body",
+     "text": "be amended by adding to said section the following proviso: \" Provided"
+    },
+    {
+     "role": "body",
+     "text": "further, That this section shall not apply to masters of vessels when"
+    },
+    {
+     "role": "body",
+     "text": "engaged in trade between the United States and the British North"
+    },
+    {
+     "role": "body",
+     "text": "American possessions, or the West India Islands, or the Republic of"
+    },
+    {
+     "role": "body",
+     "text": "Mexico.\""
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 15, 1873."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2691,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09414,
+   "seconds": 80.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12548,
+   "output_tokens": 1209,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.09338,
+  "seconds": 120.9,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "410                    FORTY–SECOND CONGRESS.  SESS. III.  CH. 34, 35.  1873.",
+    "b": "410\nFORTY-SECOND CONGRESS.  SESS. III.  CH. 34, 35.  1873.",
+    "kept": "410\nFORTY-SECOND CONGRESS.  SESS. III.  CH. 34, 35.  1873.",
+    "reason": "The folio 410 is a separate page number at the left margin; the centered heading is the running head."
+   },
+   {
+    "run": 2,
+    "a": "SEC. 3. That whenever the location of said bank shall have been",
+    "b": "",
+    "kept": "SEC. 3. That whenever the location of said bank shall have been",
+    "reason": "Sidenote 'When location' is set beside this first body line, so the body line follows it in reading order."
+   },
+   {
+    "run": 3,
+    "a": "changed from the village of Mount Vernon to the city of Evansville, in",
+    "b": "",
+    "kept": "changed from the village of Mount Vernon to the city of Evansville, in",
+    "reason": "This body line is aligned with sidenote 'is changed, name'."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "Evansville, if, &c.\nSEC. 3. That whenever the location of said bank shall have been\nchanged from the village of Mount Vernon to the city of Evansville, in",
+    "kept": "",
+    "reason": "These lines appear elsewhere in the interleaved order; nothing additional printed here."
+   },
+   {
+    "run": 5,
+    "a": "Evansville, if, &c.",
+    "b": "",
+    "kept": "Evansville, if, &c.",
+    "reason": "Sidenote line is printed level with the body line beginning 'the German National Bank'."
+   },
+   {
+    "run": 6,
+    "a": "SEC. 4. That all the debts, demands, liabilities, rights, privileges, and",
+    "b": "",
+    "kept": "SEC. 4. That all the debts, demands, liabilities, rights, privileges, and",
+    "reason": "Sidenote 'Rights, liabili-' is level with this body line, which follows it."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "under the new\nname.\nSEC. 4. That all the debts, demands, liabilities, rights, privileges, and",
+    "kept": "",
+    "reason": "Duplicated lines; they occur at their aligned positions instead."
+   },
+   {
+    "run": 8,
+    "a": "under the new",
+    "b": "",
+    "kept": "under the new",
+    "reason": "Sidenote printed level with the body line 'upon the German National Bank'."
+   },
+   {
+    "run": 9,
+    "a": "name.",
+    "b": "",
+    "kept": "name.",
+    "reason": "Final sidenote line printed level with the 'location and name' body line."
+   },
+   {
+    "run": 10,
+    "a": "entitled “ An act to authorize the appointment of shipping-commis-",
+    "b": "entitled \"An act to authorize the appointment of shipping-commis-",
+    "kept": "entitled “ An act to authorize the appointment of shipping-commis-",
+    "reason": "Image shows an opening double quote followed by a space before 'An act'."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "410"
+  },
+  {
+   "role": "running-head",
+   "text": "FORTY-SECOND CONGRESS.  SESS. III.  CH. 34, 35.  1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "Rights and li-"
+  },
+  {
+   "role": "sidenote",
+   "text": "abilities of bank"
+  },
+  {
+   "role": "sidenote",
+   "text": "not affected."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That nothing in this act contained shall be so construed as in"
+  },
+  {
+   "role": "body",
+   "text": "any manner to release the said bank from any liability, or affect any action"
+  },
+  {
+   "role": "body",
+   "text": "or proceeding in law in which the said bank may be a party or interested."
+  },
+  {
+   "role": "sidenote",
+   "text": "Change to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "advertised."
+  },
+  {
+   "role": "body",
+   "text": "And when such change shall have been determined upon as aforesaid, notice"
+  },
+  {
+   "role": "body",
+   "text": "thereof, and of such change, shall be published in one weekly paper in the"
+  },
+  {
+   "role": "body",
+   "text": "village of Mount Vernon not less than four weeks."
+  },
+  {
+   "role": "sidenote",
+   "text": "When location"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. That whenever the location of said bank shall have been"
+  },
+  {
+   "role": "sidenote",
+   "text": "is changed, name"
+  },
+  {
+   "role": "body",
+   "text": "changed from the village of Mount Vernon to the city of Evansville, in"
+  },
+  {
+   "role": "sidenote",
+   "text": "to be German"
+  },
+  {
+   "role": "sidenote",
+   "text": "National Bank of"
+  },
+  {
+   "role": "body",
+   "text": "accordance with the first section of this act, its name shall be changed to"
+  },
+  {
+   "role": "sidenote",
+   "text": "Evansville, if, &c."
+  },
+  {
+   "role": "body",
+   "text": "the German National Bank of Evansville, if the board of directors of said"
+  },
+  {
+   "role": "body",
+   "text": "bank shall accept the new name by resolution of the board, and cause a"
+  },
+  {
+   "role": "body",
+   "text": "copy of such resolution, duly authenticated, to be filed with the comptroller"
+  },
+  {
+   "role": "body",
+   "text": "of the currency."
+  },
+  {
+   "role": "sidenote",
+   "text": "Rights, liabili-"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. That all the debts, demands, liabilities, rights, privileges, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "ties, &c., to con-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tinue on the bank"
+  },
+  {
+   "role": "body",
+   "text": "powers of the East Chester National Bank of Mount Vernon shall devolve"
+  },
+  {
+   "role": "sidenote",
+   "text": "under the new"
+  },
+  {
+   "role": "body",
+   "text": "upon the German National Bank of Evansville whenever the change of"
+  },
+  {
+   "role": "sidenote",
+   "text": "name."
+  },
+  {
+   "role": "body",
+   "text": "location and name as provided in the first section of this act shall be"
+  },
+  {
+   "role": "body",
+   "text": "effected."
+  },
+  {
+   "role": "sidenote",
+   "text": "When act takes"
+  },
+  {
+   "role": "sidenote",
+   "text": "effect."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. That this act shall take effect and be in force from and after"
+  },
+  {
+   "role": "body",
+   "text": "the date of its passage."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, January 11, 1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "Jan. 11, 1873."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXXIV. — An Act to authorize the Employment of Keepers, and Crews of Surf-"
+  },
+  {
+   "role": "body",
+   "text": "men for the life-saving Stations on the Coasts of Cape Cod, and Block Island, and for"
+  },
+  {
+   "role": "body",
+   "text": "other Purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Secretary of"
+  },
+  {
+   "role": "sidenote",
+   "text": "the Treasury to"
+  },
+  {
+   "role": "sidenote",
+   "text": "appoint keepers"
+  },
+  {
+   "role": "sidenote",
+   "text": "and crews for the"
+  },
+  {
+   "role": "sidenote",
+   "text": "life-saving sta-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tions on Cape"
+  },
+  {
+   "role": "sidenote",
+   "text": "Cod and Block"
+  },
+  {
+   "role": "sidenote",
+   "text": "Island:"
+  },
+  {
+   "role": "sidenote",
+   "text": "their pay."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the Secretary of the Treas-"
+  },
+  {
+   "role": "body",
+   "text": "ury be, and hereby is, authorized to appoint a keeper for each of the ten"
+  },
+  {
+   "role": "body",
+   "text": "life-saving stations on the coasts of Cape Cod, Massachusetts, and Block"
+  },
+  {
+   "role": "body",
+   "text": "Island, Rhode Island, whose compensation shall be at the rate of two hun-"
+  },
+  {
+   "role": "body",
+   "text": "dred dollars per annum, and to employ crews of experienced surfmen at"
+  },
+  {
+   "role": "body",
+   "text": "such stations and for such periods as he may deem necessary and proper,"
+  },
+  {
+   "role": "body",
+   "text": "and at such compensation as he may deem reasonable, not to exceed forty"
+  },
+  {
+   "role": "body",
+   "text": "dollars per month for each person to be employed."
+  },
+  {
+   "role": "sidenote",
+   "text": "Stations to"
+  },
+  {
+   "role": "sidenote",
+   "text": "be under whose"
+  },
+  {
+   "role": "sidenote",
+   "text": "supervision."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That the life-saving stations at Narragansett Pier, and Block"
+  },
+  {
+   "role": "body",
+   "text": "Island, Rhode Island, are hereby placed under the supervision of the"
+  },
+  {
+   "role": "body",
+   "text": "superintendent of life-saving stations for the coast of Long Island."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. That the sum of two thousand dollars is hereby appropriated,"
+  },
+  {
+   "role": "body",
+   "text": "out of any money in the treasury not otherwise appropriated, to carry out"
+  },
+  {
+   "role": "body",
+   "text": "the provisions of this act during the current fiscal year."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, January 11, 1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "Jan. 15, 1873."
+  },
+  {
+   "role": "sidenote",
+   "text": "1872, ch. 322, §12."
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 264."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXXV. — An Act to amend Section twelve of an Act entitled “ An Act to author-"
+  },
+  {
+   "role": "body",
+   "text": "ize the Appointment of Shipping-Commissioners,” &c., approved June seven, eighteen hun-"
+  },
+  {
+   "role": "body",
+   "text": "dred and seventy-two."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Law requiring"
+  },
+  {
+   "role": "sidenote",
+   "text": "masters of certain"
+  },
+  {
+   "role": "sidenote",
+   "text": "vessels to make a"
+  },
+  {
+   "role": "sidenote",
+   "text": "written agree-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ment with sea-"
+  },
+  {
+   "role": "sidenote",
+   "text": "men, before, &c.,"
+  },
+  {
+   "role": "sidenote",
+   "text": "not to apply to"
+  },
+  {
+   "role": "sidenote",
+   "text": "vessels engaged"
+  },
+  {
+   "role": "sidenote",
+   "text": "in certain trade."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That section twelve of the act"
+  },
+  {
+   "role": "body",
+   "text": "entitled “ An act to authorize the appointment of shipping-commis-"
+  },
+  {
+   "role": "body",
+   "text": "sioners,” &c., approved June seven, eighteen hundred and seventy-two,"
+  },
+  {
+   "role": "body",
+   "text": "be amended by adding to said section the following proviso : “ Provided"
+  },
+  {
+   "role": "body",
+   "text": "further, That this section shall not apply to masters of vessels when"
+  },
+  {
+   "role": "body",
+   "text": "engaged in trade between the United States and the British North"
+  },
+  {
+   "role": "body",
+   "text": "American possessions, or the West India Islands, or the Republic of"
+  },
+  {
+   "role": "body",
+   "text": "Mexico.”"
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, January 15, 1873."
+  }
+ ],
+ "disagreement_count": 10,
+ "tokens": {
+  "input_tokens": 23147,
+  "output_tokens": 6592,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.28169,
+ "seconds": 342.4,
+ "created": "2026-09-08T12:23:42"
+}

@@ -1,0 +1,597 @@
+{
+ "granule_id": "STATUTE-97-Pg1387",
+ "package_id": "STATUTE-97",
+ "volume": 97,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "An act to designate the Federal building to be constructed in Savannah, Georgia, as the \"Juliette Gordon Low Federal Building\"",
+ "date_issued": "1983-12-02",
+ "pdf_page": 2,
+ "pdf_pages": 3,
+ "stat_page": "1388",
+ "image": "data/gold/STATUTE-97-Pg1387/p2.png",
+ "image_sha256": "dce4671306acc4b6ee43796a7fc7262dc40f7f3605170555f52c1f9a1f17a1e8",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "97 STAT. 1388          PUBLIC LAW 98-205—DEC. 2, 1983"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 76j."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. Section 4 of the John F. Kennedy Center Act is amended by"
+    },
+    {
+     "role": "body",
+     "text": "inserting \"(a)\" after \"SEC. 4.\" and by adding at the end thereof the"
+    },
+    {
+     "role": "body",
+     "text": "following new subsection:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Memorials or"
+    },
+    {
+     "role": "sidenote",
+     "text": "plaques."
+    },
+    {
+     "role": "body",
+     "text": "\"(b)(1) Except as provided in paragraph (2) of this subsection, the"
+    },
+    {
+     "role": "body",
+     "text": "Board shall assure that after the date of enactment of this subsec-"
+    },
+    {
+     "role": "body",
+     "text": "tion, no additional memorials or plaques in the nature of memorials"
+    },
+    {
+     "role": "body",
+     "text": "shall be designated or installed in the public areas of the John F."
+    },
+    {
+     "role": "body",
+     "text": "Kennedy Center for the Performing Arts."
+    },
+    {
+     "role": "body",
+     "text": "\"(2) Paragraph (1) of this subsection shall not apply to—"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) any plaque acknowledging a gift from a foreign country;"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) any plaque on a theater chair or a theater box acknowl-"
+    },
+    {
+     "role": "body",
+     "text": "edging the gift of such chair or box; and"
+    },
+    {
+     "role": "body",
+     "text": "\"(C) any inscription on the marble walls in the north or south"
+    },
+    {
+     "role": "body",
+     "text": "galleries, the Hall of States, or the Hall of Nations acknowledg-"
+    },
+    {
+     "role": "body",
+     "text": "ing a major contribution;"
+    },
+    {
+     "role": "body",
+     "text": "which plaque or inscription is permitted under policies of the Board"
+    },
+    {
+     "role": "body",
+     "text": "in effect on the date of enactment of this subsection."
+    },
+    {
+     "role": "body",
+     "text": "\"(3) For purposes of this subsection, testimonials and benefit"
+    },
+    {
+     "role": "body",
+     "text": "performances shall not be construed to be memorials.\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Interstate"
+    },
+    {
+     "role": "sidenote",
+     "text": "Highway 66, Va."
+    },
+    {
+     "role": "sidenote",
+     "text": "Demonstration"
+    },
+    {
+     "role": "sidenote",
+     "text": "project."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. Notwithstanding any other provisions of law and the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of Transportation's decision on Interstate Highway 66,"
+    },
+    {
+     "role": "body",
+     "text": "Fairfax and Arlington Counties, Virginia, dated January 5, 1977, the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of Transportation, in cooperation with the Commonwealth"
+    },
+    {
+     "role": "body",
+     "text": "of Virginia, shall carry out a demonstration project on Interstate"
+    },
+    {
+     "role": "body",
+     "text": "Highway 66 in Fairfax and Arlington Counties, Virginia for a period"
+    },
+    {
+     "role": "body",
+     "text": "not less than 12 months commencing within 60 days of the enact-"
+    },
+    {
+     "role": "body",
+     "text": "ment of this section. The Commonwealth of Virginia shall restrict"
+    },
+    {
+     "role": "body",
+     "text": "the use of such highway between I-495 and the District of Columbia"
+    },
+    {
+     "role": "body",
+     "text": "to high occupancy vehicles carrying three or more passengers"
+    },
+    {
+     "role": "body",
+     "text": "during the hours of 7 o'clock ante meridiem to 9 o'clock ante meridiem"
+    },
+    {
+     "role": "body",
+     "text": "on Monday through Friday, exclusive of holidays, on eastbound"
+    },
+    {
+     "role": "body",
+     "text": "lanes and during the hours of 4 o'clock post meridiem to 6 o'clock"
+    },
+    {
+     "role": "body",
+     "text": "post meridiem on Monday through Friday, exclusive of holidays, on"
+    },
+    {
+     "role": "body",
+     "text": "westbound lanes during the demonstration period. High occupancy"
+    },
+    {
+     "role": "body",
+     "text": "vehicle requirements shall not apply to vehicles entering I-66 or the"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 1382,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.06142,
+   "seconds": 17.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "97 STAT. 1388          PUBLIC LAW 98-205—DEC. 2, 1983"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 76j."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. Section 4 of the John F. Kennedy Center Act is amended by"
+    },
+    {
+     "role": "body",
+     "text": "inserting \"(a)\" after \"SEC. 4.\" and by adding at the end thereof the"
+    },
+    {
+     "role": "body",
+     "text": "following new subsection:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Memorials or"
+    },
+    {
+     "role": "sidenote",
+     "text": "plaques."
+    },
+    {
+     "role": "body",
+     "text": "\"(b)(1) Except as provided in paragraph (2) of this subsection, the"
+    },
+    {
+     "role": "body",
+     "text": "Board shall assure that after the date of enactment of this subsec-"
+    },
+    {
+     "role": "body",
+     "text": "tion, no additional memorials or plaques in the nature of memorials"
+    },
+    {
+     "role": "body",
+     "text": "shall be designated or installed in the public areas of the John F."
+    },
+    {
+     "role": "body",
+     "text": "Kennedy Center for the Performing Arts."
+    },
+    {
+     "role": "body",
+     "text": "\"(2) Paragraph (1) of this subsection shall not apply to—"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) any plaque acknowledging a gift from a foreign country;"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) any plaque on a theater chair or a theater box acknowl-"
+    },
+    {
+     "role": "body",
+     "text": "edging the gift of such chair or box; and"
+    },
+    {
+     "role": "body",
+     "text": "\"(C) any inscription on the marble walls in the north or south"
+    },
+    {
+     "role": "body",
+     "text": "galleries, the Hall of States, or the Hall of Nations acknowledg-"
+    },
+    {
+     "role": "body",
+     "text": "ing a major contribution;"
+    },
+    {
+     "role": "body",
+     "text": "which plaque or inscription is permitted under policies of the Board"
+    },
+    {
+     "role": "body",
+     "text": "in effect on the date of enactment of this subsection."
+    },
+    {
+     "role": "body",
+     "text": "\"(3) For purposes of this subsection, testimonials and benefit"
+    },
+    {
+     "role": "body",
+     "text": "performances shall not be construed to be memorials.\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Interstate"
+    },
+    {
+     "role": "sidenote",
+     "text": "Highway 66, Va."
+    },
+    {
+     "role": "sidenote",
+     "text": "Demonstration"
+    },
+    {
+     "role": "sidenote",
+     "text": "project."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. Notwithstanding any other provisions of law and the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of Transportation's decision on Interstate Highway 66,"
+    },
+    {
+     "role": "body",
+     "text": "Fairfax and Arlington Counties, Virginia, dated January 5, 1977, the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of Transportation, in cooperation with the Commonwealth"
+    },
+    {
+     "role": "body",
+     "text": "of Virginia, shall carry out a demonstration project on Interstate"
+    },
+    {
+     "role": "body",
+     "text": "Highway 66 in Fairfax and Arlington Counties, Virginia for a period"
+    },
+    {
+     "role": "body",
+     "text": "not less than 12 months commencing within 60 days of the enact-"
+    },
+    {
+     "role": "body",
+     "text": "ment of this section. The Commonwealth of Virginia shall restrict"
+    },
+    {
+     "role": "body",
+     "text": "the use of such highway between I-495 and the District of Columbia"
+    },
+    {
+     "role": "body",
+     "text": "to high occupancy vehicles carrying three or more passengers"
+    },
+    {
+     "role": "body",
+     "text": "during the hours of 7 o'clock ante meridiem to 9 o'clock ante meridiem"
+    },
+    {
+     "role": "body",
+     "text": "on Monday through Friday, exclusive of holidays, on eastbound"
+    },
+    {
+     "role": "body",
+     "text": "lanes and during the hours of 4 o'clock post meridiem to 6 o'clock"
+    },
+    {
+     "role": "body",
+     "text": "post meridiem on Monday through Friday, exclusive of holidays, on"
+    },
+    {
+     "role": "body",
+     "text": "westbound lanes during the demonstration period. High occupancy"
+    },
+    {
+     "role": "body",
+     "text": "vehicle requirements shall not apply to vehicles entering I-66 or the"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 1501,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.06439,
+   "seconds": 17.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "skipped": "transcriptions agree",
+  "disagreements": [],
+  "cost_usd": 0.0,
+  "usage": {
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "97 STAT. 1388          PUBLIC LAW 98-205—DEC. 2, 1983"
+  },
+  {
+   "role": "sidenote",
+   "text": "20 USC 76j."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. Section 4 of the John F. Kennedy Center Act is amended by"
+  },
+  {
+   "role": "body",
+   "text": "inserting \"(a)\" after \"SEC. 4.\" and by adding at the end thereof the"
+  },
+  {
+   "role": "body",
+   "text": "following new subsection:"
+  },
+  {
+   "role": "sidenote",
+   "text": "Memorials or"
+  },
+  {
+   "role": "sidenote",
+   "text": "plaques."
+  },
+  {
+   "role": "body",
+   "text": "\"(b)(1) Except as provided in paragraph (2) of this subsection, the"
+  },
+  {
+   "role": "body",
+   "text": "Board shall assure that after the date of enactment of this subsec-"
+  },
+  {
+   "role": "body",
+   "text": "tion, no additional memorials or plaques in the nature of memorials"
+  },
+  {
+   "role": "body",
+   "text": "shall be designated or installed in the public areas of the John F."
+  },
+  {
+   "role": "body",
+   "text": "Kennedy Center for the Performing Arts."
+  },
+  {
+   "role": "body",
+   "text": "\"(2) Paragraph (1) of this subsection shall not apply to—"
+  },
+  {
+   "role": "body",
+   "text": "\"(A) any plaque acknowledging a gift from a foreign country;"
+  },
+  {
+   "role": "body",
+   "text": "\"(B) any plaque on a theater chair or a theater box acknowl-"
+  },
+  {
+   "role": "body",
+   "text": "edging the gift of such chair or box; and"
+  },
+  {
+   "role": "body",
+   "text": "\"(C) any inscription on the marble walls in the north or south"
+  },
+  {
+   "role": "body",
+   "text": "galleries, the Hall of States, or the Hall of Nations acknowledg-"
+  },
+  {
+   "role": "body",
+   "text": "ing a major contribution;"
+  },
+  {
+   "role": "body",
+   "text": "which plaque or inscription is permitted under policies of the Board"
+  },
+  {
+   "role": "body",
+   "text": "in effect on the date of enactment of this subsection."
+  },
+  {
+   "role": "body",
+   "text": "\"(3) For purposes of this subsection, testimonials and benefit"
+  },
+  {
+   "role": "body",
+   "text": "performances shall not be construed to be memorials.\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "Interstate"
+  },
+  {
+   "role": "sidenote",
+   "text": "Highway 66, Va."
+  },
+  {
+   "role": "sidenote",
+   "text": "Demonstration"
+  },
+  {
+   "role": "sidenote",
+   "text": "project."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. Notwithstanding any other provisions of law and the"
+  },
+  {
+   "role": "body",
+   "text": "Secretary of Transportation's decision on Interstate Highway 66,"
+  },
+  {
+   "role": "body",
+   "text": "Fairfax and Arlington Counties, Virginia, dated January 5, 1977, the"
+  },
+  {
+   "role": "body",
+   "text": "Secretary of Transportation, in cooperation with the Commonwealth"
+  },
+  {
+   "role": "body",
+   "text": "of Virginia, shall carry out a demonstration project on Interstate"
+  },
+  {
+   "role": "body",
+   "text": "Highway 66 in Fairfax and Arlington Counties, Virginia for a period"
+  },
+  {
+   "role": "body",
+   "text": "not less than 12 months commencing within 60 days of the enact-"
+  },
+  {
+   "role": "body",
+   "text": "ment of this section. The Commonwealth of Virginia shall restrict"
+  },
+  {
+   "role": "body",
+   "text": "the use of such highway between I-495 and the District of Columbia"
+  },
+  {
+   "role": "body",
+   "text": "to high occupancy vehicles carrying three or more passengers"
+  },
+  {
+   "role": "body",
+   "text": "during the hours of 7 o'clock ante meridiem to 9 o'clock ante meridiem"
+  },
+  {
+   "role": "body",
+   "text": "on Monday through Friday, exclusive of holidays, on eastbound"
+  },
+  {
+   "role": "body",
+   "text": "lanes and during the hours of 4 o'clock post meridiem to 6 o'clock"
+  },
+  {
+   "role": "body",
+   "text": "post meridiem on Monday through Friday, exclusive of holidays, on"
+  },
+  {
+   "role": "body",
+   "text": "westbound lanes during the demonstration period. High occupancy"
+  },
+  {
+   "role": "body",
+   "text": "vehicle requirements shall not apply to vehicles entering I-66 or the"
+  }
+ ],
+ "disagreement_count": 0,
+ "tokens": {
+  "input_tokens": 10599,
+  "output_tokens": 2883,
+  "cache_read_input_tokens": 1490,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.12581,
+ "seconds": 35.0,
+ "created": "2026-09-08T11:57:21"
+}

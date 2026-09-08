@@ -1,0 +1,447 @@
+{
+ "granule_id": "STATUTE-103-Pg763",
+ "package_id": "STATUTE-103",
+ "volume": 103,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "An act to name the Department of Veterans Affairs medical center in Leavenworth, Kansas, as the \"Dwight D. Eisenhower Department of Veterans Affairs Medical Center\"",
+ "date_issued": "1989-10-24",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "763",
+ "image": "data/gold/STATUTE-103-Pg763/p1.png",
+ "image_sha256": "16687c3d45e5f01b46efedecdef805d6aaae01cb63ce92544915aebdc9a5b8d5",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 101-125—OCT. 24, 1989          103 STAT. 763"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 101-125"
+    },
+    {
+     "role": "body",
+     "text": "101st Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Oct. 24, 1989"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.R. 2987]"
+    },
+    {
+     "role": "body",
+     "text": "To name the Department of Veterans Affairs medical center in Leavenworth,"
+    },
+    {
+     "role": "body",
+     "text": "Kansas, as the \"Dwight D. Eisenhower Department of Veterans Affairs Medical"
+    },
+    {
+     "role": "body",
+     "text": "Center\"."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. NAME OF DEPARTMENT OF VETERANS AFFAIRS MEDICAL"
+    },
+    {
+     "role": "body",
+     "text": "CENTER, LEAVENWORTH, KANSAS."
+    },
+    {
+     "role": "body",
+     "text": "The Department of Veterans Affairs medical center in Leaven-"
+    },
+    {
+     "role": "body",
+     "text": "worth, Kansas, shall after the date of the enactment of this Act be"
+    },
+    {
+     "role": "body",
+     "text": "known and designated as the \"Dwight D. Eisenhower Department of"
+    },
+    {
+     "role": "body",
+     "text": "Veterans Affairs Medical Center\". Any reference to such medical"
+    },
+    {
+     "role": "body",
+     "text": "center in any law, regulation, map, document, record, or other paper"
+    },
+    {
+     "role": "body",
+     "text": "of the United States shall be considered to be a reference to the"
+    },
+    {
+     "role": "body",
+     "text": "Dwight D. Eisenhower Department of Veterans Affairs Medical"
+    },
+    {
+     "role": "body",
+     "text": "Center."
+    },
+    {
+     "role": "body",
+     "text": "Approved October 24, 1989."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—H.R. 2987:"
+    },
+    {
+     "role": "footnote",
+     "text": "HOUSE REPORTS: No. 101-259 (Comm. on Veterans' Affairs)."
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+    },
+    {
+     "role": "footnote",
+     "text": "Oct. 2, considered and passed House."
+    },
+    {
+     "role": "footnote",
+     "text": "Oct. 12, considered and passed Senate."
+    },
+    {
+     "role": "footnote",
+     "text": "O"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 873,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0487,
+   "seconds": 12.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 101-125—OCT. 24, 1989          103 STAT. 763"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 101-125"
+    },
+    {
+     "role": "body",
+     "text": "101st Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "body",
+     "text": "To name the Department of Veterans Affairs medical center in Leavenworth,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Oct. 24, 1989"
+    },
+    {
+     "role": "body",
+     "text": "Kansas, as the \"Dwight D. Eisenhower Department of Veterans Affairs Medical"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.R. 2987]"
+    },
+    {
+     "role": "body",
+     "text": "Center\"."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. NAME OF DEPARTMENT OF VETERANS AFFAIRS MEDICAL"
+    },
+    {
+     "role": "body",
+     "text": "CENTER, LEAVENWORTH, KANSAS."
+    },
+    {
+     "role": "body",
+     "text": "The Department of Veterans Affairs medical center in Leaven-"
+    },
+    {
+     "role": "body",
+     "text": "worth, Kansas, shall after the date of the enactment of this Act be"
+    },
+    {
+     "role": "body",
+     "text": "known and designated as the \"Dwight D. Eisenhower Department of"
+    },
+    {
+     "role": "body",
+     "text": "Veterans Affairs Medical Center\". Any reference to such medical"
+    },
+    {
+     "role": "body",
+     "text": "center in any law, regulation, map, document, record, or other paper"
+    },
+    {
+     "role": "body",
+     "text": "of the United States shall be considered to be a reference to the"
+    },
+    {
+     "role": "body",
+     "text": "Dwight D. Eisenhower Department of Veterans Affairs Medical"
+    },
+    {
+     "role": "body",
+     "text": "Center."
+    },
+    {
+     "role": "body",
+     "text": "Approved October 24, 1989."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—H.R. 2987:"
+    },
+    {
+     "role": "footnote",
+     "text": "HOUSE REPORTS: No. 101-259 (Comm. on Veterans' Affairs)."
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+    },
+    {
+     "role": "footnote",
+     "text": "Oct. 2, considered and passed House."
+    },
+    {
+     "role": "footnote",
+     "text": "Oct. 12, considered and passed Senate."
+    },
+    {
+     "role": "footnote",
+     "text": "O"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 865,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.04849,
+   "seconds": 10.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 9124,
+   "output_tokens": 423,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.05661,
+  "seconds": 9.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "To name the Department of Veterans Affairs medical center in Leavenworth,",
+    "kept": "",
+    "reason": "The two sidenote lines (Oct. 24, 1989 / [H.R. 2987]) are grouped together in the margin; the body text of the title follows, so nothing is printed here."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "Kansas, as the \"Dwight D. Eisenhower Department of Veterans Affairs Medical",
+    "kept": "",
+    "reason": "No body line interrupts the marginal note block; the sidenote lines are adjacent in the right margin."
+   },
+   {
+    "run": 3,
+    "a": "To name the Department of Veterans Affairs medical center in Leavenworth,\nKansas, as the \"Dwight D. Eisenhower Department of Veterans Affairs Medical",
+    "b": "",
+    "kept": "To name the Department of Veterans Affairs medical center in Leavenworth,\nKansas, as the \"Dwight D. Eisenhower Department of Veterans Affairs Medical",
+    "reason": "These two title lines are printed in the main column after the marginal date and bill number."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 101-125—OCT. 24, 1989          103 STAT. 763"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 101-125"
+  },
+  {
+   "role": "body",
+   "text": "101st Congress"
+  },
+  {
+   "role": "body",
+   "text": "An Act"
+  },
+  {
+   "role": "sidenote",
+   "text": "Oct. 24, 1989"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H.R. 2987]"
+  },
+  {
+   "role": "body",
+   "text": "To name the Department of Veterans Affairs medical center in Leavenworth,"
+  },
+  {
+   "role": "body",
+   "text": "Kansas, as the \"Dwight D. Eisenhower Department of Veterans Affairs Medical"
+  },
+  {
+   "role": "body",
+   "text": "Center\"."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled,"
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. NAME OF DEPARTMENT OF VETERANS AFFAIRS MEDICAL"
+  },
+  {
+   "role": "body",
+   "text": "CENTER, LEAVENWORTH, KANSAS."
+  },
+  {
+   "role": "body",
+   "text": "The Department of Veterans Affairs medical center in Leaven-"
+  },
+  {
+   "role": "body",
+   "text": "worth, Kansas, shall after the date of the enactment of this Act be"
+  },
+  {
+   "role": "body",
+   "text": "known and designated as the \"Dwight D. Eisenhower Department of"
+  },
+  {
+   "role": "body",
+   "text": "Veterans Affairs Medical Center\". Any reference to such medical"
+  },
+  {
+   "role": "body",
+   "text": "center in any law, regulation, map, document, record, or other paper"
+  },
+  {
+   "role": "body",
+   "text": "of the United States shall be considered to be a reference to the"
+  },
+  {
+   "role": "body",
+   "text": "Dwight D. Eisenhower Department of Veterans Affairs Medical"
+  },
+  {
+   "role": "body",
+   "text": "Center."
+  },
+  {
+   "role": "body",
+   "text": "Approved October 24, 1989."
+  },
+  {
+   "role": "footnote",
+   "text": "LEGISLATIVE HISTORY—H.R. 2987:"
+  },
+  {
+   "role": "footnote",
+   "text": "HOUSE REPORTS: No. 101-259 (Comm. on Veterans' Affairs)."
+  },
+  {
+   "role": "footnote",
+   "text": "CONGRESSIONAL RECORD, Vol. 135 (1989):"
+  },
+  {
+   "role": "footnote",
+   "text": "Oct. 2, considered and passed House."
+  },
+  {
+   "role": "footnote",
+   "text": "Oct. 12, considered and passed Senate."
+  },
+  {
+   "role": "footnote",
+   "text": "O"
+  }
+ ],
+ "disagreement_count": 3,
+ "tokens": {
+  "input_tokens": 19723,
+  "output_tokens": 2161,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.1538,
+ "seconds": 32.1,
+ "created": "2026-09-08T12:35:39"
+}

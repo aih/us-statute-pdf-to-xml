@@ -20,24 +20,50 @@ downloader/
   dataset_card.md    README.md committed to the Hub dataset
   db.py              connection, migrations runner (db/migrations/NNN_*.sql, schema_migrations table)
 pipeline/
-  profiles.py        Docling options: scanned (Tesseract CLI, eng, force full-page OCR, 2x render) and digital
-                     (no OCR, backend text layer); profile chosen by volume (<= 116 scanned)
+  profiles.py        profile registry (`family[:variant]`): scanned (Tesseract CLI without orientation detection,
+                     eng, full-page OCR, 300 dpi, psm4/psm6 variants) and digital (no OCR, backend text layer);
+                     other modules register families through register_family(); profile chosen by volume (<= 116 scanned)
+  tesseract.py       TesseractNoOsdModel: Docling's Tesseract CLI model with `_perform_osd` fixed at 0 degrees,
+                     registered with Docling's OCR factory as kind `tesseract_noosd`
   convert.py         ProcessPoolExecutor (default 2 workers, memory-bound), one DocumentConverter per worker per profile, page_range,
-                     skip when outputs exist and input sha256 unchanged, conversions rows
+                     outputs under data/{doclang,generated_xmls}/{profile}/, module_used = profile[@tag], builder stats
+                     (docling_chars, kept_chars, body_chars, warnings) in conversions, skip when outputs exist and input
+                     sha256 unchanged; non-Docling families run through their `converter` callable
   uslm.py            DoclingDocument -> USLM (lxml): meta, preface, longTitle, enactingFormula, section /
                      subsection / paragraph / subparagraph / clause with identifier and id, page markers,
-                     sidenotes by geometry, action, legislativeHistory; XSD validation (pipeline/schemas/)
-  split_uslm.py      volume USLM -> one USLM document per granule
+                     sidenotes by geometry, action, legislativeHistory; XSD validation (pipeline/schemas/).
+                     Keeps every body item: text before the document start -> preface/p, text after the
+                     approval line -> appendix[@role=trailingMatter]; UslmBuilder.stats and warnings
+  split_uslm.py      volume USLM -> one USLM document per granule; unpaired.json lists granules without a slice
+  textlayer.py       family `textlayer`: Docling layout over the embedded text layer of scanned granule PDFs (C1)
+  ocr_engines.py     families `tesseract` (psm4, psm6), `rapidocr`, `easyocr` through Docling's OCR options (C2, C3);
+                     model files prefetched under the artifacts path
+  vlm.py             family `vlm:<spec>`: Docling VlmPipeline (granite_docling, glm_ocr, lightonocr, nanonets_ocr2 on
+                     MLX; deepseek_ocr on HF Jobs); `pipeline.vlm run` writes DoclingDocument JSON without a database (C4)
+  claude_ocr.py      family `claude:<model>`: one Claude request per page image, line schema, Batch API,
+                     DoclingDocument adapter with synthetic geometry; usage sidecar per granule (C5)
+  hybrid.py          family `hybrid:<profile>`: GPO slice structure with the candidate's text (difflib per section),
+                     identifiers per the plan's section 7 (C6)
   schemas/           uslm-2.0.17.xsd and its imports (xml.xsd, dc.xsd, xhtml-datatypes-1.xsd, mathml3*.xsd,
                      uslm-table-module-2.0.17.xsd) with schemaLocation rewritten to local files
 benchmark/
-  sample.py          stratified sample (era x granule class) -> benchmark/sample.yaml
-  metrics.py         text normalization, CER, WER, structure counts, identifier overlap, alignment
+  sample.py          stratified sample (era x granule class) -> benchmark/sample.yaml; digital era limited to
+                     PUBLICLAW and PRIVATELAW (ERA_CLASSES)
+  metrics.py         text normalization, clipping of the generated text to the reference span (rapidfuzz
+                     partial_ratio_alignment on the first and last 30 tokens), CER, WER, structure counts,
+                     section match (num + first 40 chars), sidenote recall, identifier overlap, alignment
+  rasterize.py       tier A inputs: page images (clean PNG; degraded JPEG q60, 0.5 degree skew, noise) and
+                     img2pdf wrappers under data/raster/{id}/
   judge.py           Claude judge: structured output, PDF pages as document blocks, aligned XML segments
-  evaluate.py        convert -> metrics -> judge, benchmarks rows, per-era report in data/reports/
+  evaluate.py        convert -> metrics -> judge for --profiles and --tier A,B; benchmarks rows (profile, tier);
+                     profile-by-era matrix report in data/reports/
+  jobs.py            HF Jobs runner for GPU VLM specs: stage inputs in the dataset repo, submit, status, fetch
+  gold.py            gold set: sample 150 public-law pages by period, transcribe twice with Claude and adjudicate,
+                     benchmark/gold/{granule}/p{n}.json; score a profile and the GPO text against the gold pages
 db/migrations/       001_initial, 002_packages_granules, 003_title_text, 004_granule_pages,
-                     005_conversion_benchmark_columns
-tests/               pytest; fixtures hold real GovInfo MODS, summaries, a PLAW USLM, and two Docling outputs
+                     005_conversion_benchmark_columns, 006_conversion_stats_profile
+tests/               pytest; fixtures hold real GovInfo MODS, summaries, a PLAW USLM, four Docling outputs, and the
+                     page image on which Tesseract's orientation detection fails
 ```
 
 ## Data flow
@@ -53,7 +79,8 @@ collections/PLAW ──> fetch_plaw ──> data/pdfs/PLAW-*.pdf, data/xmls/PLAW
 granules API ──────> fetch_granules ──> data/granules/STATUTE-n/{granuleId}.pdf + .mods.xml, granules rows
 volume USLM ───────> split_uslm ──> data/granules/STATUTE-n/uslm/{granuleId}.xml   (ground truth per granule)
 
-PDF ──Docling (profile)──> data/doclang/{id}.json ──uslm.py──> data/generated_xmls/{id}.xml ──XSD──> conversions row
+PDF ──Docling (profile)──> data/doclang/{profile}/{id}.json ──uslm.py──> data/generated_xmls/{profile}/{id}.xml ──XSD──> conversions row
+born-digital granule PDF ──rasterize──> data/raster/{id}/p{n}.png + {id}.clean.pdf ──(tier A) same path as above
 generated XML + ground truth XML ──metrics──> benchmarks row ──judge (sample)──> benchmarks.judge
 ```
 
@@ -134,6 +161,15 @@ Root `pLaw`, children `meta`, `preface` (centerRunningHead, page, dc:type, docNu
 quotedContent, quotedText, amendingAction, sidenote, note, ref, inline, p. `xsi:schemaLocation` points
 at `https://www.govinfo.gov/schemas/xml/uslm/uslm-2.0.17.xsd`. Both PLAW files and the whole
 STATUTE-64 volume validate against that XSD with lxml (schema load 2.7 s, volume validation 0.7 s).
+
+### Tesseract orientation detection (verified 2026-09-08)
+
+Docling's `TesseractOcrCliModel` runs `tesseract --psm 0 -l osd` on the image it renders for OCR (216 dpi
+by default) and rotates the image by the result. On page 1 of `STATUTE-72-Pg1751` and of `STATUTE-10-Pg764`
+that call returns "Orientation in degrees: 180, confidence 0.07" (0.03 for volume 10) on upright pages, and
+the OCR text comes out mirrored. The same pages rendered directly with pypdfium2 at 144, 216, or 300 dpi
+are detected as upright; the difference is in Docling's render. `pipeline/tesseract.py` removes the
+detection instead of thresholding it.
 
 ### Docling output on statute pages (docling 2.126.0)
 

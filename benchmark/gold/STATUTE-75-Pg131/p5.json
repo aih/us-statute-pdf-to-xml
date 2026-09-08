@@ -1,0 +1,983 @@
+{
+ "granule_id": "STATUTE-75-Pg131",
+ "package_id": "STATUTE-75",
+ "volume": 75,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to improve benefits under the old-age, survivors, and disability insurance program by increasing the minimum benefits and aged widows benefits and by making additional persons eligible for bene",
+ "date_issued": "1961-06-30",
+ "pdf_page": 5,
+ "pdf_pages": 13,
+ "stat_page": "135",
+ "image": "data/gold/STATUTE-75-Pg131/p5.png",
+ "image_sha256": "dccb1fe98b45dc4581ceeb9c2c4ca0185ffbaef92ad2dbb0d306f3ef7c2ccbce",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "75 STAT.]          PUBLIC LAW 87-64-JUNE 30, 1961"
+    },
+    {
+     "role": "page-number",
+     "text": "135"
+    },
+    {
+     "role": "body",
+     "text": "section 216(a))\" each place they appear therein and inserting in lieu"
+    },
+    {
+     "role": "body",
+     "text": "thereof \"age 62 (if a woman) or age 65 (if a man)\":"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 409."
+    },
+    {
+     "role": "body",
+     "text": "(A)  section 209(i),"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 413."
+    },
+    {
+     "role": "body",
+     "text": "(B)  the last sentence of section 213(a),"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 416."
+    },
+    {
+     "role": "body",
+     "text": "(C)  section 216(i)(3)(A),"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 423."
+    },
+    {
+     "role": "body",
+     "text": "(D)  the first sentence of section 223(a)(2), and"
+    },
+    {
+     "role": "body",
+     "text": "(E)  section 223(c)(1)(A)."
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 415."
+    },
+    {
+     "role": "body",
+     "text": "(d)(1) Section 215(a)(4) of such Act is amended to read as"
+    },
+    {
+     "role": "body",
+     "text": "follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"(4)  In the case of—"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) a woman who was entitled to a disability insurance"
+    },
+    {
+     "role": "body",
+     "text": "benefit for the month before the month in which she died or"
+    },
+    {
+     "role": "body",
+     "text": "became entitled to old-age insurance benefits, or"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) a man who was entitled to a disability insurance"
+    },
+    {
+     "role": "body",
+     "text": "benefit for the month before the month in which he died or"
+    },
+    {
+     "role": "body",
+     "text": "attained age 65,"
+    },
+    {
+     "role": "body",
+     "text": "the amount in column IV which is equal to such disability in-"
+    },
+    {
+     "role": "body",
+     "text": "surance benefit.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 415."
+    },
+    {
+     "role": "body",
+     "text": "(2) Section 215(b)(3) of such Act is amended to read as follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"(3)  For purposes of paragraph (2), the number of an individual's"
+    },
+    {
+     "role": "body",
+     "text": "elapsed years is the number of calendar years after 1950 (or, if later,"
+    },
+    {
+     "role": "body",
+     "text": "the year in which he attained age 21) and before—"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) in the case of a woman, the year in which she died or"
+    },
+    {
+     "role": "body",
+     "text": "(if earlier) the first year after 1960 in which she both was fully"
+    },
+    {
+     "role": "body",
+     "text": "insured and had attained age 62,"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) in the case of a man who has died, the year in which he"
+    },
+    {
+     "role": "body",
+     "text": "died or (if earlier) the first year after 1960 in which he both"
+    },
+    {
+     "role": "body",
+     "text": "was fully insured and had attained age 65, or"
+    },
+    {
+     "role": "body",
+     "text": "\"(C) in the case of a man who has not died, the first year after"
+    },
+    {
+     "role": "body",
+     "text": "1960 in which he attained (or would attain) age 65 or (if later)"
+    },
+    {
+     "role": "body",
+     "text": "the first year in which he was fully insured."
+    },
+    {
+     "role": "body",
+     "text": "For purposes of the preceding sentence, any calendar year any part"
+    },
+    {
+     "role": "body",
+     "text": "of which was included in a period of disability shall not be included in"
+    },
+    {
+     "role": "body",
+     "text": "such number of calendar years.\""
+    },
+    {
+     "role": "body",
+     "text": "(3) Section 215(f) of such Act is amended by adding at the end"
+    },
+    {
+     "role": "body",
+     "text": "thereof the following new paragraph:"
+    },
+    {
+     "role": "body",
+     "text": "\"(7)(A)  In the case of a man who attains age 65 and who became"
+    },
+    {
+     "role": "body",
+     "text": "entitled to old-age insurance benefits before the month in which he"
+    },
+    {
+     "role": "body",
+     "text": "attains such age, his primary insurance amount shall be recomputed"
+    },
+    {
+     "role": "body",
+     "text": "as provided in subsection (a) as though he became entitled to old-age"
+    },
+    {
+     "role": "body",
+     "text": "insurance benefits in the month in which he attained age 65, except"
+    },
+    {
+     "role": "body",
+     "text": "that his computation base years referred to in subsection (b)(2) shall"
+    },
+    {
+     "role": "body",
+     "text": "include the year in which he attained age 65.  Such recomputation"
+    },
+    {
+     "role": "body",
+     "text": "shall be effective for and after the month in which he attained age 65."
+    },
+    {
+     "role": "body",
+     "text": "\"(B)  In the case of a man who became entitled to old-age insur-"
+    },
+    {
+     "role": "body",
+     "text": "ance benefits and died before the month in which he attained age"
+    },
+    {
+     "role": "body",
+     "text": "65, the Secretary shall, if any person is entitled to monthly insurance"
+    },
+    {
+     "role": "body",
+     "text": "benefits or a lump-sum death payment on the basis of the wages and"
+    },
+    {
+     "role": "body",
+     "text": "self-employment income of the decedent, recompute his primary"
+    },
+    {
+     "role": "body",
+     "text": "insurance amount as provided in subsection (a) as though he became"
+    },
+    {
+     "role": "body",
+     "text": "entitled to old-age insurance benefits in the month in which he died;"
+    },
+    {
+     "role": "body",
+     "text": "except that (i) his computation base years referred to in subsection"
+    },
+    {
+     "role": "body",
+     "text": "(b)(2) shall include the year in which he died, and (ii) his elapsed"
+    },
+    {
+     "role": "body",
+     "text": "years referred to in subsection (b)(3) shall not include the year in"
+    },
+    {
+     "role": "body",
+     "text": "which he died or any year thereafter.  In the case of monthly insur-"
+    },
+    {
+     "role": "body",
+     "text": "'ance benefits, such recomputation of a man's primary insurance"
+    },
+    {
+     "role": "body",
+     "text": "amount shall be effective for and after the month in which he died.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 402."
+    },
+    {
+     "role": "body",
+     "text": "(e)(1) Section 202(b)(1)(C) of such Act is amended to read as"
+    },
+    {
+     "role": "body",
+     "text": "follows:"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2105,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08006,
+   "seconds": 23.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "75 STAT.]          PUBLIC LAW 87-64–JUNE 30, 1961"
+    },
+    {
+     "role": "page-number",
+     "text": "135"
+    },
+    {
+     "role": "body",
+     "text": "section 216(a))\" each place they appear therein and inserting in lieu"
+    },
+    {
+     "role": "body",
+     "text": "thereof \"age 62 (if a woman) or age 65 (if a man)\":"
+    },
+    {
+     "role": "body",
+     "text": "(A) section 209(i),"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 409."
+    },
+    {
+     "role": "body",
+     "text": "(B) the last sentence of section 213(a),"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 413."
+    },
+    {
+     "role": "body",
+     "text": "(C) section 216(i)(3)(A),"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 416."
+    },
+    {
+     "role": "body",
+     "text": "(D) the first sentence of section 223(a)(2), and"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 423."
+    },
+    {
+     "role": "body",
+     "text": "(E) section 223(c)(1)(A)."
+    },
+    {
+     "role": "body",
+     "text": "(d)(1) Section 215(a)(4) of such Act is amended to read as"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 415."
+    },
+    {
+     "role": "body",
+     "text": "follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"(4) In the case of—"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) a woman who was entitled to a disability insurance"
+    },
+    {
+     "role": "body",
+     "text": "benefit for the month before the month in which she died or"
+    },
+    {
+     "role": "body",
+     "text": "became entitled to old-age insurance benefits, or"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) a man who was entitled to a disability insurance"
+    },
+    {
+     "role": "body",
+     "text": "benefit for the month before the month in which he died or"
+    },
+    {
+     "role": "body",
+     "text": "attained age 65,"
+    },
+    {
+     "role": "body",
+     "text": "the amount in column IV which is equal to such disability in-"
+    },
+    {
+     "role": "body",
+     "text": "surance benefit.\""
+    },
+    {
+     "role": "body",
+     "text": "(2) Section 215(b)(3) of such Act is amended to read as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 415."
+    },
+    {
+     "role": "body",
+     "text": "\"(3) For purposes of paragraph (2), the number of an individual's"
+    },
+    {
+     "role": "body",
+     "text": "elapsed years is the number of calendar years after 1950 (or, if later,"
+    },
+    {
+     "role": "body",
+     "text": "the year in which he attained age 21) and before—"
+    },
+    {
+     "role": "body",
+     "text": "\"(A) in the case of a woman, the year in which she died or"
+    },
+    {
+     "role": "body",
+     "text": "(if earlier) the first year after 1960 in which she both was fully"
+    },
+    {
+     "role": "body",
+     "text": "insured and had attained age 62,"
+    },
+    {
+     "role": "body",
+     "text": "\"(B) in the case of a man who has died, the year in which he"
+    },
+    {
+     "role": "body",
+     "text": "died or (if earlier) the first year after 1960 in which he both"
+    },
+    {
+     "role": "body",
+     "text": "was fully insured and had attained age 65, or"
+    },
+    {
+     "role": "body",
+     "text": "\"(C) in the case of a man who has not died, the first year after"
+    },
+    {
+     "role": "body",
+     "text": "1960 in which he attained (or would attain) age 65 or (if later)"
+    },
+    {
+     "role": "body",
+     "text": "the first year in which he was fully insured."
+    },
+    {
+     "role": "body",
+     "text": "For purposes of the preceding sentence, any calendar year any part"
+    },
+    {
+     "role": "body",
+     "text": "of which was included in a period of disability shall not be included in"
+    },
+    {
+     "role": "body",
+     "text": "such number of calendar years.\""
+    },
+    {
+     "role": "body",
+     "text": "(3) Section 215(f) of such Act is amended by adding at the end"
+    },
+    {
+     "role": "body",
+     "text": "thereof the following new paragraph:"
+    },
+    {
+     "role": "body",
+     "text": "\"(7)(A) In the case of a man who attains age 65 and who became"
+    },
+    {
+     "role": "body",
+     "text": "entitled to old-age insurance benefits before the month in which he"
+    },
+    {
+     "role": "body",
+     "text": "attains such age, his primary insurance amount shall be recomputed"
+    },
+    {
+     "role": "body",
+     "text": "as provided in subsection (a) as though he became entitled to old-age"
+    },
+    {
+     "role": "body",
+     "text": "insurance benefits in the month in which he attained age 65, except"
+    },
+    {
+     "role": "body",
+     "text": "that his computation base years referred to in subsection (b)(2) shall"
+    },
+    {
+     "role": "body",
+     "text": "include the year in which he attained age 65.  Such recomputation"
+    },
+    {
+     "role": "body",
+     "text": "shall be effective for and after the month in which he attained age 65."
+    },
+    {
+     "role": "body",
+     "text": "\"(B) In the case of a man who became entitled to old-age insur-"
+    },
+    {
+     "role": "body",
+     "text": "ance benefits and died before the month in which he attained age"
+    },
+    {
+     "role": "body",
+     "text": "65, the Secretary shall, if any person is entitled to monthly insurance"
+    },
+    {
+     "role": "body",
+     "text": "benefits or a lump-sum death payment on the basis of the wages and"
+    },
+    {
+     "role": "body",
+     "text": "self-employment income of the decedent, recompute his primary"
+    },
+    {
+     "role": "body",
+     "text": "insurance amount as provided in subsection (a) as though he became"
+    },
+    {
+     "role": "body",
+     "text": "entitled to old-age insurance benefits in the month in which he died;"
+    },
+    {
+     "role": "body",
+     "text": "except that (i) his computation base years referred to in subsection"
+    },
+    {
+     "role": "body",
+     "text": "(b)(2) shall include the year in which he died, and (ii) his elapsed"
+    },
+    {
+     "role": "body",
+     "text": "years referred to in subsection (b)(3) shall not include the year in"
+    },
+    {
+     "role": "body",
+     "text": "which he died or any year thereafter.  In the case of monthly insur-"
+    },
+    {
+     "role": "body",
+     "text": "'ance benefits, such recomputation of a man's primary insurance"
+    },
+    {
+     "role": "body",
+     "text": "amount shall be effective for and after the month in which he died.\""
+    },
+    {
+     "role": "body",
+     "text": "(e)(1) Section 202(b)(1)(C) of such Act is amended to read as"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 402."
+    },
+    {
+     "role": "body",
+     "text": "follows:"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 1987,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0771,
+   "seconds": 22.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11469,
+   "output_tokens": 1426,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.09341,
+  "seconds": 17.9,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "(A) section 209(i),",
+    "kept": "(A) section 209(i),",
+    "reason": "The body line (A) is printed here, with its sidenote 42 USC 409 to its right; reading order puts the body line first."
+   },
+   {
+    "run": 2,
+    "a": "(A)  section 209(i),",
+    "b": "(B) the last sentence of section 213(a),",
+    "kept": "(B) the last sentence of section 213(a),",
+    "reason": "Following the 409 sidenote comes the next body line (B), aligned with sidenote 42 USC 413."
+   },
+   {
+    "run": 3,
+    "a": "(B)  the last sentence of section 213(a),",
+    "b": "(C) section 216(i)(3)(A),",
+    "kept": "(C) section 216(i)(3)(A),",
+    "reason": "Next body line (C), aligned with sidenote 42 USC 416."
+   },
+   {
+    "run": 4,
+    "a": "(C)  section 216(i)(3)(A),",
+    "b": "(D) the first sentence of section 223(a)(2), and",
+    "kept": "(D) the first sentence of section 223(a)(2), and",
+    "reason": "Next body line (D), aligned with sidenote 42 USC 423."
+   },
+   {
+    "run": 5,
+    "a": "(D)  the first sentence of section 223(a)(2), and",
+    "b": "",
+    "kept": "",
+    "reason": "The (D) line was already placed in run 4; nothing additional printed here."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "(d)(1) Section 215(a)(4) of such Act is amended to read as",
+    "kept": "(d)(1) Section 215(a)(4) of such Act is amended to read as",
+    "reason": "This body line carries the sidenote 42 USC 415 at its right, so it precedes that sidenote."
+   },
+   {
+    "run": 7,
+    "a": "(d)(1) Section 215(a)(4) of such Act is amended to read as",
+    "b": "",
+    "kept": "",
+    "reason": "The (d)(1) line was already placed in run 6."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "(2) Section 215(b)(3) of such Act is amended to read as follows:",
+    "kept": "(2) Section 215(b)(3) of such Act is amended to read as follows:",
+    "reason": "This body line is aligned with the second 42 USC 415 sidenote and thus comes first."
+   },
+   {
+    "run": 9,
+    "a": "(2) Section 215(b)(3) of such Act is amended to read as follows:",
+    "b": "",
+    "kept": "",
+    "reason": "The (2) Section line was already placed in run 8."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "(e)(1) Section 202(b)(1)(C) of such Act is amended to read as",
+    "kept": "(e)(1) Section 202(b)(1)(C) of such Act is amended to read as",
+    "reason": "This body line is aligned with the sidenote 42 USC 402 and precedes it in reading order."
+   },
+   {
+    "run": 11,
+    "a": "(e)(1) Section 202(b)(1)(C) of such Act is amended to read as",
+    "b": "",
+    "kept": "",
+    "reason": "The (e)(1) line was already placed in run 10."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "75 STAT.]          PUBLIC LAW 87-64-JUNE 30, 1961"
+  },
+  {
+   "role": "page-number",
+   "text": "135"
+  },
+  {
+   "role": "body",
+   "text": "section 216(a))\" each place they appear therein and inserting in lieu"
+  },
+  {
+   "role": "body",
+   "text": "thereof \"age 62 (if a woman) or age 65 (if a man)\":"
+  },
+  {
+   "role": "body",
+   "text": "(A) section 209(i),"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 409."
+  },
+  {
+   "role": "body",
+   "text": "(B) the last sentence of section 213(a),"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 413."
+  },
+  {
+   "role": "body",
+   "text": "(C) section 216(i)(3)(A),"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 416."
+  },
+  {
+   "role": "body",
+   "text": "(D) the first sentence of section 223(a)(2), and"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 423."
+  },
+  {
+   "role": "body",
+   "text": "(E)  section 223(c)(1)(A)."
+  },
+  {
+   "role": "body",
+   "text": "(d)(1) Section 215(a)(4) of such Act is amended to read as"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 415."
+  },
+  {
+   "role": "body",
+   "text": "follows:"
+  },
+  {
+   "role": "body",
+   "text": "\"(4)  In the case of—"
+  },
+  {
+   "role": "body",
+   "text": "\"(A) a woman who was entitled to a disability insurance"
+  },
+  {
+   "role": "body",
+   "text": "benefit for the month before the month in which she died or"
+  },
+  {
+   "role": "body",
+   "text": "became entitled to old-age insurance benefits, or"
+  },
+  {
+   "role": "body",
+   "text": "\"(B) a man who was entitled to a disability insurance"
+  },
+  {
+   "role": "body",
+   "text": "benefit for the month before the month in which he died or"
+  },
+  {
+   "role": "body",
+   "text": "attained age 65,"
+  },
+  {
+   "role": "body",
+   "text": "the amount in column IV which is equal to such disability in-"
+  },
+  {
+   "role": "body",
+   "text": "surance benefit.\""
+  },
+  {
+   "role": "body",
+   "text": "(2) Section 215(b)(3) of such Act is amended to read as follows:"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 415."
+  },
+  {
+   "role": "body",
+   "text": "\"(3)  For purposes of paragraph (2), the number of an individual's"
+  },
+  {
+   "role": "body",
+   "text": "elapsed years is the number of calendar years after 1950 (or, if later,"
+  },
+  {
+   "role": "body",
+   "text": "the year in which he attained age 21) and before—"
+  },
+  {
+   "role": "body",
+   "text": "\"(A) in the case of a woman, the year in which she died or"
+  },
+  {
+   "role": "body",
+   "text": "(if earlier) the first year after 1960 in which she both was fully"
+  },
+  {
+   "role": "body",
+   "text": "insured and had attained age 62,"
+  },
+  {
+   "role": "body",
+   "text": "\"(B) in the case of a man who has died, the year in which he"
+  },
+  {
+   "role": "body",
+   "text": "died or (if earlier) the first year after 1960 in which he both"
+  },
+  {
+   "role": "body",
+   "text": "was fully insured and had attained age 65, or"
+  },
+  {
+   "role": "body",
+   "text": "\"(C) in the case of a man who has not died, the first year after"
+  },
+  {
+   "role": "body",
+   "text": "1960 in which he attained (or would attain) age 65 or (if later)"
+  },
+  {
+   "role": "body",
+   "text": "the first year in which he was fully insured."
+  },
+  {
+   "role": "body",
+   "text": "For purposes of the preceding sentence, any calendar year any part"
+  },
+  {
+   "role": "body",
+   "text": "of which was included in a period of disability shall not be included in"
+  },
+  {
+   "role": "body",
+   "text": "such number of calendar years.\""
+  },
+  {
+   "role": "body",
+   "text": "(3) Section 215(f) of such Act is amended by adding at the end"
+  },
+  {
+   "role": "body",
+   "text": "thereof the following new paragraph:"
+  },
+  {
+   "role": "body",
+   "text": "\"(7)(A)  In the case of a man who attains age 65 and who became"
+  },
+  {
+   "role": "body",
+   "text": "entitled to old-age insurance benefits before the month in which he"
+  },
+  {
+   "role": "body",
+   "text": "attains such age, his primary insurance amount shall be recomputed"
+  },
+  {
+   "role": "body",
+   "text": "as provided in subsection (a) as though he became entitled to old-age"
+  },
+  {
+   "role": "body",
+   "text": "insurance benefits in the month in which he attained age 65, except"
+  },
+  {
+   "role": "body",
+   "text": "that his computation base years referred to in subsection (b)(2) shall"
+  },
+  {
+   "role": "body",
+   "text": "include the year in which he attained age 65.  Such recomputation"
+  },
+  {
+   "role": "body",
+   "text": "shall be effective for and after the month in which he attained age 65."
+  },
+  {
+   "role": "body",
+   "text": "\"(B)  In the case of a man who became entitled to old-age insur-"
+  },
+  {
+   "role": "body",
+   "text": "ance benefits and died before the month in which he attained age"
+  },
+  {
+   "role": "body",
+   "text": "65, the Secretary shall, if any person is entitled to monthly insurance"
+  },
+  {
+   "role": "body",
+   "text": "benefits or a lump-sum death payment on the basis of the wages and"
+  },
+  {
+   "role": "body",
+   "text": "self-employment income of the decedent, recompute his primary"
+  },
+  {
+   "role": "body",
+   "text": "insurance amount as provided in subsection (a) as though he became"
+  },
+  {
+   "role": "body",
+   "text": "entitled to old-age insurance benefits in the month in which he died;"
+  },
+  {
+   "role": "body",
+   "text": "except that (i) his computation base years referred to in subsection"
+  },
+  {
+   "role": "body",
+   "text": "(b)(2) shall include the year in which he died, and (ii) his elapsed"
+  },
+  {
+   "role": "body",
+   "text": "years referred to in subsection (b)(3) shall not include the year in"
+  },
+  {
+   "role": "body",
+   "text": "which he died or any year thereafter.  In the case of monthly insur-"
+  },
+  {
+   "role": "body",
+   "text": "'ance benefits, such recomputation of a man's primary insurance"
+  },
+  {
+   "role": "body",
+   "text": "amount shall be effective for and after the month in which he died.\""
+  },
+  {
+   "role": "body",
+   "text": "(e)(1) Section 202(b)(1)(C) of such Act is amended to read as"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 402."
+  },
+  {
+   "role": "body",
+   "text": "follows:"
+  }
+ ],
+ "disagreement_count": 11,
+ "tokens": {
+  "input_tokens": 22292,
+  "output_tokens": 5518,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.25057,
+ "seconds": 63.9,
+ "created": "2026-09-08T11:24:26"
+}

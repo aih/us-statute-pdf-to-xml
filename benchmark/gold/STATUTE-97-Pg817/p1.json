@@ -1,0 +1,1076 @@
+{
+ "granule_id": "STATUTE-97-Pg817",
+ "package_id": "STATUTE-97",
+ "volume": 97,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "An act to provide for the use and distribution of funds awarded the Assiniboine Tribe of the Fort Belknap Indian Community, Montana, and the Assiniboine Tribe of the Fort Peck Indian Reservation, Mont",
+ "date_issued": "1983-10-13",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "817",
+ "image": "data/gold/STATUTE-97-Pg817/p1.png",
+ "image_sha256": "da55aea2d0e78129ee70b90b85a155d249987c24de7bc7b431f96ebdb072a658",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98-124—OCT. 13, 1983        97 STAT. 817"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 98-124"
+    },
+    {
+     "role": "body",
+     "text": "98th Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Oct. 13, 1983"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1148]"
+    },
+    {
+     "role": "body",
+     "text": "To provide for the use and distribution of funds awarded the Assiniboine Tribe of the"
+    },
+    {
+     "role": "body",
+     "text": "Fort Belknap Indian Community, Montana, and the Assiniboine Tribe of the Fort"
+    },
+    {
+     "role": "body",
+     "text": "Peck Indian Reservation, Montana, in docket numbered 10-81L by the United"
+    },
+    {
+     "role": "body",
+     "text": "States Court of Claims, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Assiniboine"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That, notwithstand-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Tribes of"
+    },
+    {
+     "role": "body",
+     "text": "ing any other provision of law, the funds appropriated on Septem-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Indians, Mont."
+    },
+    {
+     "role": "body",
+     "text": "ber 30, 1981, in accordance with section 1302 of the Supplemental"
+    },
+    {
+     "role": "sidenote",
+     "text": "Distribution and"
+    },
+    {
+     "role": "body",
+     "text": "Appropriation Act (31 U.S.C. 724a), in satisfaction of an award in"
+    },
+    {
+     "role": "sidenote",
+     "text": "use of funds."
+    },
+    {
+     "role": "body",
+     "text": "United States Court of Claims docket numbered 10-81L, including"
+    },
+    {
+     "role": "sidenote",
+     "text": "31 USC 1304."
+    },
+    {
+     "role": "body",
+     "text": "all interest and investment income accrued, less attorney fees and"
+    },
+    {
+     "role": "body",
+     "text": "litigation expenses, shall be divided on the basis of 42.5 percent of"
+    },
+    {
+     "role": "body",
+     "text": "the award funds to the Assiniboine Tribe of the Fort Belknap Indian"
+    },
+    {
+     "role": "body",
+     "text": "Community and 57.5 percent of the award funds to the Assiniboine"
+    },
+    {
+     "role": "body",
+     "text": "Tribe of the Fort Peck Indian Reservation and utilized for the"
+    },
+    {
+     "role": "body",
+     "text": "purposes herein provided."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The funds apportioned to the Assiniboine Tribe of the Fort"
+    },
+    {
+     "role": "sidenote",
+     "text": "Fort Belknap"
+    },
+    {
+     "role": "body",
+     "text": "Belknap Indian Community, Montana, less the costs incurred by the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Indian"
+    },
+    {
+     "role": "body",
+     "text": "Fort Belknap Assiniboine Treaty Committee in connection with"
+    },
+    {
+     "role": "sidenote",
+     "text": "Community,"
+    },
+    {
+     "role": "body",
+     "text": "planning for the use and distribution of such funds, including costs"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mont."
+    },
+    {
+     "role": "body",
+     "text": "in connection with this legislation, and related attorney fees and"
+    },
+    {
+     "role": "body",
+     "text": "expenses, shall be used and distributed as follows:"
+    },
+    {
+     "role": "body",
+     "text": "(a) The Assiniboine membership roll of the Fort Belknap"
+    },
+    {
+     "role": "sidenote",
+     "text": "Membership"
+    },
+    {
+     "role": "body",
+     "text": "Indian Community shall be brought current to include all eligi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "roll."
+    },
+    {
+     "role": "body",
+     "text": "ble members born on or prior to and living on the date of"
+    },
+    {
+     "role": "body",
+     "text": "enactment of this Act. Subsequent to the preparation and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Per capita"
+    },
+    {
+     "role": "body",
+     "text": "approval by the Secretary of the Interior (hereinafter \"Secre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "payment."
+    },
+    {
+     "role": "body",
+     "text": "tary\") of this roll, the Secretary shall make a per capita distri-"
+    },
+    {
+     "role": "body",
+     "text": "bution of 80 percent of the funds (in a sum as equal as possible),"
+    },
+    {
+     "role": "body",
+     "text": "to each duly enrolled member. The Secretary's determination"
+    },
+    {
+     "role": "body",
+     "text": "concerning eligibility to share in the per capita payment shall"
+    },
+    {
+     "role": "body",
+     "text": "be final."
+    },
+    {
+     "role": "body",
+     "text": "(b) 20 percent of these funds, and any amount remaining after"
+    },
+    {
+     "role": "sidenote",
+     "text": "Trust and"
+    },
+    {
+     "role": "body",
+     "text": "the per capita payment, shall be held in trust and invested by"
+    },
+    {
+     "role": "sidenote",
+     "text": "investment."
+    },
+    {
+     "role": "body",
+     "text": "the Secretary for the benefit of the members of the Assiniboine"
+    },
+    {
+     "role": "body",
+     "text": "Tribe of the Fort Belknap Indian Community. The Treaty Com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Annual family"
+    },
+    {
+     "role": "body",
+     "text": "mittee of such Tribe, with the approval of the Secretary, shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "interest"
+    },
+    {
+     "role": "body",
+     "text": "distribute an annual family interest payment to all enrolled"
+    },
+    {
+     "role": "sidenote",
+     "text": "payment."
+    },
+    {
+     "role": "body",
+     "text": "members of the Fort Belknap Assiniboine Tribe. All members"
+    },
+    {
+     "role": "body",
+     "text": "on the Assiniboine tribal membership roll living on Novem-"
+    },
+    {
+     "role": "body",
+     "text": "ber 15 of each year shall be eligible for the annual interest"
+    },
+    {
+     "role": "body",
+     "text": "payment. Members born after that date and living on the"
+    },
+    {
+     "role": "body",
+     "text": "following November 15 shall be eligible for the next annual"
+    },
+    {
+     "role": "body",
+     "text": "payment."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. The funds apportioned to the Assiniboine Tribe of the Fort"
+    },
+    {
+     "role": "sidenote",
+     "text": "Fort Peck Indian"
+    },
+    {
+     "role": "body",
+     "text": "Peck Indian Reservation, Montana, less the costs incurred by the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reservation,"
+    },
+    {
+     "role": "body",
+     "text": "Fort Peck Assiniboine Council in connection with planning for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mont."
+    },
+    {
+     "role": "body",
+     "text": "use and distribution of such funds, including costs in connection"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2152,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08067,
+   "seconds": 22.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98-124—OCT. 13, 1983"
+    },
+    {
+     "role": "running-head",
+     "text": "97 STAT. 817"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 98-124"
+    },
+    {
+     "role": "body",
+     "text": "98th Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "body",
+     "text": "To provide for the use and distribution of funds awarded the Assiniboine Tribe of the"
+    },
+    {
+     "role": "body",
+     "text": "Fort Belknap Indian Community, Montana, and the Assiniboine Tribe of the Fort"
+    },
+    {
+     "role": "body",
+     "text": "Peck Indian Reservation, Montana, in docket numbered 10-81L by the United"
+    },
+    {
+     "role": "body",
+     "text": "States Court of Claims, and for other purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "Oct. 13, 1983"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1148]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That, notwithstand-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Assiniboine"
+    },
+    {
+     "role": "body",
+     "text": "ing any other provision of law, the funds appropriated on Septem-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Tribes of"
+    },
+    {
+     "role": "body",
+     "text": "ber 30, 1981, in accordance with section 1302 of the Supplemental"
+    },
+    {
+     "role": "sidenote",
+     "text": "Indians, Mont."
+    },
+    {
+     "role": "body",
+     "text": "Appropriation Act (31 U.S.C. 724a), in satisfaction of an award in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Distribution and"
+    },
+    {
+     "role": "body",
+     "text": "United States Court of Claims docket numbered 10-81L, including"
+    },
+    {
+     "role": "sidenote",
+     "text": "use of funds."
+    },
+    {
+     "role": "body",
+     "text": "all interest and investment income accrued, less attorney fees and"
+    },
+    {
+     "role": "sidenote",
+     "text": "31 USC 1304."
+    },
+    {
+     "role": "body",
+     "text": "litigation expenses, shall be divided on the basis of 42.5 percent of"
+    },
+    {
+     "role": "body",
+     "text": "the award funds to the Assiniboine Tribe of the Fort Belknap Indian"
+    },
+    {
+     "role": "body",
+     "text": "Community and 57.5 percent of the award funds to the Assiniboine"
+    },
+    {
+     "role": "body",
+     "text": "Tribe of the Fort Peck Indian Reservation and utilized for the"
+    },
+    {
+     "role": "body",
+     "text": "purposes herein provided."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The funds apportioned to the Assiniboine Tribe of the Fort"
+    },
+    {
+     "role": "sidenote",
+     "text": "Fort Belknap"
+    },
+    {
+     "role": "body",
+     "text": "Belknap Indian Community, Montana, less the costs incurred by the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Indian"
+    },
+    {
+     "role": "body",
+     "text": "Fort Belknap Assiniboine Treaty Committee in connection with"
+    },
+    {
+     "role": "sidenote",
+     "text": "Community,"
+    },
+    {
+     "role": "body",
+     "text": "planning for the use and distribution of such funds, including costs"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mont."
+    },
+    {
+     "role": "body",
+     "text": "in connection with this legislation, and related attorney fees and"
+    },
+    {
+     "role": "body",
+     "text": "expenses, shall be used and distributed as follows:"
+    },
+    {
+     "role": "body",
+     "text": "(a) The Assiniboine membership roll of the Fort Belknap"
+    },
+    {
+     "role": "sidenote",
+     "text": "Membership"
+    },
+    {
+     "role": "body",
+     "text": "Indian Community shall be brought current to include all eligi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "roll."
+    },
+    {
+     "role": "body",
+     "text": "ble members born on or prior to and living on the date of"
+    },
+    {
+     "role": "body",
+     "text": "enactment of this Act. Subsequent to the preparation and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Per capita"
+    },
+    {
+     "role": "body",
+     "text": "approval by the Secretary of the Interior (hereinafter \"Secre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "payment."
+    },
+    {
+     "role": "body",
+     "text": "tary\") of this roll, the Secretary shall make a per capita distri-"
+    },
+    {
+     "role": "body",
+     "text": "bution of 80 percent of the funds (in a sum as equal as possible),"
+    },
+    {
+     "role": "body",
+     "text": "to each duly enrolled member. The Secretary's determination"
+    },
+    {
+     "role": "body",
+     "text": "concerning eligibility to share in the per capita payment shall"
+    },
+    {
+     "role": "body",
+     "text": "be final."
+    },
+    {
+     "role": "body",
+     "text": "(b) 20 percent of these funds, and any amount remaining after"
+    },
+    {
+     "role": "sidenote",
+     "text": "Trust and"
+    },
+    {
+     "role": "body",
+     "text": "the per capita payment, shall be held in trust and invested by"
+    },
+    {
+     "role": "sidenote",
+     "text": "investment."
+    },
+    {
+     "role": "body",
+     "text": "the Secretary for the benefit of the members of the Assiniboine"
+    },
+    {
+     "role": "body",
+     "text": "Tribe of the Fort Belknap Indian Community. The Treaty Com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Annual family"
+    },
+    {
+     "role": "body",
+     "text": "mittee of such Tribe, with the approval of the Secretary, shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "interest"
+    },
+    {
+     "role": "body",
+     "text": "distribute an annual family interest payment to all enrolled"
+    },
+    {
+     "role": "sidenote",
+     "text": "payment."
+    },
+    {
+     "role": "body",
+     "text": "members of the Fort Belknap Assiniboine Tribe. All members"
+    },
+    {
+     "role": "body",
+     "text": "on the Assiniboine tribal membership roll living on Novem-"
+    },
+    {
+     "role": "body",
+     "text": "ber 15 of each year shall be eligible for the annual interest"
+    },
+    {
+     "role": "body",
+     "text": "payment. Members born after that date and living on the"
+    },
+    {
+     "role": "body",
+     "text": "following November 15 shall be eligible for the next annual"
+    },
+    {
+     "role": "body",
+     "text": "payment."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. The funds apportioned to the Assiniboine Tribe of the Fort"
+    },
+    {
+     "role": "sidenote",
+     "text": "Fort Peck Indian"
+    },
+    {
+     "role": "body",
+     "text": "Peck Indian Reservation, Montana, less the costs incurred by the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reservation,"
+    },
+    {
+     "role": "body",
+     "text": "Fort Peck Assiniboine Council in connection with planning for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mont."
+    },
+    {
+     "role": "body",
+     "text": "use and distribution of such funds, including costs in connection"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2165,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08099,
+   "seconds": 22.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11773,
+   "output_tokens": 2178,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.11373,
+  "seconds": 28.3,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "PUBLIC LAW 98-124—OCT. 13, 1983        97 STAT. 817",
+    "b": "PUBLIC LAW 98-124—OCT. 13, 1983\n97 STAT. 817",
+    "kept": "PUBLIC LAW 98-124—OCT. 13, 1983        97 STAT. 817",
+    "reason": "Both elements sit on a single printed running-head line."
+   },
+   {
+    "run": 2,
+    "a": "Oct. 13, 1983\n[S. 1148]",
+    "b": "",
+    "kept": "",
+    "reason": "The date/bill sidenote is printed lower, level with the 'To provide' paragraph, not beside 'An Act'."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "Oct. 13, 1983\n[S. 1148]",
+    "kept": "Oct. 13, 1983\n[S. 1148]",
+    "reason": "Sidenote aligns with the long-title block, so it belongs here."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "United States of America in Congress assembled, That, notwithstand-",
+    "kept": "",
+    "reason": "The 'Assiniboine' sidenote precedes the 'United States of America' line, which follows it."
+   },
+   {
+    "run": 5,
+    "a": "United States of America in Congress assembled, That, notwithstand-",
+    "b": "ing any other provision of law, the funds appropriated on Septem-",
+    "kept": "United States of America in Congress assembled, That, notwithstand-",
+    "reason": "This body line is level with the 'Assiniboine' sidenote."
+   },
+   {
+    "run": 6,
+    "a": "ing any other provision of law, the funds appropriated on Septem-",
+    "b": "ber 30, 1981, in accordance with section 1302 of the Supplemental",
+    "kept": "ing any other provision of law, the funds appropriated on Septem-",
+    "reason": "Body line level with 'Tribes of' sidenote."
+   },
+   {
+    "run": 7,
+    "a": "ber 30, 1981, in accordance with section 1302 of the Supplemental",
+    "b": "Appropriation Act (31 U.S.C. 724a), in satisfaction of an award in",
+    "kept": "ber 30, 1981, in accordance with section 1302 of the Supplemental",
+    "reason": "Body line level with 'Indians, Mont.' sidenote."
+   },
+   {
+    "run": 8,
+    "a": "Appropriation Act (31 U.S.C. 724a), in satisfaction of an award in",
+    "b": "United States Court of Claims docket numbered 10-81L, including",
+    "kept": "Appropriation Act (31 U.S.C. 724a), in satisfaction of an award in",
+    "reason": "Body line level with 'Distribution and' sidenote."
+   },
+   {
+    "run": 9,
+    "a": "United States Court of Claims docket numbered 10-81L, including",
+    "b": "all interest and investment income accrued, less attorney fees and",
+    "kept": "United States Court of Claims docket numbered 10-81L, including",
+    "reason": "Body line level with 'use of funds.' sidenote."
+   },
+   {
+    "run": 10,
+    "a": "all interest and investment income accrued, less attorney fees and",
+    "b": "",
+    "kept": "all interest and investment income accrued, less attorney fees and",
+    "reason": "Body line follows the '31 USC 1304.' sidenote."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 98-124—OCT. 13, 1983        97 STAT. 817"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 98-124"
+  },
+  {
+   "role": "body",
+   "text": "98th Congress"
+  },
+  {
+   "role": "body",
+   "text": "An Act"
+  },
+  {
+   "role": "body",
+   "text": "To provide for the use and distribution of funds awarded the Assiniboine Tribe of the"
+  },
+  {
+   "role": "body",
+   "text": "Fort Belknap Indian Community, Montana, and the Assiniboine Tribe of the Fort"
+  },
+  {
+   "role": "body",
+   "text": "Peck Indian Reservation, Montana, in docket numbered 10-81L by the United"
+  },
+  {
+   "role": "body",
+   "text": "States Court of Claims, and for other purposes."
+  },
+  {
+   "role": "sidenote",
+   "text": "Oct. 13, 1983"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 1148]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Assiniboine"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That, notwithstand-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Tribes of"
+  },
+  {
+   "role": "body",
+   "text": "ing any other provision of law, the funds appropriated on Septem-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Indians, Mont."
+  },
+  {
+   "role": "body",
+   "text": "ber 30, 1981, in accordance with section 1302 of the Supplemental"
+  },
+  {
+   "role": "sidenote",
+   "text": "Distribution and"
+  },
+  {
+   "role": "body",
+   "text": "Appropriation Act (31 U.S.C. 724a), in satisfaction of an award in"
+  },
+  {
+   "role": "sidenote",
+   "text": "use of funds."
+  },
+  {
+   "role": "body",
+   "text": "United States Court of Claims docket numbered 10-81L, including"
+  },
+  {
+   "role": "sidenote",
+   "text": "31 USC 1304."
+  },
+  {
+   "role": "body",
+   "text": "all interest and investment income accrued, less attorney fees and"
+  },
+  {
+   "role": "body",
+   "text": "litigation expenses, shall be divided on the basis of 42.5 percent of"
+  },
+  {
+   "role": "body",
+   "text": "the award funds to the Assiniboine Tribe of the Fort Belknap Indian"
+  },
+  {
+   "role": "body",
+   "text": "Community and 57.5 percent of the award funds to the Assiniboine"
+  },
+  {
+   "role": "body",
+   "text": "Tribe of the Fort Peck Indian Reservation and utilized for the"
+  },
+  {
+   "role": "body",
+   "text": "purposes herein provided."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The funds apportioned to the Assiniboine Tribe of the Fort"
+  },
+  {
+   "role": "sidenote",
+   "text": "Fort Belknap"
+  },
+  {
+   "role": "body",
+   "text": "Belknap Indian Community, Montana, less the costs incurred by the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Indian"
+  },
+  {
+   "role": "body",
+   "text": "Fort Belknap Assiniboine Treaty Committee in connection with"
+  },
+  {
+   "role": "sidenote",
+   "text": "Community,"
+  },
+  {
+   "role": "body",
+   "text": "planning for the use and distribution of such funds, including costs"
+  },
+  {
+   "role": "sidenote",
+   "text": "Mont."
+  },
+  {
+   "role": "body",
+   "text": "in connection with this legislation, and related attorney fees and"
+  },
+  {
+   "role": "body",
+   "text": "expenses, shall be used and distributed as follows:"
+  },
+  {
+   "role": "body",
+   "text": "(a) The Assiniboine membership roll of the Fort Belknap"
+  },
+  {
+   "role": "sidenote",
+   "text": "Membership"
+  },
+  {
+   "role": "body",
+   "text": "Indian Community shall be brought current to include all eligi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "roll."
+  },
+  {
+   "role": "body",
+   "text": "ble members born on or prior to and living on the date of"
+  },
+  {
+   "role": "body",
+   "text": "enactment of this Act. Subsequent to the preparation and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Per capita"
+  },
+  {
+   "role": "body",
+   "text": "approval by the Secretary of the Interior (hereinafter \"Secre-"
+  },
+  {
+   "role": "sidenote",
+   "text": "payment."
+  },
+  {
+   "role": "body",
+   "text": "tary\") of this roll, the Secretary shall make a per capita distri-"
+  },
+  {
+   "role": "body",
+   "text": "bution of 80 percent of the funds (in a sum as equal as possible),"
+  },
+  {
+   "role": "body",
+   "text": "to each duly enrolled member. The Secretary's determination"
+  },
+  {
+   "role": "body",
+   "text": "concerning eligibility to share in the per capita payment shall"
+  },
+  {
+   "role": "body",
+   "text": "be final."
+  },
+  {
+   "role": "body",
+   "text": "(b) 20 percent of these funds, and any amount remaining after"
+  },
+  {
+   "role": "sidenote",
+   "text": "Trust and"
+  },
+  {
+   "role": "body",
+   "text": "the per capita payment, shall be held in trust and invested by"
+  },
+  {
+   "role": "sidenote",
+   "text": "investment."
+  },
+  {
+   "role": "body",
+   "text": "the Secretary for the benefit of the members of the Assiniboine"
+  },
+  {
+   "role": "body",
+   "text": "Tribe of the Fort Belknap Indian Community. The Treaty Com-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Annual family"
+  },
+  {
+   "role": "body",
+   "text": "mittee of such Tribe, with the approval of the Secretary, shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "interest"
+  },
+  {
+   "role": "body",
+   "text": "distribute an annual family interest payment to all enrolled"
+  },
+  {
+   "role": "sidenote",
+   "text": "payment."
+  },
+  {
+   "role": "body",
+   "text": "members of the Fort Belknap Assiniboine Tribe. All members"
+  },
+  {
+   "role": "body",
+   "text": "on the Assiniboine tribal membership roll living on Novem-"
+  },
+  {
+   "role": "body",
+   "text": "ber 15 of each year shall be eligible for the annual interest"
+  },
+  {
+   "role": "body",
+   "text": "payment. Members born after that date and living on the"
+  },
+  {
+   "role": "body",
+   "text": "following November 15 shall be eligible for the next annual"
+  },
+  {
+   "role": "body",
+   "text": "payment."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. The funds apportioned to the Assiniboine Tribe of the Fort"
+  },
+  {
+   "role": "sidenote",
+   "text": "Fort Peck Indian"
+  },
+  {
+   "role": "body",
+   "text": "Peck Indian Reservation, Montana, less the costs incurred by the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Reservation,"
+  },
+  {
+   "role": "body",
+   "text": "Fort Peck Assiniboine Council in connection with planning for the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Mont."
+  },
+  {
+   "role": "body",
+   "text": "use and distribution of such funds, including costs in connection"
+  }
+ ],
+ "disagreement_count": 10,
+ "tokens": {
+  "input_tokens": 22372,
+  "output_tokens": 6495,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.27539,
+ "seconds": 72.7,
+ "created": "2026-09-08T11:20:12"
+}

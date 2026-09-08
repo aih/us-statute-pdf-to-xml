@@ -13,11 +13,23 @@ dependencies = [
     "huggingface_hub>=1.0",
     "rapidfuzz>=3.0",
     "pyyaml>=6.0",
+    "img2pdf>=0.6.3",
 ]
 
 [project.optional-dependencies]
 dev = [
     "pytest>=8.0",
+]
+# CPU OCR engines for the rapidocr and easyocr profiles (pipeline/ocr_engines.py); the versions Docling 2.126 pins.
+ocr = [
+    "rapidocr>=3.9.1,<4",
+    "onnxruntime>=1.7.0,<2",
+    "easyocr>=1.7,<2",
+    "scikit-image>=0.19",
+]
+# VLM profiles (pipeline.vlm): Docling's inline VLM runtime; mlx-vlm on Apple silicon, transformers elsewhere.
+vlm = [
+    "docling[vlm]>=2.126.0",
 ]
 
 [build-system]

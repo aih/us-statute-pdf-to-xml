@@ -1,0 +1,1288 @@
+{
+ "granule_id": "STATUTE-36-Pg448-2",
+ "package_id": "STATUTE-36",
+ "volume": 36,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act To authorize the sale and disposition of a portion of the surplus and unallotted lands in Mellette and Washabaugh counties in the Rosebud Indian Reservation in the State of South Dakota, and ma",
+ "date_issued": "1910-05-30",
+ "pdf_page": 4,
+ "pdf_pages": 5,
+ "stat_page": "451",
+ "image": "data/gold/STATUTE-36-Pg448-2/p4.png",
+ "image_sha256": "53363507b4755682158575de8166406e9ea3a2ad857595ea425b156a9ca99e93",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CH. 260.  1910."
+    },
+    {
+     "role": "page-number",
+     "text": "451"
+    },
+    {
+     "role": "body",
+     "text": "made all the required payments aforesaid he shall be entitled to a"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reappraisal of un-"
+    },
+    {
+     "role": "body",
+     "text": "patent for the lands entered: And provided further, That all lands"
+    },
+    {
+     "role": "sidenote",
+     "text": "disposed of lands."
+    },
+    {
+     "role": "body",
+     "text": "remaining undisposed of at the expiration of four years from the"
+    },
+    {
+     "role": "body",
+     "text": "opening of said lands to entry may, in the discretion of the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Interior, be reappraised in the manner provided for in this Act."
+    },
+    {
+     "role": "sidenote",
+     "text": "Deposit of proceeds"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. That from the proceeds arising from the sale and disposi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "to credit of Indians."
+    },
+    {
+     "role": "body",
+     "text": "tion of the lands aforesaid, exclusive of the customary fees and com-"
+    },
+    {
+     "role": "body",
+     "text": "missions, there shall be deposited in the Treasury of the United"
+    },
+    {
+     "role": "body",
+     "text": "States, to the credit of the Indians belonging and having tribal rights"
+    },
+    {
+     "role": "body",
+     "text": "on the said reservation, the sums to which the said tribe may be"
+    },
+    {
+     "role": "body",
+     "text": "entitled, which shall draw interest at three per centum per annum;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Use of proceeds."
+    },
+    {
+     "role": "body",
+     "text": "that the moneys derived from the sale of said lands and deposited in"
+    },
+    {
+     "role": "body",
+     "text": "the Treasury of the United States to the credit of said Indians shall"
+    },
+    {
+     "role": "body",
+     "text": "be at all times subject to appropriation by Congress for their educa-"
+    },
+    {
+     "role": "body",
+     "text": "tion, support, and civilization."
+    },
+    {
+     "role": "sidenote",
+     "text": "Purchase of school"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 8. That sections sixteen and thirty-six of the land in each"
+    },
+    {
+     "role": "sidenote",
+     "text": "lands for South Da-"
+    },
+    {
+     "role": "body",
+     "text": "township within the tract described in section one of this Act shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "kota."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 1073."
+    },
+    {
+     "role": "body",
+     "text": "not be subject to entry, but shall be reserved for the use of the com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Price per acre."
+    },
+    {
+     "role": "body",
+     "text": "mon schools and paid for by the United States at two dollars and fifty"
+    },
+    {
+     "role": "body",
+     "text": "cents per acre, and the same are hereby granted to the State of South"
+    },
+    {
+     "role": "sidenote",
+     "text": "Lieu lands."
+    },
+    {
+     "role": "body",
+     "text": "Dakota for such purpose, and in case any of said sections, or parts"
+    },
+    {
+     "role": "body",
+     "text": "thereof, are lost to said State by reason of allotments thereof to any"
+    },
+    {
+     "role": "body",
+     "text": "Indian or Indians, or otherwise, the governor of said State, with the"
+    },
+    {
+     "role": "body",
+     "text": "approval of the Secretary of the Interior, is hereby authorized, within"
+    },
+    {
+     "role": "body",
+     "text": "the area described in section one of this Act, to locate other lands not"
+    },
+    {
+     "role": "body",
+     "text": "otherwise appropriated, which shall be paid for by the United States"
+    },
+    {
+     "role": "body",
+     "text": "as herein provided, in quantity equal to the loss, and such selections"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "shall be made prior to the opening of such lands to settlement: Pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Restriction of selec-"
+    },
+    {
+     "role": "body",
+     "text": "vided, That in any event not more than two sections shall be granted"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion."
+    },
+    {
+     "role": "body",
+     "text": "to the State in any one township, and lands must be selected in lieu"
+    },
+    {
+     "role": "body",
+     "text": "of sections sixteen or thirty-six, or both, or any part thereof, within"
+    },
+    {
+     "role": "body",
+     "text": "the township in which the loss occurs, except in any township where"
+    },
+    {
+     "role": "body",
+     "text": "there may not be two sections of unallotted lands, in which event"
+    },
+    {
+     "role": "body",
+     "text": "whatever is required to make two sections may be selected in any"
+    },
+    {
+     "role": "body",
+     "text": "adjoining township."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation to"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 9. That there is hereby appropriated, out of any money in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "pay for lands granted"
+    },
+    {
+     "role": "body",
+     "text": "Treasury not otherwise appropriated, the sum of not more than one"
+    },
+    {
+     "role": "sidenote",
+     "text": "South Dakota."
+    },
+    {
+     "role": "body",
+     "text": "hundred and twenty-five thousand dollars, or so much thereof as"
+    },
+    {
+     "role": "body",
+     "text": "may be necessary, to pay for the lands granted to the State of South"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation  for"
+    },
+    {
+     "role": "body",
+     "text": "Dakota, as provided in section eight of this Act.   And there is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "classification, etc."
+    },
+    {
+     "role": "body",
+     "text": "appropriated the further sum of thirty-five thousand dollars, or so"
+    },
+    {
+     "role": "body",
+     "text": "much thereof as may be necessary, for the purpose of making the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "appraisement and classification provided for herein: Provided, That"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reimbursement."
+    },
+    {
+     "role": "body",
+     "text": "the latter appropriation, or any further appropriation hereafter made"
+    },
+    {
+     "role": "body",
+     "text": "for the purpose of carrying out the provisions of this Act, shall be"
+    },
+    {
+     "role": "body",
+     "text": "reimbursed to the United States from the proceeds received from the"
+    },
+    {
+     "role": "body",
+     "text": "sale of the lands described herein or from any money in the Treasury"
+    },
+    {
+     "role": "body",
+     "text": "belonging to said Indian tribe."
+    },
+    {
+     "role": "sidenote",
+     "text": "Prohibition of in-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 10. That the lands allotted, those retained or reserved, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "toxicants."
+    },
+    {
+     "role": "body",
+     "text": "the surplus land sold, set aside for town-site purposes, granted to the"
+    },
+    {
+     "role": "body",
+     "text": "State of South Dakota, or otherwise disposed of, shall be subject for"
+    },
+    {
+     "role": "body",
+     "text": "a period of twenty-five years to all the laws of the United States"
+    },
+    {
+     "role": "body",
+     "text": "prohibiting the introduction of intoxicants into the Indian country."
+    },
+    {
+     "role": "sidenote",
+     "text": "Nonresponsibilityof"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 11. That nothing in this Act contained shall in any manner"
+    },
+    {
+     "role": "sidenote",
+     "text": "United States."
+    },
+    {
+     "role": "body",
+     "text": "bind the United States to purchase any portion of the land herein"
+    },
+    {
+     "role": "body",
+     "text": "described, except sections sixteen and thirty-six, or the equivalent"
+    },
+    {
+     "role": "body",
+     "text": "in each township, or to dispose of said land except as provided herein,"
+    },
+    {
+     "role": "body",
+     "text": "or to guarantee to find purchasers for said lands or any portion there-"
+    },
+    {
+     "role": "body",
+     "text": "of, it being the intention of this Act that the United States shall act"
+    },
+    {
+     "role": "body",
+     "text": "as trustee for said Indians to dispose of the said lands, and to expend"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2598,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09182,
+   "seconds": 102.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CH. 260.  1910."
+    },
+    {
+     "role": "page-number",
+     "text": "451"
+    },
+    {
+     "role": "body",
+     "text": "made all the required payments aforesaid he shall be entitled to a"
+    },
+    {
+     "role": "body",
+     "text": "patent for the lands entered: And provided further, That all lands"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reappraisal of un-"
+    },
+    {
+     "role": "sidenote",
+     "text": "disposed of lands."
+    },
+    {
+     "role": "body",
+     "text": "remaining undisposed of at the expiration of four years from the"
+    },
+    {
+     "role": "body",
+     "text": "opening of said lands to entry may, in the discretion of the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Interior, be reappraised in the manner provided for in this Act."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. That from the proceeds arising from the sale and disposi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Deposit of proceeds"
+    },
+    {
+     "role": "sidenote",
+     "text": "to credit of Indians."
+    },
+    {
+     "role": "body",
+     "text": "tion of the lands aforesaid, exclusive of the customary fees and com-"
+    },
+    {
+     "role": "body",
+     "text": "missions, there shall be deposited in the Treasury of the United"
+    },
+    {
+     "role": "body",
+     "text": "States, to the credit of the Indians belonging and having tribal rights"
+    },
+    {
+     "role": "body",
+     "text": "on the said reservation, the sums to which the said tribe may be"
+    },
+    {
+     "role": "body",
+     "text": "entitled, which shall draw interest at three per centum per annum;"
+    },
+    {
+     "role": "body",
+     "text": "that the moneys derived from the sale of said lands and deposited in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Use of proceeds."
+    },
+    {
+     "role": "body",
+     "text": "the Treasury of the United States to the credit of said Indians shall"
+    },
+    {
+     "role": "body",
+     "text": "be at all times subject to appropriation by Congress for their educa-"
+    },
+    {
+     "role": "body",
+     "text": "tion, support, and civilization."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 8. That sections sixteen and thirty-six of the land in each"
+    },
+    {
+     "role": "sidenote",
+     "text": "Purchase of school"
+    },
+    {
+     "role": "sidenote",
+     "text": "lands for South Da-"
+    },
+    {
+     "role": "body",
+     "text": "township within the tract described in section one of this Act shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "kota."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 1073."
+    },
+    {
+     "role": "body",
+     "text": "not be subject to entry, but shall be reserved for the use of the com-"
+    },
+    {
+     "role": "body",
+     "text": "mon schools and paid for by the United States at two dollars and fifty"
+    },
+    {
+     "role": "sidenote",
+     "text": "Price per acre."
+    },
+    {
+     "role": "body",
+     "text": "cents per acre, and the same are hereby granted to the State of South"
+    },
+    {
+     "role": "body",
+     "text": "Dakota for such purpose, and in case any of said sections, or parts"
+    },
+    {
+     "role": "sidenote",
+     "text": "Lieu lands."
+    },
+    {
+     "role": "body",
+     "text": "thereof, are lost to said State by reason of allotments thereof to any"
+    },
+    {
+     "role": "body",
+     "text": "Indian or Indians, or otherwise, the governor of said State, with the"
+    },
+    {
+     "role": "body",
+     "text": "approval of the Secretary of the Interior, is hereby authorized, within"
+    },
+    {
+     "role": "body",
+     "text": "the area described in section one of this Act, to locate other lands not"
+    },
+    {
+     "role": "body",
+     "text": "otherwise appropriated, which shall be paid for by the United States"
+    },
+    {
+     "role": "body",
+     "text": "as herein provided, in quantity equal to the loss, and such selections"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "shall be made prior to the opening of such lands to settlement: Pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Restriction of selec-"
+    },
+    {
+     "role": "body",
+     "text": "vided, That in any event not more than two sections shall be granted"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion."
+    },
+    {
+     "role": "body",
+     "text": "to the State in any one township, and lands must be selected in lieu"
+    },
+    {
+     "role": "body",
+     "text": "of sections sixteen or thirty-six, or both, or any part thereof, within"
+    },
+    {
+     "role": "body",
+     "text": "the township in which the loss occurs, except in any township where"
+    },
+    {
+     "role": "body",
+     "text": "there may not be two sections of unallotted lands, in which event"
+    },
+    {
+     "role": "body",
+     "text": "whatever is required to make two sections may be selected in any"
+    },
+    {
+     "role": "body",
+     "text": "adjoining township."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 9. That there is hereby appropriated, out of any money in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation to"
+    },
+    {
+     "role": "sidenote",
+     "text": "pay for lands granted"
+    },
+    {
+     "role": "body",
+     "text": "Treasury not otherwise appropriated, the sum of not more than one"
+    },
+    {
+     "role": "sidenote",
+     "text": "South Dakota."
+    },
+    {
+     "role": "body",
+     "text": "hundred and twenty-five thousand dollars, or so much thereof as"
+    },
+    {
+     "role": "body",
+     "text": "may be necessary, to pay for the lands granted to the State of South"
+    },
+    {
+     "role": "body",
+     "text": "Dakota, as provided in section eight of this Act.  And there is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation  f o r"
+    },
+    {
+     "role": "sidenote",
+     "text": "classification, etc."
+    },
+    {
+     "role": "body",
+     "text": "appropriated the further sum of thirty-five thousand dollars, or so"
+    },
+    {
+     "role": "body",
+     "text": "much thereof as may be necessary, for the purpose of making the"
+    },
+    {
+     "role": "body",
+     "text": "appraisement and classification provided for herein: Provided, That"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Reimbursement."
+    },
+    {
+     "role": "body",
+     "text": "the latter appropriation, or any further appropriation hereafter made"
+    },
+    {
+     "role": "body",
+     "text": "for the purpose of carrying out the provisions of this Act, shall be"
+    },
+    {
+     "role": "body",
+     "text": "reimbursed to the United States from the proceeds received from the"
+    },
+    {
+     "role": "body",
+     "text": "sale of the lands described herein or from any money in the Treasury"
+    },
+    {
+     "role": "body",
+     "text": "belonging to said Indian tribe."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 10. That the lands allotted, those retained or reserved, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Prohibition of in-"
+    },
+    {
+     "role": "sidenote",
+     "text": "toxicants."
+    },
+    {
+     "role": "body",
+     "text": "the surplus land sold, set aside for town-site purposes, granted to the"
+    },
+    {
+     "role": "body",
+     "text": "State of South Dakota, or otherwise disposed of, shall be subject for"
+    },
+    {
+     "role": "body",
+     "text": "a period of twenty-five years to all the laws of the United States"
+    },
+    {
+     "role": "body",
+     "text": "prohibiting the introduction of intoxicants into the Indian country."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 11. That nothing in this Act contained shall in any manner"
+    },
+    {
+     "role": "sidenote",
+     "text": "Nonresponsibilityof"
+    },
+    {
+     "role": "sidenote",
+     "text": "United States."
+    },
+    {
+     "role": "body",
+     "text": "bind the United States to purchase any portion of the land herein"
+    },
+    {
+     "role": "body",
+     "text": "described, except sections sixteen and thirty-six, or the equivalent"
+    },
+    {
+     "role": "body",
+     "text": "in each township, or to dispose of said land except as provided herein,"
+    },
+    {
+     "role": "body",
+     "text": "or to guarantee to find purchasers for said lands or any portion there-"
+    },
+    {
+     "role": "body",
+     "text": "of, it being the intention of this Act that the United States shall act"
+    },
+    {
+     "role": "body",
+     "text": "as trustee for said Indians to dispose of the said lands, and to expend"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2527,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09004,
+   "seconds": 141.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12878,
+   "output_tokens": 1640,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.10581,
+  "seconds": 156.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "patent for the lands entered: And provided further, That all lands",
+    "kept": "patent for the lands entered: And provided further, That all lands",
+    "reason": "The body line is printed here; the adjacent sidenote follows it in reading order."
+   },
+   {
+    "run": 2,
+    "a": "patent for the lands entered: And provided further, That all lands",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate placement of the same body line already given before the sidenote."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "SEC. 7. That from the proceeds arising from the sale and disposi-",
+    "kept": "SEC. 7. That from the proceeds arising from the sale and disposi-",
+    "reason": "Body line precedes its marginal note pair."
+   },
+   {
+    "run": 4,
+    "a": "SEC. 7. That from the proceeds arising from the sale and disposi-",
+    "b": "",
+    "kept": "",
+    "reason": "Same body line already placed above the sidenote block."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "that the moneys derived from the sale of said lands and deposited in",
+    "kept": "that the moneys derived from the sale of said lands and deposited in",
+    "reason": "'Use of proceeds.' sidenote aligns with this body line, which comes first."
+   },
+   {
+    "run": 6,
+    "a": "that the moneys derived from the sale of said lands and deposited in",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line already placed."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "SEC. 8. That sections sixteen and thirty-six of the land in each",
+    "kept": "SEC. 8. That sections sixteen and thirty-six of the land in each",
+    "reason": "Body line precedes the 'Purchase of school lands' sidenote."
+   },
+   {
+    "run": 8,
+    "a": "SEC. 8. That sections sixteen and thirty-six of the land in each",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate placement."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "mon schools and paid for by the United States at two dollars and fifty",
+    "kept": "mon schools and paid for by the United States at two dollars and fifty",
+    "reason": "Body line aligned with 'Price per acre.' sidenote, placed first."
+   },
+   {
+    "run": 10,
+    "a": "mon schools and paid for by the United States at two dollars and fifty",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate placement."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "Dakota for such purpose, and in case any of said sections, or parts",
+    "kept": "Dakota for such purpose, and in case any of said sections, or parts",
+    "reason": "Body line aligned with 'Lieu lands.' sidenote, placed first."
+   },
+   {
+    "run": 12,
+    "a": "Dakota for such purpose, and in case any of said sections, or parts",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate placement."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "SEC. 9. That there is hereby appropriated, out of any money in the",
+    "kept": "SEC. 9. That there is hereby appropriated, out of any money in the",
+    "reason": "Body line precedes the appropriation sidenote."
+   },
+   {
+    "run": 14,
+    "a": "SEC. 9. That there is hereby appropriated, out of any money in the",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate placement."
+   },
+   {
+    "run": 15,
+    "a": "Appropriation  for",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote belongs after the aligned body line, not before it."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "Appropriation  f o r",
+    "kept": "Appropriation  f o r",
+    "reason": "Image shows letter-spaced 'f o r' in the sidenote."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "appraisement and classification provided for herein: Provided, That",
+    "kept": "appraisement and classification provided for herein: Provided, That",
+    "reason": "Body line precedes the 'Proviso. Reimbursement.' sidenote."
+   },
+   {
+    "run": 18,
+    "a": "appraisement and classification provided for herein: Provided, That",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate placement."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "SEC. 10. That the lands allotted, those retained or reserved, and",
+    "kept": "SEC. 10. That the lands allotted, those retained or reserved, and",
+    "reason": "Body line precedes the 'Prohibition of intoxicants.' sidenote."
+   },
+   {
+    "run": 20,
+    "a": "SEC. 10. That the lands allotted, those retained or reserved, and",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate placement."
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "SEC. 11. That nothing in this Act contained shall in any manner",
+    "kept": "SEC. 11. That nothing in this Act contained shall in any manner",
+    "reason": "Body line precedes the 'Nonresponsibility' sidenote."
+   },
+   {
+    "run": 22,
+    "a": "SEC. 11. That nothing in this Act contained shall in any manner",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate placement."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CH. 260.  1910."
+  },
+  {
+   "role": "page-number",
+   "text": "451"
+  },
+  {
+   "role": "body",
+   "text": "made all the required payments aforesaid he shall be entitled to a"
+  },
+  {
+   "role": "body",
+   "text": "patent for the lands entered: And provided further, That all lands"
+  },
+  {
+   "role": "sidenote",
+   "text": "Reappraisal of un-"
+  },
+  {
+   "role": "sidenote",
+   "text": "disposed of lands."
+  },
+  {
+   "role": "body",
+   "text": "remaining undisposed of at the expiration of four years from the"
+  },
+  {
+   "role": "body",
+   "text": "opening of said lands to entry may, in the discretion of the Secretary"
+  },
+  {
+   "role": "body",
+   "text": "of the Interior, be reappraised in the manner provided for in this Act."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 7. That from the proceeds arising from the sale and disposi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Deposit of proceeds"
+  },
+  {
+   "role": "sidenote",
+   "text": "to credit of Indians."
+  },
+  {
+   "role": "body",
+   "text": "tion of the lands aforesaid, exclusive of the customary fees and com-"
+  },
+  {
+   "role": "body",
+   "text": "missions, there shall be deposited in the Treasury of the United"
+  },
+  {
+   "role": "body",
+   "text": "States, to the credit of the Indians belonging and having tribal rights"
+  },
+  {
+   "role": "body",
+   "text": "on the said reservation, the sums to which the said tribe may be"
+  },
+  {
+   "role": "body",
+   "text": "entitled, which shall draw interest at three per centum per annum;"
+  },
+  {
+   "role": "body",
+   "text": "that the moneys derived from the sale of said lands and deposited in"
+  },
+  {
+   "role": "sidenote",
+   "text": "Use of proceeds."
+  },
+  {
+   "role": "body",
+   "text": "the Treasury of the United States to the credit of said Indians shall"
+  },
+  {
+   "role": "body",
+   "text": "be at all times subject to appropriation by Congress for their educa-"
+  },
+  {
+   "role": "body",
+   "text": "tion, support, and civilization."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 8. That sections sixteen and thirty-six of the land in each"
+  },
+  {
+   "role": "sidenote",
+   "text": "Purchase of school"
+  },
+  {
+   "role": "sidenote",
+   "text": "lands for South Da-"
+  },
+  {
+   "role": "body",
+   "text": "township within the tract described in section one of this Act shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "kota."
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, p. 1073."
+  },
+  {
+   "role": "body",
+   "text": "not be subject to entry, but shall be reserved for the use of the com-"
+  },
+  {
+   "role": "body",
+   "text": "mon schools and paid for by the United States at two dollars and fifty"
+  },
+  {
+   "role": "sidenote",
+   "text": "Price per acre."
+  },
+  {
+   "role": "body",
+   "text": "cents per acre, and the same are hereby granted to the State of South"
+  },
+  {
+   "role": "body",
+   "text": "Dakota for such purpose, and in case any of said sections, or parts"
+  },
+  {
+   "role": "sidenote",
+   "text": "Lieu lands."
+  },
+  {
+   "role": "body",
+   "text": "thereof, are lost to said State by reason of allotments thereof to any"
+  },
+  {
+   "role": "body",
+   "text": "Indian or Indians, or otherwise, the governor of said State, with the"
+  },
+  {
+   "role": "body",
+   "text": "approval of the Secretary of the Interior, is hereby authorized, within"
+  },
+  {
+   "role": "body",
+   "text": "the area described in section one of this Act, to locate other lands not"
+  },
+  {
+   "role": "body",
+   "text": "otherwise appropriated, which shall be paid for by the United States"
+  },
+  {
+   "role": "body",
+   "text": "as herein provided, in quantity equal to the loss, and such selections"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "shall be made prior to the opening of such lands to settlement: Pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Restriction of selec-"
+  },
+  {
+   "role": "body",
+   "text": "vided, That in any event not more than two sections shall be granted"
+  },
+  {
+   "role": "sidenote",
+   "text": "tion."
+  },
+  {
+   "role": "body",
+   "text": "to the State in any one township, and lands must be selected in lieu"
+  },
+  {
+   "role": "body",
+   "text": "of sections sixteen or thirty-six, or both, or any part thereof, within"
+  },
+  {
+   "role": "body",
+   "text": "the township in which the loss occurs, except in any township where"
+  },
+  {
+   "role": "body",
+   "text": "there may not be two sections of unallotted lands, in which event"
+  },
+  {
+   "role": "body",
+   "text": "whatever is required to make two sections may be selected in any"
+  },
+  {
+   "role": "body",
+   "text": "adjoining township."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 9. That there is hereby appropriated, out of any money in the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation to"
+  },
+  {
+   "role": "sidenote",
+   "text": "pay for lands granted"
+  },
+  {
+   "role": "body",
+   "text": "Treasury not otherwise appropriated, the sum of not more than one"
+  },
+  {
+   "role": "sidenote",
+   "text": "South Dakota."
+  },
+  {
+   "role": "body",
+   "text": "hundred and twenty-five thousand dollars, or so much thereof as"
+  },
+  {
+   "role": "body",
+   "text": "may be necessary, to pay for the lands granted to the State of South"
+  },
+  {
+   "role": "body",
+   "text": "Dakota, as provided in section eight of this Act.   And there is hereby"
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation  f o r"
+  },
+  {
+   "role": "sidenote",
+   "text": "classification, etc."
+  },
+  {
+   "role": "body",
+   "text": "appropriated the further sum of thirty-five thousand dollars, or so"
+  },
+  {
+   "role": "body",
+   "text": "much thereof as may be necessary, for the purpose of making the"
+  },
+  {
+   "role": "body",
+   "text": "appraisement and classification provided for herein: Provided, That"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "sidenote",
+   "text": "Reimbursement."
+  },
+  {
+   "role": "body",
+   "text": "the latter appropriation, or any further appropriation hereafter made"
+  },
+  {
+   "role": "body",
+   "text": "for the purpose of carrying out the provisions of this Act, shall be"
+  },
+  {
+   "role": "body",
+   "text": "reimbursed to the United States from the proceeds received from the"
+  },
+  {
+   "role": "body",
+   "text": "sale of the lands described herein or from any money in the Treasury"
+  },
+  {
+   "role": "body",
+   "text": "belonging to said Indian tribe."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 10. That the lands allotted, those retained or reserved, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Prohibition of in-"
+  },
+  {
+   "role": "sidenote",
+   "text": "toxicants."
+  },
+  {
+   "role": "body",
+   "text": "the surplus land sold, set aside for town-site purposes, granted to the"
+  },
+  {
+   "role": "body",
+   "text": "State of South Dakota, or otherwise disposed of, shall be subject for"
+  },
+  {
+   "role": "body",
+   "text": "a period of twenty-five years to all the laws of the United States"
+  },
+  {
+   "role": "body",
+   "text": "prohibiting the introduction of intoxicants into the Indian country."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 11. That nothing in this Act contained shall in any manner"
+  },
+  {
+   "role": "sidenote",
+   "text": "Nonresponsibilityof"
+  },
+  {
+   "role": "sidenote",
+   "text": "United States."
+  },
+  {
+   "role": "body",
+   "text": "bind the United States to purchase any portion of the land herein"
+  },
+  {
+   "role": "body",
+   "text": "described, except sections sixteen and thirty-six, or the equivalent"
+  },
+  {
+   "role": "body",
+   "text": "in each township, or to dispose of said land except as provided herein,"
+  },
+  {
+   "role": "body",
+   "text": "or to guarantee to find purchasers for said lands or any portion there-"
+  },
+  {
+   "role": "body",
+   "text": "of, it being the intention of this Act that the United States shall act"
+  },
+  {
+   "role": "body",
+   "text": "as trustee for said Indians to dispose of the said lands, and to expend"
+  }
+ ],
+ "disagreement_count": 22,
+ "tokens": {
+  "input_tokens": 23477,
+  "output_tokens": 6765,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.28767,
+ "seconds": 400.7,
+ "created": "2026-09-08T12:12:23"
+}

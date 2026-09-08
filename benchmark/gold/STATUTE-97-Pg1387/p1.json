@@ -1,0 +1,1019 @@
+{
+ "granule_id": "STATUTE-97-Pg1387",
+ "package_id": "STATUTE-97",
+ "volume": 97,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "An act to designate the Federal building to be constructed in Savannah, Georgia, as the \"Juliette Gordon Low Federal Building\"",
+ "date_issued": "1983-12-02",
+ "pdf_page": 1,
+ "pdf_pages": 3,
+ "stat_page": "1387",
+ "image": "data/gold/STATUTE-97-Pg1387/p1.png",
+ "image_sha256": "e5b101f059991069aacc5ea58cd774bb6f9731a799a616d055bdb475e9b3473c",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98-205—DEC. 2, 1983          97 STAT. 1387"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 98-205"
+    },
+    {
+     "role": "body",
+     "text": "98th Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "body",
+     "text": "To designate the Federal building to be constructed in Savannah, Georgia, as the"
+    },
+    {
+     "role": "body",
+     "text": "\"Juliette Gordon Low Federal Building\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Dec. 2, 1983"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 505]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Federal"
+    },
+    {
+     "role": "sidenote",
+     "text": "Juliette Gordon"
+    },
+    {
+     "role": "sidenote",
+     "text": "Low Federal"
+    },
+    {
+     "role": "body",
+     "text": "building to be constructed at Telfair Square, Savannah, Georgia,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Building,"
+    },
+    {
+     "role": "body",
+     "text": "shall hereafter be named and designated as the \"Juliette Gordon"
+    },
+    {
+     "role": "sidenote",
+     "text": "designation."
+    },
+    {
+     "role": "body",
+     "text": "Low Federal Building\". Any reference in a law, map, regulation,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Highway"
+    },
+    {
+     "role": "body",
+     "text": "document, record, or other paper of the United States to such"
+    },
+    {
+     "role": "sidenote",
+     "text": "projects, Va. and"
+    },
+    {
+     "role": "body",
+     "text": "building shall be held to be a reference to the \"Juliette Gordon Low"
+    },
+    {
+     "role": "sidenote",
+     "text": "D.C."
+    },
+    {
+     "role": "body",
+     "text": "Federal Building\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. (a) The Administrator of General Services (hereinafter"
+    },
+    {
+     "role": "sidenote",
+     "text": "Memorial,"
+    },
+    {
+     "role": "body",
+     "text": "referred to as the \"Administrator\") may accept and use contribu-"
+    },
+    {
+     "role": "sidenote",
+     "text": "construction."
+    },
+    {
+     "role": "body",
+     "text": "tions from individuals and private organizations for the design and"
+    },
+    {
+     "role": "body",
+     "text": "construction of a memorial, to be located in or around the building"
+    },
+    {
+     "role": "body",
+     "text": "referred to in the first section of this Act, commemorating the life"
+    },
+    {
+     "role": "body",
+     "text": "and accomplishments of Juliette Gordon Low. The Administrator, in"
+    },
+    {
+     "role": "body",
+     "text": "consultation with the chairman of the National Endowment for the"
+    },
+    {
+     "role": "body",
+     "text": "Arts and the national president of the Girl Scouts of America, shall"
+    },
+    {
+     "role": "body",
+     "text": "determine the appropriate form and location of such memorial,"
+    },
+    {
+     "role": "body",
+     "text": "taking into account the cost of maintaining such memorial."
+    },
+    {
+     "role": "body",
+     "text": "(b) The Administrator shall provide maintenance for such"
+    },
+    {
+     "role": "sidenote",
+     "text": "Maintenance."
+    },
+    {
+     "role": "body",
+     "text": "memorial."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. Notwithstanding any other provision of law, the Secretary"
+    },
+    {
+     "role": "sidenote",
+     "text": "Interstate"
+    },
+    {
+     "role": "sidenote",
+     "text": "Highway"
+    },
+    {
+     "role": "body",
+     "text": "of Transportation, in cooperation with the Commonwealth of Vir-"
+    },
+    {
+     "role": "sidenote",
+     "text": "demonstration"
+    },
+    {
+     "role": "body",
+     "text": "ginia and the District of Columbia, shall carry out a demonstration"
+    },
+    {
+     "role": "sidenote",
+     "text": "and"
+    },
+    {
+     "role": "body",
+     "text": "project on Interstate Highways 95 and 395 in Virginia and the"
+    },
+    {
+     "role": "sidenote",
+     "text": "reconstruction"
+    },
+    {
+     "role": "body",
+     "text": "District of Columbia for a period of not less than 12 months com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "project, Va. and"
+    },
+    {
+     "role": "body",
+     "text": "mencing within 30 days after the District of Columbia begins actual"
+    },
+    {
+     "role": "sidenote",
+     "text": "D.C."
+    },
+    {
+     "role": "body",
+     "text": "reconstruction of the George Mason Bridge. The Commonwealth of"
+    },
+    {
+     "role": "body",
+     "text": "Virginia and the District of Columbia shall restrict the use of the"
+    },
+    {
+     "role": "body",
+     "text": "express lanes on such highway to buses, emergency vehicles, and"
+    },
+    {
+     "role": "body",
+     "text": "other vehicles carrying four or more persons during the hours of 6"
+    },
+    {
+     "role": "body",
+     "text": "o'clock ante meridiem to 9 o'clock ante meridiem on Monday through"
+    },
+    {
+     "role": "body",
+     "text": "Friday, exclusive of holidays, on northbound lanes and during the"
+    },
+    {
+     "role": "body",
+     "text": "hours of 3:30 o'clock post meridiem to 6 o'clock post meridiem on"
+    },
+    {
+     "role": "body",
+     "text": "Monday through Friday, exclusive of holidays, on southbound lanes"
+    },
+    {
+     "role": "body",
+     "text": "during the demonstration period. The Secretary of Transportation,"
+    },
+    {
+     "role": "body",
+     "text": "in consultation with the Commonwealth of Virginia and the District"
+    },
+    {
+     "role": "body",
+     "text": "of Columbia, may adjust such hours and refine the demonstration to"
+    },
+    {
+     "role": "body",
+     "text": "enhance safety, minimize congestion, and maximize the use of the"
+    },
+    {
+     "role": "body",
+     "text": "facility. During the demonstration period, the Secretary of Trans-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Environmental"
+    },
+    {
+     "role": "body",
+     "text": "portation, in cooperation with the Commonwealth of Virginia and"
+    },
+    {
+     "role": "sidenote",
+     "text": "assessment."
+    },
+    {
+     "role": "sidenote",
+     "text": "Report to"
+    },
+    {
+     "role": "body",
+     "text": "the District of Columbia shall carry out an environmental assess-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Congress."
+    },
+    {
+     "role": "body",
+     "text": "ment of the effects of the high occupancy vehicle restrictions, and"
+    },
+    {
+     "role": "body",
+     "text": "shall, upon completion of such assessment, report to the Congress"
+    },
+    {
+     "role": "body",
+     "text": "the results of the assessment and the demonstration project."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2148,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08057,
+   "seconds": 23.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98-205—DEC. 2, 1983"
+    },
+    {
+     "role": "running-head",
+     "text": "97 STAT. 1387"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 98-205"
+    },
+    {
+     "role": "body",
+     "text": "98th Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "body",
+     "text": "To designate the Federal building to be constructed in Savannah, Georgia, as the"
+    },
+    {
+     "role": "body",
+     "text": "\"Juliette Gordon Low Federal Building\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Dec. 2, 1983"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 505]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Federal"
+    },
+    {
+     "role": "sidenote",
+     "text": "Juliette Gordon"
+    },
+    {
+     "role": "body",
+     "text": "building to be constructed at Telfair Square, Savannah, Georgia,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Low Federal"
+    },
+    {
+     "role": "body",
+     "text": "shall hereafter be named and designated as the \"Juliette Gordon"
+    },
+    {
+     "role": "sidenote",
+     "text": "Building,"
+    },
+    {
+     "role": "sidenote",
+     "text": "designation."
+    },
+    {
+     "role": "body",
+     "text": "Low Federal Building\". Any reference in a law, map, regulation,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Highway"
+    },
+    {
+     "role": "body",
+     "text": "document, record, or other paper of the United States to such"
+    },
+    {
+     "role": "sidenote",
+     "text": "projects, Va. and"
+    },
+    {
+     "role": "body",
+     "text": "building shall be held to be a reference to the \"Juliette Gordon Low"
+    },
+    {
+     "role": "sidenote",
+     "text": "D.C."
+    },
+    {
+     "role": "body",
+     "text": "Federal Building\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. (a) The Administrator of General Services (hereinafter"
+    },
+    {
+     "role": "sidenote",
+     "text": "Memorial,"
+    },
+    {
+     "role": "body",
+     "text": "referred to as the \"Administrator\") may accept and use contribu-"
+    },
+    {
+     "role": "sidenote",
+     "text": "construction."
+    },
+    {
+     "role": "body",
+     "text": "tions from individuals and private organizations for the design and"
+    },
+    {
+     "role": "body",
+     "text": "construction of a memorial, to be located in or around the building"
+    },
+    {
+     "role": "body",
+     "text": "referred to in the first section of this Act, commemorating the life"
+    },
+    {
+     "role": "body",
+     "text": "and accomplishments of Juliette Gordon Low. The Administrator, in"
+    },
+    {
+     "role": "body",
+     "text": "consultation with the chairman of the National Endowment for the"
+    },
+    {
+     "role": "body",
+     "text": "Arts and the national president of the Girl Scouts of America, shall"
+    },
+    {
+     "role": "body",
+     "text": "determine the appropriate form and location of such memorial,"
+    },
+    {
+     "role": "body",
+     "text": "taking into account the cost of maintaining such memorial."
+    },
+    {
+     "role": "body",
+     "text": "(b) The Administrator shall provide maintenance for such"
+    },
+    {
+     "role": "sidenote",
+     "text": "Maintenance."
+    },
+    {
+     "role": "body",
+     "text": "memorial."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. Notwithstanding any other provision of law, the Secretary"
+    },
+    {
+     "role": "sidenote",
+     "text": "Interstate"
+    },
+    {
+     "role": "body",
+     "text": "of Transportation, in cooperation with the Commonwealth of Vir-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Highway"
+    },
+    {
+     "role": "body",
+     "text": "ginia and the District of Columbia, shall carry out a demonstration"
+    },
+    {
+     "role": "sidenote",
+     "text": "demonstration"
+    },
+    {
+     "role": "sidenote",
+     "text": "and"
+    },
+    {
+     "role": "body",
+     "text": "project on Interstate Highways 95 and 395 in Virginia and the"
+    },
+    {
+     "role": "sidenote",
+     "text": "reconstruction"
+    },
+    {
+     "role": "body",
+     "text": "District of Columbia for a period of not less than 12 months com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "project, Va. and"
+    },
+    {
+     "role": "body",
+     "text": "mencing within 30 days after the District of Columbia begins actual"
+    },
+    {
+     "role": "sidenote",
+     "text": "D.C."
+    },
+    {
+     "role": "body",
+     "text": "reconstruction of the George Mason Bridge. The Commonwealth of"
+    },
+    {
+     "role": "body",
+     "text": "Virginia and the District of Columbia shall restrict the use of the"
+    },
+    {
+     "role": "body",
+     "text": "express lanes on such highway to buses, emergency vehicles, and"
+    },
+    {
+     "role": "body",
+     "text": "other vehicles carrying four or more persons during the hours of 6"
+    },
+    {
+     "role": "body",
+     "text": "o'clock ante meridiem to 9 o'clock ante meridiem on Monday through"
+    },
+    {
+     "role": "body",
+     "text": "Friday, exclusive of holidays, on northbound lanes and during the"
+    },
+    {
+     "role": "body",
+     "text": "hours of 3:30 o'clock post meridiem to 6 o'clock post meridiem on"
+    },
+    {
+     "role": "body",
+     "text": "Monday through Friday, exclusive of holidays, on southbound lanes"
+    },
+    {
+     "role": "body",
+     "text": "during the demonstration period. The Secretary of Transportation,"
+    },
+    {
+     "role": "body",
+     "text": "in consultation with the Commonwealth of Virginia and the District"
+    },
+    {
+     "role": "body",
+     "text": "of Columbia, may adjust such hours and refine the demonstration to"
+    },
+    {
+     "role": "body",
+     "text": "enhance safety, minimize congestion, and maximize the use of the"
+    },
+    {
+     "role": "body",
+     "text": "facility. During the demonstration period, the Secretary of Trans-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Environmental"
+    },
+    {
+     "role": "body",
+     "text": "portation, in cooperation with the Commonwealth of Virginia and"
+    },
+    {
+     "role": "sidenote",
+     "text": "assessment."
+    },
+    {
+     "role": "sidenote",
+     "text": "Report to"
+    },
+    {
+     "role": "body",
+     "text": "the District of Columbia shall carry out an environmental assess-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Congress."
+    },
+    {
+     "role": "body",
+     "text": "ment of the effects of the high occupancy vehicle restrictions, and"
+    },
+    {
+     "role": "body",
+     "text": "shall, upon completion of such assessment, report to the Congress"
+    },
+    {
+     "role": "body",
+     "text": "the results of the assessment and the demonstration project."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2054,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07822,
+   "seconds": 22.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11313,
+   "output_tokens": 1550,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.09573,
+  "seconds": 22.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "PUBLIC LAW 98-205—DEC. 2, 1983          97 STAT. 1387",
+    "b": "PUBLIC LAW 98-205—DEC. 2, 1983\n97 STAT. 1387",
+    "kept": "PUBLIC LAW 98-205—DEC. 2, 1983          97 STAT. 1387",
+    "reason": "The heading is printed as one line, with the law citation at left and the Statutes citation at right on the same baseline."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "building to be constructed at Telfair Square, Savannah, Georgia,",
+    "kept": "building to be constructed at Telfair Square, Savannah, Georgia,",
+    "reason": "Sidenote 'Juliette Gordon' aligns with the preceding body line; this body line follows it, with 'Low Federal' beside it."
+   },
+   {
+    "run": 3,
+    "a": "building to be constructed at Telfair Square, Savannah, Georgia,",
+    "b": "shall hereafter be named and designated as the \"Juliette Gordon",
+    "kept": "shall hereafter be named and designated as the \"Juliette Gordon",
+    "reason": "'Low Federal' sits beside 'building to be constructed...'; the next body line is 'shall hereafter...'."
+   },
+   {
+    "run": 4,
+    "a": "shall hereafter be named and designated as the \"Juliette Gordon",
+    "b": "",
+    "kept": "",
+    "reason": "This body line was already placed earlier in the correct interleaving; nothing additional is printed here."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "of Transportation, in cooperation with the Commonwealth of Vir-",
+    "kept": "of Transportation, in cooperation with the Commonwealth of Vir-",
+    "reason": "'Interstate' aligns with the SEC. 3 line, so 'of Transportation...' follows, with 'Highway' beside it."
+   },
+   {
+    "run": 6,
+    "a": "of Transportation, in cooperation with the Commonwealth of Vir-",
+    "b": "ginia and the District of Columbia, shall carry out a demonstration",
+    "kept": "ginia and the District of Columbia, shall carry out a demonstration",
+    "reason": "'Highway' sits beside 'of Transportation...'; the next body line is 'ginia and the District...'."
+   },
+   {
+    "run": 7,
+    "a": "ginia and the District of Columbia, shall carry out a demonstration",
+    "b": "",
+    "kept": "",
+    "reason": "This body line was already placed earlier in the correct interleaving; nothing additional printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 98-205—DEC. 2, 1983          97 STAT. 1387"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 98-205"
+  },
+  {
+   "role": "body",
+   "text": "98th Congress"
+  },
+  {
+   "role": "body",
+   "text": "An Act"
+  },
+  {
+   "role": "body",
+   "text": "To designate the Federal building to be constructed in Savannah, Georgia, as the"
+  },
+  {
+   "role": "body",
+   "text": "\"Juliette Gordon Low Federal Building\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "Dec. 2, 1983"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 505]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Federal"
+  },
+  {
+   "role": "sidenote",
+   "text": "Juliette Gordon"
+  },
+  {
+   "role": "body",
+   "text": "building to be constructed at Telfair Square, Savannah, Georgia,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Low Federal"
+  },
+  {
+   "role": "body",
+   "text": "shall hereafter be named and designated as the \"Juliette Gordon"
+  },
+  {
+   "role": "sidenote",
+   "text": "Building,"
+  },
+  {
+   "role": "sidenote",
+   "text": "designation."
+  },
+  {
+   "role": "body",
+   "text": "Low Federal Building\". Any reference in a law, map, regulation,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Highway"
+  },
+  {
+   "role": "body",
+   "text": "document, record, or other paper of the United States to such"
+  },
+  {
+   "role": "sidenote",
+   "text": "projects, Va. and"
+  },
+  {
+   "role": "body",
+   "text": "building shall be held to be a reference to the \"Juliette Gordon Low"
+  },
+  {
+   "role": "sidenote",
+   "text": "D.C."
+  },
+  {
+   "role": "body",
+   "text": "Federal Building\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. (a) The Administrator of General Services (hereinafter"
+  },
+  {
+   "role": "sidenote",
+   "text": "Memorial,"
+  },
+  {
+   "role": "body",
+   "text": "referred to as the \"Administrator\") may accept and use contribu-"
+  },
+  {
+   "role": "sidenote",
+   "text": "construction."
+  },
+  {
+   "role": "body",
+   "text": "tions from individuals and private organizations for the design and"
+  },
+  {
+   "role": "body",
+   "text": "construction of a memorial, to be located in or around the building"
+  },
+  {
+   "role": "body",
+   "text": "referred to in the first section of this Act, commemorating the life"
+  },
+  {
+   "role": "body",
+   "text": "and accomplishments of Juliette Gordon Low. The Administrator, in"
+  },
+  {
+   "role": "body",
+   "text": "consultation with the chairman of the National Endowment for the"
+  },
+  {
+   "role": "body",
+   "text": "Arts and the national president of the Girl Scouts of America, shall"
+  },
+  {
+   "role": "body",
+   "text": "determine the appropriate form and location of such memorial,"
+  },
+  {
+   "role": "body",
+   "text": "taking into account the cost of maintaining such memorial."
+  },
+  {
+   "role": "body",
+   "text": "(b) The Administrator shall provide maintenance for such"
+  },
+  {
+   "role": "sidenote",
+   "text": "Maintenance."
+  },
+  {
+   "role": "body",
+   "text": "memorial."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. Notwithstanding any other provision of law, the Secretary"
+  },
+  {
+   "role": "sidenote",
+   "text": "Interstate"
+  },
+  {
+   "role": "body",
+   "text": "of Transportation, in cooperation with the Commonwealth of Vir-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Highway"
+  },
+  {
+   "role": "body",
+   "text": "ginia and the District of Columbia, shall carry out a demonstration"
+  },
+  {
+   "role": "sidenote",
+   "text": "demonstration"
+  },
+  {
+   "role": "sidenote",
+   "text": "and"
+  },
+  {
+   "role": "body",
+   "text": "project on Interstate Highways 95 and 395 in Virginia and the"
+  },
+  {
+   "role": "sidenote",
+   "text": "reconstruction"
+  },
+  {
+   "role": "body",
+   "text": "District of Columbia for a period of not less than 12 months com-"
+  },
+  {
+   "role": "sidenote",
+   "text": "project, Va. and"
+  },
+  {
+   "role": "body",
+   "text": "mencing within 30 days after the District of Columbia begins actual"
+  },
+  {
+   "role": "sidenote",
+   "text": "D.C."
+  },
+  {
+   "role": "body",
+   "text": "reconstruction of the George Mason Bridge. The Commonwealth of"
+  },
+  {
+   "role": "body",
+   "text": "Virginia and the District of Columbia shall restrict the use of the"
+  },
+  {
+   "role": "body",
+   "text": "express lanes on such highway to buses, emergency vehicles, and"
+  },
+  {
+   "role": "body",
+   "text": "other vehicles carrying four or more persons during the hours of 6"
+  },
+  {
+   "role": "body",
+   "text": "o'clock ante meridiem to 9 o'clock ante meridiem on Monday through"
+  },
+  {
+   "role": "body",
+   "text": "Friday, exclusive of holidays, on northbound lanes and during the"
+  },
+  {
+   "role": "body",
+   "text": "hours of 3:30 o'clock post meridiem to 6 o'clock post meridiem on"
+  },
+  {
+   "role": "body",
+   "text": "Monday through Friday, exclusive of holidays, on southbound lanes"
+  },
+  {
+   "role": "body",
+   "text": "during the demonstration period. The Secretary of Transportation,"
+  },
+  {
+   "role": "body",
+   "text": "in consultation with the Commonwealth of Virginia and the District"
+  },
+  {
+   "role": "body",
+   "text": "of Columbia, may adjust such hours and refine the demonstration to"
+  },
+  {
+   "role": "body",
+   "text": "enhance safety, minimize congestion, and maximize the use of the"
+  },
+  {
+   "role": "body",
+   "text": "facility. During the demonstration period, the Secretary of Trans-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Environmental"
+  },
+  {
+   "role": "body",
+   "text": "portation, in cooperation with the Commonwealth of Virginia and"
+  },
+  {
+   "role": "sidenote",
+   "text": "assessment."
+  },
+  {
+   "role": "sidenote",
+   "text": "Report to"
+  },
+  {
+   "role": "body",
+   "text": "the District of Columbia shall carry out an environmental assess-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Congress."
+  },
+  {
+   "role": "body",
+   "text": "ment of the effects of the high occupancy vehicle restrictions, and"
+  },
+  {
+   "role": "body",
+   "text": "shall, upon completion of such assessment, report to the Congress"
+  },
+  {
+   "role": "body",
+   "text": "the results of the assessment and the demonstration project."
+  }
+ ],
+ "disagreement_count": 7,
+ "tokens": {
+  "input_tokens": 21912,
+  "output_tokens": 5752,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.25452,
+ "seconds": 67.9,
+ "created": "2026-09-08T11:56:46"
+}

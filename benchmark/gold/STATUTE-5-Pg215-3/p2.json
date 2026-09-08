@@ -1,0 +1,1509 @@
+{
+ "granule_id": "STATUTE-5-Pg215-3",
+ "package_id": "STATUTE-5",
+ "volume": 5,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to restore circuit jurisdiction to the district courts of the western district of Virginia. (a)",
+ "date_issued": "1838-03-28",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "216",
+ "image": "data/gold/STATUTE-5-Pg215-3/p2.png",
+ "image_sha256": "c9045f22c7dc2e3a7e9fa91f02161f96ee8b924c3f7c48e56c5a54080247c00e",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "216           TWENTY-FIFTH CONGRESS.  SESS. II. CH. 54.   1838."
+    },
+    {
+     "role": "sidenote",
+     "text": "All causes"
+    },
+    {
+     "role": "sidenote",
+     "text": "transferred"
+    },
+    {
+     "role": "sidenote",
+     "text": "from said dist."
+    },
+    {
+     "role": "sidenote",
+     "text": "courts to circuit"
+    },
+    {
+     "role": "sidenote",
+     "text": "court at Lewis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "burg, removed"
+    },
+    {
+     "role": "sidenote",
+     "text": "back, &c."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That all causes transferred by"
+    },
+    {
+     "role": "body",
+     "text": "authority of said act from the said district courts to the circuit court,"
+    },
+    {
+     "role": "body",
+     "text": "directed by law to be held in the town of Lewisburg, in the State of"
+    },
+    {
+     "role": "body",
+     "text": "Virginia, and which remain undetermined, be removed back to the"
+    },
+    {
+     "role": "body",
+     "text": "district courts from whence they were transferred, to be there finally"
+    },
+    {
+     "role": "body",
+     "text": "determined."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appellate ju-"
+    },
+    {
+     "role": "sidenote",
+     "text": "risdiction from"
+    },
+    {
+     "role": "sidenote",
+     "text": "said dist. courts"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be exercised"
+    },
+    {
+     "role": "sidenote",
+     "text": "by circuit court"
+    },
+    {
+     "role": "sidenote",
+     "text": "at Lewisburg."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That appellate jurisdiction from"
+    },
+    {
+     "role": "body",
+     "text": "the judgments or decrees of the said district courts of the western dis-"
+    },
+    {
+     "role": "body",
+     "text": "trict of Virginia, as now authorized by law, shall be exercised by the"
+    },
+    {
+     "role": "body",
+     "text": "said circuit court at Lewisburg."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 28, 1838."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "sidenote",
+     "text": "April 6, 1838."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LIV.—An Act making appropriations for the civil and diplomatic expenses"
+    },
+    {
+     "role": "body",
+     "text": "of Government for the year eighteen hundred and thirty-eight."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the following"
+    },
+    {
+     "role": "body",
+     "text": "sums be, and the same are hereby, appropriated, to be paid out of any"
+    },
+    {
+     "role": "body",
+     "text": "unappropriated money in the treasury, viz:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay and mile-"
+    },
+    {
+     "role": "sidenote",
+     "text": "age of members"
+    },
+    {
+     "role": "sidenote",
+     "text": "of Congress."
+    },
+    {
+     "role": "body",
+     "text": "For pay and mileage of the members of Congress and delegates,"
+    },
+    {
+     "role": "body",
+     "text": "five hundred and sixty-seven thousand six hundred and eighty dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay of officers,"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c., of Con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gress."
+    },
+    {
+     "role": "body",
+     "text": "For pay of the officers and clerks of the Senate and House of Repre-"
+    },
+    {
+     "role": "body",
+     "text": "sentatives, forty thousand four hundred dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Contingent"
+    },
+    {
+     "role": "sidenote",
+     "text": "exp. of Senate."
+    },
+    {
+     "role": "body",
+     "text": "For stationery, fuel, printing, and all other contingent expenses of"
+    },
+    {
+     "role": "body",
+     "text": "the Senate, fifty thousand dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Contingent"
+    },
+    {
+     "role": "sidenote",
+     "text": "expenses of Ho."
+    },
+    {
+     "role": "sidenote",
+     "text": "Reps."
+    },
+    {
+     "role": "body",
+     "text": "For stationery, fuel, printing, and all other contingent expenses of"
+    },
+    {
+     "role": "body",
+     "text": "the House of Representatives, two hundred and twenty-five thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Two last sums"
+    },
+    {
+     "role": "sidenote",
+     "text": "applicable only"
+    },
+    {
+     "role": "sidenote",
+     "text": "to ordinary exp."
+    },
+    {
+     "role": "body",
+     "text": "The two sums last mentioned to be applied to the payment of the"
+    },
+    {
+     "role": "body",
+     "text": "ordinary expenditures of the Senate and House of Representatives,"
+    },
+    {
+     "role": "body",
+     "text": "severally, and to no other purpose."
+    },
+    {
+     "role": "sidenote",
+     "text": "President,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vice President,"
+    },
+    {
+     "role": "sidenote",
+     "text": "and heads of de-"
+    },
+    {
+     "role": "sidenote",
+     "text": "partments."
+    },
+    {
+     "role": "body",
+     "text": "For compensation to the President and Vice President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States, the Secretary of State, the Secretary of the Treasury, the Sec-"
+    },
+    {
+     "role": "body",
+     "text": "retary of War, the Secretary of the Navy, and the Postmaster General,"
+    },
+    {
+     "role": "body",
+     "text": "sixty thousand dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary to"
+    },
+    {
+     "role": "sidenote",
+     "text": "sign patents for"
+    },
+    {
+     "role": "sidenote",
+     "text": "lands. 1833, ch."
+    },
+    {
+     "role": "sidenote",
+     "text": "91."
+    },
+    {
+     "role": "body",
+     "text": "For salary of the secretary to sign patents for public lands, per act"
+    },
+    {
+     "role": "body",
+     "text": "of March second, eighteen hundred and thirty-three, one thousand five"
+    },
+    {
+     "role": "body",
+     "text": "hundred dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Off. Sec. State,"
+    },
+    {
+     "role": "sidenote",
+     "text": "clerks, &c."
+    },
+    {
+     "role": "body",
+     "text": "For clerks and messengers in the office of the Secretary of State,"
+    },
+    {
+     "role": "body",
+     "text": "twenty thousand three hundred dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Contingent"
+    },
+    {
+     "role": "sidenote",
+     "text": "expenses."
+    },
+    {
+     "role": "body",
+     "text": "For the contingent expenses of the Department of State, including"
+    },
+    {
+     "role": "body",
+     "text": "publishing and distributing the laws, twenty-five thousand dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Supdt. and"
+    },
+    {
+     "role": "sidenote",
+     "text": "watchman."
+    },
+    {
+     "role": "body",
+     "text": "For the superintendent and watchman of the northeast executive"
+    },
+    {
+     "role": "body",
+     "text": "building, one thousand five hundred dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Contingent"
+    },
+    {
+     "role": "sidenote",
+     "text": "expenses."
+    },
+    {
+     "role": "body",
+     "text": "For contingent expenses of said building, including fuel, labor, oil,"
+    },
+    {
+     "role": "body",
+     "text": "and repairs, three thousand three hundred and fifty dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Off. Sec. Treas."
+    },
+    {
+     "role": "sidenote",
+     "text": "clerks, &c."
+    },
+    {
+     "role": "body",
+     "text": "For compensation to the clerks and messengers in the office of the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Treasury, sixteen thousand four hundred and fifty"
+    },
+    {
+     "role": "body",
+     "text": "dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Additional"
+    },
+    {
+     "role": "sidenote",
+     "text": "clerks, 1836,"
+    },
+    {
+     "role": "sidenote",
+     "text": "ch. 115."
+    },
+    {
+     "role": "body",
+     "text": "For compensation to the clerks in said office, per act of twenty-third"
+    },
+    {
+     "role": "body",
+     "text": "of June, eighteen hundred and thirty-six, three thousand six hundred"
+    },
+    {
+     "role": "body",
+     "text": "dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "1st Comptrol-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ler."
+    },
+    {
+     "role": "body",
+     "text": "For compensation to the First Comptroller of the Treasury, three"
+    },
+    {
+     "role": "body",
+     "text": "thousand five hundred dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Clerks and"
+    },
+    {
+     "role": "sidenote",
+     "text": "messengers."
+    },
+    {
+     "role": "body",
+     "text": "For compensation to the clerks and messengers in the office of the"
+    },
+    {
+     "role": "body",
+     "text": "First Comptroller, nineteen thousand three hundred dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "2d Comptrol-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ler."
+    },
+    {
+     "role": "body",
+     "text": "For compensation to the Second Comptroller, three thousand dol-"
+    },
+    {
+     "role": "body",
+     "text": "lars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Clerks and"
+    },
+    {
+     "role": "sidenote",
+     "text": "messenger."
+    },
+    {
+     "role": "body",
+     "text": "For compensation to the clerks and messenger in the office of the"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 3191,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.10721,
+   "seconds": 111.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "216"
+    },
+    {
+     "role": "running-head",
+     "text": "TWENTY-FIFTH CONGRESS.  SESS. II. CH. 54.   1838."
+    },
+    {
+     "role": "sidenote",
+     "text": "All causes"
+    },
+    {
+     "role": "sidenote",
+     "text": "transferred"
+    },
+    {
+     "role": "sidenote",
+     "text": "from said dist."
+    },
+    {
+     "role": "sidenote",
+     "text": "courts to circuit"
+    },
+    {
+     "role": "sidenote",
+     "text": "court at Lewis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "burg, removed"
+    },
+    {
+     "role": "sidenote",
+     "text": "back, &c."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That all causes transferred by"
+    },
+    {
+     "role": "body",
+     "text": "authority of said act from the said district courts to the circuit court,"
+    },
+    {
+     "role": "body",
+     "text": "directed by law to be held in the town of Lewisburg, in the State of"
+    },
+    {
+     "role": "body",
+     "text": "Virginia, and which remain undetermined, be removed back to the"
+    },
+    {
+     "role": "body",
+     "text": "district courts from whence they were transferred, to be there finally"
+    },
+    {
+     "role": "body",
+     "text": "determined."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appellate ju-"
+    },
+    {
+     "role": "sidenote",
+     "text": "risdiction from"
+    },
+    {
+     "role": "sidenote",
+     "text": "said dist. courts"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be exercised"
+    },
+    {
+     "role": "sidenote",
+     "text": "by circuit court"
+    },
+    {
+     "role": "sidenote",
+     "text": "at Lewisburg."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That appellate jurisdiction from"
+    },
+    {
+     "role": "body",
+     "text": "the judgments or decrees of the said district courts of the western dis-"
+    },
+    {
+     "role": "body",
+     "text": "trict of Virginia, as now authorized by law, shall be exercised by the"
+    },
+    {
+     "role": "body",
+     "text": "said circuit court at Lewisburg."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 28, 1838."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "sidenote",
+     "text": "April 6, 1838."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LIV.—An Act making appropriations for the civil and diplomatic expenses"
+    },
+    {
+     "role": "body",
+     "text": "of Government for the year eighteen hundred and thirty-eight."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the following"
+    },
+    {
+     "role": "body",
+     "text": "sums be, and the same are hereby, appropriated, to be paid out of any"
+    },
+    {
+     "role": "body",
+     "text": "unappropriated money in the treasury, viz:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay and mile-"
+    },
+    {
+     "role": "sidenote",
+     "text": "age of members"
+    },
+    {
+     "role": "sidenote",
+     "text": "of Congress."
+    },
+    {
+     "role": "body",
+     "text": "For pay and mileage of the members of Congress and delegates,"
+    },
+    {
+     "role": "body",
+     "text": "five hundred and sixty-seven thousand six hundred and eighty dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay of officers,"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c., of Con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gress."
+    },
+    {
+     "role": "body",
+     "text": "For pay of the officers and clerks of the Senate and House of Repre-"
+    },
+    {
+     "role": "body",
+     "text": "sentatives, forty thousand four hundred dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Contingent"
+    },
+    {
+     "role": "sidenote",
+     "text": "exp. of Senate."
+    },
+    {
+     "role": "body",
+     "text": "For stationery, fuel, printing, and all other contingent expenses of"
+    },
+    {
+     "role": "body",
+     "text": "the Senate, fifty thousand dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Contingent"
+    },
+    {
+     "role": "sidenote",
+     "text": "expenses of Ho."
+    },
+    {
+     "role": "sidenote",
+     "text": "Reps."
+    },
+    {
+     "role": "body",
+     "text": "For stationery, fuel, printing, and all other contingent expenses of"
+    },
+    {
+     "role": "body",
+     "text": "the House of Representatives, two hundred and twenty-five thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars ;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Two last sums"
+    },
+    {
+     "role": "sidenote",
+     "text": "applicable only"
+    },
+    {
+     "role": "sidenote",
+     "text": "to ordinary exp."
+    },
+    {
+     "role": "body",
+     "text": "The two sums last mentioned to be applied to the payment of the"
+    },
+    {
+     "role": "body",
+     "text": "ordinary expenditures of the Senate and House of Representatives,"
+    },
+    {
+     "role": "body",
+     "text": "severally, and to no other purpose."
+    },
+    {
+     "role": "sidenote",
+     "text": "President,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vice President,"
+    },
+    {
+     "role": "sidenote",
+     "text": "and heads of de-"
+    },
+    {
+     "role": "sidenote",
+     "text": "partments."
+    },
+    {
+     "role": "body",
+     "text": "For compensation to the President and Vice President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States, the Secretary of State, the Secretary of the Treasury, the Sec-"
+    },
+    {
+     "role": "body",
+     "text": "retary of War, the Secretary of the Navy, and the Postmaster General,"
+    },
+    {
+     "role": "body",
+     "text": "sixty thousand dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary to"
+    },
+    {
+     "role": "sidenote",
+     "text": "sign patents for"
+    },
+    {
+     "role": "sidenote",
+     "text": "lands. 1833, ch."
+    },
+    {
+     "role": "sidenote",
+     "text": "91."
+    },
+    {
+     "role": "body",
+     "text": "For salary of the secretary to sign patents for public lands, per act"
+    },
+    {
+     "role": "body",
+     "text": "of March second, eighteen hundred and thirty-three, one thousand five"
+    },
+    {
+     "role": "body",
+     "text": "hundred dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Off. Sec. State,"
+    },
+    {
+     "role": "sidenote",
+     "text": "clerks, &c."
+    },
+    {
+     "role": "body",
+     "text": "For clerks and messengers in the office of the Secretary of State,"
+    },
+    {
+     "role": "body",
+     "text": "twenty thousand three hundred dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Contingent"
+    },
+    {
+     "role": "sidenote",
+     "text": "expenses."
+    },
+    {
+     "role": "body",
+     "text": "For the contingent expenses of the Department of State, including"
+    },
+    {
+     "role": "body",
+     "text": "publishing and distributing the laws, twenty-five thousand dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Supdt. and"
+    },
+    {
+     "role": "sidenote",
+     "text": "watchman."
+    },
+    {
+     "role": "body",
+     "text": "For the superintendent and watchman of the northeast executive"
+    },
+    {
+     "role": "body",
+     "text": "building, one thousand five hundred dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Contingent"
+    },
+    {
+     "role": "sidenote",
+     "text": "expenses."
+    },
+    {
+     "role": "body",
+     "text": "For contingent expenses of said building, including fuel, labor, oil,"
+    },
+    {
+     "role": "body",
+     "text": "and repairs, three thousand three hundred and fifty dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Off. Sec. Treas."
+    },
+    {
+     "role": "sidenote",
+     "text": "clerks, &c."
+    },
+    {
+     "role": "body",
+     "text": "For compensation to the clerks and messengers in the office of the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Treasury, sixteen thousand four hundred and fifty"
+    },
+    {
+     "role": "body",
+     "text": "dollars ;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Additional"
+    },
+    {
+     "role": "sidenote",
+     "text": "clerks, 1836,"
+    },
+    {
+     "role": "sidenote",
+     "text": "ch. 115."
+    },
+    {
+     "role": "body",
+     "text": "For compensation to the clerks in said office, per act of twenty-third"
+    },
+    {
+     "role": "body",
+     "text": "of June, eighteen hundred and thirty-six, three thousand six hundred"
+    },
+    {
+     "role": "body",
+     "text": "dollars ;"
+    },
+    {
+     "role": "sidenote",
+     "text": "1st Comptrol-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ler."
+    },
+    {
+     "role": "body",
+     "text": "For compensation to the First Comptroller of the Treasury, three"
+    },
+    {
+     "role": "body",
+     "text": "thousand five hundred dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Clerks and"
+    },
+    {
+     "role": "sidenote",
+     "text": "messengers."
+    },
+    {
+     "role": "body",
+     "text": "For compensation to the clerks and messengers in the office of the"
+    },
+    {
+     "role": "body",
+     "text": "First Comptroller, nineteen thousand three hundred dollars;"
+    },
+    {
+     "role": "sidenote",
+     "text": "2d Comptrol-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ler."
+    },
+    {
+     "role": "body",
+     "text": "For compensation to the Second Comptroller, three thousand dol-"
+    },
+    {
+     "role": "body",
+     "text": "lars ;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Clerks and"
+    },
+    {
+     "role": "sidenote",
+     "text": "messenger."
+    },
+    {
+     "role": "body",
+     "text": "For compensation to the clerks and messenger in the office of the"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 3076,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.10433,
+   "seconds": 103.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12464,
+   "output_tokens": 122,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06579,
+  "seconds": 133.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "216           TWENTY-FIFTH CONGRESS.  SESS. II. CH. 54.   1838.",
+    "b": "216\nTWENTY-FIFTH CONGRESS.  SESS. II. CH. 54.   1838.",
+    "kept": "216\nTWENTY-FIFTH CONGRESS.  SESS. II. CH. 54.   1838.",
+    "reason": "The page number stands separate at the left margin; the running head is centered, so they are distinct elements."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "216"
+  },
+  {
+   "role": "running-head",
+   "text": "TWENTY-FIFTH CONGRESS.  SESS. II. CH. 54.   1838."
+  },
+  {
+   "role": "sidenote",
+   "text": "All causes"
+  },
+  {
+   "role": "sidenote",
+   "text": "transferred"
+  },
+  {
+   "role": "sidenote",
+   "text": "from said dist."
+  },
+  {
+   "role": "sidenote",
+   "text": "courts to circuit"
+  },
+  {
+   "role": "sidenote",
+   "text": "court at Lewis-"
+  },
+  {
+   "role": "sidenote",
+   "text": "burg, removed"
+  },
+  {
+   "role": "sidenote",
+   "text": "back, &c."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That all causes transferred by"
+  },
+  {
+   "role": "body",
+   "text": "authority of said act from the said district courts to the circuit court,"
+  },
+  {
+   "role": "body",
+   "text": "directed by law to be held in the town of Lewisburg, in the State of"
+  },
+  {
+   "role": "body",
+   "text": "Virginia, and which remain undetermined, be removed back to the"
+  },
+  {
+   "role": "body",
+   "text": "district courts from whence they were transferred, to be there finally"
+  },
+  {
+   "role": "body",
+   "text": "determined."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appellate ju-"
+  },
+  {
+   "role": "sidenote",
+   "text": "risdiction from"
+  },
+  {
+   "role": "sidenote",
+   "text": "said dist. courts"
+  },
+  {
+   "role": "sidenote",
+   "text": "to be exercised"
+  },
+  {
+   "role": "sidenote",
+   "text": "by circuit court"
+  },
+  {
+   "role": "sidenote",
+   "text": "at Lewisburg."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That appellate jurisdiction from"
+  },
+  {
+   "role": "body",
+   "text": "the judgments or decrees of the said district courts of the western dis-"
+  },
+  {
+   "role": "body",
+   "text": "trict of Virginia, as now authorized by law, shall be exercised by the"
+  },
+  {
+   "role": "body",
+   "text": "said circuit court at Lewisburg."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 28, 1838."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "sidenote",
+   "text": "April 6, 1838."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LIV.—An Act making appropriations for the civil and diplomatic expenses"
+  },
+  {
+   "role": "body",
+   "text": "of Government for the year eighteen hundred and thirty-eight."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the following"
+  },
+  {
+   "role": "body",
+   "text": "sums be, and the same are hereby, appropriated, to be paid out of any"
+  },
+  {
+   "role": "body",
+   "text": "unappropriated money in the treasury, viz:"
+  },
+  {
+   "role": "sidenote",
+   "text": "Pay and mile-"
+  },
+  {
+   "role": "sidenote",
+   "text": "age of members"
+  },
+  {
+   "role": "sidenote",
+   "text": "of Congress."
+  },
+  {
+   "role": "body",
+   "text": "For pay and mileage of the members of Congress and delegates,"
+  },
+  {
+   "role": "body",
+   "text": "five hundred and sixty-seven thousand six hundred and eighty dollars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Pay of officers,"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c., of Con-"
+  },
+  {
+   "role": "sidenote",
+   "text": "gress."
+  },
+  {
+   "role": "body",
+   "text": "For pay of the officers and clerks of the Senate and House of Repre-"
+  },
+  {
+   "role": "body",
+   "text": "sentatives, forty thousand four hundred dollars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Contingent"
+  },
+  {
+   "role": "sidenote",
+   "text": "exp. of Senate."
+  },
+  {
+   "role": "body",
+   "text": "For stationery, fuel, printing, and all other contingent expenses of"
+  },
+  {
+   "role": "body",
+   "text": "the Senate, fifty thousand dollars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Contingent"
+  },
+  {
+   "role": "sidenote",
+   "text": "expenses of Ho."
+  },
+  {
+   "role": "sidenote",
+   "text": "Reps."
+  },
+  {
+   "role": "body",
+   "text": "For stationery, fuel, printing, and all other contingent expenses of"
+  },
+  {
+   "role": "body",
+   "text": "the House of Representatives, two hundred and twenty-five thousand"
+  },
+  {
+   "role": "body",
+   "text": "dollars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Two last sums"
+  },
+  {
+   "role": "sidenote",
+   "text": "applicable only"
+  },
+  {
+   "role": "sidenote",
+   "text": "to ordinary exp."
+  },
+  {
+   "role": "body",
+   "text": "The two sums last mentioned to be applied to the payment of the"
+  },
+  {
+   "role": "body",
+   "text": "ordinary expenditures of the Senate and House of Representatives,"
+  },
+  {
+   "role": "body",
+   "text": "severally, and to no other purpose."
+  },
+  {
+   "role": "sidenote",
+   "text": "President,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vice President,"
+  },
+  {
+   "role": "sidenote",
+   "text": "and heads of de-"
+  },
+  {
+   "role": "sidenote",
+   "text": "partments."
+  },
+  {
+   "role": "body",
+   "text": "For compensation to the President and Vice President of the United"
+  },
+  {
+   "role": "body",
+   "text": "States, the Secretary of State, the Secretary of the Treasury, the Sec-"
+  },
+  {
+   "role": "body",
+   "text": "retary of War, the Secretary of the Navy, and the Postmaster General,"
+  },
+  {
+   "role": "body",
+   "text": "sixty thousand dollars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Secretary to"
+  },
+  {
+   "role": "sidenote",
+   "text": "sign patents for"
+  },
+  {
+   "role": "sidenote",
+   "text": "lands. 1833, ch."
+  },
+  {
+   "role": "sidenote",
+   "text": "91."
+  },
+  {
+   "role": "body",
+   "text": "For salary of the secretary to sign patents for public lands, per act"
+  },
+  {
+   "role": "body",
+   "text": "of March second, eighteen hundred and thirty-three, one thousand five"
+  },
+  {
+   "role": "body",
+   "text": "hundred dollars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Off. Sec. State,"
+  },
+  {
+   "role": "sidenote",
+   "text": "clerks, &c."
+  },
+  {
+   "role": "body",
+   "text": "For clerks and messengers in the office of the Secretary of State,"
+  },
+  {
+   "role": "body",
+   "text": "twenty thousand three hundred dollars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Contingent"
+  },
+  {
+   "role": "sidenote",
+   "text": "expenses."
+  },
+  {
+   "role": "body",
+   "text": "For the contingent expenses of the Department of State, including"
+  },
+  {
+   "role": "body",
+   "text": "publishing and distributing the laws, twenty-five thousand dollars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Supdt. and"
+  },
+  {
+   "role": "sidenote",
+   "text": "watchman."
+  },
+  {
+   "role": "body",
+   "text": "For the superintendent and watchman of the northeast executive"
+  },
+  {
+   "role": "body",
+   "text": "building, one thousand five hundred dollars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Contingent"
+  },
+  {
+   "role": "sidenote",
+   "text": "expenses."
+  },
+  {
+   "role": "body",
+   "text": "For contingent expenses of said building, including fuel, labor, oil,"
+  },
+  {
+   "role": "body",
+   "text": "and repairs, three thousand three hundred and fifty dollars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Off. Sec. Treas."
+  },
+  {
+   "role": "sidenote",
+   "text": "clerks, &c."
+  },
+  {
+   "role": "body",
+   "text": "For compensation to the clerks and messengers in the office of the"
+  },
+  {
+   "role": "body",
+   "text": "Secretary of the Treasury, sixteen thousand four hundred and fifty"
+  },
+  {
+   "role": "body",
+   "text": "dollars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Additional"
+  },
+  {
+   "role": "sidenote",
+   "text": "clerks, 1836,"
+  },
+  {
+   "role": "sidenote",
+   "text": "ch. 115."
+  },
+  {
+   "role": "body",
+   "text": "For compensation to the clerks in said office, per act of twenty-third"
+  },
+  {
+   "role": "body",
+   "text": "of June, eighteen hundred and thirty-six, three thousand six hundred"
+  },
+  {
+   "role": "body",
+   "text": "dollars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "1st Comptrol-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ler."
+  },
+  {
+   "role": "body",
+   "text": "For compensation to the First Comptroller of the Treasury, three"
+  },
+  {
+   "role": "body",
+   "text": "thousand five hundred dollars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Clerks and"
+  },
+  {
+   "role": "sidenote",
+   "text": "messengers."
+  },
+  {
+   "role": "body",
+   "text": "For compensation to the clerks and messengers in the office of the"
+  },
+  {
+   "role": "body",
+   "text": "First Comptroller, nineteen thousand three hundred dollars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "2d Comptrol-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ler."
+  },
+  {
+   "role": "body",
+   "text": "For compensation to the Second Comptroller, three thousand dol-"
+  },
+  {
+   "role": "body",
+   "text": "lars;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Clerks and"
+  },
+  {
+   "role": "sidenote",
+   "text": "messenger."
+  },
+  {
+   "role": "body",
+   "text": "For compensation to the clerks and messenger in the office of the"
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 23287,
+  "output_tokens": 6389,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.27733,
+ "seconds": 348.7,
+ "created": "2026-09-08T11:14:19"
+}

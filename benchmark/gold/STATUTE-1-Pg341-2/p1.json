@@ -1,0 +1,1079 @@
+{
+ "granule_id": "STATUTE-1-Pg341-2",
+ "package_id": "STATUTE-1",
+ "volume": 1,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act in alteration of the act establishing a Mint and regulating the Coins of the United States.",
+ "date_issued": "1794-03-03",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "341",
+ "image": "data/gold/STATUTE-1-Pg341-2/p1.png",
+ "image_sha256": "da1bbfd42ef69a709c9a9511a9e665c3a02c790d20775745c8ee608dc0597608",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "high"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "body",
+     "text": "ACTS OF THE THIRD CONGRESS"
+    },
+    {
+     "role": "body",
+     "text": "OF THE"
+    },
+    {
+     "role": "body",
+     "text": "UNITED STATES,"
+    },
+    {
+     "role": "body",
+     "text": "Passed at the first session, which was begun and held at the City of"
+    },
+    {
+     "role": "body",
+     "text": "Philadelphia, in the State of Pennsylvania, on Monday, the second"
+    },
+    {
+     "role": "body",
+     "text": "day of December, 1793, and ended on the ninth day of June, 1794."
+    },
+    {
+     "role": "body",
+     "text": "GEORGE WASHINGTON, President; JOHN ADAMS, Vice President of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, and President of the Senate; RALPH IZARD, Presi-"
+    },
+    {
+     "role": "body",
+     "text": "dent of the Senate pro tempore; FREDERICK AUGUSTUS MUHLENBERG,"
+    },
+    {
+     "role": "body",
+     "text": "Speaker of the House of Representatives."
+    },
+    {
+     "role": "body",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 13, 1794."
+    },
+    {
+     "role": "body",
+     "text": "CHAPTER I.—An Act making an alteration in the Flag of the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Alteration in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Flag of United"
+    },
+    {
+     "role": "sidenote",
+     "text": "States."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That from and after"
+    },
+    {
+     "role": "body",
+     "text": "the first day of May, Anno Domini, one thousand seven hundred and"
+    },
+    {
+     "role": "body",
+     "text": "ninety-five, the flag of the United States, be fifteen stripes alternate red"
+    },
+    {
+     "role": "body",
+     "text": "and white.   That the Union be fifteen stars, white in a blue field.(a)"
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 13, 1794."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1794."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. IV.—An Act in alteration of the act establishing a Mint and regulating the"
+    },
+    {
+     "role": "body",
+     "text": "Coins of the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Duty of Treas-"
+    },
+    {
+     "role": "sidenote",
+     "text": "urer of the mint"
+    },
+    {
+     "role": "sidenote",
+     "text": "herein."
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of April"
+    },
+    {
+     "role": "sidenote",
+     "text": "2, 1792, ch. 16."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representa-"
+    },
+    {
+     "role": "body",
+     "text": "tives of the United States of America in Congress assembled, That from"
+    },
+    {
+     "role": "body",
+     "text": "and after the passing this act it shall be the duty of the treasurer of the"
+    },
+    {
+     "role": "body",
+     "text": "mint to receive and give receipts for all metals which may lawfully be"
+    },
+    {
+     "role": "body",
+     "text": "brought to the mint to be coined; and for the purpose of ascertaining"
+    },
+    {
+     "role": "body",
+     "text": "their respective qualities, shall deliver from every parcel so received, a"
+    },
+    {
+     "role": "sidenote",
+     "text": "Assay."
+    },
+    {
+     "role": "body",
+     "text": "sufficient number of grains to the assayer, who shall assay all such of"
+    },
+    {
+     "role": "body",
+     "text": "them as may require it.   And the said treasurer shall from time to time"
+    },
+    {
+     "role": "body",
+     "text": "deliver the said metals to the chief coiner to be coined in such quantities"
+    },
+    {
+     "role": "body",
+     "text": "as the director of the mint may prescribe."
+    },
+    {
+     "role": "sidenote",
+     "text": "Assayer and"
+    },
+    {
+     "role": "sidenote",
+     "text": "chief coiner to"
+    },
+    {
+     "role": "sidenote",
+     "text": "give bond, &c."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the assayer and chief coiner"
+    },
+    {
+     "role": "body",
+     "text": "of the mint previous to entering upon the execution of their respective"
+    },
+    {
+     "role": "body",
+     "text": "offices shall each become bound to the United States of America with"
+    },
+    {
+     "role": "body",
+     "text": "one or more sureties to the satisfaction of the Secretary of the Treasury,"
+    },
+    {
+     "role": "body",
+     "text": "the said assayer in the sum of one thousand dollars and the said chief"
+    },
+    {
+     "role": "body",
+     "text": "coiner in the sum of five thousand dollars, with condition for the faithful"
+    },
+    {
+     "role": "body",
+     "text": "and diligent performance of the duties of his office."
+    },
+    {
+     "role": "sidenote",
+     "text": "Part of cer-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tain act repeal-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed."
+    },
+    {
+     "role": "sidenote",
+     "text": "1792, ch. 16."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That so much of the act entitled"
+    },
+    {
+     "role": "body",
+     "text": "\"An act establishing a mint and regulating the coins of the United"
+    },
+    {
+     "role": "body",
+     "text": "States,\" as comes within the purview of this act be and the same is hereby"
+    },
+    {
+     "role": "body",
+     "text": "repealed."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1794."
+    },
+    {
+     "role": "footnote",
+     "text": "(a) By the act of April 4, 1818, chap. 32, the following provision is made relating to the flag of the"
+    },
+    {
+     "role": "footnote",
+     "text": "United States:"
+    },
+    {
+     "role": "footnote",
+     "text": "SEC. 1. That from and after the 4th of July next, (July 4, 1818,) the flag of the United States be thir-"
+    },
+    {
+     "role": "footnote",
+     "text": "teen horizontal stripes, alternately red and white.   That the union be twenty stars white in a blue field."
+    },
+    {
+     "role": "footnote",
+     "text": "SEC. 2. That on the admission of any new state into the Union, one star be added to the union of the"
+    },
+    {
+     "role": "footnote",
+     "text": "flag; and that such addition shall take effect on the fourth day of July then next ensuing."
+    },
+    {
+     "role": "body",
+     "text": "2 F 2"
+    },
+    {
+     "role": "page-number",
+     "text": "341"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7496,
+    "output_tokens": 2018,
+    "cache_read_input_tokens": 770,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08832,
+   "seconds": 29.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "body",
+     "text": "ACTS OF THE THIRD CONGRESS"
+    },
+    {
+     "role": "body",
+     "text": "OF THE"
+    },
+    {
+     "role": "body",
+     "text": "UNITED STATES,"
+    },
+    {
+     "role": "body",
+     "text": "Passed at the first session, which was begun and held at the City of"
+    },
+    {
+     "role": "body",
+     "text": "Philadelphia, in the State of Pennsylvania, on Monday, the second"
+    },
+    {
+     "role": "body",
+     "text": "day of December, 1793, and ended on the ninth day of June, 1794."
+    },
+    {
+     "role": "body",
+     "text": "GEORGE WASHINGTON, President; JOHN ADAMS, Vice President of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, and President of the Senate; RALPH IZARD, Presi-"
+    },
+    {
+     "role": "body",
+     "text": "dent of the Senate pro tempore; FREDERICK AUGUSTUS MUHLENBERG,"
+    },
+    {
+     "role": "body",
+     "text": "Speaker of the House of Representatives."
+    },
+    {
+     "role": "body",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "body",
+     "text": "CHAPTER I.—An Act making an alteration in the Flag of the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 13, 1794."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Alteration in"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That from and after"
+    },
+    {
+     "role": "sidenote",
+     "text": "Flag of United"
+    },
+    {
+     "role": "body",
+     "text": "the first day of May, Anno Domini, one thousand seven hundred and"
+    },
+    {
+     "role": "sidenote",
+     "text": "States."
+    },
+    {
+     "role": "body",
+     "text": "ninety-five, the flag of the United States, be fifteen stripes alternate red"
+    },
+    {
+     "role": "body",
+     "text": "and white.   That the Union be fifteen stars, white in a blue field.(a)"
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 13, 1794."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. IV.—An Act in alteration of the act establishing a Mint and regulating the"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1794."
+    },
+    {
+     "role": "body",
+     "text": "Coins of the United States."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representa-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Duty of Treas-"
+    },
+    {
+     "role": "body",
+     "text": "tives of the United States of America in Congress assembled, That from"
+    },
+    {
+     "role": "sidenote",
+     "text": "urer of the mint"
+    },
+    {
+     "role": "body",
+     "text": "and after the passing this act it shall be the duty of the treasurer of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "herein."
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of April"
+    },
+    {
+     "role": "body",
+     "text": "mint to receive and give receipts for all metals which may lawfully be"
+    },
+    {
+     "role": "sidenote",
+     "text": "2, 1792, ch. 16."
+    },
+    {
+     "role": "body",
+     "text": "brought to the mint to be coined; and for the purpose of ascertaining"
+    },
+    {
+     "role": "body",
+     "text": "their respective qualities, shall deliver from every parcel so received, a"
+    },
+    {
+     "role": "body",
+     "text": "sufficient number of grains to the assayer, who shall assay all such of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Assay."
+    },
+    {
+     "role": "body",
+     "text": "them as may require it.   And the said treasurer shall from time to time"
+    },
+    {
+     "role": "body",
+     "text": "deliver the said metals to the chief coiner to be coined in such quantities"
+    },
+    {
+     "role": "body",
+     "text": "as the director of the mint may prescribe."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the assayer and chief coiner"
+    },
+    {
+     "role": "sidenote",
+     "text": "Assayer and"
+    },
+    {
+     "role": "body",
+     "text": "of the mint previous to entering upon the execution of their respective"
+    },
+    {
+     "role": "sidenote",
+     "text": "chief coiner to"
+    },
+    {
+     "role": "body",
+     "text": "offices shall each become bound to the United States of America with"
+    },
+    {
+     "role": "sidenote",
+     "text": "give bond, &c."
+    },
+    {
+     "role": "body",
+     "text": "one or more sureties to the satisfaction of the Secretary of the Treasury,"
+    },
+    {
+     "role": "body",
+     "text": "the said assayer in the sum of one thousand dollars and the said chief"
+    },
+    {
+     "role": "body",
+     "text": "coiner in the sum of five thousand dollars, with condition for the faithful"
+    },
+    {
+     "role": "body",
+     "text": "and diligent performance of the duties of his office."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That so much of the act entitled"
+    },
+    {
+     "role": "sidenote",
+     "text": "Part of cer-"
+    },
+    {
+     "role": "body",
+     "text": "\"An act establishing a mint and regulating the coins of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "tain act repeal-"
+    },
+    {
+     "role": "body",
+     "text": "States,\" as comes within the purview of this act be and the same is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed."
+    },
+    {
+     "role": "sidenote",
+     "text": "1792, ch. 16."
+    },
+    {
+     "role": "body",
+     "text": "repealed."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1794."
+    },
+    {
+     "role": "footnote",
+     "text": "(a) By the act of April 4, 1818, chap. 32, the following provision is made relating to the flag of the"
+    },
+    {
+     "role": "footnote",
+     "text": "United States:"
+    },
+    {
+     "role": "footnote",
+     "text": "SEC. 1. That from and after the 4th of July next, (July 4, 1818,) the flag of the United States be thir-"
+    },
+    {
+     "role": "footnote",
+     "text": "teen horizontal stripes, alternately red and white.   That the union be twenty stars white in a blue field."
+    },
+    {
+     "role": "footnote",
+     "text": "SEC. 2. That on the admission of any new state into the Union, one star be added to the union of the"
+    },
+    {
+     "role": "footnote",
+     "text": "flag; and that such addition shall take effect on the fourth day of July then next ensuing."
+    },
+    {
+     "role": "footnote",
+     "text": "2 F 2"
+    },
+    {
+     "role": "page-number",
+     "text": "341"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7499,
+    "output_tokens": 2020,
+    "cache_read_input_tokens": 712,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08835,
+   "seconds": 28.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12454,
+   "output_tokens": 4198,
+   "cache_read_input_tokens": 0,
+   "cache_creation_input_tokens": 833
+  },
+  "cost_usd": 0.17243,
+  "seconds": 50.0,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "high",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "CHAPTER I.—An Act making an alteration in the Flag of the United States.",
+    "kept": "CHAPTER I.—An Act making an alteration in the Flag of the United States.",
+    "reason": "The chapter heading is printed level with the sidenote \"Jan. 13, 1794.\", which sits slightly below it; the heading comes first at this point."
+   },
+   {
+    "run": 2,
+    "a": "CHAPTER I.—An Act making an alteration in the Flag of the United States.",
+    "b": "Be it enacted by the Senate and House of Representatives of the",
+    "kept": "Be it enacted by the Senate and House of Representatives of the",
+    "reason": "After the date sidenote the next printed text is the opening line of the enacting clause; the chapter heading has already been placed."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "United States of America in Congress assembled, That from and after",
+    "kept": "United States of America in Congress assembled, That from and after",
+    "reason": "This body line is level with the sidenote \"Flag of United\", so it follows \"Alteration in\"."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "the first day of May, Anno Domini, one thousand seven hundred and",
+    "kept": "the first day of May, Anno Domini, one thousand seven hundred and",
+    "reason": "This body line is level with the sidenote \"States.\", following \"Flag of United\"."
+   },
+   {
+    "run": 5,
+    "a": "Be it enacted by the Senate and House of Representatives of the\nUnited States of America in Congress assembled, That from and after\nthe first day of May, Anno Domini, one thousand seven hundred and",
+    "b": "",
+    "kept": "",
+    "reason": "These three body lines have already been placed interleaved with their sidenotes; nothing further is printed here."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "CHAP. IV.—An Act in alteration of the act establishing a Mint and regulating the",
+    "kept": "CHAP. IV.—An Act in alteration of the act establishing a Mint and regulating the",
+    "reason": "The chapter heading is level with \"March 3, 1794.\" and follows the \"STATUTE I.\" sidenote."
+   },
+   {
+    "run": 7,
+    "a": "CHAP. IV.—An Act in alteration of the act establishing a Mint and regulating the",
+    "b": "",
+    "kept": "",
+    "reason": "The heading was already placed before the \"March 3, 1794.\" sidenote; nothing printed here."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "SECTION 1. Be it enacted by the Senate and House of Representa-",
+    "kept": "SECTION 1. Be it enacted by the Senate and House of Representa-",
+    "reason": "This line is level with the sidenote \"Duty of Treas-\", so it precedes it."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "tives of the United States of America in Congress assembled, That from",
+    "kept": "tives of the United States of America in Congress assembled, That from",
+    "reason": "Level with \"urer of the mint\"; follows the preceding sidenote line."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "and after the passing this act it shall be the duty of the treasurer of the",
+    "kept": "and after the passing this act it shall be the duty of the treasurer of the",
+    "reason": "Level with \"herein.\"; the sidenote follows this body line."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "mint to receive and give receipts for all metals which may lawfully be",
+    "kept": "mint to receive and give receipts for all metals which may lawfully be",
+    "reason": "Printed between the sidenote lines \"Act of April\" and \"2, 1792, ch. 16.\"."
+   },
+   {
+    "run": 12,
+    "a": "SECTION 1. Be it enacted by the Senate and House of Representa-\ntives of the United States of America in Congress assembled, That from\nand after the passing this act it shall be the duty of the treasurer of the\nmint to receive and give receipts for all metals which may lawfully be",
+    "b": "",
+    "kept": "",
+    "reason": "These body lines were already placed interleaved with the sidenotes; nothing further printed here."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "sufficient number of grains to the assayer, who shall assay all such of",
+    "kept": "sufficient number of grains to the assayer, who shall assay all such of",
+    "reason": "This line is level with the sidenote \"Assay.\", which is printed just after it."
+   },
+   {
+    "run": 14,
+    "a": "sufficient number of grains to the assayer, who shall assay all such of",
+    "b": "",
+    "kept": "",
+    "reason": "The line was already placed before the \"Assay.\" sidenote."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "SEC. 2. And be it further enacted, That the assayer and chief coiner",
+    "kept": "SEC. 2. And be it further enacted, That the assayer and chief coiner",
+    "reason": "Level with the sidenote \"Assayer and\", which follows it."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "of the mint previous to entering upon the execution of their respective",
+    "kept": "of the mint previous to entering upon the execution of their respective",
+    "reason": "Level with \"chief coiner to\"; body line comes first."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "offices shall each become bound to the United States of America with",
+    "kept": "offices shall each become bound to the United States of America with",
+    "reason": "Level with \"give bond, &c.\"; body line comes first."
+   },
+   {
+    "run": 18,
+    "a": "SEC. 2. And be it further enacted, That the assayer and chief coiner\nof the mint previous to entering upon the execution of their respective\noffices shall each become bound to the United States of America with",
+    "b": "",
+    "kept": "",
+    "reason": "These body lines have already been placed interleaved with the sidenotes."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "SEC. 3. And be it further enacted, That so much of the act entitled",
+    "kept": "SEC. 3. And be it further enacted, That so much of the act entitled",
+    "reason": "Level with the sidenote \"Part of cer-\", which follows it."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "\"An act establishing a mint and regulating the coins of the United",
+    "kept": "\"An act establishing a mint and regulating the coins of the United",
+    "reason": "Level with \"tain act repeal-\"; body line comes first."
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "States,\" as comes within the purview of this act be and the same is hereby",
+    "kept": "States,\" as comes within the purview of this act be and the same is hereby",
+    "reason": "Level with the sidenote lines \"ed.\" / \"1792, ch. 16.\"."
+   },
+   {
+    "run": 22,
+    "a": "SEC. 3. And be it further enacted, That so much of the act entitled\n\"An act establishing a mint and regulating the coins of the United\nStates,\" as comes within the purview of this act be and the same is hereby",
+    "b": "",
+    "kept": "",
+    "reason": "These body lines were already placed interleaved with the sidenotes."
+   },
+   {
+    "run": 23,
+    "a": "2 F 2",
+    "b": "2 F 2",
+    "kept": "2 F 2",
+    "reason": "The signature mark is printed in the bottom margin beside the page number; it is not part of the footnote text."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "body",
+   "text": "ACTS OF THE THIRD CONGRESS"
+  },
+  {
+   "role": "body",
+   "text": "OF THE"
+  },
+  {
+   "role": "body",
+   "text": "UNITED STATES,"
+  },
+  {
+   "role": "body",
+   "text": "Passed at the first session, which was begun and held at the City of"
+  },
+  {
+   "role": "body",
+   "text": "Philadelphia, in the State of Pennsylvania, on Monday, the second"
+  },
+  {
+   "role": "body",
+   "text": "day of December, 1793, and ended on the ninth day of June, 1794."
+  },
+  {
+   "role": "body",
+   "text": "GEORGE WASHINGTON, President; JOHN ADAMS, Vice President of the"
+  },
+  {
+   "role": "body",
+   "text": "United States, and President of the Senate; RALPH IZARD, Presi-"
+  },
+  {
+   "role": "body",
+   "text": "dent of the Senate pro tempore; FREDERICK AUGUSTUS MUHLENBERG,"
+  },
+  {
+   "role": "body",
+   "text": "Speaker of the House of Representatives."
+  },
+  {
+   "role": "body",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "body",
+   "text": "CHAPTER I.—An Act making an alteration in the Flag of the United States."
+  },
+  {
+   "role": "sidenote",
+   "text": "Jan. 13, 1794."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Alteration in"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That from and after"
+  },
+  {
+   "role": "sidenote",
+   "text": "Flag of United"
+  },
+  {
+   "role": "body",
+   "text": "the first day of May, Anno Domini, one thousand seven hundred and"
+  },
+  {
+   "role": "sidenote",
+   "text": "States."
+  },
+  {
+   "role": "body",
+   "text": "ninety-five, the flag of the United States, be fifteen stripes alternate red"
+  },
+  {
+   "role": "body",
+   "text": "and white.   That the Union be fifteen stars, white in a blue field.(a)"
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, January 13, 1794."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. IV.—An Act in alteration of the act establishing a Mint and regulating the"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1794."
+  },
+  {
+   "role": "body",
+   "text": "Coins of the United States."
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. Be it enacted by the Senate and House of Representa-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Duty of Treas-"
+  },
+  {
+   "role": "body",
+   "text": "tives of the United States of America in Congress assembled, That from"
+  },
+  {
+   "role": "sidenote",
+   "text": "urer of the mint"
+  },
+  {
+   "role": "body",
+   "text": "and after the passing this act it shall be the duty of the treasurer of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "herein."
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of April"
+  },
+  {
+   "role": "body",
+   "text": "mint to receive and give receipts for all metals which may lawfully be"
+  },
+  {
+   "role": "sidenote",
+   "text": "2, 1792, ch. 16."
+  },
+  {
+   "role": "body",
+   "text": "brought to the mint to be coined; and for the purpose of ascertaining"
+  },
+  {
+   "role": "body",
+   "text": "their respective qualities, shall deliver from every parcel so received, a"
+  },
+  {
+   "role": "body",
+   "text": "sufficient number of grains to the assayer, who shall assay all such of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Assay."
+  },
+  {
+   "role": "body",
+   "text": "them as may require it.   And the said treasurer shall from time to time"
+  },
+  {
+   "role": "body",
+   "text": "deliver the said metals to the chief coiner to be coined in such quantities"
+  },
+  {
+   "role": "body",
+   "text": "as the director of the mint may prescribe."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the assayer and chief coiner"
+  },
+  {
+   "role": "sidenote",
+   "text": "Assayer and"
+  },
+  {
+   "role": "body",
+   "text": "of the mint previous to entering upon the execution of their respective"
+  },
+  {
+   "role": "sidenote",
+   "text": "chief coiner to"
+  },
+  {
+   "role": "body",
+   "text": "offices shall each become bound to the United States of America with"
+  },
+  {
+   "role": "sidenote",
+   "text": "give bond, &c."
+  },
+  {
+   "role": "body",
+   "text": "one or more sureties to the satisfaction of the Secretary of the Treasury,"
+  },
+  {
+   "role": "body",
+   "text": "the said assayer in the sum of one thousand dollars and the said chief"
+  },
+  {
+   "role": "body",
+   "text": "coiner in the sum of five thousand dollars, with condition for the faithful"
+  },
+  {
+   "role": "body",
+   "text": "and diligent performance of the duties of his office."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That so much of the act entitled"
+  },
+  {
+   "role": "sidenote",
+   "text": "Part of cer-"
+  },
+  {
+   "role": "body",
+   "text": "\"An act establishing a mint and regulating the coins of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "tain act repeal-"
+  },
+  {
+   "role": "body",
+   "text": "States,\" as comes within the purview of this act be and the same is hereby"
+  },
+  {
+   "role": "sidenote",
+   "text": "ed."
+  },
+  {
+   "role": "sidenote",
+   "text": "1792, ch. 16."
+  },
+  {
+   "role": "body",
+   "text": "repealed."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1794."
+  },
+  {
+   "role": "footnote",
+   "text": "(a) By the act of April 4, 1818, chap. 32, the following provision is made relating to the flag of the"
+  },
+  {
+   "role": "footnote",
+   "text": "United States:"
+  },
+  {
+   "role": "footnote",
+   "text": "SEC. 1. That from and after the 4th of July next, (July 4, 1818,) the flag of the United States be thir-"
+  },
+  {
+   "role": "footnote",
+   "text": "teen horizontal stripes, alternately red and white.   That the union be twenty stars white in a blue field."
+  },
+  {
+   "role": "footnote",
+   "text": "SEC. 2. That on the admission of any new state into the Union, one star be added to the union of the"
+  },
+  {
+   "role": "footnote",
+   "text": "flag; and that such addition shall take effect on the fourth day of July then next ensuing."
+  },
+  {
+   "role": "body",
+   "text": "2 F 2"
+  },
+  {
+   "role": "page-number",
+   "text": "341"
+  }
+ ],
+ "disagreement_count": 23,
+ "tokens": {
+  "input_tokens": 27449,
+  "output_tokens": 8236,
+  "cache_read_input_tokens": 1482,
+  "cache_creation_input_tokens": 833
+ },
+ "cost_usd": 0.3491,
+ "seconds": 108.2,
+ "created": "2026-09-08T10:53:34"
+}

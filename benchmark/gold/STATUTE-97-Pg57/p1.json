@@ -1,0 +1,606 @@
+{
+ "granule_id": "STATUTE-97-Pg57",
+ "package_id": "STATUTE-97",
+ "volume": 97,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Joint resolution to authorize and request the President to proclaim May, 1983 as \"National Amateur Baseball Month\"",
+ "date_issued": "1983-04-04",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "57",
+ "image": "data/gold/STATUTE-97-Pg57/p1.png",
+ "image_sha256": "5403c4f33c003faabce603e8333993b46e8af7020f6b5f19c0765e19b4571eb3",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98-16—APR. 4, 1983          97 STAT. 57"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 98-16"
+    },
+    {
+     "role": "body",
+     "text": "98th Congress"
+    },
+    {
+     "role": "body",
+     "text": "Joint Resolution"
+    },
+    {
+     "role": "body",
+     "text": "To authorize and request the President to proclaim May 1983 as \"National Amateur"
+    },
+    {
+     "role": "body",
+     "text": "Baseball Month\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Apr. 4, 1983"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.J. Res. 175]"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the game of baseball having originated in the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the game of baseball having engendered exceptional inter-"
+    },
+    {
+     "role": "body",
+     "text": "est among the people of this Nation, both as a participant and as a"
+    },
+    {
+     "role": "body",
+     "text": "spectator sport, to the extent that it has long been acknowledged"
+    },
+    {
+     "role": "body",
+     "text": "as \"The National Pastime\"; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas some nineteen million amateur players annually partici-"
+    },
+    {
+     "role": "body",
+     "text": "pate in the game of baseball in the United States; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas many more millions of Americans are spectators each year"
+    },
+    {
+     "role": "body",
+     "text": "at amateur baseball games involving players of virtually every"
+    },
+    {
+     "role": "body",
+     "text": "age; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the game of baseball, while providing wholesome recre-"
+    },
+    {
+     "role": "body",
+     "text": "ational competition, teaches the desirable goals of sportsmanship"
+    },
+    {
+     "role": "body",
+     "text": "and teamwork so necessary in developing good citizenship; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas amateur baseball organizations in the United States have"
+    },
+    {
+     "role": "body",
+     "text": "taken the lead in a worldwide effort to obtain recognition of the"
+    },
+    {
+     "role": "body",
+     "text": "importance of baseball by the Olympic movement to the extent"
+    },
+    {
+     "role": "body",
+     "text": "that the 1984 Olympic games in Los Angeles will include baseball;"
+    },
+    {
+     "role": "body",
+     "text": "and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas amateur baseball is made possible by the contributions of"
+    },
+    {
+     "role": "body",
+     "text": "time, effort, and financial support of countless millions of individ-"
+    },
+    {
+     "role": "body",
+     "text": "uals from a wide range of business, industrial, fraternal, civic,"
+    },
+    {
+     "role": "body",
+     "text": "religious, and service organizations of the United States; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas it is appropriate to honor and to pay tribute to all those"
+    },
+    {
+     "role": "body",
+     "text": "associated on the amateur level with the \"game of baseball\": Now,"
+    },
+    {
+     "role": "body",
+     "text": "therefore, be it"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "National"
+    },
+    {
+     "role": "sidenote",
+     "text": "Amateur"
+    },
+    {
+     "role": "sidenote",
+     "text": "Baseball Month."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the month of May"
+    },
+    {
+     "role": "body",
+     "text": "1983, be designated \"National Amateur Baseball Month\", and that"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 1116,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.05477,
+   "seconds": 88.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98-16—APR. 4, 1983"
+    },
+    {
+     "role": "running-head",
+     "text": "97 STAT. 57"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 98-16"
+    },
+    {
+     "role": "body",
+     "text": "98th Congress"
+    },
+    {
+     "role": "body",
+     "text": "Joint Resolution"
+    },
+    {
+     "role": "body",
+     "text": "To authorize and request the President to proclaim May 1983 as \"National Amateur"
+    },
+    {
+     "role": "body",
+     "text": "Baseball Month\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Apr. 4, 1983"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.J. Res. 175]"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the game of baseball having originated in the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the game of baseball having engendered exceptional inter-"
+    },
+    {
+     "role": "body",
+     "text": "est among the people of this Nation, both as a participant and as a"
+    },
+    {
+     "role": "body",
+     "text": "spectator sport, to the extent that it has long been acknowledged"
+    },
+    {
+     "role": "body",
+     "text": "as \"The National Pastime\"; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas some nineteen million amateur players annually partici-"
+    },
+    {
+     "role": "body",
+     "text": "pate in the game of baseball in the United States; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas many more millions of Americans are spectators each year"
+    },
+    {
+     "role": "body",
+     "text": "at amateur baseball games involving players of virtually every"
+    },
+    {
+     "role": "body",
+     "text": "age; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas the game of baseball, while providing wholesome recre-"
+    },
+    {
+     "role": "body",
+     "text": "ational competition, teaches the desirable goals of sportsmanship"
+    },
+    {
+     "role": "body",
+     "text": "and teamwork so necessary in developing good citizenship; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas amateur baseball organizations in the United States have"
+    },
+    {
+     "role": "body",
+     "text": "taken the lead in a worldwide effort to obtain recognition of the"
+    },
+    {
+     "role": "body",
+     "text": "importance of baseball by the Olympic movement to the extent"
+    },
+    {
+     "role": "body",
+     "text": "that the 1984 Olympic games in Los Angeles will include baseball;"
+    },
+    {
+     "role": "body",
+     "text": "and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas amateur baseball is made possible by the contributions of"
+    },
+    {
+     "role": "body",
+     "text": "time, effort, and financial support of countless millions of individ-"
+    },
+    {
+     "role": "body",
+     "text": "uals from a wide range of business, industrial, fraternal, civic,"
+    },
+    {
+     "role": "body",
+     "text": "religious, and service organizations of the United States; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas it is appropriate to honor and to pay tribute to all those"
+    },
+    {
+     "role": "body",
+     "text": "associated on the amateur level with the \"game of baseball\": Now,"
+    },
+    {
+     "role": "body",
+     "text": "therefore, be it"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the month of May"
+    },
+    {
+     "role": "sidenote",
+     "text": "National"
+    },
+    {
+     "role": "body",
+     "text": "1983, be designated \"National Amateur Baseball Month\", and that"
+    },
+    {
+     "role": "sidenote",
+     "text": "Amateur"
+    },
+    {
+     "role": "sidenote",
+     "text": "Baseball Month."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 1129,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.05509,
+   "seconds": 43.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 9571,
+   "output_tokens": 558,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06222,
+  "seconds": 9.0,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "PUBLIC LAW 98-16—APR. 4, 1983          97 STAT. 57",
+    "b": "PUBLIC LAW 98-16—APR. 4, 1983\n97 STAT. 57",
+    "kept": "PUBLIC LAW 98-16—APR. 4, 1983\n97 STAT. 57",
+    "reason": "The head and the volume-page citation are separate elements set apart across the top of the page."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "States of America in Congress assembled, That the month of May",
+    "kept": "States of America in Congress assembled, That the month of May",
+    "reason": "This body line is printed immediately after the Resolved line, alongside the first sidenote line."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "1983, be designated \"National Amateur Baseball Month\", and that",
+    "kept": "1983, be designated \"National Amateur Baseball Month\", and that",
+    "reason": "The final body line falls beside the sidenote 'Amateur/Baseball Month.'"
+   },
+   {
+    "run": 4,
+    "a": "States of America in Congress assembled, That the month of May\n1983, be designated \"National Amateur Baseball Month\", and that",
+    "b": "",
+    "kept": "",
+    "reason": "These body lines were already given in runs 2 and 3; nothing further is printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 98-16—APR. 4, 1983"
+  },
+  {
+   "role": "running-head",
+   "text": "97 STAT. 57"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 98-16"
+  },
+  {
+   "role": "body",
+   "text": "98th Congress"
+  },
+  {
+   "role": "body",
+   "text": "Joint Resolution"
+  },
+  {
+   "role": "body",
+   "text": "To authorize and request the President to proclaim May 1983 as \"National Amateur"
+  },
+  {
+   "role": "body",
+   "text": "Baseball Month\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "Apr. 4, 1983"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H.J. Res. 175]"
+  },
+  {
+   "role": "body",
+   "text": "Whereas the game of baseball having originated in the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America; and"
+  },
+  {
+   "role": "body",
+   "text": "Whereas the game of baseball having engendered exceptional inter-"
+  },
+  {
+   "role": "body",
+   "text": "est among the people of this Nation, both as a participant and as a"
+  },
+  {
+   "role": "body",
+   "text": "spectator sport, to the extent that it has long been acknowledged"
+  },
+  {
+   "role": "body",
+   "text": "as \"The National Pastime\"; and"
+  },
+  {
+   "role": "body",
+   "text": "Whereas some nineteen million amateur players annually partici-"
+  },
+  {
+   "role": "body",
+   "text": "pate in the game of baseball in the United States; and"
+  },
+  {
+   "role": "body",
+   "text": "Whereas many more millions of Americans are spectators each year"
+  },
+  {
+   "role": "body",
+   "text": "at amateur baseball games involving players of virtually every"
+  },
+  {
+   "role": "body",
+   "text": "age; and"
+  },
+  {
+   "role": "body",
+   "text": "Whereas the game of baseball, while providing wholesome recre-"
+  },
+  {
+   "role": "body",
+   "text": "ational competition, teaches the desirable goals of sportsmanship"
+  },
+  {
+   "role": "body",
+   "text": "and teamwork so necessary in developing good citizenship; and"
+  },
+  {
+   "role": "body",
+   "text": "Whereas amateur baseball organizations in the United States have"
+  },
+  {
+   "role": "body",
+   "text": "taken the lead in a worldwide effort to obtain recognition of the"
+  },
+  {
+   "role": "body",
+   "text": "importance of baseball by the Olympic movement to the extent"
+  },
+  {
+   "role": "body",
+   "text": "that the 1984 Olympic games in Los Angeles will include baseball;"
+  },
+  {
+   "role": "body",
+   "text": "and"
+  },
+  {
+   "role": "body",
+   "text": "Whereas amateur baseball is made possible by the contributions of"
+  },
+  {
+   "role": "body",
+   "text": "time, effort, and financial support of countless millions of individ-"
+  },
+  {
+   "role": "body",
+   "text": "uals from a wide range of business, industrial, fraternal, civic,"
+  },
+  {
+   "role": "body",
+   "text": "religious, and service organizations of the United States; and"
+  },
+  {
+   "role": "body",
+   "text": "Whereas it is appropriate to honor and to pay tribute to all those"
+  },
+  {
+   "role": "body",
+   "text": "associated on the amateur level with the \"game of baseball\": Now,"
+  },
+  {
+   "role": "body",
+   "text": "therefore, be it"
+  },
+  {
+   "role": "body",
+   "text": "Resolved by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the month of May"
+  },
+  {
+   "role": "sidenote",
+   "text": "National"
+  },
+  {
+   "role": "body",
+   "text": "1983, be designated \"National Amateur Baseball Month\", and that"
+  },
+  {
+   "role": "sidenote",
+   "text": "Amateur"
+  },
+  {
+   "role": "sidenote",
+   "text": "Baseball Month."
+  }
+ ],
+ "disagreement_count": 4,
+ "tokens": {
+  "input_tokens": 20170,
+  "output_tokens": 2803,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.17208,
+ "seconds": 140.6,
+ "created": "2026-09-08T12:28:42"
+}

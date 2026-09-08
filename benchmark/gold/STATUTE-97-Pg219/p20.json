@@ -1,0 +1,1005 @@
+{
+ "granule_id": "STATUTE-97-Pg219",
+ "package_id": "STATUTE-97",
+ "volume": 97,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Department of Housing and Urban Development-Independent Agencies Appropriation Act, 1984",
+ "date_issued": "1983-07-12",
+ "pdf_page": 20,
+ "pdf_pages": 22,
+ "stat_page": "238",
+ "image": "data/gold/STATUTE-97-Pg219/p20.png",
+ "image_sha256": "17f26e7a822bb4f3da90a71636187c299be6a4e8c3eb5019a06a2c4b96aaaac8",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "97 STAT. 238"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98-45—JULY 12, 1983"
+    },
+    {
+     "role": "body",
+     "text": "boards and appeal boards of the Selective Service System; to travel"
+    },
+    {
+     "role": "body",
+     "text": "performed directly in connection with care and treatment of medical"
+    },
+    {
+     "role": "body",
+     "text": "beneficiaries of the Veterans Administration; to travel performed in"
+    },
+    {
+     "role": "body",
+     "text": "connection with major disasters or emergencies declared or deter-"
+    },
+    {
+     "role": "body",
+     "text": "mined by the President under the provisions of the Disaster Relief"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 5121"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "Act of 1974 to site-related travel performed in connection with the"
+    },
+    {
+     "role": "body",
+     "text": "Comprehensive Environmental Response, Compensation, and Liabil-"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 9601 note."
+    },
+    {
+     "role": "body",
+     "text": "ity Act of 1980; or to payments to interagency motor pools where"
+    },
+    {
+     "role": "body",
+     "text": "separately set forth in the budget schedules."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 402. Appropriations and funds available for the administra-"
+    },
+    {
+     "role": "body",
+     "text": "tive expenses of the Department of Housing and Urban Develop-"
+    },
+    {
+     "role": "body",
+     "text": "ment and the Selective Service System shall be available in the"
+    },
+    {
+     "role": "body",
+     "text": "current fiscal year for purchase of uniforms, or allowances therefor,"
+    },
+    {
+     "role": "body",
+     "text": "as authorized by law (5 U.S.C. 5901-5902); hire of passenger motor"
+    },
+    {
+     "role": "body",
+     "text": "vehicles; and services as authorized by 5 U.S.C. 3109."
+    },
+    {
+     "role": "sidenote",
+     "text": "Legal services."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 403. Funds of the Department of Housing and Urban Devel-"
+    },
+    {
+     "role": "sidenote",
+     "text": "96 Stat. 1041, 31"
+    },
+    {
+     "role": "body",
+     "text": "opment subject to the Government Corporation Control Act or"
+    },
+    {
+     "role": "sidenote",
+     "text": "USC 9101 et seq."
+    },
+    {
+     "role": "body",
+     "text": "section 402 of the Housing Act of 1950 shall be available, without"
+    },
+    {
+     "role": "sidenote",
+     "text": "12 USC 1749a."
+    },
+    {
+     "role": "body",
+     "text": "regard to the limitations on administrative expenses, for legal serv-"
+    },
+    {
+     "role": "body",
+     "text": "ices on a contract or fee basis, and for utilizing and making payment"
+    },
+    {
+     "role": "body",
+     "text": "for services and facilities of Federal National Mortgage Association,"
+    },
+    {
+     "role": "body",
+     "text": "Government National Mortgage Association, Federal Home Loan"
+    },
+    {
+     "role": "body",
+     "text": "Mortgage Corporation, Federal Financing Bank, Federal Reserve"
+    },
+    {
+     "role": "body",
+     "text": "banks or any member thereof, Federal home loan banks, and any"
+    },
+    {
+     "role": "body",
+     "text": "insured bank within the meaning of the Federal Deposit Insurance"
+    },
+    {
+     "role": "sidenote",
+     "text": "12 USC 1811-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1831d."
+    },
+    {
+     "role": "body",
+     "text": "Corporation Act, as amended (12 U.S.C. 1811-1831)."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 404. No part of any appropriation contained in this Act shall"
+    },
+    {
+     "role": "body",
+     "text": "remain available for obligation beyond the current fiscal year unless"
+    },
+    {
+     "role": "body",
+     "text": "expressly so provided herein."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 405. No funds appropriated by this Act may be expended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) pursuant to a certification of an officer or employee of the"
+    },
+    {
+     "role": "body",
+     "text": "United States unless—"
+    },
+    {
+     "role": "body",
+     "text": "(A) such certification is accompanied by, or is part of, a"
+    },
+    {
+     "role": "body",
+     "text": "voucher or abstract which describes the payee or payees"
+    },
+    {
+     "role": "body",
+     "text": "and the items or services for which such expenditure is"
+    },
+    {
+     "role": "body",
+     "text": "being made, or"
+    },
+    {
+     "role": "body",
+     "text": "(B) the expenditure of funds pursuant to such certifica-"
+    },
+    {
+     "role": "body",
+     "text": "tion, and without such a voucher or abstract, is specifically"
+    },
+    {
+     "role": "body",
+     "text": "authorized by law; and"
+    },
+    {
+     "role": "body",
+     "text": "(2) unless such expenditure is subject to audit by the General"
+    },
+    {
+     "role": "body",
+     "text": "Accounting Office or is specifically exempt by law from such"
+    },
+    {
+     "role": "body",
+     "text": "audit."
+    },
+    {
+     "role": "sidenote",
+     "text": "Prohibited use of"
+    },
+    {
+     "role": "sidenote",
+     "text": "government"
+    },
+    {
+     "role": "sidenote",
+     "text": "transportation."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 406. None of the funds provided in this Act to any depart-"
+    },
+    {
+     "role": "body",
+     "text": "ment or agency may be expended for the transportation of any"
+    },
+    {
+     "role": "body",
+     "text": "officer or employee of such department or agency between his"
+    },
+    {
+     "role": "body",
+     "text": "domicile and his place of employment, with the exception of the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Department of Housing and Urban Development,"
+    },
+    {
+     "role": "body",
+     "text": "who, under title 5, United States Code, section 101, is exempted from"
+    },
+    {
+     "role": "body",
+     "text": "such limitation."
+    },
+    {
+     "role": "sidenote",
+     "text": "Restriction on"
+    },
+    {
+     "role": "sidenote",
+     "text": "research"
+    },
+    {
+     "role": "sidenote",
+     "text": "projects."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 407. None of the funds provided in this Act may be used for"
+    },
+    {
+     "role": "body",
+     "text": "payment, through grants or contracts, to recipients that do not"
+    },
+    {
+     "role": "body",
+     "text": "share in the cost of conducting research resulting from proposals not"
+    },
+    {
+     "role": "body",
+     "text": "specifically solicited by the Government: Provided, That the extent"
+    },
+    {
+     "role": "body",
+     "text": "of cost sharing by the recipient shall reflect the mutuality of inter-"
+    },
+    {
+     "role": "body",
+     "text": "est of the grantee or contractor and the Government in the research."
+    },
+    {
+     "role": "sidenote",
+     "text": "Consultants,"
+    },
+    {
+     "role": "sidenote",
+     "text": "payment"
+    },
+    {
+     "role": "sidenote",
+     "text": "restriction."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 408. None of the funds provided in this Act may be used,"
+    },
+    {
+     "role": "body",
+     "text": "directly or through grants, to pay or to provide reimbursement for"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2172,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08117,
+   "seconds": 52.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "97 STAT. 238"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 98-45—JULY 12, 1983"
+    },
+    {
+     "role": "body",
+     "text": "boards and appeal boards of the Selective Service System; to travel"
+    },
+    {
+     "role": "body",
+     "text": "performed directly in connection with care and treatment of medical"
+    },
+    {
+     "role": "body",
+     "text": "beneficiaries of the Veterans Administration; to travel performed in"
+    },
+    {
+     "role": "body",
+     "text": "connection with major disasters or emergencies declared or deter-"
+    },
+    {
+     "role": "body",
+     "text": "mined by the President under the provisions of the Disaster Relief"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 5121"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "Act of 1974 to site-related travel performed in connection with the"
+    },
+    {
+     "role": "body",
+     "text": "Comprehensive Environmental Response, Compensation, and Liabil-"
+    },
+    {
+     "role": "sidenote",
+     "text": "42 USC 9601 note."
+    },
+    {
+     "role": "body",
+     "text": "ity Act of 1980; or to payments to interagency motor pools where"
+    },
+    {
+     "role": "body",
+     "text": "separately set forth in the budget schedules."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 402. Appropriations and funds available for the administra-"
+    },
+    {
+     "role": "body",
+     "text": "tive expenses of the Department of Housing and Urban Develop-"
+    },
+    {
+     "role": "body",
+     "text": "ment and the Selective Service System shall be available in the"
+    },
+    {
+     "role": "body",
+     "text": "current fiscal year for purchase of uniforms, or allowances therefor,"
+    },
+    {
+     "role": "body",
+     "text": "as authorized by law (5 U.S.C. 5901-5902); hire of passenger motor"
+    },
+    {
+     "role": "body",
+     "text": "vehicles; and services as authorized by 5 U.S.C. 3109."
+    },
+    {
+     "role": "sidenote",
+     "text": "Legal services."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 403. Funds of the Department of Housing and Urban Devel-"
+    },
+    {
+     "role": "sidenote",
+     "text": "96 Stat. 1041, 31"
+    },
+    {
+     "role": "body",
+     "text": "opment subject to the Government Corporation Control Act or"
+    },
+    {
+     "role": "sidenote",
+     "text": "USC 9101 et seq."
+    },
+    {
+     "role": "body",
+     "text": "section 402 of the Housing Act of 1950 shall be available, without"
+    },
+    {
+     "role": "sidenote",
+     "text": "12 USC 1749a."
+    },
+    {
+     "role": "body",
+     "text": "regard to the limitations on administrative expenses, for legal serv-"
+    },
+    {
+     "role": "body",
+     "text": "ices on a contract or fee basis, and for utilizing and making payment"
+    },
+    {
+     "role": "body",
+     "text": "for services and facilities of Federal National Mortgage Association,"
+    },
+    {
+     "role": "body",
+     "text": "Government National Mortgage Association, Federal Home Loan"
+    },
+    {
+     "role": "body",
+     "text": "Mortgage Corporation, Federal Financing Bank, Federal Reserve"
+    },
+    {
+     "role": "body",
+     "text": "banks or any member thereof, Federal home loan banks, and any"
+    },
+    {
+     "role": "body",
+     "text": "insured bank within the meaning of the Federal Deposit Insurance"
+    },
+    {
+     "role": "sidenote",
+     "text": "12 USC 1811-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1831d."
+    },
+    {
+     "role": "body",
+     "text": "Corporation Act, as amended (12 U.S.C. 1811-1831)."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 404. No part of any appropriation contained in this Act shall"
+    },
+    {
+     "role": "body",
+     "text": "remain available for obligation beyond the current fiscal year unless"
+    },
+    {
+     "role": "body",
+     "text": "expressly so provided herein."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 405. No funds appropriated by this Act may be expended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) pursuant to a certification of an officer or employee of the"
+    },
+    {
+     "role": "body",
+     "text": "United States unless—"
+    },
+    {
+     "role": "body",
+     "text": "(A) such certification is accompanied by, or is part of, a"
+    },
+    {
+     "role": "body",
+     "text": "voucher or abstract which describes the payee or payees"
+    },
+    {
+     "role": "body",
+     "text": "and the items or services for which such expenditure is"
+    },
+    {
+     "role": "body",
+     "text": "being made, or"
+    },
+    {
+     "role": "body",
+     "text": "(B) the expenditure of funds pursuant to such certifica-"
+    },
+    {
+     "role": "body",
+     "text": "tion, and without such a voucher or abstract, is specifically"
+    },
+    {
+     "role": "body",
+     "text": "authorized by law; and"
+    },
+    {
+     "role": "body",
+     "text": "(2) unless such expenditure is subject to audit by the General"
+    },
+    {
+     "role": "body",
+     "text": "Accounting Office or is specifically exempt by law from such"
+    },
+    {
+     "role": "body",
+     "text": "audit."
+    },
+    {
+     "role": "sidenote",
+     "text": "Prohibited use of"
+    },
+    {
+     "role": "sidenote",
+     "text": "government"
+    },
+    {
+     "role": "sidenote",
+     "text": "transportation."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 406. None of the funds provided in this Act to any depart-"
+    },
+    {
+     "role": "body",
+     "text": "ment or agency may be expended for the transportation of any"
+    },
+    {
+     "role": "body",
+     "text": "officer or employee of such department or agency between his"
+    },
+    {
+     "role": "body",
+     "text": "domicile and his place of employment, with the exception of the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Department of Housing and Urban Development,"
+    },
+    {
+     "role": "body",
+     "text": "who, under title 5, United States Code, section 101, is exempted from"
+    },
+    {
+     "role": "body",
+     "text": "such limitation."
+    },
+    {
+     "role": "sidenote",
+     "text": "Restriction on"
+    },
+    {
+     "role": "sidenote",
+     "text": "research"
+    },
+    {
+     "role": "sidenote",
+     "text": "projects."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 407. None of the funds provided in this Act may be used for"
+    },
+    {
+     "role": "body",
+     "text": "payment, through grants or contracts, to recipients that do not"
+    },
+    {
+     "role": "body",
+     "text": "share in the cost of conducting research resulting from proposals not"
+    },
+    {
+     "role": "body",
+     "text": "specifically solicited by the Government: Provided, That the extent"
+    },
+    {
+     "role": "body",
+     "text": "of cost sharing by the recipient shall reflect the mutuality of inter-"
+    },
+    {
+     "role": "body",
+     "text": "est of the grantee or contractor and the Government in the research."
+    },
+    {
+     "role": "sidenote",
+     "text": "Consultants,"
+    },
+    {
+     "role": "sidenote",
+     "text": "payment"
+    },
+    {
+     "role": "sidenote",
+     "text": "restriction."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 408. None of the funds provided in this Act may be used,"
+    },
+    {
+     "role": "body",
+     "text": "directly or through grants, to pay or to provide reimbursement for"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2172,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08117,
+   "seconds": 24.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "skipped": "transcriptions agree",
+  "disagreements": [],
+  "cost_usd": 0.0,
+  "usage": {
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "97 STAT. 238"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 98-45—JULY 12, 1983"
+  },
+  {
+   "role": "body",
+   "text": "boards and appeal boards of the Selective Service System; to travel"
+  },
+  {
+   "role": "body",
+   "text": "performed directly in connection with care and treatment of medical"
+  },
+  {
+   "role": "body",
+   "text": "beneficiaries of the Veterans Administration; to travel performed in"
+  },
+  {
+   "role": "body",
+   "text": "connection with major disasters or emergencies declared or deter-"
+  },
+  {
+   "role": "body",
+   "text": "mined by the President under the provisions of the Disaster Relief"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 5121"
+  },
+  {
+   "role": "sidenote",
+   "text": "note."
+  },
+  {
+   "role": "body",
+   "text": "Act of 1974 to site-related travel performed in connection with the"
+  },
+  {
+   "role": "body",
+   "text": "Comprehensive Environmental Response, Compensation, and Liabil-"
+  },
+  {
+   "role": "sidenote",
+   "text": "42 USC 9601 note."
+  },
+  {
+   "role": "body",
+   "text": "ity Act of 1980; or to payments to interagency motor pools where"
+  },
+  {
+   "role": "body",
+   "text": "separately set forth in the budget schedules."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 402. Appropriations and funds available for the administra-"
+  },
+  {
+   "role": "body",
+   "text": "tive expenses of the Department of Housing and Urban Develop-"
+  },
+  {
+   "role": "body",
+   "text": "ment and the Selective Service System shall be available in the"
+  },
+  {
+   "role": "body",
+   "text": "current fiscal year for purchase of uniforms, or allowances therefor,"
+  },
+  {
+   "role": "body",
+   "text": "as authorized by law (5 U.S.C. 5901-5902); hire of passenger motor"
+  },
+  {
+   "role": "body",
+   "text": "vehicles; and services as authorized by 5 U.S.C. 3109."
+  },
+  {
+   "role": "sidenote",
+   "text": "Legal services."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 403. Funds of the Department of Housing and Urban Devel-"
+  },
+  {
+   "role": "sidenote",
+   "text": "96 Stat. 1041, 31"
+  },
+  {
+   "role": "body",
+   "text": "opment subject to the Government Corporation Control Act or"
+  },
+  {
+   "role": "sidenote",
+   "text": "USC 9101 et seq."
+  },
+  {
+   "role": "body",
+   "text": "section 402 of the Housing Act of 1950 shall be available, without"
+  },
+  {
+   "role": "sidenote",
+   "text": "12 USC 1749a."
+  },
+  {
+   "role": "body",
+   "text": "regard to the limitations on administrative expenses, for legal serv-"
+  },
+  {
+   "role": "body",
+   "text": "ices on a contract or fee basis, and for utilizing and making payment"
+  },
+  {
+   "role": "body",
+   "text": "for services and facilities of Federal National Mortgage Association,"
+  },
+  {
+   "role": "body",
+   "text": "Government National Mortgage Association, Federal Home Loan"
+  },
+  {
+   "role": "body",
+   "text": "Mortgage Corporation, Federal Financing Bank, Federal Reserve"
+  },
+  {
+   "role": "body",
+   "text": "banks or any member thereof, Federal home loan banks, and any"
+  },
+  {
+   "role": "body",
+   "text": "insured bank within the meaning of the Federal Deposit Insurance"
+  },
+  {
+   "role": "sidenote",
+   "text": "12 USC 1811-"
+  },
+  {
+   "role": "sidenote",
+   "text": "1831d."
+  },
+  {
+   "role": "body",
+   "text": "Corporation Act, as amended (12 U.S.C. 1811-1831)."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 404. No part of any appropriation contained in this Act shall"
+  },
+  {
+   "role": "body",
+   "text": "remain available for obligation beyond the current fiscal year unless"
+  },
+  {
+   "role": "body",
+   "text": "expressly so provided herein."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 405. No funds appropriated by this Act may be expended—"
+  },
+  {
+   "role": "body",
+   "text": "(1) pursuant to a certification of an officer or employee of the"
+  },
+  {
+   "role": "body",
+   "text": "United States unless—"
+  },
+  {
+   "role": "body",
+   "text": "(A) such certification is accompanied by, or is part of, a"
+  },
+  {
+   "role": "body",
+   "text": "voucher or abstract which describes the payee or payees"
+  },
+  {
+   "role": "body",
+   "text": "and the items or services for which such expenditure is"
+  },
+  {
+   "role": "body",
+   "text": "being made, or"
+  },
+  {
+   "role": "body",
+   "text": "(B) the expenditure of funds pursuant to such certifica-"
+  },
+  {
+   "role": "body",
+   "text": "tion, and without such a voucher or abstract, is specifically"
+  },
+  {
+   "role": "body",
+   "text": "authorized by law; and"
+  },
+  {
+   "role": "body",
+   "text": "(2) unless such expenditure is subject to audit by the General"
+  },
+  {
+   "role": "body",
+   "text": "Accounting Office or is specifically exempt by law from such"
+  },
+  {
+   "role": "body",
+   "text": "audit."
+  },
+  {
+   "role": "sidenote",
+   "text": "Prohibited use of"
+  },
+  {
+   "role": "sidenote",
+   "text": "government"
+  },
+  {
+   "role": "sidenote",
+   "text": "transportation."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 406. None of the funds provided in this Act to any depart-"
+  },
+  {
+   "role": "body",
+   "text": "ment or agency may be expended for the transportation of any"
+  },
+  {
+   "role": "body",
+   "text": "officer or employee of such department or agency between his"
+  },
+  {
+   "role": "body",
+   "text": "domicile and his place of employment, with the exception of the"
+  },
+  {
+   "role": "body",
+   "text": "Secretary of the Department of Housing and Urban Development,"
+  },
+  {
+   "role": "body",
+   "text": "who, under title 5, United States Code, section 101, is exempted from"
+  },
+  {
+   "role": "body",
+   "text": "such limitation."
+  },
+  {
+   "role": "sidenote",
+   "text": "Restriction on"
+  },
+  {
+   "role": "sidenote",
+   "text": "research"
+  },
+  {
+   "role": "sidenote",
+   "text": "projects."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 407. None of the funds provided in this Act may be used for"
+  },
+  {
+   "role": "body",
+   "text": "payment, through grants or contracts, to recipients that do not"
+  },
+  {
+   "role": "body",
+   "text": "share in the cost of conducting research resulting from proposals not"
+  },
+  {
+   "role": "body",
+   "text": "specifically solicited by the Government: Provided, That the extent"
+  },
+  {
+   "role": "body",
+   "text": "of cost sharing by the recipient shall reflect the mutuality of inter-"
+  },
+  {
+   "role": "body",
+   "text": "est of the grantee or contractor and the Government in the research."
+  },
+  {
+   "role": "sidenote",
+   "text": "Consultants,"
+  },
+  {
+   "role": "sidenote",
+   "text": "payment"
+  },
+  {
+   "role": "sidenote",
+   "text": "restriction."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 408. None of the funds provided in this Act may be used,"
+  },
+  {
+   "role": "body",
+   "text": "directly or through grants, to pay or to provide reimbursement for"
+  }
+ ],
+ "disagreement_count": 0,
+ "tokens": {
+  "input_tokens": 10599,
+  "output_tokens": 4344,
+  "cache_read_input_tokens": 1490,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.16234,
+ "seconds": 77.1,
+ "created": "2026-09-08T11:52:38"
+}

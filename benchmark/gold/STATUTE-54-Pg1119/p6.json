@@ -1,0 +1,1118 @@
+{
+ "granule_id": "STATUTE-54-Pg1119",
+ "package_id": "STATUTE-54",
+ "volume": 54,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To amend an Act entitled \"An Act authorizing construction of water conservation and utilization projects in the Great Plains and arid and semiarid areas of the United States\", approved August 1",
+ "date_issued": "1940-10-14",
+ "pdf_page": 6,
+ "pdf_pages": 7,
+ "stat_page": "1124",
+ "image": "data/gold/STATUTE-54-Pg1119/p6.png",
+ "image_sha256": "79a328db3e101ffff800af5de7809ca76c319281a744f5062b1b86f41d67ac14",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "1124\t\tPUBLIC LAWS—CH. 861—OCT. 14, 1940\t\t[54 STAT."
+    },
+    {
+     "role": "body",
+     "text": "trative duties connected with the project, after the Secretary of the"
+    },
+    {
+     "role": "body",
+     "text": "Interior announces that the project is ready for operation; (2) if"
+    },
+    {
+     "role": "body",
+     "text": "such agreement be entered into after construction of the project has"
+    },
+    {
+     "role": "body",
+     "text": "been undertaken by the Secretary of the Interior and after he has"
+    },
+    {
+     "role": "body",
+     "text": "entered into the repayment contracts required by section 4, that the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of Agriculture shall take over the collection of repayments"
+    },
+    {
+     "role": "sidenote",
+     "text": "Arrearage penalty."
+    },
+    {
+     "role": "body",
+     "text": "and other administrative duties connected with the project; (3) that"
+    },
+    {
+     "role": "body",
+     "text": "no water shall be delivered to or for any land or party while the"
+    },
+    {
+     "role": "body",
+     "text": "owner of said land or said party is in arrears for more than twelve"
+    },
+    {
+     "role": "body",
+     "text": "months in the payment to the United States of money due and pay-"
+    },
+    {
+     "role": "body",
+     "text": "able under a land contract entered into pursuant to section 5 (a);"
+    },
+    {
+     "role": "sidenote",
+     "text": "Combination of con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tracts."
+    },
+    {
+     "role": "body",
+     "text": "and (4) that any repayment contract with a water user or water users'"
+    },
+    {
+     "role": "body",
+     "text": "organization entered into pursuant to section 4 and any land contract"
+    },
+    {
+     "role": "body",
+     "text": "with the same water user or organization entered into pursuant to"
+    },
+    {
+     "role": "body",
+     "text": "section 5 (a), if said contracts involve the same land, may be com-"
+    },
+    {
+     "role": "body",
+     "text": "bined in a single instrument. The Secretary of Agriculture is hereby"
+    },
+    {
+     "role": "body",
+     "text": "authorized to carry out the provision of any such cooperative"
+    },
+    {
+     "role": "body",
+     "text": "agreements."
+    },
+    {
+     "role": "sidenote",
+     "text": "16 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, §§ 590r-590x."
+    },
+    {
+     "role": "sidenote",
+     "text": "Limitation on ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "penditures."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 7. On any one project undertaken pursuant to the Act of"
+    },
+    {
+     "role": "body",
+     "text": "August 28, 1937, entitled \"An Act to promote conservation in the arid"
+    },
+    {
+     "role": "body",
+     "text": "and semiarid areas of the United States by aiding in the development"
+    },
+    {
+     "role": "body",
+     "text": "of facilities for water storage and utilization, and for other purposes\""
+    },
+    {
+     "role": "body",
+     "text": "(50 Stat. 869), as amended and supplemented, expenditures for the"
+    },
+    {
+     "role": "body",
+     "text": "construction, maintenance, operation, rehabilitation or financial assist-"
+    },
+    {
+     "role": "body",
+     "text": "ance of any one project, shall not exceed $50,000 of Federal funds,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Combination of"
+    },
+    {
+     "role": "sidenote",
+     "text": "project facilities."
+    },
+    {
+     "role": "body",
+     "text": "whether appropriated or allotted or both. All project facilities and"
+    },
+    {
+     "role": "body",
+     "text": "appurtenances which depend for their utility in whole or in part upon"
+    },
+    {
+     "role": "body",
+     "text": "each other or upon any common facility shall be deemed one project"
+    },
+    {
+     "role": "body",
+     "text": "within the meaning of this section."
+    },
+    {
+     "role": "sidenote",
+     "text": "Disposition of re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ceipts from project"
+    },
+    {
+     "role": "sidenote",
+     "text": "operations."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 8. All payments made to the United States under repayment"
+    },
+    {
+     "role": "body",
+     "text": "contracts on account of reimbursable construction costs, including"
+    },
+    {
+     "role": "body",
+     "text": "penalties collected for delinquencies in such payments, and all other"
+    },
+    {
+     "role": "body",
+     "text": "receipts from project operations pursuant to sections 4 and 9 shall"
+    },
+    {
+     "role": "body",
+     "text": "be covered into the Treasury to the credit of miscellaneous receipts."
+    },
+    {
+     "role": "sidenote",
+     "text": "Availability of cer-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tain funds."
+    },
+    {
+     "role": "body",
+     "text": "Charges collected during the development period of a project under"
+    },
+    {
+     "role": "body",
+     "text": "section 4 (c) (1), excepting such amounts thereof as may be cred-"
+    },
+    {
+     "role": "body",
+     "text": "ited to reimbursable construction costs, and charges collected for the"
+    },
+    {
+     "role": "body",
+     "text": "operation and maintenance of a project under section 4 (c) (2) shall"
+    },
+    {
+     "role": "body",
+     "text": "be available for expenditure for operation and maintenance of"
+    },
+    {
+     "role": "body",
+     "text": "said project in like manner as if said funds had been specifically"
+    },
+    {
+     "role": "body",
+     "text": "appropriated for said purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "Furnishing of water"
+    },
+    {
+     "role": "sidenote",
+     "text": "supplies, power, etc."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 9. In connection with any project undertaken pursuant to"
+    },
+    {
+     "role": "body",
+     "text": "this Act, provisions, including contracts of sale, may be made for"
+    },
+    {
+     "role": "body",
+     "text": "furnishing municipal or miscellaneous water supplies, or for develop-"
+    },
+    {
+     "role": "body",
+     "text": "ing and furnishing power in addition to the power requirements of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Limitation on ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "penditure."
+    },
+    {
+     "role": "body",
+     "text": "irrigation: Provided, That expenditures from appropriations made"
+    },
+    {
+     "role": "body",
+     "text": "directly pursuant to the authority contained in section 12 (1) to"
+    },
+    {
+     "role": "body",
+     "text": "meet costs allocated to municipal or miscellaneous water supplies or"
+    },
+    {
+     "role": "body",
+     "text": "surplus power shall not exceed $500,000 for any one project: Pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Restriction on con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tracts."
+    },
+    {
+     "role": "body",
+     "text": "vided further, That no contract relating to a water supply for"
+    },
+    {
+     "role": "body",
+     "text": "municipal or miscellaneous purposes or to electric power shall be"
+    },
+    {
+     "role": "body",
+     "text": "made unless, in the judgment of the Secretary, it will not impair"
+    },
+    {
+     "role": "body",
+     "text": "the efficiency of the project for irrigation purposes. On any project"
+    },
+    {
+     "role": "body",
+     "text": "where such provisions are made, the Secretary shall allocate to"
+    },
+    {
+     "role": "body",
+     "text": "municipal or miscellaneous water purposes or to surplus power the"
+    },
+    {
+     "role": "body",
+     "text": "part of the estimated construction costs of the project which he deems"
+    },
+    {
+     "role": "body",
+     "text": "properly so allocable; and such allocations shall not be included in the"
+    },
+    {
+     "role": "body",
+     "text": "reimbursable construction costs covered by the repayment contract"
+    },
+    {
+     "role": "sidenote",
+     "text": "Federal title."
+    },
+    {
+     "role": "body",
+     "text": "or contracts required under section 4. All right, title, and interest"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2498,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08988,
+   "seconds": 28.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "1124"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAWS—CH. 861—OCT. 14, 1940"
+    },
+    {
+     "role": "running-head",
+     "text": "[54 STAT."
+    },
+    {
+     "role": "body",
+     "text": "trative duties connected with the project, after the Secretary of the"
+    },
+    {
+     "role": "body",
+     "text": "Interior announces that the project is ready for operation; (2) if"
+    },
+    {
+     "role": "body",
+     "text": "such agreement be entered into after construction of the project has"
+    },
+    {
+     "role": "body",
+     "text": "been undertaken by the Secretary of the Interior and after he has"
+    },
+    {
+     "role": "body",
+     "text": "entered into the repayment contracts required by section 4, that the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of Agriculture shall take over the collection of repayments"
+    },
+    {
+     "role": "sidenote",
+     "text": "Arrearage penalty."
+    },
+    {
+     "role": "body",
+     "text": "and other administrative duties connected with the project; (3) that"
+    },
+    {
+     "role": "body",
+     "text": "no water shall be delivered to or for any land or party while the"
+    },
+    {
+     "role": "body",
+     "text": "owner of said land or said party is in arrears for more than twelve"
+    },
+    {
+     "role": "body",
+     "text": "months in the payment to the United States of money due and pay-"
+    },
+    {
+     "role": "body",
+     "text": "able under a land contract entered into pursuant to section 5 (a);"
+    },
+    {
+     "role": "sidenote",
+     "text": "Combination of con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tracts."
+    },
+    {
+     "role": "body",
+     "text": "and (4) that any repayment contract with a water user or water users'"
+    },
+    {
+     "role": "body",
+     "text": "organization entered into pursuant to section 4 and any land contract"
+    },
+    {
+     "role": "body",
+     "text": "with the same water user or organization entered into pursuant to"
+    },
+    {
+     "role": "body",
+     "text": "section 5 (a), if said contracts involve the same land, may be com-"
+    },
+    {
+     "role": "body",
+     "text": "bined in a single instrument. The Secretary of Agriculture is hereby"
+    },
+    {
+     "role": "body",
+     "text": "authorized to carry out the provision of any such cooperative"
+    },
+    {
+     "role": "body",
+     "text": "agreements."
+    },
+    {
+     "role": "sidenote",
+     "text": "16 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, §§ 590r-590x."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 7. On any one project undertaken pursuant to the Act of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Limitation on ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "penditures."
+    },
+    {
+     "role": "body",
+     "text": "August 28, 1937, entitled \"An Act to promote conservation in the arid"
+    },
+    {
+     "role": "body",
+     "text": "and semiarid areas of the United States by aiding in the development"
+    },
+    {
+     "role": "body",
+     "text": "of facilities for water storage and utilization, and for other purposes\""
+    },
+    {
+     "role": "body",
+     "text": "(50 Stat. 869), as amended and supplemented, expenditures for the"
+    },
+    {
+     "role": "body",
+     "text": "construction, maintenance, operation, rehabilitation or financial assist-"
+    },
+    {
+     "role": "body",
+     "text": "ance of any one project, shall not exceed $50,000 of Federal funds,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Combination of"
+    },
+    {
+     "role": "sidenote",
+     "text": "project facilities."
+    },
+    {
+     "role": "body",
+     "text": "whether appropriated or allotted or both. All project facilities and"
+    },
+    {
+     "role": "body",
+     "text": "appurtenances which depend for their utility in whole or in part upon"
+    },
+    {
+     "role": "body",
+     "text": "each other or upon any common facility shall be deemed one project"
+    },
+    {
+     "role": "body",
+     "text": "within the meaning of this section."
+    },
+    {
+     "role": "sidenote",
+     "text": "Disposition of re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ceipts from project"
+    },
+    {
+     "role": "sidenote",
+     "text": "operations."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 8. All payments made to the United States under repayment"
+    },
+    {
+     "role": "body",
+     "text": "contracts on account of reimbursable construction costs, including"
+    },
+    {
+     "role": "body",
+     "text": "penalties collected for delinquencies in such payments, and all other"
+    },
+    {
+     "role": "body",
+     "text": "receipts from project operations pursuant to sections 4 and 9 shall"
+    },
+    {
+     "role": "body",
+     "text": "be covered into the Treasury to the credit of miscellaneous receipts."
+    },
+    {
+     "role": "sidenote",
+     "text": "Availability of cer-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tain funds."
+    },
+    {
+     "role": "body",
+     "text": "Charges collected during the development period of a project under"
+    },
+    {
+     "role": "body",
+     "text": "section 4 (c) (1), excepting such amounts thereof as may be cred-"
+    },
+    {
+     "role": "body",
+     "text": "ited to reimbursable construction costs, and charges collected for the"
+    },
+    {
+     "role": "body",
+     "text": "operation and maintenance of a project under section 4 (c) (2) shall"
+    },
+    {
+     "role": "body",
+     "text": "be available for expenditure for operation and maintenance of"
+    },
+    {
+     "role": "body",
+     "text": "said project in like manner as if said funds had been specifically"
+    },
+    {
+     "role": "body",
+     "text": "appropriated for said purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "Furnishing of water"
+    },
+    {
+     "role": "sidenote",
+     "text": "supplies, power, etc."
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 9. In connection with any project undertaken pursuant to"
+    },
+    {
+     "role": "body",
+     "text": "this Act, provisions, including contracts of sale, may be made for"
+    },
+    {
+     "role": "body",
+     "text": "furnishing municipal or miscellaneous water supplies, or for develop-"
+    },
+    {
+     "role": "body",
+     "text": "ing and furnishing power in addition to the power requirements of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Limitation on ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "penditure."
+    },
+    {
+     "role": "body",
+     "text": "irrigation: Provided, That expenditures from appropriations made"
+    },
+    {
+     "role": "body",
+     "text": "directly pursuant to the authority contained in section 12 (1) to"
+    },
+    {
+     "role": "body",
+     "text": "meet costs allocated to municipal or miscellaneous water supplies or"
+    },
+    {
+     "role": "body",
+     "text": "surplus power shall not exceed $500,000 for any one project: Pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Restriction on con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tracts."
+    },
+    {
+     "role": "body",
+     "text": "vided further, That no contract relating to a water supply for"
+    },
+    {
+     "role": "body",
+     "text": "municipal or miscellaneous purposes or to electric power shall be"
+    },
+    {
+     "role": "body",
+     "text": "made unless, in the judgment of the Secretary, it will not impair"
+    },
+    {
+     "role": "body",
+     "text": "the efficiency of the project for irrigation purposes. On any project"
+    },
+    {
+     "role": "body",
+     "text": "where such provisions are made, the Secretary shall allocate to"
+    },
+    {
+     "role": "body",
+     "text": "municipal or miscellaneous water purposes or to surplus power the"
+    },
+    {
+     "role": "body",
+     "text": "part of the estimated construction costs of the project which he deems"
+    },
+    {
+     "role": "body",
+     "text": "properly so allocable; and such allocations shall not be included in the"
+    },
+    {
+     "role": "body",
+     "text": "reimbursable construction costs covered by the repayment contract"
+    },
+    {
+     "role": "sidenote",
+     "text": "Federal title:"
+    },
+    {
+     "role": "body",
+     "text": "or contracts required under section 4. All right, title, and interest"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2392,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08723,
+   "seconds": 26.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11758,
+   "output_tokens": 495,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.07158,
+  "seconds": 8.6,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "1124\t\tPUBLIC LAWS—CH. 861—OCT. 14, 1940\t\t[54 STAT.",
+    "b": "1124\nPUBLIC LAWS—CH. 861—OCT. 14, 1940\n[54 STAT.",
+    "kept": "1124\nPUBLIC LAWS—CH. 861—OCT. 14, 1940\n[54 STAT.",
+    "reason": "The folio 1124 is a separate page number at the left; the centered head and bracketed volume note are separate elements."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "\"SEC. 7. On any one project undertaken pursuant to the Act of",
+    "kept": "",
+    "reason": "No body line falls between the two sidenote blocks; the SEC. 7 line follows the complete sidenote group."
+   },
+   {
+    "run": 3,
+    "a": "\"SEC. 7. On any one project undertaken pursuant to the Act of",
+    "b": "",
+    "kept": "\"SEC. 7. On any one project undertaken pursuant to the Act of",
+    "reason": "The body line begins here, after the 'Limitation on expenditures' sidenote."
+   },
+   {
+    "run": 4,
+    "a": "Federal title.",
+    "b": "Federal title:",
+    "kept": "Federal title:",
+    "reason": "The sidenote ends with a colon in the image."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "1124"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAWS—CH. 861—OCT. 14, 1940"
+  },
+  {
+   "role": "running-head",
+   "text": "[54 STAT."
+  },
+  {
+   "role": "body",
+   "text": "trative duties connected with the project, after the Secretary of the"
+  },
+  {
+   "role": "body",
+   "text": "Interior announces that the project is ready for operation; (2) if"
+  },
+  {
+   "role": "body",
+   "text": "such agreement be entered into after construction of the project has"
+  },
+  {
+   "role": "body",
+   "text": "been undertaken by the Secretary of the Interior and after he has"
+  },
+  {
+   "role": "body",
+   "text": "entered into the repayment contracts required by section 4, that the"
+  },
+  {
+   "role": "body",
+   "text": "Secretary of Agriculture shall take over the collection of repayments"
+  },
+  {
+   "role": "sidenote",
+   "text": "Arrearage penalty."
+  },
+  {
+   "role": "body",
+   "text": "and other administrative duties connected with the project; (3) that"
+  },
+  {
+   "role": "body",
+   "text": "no water shall be delivered to or for any land or party while the"
+  },
+  {
+   "role": "body",
+   "text": "owner of said land or said party is in arrears for more than twelve"
+  },
+  {
+   "role": "body",
+   "text": "months in the payment to the United States of money due and pay-"
+  },
+  {
+   "role": "body",
+   "text": "able under a land contract entered into pursuant to section 5 (a);"
+  },
+  {
+   "role": "sidenote",
+   "text": "Combination of con-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tracts."
+  },
+  {
+   "role": "body",
+   "text": "and (4) that any repayment contract with a water user or water users'"
+  },
+  {
+   "role": "body",
+   "text": "organization entered into pursuant to section 4 and any land contract"
+  },
+  {
+   "role": "body",
+   "text": "with the same water user or organization entered into pursuant to"
+  },
+  {
+   "role": "body",
+   "text": "section 5 (a), if said contracts involve the same land, may be com-"
+  },
+  {
+   "role": "body",
+   "text": "bined in a single instrument. The Secretary of Agriculture is hereby"
+  },
+  {
+   "role": "body",
+   "text": "authorized to carry out the provision of any such cooperative"
+  },
+  {
+   "role": "body",
+   "text": "agreements."
+  },
+  {
+   "role": "sidenote",
+   "text": "16 U. S. C., Supp."
+  },
+  {
+   "role": "sidenote",
+   "text": "V, §§ 590r-590x."
+  },
+  {
+   "role": "sidenote",
+   "text": "Limitation on ex-"
+  },
+  {
+   "role": "sidenote",
+   "text": "penditures."
+  },
+  {
+   "role": "body",
+   "text": "\"SEC. 7. On any one project undertaken pursuant to the Act of"
+  },
+  {
+   "role": "body",
+   "text": "August 28, 1937, entitled \"An Act to promote conservation in the arid"
+  },
+  {
+   "role": "body",
+   "text": "and semiarid areas of the United States by aiding in the development"
+  },
+  {
+   "role": "body",
+   "text": "of facilities for water storage and utilization, and for other purposes\""
+  },
+  {
+   "role": "body",
+   "text": "(50 Stat. 869), as amended and supplemented, expenditures for the"
+  },
+  {
+   "role": "body",
+   "text": "construction, maintenance, operation, rehabilitation or financial assist-"
+  },
+  {
+   "role": "body",
+   "text": "ance of any one project, shall not exceed $50,000 of Federal funds,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Combination of"
+  },
+  {
+   "role": "sidenote",
+   "text": "project facilities."
+  },
+  {
+   "role": "body",
+   "text": "whether appropriated or allotted or both. All project facilities and"
+  },
+  {
+   "role": "body",
+   "text": "appurtenances which depend for their utility in whole or in part upon"
+  },
+  {
+   "role": "body",
+   "text": "each other or upon any common facility shall be deemed one project"
+  },
+  {
+   "role": "body",
+   "text": "within the meaning of this section."
+  },
+  {
+   "role": "sidenote",
+   "text": "Disposition of re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ceipts from project"
+  },
+  {
+   "role": "sidenote",
+   "text": "operations."
+  },
+  {
+   "role": "body",
+   "text": "\"SEC. 8. All payments made to the United States under repayment"
+  },
+  {
+   "role": "body",
+   "text": "contracts on account of reimbursable construction costs, including"
+  },
+  {
+   "role": "body",
+   "text": "penalties collected for delinquencies in such payments, and all other"
+  },
+  {
+   "role": "body",
+   "text": "receipts from project operations pursuant to sections 4 and 9 shall"
+  },
+  {
+   "role": "body",
+   "text": "be covered into the Treasury to the credit of miscellaneous receipts."
+  },
+  {
+   "role": "sidenote",
+   "text": "Availability of cer-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tain funds."
+  },
+  {
+   "role": "body",
+   "text": "Charges collected during the development period of a project under"
+  },
+  {
+   "role": "body",
+   "text": "section 4 (c) (1), excepting such amounts thereof as may be cred-"
+  },
+  {
+   "role": "body",
+   "text": "ited to reimbursable construction costs, and charges collected for the"
+  },
+  {
+   "role": "body",
+   "text": "operation and maintenance of a project under section 4 (c) (2) shall"
+  },
+  {
+   "role": "body",
+   "text": "be available for expenditure for operation and maintenance of"
+  },
+  {
+   "role": "body",
+   "text": "said project in like manner as if said funds had been specifically"
+  },
+  {
+   "role": "body",
+   "text": "appropriated for said purposes."
+  },
+  {
+   "role": "sidenote",
+   "text": "Furnishing of water"
+  },
+  {
+   "role": "sidenote",
+   "text": "supplies, power, etc."
+  },
+  {
+   "role": "body",
+   "text": "\"SEC. 9. In connection with any project undertaken pursuant to"
+  },
+  {
+   "role": "body",
+   "text": "this Act, provisions, including contracts of sale, may be made for"
+  },
+  {
+   "role": "body",
+   "text": "furnishing municipal or miscellaneous water supplies, or for develop-"
+  },
+  {
+   "role": "body",
+   "text": "ing and furnishing power in addition to the power requirements of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Provisos."
+  },
+  {
+   "role": "sidenote",
+   "text": "Limitation on ex-"
+  },
+  {
+   "role": "sidenote",
+   "text": "penditure."
+  },
+  {
+   "role": "body",
+   "text": "irrigation: Provided, That expenditures from appropriations made"
+  },
+  {
+   "role": "body",
+   "text": "directly pursuant to the authority contained in section 12 (1) to"
+  },
+  {
+   "role": "body",
+   "text": "meet costs allocated to municipal or miscellaneous water supplies or"
+  },
+  {
+   "role": "body",
+   "text": "surplus power shall not exceed $500,000 for any one project: Pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Restriction on con-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tracts."
+  },
+  {
+   "role": "body",
+   "text": "vided further, That no contract relating to a water supply for"
+  },
+  {
+   "role": "body",
+   "text": "municipal or miscellaneous purposes or to electric power shall be"
+  },
+  {
+   "role": "body",
+   "text": "made unless, in the judgment of the Secretary, it will not impair"
+  },
+  {
+   "role": "body",
+   "text": "the efficiency of the project for irrigation purposes. On any project"
+  },
+  {
+   "role": "body",
+   "text": "where such provisions are made, the Secretary shall allocate to"
+  },
+  {
+   "role": "body",
+   "text": "municipal or miscellaneous water purposes or to surplus power the"
+  },
+  {
+   "role": "body",
+   "text": "part of the estimated construction costs of the project which he deems"
+  },
+  {
+   "role": "body",
+   "text": "properly so allocable; and such allocations shall not be included in the"
+  },
+  {
+   "role": "body",
+   "text": "reimbursable construction costs covered by the repayment contract"
+  },
+  {
+   "role": "sidenote",
+   "text": "Federal title:"
+  },
+  {
+   "role": "body",
+   "text": "or contracts required under section 4. All right, title, and interest"
+  }
+ ],
+ "disagreement_count": 4,
+ "tokens": {
+  "input_tokens": 22581,
+  "output_tokens": 5385,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.24869,
+ "seconds": 64.0,
+ "created": "2026-09-08T11:21:16"
+}

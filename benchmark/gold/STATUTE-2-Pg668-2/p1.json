@@ -1,0 +1,1488 @@
+{
+ "granule_id": "STATUTE-2-Pg668-2",
+ "package_id": "STATUTE-2",
+ "volume": 2,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act allowing further time for completing the payments on certain lands held by right of pre-emption, in the Mississippi territory.",
+ "date_issued": "1811-12-12",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "668",
+ "image": "data/gold/STATUTE-2-Pg668-2/p1.png",
+ "image_sha256": "84745e398cd6a564234d9bffce7e0ad92474aa7415a92bb773d82cb39c017951",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "668            TWELFTH CONGRESS.   SESS. I. CH. 4, 6, 8.   1811."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation"
+    },
+    {
+     "role": "body",
+     "text": "balance of the former appropriations made to purchase books for the use"
+    },
+    {
+     "role": "sidenote",
+     "text": "of one thousand"
+    },
+    {
+     "role": "body",
+     "text": "of Congress, there shall be appropriated the sum of one thousand dol-"
+    },
+    {
+     "role": "sidenote",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "lars yearly for the term of five years; to be paid out of any monies in the"
+    },
+    {
+     "role": "body",
+     "text": "treasury not otherwise appropriated, and expended under the direction"
+    },
+    {
+     "role": "body",
+     "text": "of a joint committee, to consist of three members of the Senate and three"
+    },
+    {
+     "role": "body",
+     "text": "members of the House of Representatives, to be appointed every session"
+    },
+    {
+     "role": "body",
+     "text": "of Congress, during the continuance of this appropriation."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, December 6, 1811."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "Dec. 12, 1811."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. IV.—An Act extending the time for opening the several Land-offices estab-"
+    },
+    {
+     "role": "body",
+     "text": "lished in the territory of Orleans."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Further time"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "allowed for"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That so much of the sixth section"
+    },
+    {
+     "role": "sidenote",
+     "text": "opening land-"
+    },
+    {
+     "role": "body",
+     "text": "of an act, entitled \" An act providing for the final adjustment of claims to"
+    },
+    {
+     "role": "sidenote",
+     "text": "offices."
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of Feb."
+    },
+    {
+     "role": "body",
+     "text": "lands and for the sale of the public lands in the territories of Orleans and"
+    },
+    {
+     "role": "sidenote",
+     "text": "15, 1811, ch. 14."
+    },
+    {
+     "role": "body",
+     "text": "Louisiana, and to repeal the act passed for the same purpose and approved"
+    },
+    {
+     "role": "body",
+     "text": "February sixteenth, one thousand eight hundred and eleven,\" as directs"
+    },
+    {
+     "role": "body",
+     "text": "that the several land-offices established in the territory of Orleans shall be"
+    },
+    {
+     "role": "body",
+     "text": "opened on the first day of January and on the first day of February, one"
+    },
+    {
+     "role": "body",
+     "text": "thousand eight hundred and twelve, be, and the same is hereby repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Land-offices"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2  And be it further enacted, That the said land-offices shall,"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be opened on"
+    },
+    {
+     "role": "body",
+     "text": "respectively, be opened on such day or days as the President of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "such days as"
+    },
+    {
+     "role": "body",
+     "text": "United States shall, by proclamation, designate for that purpose; and"
+    },
+    {
+     "role": "sidenote",
+     "text": "may be desig-"
+    },
+    {
+     "role": "body",
+     "text": "the public land shall, in every other respect, be offered for sale at the"
+    },
+    {
+     "role": "sidenote",
+     "text": "nated by the"
+    },
+    {
+     "role": "body",
+     "text": "said offices in the same manner as is directed by the aforesaid act."
+    },
+    {
+     "role": "sidenote",
+     "text": "President."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, December 12, 1811."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "Dec. 12, 1811."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. VI.—An Act allowing further time for completing the payments on certain"
+    },
+    {
+     "role": "body",
+     "text": "lands held by right of pre-emption, in the Mississippi territory."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Purchasers al-"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "lowed until the"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That all the purchasers of"
+    },
+    {
+     "role": "sidenote",
+     "text": "first of January,"
+    },
+    {
+     "role": "body",
+     "text": "public lands, by right of pre-emption in the Mississippi territory, who"
+    },
+    {
+     "role": "sidenote",
+     "text": "1813, to com-"
+    },
+    {
+     "role": "body",
+     "text": "have made payment of their first instalment of the purchase money, be"
+    },
+    {
+     "role": "sidenote",
+     "text": "plete their pay-"
+    },
+    {
+     "role": "body",
+     "text": "allowed until the first day of January, one thousand eight hundred and"
+    },
+    {
+     "role": "sidenote",
+     "text": "ments."
+    },
+    {
+     "role": "body",
+     "text": "thirteen, to complete the payments on their lands, respectively, any law"
+    },
+    {
+     "role": "body",
+     "text": "to the contrary notwithstanding."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, December 12, 1811."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "Dec. 12, 1811."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. VIII.—An Act to authorize the surveying and marking of certain roads, in"
+    },
+    {
+     "role": "body",
+     "text": "the state of Ohio, as contemplated by the treaty of Brownstown in the territory"
+    },
+    {
+     "role": "body",
+     "text": "of Michigan."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of April"
+    },
+    {
+     "role": "sidenote",
+     "text": "16, 1816, ch. 53."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Road from the"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the President of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "rapids of the"
+    },
+    {
+     "role": "body",
+     "text": "United States be, and hereby is authorized to appoint three commis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "river Miami of"
+    },
+    {
+     "role": "body",
+     "text": "sioners, who shall explore, survey and mark, by the most eligible course,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Lake Erie to"
+    },
+    {
+     "role": "body",
+     "text": "a road from the foot of the rapids of the river Miami of Lake Erie, to"
+    },
+    {
+     "role": "sidenote",
+     "text": "western line of"
+    },
+    {
+     "role": "body",
+     "text": "the western line of the Connecticut reserve, and a road to run south-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Connecticut re-"
+    },
+    {
+     "role": "body",
+     "text": "wardly from Lower Sandusky to the boundary line established by the"
+    },
+    {
+     "role": "sidenote",
+     "text": "serve."
+    },
+    {
+     "role": "body",
+     "text": "treaty of Greenville, which said road shall be sixty feet in width; and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Commission-"
+    },
+    {
+     "role": "body",
+     "text": "the said commissioners shall make out accurate plats of such surveys,"
+    },
+    {
+     "role": "sidenote",
+     "text": "ers' report to be"
+    },
+    {
+     "role": "body",
+     "text": "accompanied with field notes, and certify and transmit the same to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "made to the"
+    },
+    {
+     "role": "body",
+     "text": "President of the United States, who, if he approves of said surveys, shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "President."
+    },
+    {
+     "role": "body",
+     "text": "cause the plats thereof to be deposited in the office of the treasury of"
+    },
+    {
+     "role": "body",
+     "text": "the United States; and the said roads shall be considered as established"
+    },
+    {
+     "role": "body",
+     "text": "and accepted, pursuant to the treaty held at Brownstown, in the terri-"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 2622,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09354,
+   "seconds": 28.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "668"
+    },
+    {
+     "role": "running-head",
+     "text": "TWELFTH CONGRESS.  SESS. I. CH. 4, 6, 8.   1811."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation"
+    },
+    {
+     "role": "sidenote",
+     "text": "of one thousand"
+    },
+    {
+     "role": "sidenote",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "balance of the former appropriations made to purchase books for the use"
+    },
+    {
+     "role": "body",
+     "text": "of Congress, there shall be appropriated the sum of one thousand dol-"
+    },
+    {
+     "role": "body",
+     "text": "lars yearly for the term of five years ; to be paid out of any monies in the"
+    },
+    {
+     "role": "body",
+     "text": "treasury not otherwise appropriated, and expended under the direction"
+    },
+    {
+     "role": "body",
+     "text": "of a joint committee, to consist of three members of the Senate and three"
+    },
+    {
+     "role": "body",
+     "text": "members of the House of Representatives, to be appointed every session"
+    },
+    {
+     "role": "body",
+     "text": "of Congress, during the continuance of this appropriation."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, December 6, 1811."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "Dec. 12, 1811."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. IV.—An Act extending the time for opening the several Land-offices estab-"
+    },
+    {
+     "role": "body",
+     "text": "lished in the territory of Orleans."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Further time"
+    },
+    {
+     "role": "sidenote",
+     "text": "allowed for"
+    },
+    {
+     "role": "sidenote",
+     "text": "opening land-"
+    },
+    {
+     "role": "sidenote",
+     "text": "offices."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That so much of the sixth section"
+    },
+    {
+     "role": "body",
+     "text": "of an act, entitled \" An act providing for the final adjustment of claims to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of Feb."
+    },
+    {
+     "role": "sidenote",
+     "text": "15, 1811, ch. 14."
+    },
+    {
+     "role": "body",
+     "text": "lands and for the sale of the public lands in the territories of Orleans and"
+    },
+    {
+     "role": "body",
+     "text": "Louisiana, and to repeal the act passed for the same purpose and approved"
+    },
+    {
+     "role": "body",
+     "text": "February sixteenth, one thousand eight hundred and eleven,\" as directs"
+    },
+    {
+     "role": "body",
+     "text": "that the several land-offices established in the territory of Orleans shall be"
+    },
+    {
+     "role": "body",
+     "text": "opened on the first day of January and on the first day of February, one"
+    },
+    {
+     "role": "body",
+     "text": "thousand eight hundred and twelve, be, and the same is hereby repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Land-offices"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be opened on"
+    },
+    {
+     "role": "sidenote",
+     "text": "such  days  as"
+    },
+    {
+     "role": "sidenote",
+     "text": "may be desig-"
+    },
+    {
+     "role": "sidenote",
+     "text": "nated  by  the"
+    },
+    {
+     "role": "sidenote",
+     "text": "President."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2  And be it further enacted, That the said land-offices shall,"
+    },
+    {
+     "role": "body",
+     "text": "respectively, be opened on such day or days as the President of the"
+    },
+    {
+     "role": "body",
+     "text": "United States shall, by proclamation, designate for that purpose; and"
+    },
+    {
+     "role": "body",
+     "text": "the public land shall, in every other respect, be offered for sale at the"
+    },
+    {
+     "role": "body",
+     "text": "said offices in the same manner as is directed by the aforesaid act."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, December 12, 1811."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "Dec. 12, 1811."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. VI.—An Act allowing further time for completing the payments on certain"
+    },
+    {
+     "role": "body",
+     "text": "lands held by right of pre-emption, in the Mississippi territory."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Purchasers al-"
+    },
+    {
+     "role": "sidenote",
+     "text": "lowed until the"
+    },
+    {
+     "role": "sidenote",
+     "text": "first of January,"
+    },
+    {
+     "role": "sidenote",
+     "text": "1813, to com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "plete their pay-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ments."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That all the purchasers of"
+    },
+    {
+     "role": "body",
+     "text": "public lands, by right of pre-emption in the Mississippi territory, who"
+    },
+    {
+     "role": "body",
+     "text": "have made payment of their first instalment of the purchase money, be"
+    },
+    {
+     "role": "body",
+     "text": "allowed until the first day of January, one thousand eight hundred and"
+    },
+    {
+     "role": "body",
+     "text": "thirteen, to complete the payments on their lands, respectively, any law"
+    },
+    {
+     "role": "body",
+     "text": "to the contrary notwithstanding."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, December 12, 1811."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "Dec. 12, 1811."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. VIII.—An Act to authorize the surveying and marking of certain roads, in"
+    },
+    {
+     "role": "body",
+     "text": "the state of Ohio, as contemplated by the treaty of Brownstown in the territory"
+    },
+    {
+     "role": "body",
+     "text": "of Michigan."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of April"
+    },
+    {
+     "role": "sidenote",
+     "text": "16, 1816, ch. 53."
+    },
+    {
+     "role": "sidenote",
+     "text": "Road from the"
+    },
+    {
+     "role": "sidenote",
+     "text": "rapids  of  the"
+    },
+    {
+     "role": "sidenote",
+     "text": "river Miami of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Lake  Erie  to"
+    },
+    {
+     "role": "sidenote",
+     "text": "western line of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Connecticut re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "serve."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the President of the"
+    },
+    {
+     "role": "body",
+     "text": "United States be, and hereby is authorized to appoint three commis-"
+    },
+    {
+     "role": "body",
+     "text": "sioners, who shall explore, survey and mark, by the most eligible course,"
+    },
+    {
+     "role": "body",
+     "text": "a road from the foot of the rapids of the river Miami of Lake Erie, to"
+    },
+    {
+     "role": "body",
+     "text": "the western line of the Connecticut reserve, and a road to run south-"
+    },
+    {
+     "role": "body",
+     "text": "wardly from Lower Sandusky to the boundary line established by the"
+    },
+    {
+     "role": "body",
+     "text": "treaty of Greenville, which said road shall be sixty feet in width; and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Commission-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ers' report to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "made  to  the"
+    },
+    {
+     "role": "sidenote",
+     "text": "President."
+    },
+    {
+     "role": "body",
+     "text": "the said commissioners shall make out accurate plats of such surveys,"
+    },
+    {
+     "role": "body",
+     "text": "accompanied with field notes, and certify and transmit the same to the"
+    },
+    {
+     "role": "body",
+     "text": "President of the United States, who, if he approves of said surveys, shall"
+    },
+    {
+     "role": "body",
+     "text": "cause the plats thereof to be deposited in the office of the treasury of"
+    },
+    {
+     "role": "body",
+     "text": "the United States; and the said roads shall be considered as established"
+    },
+    {
+     "role": "body",
+     "text": "and accepted, pursuant to the treaty held at Brownstown, in the terri-"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 2736,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09639,
+   "seconds": 30.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13776,
+   "output_tokens": 2048,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.1205,
+  "seconds": 22.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "668            TWELFTH CONGRESS.   SESS. I. CH. 4, 6, 8.   1811.",
+    "b": "668\nTWELFTH CONGRESS.  SESS. I. CH. 4, 6, 8.   1811.",
+    "kept": "668\nTWELFTH CONGRESS.  SESS. I. CH. 4, 6, 8.  1811.",
+    "reason": "The folio 668 sits at the left margin, separate from the centred running head."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "of one thousand\ndollars.",
+    "kept": "of one thousand\ndollars.",
+    "reason": "The marginal note is a three-line block printed together; it belongs before the body text."
+   },
+   {
+    "run": 3,
+    "a": "of one thousand",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote line already given in its block above; not repeated here."
+   },
+   {
+    "run": 4,
+    "a": "dollars.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote line already given in its block above; not repeated here."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "allowed for\nopening land-\noffices.",
+    "kept": "allowed for\nopening land-\noffices.",
+    "reason": "Continuation of the marginal note block beginning 'Further time'."
+   },
+   {
+    "run": 6,
+    "a": "allowed for",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above, not interleaved."
+   },
+   {
+    "run": 7,
+    "a": "opening land-",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above, not interleaved."
+   },
+   {
+    "run": 8,
+    "a": "offices.",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above, not interleaved."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "15, 1811, ch. 14.",
+    "kept": "15, 1811, ch. 14.",
+    "reason": "Second line of the 'Act of Feb.' sidenote, printed directly under it."
+   },
+   {
+    "run": 10,
+    "a": "15, 1811, ch. 14.",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed with its sidenote block above."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "to be opened on\nsuch  days  as\nmay be desig-\nnated  by  the\nPresident.",
+    "kept": "to be opened on\nsuch days as\nmay be desig-\nnated by the\nPresident.",
+    "reason": "Six-line marginal note printed as one block beside Sec. 2."
+   },
+   {
+    "run": 12,
+    "a": "to be opened on",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 13,
+    "a": "such days as",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 14,
+    "a": "may be desig-",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 15,
+    "a": "nated by the",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 16,
+    "a": "President.",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "lowed until the\nfirst of January,\n1813, to com-\nplete their pay-\nments.",
+    "kept": "lowed until the\nfirst of January,\n1813, to com-\nplete their pay-\nments.",
+    "reason": "Continuation of the 'Purchasers al-' marginal block."
+   },
+   {
+    "run": 18,
+    "a": "lowed until the",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 19,
+    "a": "first of January,",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 20,
+    "a": "1813, to com-",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 21,
+    "a": "plete their pay-",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 22,
+    "a": "ments.",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 23,
+    "a": "",
+    "b": "Road from the\nrapids  of  the\nriver Miami of\nLake  Erie  to\nwestern line of\nConnecticut re-\nserve.",
+    "kept": "Road from the\nrapids of the\nriver Miami of\nLake Erie to\nwestern line of\nConnecticut re-\nserve.",
+    "reason": "Marginal note printed as a continuous block after the 'Act of April 16, 1816, ch. 53.' reference."
+   },
+   {
+    "run": 24,
+    "a": "Road from the",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 25,
+    "a": "rapids of the",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 26,
+    "a": "river Miami of",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 27,
+    "a": "Lake Erie to",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 28,
+    "a": "western line of",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 29,
+    "a": "Connecticut re-",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 30,
+    "a": "serve.",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 31,
+    "a": "",
+    "b": "ers' report to be\nmade  to  the\nPresident.",
+    "kept": "ers' report to be\nmade to the\nPresident.",
+    "reason": "Four-line marginal note beginning 'Commission-' printed as one block."
+   },
+   {
+    "run": 32,
+    "a": "ers' report to be",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 33,
+    "a": "made to the",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   },
+   {
+    "run": 34,
+    "a": "President.",
+    "b": "",
+    "kept": "",
+    "reason": "Line belongs to the sidenote block above."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "668"
+  },
+  {
+   "role": "running-head",
+   "text": "TWELFTH CONGRESS.  SESS. I. CH. 4, 6, 8.  1811."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation"
+  },
+  {
+   "role": "sidenote",
+   "text": "of one thousand"
+  },
+  {
+   "role": "sidenote",
+   "text": "dollars."
+  },
+  {
+   "role": "body",
+   "text": "balance of the former appropriations made to purchase books for the use"
+  },
+  {
+   "role": "body",
+   "text": "of Congress, there shall be appropriated the sum of one thousand dol-"
+  },
+  {
+   "role": "body",
+   "text": "lars yearly for the term of five years; to be paid out of any monies in the"
+  },
+  {
+   "role": "body",
+   "text": "treasury not otherwise appropriated, and expended under the direction"
+  },
+  {
+   "role": "body",
+   "text": "of a joint committee, to consist of three members of the Senate and three"
+  },
+  {
+   "role": "body",
+   "text": "members of the House of Representatives, to be appointed every session"
+  },
+  {
+   "role": "body",
+   "text": "of Congress, during the continuance of this appropriation."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, December 6, 1811."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "Dec. 12, 1811."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. IV.—An Act extending the time for opening the several Land-offices estab-"
+  },
+  {
+   "role": "body",
+   "text": "lished in the territory of Orleans."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "sidenote",
+   "text": "Further time"
+  },
+  {
+   "role": "sidenote",
+   "text": "allowed for"
+  },
+  {
+   "role": "sidenote",
+   "text": "opening land-"
+  },
+  {
+   "role": "sidenote",
+   "text": "offices."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That so much of the sixth section"
+  },
+  {
+   "role": "body",
+   "text": "of an act, entitled \" An act providing for the final adjustment of claims to"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of Feb."
+  },
+  {
+   "role": "sidenote",
+   "text": "15, 1811, ch. 14."
+  },
+  {
+   "role": "body",
+   "text": "lands and for the sale of the public lands in the territories of Orleans and"
+  },
+  {
+   "role": "body",
+   "text": "Louisiana, and to repeal the act passed for the same purpose and approved"
+  },
+  {
+   "role": "body",
+   "text": "February sixteenth, one thousand eight hundred and eleven,\" as directs"
+  },
+  {
+   "role": "body",
+   "text": "that the several land-offices established in the territory of Orleans shall be"
+  },
+  {
+   "role": "body",
+   "text": "opened on the first day of January and on the first day of February, one"
+  },
+  {
+   "role": "body",
+   "text": "thousand eight hundred and twelve, be, and the same is hereby repealed."
+  },
+  {
+   "role": "sidenote",
+   "text": "Land-offices"
+  },
+  {
+   "role": "sidenote",
+   "text": "to be opened on"
+  },
+  {
+   "role": "sidenote",
+   "text": "such days as"
+  },
+  {
+   "role": "sidenote",
+   "text": "may be desig-"
+  },
+  {
+   "role": "sidenote",
+   "text": "nated by the"
+  },
+  {
+   "role": "sidenote",
+   "text": "President."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2  And be it further enacted, That the said land-offices shall,"
+  },
+  {
+   "role": "body",
+   "text": "respectively, be opened on such day or days as the President of the"
+  },
+  {
+   "role": "body",
+   "text": "United States shall, by proclamation, designate for that purpose; and"
+  },
+  {
+   "role": "body",
+   "text": "the public land shall, in every other respect, be offered for sale at the"
+  },
+  {
+   "role": "body",
+   "text": "said offices in the same manner as is directed by the aforesaid act."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, December 12, 1811."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "Dec. 12, 1811."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. VI.—An Act allowing further time for completing the payments on certain"
+  },
+  {
+   "role": "body",
+   "text": "lands held by right of pre-emption, in the Mississippi territory."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "sidenote",
+   "text": "Purchasers al-"
+  },
+  {
+   "role": "sidenote",
+   "text": "lowed until the"
+  },
+  {
+   "role": "sidenote",
+   "text": "first of January,"
+  },
+  {
+   "role": "sidenote",
+   "text": "1813, to com-"
+  },
+  {
+   "role": "sidenote",
+   "text": "plete their pay-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ments."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That all the purchasers of"
+  },
+  {
+   "role": "body",
+   "text": "public lands, by right of pre-emption in the Mississippi territory, who"
+  },
+  {
+   "role": "body",
+   "text": "have made payment of their first instalment of the purchase money, be"
+  },
+  {
+   "role": "body",
+   "text": "allowed until the first day of January, one thousand eight hundred and"
+  },
+  {
+   "role": "body",
+   "text": "thirteen, to complete the payments on their lands, respectively, any law"
+  },
+  {
+   "role": "body",
+   "text": "to the contrary notwithstanding."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, December 12, 1811."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "Dec. 12, 1811."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. VIII.—An Act to authorize the surveying and marking of certain roads, in"
+  },
+  {
+   "role": "body",
+   "text": "the state of Ohio, as contemplated by the treaty of Brownstown in the territory"
+  },
+  {
+   "role": "body",
+   "text": "of Michigan."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of April"
+  },
+  {
+   "role": "sidenote",
+   "text": "16, 1816, ch. 53."
+  },
+  {
+   "role": "sidenote",
+   "text": "Road from the"
+  },
+  {
+   "role": "sidenote",
+   "text": "rapids of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "river Miami of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Lake Erie to"
+  },
+  {
+   "role": "sidenote",
+   "text": "western line of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Connecticut re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "serve."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the President of the"
+  },
+  {
+   "role": "body",
+   "text": "United States be, and hereby is authorized to appoint three commis-"
+  },
+  {
+   "role": "body",
+   "text": "sioners, who shall explore, survey and mark, by the most eligible course,"
+  },
+  {
+   "role": "body",
+   "text": "a road from the foot of the rapids of the river Miami of Lake Erie, to"
+  },
+  {
+   "role": "body",
+   "text": "the western line of the Connecticut reserve, and a road to run south-"
+  },
+  {
+   "role": "body",
+   "text": "wardly from Lower Sandusky to the boundary line established by the"
+  },
+  {
+   "role": "body",
+   "text": "treaty of Greenville, which said road shall be sixty feet in width; and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Commission-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ers' report to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "made to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "President."
+  },
+  {
+   "role": "body",
+   "text": "the said commissioners shall make out accurate plats of such surveys,"
+  },
+  {
+   "role": "body",
+   "text": "accompanied with field notes, and certify and transmit the same to the"
+  },
+  {
+   "role": "body",
+   "text": "President of the United States, who, if he approves of said surveys, shall"
+  },
+  {
+   "role": "body",
+   "text": "cause the plats thereof to be deposited in the office of the treasury of"
+  },
+  {
+   "role": "body",
+   "text": "the United States; and the said roads shall be considered as established"
+  },
+  {
+   "role": "body",
+   "text": "and accepted, pursuant to the treaty held at Brownstown, in the terri-"
+  }
+ ],
+ "disagreement_count": 34,
+ "tokens": {
+  "input_tokens": 24823,
+  "output_tokens": 7406,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.31043,
+ "seconds": 81.6,
+ "created": "2026-09-08T11:22:38"
+}

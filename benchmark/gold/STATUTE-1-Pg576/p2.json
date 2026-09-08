@@ -1,0 +1,1406 @@
+{
+ "granule_id": "STATUTE-1-Pg576",
+ "package_id": "STATUTE-1",
+ "volume": 1,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act providing Arms for the Militia throughout the United States.",
+ "date_issued": "1798-07-06",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "577",
+ "image": "data/gold/STATUTE-1-Pg576/p2.png",
+ "image_sha256": "83de61f8c4eb0aa0954e4d48ca0c6289d38076c2fc557d33a1be53bb008bd39d",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FIFTH CONGRESS.  SESS. II. CH. 66.  1798."
+    },
+    {
+     "role": "page-number",
+     "text": "577"
+    },
+    {
+     "role": "body",
+     "text": "sum not exceeding four hundred thousand dollars, to be paid out of any"
+    },
+    {
+     "role": "body",
+     "text": "money in the treasury not otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 6, 1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXVI.—An Act respecting Alien Enemies.(a)"
+    },
+    {
+     "role": "sidenote",
+     "text": "July 6, 1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Expired.]"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "sidenote",
+     "text": "In case of"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That whenever"
+    },
+    {
+     "role": "sidenote",
+     "text": "war, or actual"
+    },
+    {
+     "role": "body",
+     "text": "there shall be a declared war between the United States and any foreign"
+    },
+    {
+     "role": "sidenote",
+     "text": "threatened in-"
+    },
+    {
+     "role": "body",
+     "text": "nation or government, or any invasion or predatory incursion shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "vasion, the Pre-"
+    },
+    {
+     "role": "body",
+     "text": "perpetrated, attempted, or threatened against the territory of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "sident shall"
+    },
+    {
+     "role": "body",
+     "text": "States, by any foreign nation or government, and the President of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "make a procla-"
+    },
+    {
+     "role": "body",
+     "text": "United States shall make public proclamation of the event, all natives,"
+    },
+    {
+     "role": "sidenote",
+     "text": "mation."
+    },
+    {
+     "role": "body",
+     "text": "citizens, denizens, or subjects of the hostile nation or government,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of July"
+    },
+    {
+     "role": "body",
+     "text": "being males of the age of fourteen years and upwards, who shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "6, 1812, ch. 130."
+    },
+    {
+     "role": "body",
+     "text": "within the United States, and not actually naturalized, shall be liable"
+    },
+    {
+     "role": "body",
+     "text": "to be apprehended, restrained, secured and removed, as alien enemies."
+    },
+    {
+     "role": "sidenote",
+     "text": "Alien enemies"
+    },
+    {
+     "role": "body",
+     "text": "And the President of the United States shall be, and he is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "how to be treat-"
+    },
+    {
+     "role": "body",
+     "text": "authorized, in any event, as aforesaid, by his proclamation thereof, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed."
+    },
+    {
+     "role": "body",
+     "text": "other public act, to direct the conduct to be observed, on the part of"
+    },
+    {
+     "role": "body",
+     "text": "the United States, towards the aliens who shall become liable, as afore-"
+    },
+    {
+     "role": "body",
+     "text": "said; the manner and degree of the restraint to which they shall be"
+    },
+    {
+     "role": "body",
+     "text": "subject, and in what cases, and upon what security their residence shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "If not charge-"
+    },
+    {
+     "role": "body",
+     "text": "be permitted, and to provide for the removal of those, who, not being"
+    },
+    {
+     "role": "sidenote",
+     "text": "able with crimes"
+    },
+    {
+     "role": "body",
+     "text": "permitted to reside within the United States, shall refuse or neglect to"
+    },
+    {
+     "role": "sidenote",
+     "text": "against the pub-"
+    },
+    {
+     "role": "body",
+     "text": "depart therefrom; and to establish any other regulations which shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "lic safety, time"
+    },
+    {
+     "role": "body",
+     "text": "found necessary in the premises and for the public safety: Provided,"
+    },
+    {
+     "role": "sidenote",
+     "text": "shall be allowed"
+    },
+    {
+     "role": "body",
+     "text": "that aliens resident within the United States, who shall become liable"
+    },
+    {
+     "role": "sidenote",
+     "text": "for their depart-"
+    },
+    {
+     "role": "body",
+     "text": "as enemies, in the manner aforesaid, and who shall not be chargeable"
+    },
+    {
+     "role": "sidenote",
+     "text": "ure."
+    },
+    {
+     "role": "body",
+     "text": "with actual hostility, or other crime against the public safety, shall be"
+    },
+    {
+     "role": "body",
+     "text": "allowed, for the recovery, disposal, and removal of their goods and effects,"
+    },
+    {
+     "role": "body",
+     "text": "and for their departure, the full time which is, or shall be stipulated by"
+    },
+    {
+     "role": "body",
+     "text": "any treaty, where any shall have been between the United States, and"
+    },
+    {
+     "role": "body",
+     "text": "the hostile nation or government, of which they shall be natives, citizens,"
+    },
+    {
+     "role": "body",
+     "text": "denizens or subjects: and where no such treaty shall have existed, the"
+    },
+    {
+     "role": "body",
+     "text": "President of the United States may ascertain and declare such reason-"
+    },
+    {
+     "role": "body",
+     "text": "able time as may be consistent with the public safety, and according to"
+    },
+    {
+     "role": "body",
+     "text": "the dictates of humanity and national hospitality."
+    },
+    {
+     "role": "sidenote",
+     "text": "All courts of"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That after any proclamation shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "criminal juris-"
+    },
+    {
+     "role": "body",
+     "text": "be made as aforesaid, it shall be the duty of the several courts of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "diction—and"
+    },
+    {
+     "role": "body",
+     "text": "United States, and of each state, having criminal jurisdiction, and of"
+    },
+    {
+     "role": "sidenote",
+     "text": "also the judges"
+    },
+    {
+     "role": "body",
+     "text": "the several judges and justices of the courts of the United States, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the courts of"
+    },
+    {
+     "role": "body",
+     "text": "they shall be, and are hereby respectively, authorized upon complaint,"
+    },
+    {
+     "role": "sidenote",
+     "text": "the U. States"
+    },
+    {
+     "role": "body",
+     "text": "against any alien or alien enemies, as aforesaid, who shall be resident"
+    },
+    {
+     "role": "sidenote",
+     "text": "may receive and"
+    },
+    {
+     "role": "body",
+     "text": "and at large within such jurisdiction or district, to the danger of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "hear complaints"
+    },
+    {
+     "role": "body",
+     "text": "public peace or safety, and contrary to the tenor or intent of such pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "against alien"
+    },
+    {
+     "role": "body",
+     "text": "clamation, or other regulations which the President of the United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "enemies, and"
+    },
+    {
+     "role": "body",
+     "text": "shall and may establish in the premises, to cause such alien or aliens to"
+    },
+    {
+     "role": "sidenote",
+     "text": "make an order"
+    },
+    {
+     "role": "body",
+     "text": "be duly apprehended and convened before such court, judge or justice;"
+    },
+    {
+     "role": "sidenote",
+     "text": "thereon."
+    },
+    {
+     "role": "body",
+     "text": "and after a full examination and hearing on such complaint, and suffi-"
+    },
+    {
+     "role": "footnote",
+     "text": "(a) Alien enemy.  The fact that the commander of a private armed vessel was an alien enemy at the"
+    },
+    {
+     "role": "footnote",
+     "text": "time of the capture, does not invalidate such capture.  The Mary and Susan, 1 Wheat. 46; 3 Cond. Rep."
+    },
+    {
+     "role": "footnote",
+     "text": "480."
+    },
+    {
+     "role": "footnote",
+     "text": "Admitting it to have any operation, all that could result from it would be the condemnation of his in-"
+    },
+    {
+     "role": "footnote",
+     "text": "terest to the government, as a droit of the admiralty; but his national character can in no case affect the"
+    },
+    {
+     "role": "footnote",
+     "text": "rights of the owners and crew of the privateer.  Ibid."
+    },
+    {
+     "role": "footnote",
+     "text": "An alien enemy cannot be permitted to make the declaration required by law, preparatory to the natu-"
+    },
+    {
+     "role": "footnote",
+     "text": "ralization of aliens.  Ex parte Newman, 2 Gallis' C. C. R. 11."
+    },
+    {
+     "role": "footnote",
+     "text": "An alien enemy cannot sustain a suit in a prize court, nor can a citizen claim the property of an alien"
+    },
+    {
+     "role": "footnote",
+     "text": "enemy in a prize court, upon an alleged sale since the war.  The Emulous, 1 Gallis. C. C. R. 563."
+    },
+    {
+     "role": "body",
+     "text": "VOL. I.—73"
+    },
+    {
+     "role": "body",
+     "text": "3 C"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2843,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09851,
+   "seconds": 32.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FIFTH CONGRESS.  SESS. II. CH. 66.  1798."
+    },
+    {
+     "role": "page-number",
+     "text": "577"
+    },
+    {
+     "role": "body",
+     "text": "sum not exceeding four hundred thousand dollars, to be paid out of any"
+    },
+    {
+     "role": "body",
+     "text": "money in the treasury not otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 6, 1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXVI.—An Act respecting Alien Enemies.(a)"
+    },
+    {
+     "role": "sidenote",
+     "text": "July 6, 1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Expired.]"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That whenever"
+    },
+    {
+     "role": "sidenote",
+     "text": "In case of"
+    },
+    {
+     "role": "body",
+     "text": "there shall be a declared war between the United States and any foreign"
+    },
+    {
+     "role": "sidenote",
+     "text": "war, or actual"
+    },
+    {
+     "role": "sidenote",
+     "text": "threatened in-"
+    },
+    {
+     "role": "body",
+     "text": "nation or government, or any invasion or predatory incursion shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "vasion, the Pre-"
+    },
+    {
+     "role": "body",
+     "text": "perpetrated, attempted, or threatened against the territory of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "sident shall"
+    },
+    {
+     "role": "body",
+     "text": "States, by any foreign nation or government, and the President of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "make a procla-"
+    },
+    {
+     "role": "sidenote",
+     "text": "mation."
+    },
+    {
+     "role": "body",
+     "text": "United States shall make public proclamation of the event, all natives,"
+    },
+    {
+     "role": "body",
+     "text": "citizens, denizens, or subjects of the hostile nation or government,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of July"
+    },
+    {
+     "role": "body",
+     "text": "being males of the age of fourteen years and upwards, who shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "6, 1812, ch. 130."
+    },
+    {
+     "role": "body",
+     "text": "within the United States, and not actually naturalized, shall be liable"
+    },
+    {
+     "role": "body",
+     "text": "to be apprehended, restrained, secured and removed, as alien enemies."
+    },
+    {
+     "role": "body",
+     "text": "And the President of the United States shall be, and he is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "Alien enemies"
+    },
+    {
+     "role": "body",
+     "text": "authorized, in any event, as aforesaid, by his proclamation thereof, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "how to be treat-"
+    },
+    {
+     "role": "body",
+     "text": "other public act, to direct the conduct to be observed, on the part of"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed."
+    },
+    {
+     "role": "body",
+     "text": "the United States, towards the aliens who shall become liable, as afore-"
+    },
+    {
+     "role": "body",
+     "text": "said; the manner and degree of the restraint to which they shall be"
+    },
+    {
+     "role": "body",
+     "text": "subject, and in what cases, and upon what security their residence shall"
+    },
+    {
+     "role": "body",
+     "text": "be permitted, and to provide for the removal of those, who, not being"
+    },
+    {
+     "role": "sidenote",
+     "text": "If not charge-"
+    },
+    {
+     "role": "body",
+     "text": "permitted to reside within the United States, shall refuse or neglect to"
+    },
+    {
+     "role": "sidenote",
+     "text": "able with crimes"
+    },
+    {
+     "role": "body",
+     "text": "depart therefrom; and to establish any other regulations which shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "against the pub-"
+    },
+    {
+     "role": "sidenote",
+     "text": "lic safety, time"
+    },
+    {
+     "role": "body",
+     "text": "found necessary in the premises and for the public safety: Provided,"
+    },
+    {
+     "role": "sidenote",
+     "text": "shall be allowed"
+    },
+    {
+     "role": "body",
+     "text": "that aliens resident within the United States, who shall become liable"
+    },
+    {
+     "role": "sidenote",
+     "text": "for their depart-"
+    },
+    {
+     "role": "body",
+     "text": "as enemies, in the manner aforesaid, and who shall not be chargeable"
+    },
+    {
+     "role": "sidenote",
+     "text": "ure."
+    },
+    {
+     "role": "body",
+     "text": "with actual hostility, or other crime against the public safety, shall be"
+    },
+    {
+     "role": "body",
+     "text": "allowed, for the recovery, disposal, and removal of their goods and effects,"
+    },
+    {
+     "role": "body",
+     "text": "and for their departure, the full time which is, or shall be stipulated by"
+    },
+    {
+     "role": "body",
+     "text": "any treaty, where any shall have been between the United States, and"
+    },
+    {
+     "role": "body",
+     "text": "the hostile nation or government, of which they shall be natives, citizens,"
+    },
+    {
+     "role": "body",
+     "text": "denizens or subjects: and where no such treaty shall have existed, the"
+    },
+    {
+     "role": "body",
+     "text": "President of the United States may ascertain and declare such reason-"
+    },
+    {
+     "role": "body",
+     "text": "able time as may be consistent with the public safety, and according to"
+    },
+    {
+     "role": "body",
+     "text": "the dictates of humanity and national hospitality."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That after any proclamation shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "All courts of"
+    },
+    {
+     "role": "body",
+     "text": "be made as aforesaid, it shall be the duty of the several courts of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "criminal juris-"
+    },
+    {
+     "role": "sidenote",
+     "text": "diction—and"
+    },
+    {
+     "role": "body",
+     "text": "United States, and of each state, having criminal jurisdiction, and of"
+    },
+    {
+     "role": "sidenote",
+     "text": "also the judges"
+    },
+    {
+     "role": "body",
+     "text": "the several judges and justices of the courts of the United States, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the courts of"
+    },
+    {
+     "role": "body",
+     "text": "they shall be, and are hereby respectively, authorized upon complaint,"
+    },
+    {
+     "role": "sidenote",
+     "text": "the U. States"
+    },
+    {
+     "role": "sidenote",
+     "text": "may receive and"
+    },
+    {
+     "role": "body",
+     "text": "against any alien or alien enemies, as aforesaid, who shall be resident"
+    },
+    {
+     "role": "sidenote",
+     "text": "hear complaints"
+    },
+    {
+     "role": "body",
+     "text": "and at large within such jurisdiction or district, to the danger of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "against alien"
+    },
+    {
+     "role": "body",
+     "text": "public peace or safety, and contrary to the tenor or intent of such pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "enemies, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "make an order"
+    },
+    {
+     "role": "body",
+     "text": "clamation, or other regulations which the President of the United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "thereon."
+    },
+    {
+     "role": "body",
+     "text": "shall and may establish in the premises, to cause such alien or aliens to"
+    },
+    {
+     "role": "body",
+     "text": "be duly apprehended and convened before such court, judge or justice;"
+    },
+    {
+     "role": "body",
+     "text": "and after a full examination and hearing on such complaint, and suffi-"
+    },
+    {
+     "role": "footnote",
+     "text": "(a) Alien enemy.  The fact that the commander of a private armed vessel was an alien enemy at the"
+    },
+    {
+     "role": "footnote",
+     "text": "time of the capture, does not invalidate such capture.  The Mary and Susan, 1 Wheat. 46; 3 Cond. Rep."
+    },
+    {
+     "role": "footnote",
+     "text": "480."
+    },
+    {
+     "role": "footnote",
+     "text": "Admitting it to have any operation, all that could result from it would be the condemnation of his in-"
+    },
+    {
+     "role": "footnote",
+     "text": "terest to the government, as a droit of the admiralty; but his national character can in no case affect the"
+    },
+    {
+     "role": "footnote",
+     "text": "rights of the owners and crew of the privateer.  Ibid."
+    },
+    {
+     "role": "footnote",
+     "text": "An alien enemy cannot be permitted to make the declaration required by law, preparatory to the natu-"
+    },
+    {
+     "role": "footnote",
+     "text": "ralization of aliens.  Ex parte Newman, 2 Gallis' C. C. R. 11."
+    },
+    {
+     "role": "footnote",
+     "text": "An alien enemy cannot sustain a suit in a prize court, nor can a citizen claim the property of an alien"
+    },
+    {
+     "role": "footnote",
+     "text": "enemy in a prize court, upon an alleged sale since the war.  The Emulous, 1 Gallis. C. C. R. 563."
+    },
+    {
+     "role": "footnote",
+     "text": "VOL. I.—73                                        3 C"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2766,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09658,
+   "seconds": 32.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13547,
+   "output_tokens": 10498,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.3306,
+  "seconds": 125.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "of the United States of America in Congress assembled, That whenever",
+    "kept": "",
+    "reason": "Sidenote 'In case of' aligns with and precedes this body line; the body line belongs after it."
+   },
+   {
+    "run": 2,
+    "a": "of the United States of America in Congress assembled, That whenever",
+    "b": "there shall be a declared war between the United States and any foreign",
+    "kept": "of the United States of America in Congress assembled, That whenever",
+    "reason": "Body line follows the sidenote 'In case of' with which it is aligned."
+   },
+   {
+    "run": 3,
+    "a": "there shall be a declared war between the United States and any foreign",
+    "b": "",
+    "kept": "there shall be a declared war between the United States and any foreign",
+    "reason": "Body line follows sidenote 'war, or actual' aligned with it."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "mation.",
+    "kept": "",
+    "reason": "Sidenote 'mation.' falls after this body line, not before it."
+   },
+   {
+    "run": 5,
+    "a": "mation.",
+    "b": "",
+    "kept": "mation.",
+    "reason": "Last line of the proclamation sidenote sits opposite this body line, following it in the alternation."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "And the President of the United States shall be, and he is hereby",
+    "kept": "",
+    "reason": "Sidenote 'Alien enemies' is aligned with and precedes this body line."
+   },
+   {
+    "run": 7,
+    "a": "And the President of the United States shall be, and he is hereby",
+    "b": "authorized, in any event, as aforesaid, by his proclamation thereof, or",
+    "kept": "And the President of the United States shall be, and he is hereby",
+    "reason": "Body line follows the sidenote 'Alien enemies' aligned with it."
+   },
+   {
+    "run": 8,
+    "a": "authorized, in any event, as aforesaid, by his proclamation thereof, or",
+    "b": "other public act, to direct the conduct to be observed, on the part of",
+    "kept": "authorized, in any event, as aforesaid, by his proclamation thereof, or",
+    "reason": "Body line follows sidenote 'how to be treat-'."
+   },
+   {
+    "run": 9,
+    "a": "other public act, to direct the conduct to be observed, on the part of",
+    "b": "",
+    "kept": "other public act, to direct the conduct to be observed, on the part of",
+    "reason": "Body line follows sidenote 'ed.'."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "be permitted, and to provide for the removal of those, who, not being",
+    "kept": "",
+    "reason": "Sidenote 'If not charge-' aligns with and precedes this body line."
+   },
+   {
+    "run": 11,
+    "a": "be permitted, and to provide for the removal of those, who, not being",
+    "b": "permitted to reside within the United States, shall refuse or neglect to",
+    "kept": "be permitted, and to provide for the removal of those, who, not being",
+    "reason": "Body line follows the sidenote 'If not charge-'."
+   },
+   {
+    "run": 12,
+    "a": "permitted to reside within the United States, shall refuse or neglect to",
+    "b": "depart therefrom; and to establish any other regulations which shall be",
+    "kept": "permitted to reside within the United States, shall refuse or neglect to",
+    "reason": "Body line follows sidenote 'able with crimes'."
+   },
+   {
+    "run": 13,
+    "a": "depart therefrom; and to establish any other regulations which shall be",
+    "b": "",
+    "kept": "depart therefrom; and to establish any other regulations which shall be",
+    "reason": "Body line follows sidenote 'against the pub-'."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "SEC. 2. And be it further enacted, That after any proclamation shall",
+    "kept": "",
+    "reason": "Sidenote 'All courts of' aligns with and precedes the Sec. 2 body line."
+   },
+   {
+    "run": 15,
+    "a": "SEC. 2. And be it further enacted, That after any proclamation shall",
+    "b": "be made as aforesaid, it shall be the duty of the several courts of the",
+    "kept": "SEC. 2. And be it further enacted, That after any proclamation shall",
+    "reason": "Body line follows the sidenote 'All courts of'."
+   },
+   {
+    "run": 16,
+    "a": "be made as aforesaid, it shall be the duty of the several courts of the",
+    "b": "",
+    "kept": "be made as aforesaid, it shall be the duty of the several courts of the",
+    "reason": "Body line follows sidenote 'criminal juris-'."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "may receive and",
+    "kept": "",
+    "reason": "Sidenote 'may receive and' comes after the next body line, matching the alternation of the marginal block."
+   },
+   {
+    "run": 18,
+    "a": "may receive and",
+    "b": "hear complaints",
+    "kept": "may receive and",
+    "reason": "Sidenote line stands opposite the preceding body line."
+   },
+   {
+    "run": 19,
+    "a": "hear complaints",
+    "b": "against alien",
+    "kept": "hear complaints",
+    "reason": "Next sidenote line in the marginal block at this point."
+   },
+   {
+    "run": 20,
+    "a": "against alien",
+    "b": "enemies, and\nmake an order",
+    "kept": "against alien",
+    "reason": "Only one sidenote line falls here; 'enemies, and' and 'make an order' come lower."
+   },
+   {
+    "run": 21,
+    "a": "enemies, and",
+    "b": "thereon.",
+    "kept": "enemies, and",
+    "reason": "Continuation of the marginal note opposite this body line."
+   },
+   {
+    "run": 22,
+    "a": "make an order",
+    "b": "",
+    "kept": "make an order",
+    "reason": "Next sidenote line, opposite the following body line."
+   },
+   {
+    "run": 23,
+    "a": "thereon.",
+    "b": "",
+    "kept": "thereon.",
+    "reason": "Final sidenote line of the block."
+   },
+   {
+    "run": 24,
+    "a": "VOL. I.—73\n3 C",
+    "b": "VOL. I.—73                                        3 C",
+    "kept": "VOL. I.—73\n3 C",
+    "reason": "Volume/page footer and signature mark are separate items at left and right of the foot of the page."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "FIFTH CONGRESS.  SESS. II. CH. 66.  1798."
+  },
+  {
+   "role": "page-number",
+   "text": "577"
+  },
+  {
+   "role": "body",
+   "text": "sum not exceeding four hundred thousand dollars, to be paid out of any"
+  },
+  {
+   "role": "body",
+   "text": "money in the treasury not otherwise appropriated."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, July 6, 1798."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LXVI.—An Act respecting Alien Enemies.(a)"
+  },
+  {
+   "role": "sidenote",
+   "text": "July 6, 1798."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Expired.]"
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. Be it enacted by the Senate and House of Representatives"
+  },
+  {
+   "role": "sidenote",
+   "text": "In case of"
+  },
+  {
+   "role": "body",
+   "text": "of the United States of America in Congress assembled, That whenever"
+  },
+  {
+   "role": "sidenote",
+   "text": "war, or actual"
+  },
+  {
+   "role": "body",
+   "text": "there shall be a declared war between the United States and any foreign"
+  },
+  {
+   "role": "sidenote",
+   "text": "threatened in-"
+  },
+  {
+   "role": "body",
+   "text": "nation or government, or any invasion or predatory incursion shall be"
+  },
+  {
+   "role": "sidenote",
+   "text": "vasion, the Pre-"
+  },
+  {
+   "role": "body",
+   "text": "perpetrated, attempted, or threatened against the territory of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "sident shall"
+  },
+  {
+   "role": "body",
+   "text": "States, by any foreign nation or government, and the President of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "make a procla-"
+  },
+  {
+   "role": "body",
+   "text": "United States shall make public proclamation of the event, all natives,"
+  },
+  {
+   "role": "sidenote",
+   "text": "mation."
+  },
+  {
+   "role": "body",
+   "text": "citizens, denizens, or subjects of the hostile nation or government,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of July"
+  },
+  {
+   "role": "body",
+   "text": "being males of the age of fourteen years and upwards, who shall be"
+  },
+  {
+   "role": "sidenote",
+   "text": "6, 1812, ch. 130."
+  },
+  {
+   "role": "body",
+   "text": "within the United States, and not actually naturalized, shall be liable"
+  },
+  {
+   "role": "body",
+   "text": "to be apprehended, restrained, secured and removed, as alien enemies."
+  },
+  {
+   "role": "sidenote",
+   "text": "Alien enemies"
+  },
+  {
+   "role": "body",
+   "text": "And the President of the United States shall be, and he is hereby"
+  },
+  {
+   "role": "sidenote",
+   "text": "how to be treat-"
+  },
+  {
+   "role": "body",
+   "text": "authorized, in any event, as aforesaid, by his proclamation thereof, or"
+  },
+  {
+   "role": "sidenote",
+   "text": "ed."
+  },
+  {
+   "role": "body",
+   "text": "other public act, to direct the conduct to be observed, on the part of"
+  },
+  {
+   "role": "body",
+   "text": "the United States, towards the aliens who shall become liable, as afore-"
+  },
+  {
+   "role": "body",
+   "text": "said; the manner and degree of the restraint to which they shall be"
+  },
+  {
+   "role": "body",
+   "text": "subject, and in what cases, and upon what security their residence shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "If not charge-"
+  },
+  {
+   "role": "body",
+   "text": "be permitted, and to provide for the removal of those, who, not being"
+  },
+  {
+   "role": "sidenote",
+   "text": "able with crimes"
+  },
+  {
+   "role": "body",
+   "text": "permitted to reside within the United States, shall refuse or neglect to"
+  },
+  {
+   "role": "sidenote",
+   "text": "against the pub-"
+  },
+  {
+   "role": "body",
+   "text": "depart therefrom; and to establish any other regulations which shall be"
+  },
+  {
+   "role": "sidenote",
+   "text": "lic safety, time"
+  },
+  {
+   "role": "body",
+   "text": "found necessary in the premises and for the public safety: Provided,"
+  },
+  {
+   "role": "sidenote",
+   "text": "shall be allowed"
+  },
+  {
+   "role": "body",
+   "text": "that aliens resident within the United States, who shall become liable"
+  },
+  {
+   "role": "sidenote",
+   "text": "for their depart-"
+  },
+  {
+   "role": "body",
+   "text": "as enemies, in the manner aforesaid, and who shall not be chargeable"
+  },
+  {
+   "role": "sidenote",
+   "text": "ure."
+  },
+  {
+   "role": "body",
+   "text": "with actual hostility, or other crime against the public safety, shall be"
+  },
+  {
+   "role": "body",
+   "text": "allowed, for the recovery, disposal, and removal of their goods and effects,"
+  },
+  {
+   "role": "body",
+   "text": "and for their departure, the full time which is, or shall be stipulated by"
+  },
+  {
+   "role": "body",
+   "text": "any treaty, where any shall have been between the United States, and"
+  },
+  {
+   "role": "body",
+   "text": "the hostile nation or government, of which they shall be natives, citizens,"
+  },
+  {
+   "role": "body",
+   "text": "denizens or subjects: and where no such treaty shall have existed, the"
+  },
+  {
+   "role": "body",
+   "text": "President of the United States may ascertain and declare such reason-"
+  },
+  {
+   "role": "body",
+   "text": "able time as may be consistent with the public safety, and according to"
+  },
+  {
+   "role": "body",
+   "text": "the dictates of humanity and national hospitality."
+  },
+  {
+   "role": "sidenote",
+   "text": "All courts of"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That after any proclamation shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "criminal juris-"
+  },
+  {
+   "role": "body",
+   "text": "be made as aforesaid, it shall be the duty of the several courts of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "diction—and"
+  },
+  {
+   "role": "body",
+   "text": "United States, and of each state, having criminal jurisdiction, and of"
+  },
+  {
+   "role": "sidenote",
+   "text": "also the judges"
+  },
+  {
+   "role": "body",
+   "text": "the several judges and justices of the courts of the United States, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "of the courts of"
+  },
+  {
+   "role": "body",
+   "text": "they shall be, and are hereby respectively, authorized upon complaint,"
+  },
+  {
+   "role": "sidenote",
+   "text": "the U. States"
+  },
+  {
+   "role": "body",
+   "text": "against any alien or alien enemies, as aforesaid, who shall be resident"
+  },
+  {
+   "role": "sidenote",
+   "text": "may receive and"
+  },
+  {
+   "role": "body",
+   "text": "and at large within such jurisdiction or district, to the danger of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "hear complaints"
+  },
+  {
+   "role": "body",
+   "text": "public peace or safety, and contrary to the tenor or intent of such pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "against alien"
+  },
+  {
+   "role": "body",
+   "text": "clamation, or other regulations which the President of the United States"
+  },
+  {
+   "role": "sidenote",
+   "text": "enemies, and"
+  },
+  {
+   "role": "body",
+   "text": "shall and may establish in the premises, to cause such alien or aliens to"
+  },
+  {
+   "role": "sidenote",
+   "text": "make an order"
+  },
+  {
+   "role": "body",
+   "text": "be duly apprehended and convened before such court, judge or justice;"
+  },
+  {
+   "role": "sidenote",
+   "text": "thereon."
+  },
+  {
+   "role": "body",
+   "text": "and after a full examination and hearing on such complaint, and suffi-"
+  },
+  {
+   "role": "footnote",
+   "text": "(a) Alien enemy.  The fact that the commander of a private armed vessel was an alien enemy at the"
+  },
+  {
+   "role": "footnote",
+   "text": "time of the capture, does not invalidate such capture.  The Mary and Susan, 1 Wheat. 46; 3 Cond. Rep."
+  },
+  {
+   "role": "footnote",
+   "text": "480."
+  },
+  {
+   "role": "footnote",
+   "text": "Admitting it to have any operation, all that could result from it would be the condemnation of his in-"
+  },
+  {
+   "role": "footnote",
+   "text": "terest to the government, as a droit of the admiralty; but his national character can in no case affect the"
+  },
+  {
+   "role": "footnote",
+   "text": "rights of the owners and crew of the privateer.  Ibid."
+  },
+  {
+   "role": "footnote",
+   "text": "An alien enemy cannot be permitted to make the declaration required by law, preparatory to the natu-"
+  },
+  {
+   "role": "footnote",
+   "text": "ralization of aliens.  Ex parte Newman, 2 Gallis' C. C. R. 11."
+  },
+  {
+   "role": "footnote",
+   "text": "An alien enemy cannot sustain a suit in a prize court, nor can a citizen claim the property of an alien"
+  },
+  {
+   "role": "footnote",
+   "text": "enemy in a prize court, upon an alleged sale since the war.  The Emulous, 1 Gallis. C. C. R. 563."
+  },
+  {
+   "role": "body",
+   "text": "VOL. I.—73"
+  },
+  {
+   "role": "body",
+   "text": "3 C"
+  }
+ ],
+ "disagreement_count": 24,
+ "tokens": {
+  "input_tokens": 24370,
+  "output_tokens": 16107,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.52569,
+ "seconds": 190.2,
+ "created": "2026-09-08T11:22:16"
+}

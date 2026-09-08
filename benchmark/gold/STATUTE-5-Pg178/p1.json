@@ -1,0 +1,1412 @@
+{
+ "granule_id": "STATUTE-5-Pg178",
+ "package_id": "STATUTE-5",
+ "volume": 5,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to authorize the proper officers of the Treasury Department to credit the account of the Treasurer of the United States with the amount of unavailable funds standing to his debit on the books o",
+ "date_issued": "1836-03-03",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "178",
+ "image": "data/gold/STATUTE-5-Pg178/p1.png",
+ "image_sha256": "61692d70333a79185eada51cab3ed30913c07d1ac7d38cc2de1a2bf6475ef398",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "high"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "178        TWENTY-FOURTH CONGRESS.  SESS. II.  CH. 35, 36.   1837."
+    },
+    {
+     "role": "sidenote",
+     "text": "for western dis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "trict of Louisi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ana."
+    },
+    {
+     "role": "body",
+     "text": "in the same manner as from decrees and judgments rendered in the"
+    },
+    {
+     "role": "body",
+     "text": "districts within which a circuit court is provided by this act."
+    },
+    {
+     "role": "sidenote",
+     "text": "Actions, suits,"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c., (originally"
+    },
+    {
+     "role": "sidenote",
+     "text": "cognizable in a"
+    },
+    {
+     "role": "sidenote",
+     "text": "circuit court,)"
+    },
+    {
+     "role": "sidenote",
+     "text": "now pending in,"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c., certain"
+    },
+    {
+     "role": "sidenote",
+     "text": "district courts."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That all actions, suits, prosecu-"
+    },
+    {
+     "role": "body",
+     "text": "tions, causes, pleas, process, and other proceedings, relative to any"
+    },
+    {
+     "role": "body",
+     "text": "cause, civil or criminal, (which might have been brought, and could"
+    },
+    {
+     "role": "body",
+     "text": "have been, originally, cognizable in a circuit court,) now pending in,"
+    },
+    {
+     "role": "body",
+     "text": "or returnable to, the several district courts of Indiana, Illinois, Missouri,"
+    },
+    {
+     "role": "body",
+     "text": "Mississippi, Arkansas, Michigan, the eastern district of Louisiana, the"
+    },
+    {
+     "role": "body",
+     "text": "districts of Alabama, the northern district of New York, the western"
+    },
+    {
+     "role": "body",
+     "text": "district of Pennsylvania, and western district of Virginia, acting as"
+    },
+    {
+     "role": "body",
+     "text": "circuit courts on the first day of April next, shall be, and are hereby"
+    },
+    {
+     "role": "body",
+     "text": "declared to be, respectively transferred, returnable, and continued to,"
+    },
+    {
+     "role": "body",
+     "text": "the several circuit courts constituted by this act, to be holden within"
+    },
+    {
+     "role": "body",
+     "text": "the said districts respectively; and shall be heard, tried and determined"
+    },
+    {
+     "role": "body",
+     "text": "therein, in the same manner as if originally brought, entered, prose-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Said circuit"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts to be go-"
+    },
+    {
+     "role": "sidenote",
+     "text": "verned by same"
+    },
+    {
+     "role": "sidenote",
+     "text": "laws, &c., as"
+    },
+    {
+     "role": "sidenote",
+     "text": "apply to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "other circuit"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts ; and"
+    },
+    {
+     "role": "sidenote",
+     "text": "clerks to per-"
+    },
+    {
+     "role": "sidenote",
+     "text": "form same du-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ties, &c."
+    },
+    {
+     "role": "body",
+     "text": "cuted, or had, in such circuit courts.   And the said circuit courts shall"
+    },
+    {
+     "role": "body",
+     "text": "be governed by the same laws and regulations as apply to the other"
+    },
+    {
+     "role": "body",
+     "text": "circuit courts of the United States; and the clerks of the said courts,"
+    },
+    {
+     "role": "body",
+     "text": "respectively, shall perform the same duties, and shall be entitled to"
+    },
+    {
+     "role": "body",
+     "text": "receive the same fees and emoluments, which are by law established for"
+    },
+    {
+     "role": "body",
+     "text": "the clerks of the other circuit courts of the United States.   The allot-"
+    },
+    {
+     "role": "body",
+     "text": "ment of their chief justice and the associate justices of the said Su-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Allotment of"
+    },
+    {
+     "role": "sidenote",
+     "text": "their chief jus-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tice, &c."
+    },
+    {
+     "role": "body",
+     "text": "preme Court to the several circuits shall be made as heretofore."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That all acts and provisions incon-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Acts, &c., re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "pealed."
+    },
+    {
+     "role": "body",
+     "text": "sistent with this act be, and the same are hereby, repealed."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1837."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1836."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP.   XXXV.—An Act to authorize the proper officers of the Treasury Department"
+    },
+    {
+     "role": "body",
+     "text": "to credit the account of the Treasurer of the United States with the amount of"
+    },
+    {
+     "role": "body",
+     "text": "unavailable funds standing to his debit on the books of the Treasury, to transfer"
+    },
+    {
+     "role": "body",
+     "text": "the amount of the debit of banks and individuals indebted for the same, and to"
+    },
+    {
+     "role": "body",
+     "text": "authorize the Secretary of the Treasury to compromise and settle said claims."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "The account"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the Treasurer"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be credited"
+    },
+    {
+     "role": "sidenote",
+     "text": "with the"
+    },
+    {
+     "role": "sidenote",
+     "text": "amount of una-"
+    },
+    {
+     "role": "sidenote",
+     "text": "vailable funds."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the proper"
+    },
+    {
+     "role": "body",
+     "text": "accounting officers of the Treasury be, and they are hereby authorized"
+    },
+    {
+     "role": "body",
+     "text": "to credit the account of the Treasurer of the United States with the"
+    },
+    {
+     "role": "body",
+     "text": "amount of the unavailable funds, whether charged to John Campbell,"
+    },
+    {
+     "role": "body",
+     "text": "or his predecessors, and to transfer the amount to the debit of the banks"
+    },
+    {
+     "role": "body",
+     "text": "and individuals, respectively, that may be indebted for the same."
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Treasury au-"
+    },
+    {
+     "role": "sidenote",
+     "text": "thorized to set-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tle claims of U."
+    },
+    {
+     "role": "sidenote",
+     "text": "S. of the above"
+    },
+    {
+     "role": "sidenote",
+     "text": "description."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the Secretary of the"
+    },
+    {
+     "role": "body",
+     "text": "Treasury be, and he is hereby, authorized to compromise and finally"
+    },
+    {
+     "role": "body",
+     "text": "settle the claims of the United States, of the above description, against"
+    },
+    {
+     "role": "body",
+     "text": "said banks and individuals who have proved insolvent, or failed to make"
+    },
+    {
+     "role": "body",
+     "text": "punctual payments, on such terms and conditions as he may deem most"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "conducive to the interests of the United States : Provided, That this"
+    },
+    {
+     "role": "body",
+     "text": "act shall not authorize any compromise of the debt due from the Alle-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1839, ch. 26."
+    },
+    {
+     "role": "body",
+     "text": "ghany Bank of Pennsylvania."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1837."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1837."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP.  XXXVI.—An Act to amend an act entitled \"An act for laying off the"
+    },
+    {
+     "role": "body",
+     "text": "towns of Fort Madison and Burlington, in the county of Des Moines, and the"
+    },
+    {
+     "role": "body",
+     "text": "towns of Belleview, Du Buque, and Peru, in the county of Du Buque, and"
+    },
+    {
+     "role": "body",
+     "text": "Mineral Point, in the county of Iowa, Territory of Wisconsin, and for other"
+    },
+    {
+     "role": "body",
+     "text": "purposes,\" approved July second, eighteen hundred and thirty-six."
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of July 2,"
+    },
+    {
+     "role": "sidenote",
+     "text": "1836, ch. 262."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That all acts and duties re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Acts, &c., re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "quired to be"
+    },
+    {
+     "role": "body",
+     "text": "quired to be done and performed by the Surveyor for the Territory of"
+    },
+    {
+     "role": "body",
+     "text": "Wisconsin, under the act to which this is an amendment, shall be done"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7608,
+    "output_tokens": 2953,
+    "cache_read_input_tokens": 770,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.11225,
+   "seconds": 35.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "178"
+    },
+    {
+     "role": "running-head",
+     "text": "TWENTY-FOURTH CONGRESS.  SESS. II.  CH. 35, 36.   1837."
+    },
+    {
+     "role": "sidenote",
+     "text": "for western dis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "trict of Louisi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ana."
+    },
+    {
+     "role": "body",
+     "text": "in the same manner as from decrees and judgments rendered in the"
+    },
+    {
+     "role": "body",
+     "text": "districts within which a circuit court is provided by this act."
+    },
+    {
+     "role": "sidenote",
+     "text": "Actions, suits,"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c., (originally"
+    },
+    {
+     "role": "sidenote",
+     "text": "cognizable in a"
+    },
+    {
+     "role": "sidenote",
+     "text": "circuit court,)"
+    },
+    {
+     "role": "sidenote",
+     "text": "now pending in,"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c., certain"
+    },
+    {
+     "role": "sidenote",
+     "text": "district courts."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That all actions, suits, prosecu-"
+    },
+    {
+     "role": "body",
+     "text": "tions, causes, pleas, process, and other proceedings, relative to any"
+    },
+    {
+     "role": "body",
+     "text": "cause, civil or criminal, (which might have been brought, and could"
+    },
+    {
+     "role": "body",
+     "text": "have been, originally, cognizable in a circuit court,) now pending in,"
+    },
+    {
+     "role": "body",
+     "text": "or returnable to, the several district courts of Indiana, Illinois, Missouri,"
+    },
+    {
+     "role": "body",
+     "text": "Mississippi, Arkansas, Michigan, the eastern district of Louisiana, the"
+    },
+    {
+     "role": "body",
+     "text": "districts of Alabama, the northern district of New York, the western"
+    },
+    {
+     "role": "body",
+     "text": "district of Pennsylvania, and western district of Virginia, acting as"
+    },
+    {
+     "role": "body",
+     "text": "circuit courts on the first day of April next, shall be, and are hereby"
+    },
+    {
+     "role": "body",
+     "text": "declared to be, respectively transferred, returnable, and continued to,"
+    },
+    {
+     "role": "body",
+     "text": "the several circuit courts constituted by this act, to be holden within"
+    },
+    {
+     "role": "body",
+     "text": "the said districts respectively; and shall be heard, tried and determined"
+    },
+    {
+     "role": "body",
+     "text": "therein, in the same manner as if originally brought, entered, prose-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Said circuit"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts to be go-"
+    },
+    {
+     "role": "sidenote",
+     "text": "verned by same"
+    },
+    {
+     "role": "sidenote",
+     "text": "laws, &c., as"
+    },
+    {
+     "role": "sidenote",
+     "text": "apply to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "other circuit"
+    },
+    {
+     "role": "sidenote",
+     "text": "courts ; and"
+    },
+    {
+     "role": "sidenote",
+     "text": "clerks to per-"
+    },
+    {
+     "role": "sidenote",
+     "text": "form same du-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ties, &c."
+    },
+    {
+     "role": "body",
+     "text": "cuted, or had, in such circuit courts.   And the said circuit courts shall"
+    },
+    {
+     "role": "body",
+     "text": "be governed by the same laws and regulations as apply to the other"
+    },
+    {
+     "role": "body",
+     "text": "circuit courts of the United States; and the clerks of the said courts,"
+    },
+    {
+     "role": "body",
+     "text": "respectively, shall perform the same duties, and shall be entitled to"
+    },
+    {
+     "role": "body",
+     "text": "receive the same fees and emoluments, which are by law established for"
+    },
+    {
+     "role": "body",
+     "text": "the clerks of the other circuit courts of the United States.   The allot-"
+    },
+    {
+     "role": "body",
+     "text": "ment of their chief justice and the associate justices of the said Su-"
+    },
+    {
+     "role": "body",
+     "text": "preme Court to the several circuits shall be made as heretofore."
+    },
+    {
+     "role": "sidenote",
+     "text": "Allotment of"
+    },
+    {
+     "role": "sidenote",
+     "text": "their chief jus-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tice, &c."
+    },
+    {
+     "role": "sidenote",
+     "text": "Acts, &c., re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "pealed."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That all acts and provisions incon-"
+    },
+    {
+     "role": "body",
+     "text": "sistent with this act be, and the same are hereby, repealed."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1837."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1836."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP.   XXXV.—An Act to authorize the proper officers of the Treasury Department"
+    },
+    {
+     "role": "body",
+     "text": "to credit the account of the Treasurer of the United States with the amount of"
+    },
+    {
+     "role": "body",
+     "text": "unavailable funds standing to his debit on the books of the Treasury, to transfer"
+    },
+    {
+     "role": "body",
+     "text": "the amount of the debit of banks and individuals indebted for the same, and to"
+    },
+    {
+     "role": "body",
+     "text": "authorize the Secretary of the Treasury to compromise and settle said claims."
+    },
+    {
+     "role": "sidenote",
+     "text": "The account"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the Treasurer"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be credited"
+    },
+    {
+     "role": "sidenote",
+     "text": "with the"
+    },
+    {
+     "role": "sidenote",
+     "text": "amount of una-"
+    },
+    {
+     "role": "sidenote",
+     "text": "vailable funds."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the proper"
+    },
+    {
+     "role": "body",
+     "text": "accounting officers of the Treasury be, and they are hereby authorized"
+    },
+    {
+     "role": "body",
+     "text": "to credit the account of the Treasurer of the United States with the"
+    },
+    {
+     "role": "body",
+     "text": "amount of the unavailable funds, whether charged to John Campbell,"
+    },
+    {
+     "role": "body",
+     "text": "or his predecessors, and to transfer the amount to the debit of the banks"
+    },
+    {
+     "role": "body",
+     "text": "and individuals, respectively, that may be indebted for the same."
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Treasury au-"
+    },
+    {
+     "role": "sidenote",
+     "text": "thorized to set-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tle claims of U."
+    },
+    {
+     "role": "sidenote",
+     "text": "S. of the above"
+    },
+    {
+     "role": "sidenote",
+     "text": "description."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the Secretary of the"
+    },
+    {
+     "role": "body",
+     "text": "Treasury be, and he is hereby, authorized to compromise and finally"
+    },
+    {
+     "role": "body",
+     "text": "settle the claims of the United States, of the above description, against"
+    },
+    {
+     "role": "body",
+     "text": "said banks and individuals who have proved insolvent, or failed to make"
+    },
+    {
+     "role": "body",
+     "text": "punctual payments, on such terms and conditions as he may deem most"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "conducive to the interests of the United States : Provided, That this"
+    },
+    {
+     "role": "body",
+     "text": "act shall not authorize any compromise of the debt due from the Alle-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1839, ch. 26."
+    },
+    {
+     "role": "body",
+     "text": "ghany Bank of Pennsylvania."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1837."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1837."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP.  XXXVI.—An Act to amend an act entitled \"An act for laying off the"
+    },
+    {
+     "role": "body",
+     "text": "towns of Fort Madison and Burlington, in the county of Des Moines, and the"
+    },
+    {
+     "role": "body",
+     "text": "towns of Belleview, Du Buque, and Peru, in the county of Du Buque, and"
+    },
+    {
+     "role": "body",
+     "text": "Mineral Point, in the county of Iowa, Territory of Wisconsin, and for other"
+    },
+    {
+     "role": "body",
+     "text": "purposes,\" approved July second, eighteen hundred and thirty-six."
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of July 2,"
+    },
+    {
+     "role": "sidenote",
+     "text": "1836, ch. 262."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That all acts and duties re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Acts, &c., re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "quired to be"
+    },
+    {
+     "role": "body",
+     "text": "quired to be done and performed by the Surveyor for the Territory of"
+    },
+    {
+     "role": "body",
+     "text": "Wisconsin, under the act to which this is an amendment, shall be done"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7611,
+    "output_tokens": 2966,
+    "cache_read_input_tokens": 712,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.11256,
+   "seconds": 35.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12940,
+   "output_tokens": 2101,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.11764,
+  "seconds": 27.6,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "high",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "178        TWENTY-FOURTH CONGRESS.  SESS. II.  CH. 35, 36.   1837.",
+    "b": "178\nTWENTY-FOURTH CONGRESS.  SESS. II.  CH. 35, 36.   1837.",
+    "kept": "178\nTWENTY-FOURTH CONGRESS.  SESS. II.  CH. 35, 36.   1837.",
+    "reason": "The folio \"178\" stands alone in the left margin, separate from the centred running head, so it is a page-number line followed by the running head."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "preme Court to the several circuits shall be made as heretofore.",
+    "kept": "preme Court to the several circuits shall be made as heretofore.",
+    "reason": "In the image this body line sits above the sidenote \"Allotment of\", so it belongs here, directly after \"...the said Su-\"."
+   },
+   {
+    "run": 3,
+    "a": "preme Court to the several circuits shall be made as heretofore.\nSEC. 5. And be it further enacted, That all acts and provisions incon-",
+    "b": "",
+    "kept": "",
+    "reason": "These lines were already placed earlier (the \"preme Court\" line) or belong after the \"pealed.\" sidenote (SEC. 5); nothing additional is printed at this point."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "SEC. 5. And be it further enacted, That all acts and provisions incon-",
+    "kept": "SEC. 5. And be it further enacted, That all acts and provisions incon-",
+    "reason": "The SEC. 5 line falls level with the sidenotes \"their chief jus-\"/\"Acts, &c., re-\", i.e. after the Allotment/repealed marginalia."
+   },
+   {
+    "run": 5,
+    "a": "Be it enacted by the Senate and House of Representatives of the",
+    "b": "",
+    "kept": "Be it enacted by the Senate and House of Representatives of the",
+    "reason": "The enacting clause's first line is printed above the sidenote \"The account\", which is level with the following \"United States of America\" line."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the",
+    "kept": "",
+    "reason": "This line is already placed before the \"The account ... vailable funds.\" sidenote; nothing is printed after it here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "178"
+  },
+  {
+   "role": "running-head",
+   "text": "TWENTY-FOURTH CONGRESS.  SESS. II.  CH. 35, 36.   1837."
+  },
+  {
+   "role": "sidenote",
+   "text": "for western dis-"
+  },
+  {
+   "role": "sidenote",
+   "text": "trict of Louisi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ana."
+  },
+  {
+   "role": "body",
+   "text": "in the same manner as from decrees and judgments rendered in the"
+  },
+  {
+   "role": "body",
+   "text": "districts within which a circuit court is provided by this act."
+  },
+  {
+   "role": "sidenote",
+   "text": "Actions, suits,"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c., (originally"
+  },
+  {
+   "role": "sidenote",
+   "text": "cognizable in a"
+  },
+  {
+   "role": "sidenote",
+   "text": "circuit court,)"
+  },
+  {
+   "role": "sidenote",
+   "text": "now pending in,"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c., certain"
+  },
+  {
+   "role": "sidenote",
+   "text": "district courts."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. And be it further enacted, That all actions, suits, prosecu-"
+  },
+  {
+   "role": "body",
+   "text": "tions, causes, pleas, process, and other proceedings, relative to any"
+  },
+  {
+   "role": "body",
+   "text": "cause, civil or criminal, (which might have been brought, and could"
+  },
+  {
+   "role": "body",
+   "text": "have been, originally, cognizable in a circuit court,) now pending in,"
+  },
+  {
+   "role": "body",
+   "text": "or returnable to, the several district courts of Indiana, Illinois, Missouri,"
+  },
+  {
+   "role": "body",
+   "text": "Mississippi, Arkansas, Michigan, the eastern district of Louisiana, the"
+  },
+  {
+   "role": "body",
+   "text": "districts of Alabama, the northern district of New York, the western"
+  },
+  {
+   "role": "body",
+   "text": "district of Pennsylvania, and western district of Virginia, acting as"
+  },
+  {
+   "role": "body",
+   "text": "circuit courts on the first day of April next, shall be, and are hereby"
+  },
+  {
+   "role": "body",
+   "text": "declared to be, respectively transferred, returnable, and continued to,"
+  },
+  {
+   "role": "body",
+   "text": "the several circuit courts constituted by this act, to be holden within"
+  },
+  {
+   "role": "body",
+   "text": "the said districts respectively; and shall be heard, tried and determined"
+  },
+  {
+   "role": "body",
+   "text": "therein, in the same manner as if originally brought, entered, prose-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Said circuit"
+  },
+  {
+   "role": "sidenote",
+   "text": "courts to be go-"
+  },
+  {
+   "role": "sidenote",
+   "text": "verned by same"
+  },
+  {
+   "role": "sidenote",
+   "text": "laws, &c., as"
+  },
+  {
+   "role": "sidenote",
+   "text": "apply to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "other circuit"
+  },
+  {
+   "role": "sidenote",
+   "text": "courts ; and"
+  },
+  {
+   "role": "sidenote",
+   "text": "clerks to per-"
+  },
+  {
+   "role": "sidenote",
+   "text": "form same du-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ties, &c."
+  },
+  {
+   "role": "body",
+   "text": "cuted, or had, in such circuit courts.   And the said circuit courts shall"
+  },
+  {
+   "role": "body",
+   "text": "be governed by the same laws and regulations as apply to the other"
+  },
+  {
+   "role": "body",
+   "text": "circuit courts of the United States; and the clerks of the said courts,"
+  },
+  {
+   "role": "body",
+   "text": "respectively, shall perform the same duties, and shall be entitled to"
+  },
+  {
+   "role": "body",
+   "text": "receive the same fees and emoluments, which are by law established for"
+  },
+  {
+   "role": "body",
+   "text": "the clerks of the other circuit courts of the United States.   The allot-"
+  },
+  {
+   "role": "body",
+   "text": "ment of their chief justice and the associate justices of the said Su-"
+  },
+  {
+   "role": "body",
+   "text": "preme Court to the several circuits shall be made as heretofore."
+  },
+  {
+   "role": "sidenote",
+   "text": "Allotment of"
+  },
+  {
+   "role": "sidenote",
+   "text": "their chief jus-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tice, &c."
+  },
+  {
+   "role": "sidenote",
+   "text": "Acts, &c., re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "pealed."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. And be it further enacted, That all acts and provisions incon-"
+  },
+  {
+   "role": "body",
+   "text": "sistent with this act be, and the same are hereby, repealed."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1837."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1836."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "CHAP.   XXXV.—An Act to authorize the proper officers of the Treasury Department"
+  },
+  {
+   "role": "body",
+   "text": "to credit the account of the Treasurer of the United States with the amount of"
+  },
+  {
+   "role": "body",
+   "text": "unavailable funds standing to his debit on the books of the Treasury, to transfer"
+  },
+  {
+   "role": "body",
+   "text": "the amount of the debit of banks and individuals indebted for the same, and to"
+  },
+  {
+   "role": "body",
+   "text": "authorize the Secretary of the Treasury to compromise and settle said claims."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "The account"
+  },
+  {
+   "role": "sidenote",
+   "text": "of the Treasurer"
+  },
+  {
+   "role": "sidenote",
+   "text": "to be credited"
+  },
+  {
+   "role": "sidenote",
+   "text": "with the"
+  },
+  {
+   "role": "sidenote",
+   "text": "amount of una-"
+  },
+  {
+   "role": "sidenote",
+   "text": "vailable funds."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the proper"
+  },
+  {
+   "role": "body",
+   "text": "accounting officers of the Treasury be, and they are hereby authorized"
+  },
+  {
+   "role": "body",
+   "text": "to credit the account of the Treasurer of the United States with the"
+  },
+  {
+   "role": "body",
+   "text": "amount of the unavailable funds, whether charged to John Campbell,"
+  },
+  {
+   "role": "body",
+   "text": "or his predecessors, and to transfer the amount to the debit of the banks"
+  },
+  {
+   "role": "body",
+   "text": "and individuals, respectively, that may be indebted for the same."
+  },
+  {
+   "role": "sidenote",
+   "text": "Secretary of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Treasury au-"
+  },
+  {
+   "role": "sidenote",
+   "text": "thorized to set-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tle claims of U."
+  },
+  {
+   "role": "sidenote",
+   "text": "S. of the above"
+  },
+  {
+   "role": "sidenote",
+   "text": "description."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the Secretary of the"
+  },
+  {
+   "role": "body",
+   "text": "Treasury be, and he is hereby, authorized to compromise and finally"
+  },
+  {
+   "role": "body",
+   "text": "settle the claims of the United States, of the above description, against"
+  },
+  {
+   "role": "body",
+   "text": "said banks and individuals who have proved insolvent, or failed to make"
+  },
+  {
+   "role": "body",
+   "text": "punctual payments, on such terms and conditions as he may deem most"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "conducive to the interests of the United States : Provided, That this"
+  },
+  {
+   "role": "body",
+   "text": "act shall not authorize any compromise of the debt due from the Alle-"
+  },
+  {
+   "role": "sidenote",
+   "text": "1839, ch. 26."
+  },
+  {
+   "role": "body",
+   "text": "ghany Bank of Pennsylvania."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1837."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1837."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "CHAP.  XXXVI.—An Act to amend an act entitled \"An act for laying off the"
+  },
+  {
+   "role": "body",
+   "text": "towns of Fort Madison and Burlington, in the county of Des Moines, and the"
+  },
+  {
+   "role": "body",
+   "text": "towns of Belleview, Du Buque, and Peru, in the county of Du Buque, and"
+  },
+  {
+   "role": "body",
+   "text": "Mineral Point, in the county of Iowa, Territory of Wisconsin, and for other"
+  },
+  {
+   "role": "body",
+   "text": "purposes,\" approved July second, eighteen hundred and thirty-six."
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of July 2,"
+  },
+  {
+   "role": "sidenote",
+   "text": "1836, ch. 262."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That all acts and duties re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Acts, &c., re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "quired to be"
+  },
+  {
+   "role": "body",
+   "text": "quired to be done and performed by the Surveyor for the Territory of"
+  },
+  {
+   "role": "body",
+   "text": "Wisconsin, under the act to which this is an amendment, shall be done"
+  }
+ ],
+ "disagreement_count": 6,
+ "tokens": {
+  "input_tokens": 28159,
+  "output_tokens": 8020,
+  "cache_read_input_tokens": 2315,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.34245,
+ "seconds": 98.4,
+ "created": "2026-09-08T10:53:24"
+}

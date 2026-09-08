@@ -1,0 +1,344 @@
+{
+ "granule_id": "STATUTE-115-Pg269",
+ "package_id": "STATUTE-115",
+ "volume": 115,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "Making further continuing appropriations for the fiscal year 2002, and for other purposes",
+ "date_issued": "2001-10-22",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "269",
+ "image": "data/gold/STATUTE-115-Pg269/p1.png",
+ "image_sha256": "c5df72c96df2074425677f422c462ea52c465b8990004c49b0d220ad5cead823",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 107–53—OCT. 22, 2001                    115 STAT. 269"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 107–53"
+    },
+    {
+     "role": "body",
+     "text": "107th Congress"
+    },
+    {
+     "role": "body",
+     "text": "Joint Resolution"
+    },
+    {
+     "role": "sidenote",
+     "text": "Oct. 22, 2001"
+    },
+    {
+     "role": "body",
+     "text": "Making further continuing appropriations for the fiscal year 2002, and for other"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.J. Res. 69]"
+    },
+    {
+     "role": "body",
+     "text": "purposes."
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That Public Law"
+    },
+    {
+     "role": "body",
+     "text": "107–44 is further amended by striking the date specified in section"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 261."
+    },
+    {
+     "role": "body",
+     "text": "107(c) and inserting in lieu thereof “October 31, 2001”."
+    },
+    {
+     "role": "body",
+     "text": "Approved October 22, 2001."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—H.J. Res. 69:"
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 147 (2001):"
+    },
+    {
+     "role": "footnote",
+     "text": "Oct. 17, considered and passed House and Senate."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 526,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.04002,
+   "seconds": 27.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 107–53—OCT. 22, 2001"
+    },
+    {
+     "role": "running-head",
+     "text": "115 STAT. 269"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 107–53"
+    },
+    {
+     "role": "body",
+     "text": "107th Congress"
+    },
+    {
+     "role": "body",
+     "text": "Joint Resolution"
+    },
+    {
+     "role": "body",
+     "text": "Making further continuing appropriations for the fiscal year 2002, and for other"
+    },
+    {
+     "role": "sidenote",
+     "text": "Oct. 22, 2001"
+    },
+    {
+     "role": "body",
+     "text": "purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.J. Res. 69]"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That Public Law"
+    },
+    {
+     "role": "body",
+     "text": "107–44 is further amended by striking the date specified in section"
+    },
+    {
+     "role": "body",
+     "text": "107(c) and inserting in lieu thereof “October 31, 2001”."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 261."
+    },
+    {
+     "role": "body",
+     "text": "Approved October 22, 2001."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—H.J. Res. 69:"
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 147 (2001):"
+    },
+    {
+     "role": "footnote",
+     "text": "Oct. 17, considered and passed House and Senate."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 602,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.04192,
+   "seconds": 30.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 8679,
+   "output_tokens": 730,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06206,
+  "seconds": 46.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "PUBLIC LAW 107–53—OCT. 22, 2001                    115 STAT. 269",
+    "b": "PUBLIC LAW 107–53—OCT. 22, 2001\n115 STAT. 269",
+    "kept": "PUBLIC LAW 107–53—OCT. 22, 2001\n115 STAT. 269",
+    "reason": "The head consists of two widely separated elements; treating them as separate running-head lines matches the image layout."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "Making further continuing appropriations for the fiscal year 2002, and for other",
+    "kept": "Making further continuing appropriations for the fiscal year 2002, and for other",
+    "reason": "The caption line precedes the marginal date on the same baseline in reading order."
+   },
+   {
+    "run": 3,
+    "a": "Making further continuing appropriations for the fiscal year 2002, and for other",
+    "b": "purposes.",
+    "kept": "purposes.",
+    "reason": "After the sidenote comes the second caption line 'purposes.'"
+   },
+   {
+    "run": 4,
+    "a": "purposes.",
+    "b": "",
+    "kept": "",
+    "reason": "'purposes.' already placed in run 3; nothing further printed here."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "107(c) and inserting in lieu thereof “October 31, 2001”.",
+    "kept": "107(c) and inserting in lieu thereof “October 31, 2001”.",
+    "reason": "Body line precedes the 'Ante, p. 261.' sidenote on the same baseline."
+   },
+   {
+    "run": 6,
+    "a": "107(c) and inserting in lieu thereof “October 31, 2001”.",
+    "b": "",
+    "kept": "",
+    "reason": "That body line was placed in run 5; nothing additional here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 107–53—OCT. 22, 2001"
+  },
+  {
+   "role": "running-head",
+   "text": "115 STAT. 269"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 107–53"
+  },
+  {
+   "role": "body",
+   "text": "107th Congress"
+  },
+  {
+   "role": "body",
+   "text": "Joint Resolution"
+  },
+  {
+   "role": "body",
+   "text": "Making further continuing appropriations for the fiscal year 2002, and for other"
+  },
+  {
+   "role": "sidenote",
+   "text": "Oct. 22, 2001"
+  },
+  {
+   "role": "body",
+   "text": "purposes."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H.J. Res. 69]"
+  },
+  {
+   "role": "body",
+   "text": "Resolved by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That Public Law"
+  },
+  {
+   "role": "body",
+   "text": "107–44 is further amended by striking the date specified in section"
+  },
+  {
+   "role": "body",
+   "text": "107(c) and inserting in lieu thereof “October 31, 2001”."
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 261."
+  },
+  {
+   "role": "body",
+   "text": "Approved October 22, 2001."
+  },
+  {
+   "role": "footnote",
+   "text": "LEGISLATIVE HISTORY—H.J. Res. 69:"
+  },
+  {
+   "role": "footnote",
+   "text": "CONGRESSIONAL RECORD, Vol. 147 (2001):"
+  },
+  {
+   "role": "footnote",
+   "text": "Oct. 17, considered and passed House and Senate."
+  }
+ ],
+ "disagreement_count": 6,
+ "tokens": {
+  "input_tokens": 19278,
+  "output_tokens": 1858,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.144,
+ "seconds": 104.6,
+ "created": "2026-09-08T11:42:42"
+}

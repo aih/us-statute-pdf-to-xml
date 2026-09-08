@@ -1,0 +1,1095 @@
+{
+ "granule_id": "STATUTE-60-Pg1062",
+ "package_id": "STATUTE-60",
+ "volume": 60,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To fix the rate of postage on domestic air mail, and for other purposes.",
+ "date_issued": "1946-08-14",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "1062",
+ "image": "data/gold/STATUTE-60-Pg1062/p1.png",
+ "image_sha256": "f265ed2ca0eb57d0b06e50969747701cbe9d78c61602e27e88639b39d325597e",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "1062"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAWS—CHS. 962–964—AUG. 13, 14, 1946      [60 STAT."
+    },
+    {
+     "role": "body",
+     "text": "nor until his physical, mental, and moral qualifications have been"
+    },
+    {
+     "role": "body",
+     "text": "established to the satisfaction of the Secretary of the Navy."
+    },
+    {
+     "role": "sidenote",
+     "text": "Repeals."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 20. The following Acts and parts of Acts are hereby repealed:"
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C. § 403."
+    },
+    {
+     "role": "body",
+     "text": "(a)  Section 2 of the Act of May 6, 1932 (47 Stat. 149)."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C. § 405."
+    },
+    {
+     "role": "body",
+     "text": "(b)  Subsection (a) of section 14 of the Act of June 23, 1938 (52"
+    },
+    {
+     "role": "body",
+     "text": "Stat. 951)."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C. § 855f;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Supp. V, § 855f."
+    },
+    {
+     "role": "body",
+     "text": "(c)  Section 307 of the Act of June 25, 1938 (52 Stat. 1182)."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, §§ 855f, 1032a."
+    },
+    {
+     "role": "body",
+     "text": "(d)  Sections 2 and 3 of the Act of January 30, 1941 (55 Stat. 4)."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C. §§ 1033,"
+    },
+    {
+     "role": "sidenote",
+     "text": "1042; Supp. V, § 1042"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "(e)  Section 8 of the Act of February 28, 1925 (43 Stat. 1082)."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C. § 61."
+    },
+    {
+     "role": "body",
+     "text": "(f)  Section 1379 of the Revised Statutes."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 13, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 963]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 14, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 5560]"
+    },
+    {
+     "role": "body",
+     "text": "To fix the rate of postage on domestic air mail, and for other purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 730]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Domestic air mail"
+    },
+    {
+     "role": "sidenote",
+     "text": "postage rate."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the rate of"
+    },
+    {
+     "role": "body",
+     "text": "postage on domestic air mail shall be 5 cents for each ounce or fraction"
+    },
+    {
+     "role": "body",
+     "text": "thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "“Domestic air mail.”"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. As used in this Act, “domestic air mail” shall embrace all"
+    },
+    {
+     "role": "body",
+     "text": "mailable matter being transported as mail by air within the conti-"
+    },
+    {
+     "role": "body",
+     "text": "nental United States, within any Territory or possession of the United"
+    },
+    {
+     "role": "body",
+     "text": "States, within any geographical area which is a protectorate of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Air mail in Alaska."
+    },
+    {
+     "role": "body",
+     "text": "United States, or between any of the aforesaid: Provided, That with"
+    },
+    {
+     "role": "body",
+     "text": "respect to mail transported under authority of section 1 of the Act"
+    },
+    {
+     "role": "body",
+     "text": "of October 14, 1940 (54 Stat. 1175; 39 U. S. C., 1940 edition, 488a),"
+    },
+    {
+     "role": "body",
+     "text": "the postage rate of 5 cents for each ounce or fraction of an ounce shall"
+    },
+    {
+     "role": "body",
+     "text": "be applicable only to mail of the first class, and for all other classes"
+    },
+    {
+     "role": "body",
+     "text": "the rates shall be as prescribed by that Act."
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective date."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. This Act shall take effect on the first day of the second"
+    },
+    {
+     "role": "body",
+     "text": "month following the month of enactment."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 14, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 964]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 14, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 5991]"
+    },
+    {
+     "role": "body",
+     "text": "To simplify and improve credit services to farmers and promote farm ownership"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 731]"
+    },
+    {
+     "role": "body",
+     "text": "by abolishing certain agricultural lending agencies and functions, by defining"
+    },
+    {
+     "role": "body",
+     "text": "the lending powers of the Secretary of Agriculture, by authorizing Government"
+    },
+    {
+     "role": "body",
+     "text": "insurance of loans to farmers, by creating preferences for loans and insured"
+    },
+    {
+     "role": "body",
+     "text": "mortgages to enable veterans to acquire farms, by providing additional specific"
+    },
+    {
+     "role": "body",
+     "text": "authority and directions with respect to the liquidation of resettlement projects"
+    },
+    {
+     "role": "body",
+     "text": "and rural rehabilitation projects for resettlement purposes, and for other"
+    },
+    {
+     "role": "body",
+     "text": "purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "SHORT TITLE"
+    },
+    {
+     "role": "sidenote",
+     "text": "Farmers' Home Ad-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ministration Act of"
+    },
+    {
+     "role": "sidenote",
+     "text": "1946."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. This Act may be cited as the “Farmers’ Home Adminis-"
+    },
+    {
+     "role": "body",
+     "text": "tration Act of 1946.”"
+    },
+    {
+     "role": "body",
+     "text": "DISPOSITION OF CERTAIN AGENCIES AND THEIR ASSETS AND PERSONNEL"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. (a) The following agencies, functions, powers, and duties"
+    },
+    {
+     "role": "body",
+     "text": "are hereby abolished and the following laws relating thereto repealed:"
+    },
+    {
+     "role": "sidenote",
+     "text": "FSA."
+    },
+    {
+     "role": "body",
+     "text": "(1) The Farm Security Administration and all of its functions,"
+    },
+    {
+     "role": "body",
+     "text": "powers, and duties."
+    },
+    {
+     "role": "sidenote",
+     "text": "FCA."
+    },
+    {
+     "role": "body",
+     "text": "(2) All functions, powers, and duties of the Governor of the Farm"
+    },
+    {
+     "role": "body",
+     "text": "Credit Administration which relate to the making, administration, and"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2421,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08796,
+   "seconds": 37.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "1062"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAWS—CHS. 962–964—AUG. 13, 14, 1946     [60 STAT."
+    },
+    {
+     "role": "body",
+     "text": "nor until his physical, mental, and moral qualifications have been"
+    },
+    {
+     "role": "body",
+     "text": "established to the satisfaction of the Secretary of the Navy."
+    },
+    {
+     "role": "sidenote",
+     "text": "Repeals."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 20. The following Acts and parts of Acts are hereby repealed:"
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C. § 403."
+    },
+    {
+     "role": "body",
+     "text": "(a)  Section 2 of the Act of May 6, 1932 (47 Stat. 149)."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C. § 405."
+    },
+    {
+     "role": "body",
+     "text": "(b)  Subsection (a) of section 14 of the Act of June 23, 1938 (52"
+    },
+    {
+     "role": "body",
+     "text": "Stat. 951)."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C. § 855f;"
+    },
+    {
+     "role": "sidenote",
+     "text": "Supp. V, § 855f."
+    },
+    {
+     "role": "body",
+     "text": "(c)  Section 307 of the Act of June 25, 1938 (52 Stat. 1182)."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C., Supp."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, §§ 855f, 1032a."
+    },
+    {
+     "role": "body",
+     "text": "(d)  Sections 2 and 3 of the Act of January 30, 1941 (55 Stat. 4)."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C. §§ 1033,"
+    },
+    {
+     "role": "sidenote",
+     "text": "1042; Supp. V, § 1042"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "(e)  Section 8 of the Act of February 28, 1925 (43 Stat. 1082)."
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C. § 61."
+    },
+    {
+     "role": "body",
+     "text": "(f)  Section 1379 of the Revised Statutes."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 13, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 963]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 14, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 5560]"
+    },
+    {
+     "role": "body",
+     "text": "To fix the rate of postage on domestic air mail, and for other purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 730]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Domestic air mail"
+    },
+    {
+     "role": "sidenote",
+     "text": "postage rate."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the rate of"
+    },
+    {
+     "role": "body",
+     "text": "postage on domestic air mail shall be 5 cents for each ounce or fraction"
+    },
+    {
+     "role": "body",
+     "text": "thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "\"Domestic air mail.\""
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. As used in this Act, \"domestic air mail\" shall embrace all"
+    },
+    {
+     "role": "body",
+     "text": "mailable matter being transported as mail by air within the conti-"
+    },
+    {
+     "role": "body",
+     "text": "nental United States, within any Territory or possession of the United"
+    },
+    {
+     "role": "body",
+     "text": "States, within any geographical area which is a protectorate of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Air mail in Alaska."
+    },
+    {
+     "role": "body",
+     "text": "United States, or between any of the aforesaid: Provided, That with"
+    },
+    {
+     "role": "body",
+     "text": "respect to mail transported under authority of section 1 of the Act"
+    },
+    {
+     "role": "body",
+     "text": "of October 14, 1940 (54 Stat. 1175; 39 U. S. C., 1940 edition, 488a),"
+    },
+    {
+     "role": "body",
+     "text": "the postage rate of 5 cents for each ounce or fraction of an ounce shall"
+    },
+    {
+     "role": "body",
+     "text": "be applicable only to mail of the first class, and for all other classes"
+    },
+    {
+     "role": "body",
+     "text": "the rates shall be as prescribed by that Act."
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective date."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. This Act shall take effect on the first day of the second"
+    },
+    {
+     "role": "body",
+     "text": "month following the month of enactment."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 14, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 964]"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 14, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 5991]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 731]"
+    },
+    {
+     "role": "body",
+     "text": "To simplify and improve credit services to farmers and promote farm ownership"
+    },
+    {
+     "role": "body",
+     "text": "by abolishing certain agricultural lending agencies and functions, by defining"
+    },
+    {
+     "role": "body",
+     "text": "the lending powers of the Secretary of Agriculture, by authorizing Government"
+    },
+    {
+     "role": "body",
+     "text": "insurance of loans to farmers, by creating preferences for loans and insured"
+    },
+    {
+     "role": "body",
+     "text": "mortgages to enable veterans to acquire farms, by providing additional specific"
+    },
+    {
+     "role": "body",
+     "text": "authority and directions with respect to the liquidation of resettlement projects"
+    },
+    {
+     "role": "body",
+     "text": "and rural rehabilitation projects for resettlement purposes, and for other"
+    },
+    {
+     "role": "body",
+     "text": "purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "SHORT TITLE"
+    },
+    {
+     "role": "sidenote",
+     "text": "Farmers' Home Ad-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ministration Act of"
+    },
+    {
+     "role": "sidenote",
+     "text": "1946."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. This Act may be cited as the \"Farmers' Home Adminis-"
+    },
+    {
+     "role": "body",
+     "text": "tration Act of 1946.\""
+    },
+    {
+     "role": "body",
+     "text": "DISPOSITION OF CERTAIN AGENCIES AND THEIR ASSETS AND PERSONNEL"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. (a) The following agencies, functions, powers, and duties"
+    },
+    {
+     "role": "body",
+     "text": "are hereby abolished and the following laws relating thereto repealed:"
+    },
+    {
+     "role": "sidenote",
+     "text": "FSA."
+    },
+    {
+     "role": "body",
+     "text": "(1) The Farm Security Administration and all of its functions,"
+    },
+    {
+     "role": "body",
+     "text": "powers, and duties."
+    },
+    {
+     "role": "sidenote",
+     "text": "FCA."
+    },
+    {
+     "role": "body",
+     "text": "(2) All functions, powers, and duties of the Governor of the Farm"
+    },
+    {
+     "role": "body",
+     "text": "Credit Administration which relate to the making, administration, and"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2385,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08705,
+   "seconds": 207.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11649,
+   "output_tokens": 752,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.07746,
+  "seconds": 16.1,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "AN ACT",
+    "b": "",
+    "kept": "AN ACT",
+    "reason": "\"AN ACT\" follows the chapter heading, matching the layout used for Chapter 963 above."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "AN ACT\n[Public Law 731]",
+    "kept": "",
+    "reason": "\"AN ACT\" and the [Public Law 731] sidenote do not belong here; they appear before and after the sidenote block respectively."
+   },
+   {
+    "run": 3,
+    "a": "[Public Law 731]",
+    "b": "",
+    "kept": "[Public Law 731]",
+    "reason": "The [Public Law 731] sidenote is printed alongside the beginning of the act title, as with [Public Law 730] above."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "1062"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAWS—CHS. 962–964—AUG. 13, 14, 1946      [60 STAT."
+  },
+  {
+   "role": "body",
+   "text": "nor until his physical, mental, and moral qualifications have been"
+  },
+  {
+   "role": "body",
+   "text": "established to the satisfaction of the Secretary of the Navy."
+  },
+  {
+   "role": "sidenote",
+   "text": "Repeals."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 20. The following Acts and parts of Acts are hereby repealed:"
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C. § 403."
+  },
+  {
+   "role": "body",
+   "text": "(a)  Section 2 of the Act of May 6, 1932 (47 Stat. 149)."
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C. § 405."
+  },
+  {
+   "role": "body",
+   "text": "(b)  Subsection (a) of section 14 of the Act of June 23, 1938 (52"
+  },
+  {
+   "role": "body",
+   "text": "Stat. 951)."
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C. § 855f;"
+  },
+  {
+   "role": "sidenote",
+   "text": "Supp. V, § 855f."
+  },
+  {
+   "role": "body",
+   "text": "(c)  Section 307 of the Act of June 25, 1938 (52 Stat. 1182)."
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C., Supp."
+  },
+  {
+   "role": "sidenote",
+   "text": "V, §§ 855f, 1032a."
+  },
+  {
+   "role": "body",
+   "text": "(d)  Sections 2 and 3 of the Act of January 30, 1941 (55 Stat. 4)."
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C. §§ 1033,"
+  },
+  {
+   "role": "sidenote",
+   "text": "1042; Supp. V, § 1042"
+  },
+  {
+   "role": "sidenote",
+   "text": "note."
+  },
+  {
+   "role": "body",
+   "text": "(e)  Section 8 of the Act of February 28, 1925 (43 Stat. 1082)."
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C. § 61."
+  },
+  {
+   "role": "body",
+   "text": "(f)  Section 1379 of the Revised Statutes."
+  },
+  {
+   "role": "body",
+   "text": "Approved August 13, 1946."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 963]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "August 14, 1946"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 5560]"
+  },
+  {
+   "role": "body",
+   "text": "To fix the rate of postage on domestic air mail, and for other purposes."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public Law 730]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Domestic air mail"
+  },
+  {
+   "role": "sidenote",
+   "text": "postage rate."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the rate of"
+  },
+  {
+   "role": "body",
+   "text": "postage on domestic air mail shall be 5 cents for each ounce or fraction"
+  },
+  {
+   "role": "body",
+   "text": "thereof."
+  },
+  {
+   "role": "sidenote",
+   "text": "“Domestic air mail.”"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. As used in this Act, “domestic air mail” shall embrace all"
+  },
+  {
+   "role": "body",
+   "text": "mailable matter being transported as mail by air within the conti-"
+  },
+  {
+   "role": "body",
+   "text": "nental United States, within any Territory or possession of the United"
+  },
+  {
+   "role": "body",
+   "text": "States, within any geographical area which is a protectorate of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Air mail in Alaska."
+  },
+  {
+   "role": "body",
+   "text": "United States, or between any of the aforesaid: Provided, That with"
+  },
+  {
+   "role": "body",
+   "text": "respect to mail transported under authority of section 1 of the Act"
+  },
+  {
+   "role": "body",
+   "text": "of October 14, 1940 (54 Stat. 1175; 39 U. S. C., 1940 edition, 488a),"
+  },
+  {
+   "role": "body",
+   "text": "the postage rate of 5 cents for each ounce or fraction of an ounce shall"
+  },
+  {
+   "role": "body",
+   "text": "be applicable only to mail of the first class, and for all other classes"
+  },
+  {
+   "role": "body",
+   "text": "the rates shall be as prescribed by that Act."
+  },
+  {
+   "role": "sidenote",
+   "text": "Effective date."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. This Act shall take effect on the first day of the second"
+  },
+  {
+   "role": "body",
+   "text": "month following the month of enactment."
+  },
+  {
+   "role": "body",
+   "text": "Approved August 14, 1946."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 964]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "August 14, 1946"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 5991]"
+  },
+  {
+   "role": "body",
+   "text": "To simplify and improve credit services to farmers and promote farm ownership"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public Law 731]"
+  },
+  {
+   "role": "body",
+   "text": "by abolishing certain agricultural lending agencies and functions, by defining"
+  },
+  {
+   "role": "body",
+   "text": "the lending powers of the Secretary of Agriculture, by authorizing Government"
+  },
+  {
+   "role": "body",
+   "text": "insurance of loans to farmers, by creating preferences for loans and insured"
+  },
+  {
+   "role": "body",
+   "text": "mortgages to enable veterans to acquire farms, by providing additional specific"
+  },
+  {
+   "role": "body",
+   "text": "authority and directions with respect to the liquidation of resettlement projects"
+  },
+  {
+   "role": "body",
+   "text": "and rural rehabilitation projects for resettlement purposes, and for other"
+  },
+  {
+   "role": "body",
+   "text": "purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled,"
+  },
+  {
+   "role": "body",
+   "text": "SHORT TITLE"
+  },
+  {
+   "role": "sidenote",
+   "text": "Farmers' Home Ad-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ministration Act of"
+  },
+  {
+   "role": "sidenote",
+   "text": "1946."
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. This Act may be cited as the “Farmers’ Home Adminis-"
+  },
+  {
+   "role": "body",
+   "text": "tration Act of 1946.”"
+  },
+  {
+   "role": "body",
+   "text": "DISPOSITION OF CERTAIN AGENCIES AND THEIR ASSETS AND PERSONNEL"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. (a) The following agencies, functions, powers, and duties"
+  },
+  {
+   "role": "body",
+   "text": "are hereby abolished and the following laws relating thereto repealed:"
+  },
+  {
+   "role": "sidenote",
+   "text": "FSA."
+  },
+  {
+   "role": "body",
+   "text": "(1) The Farm Security Administration and all of its functions,"
+  },
+  {
+   "role": "body",
+   "text": "powers, and duties."
+  },
+  {
+   "role": "sidenote",
+   "text": "FCA."
+  },
+  {
+   "role": "body",
+   "text": "(2) All functions, powers, and duties of the Governor of the Farm"
+  },
+  {
+   "role": "body",
+   "text": "Credit Administration which relate to the making, administration, and"
+  }
+ ],
+ "disagreement_count": 3,
+ "tokens": {
+  "input_tokens": 22472,
+  "output_tokens": 5558,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.25247,
+ "seconds": 261.2,
+ "created": "2026-09-08T12:28:50"
+}

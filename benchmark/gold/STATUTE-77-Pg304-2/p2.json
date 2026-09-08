@@ -1,0 +1,1022 @@
+{
+ "granule_id": "STATUTE-77-Pg304-2",
+ "package_id": "STATUTE-77",
+ "volume": 77,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to make certain changes in the functions of the Beach Erosion Board and the Board of Engineers for Rivers and Harbors, and for other purposes.",
+ "date_issued": "1963-11-07",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "305",
+ "image": "data/gold/STATUTE-77-Pg304-2/p2.png",
+ "image_sha256": "951fec57b6d2eb23e980f6b41ca80b03411fd8099a7a39fea4e950453e869941",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "77 STAT. ]                    PUBLIC LAW 88-173–NOV. 7, 1963                              305"
+    },
+    {
+     "role": "body",
+     "text": "Research Center which, except as hereinafter provided in section 3"
+    },
+    {
+     "role": "body",
+     "text": "hereof, shall be vested with all the functions of the Beach Erosion"
+    },
+    {
+     "role": "body",
+     "text": "Board, including the authority to make general investigations as pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "33 USC 426a."
+    },
+    {
+     "role": "body",
+     "text": "vided in section 1 of the Act approved July 31, 1945 (59 Stat. 508),"
+    },
+    {
+     "role": "body",
+     "text": "and such additional functions as the Chief of Engineers may assign."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The functions of the Coastal Engineering Research Center"
+    },
+    {
+     "role": "body",
+     "text": "established by section 1 of this Act, shall be conducted with the"
+    },
+    {
+     "role": "body",
+     "text": "guidance and advice of a Board on Coastal Engineering Research,"
+    },
+    {
+     "role": "body",
+     "text": "constituted by the Chief of Engineers in the same manner as the"
+    },
+    {
+     "role": "body",
+     "text": "present Beach Erosion Board."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. All functions of the Beach Erosion Board pertaining to"
+    },
+    {
+     "role": "body",
+     "text": "review of reports of investigations made concerning erosion of the"
+    },
+    {
+     "role": "body",
+     "text": "shores of coastal and lake waters, and the protection of such shores,"
+    },
+    {
+     "role": "body",
+     "text": "are hereby transferred to the Board established by section 3 of the"
+    },
+    {
+     "role": "body",
+     "text": "River and Harbor Act approved June 13, 1902, as amended (33 U.S.C."
+    },
+    {
+     "role": "sidenote",
+     "text": "32 Stat. 372."
+    },
+    {
+     "role": "body",
+     "text": "541), referred to as the Board of Engineers for Rivers and Harbors."
+    },
+    {
+     "role": "body",
+     "text": "Approved November 7, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-173"
+    },
+    {
+     "role": "sidenote",
+     "text": "November 7, 1963"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 8821]"
+    },
+    {
+     "role": "body",
+     "text": "To revise the provisions of law relating to the methods by which amounts made"
+    },
+    {
+     "role": "body",
+     "text": "available to the States pursuant to the Temporary Unemployment Compen-"
+    },
+    {
+     "role": "body",
+     "text": "sation Act of 1958 and title XII of the Social Security Act are to be restored"
+    },
+    {
+     "role": "body",
+     "text": "to the Treasury."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Unemployment"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That (a) section"
+    },
+    {
+     "role": "sidenote",
+     "text": "compensation pay-"
+    },
+    {
+     "role": "body",
+     "text": "3302(c)(2)(A) of the Internal Revenue Code of 1954 is amended to"
+    },
+    {
+     "role": "sidenote",
+     "text": "ments."
+    },
+    {
+     "role": "sidenote",
+     "text": "Restoration."
+    },
+    {
+     "role": "body",
+     "text": "read as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "68A Stat. 439."
+    },
+    {
+     "role": "body",
+     "text": "\"(A) in the case of a taxable year beginning on January"
+    },
+    {
+     "role": "sidenote",
+     "text": "26 USC 3302."
+    },
+    {
+     "role": "body",
+     "text": "1, 1963 (and in the case of any succeeding taxable year"
+    },
+    {
+     "role": "body",
+     "text": "beginning before January 1, 1968), as of the beginning of"
+    },
+    {
+     "role": "body",
+     "text": "which there is a balance of such advances, by 5 percent of the"
+    },
+    {
+     "role": "body",
+     "text": "tax imposed by section 3301 with respect to the wages paid"
+    },
+    {
+     "role": "body",
+     "text": "by such taxpayer during such taxable year which are"
+    },
+    {
+     "role": "body",
+     "text": "attributable to such State; and\"."
+    },
+    {
+     "role": "body",
+     "text": "(b) Section 3302(c)(2)(B) of such Code is amended by striking"
+    },
+    {
+     "role": "body",
+     "text": "out \"beginning with a consecutive January 1\" and inserting in lieu"
+    },
+    {
+     "role": "body",
+     "text": "thereof \"beginning on or after January 1, 1968,\"."
+    },
+    {
+     "role": "body",
+     "text": "(c) Section 3302(c) (2) of such Code is amended by adding after"
+    },
+    {
+     "role": "body",
+     "text": "subparagraph (B) the following:"
+    },
+    {
+     "role": "body",
+     "text": "\"At the request (made before November 1 of the taxable year)"
+    },
+    {
+     "role": "body",
+     "text": "of the Governor of any State, the Secretary of Labor shall, as"
+    },
+    {
+     "role": "body",
+     "text": "soon as practicable after June 30 or (if later) the date of the"
+    },
+    {
+     "role": "body",
+     "text": "receipt of such request, certify to such Governor and to the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Treasury the amount he estimates equals .15 per-"
+    },
+    {
+     "role": "body",
+     "text": "cent (plus an additional .15 percent for each additional 5-percent"
+    },
+    {
+     "role": "body",
+     "text": "reduction, provided by subparagraph (B)) of the total of the"
+    },
+    {
+     "role": "body",
+     "text": "remuneration which would have been subject to contributions"
+    },
+    {
+     "role": "body",
+     "text": "under the State unemployment compensation law with respect to"
+    },
+    {
+     "role": "body",
+     "text": "the calendar year preceding such certification if the dollar limit"
+    },
+    {
+     "role": "body",
+     "text": "on remuneration subject to contributions under such law were"
+    },
+    {
+     "role": "body",
+     "text": "equal to the dollar limit under section 3306(b) (1) for such calen-"
+    },
+    {
+     "role": "body",
+     "text": "dar year. If, after receiving such certification and before"
+    },
+    {
+     "role": "body",
+     "text": "November 10 of the taxable year, the State pays into the Federal"
+    },
+    {
+     "role": "body",
+     "text": "unemployment account the amount so certified (and designates"
+    },
+    {
+     "role": "body",
+     "text": "such payment as being made for purposes of this sentence), the"
+    },
+    {
+     "role": "footnote",
+     "text": "93-025 O-64-22"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2000,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07743,
+   "seconds": 23.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "77 STAT. ]"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 88-173–NOV. 7, 1963"
+    },
+    {
+     "role": "page-number",
+     "text": "305"
+    },
+    {
+     "role": "body",
+     "text": "Research Center which, except as hereinafter provided in section 3"
+    },
+    {
+     "role": "body",
+     "text": "hereof, shall be vested with all the functions of the Beach Erosion"
+    },
+    {
+     "role": "body",
+     "text": "Board, including the authority to make general investigations as pro-"
+    },
+    {
+     "role": "body",
+     "text": "vided in section 1 of the Act approved July 31, 1945 (59 Stat. 508),"
+    },
+    {
+     "role": "sidenote",
+     "text": "33 USC 426a."
+    },
+    {
+     "role": "body",
+     "text": "and such additional functions as the Chief of Engineers may assign."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The functions of the Coastal Engineering Research Center"
+    },
+    {
+     "role": "body",
+     "text": "established by section 1 of this Act, shall be conducted with the"
+    },
+    {
+     "role": "body",
+     "text": "guidance and advice of a Board on Coastal Engineering Research,"
+    },
+    {
+     "role": "body",
+     "text": "constituted by the Chief of Engineers in the same manner as the"
+    },
+    {
+     "role": "body",
+     "text": "present Beach Erosion Board."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. All functions of the Beach Erosion Board pertaining to"
+    },
+    {
+     "role": "body",
+     "text": "review of reports of investigations made concerning erosion of the"
+    },
+    {
+     "role": "body",
+     "text": "shores of coastal and lake waters, and the protection of such shores,"
+    },
+    {
+     "role": "body",
+     "text": "are hereby transferred to the Board established by section 3 of the"
+    },
+    {
+     "role": "body",
+     "text": "River and Harbor Act approved June 13, 1902, as amended (33 U.S.C."
+    },
+    {
+     "role": "body",
+     "text": "541), referred to as the Board of Engineers for Rivers and Harbors."
+    },
+    {
+     "role": "sidenote",
+     "text": "32 Stat. 372."
+    },
+    {
+     "role": "body",
+     "text": "Approved November 7, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-173"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "November 7, 1963"
+    },
+    {
+     "role": "body",
+     "text": "To revise the provisions of law relating to the methods by which amounts made"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 8821]"
+    },
+    {
+     "role": "body",
+     "text": "available to the States pursuant to the Temporary Unemployment Compen-"
+    },
+    {
+     "role": "body",
+     "text": "sation Act of 1958 and title XII of the Social Security Act are to be restored"
+    },
+    {
+     "role": "body",
+     "text": "to the Treasury."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That (a) section"
+    },
+    {
+     "role": "sidenote",
+     "text": "Unemployment"
+    },
+    {
+     "role": "body",
+     "text": "3302(c)(2)(A) of the Internal Revenue Code of 1954 is amended to"
+    },
+    {
+     "role": "sidenote",
+     "text": "compensation pay-"
+    },
+    {
+     "role": "body",
+     "text": "read as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "ments."
+    },
+    {
+     "role": "sidenote",
+     "text": "Restoration."
+    },
+    {
+     "role": "body",
+     "text": "\"(A) in the case of a taxable year beginning on January"
+    },
+    {
+     "role": "sidenote",
+     "text": "68A Stat. 439."
+    },
+    {
+     "role": "body",
+     "text": "1, 1963 (and in the case of any succeeding taxable year"
+    },
+    {
+     "role": "sidenote",
+     "text": "26 USC 3302."
+    },
+    {
+     "role": "body",
+     "text": "beginning before January 1, 1968), as of the beginning of"
+    },
+    {
+     "role": "body",
+     "text": "which there is a balance of such advances, by 5 percent of the"
+    },
+    {
+     "role": "body",
+     "text": "tax imposed by section 3301 with respect to the wages paid"
+    },
+    {
+     "role": "body",
+     "text": "by such taxpayer during such taxable year which are"
+    },
+    {
+     "role": "body",
+     "text": "attributable to such State; and\"."
+    },
+    {
+     "role": "body",
+     "text": "(b) Section 3302(c)(2)(B) of such Code is amended by striking"
+    },
+    {
+     "role": "body",
+     "text": "out \"beginning with a consecutive January 1\" and inserting in lieu"
+    },
+    {
+     "role": "body",
+     "text": "thereof \"beginning on or after January 1, 1968,\"."
+    },
+    {
+     "role": "body",
+     "text": "(c) Section 3302(c)(2) of such Code is amended by adding after"
+    },
+    {
+     "role": "body",
+     "text": "subparagraph (B) the following:"
+    },
+    {
+     "role": "body",
+     "text": "\"At the request (made before November 1 of the taxable year)"
+    },
+    {
+     "role": "body",
+     "text": "of the Governor of any State, the Secretary of Labor shall, as"
+    },
+    {
+     "role": "body",
+     "text": "soon as practicable after June 30 or (if later) the date of the"
+    },
+    {
+     "role": "body",
+     "text": "receipt of such request, certify to such Governor and to the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Treasury the amount he estimates equals .15 per-"
+    },
+    {
+     "role": "body",
+     "text": "cent (plus an additional .15 percent for each additional 5-percent"
+    },
+    {
+     "role": "body",
+     "text": "reduction, provided by subparagraph (B)) of the total of the"
+    },
+    {
+     "role": "body",
+     "text": "remuneration which would have been subject to contributions"
+    },
+    {
+     "role": "body",
+     "text": "under the State unemployment compensation law with respect to"
+    },
+    {
+     "role": "body",
+     "text": "the calendar year preceding such certification if the dollar limit"
+    },
+    {
+     "role": "body",
+     "text": "on remuneration subject to contributions under such law were"
+    },
+    {
+     "role": "body",
+     "text": "equal to the dollar limit under section 3306(b)(1) for such calen-"
+    },
+    {
+     "role": "body",
+     "text": "dar year. If, after receiving such certification and before"
+    },
+    {
+     "role": "body",
+     "text": "November 10 of the taxable year, the State pays into the Federal"
+    },
+    {
+     "role": "body",
+     "text": "unemployment account the amount so certified (and designates"
+    },
+    {
+     "role": "body",
+     "text": "such payment as being made for purposes of this sentence), the"
+    },
+    {
+     "role": "footnote",
+     "text": "93-025 O-64-22"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2024,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07803,
+   "seconds": 23.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11966,
+   "output_tokens": 2739,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.12872,
+  "seconds": 33.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "77 STAT. ]                    PUBLIC LAW 88-173–NOV. 7, 1963                              305",
+    "b": "77 STAT. ]\nPUBLIC LAW 88-173–NOV. 7, 1963\n305",
+    "kept": "77 STAT. ]\nPUBLIC LAW 88-173–NOV. 7, 1963\n305",
+    "reason": "Header has three separate elements: volume, title, and page number."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "vided in section 1 of the Act approved July 31, 1945 (59 Stat. 508),",
+    "kept": "vided in section 1 of the Act approved July 31, 1945 (59 Stat. 508),",
+    "reason": "The sidenote '33 USC 426a.' aligns with this body line, so the body line precedes it."
+   },
+   {
+    "run": 3,
+    "a": "vided in section 1 of the Act approved July 31, 1945 (59 Stat. 508),",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed before the sidenote; nothing printed here."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "541), referred to as the Board of Engineers for Rivers and Harbors.",
+    "kept": "541), referred to as the Board of Engineers for Rivers and Harbors.",
+    "reason": "Sidenote '32 Stat. 372.' aligns with this line, which comes first."
+   },
+   {
+    "run": 5,
+    "a": "541), referred to as the Board of Engineers for Rivers and Harbors.",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed before the sidenote."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "AN ACT",
+    "kept": "AN ACT",
+    "reason": "'AN ACT' is on the line with the sidenote 'November 7, 1963' and precedes it."
+   },
+   {
+    "run": 7,
+    "a": "AN ACT",
+    "b": "To revise the provisions of law relating to the methods by which amounts made",
+    "kept": "To revise the provisions of law relating to the methods by which amounts made",
+    "reason": "This line carries the sidenote '[H. R. 8821]' and follows the date sidenote."
+   },
+   {
+    "run": 8,
+    "a": "To revise the provisions of law relating to the methods by which amounts made",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing printed here."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "United States of America in Congress assembled, That (a) section",
+    "kept": "United States of America in Congress assembled, That (a) section",
+    "reason": "Aligned with sidenote 'Unemployment', so it precedes it."
+   },
+   {
+    "run": 10,
+    "a": "United States of America in Congress assembled, That (a) section",
+    "b": "3302(c)(2)(A) of the Internal Revenue Code of 1954 is amended to",
+    "kept": "3302(c)(2)(A) of the Internal Revenue Code of 1954 is amended to",
+    "reason": "Aligned with 'compensation pay-' sidenote, so placed before it."
+   },
+   {
+    "run": 11,
+    "a": "3302(c)(2)(A) of the Internal Revenue Code of 1954 is amended to",
+    "b": "read as follows:",
+    "kept": "read as follows:",
+    "reason": "Aligned with 'ments.' sidenote, so placed before it."
+   },
+   {
+    "run": 12,
+    "a": "read as follows:",
+    "b": "\"(A) in the case of a taxable year beginning on January",
+    "kept": "\"(A) in the case of a taxable year beginning on January",
+    "reason": "Aligned with '68A Stat. 439.' sidenote, so placed before it."
+   },
+   {
+    "run": 13,
+    "a": "\"(A) in the case of a taxable year beginning on January",
+    "b": "1, 1963 (and in the case of any succeeding taxable year",
+    "kept": "1, 1963 (and in the case of any succeeding taxable year",
+    "reason": "Aligned with '26 USC 3302.' sidenote, so placed before it."
+   },
+   {
+    "run": 14,
+    "a": "1, 1963 (and in the case of any succeeding taxable year",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing printed here."
+   },
+   {
+    "run": 15,
+    "a": "(c) Section 3302(c) (2) of such Code is amended by adding after",
+    "b": "(c) Section 3302(c)(2) of such Code is amended by adding after",
+    "kept": "(c) Section 3302(c) (2) of such Code is amended by adding after",
+    "reason": "Image shows a space between '3302(c)' and '(2)'."
+   },
+   {
+    "run": 16,
+    "a": "equal to the dollar limit under section 3306(b) (1) for such calen-",
+    "b": "equal to the dollar limit under section 3306(b)(1) for such calen-",
+    "kept": "equal to the dollar limit under section 3306(b) (1) for such calen-",
+    "reason": "Image shows a space between '(b)' and '(1)'."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "77 STAT. ]"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 88-173–NOV. 7, 1963"
+  },
+  {
+   "role": "page-number",
+   "text": "305"
+  },
+  {
+   "role": "body",
+   "text": "Research Center which, except as hereinafter provided in section 3"
+  },
+  {
+   "role": "body",
+   "text": "hereof, shall be vested with all the functions of the Beach Erosion"
+  },
+  {
+   "role": "body",
+   "text": "Board, including the authority to make general investigations as pro-"
+  },
+  {
+   "role": "body",
+   "text": "vided in section 1 of the Act approved July 31, 1945 (59 Stat. 508),"
+  },
+  {
+   "role": "sidenote",
+   "text": "33 USC 426a."
+  },
+  {
+   "role": "body",
+   "text": "and such additional functions as the Chief of Engineers may assign."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The functions of the Coastal Engineering Research Center"
+  },
+  {
+   "role": "body",
+   "text": "established by section 1 of this Act, shall be conducted with the"
+  },
+  {
+   "role": "body",
+   "text": "guidance and advice of a Board on Coastal Engineering Research,"
+  },
+  {
+   "role": "body",
+   "text": "constituted by the Chief of Engineers in the same manner as the"
+  },
+  {
+   "role": "body",
+   "text": "present Beach Erosion Board."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. All functions of the Beach Erosion Board pertaining to"
+  },
+  {
+   "role": "body",
+   "text": "review of reports of investigations made concerning erosion of the"
+  },
+  {
+   "role": "body",
+   "text": "shores of coastal and lake waters, and the protection of such shores,"
+  },
+  {
+   "role": "body",
+   "text": "are hereby transferred to the Board established by section 3 of the"
+  },
+  {
+   "role": "body",
+   "text": "River and Harbor Act approved June 13, 1902, as amended (33 U.S.C."
+  },
+  {
+   "role": "body",
+   "text": "541), referred to as the Board of Engineers for Rivers and Harbors."
+  },
+  {
+   "role": "sidenote",
+   "text": "32 Stat. 372."
+  },
+  {
+   "role": "body",
+   "text": "Approved November 7, 1963."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 88-173"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "November 7, 1963"
+  },
+  {
+   "role": "body",
+   "text": "To revise the provisions of law relating to the methods by which amounts made"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 8821]"
+  },
+  {
+   "role": "body",
+   "text": "available to the States pursuant to the Temporary Unemployment Compen-"
+  },
+  {
+   "role": "body",
+   "text": "sation Act of 1958 and title XII of the Social Security Act are to be restored"
+  },
+  {
+   "role": "body",
+   "text": "to the Treasury."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That (a) section"
+  },
+  {
+   "role": "sidenote",
+   "text": "Unemployment"
+  },
+  {
+   "role": "body",
+   "text": "3302(c)(2)(A) of the Internal Revenue Code of 1954 is amended to"
+  },
+  {
+   "role": "sidenote",
+   "text": "compensation pay-"
+  },
+  {
+   "role": "body",
+   "text": "read as follows:"
+  },
+  {
+   "role": "sidenote",
+   "text": "ments."
+  },
+  {
+   "role": "sidenote",
+   "text": "Restoration."
+  },
+  {
+   "role": "body",
+   "text": "\"(A) in the case of a taxable year beginning on January"
+  },
+  {
+   "role": "sidenote",
+   "text": "68A Stat. 439."
+  },
+  {
+   "role": "body",
+   "text": "1, 1963 (and in the case of any succeeding taxable year"
+  },
+  {
+   "role": "sidenote",
+   "text": "26 USC 3302."
+  },
+  {
+   "role": "body",
+   "text": "beginning before January 1, 1968), as of the beginning of"
+  },
+  {
+   "role": "body",
+   "text": "which there is a balance of such advances, by 5 percent of the"
+  },
+  {
+   "role": "body",
+   "text": "tax imposed by section 3301 with respect to the wages paid"
+  },
+  {
+   "role": "body",
+   "text": "by such taxpayer during such taxable year which are"
+  },
+  {
+   "role": "body",
+   "text": "attributable to such State; and\"."
+  },
+  {
+   "role": "body",
+   "text": "(b) Section 3302(c)(2)(B) of such Code is amended by striking"
+  },
+  {
+   "role": "body",
+   "text": "out \"beginning with a consecutive January 1\" and inserting in lieu"
+  },
+  {
+   "role": "body",
+   "text": "thereof \"beginning on or after January 1, 1968,\"."
+  },
+  {
+   "role": "body",
+   "text": "(c) Section 3302(c) (2) of such Code is amended by adding after"
+  },
+  {
+   "role": "body",
+   "text": "subparagraph (B) the following:"
+  },
+  {
+   "role": "body",
+   "text": "\"At the request (made before November 1 of the taxable year)"
+  },
+  {
+   "role": "body",
+   "text": "of the Governor of any State, the Secretary of Labor shall, as"
+  },
+  {
+   "role": "body",
+   "text": "soon as practicable after June 30 or (if later) the date of the"
+  },
+  {
+   "role": "body",
+   "text": "receipt of such request, certify to such Governor and to the"
+  },
+  {
+   "role": "body",
+   "text": "Secretary of the Treasury the amount he estimates equals .15 per-"
+  },
+  {
+   "role": "body",
+   "text": "cent (plus an additional .15 percent for each additional 5-percent"
+  },
+  {
+   "role": "body",
+   "text": "reduction, provided by subparagraph (B)) of the total of the"
+  },
+  {
+   "role": "body",
+   "text": "remuneration which would have been subject to contributions"
+  },
+  {
+   "role": "body",
+   "text": "under the State unemployment compensation law with respect to"
+  },
+  {
+   "role": "body",
+   "text": "the calendar year preceding such certification if the dollar limit"
+  },
+  {
+   "role": "body",
+   "text": "on remuneration subject to contributions under such law were"
+  },
+  {
+   "role": "body",
+   "text": "equal to the dollar limit under section 3306(b) (1) for such calen-"
+  },
+  {
+   "role": "body",
+   "text": "dar year. If, after receiving such certification and before"
+  },
+  {
+   "role": "body",
+   "text": "November 10 of the taxable year, the State pays into the Federal"
+  },
+  {
+   "role": "body",
+   "text": "unemployment account the amount so certified (and designates"
+  },
+  {
+   "role": "body",
+   "text": "such payment as being made for purposes of this sentence), the"
+  },
+  {
+   "role": "footnote",
+   "text": "93-025 O-64-22"
+  }
+ ],
+ "disagreement_count": 16,
+ "tokens": {
+  "input_tokens": 22789,
+  "output_tokens": 6763,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.28418,
+ "seconds": 80.4,
+ "created": "2026-09-08T12:31:29"
+}

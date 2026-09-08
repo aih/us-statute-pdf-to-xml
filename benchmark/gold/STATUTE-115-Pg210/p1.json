@@ -1,0 +1,669 @@
+{
+ "granule_id": "STATUTE-115-Pg210",
+ "package_id": "STATUTE-115",
+ "volume": 115,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "An act to provide further protections for the watershed of the Little Sandy River as part of the Bull Run Watershed Management Unit, Oregon, and for other purposes",
+ "date_issued": "2001-08-20",
+ "pdf_page": 1,
+ "pdf_pages": 3,
+ "stat_page": "210",
+ "image": "data/gold/STATUTE-115-Pg210/p1.png",
+ "image_sha256": "f2cdfe6c9edea3de94437c2f51e93352749bf85b08385019f76c183bf1940a3b",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "115 STAT. 210                    PUBLIC LAW 107–30—AUG. 20, 2001"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 107–30"
+    },
+    {
+     "role": "body",
+     "text": "107th Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Aug. 20, 2001"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.R. 427]"
+    },
+    {
+     "role": "body",
+     "text": "To provide further protections for the watershed of the Little Sandy River as"
+    },
+    {
+     "role": "body",
+     "text": "part of the Bull Run Watershed Management Unit, Oregon, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of"
+    },
+    {
+     "role": "body",
+     "text": "the United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. INCLUSION OF ADDITIONAL PORTION OF THE LITTLE"
+    },
+    {
+     "role": "body",
+     "text": "SANDY RIVER WATERSHED IN THE BULL RUN WATER-"
+    },
+    {
+     "role": "body",
+     "text": "SHED MANAGEMENT UNIT, OREGON."
+    },
+    {
+     "role": "body",
+     "text": "(a) IN GENERAL.—Public Law 95–200 (16 U.S.C. 482b note;"
+    },
+    {
+     "role": "body",
+     "text": "91 Stat. 1425) is amended by striking section 1 and inserting"
+    },
+    {
+     "role": "body",
+     "text": "the following:"
+    },
+    {
+     "role": "body",
+     "text": "“SECTION 1. ESTABLISHMENT OF SPECIAL RESOURCES MANAGEMENT"
+    },
+    {
+     "role": "body",
+     "text": "UNIT; DEFINITION OF SECRETARY."
+    },
+    {
+     "role": "body",
+     "text": "“(a) DEFINITION OF SECRETARY.—In this Act, the term ‘Sec-"
+    },
+    {
+     "role": "body",
+     "text": "retary’ means—"
+    },
+    {
+     "role": "body",
+     "text": "“(1) with respect to land administered by the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of Agriculture, the Secretary of Agriculture; and"
+    },
+    {
+     "role": "body",
+     "text": "“(2) with respect to land administered by the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Interior, the Secretary of the Interior."
+    },
+    {
+     "role": "body",
+     "text": "“(b) ESTABLISHMENT.—"
+    },
+    {
+     "role": "body",
+     "text": "“(1) IN GENERAL.—There is established, subject to valid"
+    },
+    {
+     "role": "body",
+     "text": "existing rights, a special resources management unit in the"
+    },
+    {
+     "role": "body",
+     "text": "State of Oregon, comprising approximately 98,272 acres, as"
+    },
+    {
+     "role": "body",
+     "text": "depicted on a map dated May 2000 and entitled ‘Bull Run"
+    },
+    {
+     "role": "body",
+     "text": "Watershed Management Unit’."
+    },
+    {
+     "role": "body",
+     "text": "“(2) MAP.—The map described in paragraph (1) shall be"
+    },
+    {
+     "role": "body",
+     "text": "on file and available for public inspection in the offices of—"
+    },
+    {
+     "role": "body",
+     "text": "“(A) the Regional Forester-Pacific Northwest Region"
+    },
+    {
+     "role": "body",
+     "text": "of the Forest Service; and"
+    },
+    {
+     "role": "body",
+     "text": "“(B) the Oregon State Director of the Bureau of Land"
+    },
+    {
+     "role": "body",
+     "text": "Management."
+    },
+    {
+     "role": "body",
+     "text": "“(3) BOUNDARY ADJUSTMENTS.—The Secretary may periodi-"
+    },
+    {
+     "role": "body",
+     "text": "cally make such minor adjustments in the boundaries of the"
+    },
+    {
+     "role": "body",
+     "text": "unit as are necessary, after consulting with the city and pro-"
+    },
+    {
+     "role": "body",
+     "text": "viding for appropriate public notice and hearings.”."
+    },
+    {
+     "role": "body",
+     "text": "(b) CONFORMING AND TECHNICAL AMENDMENTS.—"
+    },
+    {
+     "role": "body",
+     "text": "(1) SECRETARY.—Public Law 95–200 (16 U.S.C. 482b note;"
+    },
+    {
+     "role": "body",
+     "text": "91 Stat. 1425) is amended by striking “Secretary of Agriculture”"
+    },
+    {
+     "role": "body",
+     "text": "each place it appears (except subsection (b) of section 1, as"
+    },
+    {
+     "role": "body",
+     "text": "added by subsection (a), and except in the amendments made"
+    },
+    {
+     "role": "body",
+     "text": "by paragraph (2)) and inserting “Secretary”."
+    },
+    {
+     "role": "body",
+     "text": "(2) APPLICABLE LAW.—"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5354,
+    "output_tokens": 1522,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0652,
+   "seconds": 17.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "115 STAT. 210"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 107–30—AUG. 20, 2001"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 107–30"
+    },
+    {
+     "role": "body",
+     "text": "107th Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Aug. 20, 2001"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.R. 427]"
+    },
+    {
+     "role": "body",
+     "text": "To provide further protections for the watershed of the Little Sandy River as"
+    },
+    {
+     "role": "body",
+     "text": "part of the Bull Run Watershed Management Unit, Oregon, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of"
+    },
+    {
+     "role": "body",
+     "text": "the United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. INCLUSION OF ADDITIONAL PORTION OF THE LITTLE"
+    },
+    {
+     "role": "body",
+     "text": "SANDY RIVER WATERSHED IN THE BULL RUN WATER-"
+    },
+    {
+     "role": "body",
+     "text": "SHED MANAGEMENT UNIT, OREGON."
+    },
+    {
+     "role": "body",
+     "text": "(a) IN GENERAL.—Public Law 95–200 (16 U.S.C. 482b note;"
+    },
+    {
+     "role": "body",
+     "text": "91 Stat. 1425) is amended by striking section 1 and inserting"
+    },
+    {
+     "role": "body",
+     "text": "the following:"
+    },
+    {
+     "role": "body",
+     "text": "“SECTION 1. ESTABLISHMENT OF SPECIAL RESOURCES MANAGEMENT"
+    },
+    {
+     "role": "body",
+     "text": "UNIT; DEFINITION OF SECRETARY."
+    },
+    {
+     "role": "body",
+     "text": "“(a) DEFINITION OF SECRETARY.—In this Act, the term ‘Sec-"
+    },
+    {
+     "role": "body",
+     "text": "retary’ means—"
+    },
+    {
+     "role": "body",
+     "text": "“(1) with respect to land administered by the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of Agriculture, the Secretary of Agriculture; and"
+    },
+    {
+     "role": "body",
+     "text": "“(2) with respect to land administered by the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Interior, the Secretary of the Interior."
+    },
+    {
+     "role": "body",
+     "text": "“(b) ESTABLISHMENT.—"
+    },
+    {
+     "role": "body",
+     "text": "“(1) IN GENERAL.—There is established, subject to valid"
+    },
+    {
+     "role": "body",
+     "text": "existing rights, a special resources management unit in the"
+    },
+    {
+     "role": "body",
+     "text": "State of Oregon, comprising approximately 98,272 acres, as"
+    },
+    {
+     "role": "body",
+     "text": "depicted on a map dated May 2000 and entitled ‘Bull Run"
+    },
+    {
+     "role": "body",
+     "text": "Watershed Management Unit’."
+    },
+    {
+     "role": "body",
+     "text": "“(2) MAP.—The map described in paragraph (1) shall be"
+    },
+    {
+     "role": "body",
+     "text": "on file and available for public inspection in the offices of—"
+    },
+    {
+     "role": "body",
+     "text": "“(A) the Regional Forester-Pacific Northwest Region"
+    },
+    {
+     "role": "body",
+     "text": "of the Forest Service; and"
+    },
+    {
+     "role": "body",
+     "text": "“(B) the Oregon State Director of the Bureau of Land"
+    },
+    {
+     "role": "body",
+     "text": "Management."
+    },
+    {
+     "role": "body",
+     "text": "“(3) BOUNDARY ADJUSTMENTS.—The Secretary may periodi-"
+    },
+    {
+     "role": "body",
+     "text": "cally make such minor adjustments in the boundaries of the"
+    },
+    {
+     "role": "body",
+     "text": "unit as are necessary, after consulting with the city and pro-"
+    },
+    {
+     "role": "body",
+     "text": "viding for appropriate public notice and hearings.”."
+    },
+    {
+     "role": "body",
+     "text": "(b) CONFORMING AND TECHNICAL AMENDMENTS.—"
+    },
+    {
+     "role": "body",
+     "text": "(1) SECRETARY.—Public Law 95–200 (16 U.S.C. 482b note;"
+    },
+    {
+     "role": "body",
+     "text": "91 Stat. 1425) is amended by striking “Secretary of Agriculture”"
+    },
+    {
+     "role": "body",
+     "text": "each place it appears (except subsection (b) of section 1, as"
+    },
+    {
+     "role": "body",
+     "text": "added by subsection (a), and except in the amendments made"
+    },
+    {
+     "role": "body",
+     "text": "by paragraph (2)) and inserting “Secretary”."
+    },
+    {
+     "role": "body",
+     "text": "(2) APPLICABLE LAW.—"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5357,
+    "output_tokens": 1505,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.06477,
+   "seconds": 16.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 10161,
+   "output_tokens": 377,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06065,
+  "seconds": 8.6,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "115 STAT. 210                    PUBLIC LAW 107–30—AUG. 20, 2001",
+    "b": "115 STAT. 210\nPUBLIC LAW 107–30—AUG. 20, 2001",
+    "kept": "115 STAT. 210\nPUBLIC LAW 107–30—AUG. 20, 2001",
+    "reason": "The head band contains two distinct printed elements set apart on the same baseline: the volume/page citation at the left margin and the centered running head; they are recorded as separate lines rather than joined with invented spacing."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "115 STAT. 210"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 107–30—AUG. 20, 2001"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 107–30"
+  },
+  {
+   "role": "body",
+   "text": "107th Congress"
+  },
+  {
+   "role": "body",
+   "text": "An Act"
+  },
+  {
+   "role": "sidenote",
+   "text": "Aug. 20, 2001"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H.R. 427]"
+  },
+  {
+   "role": "body",
+   "text": "To provide further protections for the watershed of the Little Sandy River as"
+  },
+  {
+   "role": "body",
+   "text": "part of the Bull Run Watershed Management Unit, Oregon, and for other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of"
+  },
+  {
+   "role": "body",
+   "text": "the United States of America in Congress assembled,"
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. INCLUSION OF ADDITIONAL PORTION OF THE LITTLE"
+  },
+  {
+   "role": "body",
+   "text": "SANDY RIVER WATERSHED IN THE BULL RUN WATER-"
+  },
+  {
+   "role": "body",
+   "text": "SHED MANAGEMENT UNIT, OREGON."
+  },
+  {
+   "role": "body",
+   "text": "(a) IN GENERAL.—Public Law 95–200 (16 U.S.C. 482b note;"
+  },
+  {
+   "role": "body",
+   "text": "91 Stat. 1425) is amended by striking section 1 and inserting"
+  },
+  {
+   "role": "body",
+   "text": "the following:"
+  },
+  {
+   "role": "body",
+   "text": "“SECTION 1. ESTABLISHMENT OF SPECIAL RESOURCES MANAGEMENT"
+  },
+  {
+   "role": "body",
+   "text": "UNIT; DEFINITION OF SECRETARY."
+  },
+  {
+   "role": "body",
+   "text": "“(a) DEFINITION OF SECRETARY.—In this Act, the term ‘Sec-"
+  },
+  {
+   "role": "body",
+   "text": "retary’ means—"
+  },
+  {
+   "role": "body",
+   "text": "“(1) with respect to land administered by the Secretary"
+  },
+  {
+   "role": "body",
+   "text": "of Agriculture, the Secretary of Agriculture; and"
+  },
+  {
+   "role": "body",
+   "text": "“(2) with respect to land administered by the Secretary"
+  },
+  {
+   "role": "body",
+   "text": "of the Interior, the Secretary of the Interior."
+  },
+  {
+   "role": "body",
+   "text": "“(b) ESTABLISHMENT.—"
+  },
+  {
+   "role": "body",
+   "text": "“(1) IN GENERAL.—There is established, subject to valid"
+  },
+  {
+   "role": "body",
+   "text": "existing rights, a special resources management unit in the"
+  },
+  {
+   "role": "body",
+   "text": "State of Oregon, comprising approximately 98,272 acres, as"
+  },
+  {
+   "role": "body",
+   "text": "depicted on a map dated May 2000 and entitled ‘Bull Run"
+  },
+  {
+   "role": "body",
+   "text": "Watershed Management Unit’."
+  },
+  {
+   "role": "body",
+   "text": "“(2) MAP.—The map described in paragraph (1) shall be"
+  },
+  {
+   "role": "body",
+   "text": "on file and available for public inspection in the offices of—"
+  },
+  {
+   "role": "body",
+   "text": "“(A) the Regional Forester-Pacific Northwest Region"
+  },
+  {
+   "role": "body",
+   "text": "of the Forest Service; and"
+  },
+  {
+   "role": "body",
+   "text": "“(B) the Oregon State Director of the Bureau of Land"
+  },
+  {
+   "role": "body",
+   "text": "Management."
+  },
+  {
+   "role": "body",
+   "text": "“(3) BOUNDARY ADJUSTMENTS.—The Secretary may periodi-"
+  },
+  {
+   "role": "body",
+   "text": "cally make such minor adjustments in the boundaries of the"
+  },
+  {
+   "role": "body",
+   "text": "unit as are necessary, after consulting with the city and pro-"
+  },
+  {
+   "role": "body",
+   "text": "viding for appropriate public notice and hearings.”."
+  },
+  {
+   "role": "body",
+   "text": "(b) CONFORMING AND TECHNICAL AMENDMENTS.—"
+  },
+  {
+   "role": "body",
+   "text": "(1) SECRETARY.—Public Law 95–200 (16 U.S.C. 482b note;"
+  },
+  {
+   "role": "body",
+   "text": "91 Stat. 1425) is amended by striking “Secretary of Agriculture”"
+  },
+  {
+   "role": "body",
+   "text": "each place it appears (except subsection (b) of section 1, as"
+  },
+  {
+   "role": "body",
+   "text": "added by subsection (a), and except in the amendments made"
+  },
+  {
+   "role": "body",
+   "text": "by paragraph (2)) and inserting “Secretary”."
+  },
+  {
+   "role": "body",
+   "text": "(2) APPLICABLE LAW.—"
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 20872,
+  "output_tokens": 3404,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.19062,
+ "seconds": 43.0,
+ "created": "2026-09-08T12:32:12"
+}

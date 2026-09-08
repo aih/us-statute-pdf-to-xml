@@ -1,0 +1,1179 @@
+{
+ "granule_id": "STATUTE-54-Pg51-2",
+ "package_id": "STATUTE-54",
+ "volume": 54,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To authorize the Administrator of Veterans' Affairs to exchange certain property located at Veterans' Administration facility, Tuskegee, Alabama, title to which is now vested in the United Stat",
+ "date_issued": "1940-03-15",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "51",
+ "image": "data/gold/STATUTE-54-Pg51-2/p1.png",
+ "image_sha256": "62aa6bb5c40152b7fa250f64da1251015c534cdc4e9109ab7e6589298d02c6e7",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "54 STAT.]    76TH CONG., 3D SESS.—CHS. 56-58—MAR. 15, 1940"
+    },
+    {
+     "role": "page-number",
+     "text": "51"
+    },
+    {
+     "role": "sidenote",
+     "text": "Commemorative exercises by Congress."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That the Senate and the House of Representatives shall"
+    },
+    {
+     "role": "body",
+     "text": "conduct suitable exercises whereby Congress may mark the anniversary."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 15, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 57]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 15, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 547]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 434]"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 23 of the Act of March 4, 1909, relating to copyrights."
+    },
+    {
+     "role": "sidenote",
+     "text": "Copyright Act of 1909, amendment."
+    },
+    {
+     "role": "sidenote",
+     "text": "Renewals and extensions."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 23 of"
+    },
+    {
+     "role": "body",
+     "text": "the Act of March 4, 1909 (35 Stat. 1080; U. S. C., title 17, sec. 23),"
+    },
+    {
+     "role": "body",
+     "text": "is hereby amended by deleting from the second proviso clause thereof"
+    },
+    {
+     "role": "body",
+     "text": "the words \"when such contribution has been separately registered\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 15, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 58]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 15, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1088]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 435]"
+    },
+    {
+     "role": "body",
+     "text": "To authorize the Administrator of Veterans' Affairs to exchange certain property"
+    },
+    {
+     "role": "body",
+     "text": "located at Veterans' Administration facility, Tuskegee, Alabama, title to which"
+    },
+    {
+     "role": "body",
+     "text": "is now vested in the United States, for certain property of the Tuskegee Normal"
+    },
+    {
+     "role": "body",
+     "text": "and Industrial Institute."
+    },
+    {
+     "role": "sidenote",
+     "text": "Tuskegee, Ala."
+    },
+    {
+     "role": "sidenote",
+     "text": "Exchange of lands at, authorized."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Admin-"
+    },
+    {
+     "role": "body",
+     "text": "istrator of Veterans' Affairs is hereby authorized and directed to"
+    },
+    {
+     "role": "body",
+     "text": "transfer to the Tuskegee Normal and Industrial Institute, Tuskegee"
+    },
+    {
+     "role": "body",
+     "text": "Institute, Alabama, title to the land described in subsection (a) of"
+    },
+    {
+     "role": "body",
+     "text": "this Act, now vested in the United States, in exchange for certain"
+    },
+    {
+     "role": "body",
+     "text": "property, described in subsection (b) of this Act, from the Tuskegee"
+    },
+    {
+     "role": "body",
+     "text": "Normal and Industrial Institute."
+    },
+    {
+     "role": "sidenote",
+     "text": "Property transferred by U.S."
+    },
+    {
+     "role": "body",
+     "text": "(a) The following-described property located in the northwest"
+    },
+    {
+     "role": "body",
+     "text": "corner of the northeast quarter of the southwest quarter of section 23,"
+    },
+    {
+     "role": "body",
+     "text": "township 17, range 23 east, Macon County, Alabama, and being all"
+    },
+    {
+     "role": "body",
+     "text": "that portion of the Government reservation lying west of the old"
+    },
+    {
+     "role": "body",
+     "text": "Chehaw Road:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Description."
+    },
+    {
+     "role": "body",
+     "text": "Beginning at a point, said point being the northwest corner of"
+    },
+    {
+     "role": "body",
+     "text": "the northeast quarter of the southwest quarter of said section 23,"
+    },
+    {
+     "role": "body",
+     "text": "said point also being the northwest corner of that part of the Govern-"
+    },
+    {
+     "role": "body",
+     "text": "ment reservation lying west of the old Chehaw Road; thence east"
+    },
+    {
+     "role": "body",
+     "text": "along the north line of the northeast quarter of the southwest quarter"
+    },
+    {
+     "role": "body",
+     "text": "of said section 23, same also being the north line of that part of the"
+    },
+    {
+     "role": "body",
+     "text": "Government reservation lying west of the old Chehaw Road, a dis-"
+    },
+    {
+     "role": "body",
+     "text": "tance of three and four-tenths chains to a point in the west side of"
+    },
+    {
+     "role": "body",
+     "text": "the old Chehaw Road; thence south twenty-five degrees east along"
+    },
+    {
+     "role": "body",
+     "text": "the west line of the old Chehaw Road, a distance of three and thirty-"
+    },
+    {
+     "role": "body",
+     "text": "four one-hundredths chains to a point, said point being in the south-"
+    },
+    {
+     "role": "body",
+     "text": "erly boundary line of the Government reservation; thence west along"
+    },
+    {
+     "role": "body",
+     "text": "the southerly boundary line of the Government reservation, a distance"
+    },
+    {
+     "role": "body",
+     "text": "of four and eighty-one one-hundredths chains to the west line of the"
+    },
+    {
+     "role": "body",
+     "text": "northeast quarter of the southwest quarter of said section 23; thence"
+    },
+    {
+     "role": "body",
+     "text": "north along the west line of the northeast quarter of the south-"
+    },
+    {
+     "role": "body",
+     "text": "west quarter of said section 23, a distance of three and three one-"
+    },
+    {
+     "role": "body",
+     "text": "hundredths chains to the point of beginning, containing, in all, one"
+    },
+    {
+     "role": "body",
+     "text": "and twenty-four one-hundredths acres more or less."
+    },
+    {
+     "role": "sidenote",
+     "text": "Property transferred by Tuskegee Normal and Industrial Institute."
+    },
+    {
+     "role": "body",
+     "text": "(b) The following-described property located in the north half of"
+    },
+    {
+     "role": "body",
+     "text": "the southeast quarter of section 23, township 17, range 23 east, Macon"
+    },
+    {
+     "role": "body",
+     "text": "County, Alabama:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Description."
+    },
+    {
+     "role": "body",
+     "text": "Beginning at a point, said point being in the northeast quarter of"
+    },
+    {
+     "role": "body",
+     "text": "the southeast quarter of said section 23, and also being three and"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2267,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08411,
+   "seconds": 118.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "54 STAT.]     76TH CONG., 3D SESS.—CHS. 56-58—MAR. 15, 1940"
+    },
+    {
+     "role": "page-number",
+     "text": "51"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That the Senate and the House of Representatives shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "Commemorative ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ercises by Congress."
+    },
+    {
+     "role": "body",
+     "text": "conduct suitable exercises whereby Congress may mark the anniversary."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 15, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 57]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 15, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 547]"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 23 of the Act of March 4, 1909, relating to copyrights."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 434]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Copyright Act of"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 23 of"
+    },
+    {
+     "role": "sidenote",
+     "text": "1909, amendment."
+    },
+    {
+     "role": "body",
+     "text": "the Act of March 4, 1909 (35 Stat. 1080; U. S. C., title 17, sec. 23),"
+    },
+    {
+     "role": "sidenote",
+     "text": "Renewals and ex-"
+    },
+    {
+     "role": "body",
+     "text": "is hereby amended by deleting from the second proviso clause thereof"
+    },
+    {
+     "role": "sidenote",
+     "text": "tensions."
+    },
+    {
+     "role": "body",
+     "text": "the words \"when such contribution has been separately registered\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved, March 15, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 58]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To authorize the Administrator of Veterans' Affairs to exchange certain property"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 15, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1088]"
+    },
+    {
+     "role": "body",
+     "text": "located at Veterans' Administration facility, Tuskegee, Alabama, title to which"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 435]"
+    },
+    {
+     "role": "body",
+     "text": "is now vested in the United States, for certain property of the Tuskegee Normal"
+    },
+    {
+     "role": "body",
+     "text": "and Industrial Institute."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Admin-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Tuskegee, Ala."
+    },
+    {
+     "role": "sidenote",
+     "text": "Exchange of lands"
+    },
+    {
+     "role": "body",
+     "text": "istrator of Veterans' Affairs is hereby authorized and directed to"
+    },
+    {
+     "role": "sidenote",
+     "text": "at, authorized."
+    },
+    {
+     "role": "body",
+     "text": "transfer to the Tuskegee Normal and Industrial Institute, Tuskegee"
+    },
+    {
+     "role": "body",
+     "text": "Institute, Alabama, title to the land described in subsection (a) of"
+    },
+    {
+     "role": "body",
+     "text": "this Act, now vested in the United States, in exchange for certain"
+    },
+    {
+     "role": "body",
+     "text": "property, described in subsection (b) of this Act, from the Tuskegee"
+    },
+    {
+     "role": "body",
+     "text": "Normal and Industrial Institute."
+    },
+    {
+     "role": "body",
+     "text": "(a) The following-described property located in the northwest"
+    },
+    {
+     "role": "sidenote",
+     "text": "Property transferred"
+    },
+    {
+     "role": "sidenote",
+     "text": "by U.S."
+    },
+    {
+     "role": "body",
+     "text": "corner of the northeast quarter of the southwest quarter of section 23,"
+    },
+    {
+     "role": "body",
+     "text": "township 17, range 23 east, Macon County, Alabama, and being all"
+    },
+    {
+     "role": "body",
+     "text": "that portion of the Government reservation lying west of the old"
+    },
+    {
+     "role": "body",
+     "text": "Chehaw Road:"
+    },
+    {
+     "role": "body",
+     "text": "Beginning at a point, said point being the northwest corner of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Description."
+    },
+    {
+     "role": "body",
+     "text": "the northeast quarter of the southwest quarter of said section 23,"
+    },
+    {
+     "role": "body",
+     "text": "said point also being the northwest corner of that part of the Govern-"
+    },
+    {
+     "role": "body",
+     "text": "ment reservation lying west of the old Chehaw Road; thence east"
+    },
+    {
+     "role": "body",
+     "text": "along the north line of the northeast quarter of the southwest quarter"
+    },
+    {
+     "role": "body",
+     "text": "of said section 23, same also being the north line of that part of the"
+    },
+    {
+     "role": "body",
+     "text": "Government reservation lying west of the old Chehaw Road, a dis-"
+    },
+    {
+     "role": "body",
+     "text": "tance of three and four-tenths chains to a point in the west side of"
+    },
+    {
+     "role": "body",
+     "text": "the old Chehaw Road; thence south twenty-five degrees east along"
+    },
+    {
+     "role": "body",
+     "text": "the west line of the old Chehaw Road, a distance of three and thirty-"
+    },
+    {
+     "role": "body",
+     "text": "four one-hundredths chains to a point, said point being in the south-"
+    },
+    {
+     "role": "body",
+     "text": "erly boundary line of the Government reservation; thence west along"
+    },
+    {
+     "role": "body",
+     "text": "the southerly boundary line of the Government reservation, a distance"
+    },
+    {
+     "role": "body",
+     "text": "of four and eighty-one one-hundredths chains to the west line of the"
+    },
+    {
+     "role": "body",
+     "text": "northeast quarter of the southwest quarter of said section 23; thence"
+    },
+    {
+     "role": "body",
+     "text": "north along the west line of the northeast quarter of the south-"
+    },
+    {
+     "role": "body",
+     "text": "west quarter of said section 23, a distance of three and three one-"
+    },
+    {
+     "role": "body",
+     "text": "hundredths chains to the point of beginning, containing, in all, one"
+    },
+    {
+     "role": "body",
+     "text": "and twenty-four one-hundredths acres more or less."
+    },
+    {
+     "role": "body",
+     "text": "(b) The following-described property located in the north half of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Property transferred"
+    },
+    {
+     "role": "sidenote",
+     "text": "by Tuskegee Normal"
+    },
+    {
+     "role": "body",
+     "text": "the southeast quarter of section 23, township 17, range 23 east, Macon"
+    },
+    {
+     "role": "sidenote",
+     "text": "and Industrial Insti-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tute."
+    },
+    {
+     "role": "body",
+     "text": "County, Alabama:"
+    },
+    {
+     "role": "body",
+     "text": "Beginning at a point, said point being in the northeast quarter of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Description."
+    },
+    {
+     "role": "body",
+     "text": "the southeast quarter of said section 23, and also being three and"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2272,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08423,
+   "seconds": 69.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12602,
+   "output_tokens": 1849,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.10965,
+  "seconds": 133.4,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "Commemorative exercises by Congress.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote begins level with the first body line, not before it."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "Commemorative ex-\nercises by Congress.",
+    "kept": "Commemorative ex-\nercises by Congress.",
+    "reason": "Sidenote is printed on two lines beside the SEC. 3 paragraph."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "To amend section 23 of the Act of March 4, 1909, relating to copyrights.",
+    "kept": "To amend section 23 of the Act of March 4, 1909, relating to copyrights.",
+    "reason": "Title line sits level with [S. 547], before [Public, No. 434]."
+   },
+   {
+    "run": 4,
+    "a": "To amend section 23 of the Act of March 4, 1909, relating to copyrights.\nCopyright Act of 1909, amendment.\nRenewals and extensions.",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 3; sidenotes appear later at their printed positions."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "Copyright Act of",
+    "kept": "Copyright Act of",
+    "reason": "First sidenote line aligns with the 'Be it enacted' line."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "1909, amendment.",
+    "kept": "1909, amendment.",
+    "reason": "Second sidenote line aligns with the next body line."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "Renewals and ex-",
+    "kept": "Renewals and ex-",
+    "reason": "Sidenote continues beside the following body line."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "tensions.",
+    "kept": "tensions.",
+    "reason": "Final sidenote line printed here."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "To authorize the Administrator of Veterans' Affairs to exchange certain property",
+    "kept": "To authorize the Administrator of Veterans' Affairs to exchange certain property",
+    "reason": "First title line precedes the March 15, 1940 sidenote block."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "located at Veterans' Administration facility, Tuskegee, Alabama, title to which",
+    "kept": "located at Veterans' Administration facility, Tuskegee, Alabama, title to which",
+    "reason": "Second title line aligns between [S. 1088] and [Public, No. 435]."
+   },
+   {
+    "run": 11,
+    "a": "To authorize the Administrator of Veterans' Affairs to exchange certain property\nlocated at Veterans' Administration facility, Tuskegee, Alabama, title to which",
+    "b": "",
+    "kept": "",
+    "reason": "These lines already placed at their printed positions in runs 9-10."
+   },
+   {
+    "run": 12,
+    "a": "Tuskegee, Ala.\nExchange of lands at, authorized.",
+    "b": "",
+    "kept": "",
+    "reason": "Tuskegee sidenote begins lower, beside the 'Be it enacted' paragraph."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "Tuskegee, Ala.\nExchange of lands",
+    "kept": "Tuskegee, Ala.\nExchange of lands",
+    "reason": "Sidenote printed on separate lines here."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "at, authorized.",
+    "kept": "at, authorized.",
+    "reason": "Third sidenote line beside the next body line."
+   },
+   {
+    "run": 15,
+    "a": "Property transferred by U.S.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote starts level with the '(a) The following-described' line."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "Property transferred\nby U.S.",
+    "kept": "Property transferred\nby U.S.",
+    "reason": "Two printed sidenote lines at this position."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "Beginning at a point, said point being the northwest corner of",
+    "kept": "Beginning at a point, said point being the northwest corner of",
+    "reason": "Body line precedes the 'Description.' sidenote level."
+   },
+   {
+    "run": 18,
+    "a": "Beginning at a point, said point being the northwest corner of",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 17."
+   },
+   {
+    "run": 19,
+    "a": "Property transferred by Tuskegee Normal and Industrial Institute.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote begins level with the '(b)' line, not before it."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "Property transferred\nby Tuskegee Normal",
+    "kept": "Property transferred\nby Tuskegee Normal",
+    "reason": "Sidenote printed on separate lines beside the (b) paragraph."
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "and Industrial Insti-\ntute.",
+    "kept": "and Industrial Insti-\ntute.",
+    "reason": "Remaining sidenote lines as printed."
+   },
+   {
+    "run": 22,
+    "a": "",
+    "b": "Beginning at a point, said point being in the northeast quarter of",
+    "kept": "Beginning at a point, said point being in the northeast quarter of",
+    "reason": "Body line printed level with the 'Description.' sidenote."
+   },
+   {
+    "run": 23,
+    "a": "Beginning at a point, said point being in the northeast quarter of",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 22."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "54 STAT.]    76TH CONG., 3D SESS.—CHS. 56-58—MAR. 15, 1940"
+  },
+  {
+   "role": "page-number",
+   "text": "51"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. That the Senate and the House of Representatives shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "Commemorative ex-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ercises by Congress."
+  },
+  {
+   "role": "body",
+   "text": "conduct suitable exercises whereby Congress may mark the anniversary."
+  },
+  {
+   "role": "body",
+   "text": "Approved, March 15, 1940."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 57]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 15, 1940"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 547]"
+  },
+  {
+   "role": "body",
+   "text": "To amend section 23 of the Act of March 4, 1909, relating to copyrights."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 434]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Copyright Act of"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That section 23 of"
+  },
+  {
+   "role": "sidenote",
+   "text": "1909, amendment."
+  },
+  {
+   "role": "body",
+   "text": "the Act of March 4, 1909 (35 Stat. 1080; U. S. C., title 17, sec. 23),"
+  },
+  {
+   "role": "sidenote",
+   "text": "Renewals and ex-"
+  },
+  {
+   "role": "body",
+   "text": "is hereby amended by deleting from the second proviso clause thereof"
+  },
+  {
+   "role": "sidenote",
+   "text": "tensions."
+  },
+  {
+   "role": "body",
+   "text": "the words \"when such contribution has been separately registered\"."
+  },
+  {
+   "role": "body",
+   "text": "Approved, March 15, 1940."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 58]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "body",
+   "text": "To authorize the Administrator of Veterans' Affairs to exchange certain property"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 15, 1940"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 1088]"
+  },
+  {
+   "role": "body",
+   "text": "located at Veterans' Administration facility, Tuskegee, Alabama, title to which"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 435]"
+  },
+  {
+   "role": "body",
+   "text": "is now vested in the United States, for certain property of the Tuskegee Normal"
+  },
+  {
+   "role": "body",
+   "text": "and Industrial Institute."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Admin-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Tuskegee, Ala."
+  },
+  {
+   "role": "sidenote",
+   "text": "Exchange of lands"
+  },
+  {
+   "role": "body",
+   "text": "istrator of Veterans' Affairs is hereby authorized and directed to"
+  },
+  {
+   "role": "sidenote",
+   "text": "at, authorized."
+  },
+  {
+   "role": "body",
+   "text": "transfer to the Tuskegee Normal and Industrial Institute, Tuskegee"
+  },
+  {
+   "role": "body",
+   "text": "Institute, Alabama, title to the land described in subsection (a) of"
+  },
+  {
+   "role": "body",
+   "text": "this Act, now vested in the United States, in exchange for certain"
+  },
+  {
+   "role": "body",
+   "text": "property, described in subsection (b) of this Act, from the Tuskegee"
+  },
+  {
+   "role": "body",
+   "text": "Normal and Industrial Institute."
+  },
+  {
+   "role": "body",
+   "text": "(a) The following-described property located in the northwest"
+  },
+  {
+   "role": "sidenote",
+   "text": "Property transferred"
+  },
+  {
+   "role": "sidenote",
+   "text": "by U.S."
+  },
+  {
+   "role": "body",
+   "text": "corner of the northeast quarter of the southwest quarter of section 23,"
+  },
+  {
+   "role": "body",
+   "text": "township 17, range 23 east, Macon County, Alabama, and being all"
+  },
+  {
+   "role": "body",
+   "text": "that portion of the Government reservation lying west of the old"
+  },
+  {
+   "role": "body",
+   "text": "Chehaw Road:"
+  },
+  {
+   "role": "body",
+   "text": "Beginning at a point, said point being the northwest corner of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Description."
+  },
+  {
+   "role": "body",
+   "text": "the northeast quarter of the southwest quarter of said section 23,"
+  },
+  {
+   "role": "body",
+   "text": "said point also being the northwest corner of that part of the Govern-"
+  },
+  {
+   "role": "body",
+   "text": "ment reservation lying west of the old Chehaw Road; thence east"
+  },
+  {
+   "role": "body",
+   "text": "along the north line of the northeast quarter of the southwest quarter"
+  },
+  {
+   "role": "body",
+   "text": "of said section 23, same also being the north line of that part of the"
+  },
+  {
+   "role": "body",
+   "text": "Government reservation lying west of the old Chehaw Road, a dis-"
+  },
+  {
+   "role": "body",
+   "text": "tance of three and four-tenths chains to a point in the west side of"
+  },
+  {
+   "role": "body",
+   "text": "the old Chehaw Road; thence south twenty-five degrees east along"
+  },
+  {
+   "role": "body",
+   "text": "the west line of the old Chehaw Road, a distance of three and thirty-"
+  },
+  {
+   "role": "body",
+   "text": "four one-hundredths chains to a point, said point being in the south-"
+  },
+  {
+   "role": "body",
+   "text": "erly boundary line of the Government reservation; thence west along"
+  },
+  {
+   "role": "body",
+   "text": "the southerly boundary line of the Government reservation, a distance"
+  },
+  {
+   "role": "body",
+   "text": "of four and eighty-one one-hundredths chains to the west line of the"
+  },
+  {
+   "role": "body",
+   "text": "northeast quarter of the southwest quarter of said section 23; thence"
+  },
+  {
+   "role": "body",
+   "text": "north along the west line of the northeast quarter of the south-"
+  },
+  {
+   "role": "body",
+   "text": "west quarter of said section 23, a distance of three and three one-"
+  },
+  {
+   "role": "body",
+   "text": "hundredths chains to the point of beginning, containing, in all, one"
+  },
+  {
+   "role": "body",
+   "text": "and twenty-four one-hundredths acres more or less."
+  },
+  {
+   "role": "body",
+   "text": "(b) The following-described property located in the north half of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Property transferred"
+  },
+  {
+   "role": "sidenote",
+   "text": "by Tuskegee Normal"
+  },
+  {
+   "role": "body",
+   "text": "the southeast quarter of section 23, township 17, range 23 east, Macon"
+  },
+  {
+   "role": "sidenote",
+   "text": "and Industrial Insti-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tute."
+  },
+  {
+   "role": "body",
+   "text": "County, Alabama:"
+  },
+  {
+   "role": "body",
+   "text": "Beginning at a point, said point being in the northeast quarter of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Description."
+  },
+  {
+   "role": "body",
+   "text": "the southeast quarter of said section 23, and also being three and"
+  }
+ ],
+ "disagreement_count": 23,
+ "tokens": {
+  "input_tokens": 23425,
+  "output_tokens": 6388,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.27799,
+ "seconds": 321.0,
+ "created": "2026-09-08T12:23:46"
+}

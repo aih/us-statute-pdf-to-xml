@@ -1,0 +1,997 @@
+{
+ "granule_id": "STATUTE-5-Pg66-2",
+ "package_id": "STATUTE-5",
+ "volume": 5,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to repair and extend the United States Arsenal at Charleston, South Carolina.",
+ "date_issued": "1836-07-02",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "66",
+ "image": "data/gold/STATUTE-5-Pg66-2/p1.png",
+ "image_sha256": "324bd8bb1d21a392a9393ecd94147effdf7b84b6f75761507543f139853733f4",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "high"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "66                    TWENTY-FOURTH CONGRESS.  SESS. I. CH. 256, 257.   1836."
+    },
+    {
+     "role": "sidenote",
+     "text": "Land for"
+    },
+    {
+     "role": "sidenote",
+     "text": "workshops, &c."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That for such depots, watering"
+    },
+    {
+     "role": "body",
+     "text": "places and work-shops as may be essential to the convenient use of the"
+    },
+    {
+     "role": "body",
+     "text": "said road; there shall be also granted to the said company, such portions"
+    },
+    {
+     "role": "body",
+     "text": "of the public land, as they may, under like restrictions and conditions,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "select, on either side of the said road: Provided, That not more than"
+    },
+    {
+     "role": "body",
+     "text": "five acres, to be laid off in a square form, shall be selected for such use"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "or purpose, at any one place; Provided, also, That not more than one"
+    },
+    {
+     "role": "body",
+     "text": "such square shall be granted for every fifteen miles of the said road"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "lying within the public lands; And provided, moreover, That such selec-"
+    },
+    {
+     "role": "body",
+     "text": "tions shall be approved by the Secretary of the Treasury for the time"
+    },
+    {
+     "role": "body",
+     "text": "being."
+    },
+    {
+     "role": "sidenote",
+     "text": "Materials may"
+    },
+    {
+     "role": "sidenote",
+     "text": "be taken."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That so long as the public lands"
+    },
+    {
+     "role": "body",
+     "text": "in the vicinity of the said road shall remain unsold, the said company"
+    },
+    {
+     "role": "body",
+     "text": "shall have power to take therefrom, such materials of earth, stone, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "wood, as may be necessary for the construction of the said road, Pro-"
+    },
+    {
+     "role": "body",
+     "text": "vided, That the grants herein contained, as well of the use of the public"
+    },
+    {
+     "role": "body",
+     "text": "lands, as of the materials for the construction of the said road, shall"
+    },
+    {
+     "role": "body",
+     "text": "cease and determine, unless the road be begun within the period of two"
+    },
+    {
+     "role": "body",
+     "text": "years from the date of this act, and completed within eight years there-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "after.   And provided, moreover, That if the said road shall, at any time"
+    },
+    {
+     "role": "body",
+     "text": "after its completion, be discontinued or abandoned by the said company,"
+    },
+    {
+     "role": "body",
+     "text": "the grants, hereby made, shall cease and determine."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 2, 1836."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCLVI.—An Act to renew the gold medal struck and presented to General"
+    },
+    {
+     "role": "body",
+     "text": "Morgan, by order of Congress, in honor of the battle of the Cowpens."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 2, 1836."
+    },
+    {
+     "role": "sidenote",
+     "text": "Medal to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "struck by the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Director of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mint."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That in pursuance of the"
+    },
+    {
+     "role": "body",
+     "text": "request of Morgan Neville, in his memorial presented at the present"
+    },
+    {
+     "role": "body",
+     "text": "session of Congress, the director of the mint, be and he is hereby, au-"
+    },
+    {
+     "role": "body",
+     "text": "thorized and directed to cause to be struck, a gold medal of the intrinsic"
+    },
+    {
+     "role": "body",
+     "text": "value of one hundred and fifty dollars, in honor of the battle of the"
+    },
+    {
+     "role": "body",
+     "text": "Cowpens, which was fought on the seventeenth day of January, seven-"
+    },
+    {
+     "role": "body",
+     "text": "teen hundred and eighty-one, to replace the original medal presented"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of March"
+    },
+    {
+     "role": "sidenote",
+     "text": "3, 1837, ch. 33."
+    },
+    {
+     "role": "body",
+     "text": "by a resolution of the continental Congress, of March ninth, seventeen"
+    },
+    {
+     "role": "body",
+     "text": "hundred and eighty-one, to Brigadier General Daniel Morgan; the said"
+    },
+    {
+     "role": "body",
+     "text": "medal to be struck from the original die, and delivered, when executed,"
+    },
+    {
+     "role": "body",
+     "text": "to the said Morgan Neville, the lineal heir of General Morgan; the"
+    },
+    {
+     "role": "body",
+     "text": "expense of the same to be paid out of any money in the Treasury not"
+    },
+    {
+     "role": "body",
+     "text": "otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 2, 1836."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 2, 1836."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCLVII.—An Act to repair and extend the United States Arsenal at"
+    },
+    {
+     "role": "body",
+     "text": "Charleston, South Carolina."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of War"
+    },
+    {
+     "role": "body",
+     "text": "be, and he is hereby authorized and directed to cause such repairs and"
+    },
+    {
+     "role": "body",
+     "text": "improvements to be made to the United States arsenal in Charleston,"
+    },
+    {
+     "role": "body",
+     "text": "South Carolina, as may be deemed necessary for the public service;"
+    },
+    {
+     "role": "body",
+     "text": "and that the sum of twenty thousand dollars be, and the same is hereby,"
+    },
+    {
+     "role": "body",
+     "text": "appropriated for this purpose, out of any moneys in the Treasury not"
+    },
+    {
+     "role": "body",
+     "text": "otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 2, 1836."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 2151,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 769
+   },
+   "cost_usd": 0.08619,
+   "seconds": 26.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "66"
+    },
+    {
+     "role": "running-head",
+     "text": "TWENTY-FOURTH CONGRESS.  SESS. I. CH. 256, 257.  1836."
+    },
+    {
+     "role": "sidenote",
+     "text": "Land for"
+    },
+    {
+     "role": "sidenote",
+     "text": "workshops, &c."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That for such depots, watering"
+    },
+    {
+     "role": "body",
+     "text": "places and work-shops as may be essential to the convenient use of the"
+    },
+    {
+     "role": "body",
+     "text": "said road; there shall be also granted to the said company, such portions"
+    },
+    {
+     "role": "body",
+     "text": "of the public land, as they may, under like restrictions and conditions,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "select, on either side of the said road: Provided, That not more than"
+    },
+    {
+     "role": "body",
+     "text": "five acres, to be laid off in a square form, shall be selected for such use"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "or purpose, at any one place; Provided, also, That not more than one"
+    },
+    {
+     "role": "body",
+     "text": "such square shall be granted for every fifteen miles of the said road"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "lying within the public lands; And provided, moreover, That such selec-"
+    },
+    {
+     "role": "body",
+     "text": "tions shall be approved by the Secretary of the Treasury for the time"
+    },
+    {
+     "role": "body",
+     "text": "being."
+    },
+    {
+     "role": "sidenote",
+     "text": "Materials may"
+    },
+    {
+     "role": "sidenote",
+     "text": "be taken."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That so long as the public lands"
+    },
+    {
+     "role": "body",
+     "text": "in the vicinity of the said road shall remain unsold, the said company"
+    },
+    {
+     "role": "body",
+     "text": "shall have power to take therefrom, such materials of earth, stone, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "wood, as may be necessary for the construction of the said road, Pro-"
+    },
+    {
+     "role": "body",
+     "text": "vided, That the grants herein contained, as well of the use of the public"
+    },
+    {
+     "role": "body",
+     "text": "lands, as of the materials for the construction of the said road, shall"
+    },
+    {
+     "role": "body",
+     "text": "cease and determine, unless the road be begun within the period of two"
+    },
+    {
+     "role": "body",
+     "text": "years from the date of this act, and completed within eight years there-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "after.  And provided, moreover, That if the said road shall, at any time"
+    },
+    {
+     "role": "body",
+     "text": "after its completion, be discontinued or abandoned by the said company,"
+    },
+    {
+     "role": "body",
+     "text": "the grants, hereby made, shall cease and determine."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 2, 1836."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCLVI.—An Act to renew the gold medal struck and presented to General"
+    },
+    {
+     "role": "body",
+     "text": "Morgan, by order of Congress, in honor of the battle of the Cowpens."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 2, 1836."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Medal to be"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That in pursuance of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "struck by the"
+    },
+    {
+     "role": "body",
+     "text": "request of Morgan Neville, in his memorial presented at the present"
+    },
+    {
+     "role": "sidenote",
+     "text": "Director of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mint."
+    },
+    {
+     "role": "body",
+     "text": "session of Congress, the director of the mint, be and he is hereby, au-"
+    },
+    {
+     "role": "body",
+     "text": "thorized and directed to cause to be struck, a gold medal of the intrinsic"
+    },
+    {
+     "role": "body",
+     "text": "value of one hundred and fifty dollars, in honor of the battle of the"
+    },
+    {
+     "role": "body",
+     "text": "Cowpens, which was fought on the seventeenth day of January, seven-"
+    },
+    {
+     "role": "body",
+     "text": "teen hundred and eighty-one, to replace the original medal presented"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of March"
+    },
+    {
+     "role": "sidenote",
+     "text": "3, 1837, ch. 33."
+    },
+    {
+     "role": "body",
+     "text": "by a resolution of the continental Congress, of March ninth, seventeen"
+    },
+    {
+     "role": "body",
+     "text": "hundred and eighty-one, to Brigadier General Daniel Morgan; the said"
+    },
+    {
+     "role": "body",
+     "text": "medal to be struck from the original die, and delivered, when executed,"
+    },
+    {
+     "role": "body",
+     "text": "to the said Morgan Neville, the lineal heir of General Morgan; the"
+    },
+    {
+     "role": "body",
+     "text": "expense of the same to be paid out of any money in the Treasury not"
+    },
+    {
+     "role": "body",
+     "text": "otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 2, 1836."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 2, 1836."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCLVII.—An Act to repair and extend the United States Arsenal at"
+    },
+    {
+     "role": "body",
+     "text": "Charleston, South Carolina."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of War"
+    },
+    {
+     "role": "body",
+     "text": "be, and he is hereby authorized and directed to cause such repairs and"
+    },
+    {
+     "role": "body",
+     "text": "improvements to be made to the United States arsenal in Charleston,"
+    },
+    {
+     "role": "body",
+     "text": "South Carolina, as may be deemed necessary for the public service;"
+    },
+    {
+     "role": "body",
+     "text": "and that the sum of twenty thousand dollars be, and the same is hereby,"
+    },
+    {
+     "role": "body",
+     "text": "appropriated for this purpose, out of any moneys in the Treasury not"
+    },
+    {
+     "role": "body",
+     "text": "otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 2, 1836."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 2107,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 721
+   },
+   "cost_usd": 0.08481,
+   "seconds": 24.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11539,
+   "output_tokens": 906,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.08076,
+  "seconds": 13.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "high",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "66                    TWENTY-FOURTH CONGRESS.  SESS. I. CH. 256, 257.   1836.",
+    "b": "66\nTWENTY-FOURTH CONGRESS.  SESS. I. CH. 256, 257.  1836.",
+    "kept": "66\nTWENTY-FOURTH CONGRESS.  SESS. I. CH. 256, 257.  1836.",
+    "reason": "The folio \"66\" stands alone at the left margin; the centered heading is a separate element, so B's split matches the image."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the United",
+    "kept": "Be it enacted by the Senate and House of Representatives of the United",
+    "reason": "This body line stands opposite the space between the \"July 2, 1836.\" note and \"Medal to be\", so it falls here in reading order."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "States of America in Congress assembled, That in pursuance of the",
+    "kept": "States of America in Congress assembled, That in pursuance of the",
+    "reason": "This line is level with the sidenote line \"Medal to be\" and precedes \"struck by the\"."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "request of Morgan Neville, in his memorial presented at the present",
+    "kept": "request of Morgan Neville, in his memorial presented at the present",
+    "reason": "This line is level with the sidenote \"struck by the\" and precedes \"Director of the\"."
+   },
+   {
+    "run": 5,
+    "a": "Be it enacted by the Senate and House of Representatives of the United\nStates of America in Congress assembled, That in pursuance of the\nrequest of Morgan Neville, in his memorial presented at the present",
+    "b": "",
+    "kept": "",
+    "reason": "These three body lines have already been placed above, interleaved with the sidenote; repeating them here would duplicate printed text."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "66"
+  },
+  {
+   "role": "running-head",
+   "text": "TWENTY-FOURTH CONGRESS.  SESS. I. CH. 256, 257.  1836."
+  },
+  {
+   "role": "sidenote",
+   "text": "Land for"
+  },
+  {
+   "role": "sidenote",
+   "text": "workshops, &c."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That for such depots, watering"
+  },
+  {
+   "role": "body",
+   "text": "places and work-shops as may be essential to the convenient use of the"
+  },
+  {
+   "role": "body",
+   "text": "said road; there shall be also granted to the said company, such portions"
+  },
+  {
+   "role": "body",
+   "text": "of the public land, as they may, under like restrictions and conditions,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "select, on either side of the said road: Provided, That not more than"
+  },
+  {
+   "role": "body",
+   "text": "five acres, to be laid off in a square form, shall be selected for such use"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "or purpose, at any one place; Provided, also, That not more than one"
+  },
+  {
+   "role": "body",
+   "text": "such square shall be granted for every fifteen miles of the said road"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "lying within the public lands; And provided, moreover, That such selec-"
+  },
+  {
+   "role": "body",
+   "text": "tions shall be approved by the Secretary of the Treasury for the time"
+  },
+  {
+   "role": "body",
+   "text": "being."
+  },
+  {
+   "role": "sidenote",
+   "text": "Materials may"
+  },
+  {
+   "role": "sidenote",
+   "text": "be taken."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That so long as the public lands"
+  },
+  {
+   "role": "body",
+   "text": "in the vicinity of the said road shall remain unsold, the said company"
+  },
+  {
+   "role": "body",
+   "text": "shall have power to take therefrom, such materials of earth, stone, or"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "wood, as may be necessary for the construction of the said road, Pro-"
+  },
+  {
+   "role": "body",
+   "text": "vided, That the grants herein contained, as well of the use of the public"
+  },
+  {
+   "role": "body",
+   "text": "lands, as of the materials for the construction of the said road, shall"
+  },
+  {
+   "role": "body",
+   "text": "cease and determine, unless the road be begun within the period of two"
+  },
+  {
+   "role": "body",
+   "text": "years from the date of this act, and completed within eight years there-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "after.   And provided, moreover, That if the said road shall, at any time"
+  },
+  {
+   "role": "body",
+   "text": "after its completion, be discontinued or abandoned by the said company,"
+  },
+  {
+   "role": "body",
+   "text": "the grants, hereby made, shall cease and determine."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, July 2, 1836."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCLVI.—An Act to renew the gold medal struck and presented to General"
+  },
+  {
+   "role": "body",
+   "text": "Morgan, by order of Congress, in honor of the battle of the Cowpens."
+  },
+  {
+   "role": "sidenote",
+   "text": "July 2, 1836."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Medal to be"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That in pursuance of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "struck by the"
+  },
+  {
+   "role": "body",
+   "text": "request of Morgan Neville, in his memorial presented at the present"
+  },
+  {
+   "role": "sidenote",
+   "text": "Director of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Mint."
+  },
+  {
+   "role": "body",
+   "text": "session of Congress, the director of the mint, be and he is hereby, au-"
+  },
+  {
+   "role": "body",
+   "text": "thorized and directed to cause to be struck, a gold medal of the intrinsic"
+  },
+  {
+   "role": "body",
+   "text": "value of one hundred and fifty dollars, in honor of the battle of the"
+  },
+  {
+   "role": "body",
+   "text": "Cowpens, which was fought on the seventeenth day of January, seven-"
+  },
+  {
+   "role": "body",
+   "text": "teen hundred and eighty-one, to replace the original medal presented"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of March"
+  },
+  {
+   "role": "sidenote",
+   "text": "3, 1837, ch. 33."
+  },
+  {
+   "role": "body",
+   "text": "by a resolution of the continental Congress, of March ninth, seventeen"
+  },
+  {
+   "role": "body",
+   "text": "hundred and eighty-one, to Brigadier General Daniel Morgan; the said"
+  },
+  {
+   "role": "body",
+   "text": "medal to be struck from the original die, and delivered, when executed,"
+  },
+  {
+   "role": "body",
+   "text": "to the said Morgan Neville, the lineal heir of General Morgan; the"
+  },
+  {
+   "role": "body",
+   "text": "expense of the same to be paid out of any money in the Treasury not"
+  },
+  {
+   "role": "body",
+   "text": "otherwise appropriated."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, July 2, 1836."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "July 2, 1836."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCLVII.—An Act to repair and extend the United States Arsenal at"
+  },
+  {
+   "role": "body",
+   "text": "Charleston, South Carolina."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the Secretary of War"
+  },
+  {
+   "role": "body",
+   "text": "be, and he is hereby authorized and directed to cause such repairs and"
+  },
+  {
+   "role": "body",
+   "text": "improvements to be made to the United States arsenal in Charleston,"
+  },
+  {
+   "role": "body",
+   "text": "South Carolina, as may be deemed necessary for the public service;"
+  },
+  {
+   "role": "body",
+   "text": "and that the sum of twenty thousand dollars be, and the same is hereby,"
+  },
+  {
+   "role": "body",
+   "text": "appropriated for this purpose, out of any moneys in the Treasury not"
+  },
+  {
+   "role": "body",
+   "text": "otherwise appropriated."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, July 2, 1836."
+  }
+ ],
+ "disagreement_count": 5,
+ "tokens": {
+  "input_tokens": 22586,
+  "output_tokens": 5164,
+  "cache_read_input_tokens": 833,
+  "cache_creation_input_tokens": 1490
+ },
+ "cost_usd": 0.25176,
+ "seconds": 63.6,
+ "created": "2026-09-08T10:57:47"
+}

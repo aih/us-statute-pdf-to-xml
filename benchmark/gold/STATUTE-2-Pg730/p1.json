@@ -1,0 +1,1107 @@
+{
+ "granule_id": "STATUTE-2-Pg730",
+ "package_id": "STATUTE-2",
+ "volume": 2,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act in addition to the act to regulate the laying out and making a road from Cumberland in the state of Maryland to the state of Ohio.",
+ "date_issued": "1812-05-06",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "730",
+ "image": "data/gold/STATUTE-2-Pg730/p1.png",
+ "image_sha256": "12156d4f05c56725d733c397a83b59461a1ebb65a2a25ec0976c867b21b39bf4",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "730"
+    },
+    {
+     "role": "running-head",
+     "text": "TWELFTH CONGRESS.  SESS. I. CH. 78, 79, 80.  1812."
+    },
+    {
+     "role": "body",
+     "text": "prior to the date of the patent, either by the person originally entitled to"
+    },
+    {
+     "role": "body",
+     "text": "the land or by his heirs or legal representatives, or by virtue of any pro-"
+    },
+    {
+     "role": "body",
+     "text": "cess, or suit at law, or judgment of court against a person entitled to"
+    },
+    {
+     "role": "body",
+     "text": "receive his patent as aforesaid."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 6, 1812."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 6, 1812."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXVIII.—An Act in addition to the act to regulate the laying out and"
+    },
+    {
+     "role": "body",
+     "text": "making a road from Cumberland in the state of Maryland to the state of Ohio."
+    },
+    {
+     "role": "sidenote",
+     "text": "Thirty thou-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sand dollars ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "propriated,  to"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That in addition to the unex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "be reserved out"
+    },
+    {
+     "role": "body",
+     "text": "pended balance of the sum heretofore appropriated for laying out and"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the fund for"
+    },
+    {
+     "role": "body",
+     "text": "making a road from Cumberland in the state of Maryland to the state of"
+    },
+    {
+     "role": "sidenote",
+     "text": "making roads in"
+    },
+    {
+     "role": "body",
+     "text": "Ohio, the sum of thirty thousand dollars be, and the same is hereby ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "the state of Ohio"
+    },
+    {
+     "role": "body",
+     "text": "propriated, to be paid out of any money in the treasury not otherwise"
+    },
+    {
+     "role": "sidenote",
+     "text": "by  the  act  of"
+    },
+    {
+     "role": "body",
+     "text": "appropriated, and to be expended, under the direction of the President"
+    },
+    {
+     "role": "sidenote",
+     "text": "April 30, 1802,"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, in making said road between Cumberland in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "ch. 40, sec. 7."
+    },
+    {
+     "role": "body",
+     "text": "state of Maryland and Brownsville in the state of Pennsylvania, com-"
+    },
+    {
+     "role": "body",
+     "text": "mencing at Cumberland; which sum of thirty thousand dollars shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "1815, ch. 43."
+    },
+    {
+     "role": "body",
+     "text": "paid out of the fund reserved for laying out and making roads to the"
+    },
+    {
+     "role": "body",
+     "text": "state of Ohio, by virtue of the seventh section of an act passed on the"
+    },
+    {
+     "role": "sidenote",
+     "text": "1802, ch. 40."
+    },
+    {
+     "role": "body",
+     "text": "thirtieth day of April, one thousand eight hundred and two, entituled"
+    },
+    {
+     "role": "body",
+     "text": "“An act to enable the people of the eastern division of the territory"
+    },
+    {
+     "role": "body",
+     "text": "northwest of the river Ohio, to form a constitution and state government"
+    },
+    {
+     "role": "body",
+     "text": "and for the admission of such state into the Union on an equal footing"
+    },
+    {
+     "role": "body",
+     "text": "with the original states, and for other purposes.”"
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 6, 1812."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 8, 1812."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXIX.—An Act for the relief of the Citizens of Venezuela."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation"
+    },
+    {
+     "role": "sidenote",
+     "text": "of fifty thousand"
+    },
+    {
+     "role": "sidenote",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the President of the"
+    },
+    {
+     "role": "body",
+     "text": "United States be, and he is hereby authorized to cause to be purchased"
+    },
+    {
+     "role": "body",
+     "text": "such provisions as he shall deem advisable, and to tender the same in"
+    },
+    {
+     "role": "body",
+     "text": "the name of the government of the United States to that of Venezuela,"
+    },
+    {
+     "role": "body",
+     "text": "for the relief of the citizens who have suffered by the late earthquake."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That a sum not exceeding fifty"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars be, and the same is hereby appropriated, to be paid out"
+    },
+    {
+     "role": "body",
+     "text": "of any monies in the treasury not otherwise appropriated, to carry into"
+    },
+    {
+     "role": "body",
+     "text": "operation this act."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 8, 1812."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 11, 1812."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXX.—An Act to alter and establish certain Post Roads."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post routes"
+    },
+    {
+     "role": "sidenote",
+     "text": "discontinued."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the following post"
+    },
+    {
+     "role": "body",
+     "text": "routes be discontinued :"
+    },
+    {
+     "role": "body",
+     "text": "From Jacksonborough in South Carolina, by Barnwell Courthouse,"
+    },
+    {
+     "role": "body",
+     "text": "to Augusta in Georgia.  From Rahway to New Providence; and from"
+    },
+    {
+     "role": "body",
+     "text": "Baskenridge to Somerset in New Jersey.  From Fort Stoddert to"
+    },
+    {
+     "role": "body",
+     "text": "Natchez in the Mississippi territory.  From Galliopolis to Chilicothe in"
+    },
+    {
+     "role": "body",
+     "text": "Ohio.  From Salisbury to Lincolnton in North Carolina.  From Pey-"
+    },
+    {
+     "role": "body",
+     "text": "tonsburg to Danville.  From Salisbury, by Andover, New Chester and"
+    },
+    {
+     "role": "body",
+     "text": "Bridgewater, to Plymouth, thence by Holderness, New Hampton and"
+    },
+    {
+     "role": "body",
+     "text": "Sandbornton to Salisbury in New Hampshire.  From Baltimore, by"
+    },
+    {
+     "role": "body",
+     "text": "Queenstown, to Centreville in Maryland.  From Buchanon to Beverly"
+    },
+    {
+     "role": "body",
+     "text": "in Virginia."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 2336,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08639,
+   "seconds": 78.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "730"
+    },
+    {
+     "role": "running-head",
+     "text": "TWELFTH CONGRESS.  SESS. I. CH. 78, 79, 80.  1812."
+    },
+    {
+     "role": "body",
+     "text": "prior to the date of the patent, either by the person originally entitled to"
+    },
+    {
+     "role": "body",
+     "text": "the land or by his heirs or legal representatives, or by virtue of any pro-"
+    },
+    {
+     "role": "body",
+     "text": "cess, or suit at law, or judgment of court against a person entitled to"
+    },
+    {
+     "role": "body",
+     "text": "receive his patent as aforesaid."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 6, 1812."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 6, 1812."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXVIII.—An Act in addition to the act to regulate the laying out and"
+    },
+    {
+     "role": "body",
+     "text": "making a road from Cumberland in the state of Maryland to the state of Ohio."
+    },
+    {
+     "role": "sidenote",
+     "text": "Thirty  thou-"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "sand dollars ap-"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That in addition to the unex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "propriated,  to"
+    },
+    {
+     "role": "body",
+     "text": "pended balance of the sum heretofore appropriated for laying out and"
+    },
+    {
+     "role": "sidenote",
+     "text": "be reserved out"
+    },
+    {
+     "role": "body",
+     "text": "making a road from Cumberland in the state of Maryland to the state of"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the fund for"
+    },
+    {
+     "role": "body",
+     "text": "Ohio, the sum of thirty thousand dollars be, and the same is hereby ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "making roads in"
+    },
+    {
+     "role": "body",
+     "text": "propriated, to be paid out of any money in the treasury not otherwise"
+    },
+    {
+     "role": "sidenote",
+     "text": "the state of Ohio"
+    },
+    {
+     "role": "body",
+     "text": "appropriated, and to be expended, under the direction of the President"
+    },
+    {
+     "role": "sidenote",
+     "text": "by the act of"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, in making said road between Cumberland in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "April 30, 1802,"
+    },
+    {
+     "role": "body",
+     "text": "state of Maryland and Brownsville in the state of Pennsylvania, com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ch. 40, sec. 7."
+    },
+    {
+     "role": "body",
+     "text": "mencing at Cumberland; which sum of thirty thousand dollars shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "1815, ch. 43."
+    },
+    {
+     "role": "body",
+     "text": "paid out of the fund reserved for laying out and making roads to the"
+    },
+    {
+     "role": "body",
+     "text": "state of Ohio, by virtue of the seventh section of an act passed on the"
+    },
+    {
+     "role": "sidenote",
+     "text": "1802, ch. 40."
+    },
+    {
+     "role": "body",
+     "text": "thirtieth day of April, one thousand eight hundred and two, entituled"
+    },
+    {
+     "role": "body",
+     "text": "\"An act to enable the people of the eastern division of the territory"
+    },
+    {
+     "role": "body",
+     "text": "northwest of the river Ohio, to form a constitution and state government"
+    },
+    {
+     "role": "body",
+     "text": "and for the admission of such state into the Union on an equal footing"
+    },
+    {
+     "role": "body",
+     "text": "with the original states, and for other purposes.\""
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 6, 1812."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 8, 1812."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXIX.—An Act for the relief of the Citizens of Venezuela."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "of fifty thousand"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the President of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "dollars."
+    },
+    {
+     "role": "body",
+     "text": "United States be, and he is hereby authorized to cause to be purchased"
+    },
+    {
+     "role": "body",
+     "text": "such provisions as he shall deem advisable, and to tender the same in"
+    },
+    {
+     "role": "body",
+     "text": "the name of the government of the United States to that of Venezuela,"
+    },
+    {
+     "role": "body",
+     "text": "for the relief of the citizens who have suffered by the late earthquake."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That a sum not exceeding fifty"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars be, and the same is hereby appropriated, to be paid out"
+    },
+    {
+     "role": "body",
+     "text": "of any monies in the treasury not otherwise appropriated, to carry into"
+    },
+    {
+     "role": "body",
+     "text": "operation this act."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 8, 1812."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 11, 1812."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXX.—An Act to alter and establish certain Post Roads."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post routes"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "discontinued."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the following post"
+    },
+    {
+     "role": "body",
+     "text": "routes be discontinued:"
+    },
+    {
+     "role": "body",
+     "text": "From Jacksonborough in South Carolina, by Barnwell Courthouse,"
+    },
+    {
+     "role": "body",
+     "text": "to Augusta in Georgia.  From Rahway to New Providence; and from"
+    },
+    {
+     "role": "body",
+     "text": "Baskenridge to Somerset in New Jersey.  From Fort Stoddert to"
+    },
+    {
+     "role": "body",
+     "text": "Natchez in the Mississippi territory.  From Galliopolis to Chilicothe in"
+    },
+    {
+     "role": "body",
+     "text": "Ohio.  From Salisbury to Lincolnton in North Carolina.  From Pey-"
+    },
+    {
+     "role": "body",
+     "text": "tonsburg to Danville.  From Salisbury, by Andover, New Chester and"
+    },
+    {
+     "role": "body",
+     "text": "Bridgewater, to Plymouth, thence by Holderness, New Hampton and"
+    },
+    {
+     "role": "body",
+     "text": "Sandbornton to Salisbury in New Hampshire.  From Baltimore, by"
+    },
+    {
+     "role": "body",
+     "text": "Queenstown, to Centreville in Maryland.  From Buchanon to Beverly"
+    },
+    {
+     "role": "body",
+     "text": "in Virginia."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 2269,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08471,
+   "seconds": 110.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12415,
+   "output_tokens": 1610,
+   "cache_read_input_tokens": 0,
+   "cache_creation_input_tokens": 833
+  },
+  "cost_usd": 0.10753,
+  "seconds": 136.4,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the United",
+    "kept": "Be it enacted by the Senate and House of Representatives of the United",
+    "reason": "The body line begins level with the first sidenote line \"Thirty thou-\", so it belongs here in interleaved reading order."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "States of America in Congress assembled, That in addition to the unex-",
+    "kept": "States of America in Congress assembled, That in addition to the unex-",
+    "reason": "This body line sits level with the sidenote \"sand dollars ap-\"."
+   },
+   {
+    "run": 3,
+    "a": "Be it enacted by the Senate and House of Representatives of the United\nStates of America in Congress assembled, That in addition to the unex-",
+    "b": "pended balance of the sum heretofore appropriated for laying out and",
+    "kept": "pended balance of the sum heretofore appropriated for laying out and",
+    "reason": "Next body line after the sidenote \"propriated, to\"; A's lines here are duplicates already placed above."
+   },
+   {
+    "run": 4,
+    "a": "pended balance of the sum heretofore appropriated for laying out and",
+    "b": "making a road from Cumberland in the state of Maryland to the state of",
+    "kept": "making a road from Cumberland in the state of Maryland to the state of",
+    "reason": "Body line level with sidenote \"be reserved out\"."
+   },
+   {
+    "run": 5,
+    "a": "making a road from Cumberland in the state of Maryland to the state of",
+    "b": "Ohio, the sum of thirty thousand dollars be, and the same is hereby ap-",
+    "kept": "Ohio, the sum of thirty thousand dollars be, and the same is hereby ap-",
+    "reason": "Body line level with sidenote \"of the fund for\"."
+   },
+   {
+    "run": 6,
+    "a": "Ohio, the sum of thirty thousand dollars be, and the same is hereby ap-",
+    "b": "propriated, to be paid out of any money in the treasury not otherwise",
+    "kept": "propriated, to be paid out of any money in the treasury not otherwise",
+    "reason": "Body line level with sidenote \"making roads in\"."
+   },
+   {
+    "run": 7,
+    "a": "propriated, to be paid out of any money in the treasury not otherwise",
+    "b": "appropriated, and to be expended, under the direction of the President",
+    "kept": "appropriated, and to be expended, under the direction of the President",
+    "reason": "Body line level with sidenote \"the state of Ohio\"."
+   },
+   {
+    "run": 8,
+    "a": "appropriated, and to be expended, under the direction of the President",
+    "b": "of the United States, in making said road between Cumberland in the",
+    "kept": "of the United States, in making said road between Cumberland in the",
+    "reason": "Body line level with sidenote \"by the act of\"."
+   },
+   {
+    "run": 9,
+    "a": "of the United States, in making said road between Cumberland in the",
+    "b": "state of Maryland and Brownsville in the state of Pennsylvania, com-",
+    "kept": "state of Maryland and Brownsville in the state of Pennsylvania, com-",
+    "reason": "Body line level with sidenote \"April 30, 1802,\"."
+   },
+   {
+    "run": 10,
+    "a": "state of Maryland and Brownsville in the state of Pennsylvania, com-",
+    "b": "",
+    "kept": "",
+    "reason": "That body line was already placed in run 9; nothing additional printed here."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the United",
+    "kept": "Be it enacted by the Senate and House of Representatives of the United",
+    "reason": "This body line is level with the sidenote \"Appropriation\"."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "States of America in Congress assembled, That the President of the",
+    "kept": "States of America in Congress assembled, That the President of the",
+    "reason": "This body line is level with the sidenote \"of fifty thousand\"."
+   },
+   {
+    "run": 13,
+    "a": "Be it enacted by the Senate and House of Representatives of the United\nStates of America in Congress assembled, That the President of the",
+    "b": "",
+    "kept": "",
+    "reason": "Those two body lines already appear in runs 11 and 12; nothing printed here."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the United",
+    "kept": "Be it enacted by the Senate and House of Representatives of the United",
+    "reason": "This body line is level with the sidenote \"Post routes\"."
+   },
+   {
+    "run": 15,
+    "a": "Be it enacted by the Senate and House of Representatives of the United",
+    "b": "",
+    "kept": "",
+    "reason": "The line was already placed in run 14; nothing printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "730"
+  },
+  {
+   "role": "running-head",
+   "text": "TWELFTH CONGRESS.  SESS. I. CH. 78, 79, 80.  1812."
+  },
+  {
+   "role": "body",
+   "text": "prior to the date of the patent, either by the person originally entitled to"
+  },
+  {
+   "role": "body",
+   "text": "the land or by his heirs or legal representatives, or by virtue of any pro-"
+  },
+  {
+   "role": "body",
+   "text": "cess, or suit at law, or judgment of court against a person entitled to"
+  },
+  {
+   "role": "body",
+   "text": "receive his patent as aforesaid."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, May 6, 1812."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "May 6, 1812."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LXXVIII.—An Act in addition to the act to regulate the laying out and"
+  },
+  {
+   "role": "body",
+   "text": "making a road from Cumberland in the state of Maryland to the state of Ohio."
+  },
+  {
+   "role": "sidenote",
+   "text": "Thirty thou-"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "sand dollars ap-"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That in addition to the unex-"
+  },
+  {
+   "role": "sidenote",
+   "text": "propriated,  to"
+  },
+  {
+   "role": "body",
+   "text": "pended balance of the sum heretofore appropriated for laying out and"
+  },
+  {
+   "role": "sidenote",
+   "text": "be reserved out"
+  },
+  {
+   "role": "body",
+   "text": "making a road from Cumberland in the state of Maryland to the state of"
+  },
+  {
+   "role": "sidenote",
+   "text": "of the fund for"
+  },
+  {
+   "role": "body",
+   "text": "Ohio, the sum of thirty thousand dollars be, and the same is hereby ap-"
+  },
+  {
+   "role": "sidenote",
+   "text": "making roads in"
+  },
+  {
+   "role": "body",
+   "text": "propriated, to be paid out of any money in the treasury not otherwise"
+  },
+  {
+   "role": "sidenote",
+   "text": "the state of Ohio"
+  },
+  {
+   "role": "body",
+   "text": "appropriated, and to be expended, under the direction of the President"
+  },
+  {
+   "role": "sidenote",
+   "text": "by  the  act  of"
+  },
+  {
+   "role": "body",
+   "text": "of the United States, in making said road between Cumberland in the"
+  },
+  {
+   "role": "sidenote",
+   "text": "April 30, 1802,"
+  },
+  {
+   "role": "body",
+   "text": "state of Maryland and Brownsville in the state of Pennsylvania, com-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ch. 40, sec. 7."
+  },
+  {
+   "role": "body",
+   "text": "mencing at Cumberland; which sum of thirty thousand dollars shall be"
+  },
+  {
+   "role": "sidenote",
+   "text": "1815, ch. 43."
+  },
+  {
+   "role": "body",
+   "text": "paid out of the fund reserved for laying out and making roads to the"
+  },
+  {
+   "role": "body",
+   "text": "state of Ohio, by virtue of the seventh section of an act passed on the"
+  },
+  {
+   "role": "sidenote",
+   "text": "1802, ch. 40."
+  },
+  {
+   "role": "body",
+   "text": "thirtieth day of April, one thousand eight hundred and two, entituled"
+  },
+  {
+   "role": "body",
+   "text": "“An act to enable the people of the eastern division of the territory"
+  },
+  {
+   "role": "body",
+   "text": "northwest of the river Ohio, to form a constitution and state government"
+  },
+  {
+   "role": "body",
+   "text": "and for the admission of such state into the Union on an equal footing"
+  },
+  {
+   "role": "body",
+   "text": "with the original states, and for other purposes.”"
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, May 6, 1812."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "May 8, 1812."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LXXIX.—An Act for the relief of the Citizens of Venezuela."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "of fifty thousand"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the President of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "dollars."
+  },
+  {
+   "role": "body",
+   "text": "United States be, and he is hereby authorized to cause to be purchased"
+  },
+  {
+   "role": "body",
+   "text": "such provisions as he shall deem advisable, and to tender the same in"
+  },
+  {
+   "role": "body",
+   "text": "the name of the government of the United States to that of Venezuela,"
+  },
+  {
+   "role": "body",
+   "text": "for the relief of the citizens who have suffered by the late earthquake."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That a sum not exceeding fifty"
+  },
+  {
+   "role": "body",
+   "text": "thousand dollars be, and the same is hereby appropriated, to be paid out"
+  },
+  {
+   "role": "body",
+   "text": "of any monies in the treasury not otherwise appropriated, to carry into"
+  },
+  {
+   "role": "body",
+   "text": "operation this act."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, May 8, 1812."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "May 11, 1812."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LXXX.—An Act to alter and establish certain Post Roads."
+  },
+  {
+   "role": "sidenote",
+   "text": "Post routes"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "discontinued."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the following post"
+  },
+  {
+   "role": "body",
+   "text": "routes be discontinued :"
+  },
+  {
+   "role": "body",
+   "text": "From Jacksonborough in South Carolina, by Barnwell Courthouse,"
+  },
+  {
+   "role": "body",
+   "text": "to Augusta in Georgia.  From Rahway to New Providence; and from"
+  },
+  {
+   "role": "body",
+   "text": "Baskenridge to Somerset in New Jersey.  From Fort Stoddert to"
+  },
+  {
+   "role": "body",
+   "text": "Natchez in the Mississippi territory.  From Galliopolis to Chilicothe in"
+  },
+  {
+   "role": "body",
+   "text": "Ohio.  From Salisbury to Lincolnton in North Carolina.  From Pey-"
+  },
+  {
+   "role": "body",
+   "text": "tonsburg to Danville.  From Salisbury, by Andover, New Chester and"
+  },
+  {
+   "role": "body",
+   "text": "Bridgewater, to Plymouth, thence by Holderness, New Hampton and"
+  },
+  {
+   "role": "body",
+   "text": "Sandbornton to Salisbury in New Hampshire.  From Baltimore, by"
+  },
+  {
+   "role": "body",
+   "text": "Queenstown, to Centreville in Maryland.  From Buchanon to Beverly"
+  },
+  {
+   "role": "body",
+   "text": "in Virginia."
+  }
+ ],
+ "disagreement_count": 15,
+ "tokens": {
+  "input_tokens": 23462,
+  "output_tokens": 6215,
+  "cache_read_input_tokens": 1490,
+  "cache_creation_input_tokens": 833
+ },
+ "cost_usd": 0.27863,
+ "seconds": 324.9,
+ "created": "2026-09-08T11:13:38"
+}

@@ -1,0 +1,554 @@
+{
+ "granule_id": "STATUTE-115-Pg10",
+ "package_id": "STATUTE-115",
+ "volume": 115,
+ "period": "1976-2002",
+ "granule_class": "PUBLICLAW",
+ "title": "An act to extend for 11 additional months the period for which chapter 12 of title 11 of the United States Code is reenacted",
+ "date_issued": "2001-05-11",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "10",
+ "image": "data/gold/STATUTE-115-Pg10/p1.png",
+ "image_sha256": "568c0ff8d75b0aa18436e6afa437e46b517418d0bb94bba0b39612c599762d68",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "115 STAT. 10                PUBLIC LAW 107–8—MAY 11, 2001"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 107–8"
+    },
+    {
+     "role": "body",
+     "text": "107th Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "May 11, 2001"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.R. 256]"
+    },
+    {
+     "role": "body",
+     "text": "To extend for 11 additional months the period for which chapter 12 of title 11"
+    },
+    {
+     "role": "body",
+     "text": "of the United States Code is reenacted."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of"
+    },
+    {
+     "role": "body",
+     "text": "the United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. AMENDMENTS."
+    },
+    {
+     "role": "body",
+     "text": "Section 149 of title I of division C of Public Law 105–277,"
+    },
+    {
+     "role": "sidenote",
+     "text": "11 USC"
+    },
+    {
+     "role": "sidenote",
+     "text": "1201–1208,"
+    },
+    {
+     "role": "sidenote",
+     "text": "1221–1231,"
+    },
+    {
+     "role": "sidenote",
+     "text": "and 1201 note."
+    },
+    {
+     "role": "body",
+     "text": "as amended by Public Law 106–5 and Public Law 106–70, is"
+    },
+    {
+     "role": "body",
+     "text": "amended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by striking “July 1, 2000” each place it appears and"
+    },
+    {
+     "role": "body",
+     "text": "inserting “June 1, 2001”; and"
+    },
+    {
+     "role": "body",
+     "text": "(2) in subsection (a)—"
+    },
+    {
+     "role": "body",
+     "text": "(A) by striking “September 30, 1999” and inserting"
+    },
+    {
+     "role": "body",
+     "text": "“June 30, 2000”; and"
+    },
+    {
+     "role": "body",
+     "text": "(B) by striking “October 1, 1999” and inserting “July"
+    },
+    {
+     "role": "body",
+     "text": "1, 2000”."
+    },
+    {
+     "role": "sidenote",
+     "text": "11 USC 1201"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. EFFECTIVE DATE."
+    },
+    {
+     "role": "body",
+     "text": "The amendments made by section 1 shall take effect on July"
+    },
+    {
+     "role": "body",
+     "text": "1, 2000."
+    },
+    {
+     "role": "body",
+     "text": "Approved May 11, 2001."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—H.R. 256:"
+    },
+    {
+     "role": "footnote",
+     "text": "HOUSE REPORTS: No. 107–2 (Comm. on the Judiciary)."
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 147 (2001):"
+    },
+    {
+     "role": "footnote",
+     "text": "Feb. 28, considered and passed House."
+    },
+    {
+     "role": "footnote",
+     "text": "Apr. 26, considered and passed Senate."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 961,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0509,
+   "seconds": 11.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "115 STAT. 10"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 107–8—MAY 11, 2001"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 107–8"
+    },
+    {
+     "role": "body",
+     "text": "107th Congress"
+    },
+    {
+     "role": "body",
+     "text": "An Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "May 11, 2001"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H.R. 256]"
+    },
+    {
+     "role": "body",
+     "text": "To extend for 11 additional months the period for which chapter 12 of title 11"
+    },
+    {
+     "role": "body",
+     "text": "of the United States Code is reenacted."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of"
+    },
+    {
+     "role": "body",
+     "text": "the United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. AMENDMENTS."
+    },
+    {
+     "role": "body",
+     "text": "Section 149 of title I of division C of Public Law 105–277,"
+    },
+    {
+     "role": "sidenote",
+     "text": "11 USC"
+    },
+    {
+     "role": "body",
+     "text": "as amended by Public Law 106–5 and Public Law 106–70, is"
+    },
+    {
+     "role": "sidenote",
+     "text": "1201–1208,"
+    },
+    {
+     "role": "body",
+     "text": "amended—"
+    },
+    {
+     "role": "sidenote",
+     "text": "1221–1231,"
+    },
+    {
+     "role": "sidenote",
+     "text": "and 1201 note."
+    },
+    {
+     "role": "body",
+     "text": "(1) by striking “July 1, 2000” each place it appears and"
+    },
+    {
+     "role": "body",
+     "text": "inserting “June 1, 2001”; and"
+    },
+    {
+     "role": "body",
+     "text": "(2) in subsection (a)—"
+    },
+    {
+     "role": "body",
+     "text": "(A) by striking “September 30, 1999” and inserting"
+    },
+    {
+     "role": "body",
+     "text": "“June 30, 2000”; and"
+    },
+    {
+     "role": "body",
+     "text": "(B) by striking “October 1, 1999” and inserting “July"
+    },
+    {
+     "role": "body",
+     "text": "1, 2000”."
+    },
+    {
+     "role": "sidenote",
+     "text": "11 USC 1201"
+    },
+    {
+     "role": "sidenote",
+     "text": "note."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. EFFECTIVE DATE."
+    },
+    {
+     "role": "body",
+     "text": "The amendments made by section 1 shall take effect on July"
+    },
+    {
+     "role": "body",
+     "text": "1, 2000."
+    },
+    {
+     "role": "body",
+     "text": "Approved May 11, 2001."
+    },
+    {
+     "role": "footnote",
+     "text": "LEGISLATIVE HISTORY—H.R. 256:"
+    },
+    {
+     "role": "footnote",
+     "text": "HOUSE REPORTS: No. 107–2 (Comm. on the Judiciary)."
+    },
+    {
+     "role": "footnote",
+     "text": "CONGRESSIONAL RECORD, Vol. 147 (2001):"
+    },
+    {
+     "role": "footnote",
+     "text": "Feb. 28, considered and passed House."
+    },
+    {
+     "role": "footnote",
+     "text": "Apr. 26, considered and passed Senate."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 974,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.05122,
+   "seconds": 12.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 9325,
+   "output_tokens": 388,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.05674,
+  "seconds": 7.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "115 STAT. 10                PUBLIC LAW 107–8—MAY 11, 2001",
+    "b": "115 STAT. 10\nPUBLIC LAW 107–8—MAY 11, 2001",
+    "kept": "115 STAT. 10                PUBLIC LAW 107–8—MAY 11, 2001",
+    "reason": "The page number and title are printed on one running-head line."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "as amended by Public Law 106–5 and Public Law 106–70, is",
+    "kept": "",
+    "reason": "Body text is not interleaved here; the sidenote block runs continuously."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "amended—",
+    "kept": "",
+    "reason": "No body line printed between sidenote lines."
+   },
+   {
+    "run": 4,
+    "a": "as amended by Public Law 106–5 and Public Law 106–70, is\namended—",
+    "b": "",
+    "kept": "as amended by Public Law 106–5 and Public Law 106–70, is\namended—",
+    "reason": "These consecutive body lines follow the sidenote block in reading order."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "115 STAT. 10                PUBLIC LAW 107–8—MAY 11, 2001"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 107–8"
+  },
+  {
+   "role": "body",
+   "text": "107th Congress"
+  },
+  {
+   "role": "body",
+   "text": "An Act"
+  },
+  {
+   "role": "sidenote",
+   "text": "May 11, 2001"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H.R. 256]"
+  },
+  {
+   "role": "body",
+   "text": "To extend for 11 additional months the period for which chapter 12 of title 11"
+  },
+  {
+   "role": "body",
+   "text": "of the United States Code is reenacted."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of"
+  },
+  {
+   "role": "body",
+   "text": "the United States of America in Congress assembled,"
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. AMENDMENTS."
+  },
+  {
+   "role": "body",
+   "text": "Section 149 of title I of division C of Public Law 105–277,"
+  },
+  {
+   "role": "sidenote",
+   "text": "11 USC"
+  },
+  {
+   "role": "sidenote",
+   "text": "1201–1208,"
+  },
+  {
+   "role": "sidenote",
+   "text": "1221–1231,"
+  },
+  {
+   "role": "sidenote",
+   "text": "and 1201 note."
+  },
+  {
+   "role": "body",
+   "text": "as amended by Public Law 106–5 and Public Law 106–70, is"
+  },
+  {
+   "role": "body",
+   "text": "amended—"
+  },
+  {
+   "role": "body",
+   "text": "(1) by striking “July 1, 2000” each place it appears and"
+  },
+  {
+   "role": "body",
+   "text": "inserting “June 1, 2001”; and"
+  },
+  {
+   "role": "body",
+   "text": "(2) in subsection (a)—"
+  },
+  {
+   "role": "body",
+   "text": "(A) by striking “September 30, 1999” and inserting"
+  },
+  {
+   "role": "body",
+   "text": "“June 30, 2000”; and"
+  },
+  {
+   "role": "body",
+   "text": "(B) by striking “October 1, 1999” and inserting “July"
+  },
+  {
+   "role": "body",
+   "text": "1, 2000”."
+  },
+  {
+   "role": "sidenote",
+   "text": "11 USC 1201"
+  },
+  {
+   "role": "sidenote",
+   "text": "note."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. EFFECTIVE DATE."
+  },
+  {
+   "role": "body",
+   "text": "The amendments made by section 1 shall take effect on July"
+  },
+  {
+   "role": "body",
+   "text": "1, 2000."
+  },
+  {
+   "role": "body",
+   "text": "Approved May 11, 2001."
+  },
+  {
+   "role": "footnote",
+   "text": "LEGISLATIVE HISTORY—H.R. 256:"
+  },
+  {
+   "role": "footnote",
+   "text": "HOUSE REPORTS: No. 107–2 (Comm. on the Judiciary)."
+  },
+  {
+   "role": "footnote",
+   "text": "CONGRESSIONAL RECORD, Vol. 147 (2001):"
+  },
+  {
+   "role": "footnote",
+   "text": "Feb. 28, considered and passed House."
+  },
+  {
+   "role": "footnote",
+   "text": "Apr. 26, considered and passed Senate."
+  }
+ ],
+ "disagreement_count": 4,
+ "tokens": {
+  "input_tokens": 19924,
+  "output_tokens": 2323,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.15886,
+ "seconds": 30.9,
+ "created": "2026-09-08T11:54:50"
+}

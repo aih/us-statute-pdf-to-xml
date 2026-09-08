@@ -1,0 +1,1117 @@
+{
+ "granule_id": "STATUTE-11-Pg18",
+ "package_id": "STATUTE-11",
+ "volume": 11,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act making a Grant of Lands to the State of Louisiana, to aid in the Construction of Railroads in said State.",
+ "date_issued": "1856-06-03",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "18",
+ "image": "data/gold/STATUTE-11-Pg18/p1.png",
+ "image_sha256": "e35ad8b2cce7f9fed93c0d6efce97071aac4edcf00d061798524070f71422c17",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "18"
+    },
+    {
+     "role": "running-head",
+     "text": "THIRTY-FOURTH CONGRESS.  SESS. I.  CH. 41, 42.  1856."
+    },
+    {
+     "role": "body",
+     "text": "of said lands become subject to private entry until the same have been"
+    },
+    {
+     "role": "body",
+     "text": "first offered at public sale at the increased price."
+    },
+    {
+     "role": "sidenote",
+     "text": "Object of grant."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That the said lands hereby granted"
+    },
+    {
+     "role": "body",
+     "text": "to the said State shall be subject to the disposal of the legislature thereof,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Railroad to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "a public high-"
+    },
+    {
+     "role": "sidenote",
+     "text": "way for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "government."
+    },
+    {
+     "role": "body",
+     "text": "for the purposes aforesaid, and no other; and the said railroads shall be"
+    },
+    {
+     "role": "body",
+     "text": "and remain public highways for the use of the government of the United"
+    },
+    {
+     "role": "body",
+     "text": "States, free from toll or other charge upon the transportation of any"
+    },
+    {
+     "role": "body",
+     "text": "property or troops of the United States."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That the lands hereby granted to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Lands, how"
+    },
+    {
+     "role": "sidenote",
+     "text": "disposed of."
+    },
+    {
+     "role": "body",
+     "text": "said State shall be disposed of by said State only in manner following,"
+    },
+    {
+     "role": "body",
+     "text": "that is to say: That a quantity of land, not exceeding one hundred and"
+    },
+    {
+     "role": "body",
+     "text": "twenty sections for each of said roads, and included within a continuous"
+    },
+    {
+     "role": "body",
+     "text": "length of twenty miles of each of said roads, may be sold; and when the"
+    },
+    {
+     "role": "body",
+     "text": "governor of said State shall certify to the Secretary of the Interior that"
+    },
+    {
+     "role": "body",
+     "text": "any twenty continuous miles of any of said roads is completed, then"
+    },
+    {
+     "role": "body",
+     "text": "another quantity of land hereby granted, not to exceed one hundred and"
+    },
+    {
+     "role": "body",
+     "text": "twenty sections for each of said roads having twenty continuous miles"
+    },
+    {
+     "role": "body",
+     "text": "completed as aforesaid, and included within a continuous length of twenty"
+    },
+    {
+     "role": "body",
+     "text": "miles of each of such roads, may be sold; and so, from time to time, until"
+    },
+    {
+     "role": "body",
+     "text": "said roads are completed; and if any of said roads is not completed within"
+    },
+    {
+     "role": "body",
+     "text": "ten years, no further sale shall be made, and the lands unsold shall revert"
+    },
+    {
+     "role": "body",
+     "text": "to the United States."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That the United States mail shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "Transportation"
+    },
+    {
+     "role": "sidenote",
+     "text": "of mails."
+    },
+    {
+     "role": "body",
+     "text": "be transported over said roads, under the direction of the Post-Office"
+    },
+    {
+     "role": "body",
+     "text": "Department, at such price as Congress may, by law, direct: Provided,"
+    },
+    {
+     "role": "body",
+     "text": "That until such price is fixed by law, the Postmaster-General shall have"
+    },
+    {
+     "role": "body",
+     "text": "the power to determine the same."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. And be it further enacted, That a grant of lands shall be made"
+    },
+    {
+     "role": "sidenote",
+     "text": "Grant of other"
+    },
+    {
+     "role": "sidenote",
+     "text": "lands to Alabama"
+    },
+    {
+     "role": "sidenote",
+     "text": "for railroads."
+    },
+    {
+     "role": "body",
+     "text": "to said State to aid in the construction of the following roads in said"
+    },
+    {
+     "role": "body",
+     "text": "State, to wit: the Memphis and Charleston railroad, extending from"
+    },
+    {
+     "role": "body",
+     "text": "Memphis on the Mississippi River, in Tennessee, to Stevenson, on the"
+    },
+    {
+     "role": "body",
+     "text": "Nashville and Chattenooga railroad, in Alabama; the Girard and Mobile"
+    },
+    {
+     "role": "body",
+     "text": "railroad, from Girard to Mobile, Alabama; the Northeast and South-"
+    },
+    {
+     "role": "body",
+     "text": "western railroad, from near Gadsden to some point on the Alabama and"
+    },
+    {
+     "role": "body",
+     "text": "Mississippi State line, in the direction to the Mobile and Ohio railroad,"
+    },
+    {
+     "role": "body",
+     "text": "with a view to connect with said Mobile and Ohio railroad; the Coosa"
+    },
+    {
+     "role": "body",
+     "text": "and Alabama railroad, from Selma to Gadsden; the Central railroad"
+    },
+    {
+     "role": "sidenote",
+     "text": "1857, ch. 103."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 200."
+    },
+    {
+     "role": "body",
+     "text": "from Montgomery to some point on the Alabama and Tennessee State"
+    },
+    {
+     "role": "body",
+     "text": "line in the direction to Nashville, Tennessee; and that alternate sections"
+    },
+    {
+     "role": "body",
+     "text": "of the public lands to the same extend and in the same manner, and upon"
+    },
+    {
+     "role": "body",
+     "text": "the same limitations and restrictions in every respect, shall be and is"
+    },
+    {
+     "role": "body",
+     "text": "hereby made to aid in the construction of the roads in said State men-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "tioned in this act: Provided, That the lands hereby granted to said State"
+    },
+    {
+     "role": "body",
+     "text": "for the purpose of constructing a railroad from the northeast to the south-"
+    },
+    {
+     "role": "body",
+     "text": "western portion of said State, lying northwest of Elyton, shall be assigned"
+    },
+    {
+     "role": "body",
+     "text": "to such road as may be designated by the legislature of said State."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 3, 1856."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 3, 1856."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLII.—An Act making a Grant of Lands to the State of Louisiana, to aid in"
+    },
+    {
+     "role": "body",
+     "text": "the Construction of Railroads in said State."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That there be and is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "Grant of land"
+    },
+    {
+     "role": "sidenote",
+     "text": "to Louisiana for"
+    },
+    {
+     "role": "sidenote",
+     "text": "a railroad."
+    },
+    {
+     "role": "body",
+     "text": "granted to the State of Louisiana, for the purpose of aiding in the con-"
+    },
+    {
+     "role": "body",
+     "text": "struction of a railroad from the Texas line, in the State of Louisiana,"
+    },
+    {
+     "role": "body",
+     "text": "west of the town of Greenwood; via Greenwood, Shreveport, and Monroe,"
+    },
+    {
+     "role": "body",
+     "text": "to a point on the Mississippi River, opposite Vicksburg; and from New"
+    },
+    {
+     "role": "body",
+     "text": "Orleans by Opelousas, to the State line of Texas; and from New Orleans"
+    },
+    {
+     "role": "body",
+     "text": "to the State line, in the direction to Jackson, Mississippi; every alternate"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 2355,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08687,
+   "seconds": 26.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "18"
+    },
+    {
+     "role": "running-head",
+     "text": "THIRTY-FOURTH CONGRESS.  SESS. I.  CH. 41, 42.   1856."
+    },
+    {
+     "role": "body",
+     "text": "of said lands become subject to private entry until the same have been"
+    },
+    {
+     "role": "body",
+     "text": "first offered at public sale at the increased price."
+    },
+    {
+     "role": "sidenote",
+     "text": "Object of grant."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3.  And be it further enacted, That the said lands hereby granted"
+    },
+    {
+     "role": "body",
+     "text": "to the said State shall be subject to the disposal of the legislature thereof,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Railroad to be"
+    },
+    {
+     "role": "body",
+     "text": "for the purposes aforesaid, and no other; and the said railroads shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "a public high-"
+    },
+    {
+     "role": "body",
+     "text": "and remain public highways for the use of the government of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "way for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "government."
+    },
+    {
+     "role": "body",
+     "text": "States, free from toll or other charge upon the transportation of any"
+    },
+    {
+     "role": "body",
+     "text": "property or troops of the United States."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4.  And be it further enacted, That the lands hereby granted to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Lands, how"
+    },
+    {
+     "role": "body",
+     "text": "said State shall be disposed of by said State only in manner following,"
+    },
+    {
+     "role": "sidenote",
+     "text": "disposed of."
+    },
+    {
+     "role": "body",
+     "text": "that is to say: That a quantity of land, not exceeding one hundred and"
+    },
+    {
+     "role": "body",
+     "text": "twenty sections for each of said roads, and included within a continuous"
+    },
+    {
+     "role": "body",
+     "text": "length of twenty miles of each of said roads, may be sold; and when the"
+    },
+    {
+     "role": "body",
+     "text": "governor of said State shall certify to the Secretary of the Interior that"
+    },
+    {
+     "role": "body",
+     "text": "any twenty continuous miles of any of said roads is completed, then"
+    },
+    {
+     "role": "body",
+     "text": "another quantity of land hereby granted, not to exceed one hundred and"
+    },
+    {
+     "role": "body",
+     "text": "twenty sections for each of said roads having twenty continuous miles"
+    },
+    {
+     "role": "body",
+     "text": "completed as aforesaid, and included within a continuous length of twenty"
+    },
+    {
+     "role": "body",
+     "text": "miles of each of such roads, may be sold; and so, from time to time, until"
+    },
+    {
+     "role": "body",
+     "text": "said roads are completed; and if any of said roads is not completed within"
+    },
+    {
+     "role": "body",
+     "text": "ten years, no further sale shall be made, and the lands unsold shall revert"
+    },
+    {
+     "role": "body",
+     "text": "to the United States."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5.  And be it further enacted, That the United States mail shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "Transportation"
+    },
+    {
+     "role": "body",
+     "text": "be transported over said roads, under the direction of the Post-Office"
+    },
+    {
+     "role": "sidenote",
+     "text": "of mails."
+    },
+    {
+     "role": "body",
+     "text": "Department, at such price as Congress may, by law, direct: Provided,"
+    },
+    {
+     "role": "body",
+     "text": "That until such price is fixed by law, the Postmaster-General shall have"
+    },
+    {
+     "role": "body",
+     "text": "the power to determine the same."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6.  And be it further enacted, That a grant of lands shall be made"
+    },
+    {
+     "role": "sidenote",
+     "text": "Grant of other"
+    },
+    {
+     "role": "body",
+     "text": "to said State to aid in the construction of the following roads in said"
+    },
+    {
+     "role": "sidenote",
+     "text": "lands to Alabama"
+    },
+    {
+     "role": "sidenote",
+     "text": "for railroads."
+    },
+    {
+     "role": "body",
+     "text": "State, to wit: the Memphis and Charleston railroad, extending from"
+    },
+    {
+     "role": "body",
+     "text": "Memphis on the Mississippi River, in Tennessee, to Stevenson, on the"
+    },
+    {
+     "role": "body",
+     "text": "Nashville and Chattenooga railroad, in Alabama; the Girard and Mobile"
+    },
+    {
+     "role": "body",
+     "text": "railroad, from Girard to Mobile, Alabama; the Northeast and South-"
+    },
+    {
+     "role": "body",
+     "text": "western railroad, from near Gadsden to some point on the Alabama and"
+    },
+    {
+     "role": "body",
+     "text": "Mississippi State line, in the direction to the Mobile and Ohio railroad,"
+    },
+    {
+     "role": "body",
+     "text": "with a view to connect with said Mobile and Ohio railroad; the Coosa"
+    },
+    {
+     "role": "body",
+     "text": "and Alabama railroad, from Selma to Gadsden; the Central railroad"
+    },
+    {
+     "role": "sidenote",
+     "text": "1857, ch. 103."
+    },
+    {
+     "role": "body",
+     "text": "from Montgomery to some point on the Alabama and Tennessee State"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 200."
+    },
+    {
+     "role": "body",
+     "text": "line in the direction to Nashville, Tennessee; and that alternate sections"
+    },
+    {
+     "role": "body",
+     "text": "of the public lands to the same extend and in the same manner, and upon"
+    },
+    {
+     "role": "body",
+     "text": "the same limitations and restrictions in every respect, shall be and is"
+    },
+    {
+     "role": "body",
+     "text": "hereby made to aid in the construction of the roads in said State men-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "tioned in this act: Provided, That the lands hereby granted to said State"
+    },
+    {
+     "role": "body",
+     "text": "for the purpose of constructing a railroad from the northeast to the south-"
+    },
+    {
+     "role": "body",
+     "text": "western portion of said State, lying northwest of Elyton, shall be assigned"
+    },
+    {
+     "role": "body",
+     "text": "to such road as may be designated by the legislature of said State."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 3, 1856."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 3, 1856."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLII.—An Act making a Grant of Lands to the State of Louisiana, to aid in"
+    },
+    {
+     "role": "body",
+     "text": "the Construction of Railroads in said State."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That there be and is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "Grant of land"
+    },
+    {
+     "role": "sidenote",
+     "text": "to Louisiana for"
+    },
+    {
+     "role": "body",
+     "text": "granted to the State of Louisiana, for the purpose of aiding in the con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "a railroad."
+    },
+    {
+     "role": "body",
+     "text": "struction of a railroad from the Texas line, in the State of Louisiana,"
+    },
+    {
+     "role": "body",
+     "text": "west of the town of Greenwood; via Greenwood, Shreveport, and Monroe,"
+    },
+    {
+     "role": "body",
+     "text": "to a point on the Mississippi River, opposite Vicksburg; and from New"
+    },
+    {
+     "role": "body",
+     "text": "Orleans by Opelousas, to the State line of Texas; and from New Orleans"
+    },
+    {
+     "role": "body",
+     "text": "to the State line, in the direction to Jackson, Mississippi; every alternate"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 2359,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08696,
+   "seconds": 26.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12314,
+   "output_tokens": 1241,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.09301,
+  "seconds": 18.0,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "for the purposes aforesaid, and no other; and the said railroads shall be",
+    "kept": "",
+    "reason": "The sidenote block 'Railroad to be / a public high- / way for the / government.' is printed as a unit in the margin; body text follows after it."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "and remain public highways for the use of the government of the United",
+    "kept": "",
+    "reason": "Same sidenote block continues; no body line interrupts the marginal note."
+   },
+   {
+    "run": 3,
+    "a": "for the purposes aforesaid, and no other; and the said railroads shall be\nand remain public highways for the use of the government of the United",
+    "b": "",
+    "kept": "for the purposes aforesaid, and no other; and the said railroads shall be\nand remain public highways for the use of the government of the United",
+    "reason": "These body lines follow the complete four-line sidenote block."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "said State shall be disposed of by said State only in manner following,",
+    "kept": "",
+    "reason": "Sidenote 'Lands, how / disposed of.' is printed as a two-line block before the body resumes."
+   },
+   {
+    "run": 5,
+    "a": "said State shall be disposed of by said State only in manner following,",
+    "b": "",
+    "kept": "said State shall be disposed of by said State only in manner following,",
+    "reason": "Body line follows the full sidenote block."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "be transported over said roads, under the direction of the Post-Office",
+    "kept": "",
+    "reason": "Sidenote 'Transportation / of mails.' is a two-line block."
+   },
+   {
+    "run": 7,
+    "a": "be transported over said roads, under the direction of the Post-Office",
+    "b": "",
+    "kept": "be transported over said roads, under the direction of the Post-Office",
+    "reason": "Body line follows the complete sidenote."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "to said State to aid in the construction of the following roads in said",
+    "kept": "",
+    "reason": "Sidenote 'Grant of other / lands to Alabama / for railroads.' is a three-line block."
+   },
+   {
+    "run": 9,
+    "a": "to said State to aid in the construction of the following roads in said",
+    "b": "",
+    "kept": "to said State to aid in the construction of the following roads in said",
+    "reason": "Body line follows the complete sidenote block."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "from Montgomery to some point on the Alabama and Tennessee State",
+    "kept": "",
+    "reason": "Sidenote '1857, ch. 103. / Post, p. 200.' is a two-line block."
+   },
+   {
+    "run": 11,
+    "a": "from Montgomery to some point on the Alabama and Tennessee State",
+    "b": "",
+    "kept": "from Montgomery to some point on the Alabama and Tennessee State",
+    "reason": "Body line follows the complete sidenote block."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "granted to the State of Louisiana, for the purpose of aiding in the con-",
+    "kept": "",
+    "reason": "Sidenote 'Grant of land / to Louisiana for / a railroad.' is a three-line block."
+   },
+   {
+    "run": 13,
+    "a": "granted to the State of Louisiana, for the purpose of aiding in the con-",
+    "b": "",
+    "kept": "granted to the State of Louisiana, for the purpose of aiding in the con-",
+    "reason": "Body line follows the complete sidenote block."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "18"
+  },
+  {
+   "role": "running-head",
+   "text": "THIRTY-FOURTH CONGRESS.  SESS. I.  CH. 41, 42.  1856."
+  },
+  {
+   "role": "body",
+   "text": "of said lands become subject to private entry until the same have been"
+  },
+  {
+   "role": "body",
+   "text": "first offered at public sale at the increased price."
+  },
+  {
+   "role": "sidenote",
+   "text": "Object of grant."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That the said lands hereby granted"
+  },
+  {
+   "role": "body",
+   "text": "to the said State shall be subject to the disposal of the legislature thereof,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Railroad to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "a public high-"
+  },
+  {
+   "role": "sidenote",
+   "text": "way for the"
+  },
+  {
+   "role": "sidenote",
+   "text": "government."
+  },
+  {
+   "role": "body",
+   "text": "for the purposes aforesaid, and no other; and the said railroads shall be"
+  },
+  {
+   "role": "body",
+   "text": "and remain public highways for the use of the government of the United"
+  },
+  {
+   "role": "body",
+   "text": "States, free from toll or other charge upon the transportation of any"
+  },
+  {
+   "role": "body",
+   "text": "property or troops of the United States."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. And be it further enacted, That the lands hereby granted to"
+  },
+  {
+   "role": "sidenote",
+   "text": "Lands, how"
+  },
+  {
+   "role": "sidenote",
+   "text": "disposed of."
+  },
+  {
+   "role": "body",
+   "text": "said State shall be disposed of by said State only in manner following,"
+  },
+  {
+   "role": "body",
+   "text": "that is to say: That a quantity of land, not exceeding one hundred and"
+  },
+  {
+   "role": "body",
+   "text": "twenty sections for each of said roads, and included within a continuous"
+  },
+  {
+   "role": "body",
+   "text": "length of twenty miles of each of said roads, may be sold; and when the"
+  },
+  {
+   "role": "body",
+   "text": "governor of said State shall certify to the Secretary of the Interior that"
+  },
+  {
+   "role": "body",
+   "text": "any twenty continuous miles of any of said roads is completed, then"
+  },
+  {
+   "role": "body",
+   "text": "another quantity of land hereby granted, not to exceed one hundred and"
+  },
+  {
+   "role": "body",
+   "text": "twenty sections for each of said roads having twenty continuous miles"
+  },
+  {
+   "role": "body",
+   "text": "completed as aforesaid, and included within a continuous length of twenty"
+  },
+  {
+   "role": "body",
+   "text": "miles of each of such roads, may be sold; and so, from time to time, until"
+  },
+  {
+   "role": "body",
+   "text": "said roads are completed; and if any of said roads is not completed within"
+  },
+  {
+   "role": "body",
+   "text": "ten years, no further sale shall be made, and the lands unsold shall revert"
+  },
+  {
+   "role": "body",
+   "text": "to the United States."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. And be it further enacted, That the United States mail shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "Transportation"
+  },
+  {
+   "role": "sidenote",
+   "text": "of mails."
+  },
+  {
+   "role": "body",
+   "text": "be transported over said roads, under the direction of the Post-Office"
+  },
+  {
+   "role": "body",
+   "text": "Department, at such price as Congress may, by law, direct: Provided,"
+  },
+  {
+   "role": "body",
+   "text": "That until such price is fixed by law, the Postmaster-General shall have"
+  },
+  {
+   "role": "body",
+   "text": "the power to determine the same."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 6. And be it further enacted, That a grant of lands shall be made"
+  },
+  {
+   "role": "sidenote",
+   "text": "Grant of other"
+  },
+  {
+   "role": "sidenote",
+   "text": "lands to Alabama"
+  },
+  {
+   "role": "sidenote",
+   "text": "for railroads."
+  },
+  {
+   "role": "body",
+   "text": "to said State to aid in the construction of the following roads in said"
+  },
+  {
+   "role": "body",
+   "text": "State, to wit: the Memphis and Charleston railroad, extending from"
+  },
+  {
+   "role": "body",
+   "text": "Memphis on the Mississippi River, in Tennessee, to Stevenson, on the"
+  },
+  {
+   "role": "body",
+   "text": "Nashville and Chattenooga railroad, in Alabama; the Girard and Mobile"
+  },
+  {
+   "role": "body",
+   "text": "railroad, from Girard to Mobile, Alabama; the Northeast and South-"
+  },
+  {
+   "role": "body",
+   "text": "western railroad, from near Gadsden to some point on the Alabama and"
+  },
+  {
+   "role": "body",
+   "text": "Mississippi State line, in the direction to the Mobile and Ohio railroad,"
+  },
+  {
+   "role": "body",
+   "text": "with a view to connect with said Mobile and Ohio railroad; the Coosa"
+  },
+  {
+   "role": "body",
+   "text": "and Alabama railroad, from Selma to Gadsden; the Central railroad"
+  },
+  {
+   "role": "sidenote",
+   "text": "1857, ch. 103."
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, p. 200."
+  },
+  {
+   "role": "body",
+   "text": "from Montgomery to some point on the Alabama and Tennessee State"
+  },
+  {
+   "role": "body",
+   "text": "line in the direction to Nashville, Tennessee; and that alternate sections"
+  },
+  {
+   "role": "body",
+   "text": "of the public lands to the same extend and in the same manner, and upon"
+  },
+  {
+   "role": "body",
+   "text": "the same limitations and restrictions in every respect, shall be and is"
+  },
+  {
+   "role": "body",
+   "text": "hereby made to aid in the construction of the roads in said State men-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "tioned in this act: Provided, That the lands hereby granted to said State"
+  },
+  {
+   "role": "body",
+   "text": "for the purpose of constructing a railroad from the northeast to the south-"
+  },
+  {
+   "role": "body",
+   "text": "western portion of said State, lying northwest of Elyton, shall be assigned"
+  },
+  {
+   "role": "body",
+   "text": "to such road as may be designated by the legislature of said State."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, June 3, 1856."
+  },
+  {
+   "role": "sidenote",
+   "text": "June 3, 1856."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XLII.—An Act making a Grant of Lands to the State of Louisiana, to aid in"
+  },
+  {
+   "role": "body",
+   "text": "the Construction of Railroads in said State."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That there be and is hereby"
+  },
+  {
+   "role": "sidenote",
+   "text": "Grant of land"
+  },
+  {
+   "role": "sidenote",
+   "text": "to Louisiana for"
+  },
+  {
+   "role": "sidenote",
+   "text": "a railroad."
+  },
+  {
+   "role": "body",
+   "text": "granted to the State of Louisiana, for the purpose of aiding in the con-"
+  },
+  {
+   "role": "body",
+   "text": "struction of a railroad from the Texas line, in the State of Louisiana,"
+  },
+  {
+   "role": "body",
+   "text": "west of the town of Greenwood; via Greenwood, Shreveport, and Monroe,"
+  },
+  {
+   "role": "body",
+   "text": "to a point on the Mississippi River, opposite Vicksburg; and from New"
+  },
+  {
+   "role": "body",
+   "text": "Orleans by Opelousas, to the State line of Texas; and from New Orleans"
+  },
+  {
+   "role": "body",
+   "text": "to the State line, in the direction to Jackson, Mississippi; every alternate"
+  }
+ ],
+ "disagreement_count": 13,
+ "tokens": {
+  "input_tokens": 23361,
+  "output_tokens": 5955,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.26684,
+ "seconds": 70.9,
+ "created": "2026-09-08T11:25:37"
+}

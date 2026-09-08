@@ -1,0 +1,1278 @@
+{
+ "granule_id": "STATUTE-60-Pg181-2",
+ "package_id": "STATUTE-60",
+ "volume": 60,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To exempt from taxation certain property of the Disabled American Veterans in the District of Columbia.",
+ "date_issued": "1946-05-15",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "181",
+ "image": "data/gold/STATUTE-60-Pg181-2/p1.png",
+ "image_sha256": "d3ba316f31a5d20cf26202f7ce73c278d797d1ea8b5ff8f5bb49d1ed1b557330",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "60 STAT.]   79TH CONG., 2D SESS.—CHS. 252, 253, 257—MAY 14, 15, 1946"
+    },
+    {
+     "role": "page-number",
+     "text": "181"
+    },
+    {
+     "role": "body",
+     "text": "Nebraska, on April 6, 1944, and September 15, 1944: Provided, That"
+    },
+    {
+     "role": "body",
+     "text": "no part of the amount appropriated in this Act in excess of 10 per"
+    },
+    {
+     "role": "body",
+     "text": "centum thereof shall be paid or delivered to or received by any agent"
+    },
+    {
+     "role": "body",
+     "text": "or attorney on account of services rendered in connection with this"
+    },
+    {
+     "role": "body",
+     "text": "claim, and the same shall be unlawful, any contract to the contrary"
+    },
+    {
+     "role": "body",
+     "text": "notwithstanding.  Any person violating the provisions of this Act"
+    },
+    {
+     "role": "body",
+     "text": "shall be deemed guilty of a misdemeanor and upon conviction thereof"
+    },
+    {
+     "role": "body",
+     "text": "shall be fined in any sum not exceeding $1,000."
+    },
+    {
+     "role": "body",
+     "text": "Approved May 14, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 253]"
+    },
+    {
+     "role": "body",
+     "text": "JOINT RESOLUTION"
+    },
+    {
+     "role": "sidenote",
+     "text": "May 14, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. J. Res. 159]"
+    },
+    {
+     "role": "body",
+     "text": "To extend the Selective Training and Service Act of 1940, as amended, until"
+    },
+    {
+     "role": "body",
+     "text": "July 1, 1946."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 379]"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "54 Stat. 897."
+    },
+    {
+     "role": "sidenote",
+     "text": "50 U. S. C., Supp."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That section 16 (b) of the"
+    },
+    {
+     "role": "body",
+     "text": "Selective Training and Service Act of 1940, as amended, is amended"
+    },
+    {
+     "role": "sidenote",
+     "text": "V, app. § 316 (b)."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 342."
+    },
+    {
+     "role": "body",
+     "text": "by striking out “May 15, 1946” and inserting “July 1, 1946”."
+    },
+    {
+     "role": "sidenote",
+     "text": "54 Stat. 888."
+    },
+    {
+     "role": "sidenote",
+     "text": "50 U. S. C., Supp."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Section 5 (e) of the Selective Training and Service Act"
+    },
+    {
+     "role": "body",
+     "text": "of 1940, as amended, is amended by adding at the end thereof the"
+    },
+    {
+     "role": "sidenote",
+     "text": "V, app. § 305 (e)."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 342."
+    },
+    {
+     "role": "body",
+     "text": "following new paragraph:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Exemption from in-"
+    },
+    {
+     "role": "sidenote",
+     "text": "duction."
+    },
+    {
+     "role": "body",
+     "text": "“(3) After May 14, 1946, no individual who has a child or children"
+    },
+    {
+     "role": "body",
+     "text": "shall be inducted without his consent for training and service under"
+    },
+    {
+     "role": "sidenote",
+     "text": "“Child.”"
+    },
+    {
+     "role": "body",
+     "text": "this Act.  As used in this paragraph the term ‘child’ includes a"
+    },
+    {
+     "role": "body",
+     "text": "child legally adopted, a stepchild, a foster child, and a person who"
+    },
+    {
+     "role": "body",
+     "text": "is supported in good faith by the individual in a relationship similar"
+    },
+    {
+     "role": "body",
+     "text": "to that of a parent and child but such term does not include any"
+    },
+    {
+     "role": "body",
+     "text": "person eighteen years of age or over unless such person is physically"
+    },
+    {
+     "role": "body",
+     "text": "or mentally handicapped.”"
+    },
+    {
+     "role": "sidenote",
+     "text": "54 Stat. 885."
+    },
+    {
+     "role": "sidenote",
+     "text": "50 U. S. C., Supp. V,"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. So much of the first sentence of section 3 (a) of the"
+    },
+    {
+     "role": "body",
+     "text": "Selective Training and Service Act of 1940, as amended, as precedes"
+    },
+    {
+     "role": "sidenote",
+     "text": "app. § 303 (a)."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 341."
+    },
+    {
+     "role": "body",
+     "text": "the first proviso is amended to read as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Persons liable for"
+    },
+    {
+     "role": "sidenote",
+     "text": "training and service."
+    },
+    {
+     "role": "body",
+     "text": "“SEC. 3. (a) Except as otherwise provided in this Act, every"
+    },
+    {
+     "role": "body",
+     "text": "male citizen of the United States, and every other male person"
+    },
+    {
+     "role": "body",
+     "text": "residing in the United States, who is between the ages of twenty"
+    },
+    {
+     "role": "body",
+     "text": "and thirty, at the time fixed for his registration, or who attains the"
+    },
+    {
+     "role": "body",
+     "text": "age of twenty after having been required to register pursuant to"
+    },
+    {
+     "role": "sidenote",
+     "text": "54 Stat. 885."
+    },
+    {
+     "role": "sidenote",
+     "text": "50 U. S. C., Supp. V,"
+    },
+    {
+     "role": "body",
+     "text": "section 2 of this Act, shall be liable for training and service in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "app. § 302."
+    },
+    {
+     "role": "body",
+     "text": "land or naval forces of the United States.”"
+    },
+    {
+     "role": "body",
+     "text": "Approved May 14, 1946, 8 P. M."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 257]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "May 15, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1961]"
+    },
+    {
+     "role": "body",
+     "text": "To exempt from taxation certain property of the Disabled American Veterans in"
+    },
+    {
+     "role": "body",
+     "text": "the District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 380]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the property"
+    },
+    {
+     "role": "body",
+     "text": "situated in square 153 in the city of Washington, District of Colum-"
+    },
+    {
+     "role": "body",
+     "text": "bia, described as lot 132, owned, occupied, and used by the Disabled"
+    },
+    {
+     "role": "body",
+     "text": "American Veterans, is hereby exempt from all taxation so long as"
+    },
+    {
+     "role": "body",
+     "text": "the same is so owned and occupied, and not used for commercial"
+    },
+    {
+     "role": "body",
+     "text": "purposes, subject to the provisions of sections 2, 3, and 5 of the Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "56 Stat. 1091."
+    },
+    {
+     "role": "sidenote",
+     "text": "D. C. Code, Supp."
+    },
+    {
+     "role": "body",
+     "text": "entitled “An Act to define the real property exempt from taxation"
+    },
+    {
+     "role": "body",
+     "text": "in the District of Columbia”, approved December 24, 1942."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, §§ 47–801b, 47–"
+    },
+    {
+     "role": "sidenote",
+     "text": "801c, 47–801e."
+    },
+    {
+     "role": "body",
+     "text": "Approved May 15, 1946."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2491,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08971,
+   "seconds": 27.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "60 STAT.]   79TH CONG., 2D SESS.—CHS. 252, 253, 257—MAY 14, 15, 1946"
+    },
+    {
+     "role": "page-number",
+     "text": "181"
+    },
+    {
+     "role": "body",
+     "text": "Nebraska, on April 6, 1944, and September 15, 1944: Provided, That"
+    },
+    {
+     "role": "body",
+     "text": "no part of the amount appropriated in this Act in excess of 10 per"
+    },
+    {
+     "role": "body",
+     "text": "centum thereof shall be paid or delivered to or received by any agent"
+    },
+    {
+     "role": "body",
+     "text": "or attorney on account of services rendered in connection with this"
+    },
+    {
+     "role": "body",
+     "text": "claim, and the same shall be unlawful, any contract to the contrary"
+    },
+    {
+     "role": "body",
+     "text": "notwithstanding.  Any person violating the provisions of this Act"
+    },
+    {
+     "role": "body",
+     "text": "shall be deemed guilty of a misdemeanor and upon conviction thereof"
+    },
+    {
+     "role": "body",
+     "text": "shall be fined in any sum not exceeding $1,000."
+    },
+    {
+     "role": "body",
+     "text": "Approved May 14, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 253]"
+    },
+    {
+     "role": "body",
+     "text": "JOINT RESOLUTION"
+    },
+    {
+     "role": "body",
+     "text": "To extend the Selective Training and Service Act of 1940, as amended, until"
+    },
+    {
+     "role": "body",
+     "text": "July 1, 1946."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 14, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. J. Res. 159]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 379]"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That section 16 (b) of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "54 Stat. 897."
+    },
+    {
+     "role": "sidenote",
+     "text": "50 U. S. C., Supp."
+    },
+    {
+     "role": "body",
+     "text": "Selective Training and Service Act of 1940, as amended, is amended"
+    },
+    {
+     "role": "sidenote",
+     "text": "V, app. § 316 (b)."
+    },
+    {
+     "role": "body",
+     "text": "by striking out “May 15, 1946” and inserting “July 1, 1946”."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 342."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Section 5 (e) of the Selective Training and Service Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "54 Stat. 888."
+    },
+    {
+     "role": "sidenote",
+     "text": "50 U. S. C., Supp."
+    },
+    {
+     "role": "body",
+     "text": "of 1940, as amended, is amended by adding at the end thereof the"
+    },
+    {
+     "role": "sidenote",
+     "text": "V, app. § 305 (e)."
+    },
+    {
+     "role": "body",
+     "text": "following new paragraph:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 342."
+    },
+    {
+     "role": "body",
+     "text": "“(3) After May 14, 1946, no individual who has a child or children"
+    },
+    {
+     "role": "sidenote",
+     "text": "Exemption from in-"
+    },
+    {
+     "role": "body",
+     "text": "shall be inducted without his consent for training and service under"
+    },
+    {
+     "role": "sidenote",
+     "text": "duction."
+    },
+    {
+     "role": "body",
+     "text": "this Act.  As used in this paragraph the term ‘child’ includes a"
+    },
+    {
+     "role": "sidenote",
+     "text": "“Child.”"
+    },
+    {
+     "role": "body",
+     "text": "child legally adopted, a stepchild, a foster child, and a person who"
+    },
+    {
+     "role": "body",
+     "text": "is supported in good faith by the individual in a relationship similar"
+    },
+    {
+     "role": "body",
+     "text": "to that of a parent and child but such term does not include any"
+    },
+    {
+     "role": "body",
+     "text": "person eighteen years of age or over unless such person is physically"
+    },
+    {
+     "role": "body",
+     "text": "or mentally handicapped.”"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. So much of the first sentence of section 3 (a) of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "54 Stat. 885."
+    },
+    {
+     "role": "sidenote",
+     "text": "50 U. S. C., Supp. V,"
+    },
+    {
+     "role": "body",
+     "text": "Selective Training and Service Act of 1940, as amended, as precedes"
+    },
+    {
+     "role": "sidenote",
+     "text": "app. § 303 (a)."
+    },
+    {
+     "role": "body",
+     "text": "the first proviso is amended to read as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 341."
+    },
+    {
+     "role": "body",
+     "text": "“SEC. 3. (a) Except as otherwise provided in this Act, every"
+    },
+    {
+     "role": "sidenote",
+     "text": "Persons liable for"
+    },
+    {
+     "role": "sidenote",
+     "text": "training and service."
+    },
+    {
+     "role": "body",
+     "text": "male citizen of the United States, and every other male person"
+    },
+    {
+     "role": "body",
+     "text": "residing in the United States, who is between the ages of twenty"
+    },
+    {
+     "role": "body",
+     "text": "and thirty, at the time fixed for his registration, or who attains the"
+    },
+    {
+     "role": "body",
+     "text": "age of twenty after having been required to register pursuant to"
+    },
+    {
+     "role": "body",
+     "text": "section 2 of this Act, shall be liable for training and service in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "54 Stat. 885."
+    },
+    {
+     "role": "sidenote",
+     "text": "50 U. S. C., Supp. V,"
+    },
+    {
+     "role": "body",
+     "text": "land or naval forces of the United States.”"
+    },
+    {
+     "role": "sidenote",
+     "text": "app. § 302."
+    },
+    {
+     "role": "body",
+     "text": "Approved May 14, 1946, 8 P. M."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 257]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To exempt from taxation certain property of the Disabled American Veterans in"
+    },
+    {
+     "role": "body",
+     "text": "the District of Columbia."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 15, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1961]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 380]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the property"
+    },
+    {
+     "role": "body",
+     "text": "situated in square 153 in the city of Washington, District of Colum-"
+    },
+    {
+     "role": "body",
+     "text": "bia, described as lot 132, owned, occupied, and used by the Disabled"
+    },
+    {
+     "role": "body",
+     "text": "American Veterans, is hereby exempt from all taxation so long as"
+    },
+    {
+     "role": "body",
+     "text": "the same is so owned and occupied, and not used for commercial"
+    },
+    {
+     "role": "body",
+     "text": "purposes, subject to the provisions of sections 2, 3, and 5 of the Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "56 Stat. 1091."
+    },
+    {
+     "role": "body",
+     "text": "entitled “An Act to define the real property exempt from taxation"
+    },
+    {
+     "role": "sidenote",
+     "text": "D. C. Code, Supp."
+    },
+    {
+     "role": "body",
+     "text": "in the District of Columbia”, approved December 24, 1942."
+    },
+    {
+     "role": "sidenote",
+     "text": "V, §§ 47–801b, 47–"
+    },
+    {
+     "role": "sidenote",
+     "text": "801c, 47–801e."
+    },
+    {
+     "role": "body",
+     "text": "Approved May 15, 1946."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2455,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0888,
+   "seconds": 28.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13006,
+   "output_tokens": 3966,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.1646,
+  "seconds": 48.1,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "To extend the Selective Training and Service Act of 1940, as amended, until\nJuly 1, 1946.",
+    "kept": "",
+    "reason": "The resolution title lines follow the sidenote date/bill lines, which sit slightly higher on the page; nothing is printed here."
+   },
+   {
+    "run": 2,
+    "a": "To extend the Selective Training and Service Act of 1940, as amended, until\nJuly 1, 1946.",
+    "b": "",
+    "kept": "To extend the Selective Training and Service Act of 1940, as amended, until\nJuly 1, 1946.",
+    "reason": "Title lines appear after the 'May 14, 1946 / [S. J. Res. 159]' sidenote block and before '[Public Law 379]'."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "States of America in Congress assembled, That section 16 (b) of the",
+    "kept": "",
+    "reason": "The sidenote block '54 Stat. 897. / 50 U. S. C., Supp.' begins level with this point; the body line comes after it."
+   },
+   {
+    "run": 4,
+    "a": "States of America in Congress assembled, That section 16 (b) of the",
+    "b": "",
+    "kept": "States of America in Congress assembled, That section 16 (b) of the",
+    "reason": "Body line follows the two-line sidenote block, which is kept intact."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "by striking out “May 15, 1946” and inserting “July 1, 1946”.",
+    "kept": "",
+    "reason": "The sidenote block continues ('V, app. § 316 (b). / Post, p. 342.'); no body line printed here."
+   },
+   {
+    "run": 6,
+    "a": "by striking out “May 15, 1946” and inserting “July 1, 1946”.",
+    "b": "SEC. 2. Section 5 (e) of the Selective Training and Service Act",
+    "kept": "by striking out “May 15, 1946” and inserting “July 1, 1946”.",
+    "reason": "This body line follows the completed sidenote block."
+   },
+   {
+    "run": 7,
+    "a": "SEC. 2. Section 5 (e) of the Selective Training and Service Act",
+    "b": "",
+    "kept": "SEC. 2. Section 5 (e) of the Selective Training and Service Act",
+    "reason": "Body line follows the '54 Stat. 888. / 50 U. S. C., Supp.' sidenote pair."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "following new paragraph:",
+    "kept": "",
+    "reason": "The sidenote lines 'V, app. § 305 (e). / Post, p. 342.' occupy this point."
+   },
+   {
+    "run": 9,
+    "a": "following new paragraph:",
+    "b": "“(3) After May 14, 1946, no individual who has a child or children",
+    "kept": "following new paragraph:",
+    "reason": "Body line follows the completed sidenote block."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "shall be inducted without his consent for training and service under",
+    "kept": "",
+    "reason": "The two-line sidenote 'Exemption from in-/duction.' is not split by a body line."
+   },
+   {
+    "run": 11,
+    "a": "“(3) After May 14, 1946, no individual who has a child or children\nshall be inducted without his consent for training and service under",
+    "b": "this Act.  As used in this paragraph the term ‘child’ includes a",
+    "kept": "“(3) After May 14, 1946, no individual who has a child or children\nshall be inducted without his consent for training and service under",
+    "reason": "Both body lines follow the intact 'Exemption from induction.' sidenote."
+   },
+   {
+    "run": 12,
+    "a": "this Act.  As used in this paragraph the term ‘child’ includes a",
+    "b": "",
+    "kept": "this Act.  As used in this paragraph the term ‘child’ includes a",
+    "reason": "Body line follows the sidenote '“Child.”'."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "SEC. 3. So much of the first sentence of section 3 (a) of the",
+    "kept": "",
+    "reason": "The sidenote pair '54 Stat. 885. / 50 U. S. C., Supp. V,' stands here; no body line."
+   },
+   {
+    "run": 14,
+    "a": "SEC. 3. So much of the first sentence of section 3 (a) of the",
+    "b": "",
+    "kept": "SEC. 3. So much of the first sentence of section 3 (a) of the",
+    "reason": "Body line follows that sidenote pair."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "the first proviso is amended to read as follows:",
+    "kept": "",
+    "reason": "Sidenote continuation 'app. § 303 (a). / Post, p. 341.' occupies this point."
+   },
+   {
+    "run": 16,
+    "a": "the first proviso is amended to read as follows:",
+    "b": "“SEC. 3. (a) Except as otherwise provided in this Act, every",
+    "kept": "the first proviso is amended to read as follows:",
+    "reason": "Body line follows the completed sidenote block."
+   },
+   {
+    "run": 17,
+    "a": "“SEC. 3. (a) Except as otherwise provided in this Act, every",
+    "b": "",
+    "kept": "“SEC. 3. (a) Except as otherwise provided in this Act, every",
+    "reason": "Body line follows the 'Persons liable for training and service.' sidenote."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "section 2 of this Act, shall be liable for training and service in the",
+    "kept": "",
+    "reason": "The sidenote pair '54 Stat. 885. / 50 U. S. C., Supp. V,' is kept intact here."
+   },
+   {
+    "run": 19,
+    "a": "section 2 of this Act, shall be liable for training and service in the",
+    "b": "land or naval forces of the United States.”",
+    "kept": "section 2 of this Act, shall be liable for training and service in the",
+    "reason": "Body line follows that sidenote pair, before 'app. § 302.'"
+   },
+   {
+    "run": 20,
+    "a": "land or naval forces of the United States.”",
+    "b": "",
+    "kept": "land or naval forces of the United States.”",
+    "reason": "Body line follows the sidenote 'app. § 302.'"
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "To exempt from taxation certain property of the Disabled American Veterans in\nthe District of Columbia.",
+    "kept": "",
+    "reason": "The sidenote 'May 15, 1946 / [S. 1961]' comes first; no body line printed here."
+   },
+   {
+    "run": 22,
+    "a": "To exempt from taxation certain property of the Disabled American Veterans in\nthe District of Columbia.",
+    "b": "",
+    "kept": "To exempt from taxation certain property of the Disabled American Veterans in\nthe District of Columbia.",
+    "reason": "Title lines follow the date/bill sidenotes and precede '[Public Law 380]'."
+   },
+   {
+    "run": 23,
+    "a": "",
+    "b": "entitled “An Act to define the real property exempt from taxation",
+    "kept": "",
+    "reason": "The sidenote pair '56 Stat. 1091. / D. C. Code, Supp.' is kept intact here."
+   },
+   {
+    "run": 24,
+    "a": "entitled “An Act to define the real property exempt from taxation",
+    "b": "",
+    "kept": "entitled “An Act to define the real property exempt from taxation",
+    "reason": "Body line follows that sidenote pair."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "60 STAT.]   79TH CONG., 2D SESS.—CHS. 252, 253, 257—MAY 14, 15, 1946"
+  },
+  {
+   "role": "page-number",
+   "text": "181"
+  },
+  {
+   "role": "body",
+   "text": "Nebraska, on April 6, 1944, and September 15, 1944: Provided, That"
+  },
+  {
+   "role": "body",
+   "text": "no part of the amount appropriated in this Act in excess of 10 per"
+  },
+  {
+   "role": "body",
+   "text": "centum thereof shall be paid or delivered to or received by any agent"
+  },
+  {
+   "role": "body",
+   "text": "or attorney on account of services rendered in connection with this"
+  },
+  {
+   "role": "body",
+   "text": "claim, and the same shall be unlawful, any contract to the contrary"
+  },
+  {
+   "role": "body",
+   "text": "notwithstanding.  Any person violating the provisions of this Act"
+  },
+  {
+   "role": "body",
+   "text": "shall be deemed guilty of a misdemeanor and upon conviction thereof"
+  },
+  {
+   "role": "body",
+   "text": "shall be fined in any sum not exceeding $1,000."
+  },
+  {
+   "role": "body",
+   "text": "Approved May 14, 1946."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 253]"
+  },
+  {
+   "role": "body",
+   "text": "JOINT RESOLUTION"
+  },
+  {
+   "role": "sidenote",
+   "text": "May 14, 1946"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. J. Res. 159]"
+  },
+  {
+   "role": "body",
+   "text": "To extend the Selective Training and Service Act of 1940, as amended, until"
+  },
+  {
+   "role": "body",
+   "text": "July 1, 1946."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public Law 379]"
+  },
+  {
+   "role": "body",
+   "text": "Resolved by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "54 Stat. 897."
+  },
+  {
+   "role": "sidenote",
+   "text": "50 U. S. C., Supp."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That section 16 (b) of the"
+  },
+  {
+   "role": "body",
+   "text": "Selective Training and Service Act of 1940, as amended, is amended"
+  },
+  {
+   "role": "sidenote",
+   "text": "V, app. § 316 (b)."
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, p. 342."
+  },
+  {
+   "role": "body",
+   "text": "by striking out “May 15, 1946” and inserting “July 1, 1946”."
+  },
+  {
+   "role": "sidenote",
+   "text": "54 Stat. 888."
+  },
+  {
+   "role": "sidenote",
+   "text": "50 U. S. C., Supp."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. Section 5 (e) of the Selective Training and Service Act"
+  },
+  {
+   "role": "body",
+   "text": "of 1940, as amended, is amended by adding at the end thereof the"
+  },
+  {
+   "role": "sidenote",
+   "text": "V, app. § 305 (e)."
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, p. 342."
+  },
+  {
+   "role": "body",
+   "text": "following new paragraph:"
+  },
+  {
+   "role": "sidenote",
+   "text": "Exemption from in-"
+  },
+  {
+   "role": "sidenote",
+   "text": "duction."
+  },
+  {
+   "role": "body",
+   "text": "“(3) After May 14, 1946, no individual who has a child or children"
+  },
+  {
+   "role": "body",
+   "text": "shall be inducted without his consent for training and service under"
+  },
+  {
+   "role": "sidenote",
+   "text": "“Child.”"
+  },
+  {
+   "role": "body",
+   "text": "this Act.  As used in this paragraph the term ‘child’ includes a"
+  },
+  {
+   "role": "body",
+   "text": "child legally adopted, a stepchild, a foster child, and a person who"
+  },
+  {
+   "role": "body",
+   "text": "is supported in good faith by the individual in a relationship similar"
+  },
+  {
+   "role": "body",
+   "text": "to that of a parent and child but such term does not include any"
+  },
+  {
+   "role": "body",
+   "text": "person eighteen years of age or over unless such person is physically"
+  },
+  {
+   "role": "body",
+   "text": "or mentally handicapped.”"
+  },
+  {
+   "role": "sidenote",
+   "text": "54 Stat. 885."
+  },
+  {
+   "role": "sidenote",
+   "text": "50 U. S. C., Supp. V,"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. So much of the first sentence of section 3 (a) of the"
+  },
+  {
+   "role": "body",
+   "text": "Selective Training and Service Act of 1940, as amended, as precedes"
+  },
+  {
+   "role": "sidenote",
+   "text": "app. § 303 (a)."
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, p. 341."
+  },
+  {
+   "role": "body",
+   "text": "the first proviso is amended to read as follows:"
+  },
+  {
+   "role": "sidenote",
+   "text": "Persons liable for"
+  },
+  {
+   "role": "sidenote",
+   "text": "training and service."
+  },
+  {
+   "role": "body",
+   "text": "“SEC. 3. (a) Except as otherwise provided in this Act, every"
+  },
+  {
+   "role": "body",
+   "text": "male citizen of the United States, and every other male person"
+  },
+  {
+   "role": "body",
+   "text": "residing in the United States, who is between the ages of twenty"
+  },
+  {
+   "role": "body",
+   "text": "and thirty, at the time fixed for his registration, or who attains the"
+  },
+  {
+   "role": "body",
+   "text": "age of twenty after having been required to register pursuant to"
+  },
+  {
+   "role": "sidenote",
+   "text": "54 Stat. 885."
+  },
+  {
+   "role": "sidenote",
+   "text": "50 U. S. C., Supp. V,"
+  },
+  {
+   "role": "body",
+   "text": "section 2 of this Act, shall be liable for training and service in the"
+  },
+  {
+   "role": "sidenote",
+   "text": "app. § 302."
+  },
+  {
+   "role": "body",
+   "text": "land or naval forces of the United States.”"
+  },
+  {
+   "role": "body",
+   "text": "Approved May 14, 1946, 8 P. M."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 257]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "May 15, 1946"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 1961]"
+  },
+  {
+   "role": "body",
+   "text": "To exempt from taxation certain property of the Disabled American Veterans in"
+  },
+  {
+   "role": "body",
+   "text": "the District of Columbia."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public Law 380]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the property"
+  },
+  {
+   "role": "body",
+   "text": "situated in square 153 in the city of Washington, District of Colum-"
+  },
+  {
+   "role": "body",
+   "text": "bia, described as lot 132, owned, occupied, and used by the Disabled"
+  },
+  {
+   "role": "body",
+   "text": "American Veterans, is hereby exempt from all taxation so long as"
+  },
+  {
+   "role": "body",
+   "text": "the same is so owned and occupied, and not used for commercial"
+  },
+  {
+   "role": "body",
+   "text": "purposes, subject to the provisions of sections 2, 3, and 5 of the Act"
+  },
+  {
+   "role": "sidenote",
+   "text": "56 Stat. 1091."
+  },
+  {
+   "role": "sidenote",
+   "text": "D. C. Code, Supp."
+  },
+  {
+   "role": "body",
+   "text": "entitled “An Act to define the real property exempt from taxation"
+  },
+  {
+   "role": "body",
+   "text": "in the District of Columbia”, approved December 24, 1942."
+  },
+  {
+   "role": "sidenote",
+   "text": "V, §§ 47–801b, 47–"
+  },
+  {
+   "role": "sidenote",
+   "text": "801c, 47–801e."
+  },
+  {
+   "role": "body",
+   "text": "Approved May 15, 1946."
+  }
+ ],
+ "disagreement_count": 24,
+ "tokens": {
+  "input_tokens": 23829,
+  "output_tokens": 8912,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.34311,
+ "seconds": 103.6,
+ "created": "2026-09-08T12:35:06"
+}

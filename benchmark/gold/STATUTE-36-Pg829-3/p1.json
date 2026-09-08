@@ -1,0 +1,1358 @@
+{
+ "granule_id": "STATUTE-36-Pg829-3",
+ "package_id": "STATUTE-36",
+ "volume": 36,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act To amend section thirteen of an Act entitled \"An Act to establish a Bureau of Immigration and Naturalization, and to provide for a uniform rule for the naturalization of aliens throughout the U",
+ "date_issued": "1910-06-25",
+ "pdf_page": 1,
+ "pdf_pages": 3,
+ "stat_page": "829",
+ "image": "data/gold/STATUTE-36-Pg829-3/p1.png",
+ "image_sha256": "025ef8f113f586e940db24654d215022732099e4d5ad1e0b7231833d3876dd64",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 399-401.  1910."
+    },
+    {
+     "role": "page-number",
+     "text": "829"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 25, 1910.\n[H. R. 14760.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 399.—An Act To authorize the President of the United States to place"
+    },
+    {
+     "role": "body",
+     "text": "upon the retired list of the United States Navy Lieutenant-Commander James H."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 281.]"
+    },
+    {
+     "role": "body",
+     "text": "Reid, with the rank of commander."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Navy."
+    },
+    {
+     "role": "sidenote",
+     "text": "James H. Reid may"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the President of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "be retired as com-"
+    },
+    {
+     "role": "body",
+     "text": "United States be, and he is hereby, authorized to place upon the"
+    },
+    {
+     "role": "sidenote",
+     "text": "mander."
+    },
+    {
+     "role": "body",
+     "text": "retired list of the United States Navy, with the rank of commander,"
+    },
+    {
+     "role": "body",
+     "text": "the name of Lieutenant-Commander James H. Reid."
+    },
+    {
+     "role": "body",
+     "text": "Approved, June 25, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 25, 1910.\n[H. R. 16032.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 400.—An Act For the relief of the Saginaw, Swan Creek, and Black River"
+    },
+    {
+     "role": "body",
+     "text": "band of Chippewa Indians in the State of Michigan, and for other purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 282.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Chippewa Indians, Mich."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. That jurisdiction is hereby conferred upon the Court of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Claims of Saginaw, SwanCreek,andBlack"
+    },
+    {
+     "role": "body",
+     "text": "Claims, with the right of appeal to the Supreme Court of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "River bands referred to Court of Claims."
+    },
+    {
+     "role": "body",
+     "text": "States, to consider and adjudicate any claim, arising under treaty stip-"
+    },
+    {
+     "role": "body",
+     "text": "ulations or otherwise, which the Saginaw, Swan Creek, and Black"
+    },
+    {
+     "role": "body",
+     "text": "River band of Chippewa Indians, of the State of Michigan, have"
+    },
+    {
+     "role": "sidenote",
+     "text": "Advancement on docket."
+    },
+    {
+     "role": "body",
+     "text": "against the United States; and such suit or suits as may be instituted"
+    },
+    {
+     "role": "body",
+     "text": "hereunder shall, upon notice, be advanced upon the docket of either"
+    },
+    {
+     "role": "body",
+     "text": "of said courts for trial, and be determined at the earliest practicable"
+    },
+    {
+     "role": "body",
+     "text": "time."
+    },
+    {
+     "role": "sidenote",
+     "text": "Attorneys' fees."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That upon the final determination of such suit or suits the"
+    },
+    {
+     "role": "body",
+     "text": "Court of Claims shall decree such fees as the court shall find to be"
+    },
+    {
+     "role": "body",
+     "text": "reasonable upon a quantam meriut for services performed, to be paid"
+    },
+    {
+     "role": "body",
+     "text": "to the attorney or attorneys employed by the said band of Indians,"
+    },
+    {
+     "role": "body",
+     "text": "and the same shall be paid out of the sum found to be due said band"
+    },
+    {
+     "role": "body",
+     "text": "of Indians when an appropriation therefor shall have been made by"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso.\nLimit."
+    },
+    {
+     "role": "body",
+     "text": "Congress: Provided, That in no case shall the fees decreed by the"
+    },
+    {
+     "role": "body",
+     "text": "court amount in the aggregate to more than ten per centum of the"
+    },
+    {
+     "role": "body",
+     "text": "amount of the judgment recovered, and in no event shall the aggre-"
+    },
+    {
+     "role": "body",
+     "text": "gate exceed ten thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Yuma Reservation, Cal."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That the Secretary of the Interior be, and he hereby is"
+    },
+    {
+     "role": "sidenote",
+     "text": "Religious organiza-tions may select irri-gable lands on."
+    },
+    {
+     "role": "body",
+     "text": "authorized to permit any religious or missionary organization having"
+    },
+    {
+     "role": "body",
+     "text": "lands reserved for mission and school purposes on the Yuma Reserva-"
+    },
+    {
+     "role": "body",
+     "text": "tion in California, to select irrigable lands on said reservation equal"
+    },
+    {
+     "role": "body",
+     "text": "in area to, and in lieu of, lands so reserved, and to issue a patent in"
+    },
+    {
+     "role": "body",
+     "text": "fee therefor."
+    },
+    {
+     "role": "body",
+     "text": "Approved, June 25, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 25, 1910.\n[H. R. 16871.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 401.—An Act To amend section thirteen of an Act entitled \"An Act to"
+    },
+    {
+     "role": "body",
+     "text": "establish a Bureau of Immigration and Naturalization, and to provide for a uniform"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 283.]"
+    },
+    {
+     "role": "body",
+     "text": "rule for the naturalization of aliens throughout the United States,\" and for other"
+    },
+    {
+     "role": "body",
+     "text": "naturalization purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Immigration."
+    },
+    {
+     "role": "sidenote",
+     "text": "Extra allowance to"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That section thirteen of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "clerks of courts."
+    },
+    {
+     "role": "body",
+     "text": "Act approved June twenty-ninth, nineteen hundred and six, entitled"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. 34, p. 600, amended."
+    },
+    {
+     "role": "body",
+     "text": "\"An Act to establish a Bureau of Immigration and Naturalization,"
+    },
+    {
+     "role": "body",
+     "text": "and to provide for a uniform rule for the naturalization of aliens"
+    },
+    {
+     "role": "body",
+     "text": "throughout the United States,\" is hereby amended by striking out"
+    },
+    {
+     "role": "body",
+     "text": "the last sentence of the section, which reads as follows: \"And in case"
+    },
+    {
+     "role": "body",
+     "text": "the clerk of any court collects fees in excess of the sum of six thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars in any one year, the Secretary of Commerce and Labor may"
+    },
+    {
+     "role": "body",
+     "text": "allow to such clerk from the money which the United States shall"
+    },
+    {
+     "role": "body",
+     "text": "receive additional compensation for the employment of additional"
+    },
+    {
+     "role": "body",
+     "text": "clerical assistance, but for no other purpose, if in the opinion of"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2417,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0873,
+   "seconds": 26.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 399-401.  1910."
+    },
+    {
+     "role": "page-number",
+     "text": "829"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 399.—An Act To authorize the President of the United States to place"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 25, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 14760.]"
+    },
+    {
+     "role": "body",
+     "text": "upon the retired list of the United States Navy Lieutenant-Commander James H."
+    },
+    {
+     "role": "body",
+     "text": "Reid, with the rank of commander."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 281.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the President of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Navy."
+    },
+    {
+     "role": "sidenote",
+     "text": "James H. Reid may"
+    },
+    {
+     "role": "body",
+     "text": "United States be, and he is hereby, authorized to place upon the"
+    },
+    {
+     "role": "sidenote",
+     "text": "be retired as com-"
+    },
+    {
+     "role": "body",
+     "text": "retired list of the United States Navy, with the rank of commander,"
+    },
+    {
+     "role": "sidenote",
+     "text": "mander."
+    },
+    {
+     "role": "body",
+     "text": "the name of Lieutenant-Commander James H. Reid."
+    },
+    {
+     "role": "body",
+     "text": "Approved, June 25, 1910."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 400.—An Act For the relief of the Saginaw, Swan Creek, and Black River"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 25, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 16032.]"
+    },
+    {
+     "role": "body",
+     "text": "band of Chippewa Indians in the State of Michigan, and for other purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 282.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. That jurisdiction is hereby conferred upon the Court of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Chippewa Indians,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mich."
+    },
+    {
+     "role": "body",
+     "text": "Claims, with the right of appeal to the Supreme Court of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Claims of Saginaw,"
+    },
+    {
+     "role": "sidenote",
+     "text": "SwanCreek,andBlack"
+    },
+    {
+     "role": "body",
+     "text": "States, to consider and adjudicate any claim, arising under treaty stip-"
+    },
+    {
+     "role": "sidenote",
+     "text": "River bands referred"
+    },
+    {
+     "role": "sidenote",
+     "text": "to Court of Claims."
+    },
+    {
+     "role": "body",
+     "text": "ulations or otherwise, which the Saginaw, Swan Creek, and Black"
+    },
+    {
+     "role": "body",
+     "text": "River band of Chippewa Indians, of the State of Michigan, have"
+    },
+    {
+     "role": "body",
+     "text": "against the United States; and such suit or suits as may be instituted"
+    },
+    {
+     "role": "sidenote",
+     "text": "Advancement  on"
+    },
+    {
+     "role": "sidenote",
+     "text": "docket."
+    },
+    {
+     "role": "body",
+     "text": "hereunder shall, upon notice, be advanced upon the docket of either"
+    },
+    {
+     "role": "body",
+     "text": "of said courts for trial, and be determined at the earliest practicable"
+    },
+    {
+     "role": "body",
+     "text": "time."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That upon the final determination of such suit or suits the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Attorneys' fees."
+    },
+    {
+     "role": "body",
+     "text": "Court of Claims shall decree such fees as the court shall find to be"
+    },
+    {
+     "role": "body",
+     "text": "reasonable upon a quantam meriut for services performed, to be paid"
+    },
+    {
+     "role": "body",
+     "text": "to the attorney or attorneys employed by the said band of Indians,"
+    },
+    {
+     "role": "body",
+     "text": "and the same shall be paid out of the sum found to be due said band"
+    },
+    {
+     "role": "body",
+     "text": "of Indians when an appropriation therefor shall have been made by"
+    },
+    {
+     "role": "body",
+     "text": "Congress: Provided, That in no case shall the fees decreed by the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "sidenote",
+     "text": "Limit."
+    },
+    {
+     "role": "body",
+     "text": "court amount in the aggregate to more than ten per centum of the"
+    },
+    {
+     "role": "body",
+     "text": "amount of the judgment recovered, and in no event shall the aggre-"
+    },
+    {
+     "role": "body",
+     "text": "gate exceed ten thousand dollars."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. That the Secretary of the Interior be, and he hereby is"
+    },
+    {
+     "role": "sidenote",
+     "text": "Yuma Reservation,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Cal."
+    },
+    {
+     "role": "body",
+     "text": "authorized to permit any religious or missionary organization having"
+    },
+    {
+     "role": "sidenote",
+     "text": "Religious organiza-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tions may select irri-"
+    },
+    {
+     "role": "body",
+     "text": "lands reserved for mission and school purposes on the Yuma Reserva-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gable lands on."
+    },
+    {
+     "role": "body",
+     "text": "tion in California, to select irrigable lands on said reservation equal"
+    },
+    {
+     "role": "body",
+     "text": "in area to, and in lieu of, lands so reserved, and to issue a patent in"
+    },
+    {
+     "role": "body",
+     "text": "fee therefor."
+    },
+    {
+     "role": "body",
+     "text": "Approved, June 25, 1910."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 401.—An Act To amend section thirteen of an Act entitled \"An Act to"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 25, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 16871.]"
+    },
+    {
+     "role": "body",
+     "text": "establish a Bureau of Immigration and Naturalization, and to provide for a uniform"
+    },
+    {
+     "role": "body",
+     "text": "rule for the naturalization of aliens throughout the United States,\" and for other"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 283.]"
+    },
+    {
+     "role": "body",
+     "text": "naturalization purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That section thirteen of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Immigration."
+    },
+    {
+     "role": "sidenote",
+     "text": "Extra allowance to"
+    },
+    {
+     "role": "body",
+     "text": "Act approved June twenty-ninth, nineteen hundred and six, entitled"
+    },
+    {
+     "role": "sidenote",
+     "text": "clerks of courts."
+    },
+    {
+     "role": "body",
+     "text": "\"An Act to establish a Bureau of Immigration and Naturalization,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol.  34,  p.  600,"
+    },
+    {
+     "role": "sidenote",
+     "text": "amended."
+    },
+    {
+     "role": "body",
+     "text": "and to provide for a uniform rule for the naturalization of aliens"
+    },
+    {
+     "role": "body",
+     "text": "throughout the United States,\" is hereby amended by striking out"
+    },
+    {
+     "role": "body",
+     "text": "the last sentence of the section, which reads as follows: \"And in case"
+    },
+    {
+     "role": "body",
+     "text": "the clerk of any court collects fees in excess of the sum of six thousand"
+    },
+    {
+     "role": "body",
+     "text": "dollars in any one year, the Secretary of Commerce and Labor may"
+    },
+    {
+     "role": "body",
+     "text": "allow to such clerk from the money which the United States shall"
+    },
+    {
+     "role": "body",
+     "text": "receive additional compensation for the employment of additional"
+    },
+    {
+     "role": "body",
+     "text": "clerical assistance, but for no other purpose, if in the opinion of"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2587,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09154,
+   "seconds": 30.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13564,
+   "output_tokens": 3074,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.14509,
+  "seconds": 34.4,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "June 25, 1910.\n[H. R. 14760.]",
+    "b": "",
+    "kept": "",
+    "reason": "The date sidenote sits beside the CHAP. 399 heading; it is placed after that body line, not before."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "June 25, 1910.\n[H. R. 14760.]",
+    "kept": "June 25, 1910.\n[H. R. 14760.]",
+    "reason": "Two separate printed sidenote lines beside the chapter heading."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "Reid, with the rank of commander.",
+    "kept": "Reid, with the rank of commander.",
+    "reason": "Third line of the chapter heading precedes the [Public, No. 281.] sidenote in reading order."
+   },
+   {
+    "run": 4,
+    "a": "Reid, with the rank of commander.",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 3."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "States of America in Congress assembled, That the President of the",
+    "kept": "States of America in Congress assembled, That the President of the",
+    "reason": "Body line precedes the 'Navy.' sidenote aligned with it."
+   },
+   {
+    "run": 6,
+    "a": "States of America in Congress assembled, That the President of the",
+    "b": "United States be, and he is hereby, authorized to place upon the",
+    "kept": "United States be, and he is hereby, authorized to place upon the",
+    "reason": "Next body line after the Navy sidenotes."
+   },
+   {
+    "run": 7,
+    "a": "United States be, and he is hereby, authorized to place upon the",
+    "b": "retired list of the United States Navy, with the rank of commander,",
+    "kept": "retired list of the United States Navy, with the rank of commander,",
+    "reason": "Next body line, preceding the 'mander.' sidenote."
+   },
+   {
+    "run": 8,
+    "a": "retired list of the United States Navy, with the rank of commander,",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 7."
+   },
+   {
+    "run": 9,
+    "a": "June 25, 1910.\n[H. R. 16032.]",
+    "b": "",
+    "kept": "",
+    "reason": "Date sidenote follows the CHAP. 400 heading line."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "June 25, 1910.\n[H. R. 16032.]",
+    "kept": "June 25, 1910.\n[H. R. 16032.]",
+    "reason": "Two separate printed sidenote lines."
+   },
+   {
+    "run": 11,
+    "a": "Chippewa Indians, Mich.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote belongs after the SECTION 1 body line."
+   },
+   {
+    "run": 12,
+    "a": "Claims of Saginaw, SwanCreek,andBlack",
+    "b": "Chippewa Indians,\nMich.",
+    "kept": "Chippewa Indians,\nMich.",
+    "reason": "Printed as two sidenote lines."
+   },
+   {
+    "run": 13,
+    "a": "River bands referred to Court of Claims.",
+    "b": "Claims of Saginaw,\nSwanCreek,andBlack",
+    "kept": "Claims of Saginaw,\nSwanCreek,andBlack",
+    "reason": "Printed as two sidenote lines."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "River bands referred\nto Court of Claims.",
+    "kept": "River bands referred\nto Court of Claims.",
+    "reason": "Printed as two sidenote lines."
+   },
+   {
+    "run": 15,
+    "a": "Advancement on docket.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote follows the body line it aligns with."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "Advancement  on\ndocket.",
+    "kept": "Advancement on\ndocket.",
+    "reason": "Printed as two sidenote lines."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "SEC. 2. That upon the final determination of such suit or suits the",
+    "kept": "SEC. 2. That upon the final determination of such suit or suits the",
+    "reason": "Body line precedes the 'Attorneys' fees.' sidenote."
+   },
+   {
+    "run": 18,
+    "a": "SEC. 2. That upon the final determination of such suit or suits the",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 17."
+   },
+   {
+    "run": 19,
+    "a": "Proviso.\nLimit.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote follows the Congress: Provided body line."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "Proviso.\nLimit.",
+    "kept": "Proviso.\nLimit.",
+    "reason": "Printed as two sidenote lines."
+   },
+   {
+    "run": 21,
+    "a": "Yuma Reservation, Cal.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote follows the SEC. 3 body line."
+   },
+   {
+    "run": 22,
+    "a": "Religious organiza-tions may select irri-gable lands on.",
+    "b": "Yuma Reservation,\nCal.",
+    "kept": "Yuma Reservation,\nCal.",
+    "reason": "Printed as two sidenote lines."
+   },
+   {
+    "run": 23,
+    "a": "",
+    "b": "Religious organiza-\ntions may select irri-",
+    "kept": "Religious organiza-\ntions may select irri-",
+    "reason": "Printed as two sidenote lines."
+   },
+   {
+    "run": 24,
+    "a": "",
+    "b": "gable lands on.",
+    "kept": "gable lands on.",
+    "reason": "Third sidenote line of that note."
+   },
+   {
+    "run": 25,
+    "a": "June 25, 1910.\n[H. R. 16871.]",
+    "b": "",
+    "kept": "",
+    "reason": "Date sidenote follows the CHAP. 401 heading line."
+   },
+   {
+    "run": 26,
+    "a": "",
+    "b": "June 25, 1910.\n[H. R. 16871.]",
+    "kept": "June 25, 1910.\n[H. R. 16871.]",
+    "reason": "Two separate printed sidenote lines."
+   },
+   {
+    "run": 27,
+    "a": "",
+    "b": "rule for the naturalization of aliens throughout the United States,\" and for other",
+    "kept": "rule for the naturalization of aliens throughout the United States,\" and for other",
+    "reason": "Heading line precedes the [Public, No. 283.] sidenote aligned with it."
+   },
+   {
+    "run": 28,
+    "a": "rule for the naturalization of aliens throughout the United States,\" and for other",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 27."
+   },
+   {
+    "run": 29,
+    "a": "",
+    "b": "States of America in Congress assembled, That section thirteen of the",
+    "kept": "States of America in Congress assembled, That section thirteen of the",
+    "reason": "Body line precedes the Immigration sidenote."
+   },
+   {
+    "run": 30,
+    "a": "States of America in Congress assembled, That section thirteen of the",
+    "b": "Act approved June twenty-ninth, nineteen hundred and six, entitled",
+    "kept": "Act approved June twenty-ninth, nineteen hundred and six, entitled",
+    "reason": "Next body line after the Immigration sidenotes."
+   },
+   {
+    "run": 31,
+    "a": "Act approved June twenty-ninth, nineteen hundred and six, entitled\nVol. 34, p. 600, amended.",
+    "b": "",
+    "kept": "",
+    "reason": "Body line placed in run 30; the Vol. sidenote comes later."
+   },
+   {
+    "run": 32,
+    "a": "",
+    "b": "Vol.  34,  p.  600,\namended.",
+    "kept": "Vol. 34, p. 600,\namended.",
+    "reason": "Printed as two sidenote lines."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 399-401.  1910."
+  },
+  {
+   "role": "page-number",
+   "text": "829"
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 399.—An Act To authorize the President of the United States to place"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 25, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 14760.]"
+  },
+  {
+   "role": "body",
+   "text": "upon the retired list of the United States Navy Lieutenant-Commander James H."
+  },
+  {
+   "role": "body",
+   "text": "Reid, with the rank of commander."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 281.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the President of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Navy."
+  },
+  {
+   "role": "sidenote",
+   "text": "James H. Reid may"
+  },
+  {
+   "role": "body",
+   "text": "United States be, and he is hereby, authorized to place upon the"
+  },
+  {
+   "role": "sidenote",
+   "text": "be retired as com-"
+  },
+  {
+   "role": "body",
+   "text": "retired list of the United States Navy, with the rank of commander,"
+  },
+  {
+   "role": "sidenote",
+   "text": "mander."
+  },
+  {
+   "role": "body",
+   "text": "the name of Lieutenant-Commander James H. Reid."
+  },
+  {
+   "role": "body",
+   "text": "Approved, June 25, 1910."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 400.—An Act For the relief of the Saginaw, Swan Creek, and Black River"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 25, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 16032.]"
+  },
+  {
+   "role": "body",
+   "text": "band of Chippewa Indians in the State of Michigan, and for other purposes."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 282.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled,"
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. That jurisdiction is hereby conferred upon the Court of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Chippewa Indians,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Mich."
+  },
+  {
+   "role": "body",
+   "text": "Claims, with the right of appeal to the Supreme Court of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Claims of Saginaw,"
+  },
+  {
+   "role": "sidenote",
+   "text": "SwanCreek,andBlack"
+  },
+  {
+   "role": "body",
+   "text": "States, to consider and adjudicate any claim, arising under treaty stip-"
+  },
+  {
+   "role": "sidenote",
+   "text": "River bands referred"
+  },
+  {
+   "role": "sidenote",
+   "text": "to Court of Claims."
+  },
+  {
+   "role": "body",
+   "text": "ulations or otherwise, which the Saginaw, Swan Creek, and Black"
+  },
+  {
+   "role": "body",
+   "text": "River band of Chippewa Indians, of the State of Michigan, have"
+  },
+  {
+   "role": "body",
+   "text": "against the United States; and such suit or suits as may be instituted"
+  },
+  {
+   "role": "sidenote",
+   "text": "Advancement on"
+  },
+  {
+   "role": "sidenote",
+   "text": "docket."
+  },
+  {
+   "role": "body",
+   "text": "hereunder shall, upon notice, be advanced upon the docket of either"
+  },
+  {
+   "role": "body",
+   "text": "of said courts for trial, and be determined at the earliest practicable"
+  },
+  {
+   "role": "body",
+   "text": "time."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That upon the final determination of such suit or suits the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Attorneys' fees."
+  },
+  {
+   "role": "body",
+   "text": "Court of Claims shall decree such fees as the court shall find to be"
+  },
+  {
+   "role": "body",
+   "text": "reasonable upon a quantam meriut for services performed, to be paid"
+  },
+  {
+   "role": "body",
+   "text": "to the attorney or attorneys employed by the said band of Indians,"
+  },
+  {
+   "role": "body",
+   "text": "and the same shall be paid out of the sum found to be due said band"
+  },
+  {
+   "role": "body",
+   "text": "of Indians when an appropriation therefor shall have been made by"
+  },
+  {
+   "role": "body",
+   "text": "Congress: Provided, That in no case shall the fees decreed by the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "sidenote",
+   "text": "Limit."
+  },
+  {
+   "role": "body",
+   "text": "court amount in the aggregate to more than ten per centum of the"
+  },
+  {
+   "role": "body",
+   "text": "amount of the judgment recovered, and in no event shall the aggre-"
+  },
+  {
+   "role": "body",
+   "text": "gate exceed ten thousand dollars."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. That the Secretary of the Interior be, and he hereby is"
+  },
+  {
+   "role": "sidenote",
+   "text": "Yuma Reservation,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Cal."
+  },
+  {
+   "role": "body",
+   "text": "authorized to permit any religious or missionary organization having"
+  },
+  {
+   "role": "sidenote",
+   "text": "Religious organiza-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tions may select irri-"
+  },
+  {
+   "role": "body",
+   "text": "lands reserved for mission and school purposes on the Yuma Reserva-"
+  },
+  {
+   "role": "sidenote",
+   "text": "gable lands on."
+  },
+  {
+   "role": "body",
+   "text": "tion in California, to select irrigable lands on said reservation equal"
+  },
+  {
+   "role": "body",
+   "text": "in area to, and in lieu of, lands so reserved, and to issue a patent in"
+  },
+  {
+   "role": "body",
+   "text": "fee therefor."
+  },
+  {
+   "role": "body",
+   "text": "Approved, June 25, 1910."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 401.—An Act To amend section thirteen of an Act entitled \"An Act to"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 25, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 16871.]"
+  },
+  {
+   "role": "body",
+   "text": "establish a Bureau of Immigration and Naturalization, and to provide for a uniform"
+  },
+  {
+   "role": "body",
+   "text": "rule for the naturalization of aliens throughout the United States,\" and for other"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 283.]"
+  },
+  {
+   "role": "body",
+   "text": "naturalization purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That section thirteen of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Immigration."
+  },
+  {
+   "role": "sidenote",
+   "text": "Extra allowance to"
+  },
+  {
+   "role": "body",
+   "text": "Act approved June twenty-ninth, nineteen hundred and six, entitled"
+  },
+  {
+   "role": "sidenote",
+   "text": "clerks of courts."
+  },
+  {
+   "role": "body",
+   "text": "\"An Act to establish a Bureau of Immigration and Naturalization,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. 34, p. 600,"
+  },
+  {
+   "role": "sidenote",
+   "text": "amended."
+  },
+  {
+   "role": "body",
+   "text": "and to provide for a uniform rule for the naturalization of aliens"
+  },
+  {
+   "role": "body",
+   "text": "throughout the United States,\" is hereby amended by striking out"
+  },
+  {
+   "role": "body",
+   "text": "the last sentence of the section, which reads as follows: \"And in case"
+  },
+  {
+   "role": "body",
+   "text": "the clerk of any court collects fees in excess of the sum of six thousand"
+  },
+  {
+   "role": "body",
+   "text": "dollars in any one year, the Secretary of Commerce and Labor may"
+  },
+  {
+   "role": "body",
+   "text": "allow to such clerk from the money which the United States shall"
+  },
+  {
+   "role": "body",
+   "text": "receive additional compensation for the employment of additional"
+  },
+  {
+   "role": "body",
+   "text": "clerical assistance, but for no other purpose, if in the opinion of"
+  }
+ ],
+ "disagreement_count": 32,
+ "tokens": {
+  "input_tokens": 24163,
+  "output_tokens": 8078,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.32393,
+ "seconds": 90.7,
+ "created": "2026-09-08T11:56:21"
+}

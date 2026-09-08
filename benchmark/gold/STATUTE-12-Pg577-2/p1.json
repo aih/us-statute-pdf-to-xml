@@ -1,0 +1,1376 @@
+{
+ "granule_id": "STATUTE-12-Pg577-2",
+ "package_id": "STATUTE-12",
+ "volume": 12,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to prevent Members of Congress and Officers of the Government of the United States from taking Consideration for procuring Contracts, Office, or Place, from the United States, and for other Pur",
+ "date_issued": "1862-07-16",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "577",
+ "image": "data/gold/STATUTE-12-Pg577-2/p1.png",
+ "image_sha256": "23cbc402bf5972fe39782dd430647f90d7d6e6fedba14654909c4370a5f69e8f",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY–SEVENTH CONGRESS.  SESS. II.  CH. 178–180.  1862."
+    },
+    {
+     "role": "page-number",
+     "text": "577"
+    },
+    {
+     "role": "body",
+     "text": "tober next, shall be, and are hereby declared to be, respectively, trans-"
+    },
+    {
+     "role": "body",
+     "text": "ferred, returnable, and continued to the several circuit courts constituted"
+    },
+    {
+     "role": "body",
+     "text": "by this act, to be holden within the said districts, respectively, and shall be"
+    },
+    {
+     "role": "body",
+     "text": "heard, tried, and determined therein, in the same manner as if originally"
+    },
+    {
+     "role": "body",
+     "text": "brought, entered, prosecuted, or had in such circuit courts.   And the said"
+    },
+    {
+     "role": "sidenote",
+     "text": "Clerks and"
+    },
+    {
+     "role": "body",
+     "text": "circuit courts shall be governed by the same laws and regulations as apply"
+    },
+    {
+     "role": "sidenote",
+     "text": "their fees."
+    },
+    {
+     "role": "body",
+     "text": "to the other circuit courts of the United States; and the clerks of the said"
+    },
+    {
+     "role": "body",
+     "text": "courts respectively shall perform the same duties, and shall be entitled to"
+    },
+    {
+     "role": "body",
+     "text": "receive the same fees and emoluments which are by law established for"
+    },
+    {
+     "role": "body",
+     "text": "the clerks of the other circuit courts of the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Repeal of in-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That all acts and provisions incon-"
+    },
+    {
+     "role": "sidenote",
+     "text": "consistent pro-"
+    },
+    {
+     "role": "body",
+     "text": "sistent with this act be, and the same are hereby, repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "visions."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 15, 1862."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 15, 1862."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLXXIX. — An Act to extend the Provisions of the Act of August four, eighteen"
+    },
+    {
+     "role": "body",
+     "text": "hundred and fifty-two, entitled “ An Act to grant the Right of Way to all Rail and"
+    },
+    {
+     "role": "body",
+     "text": "Plank Roads, &c.,” for the Term of five Years, and to amend the same."
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisions of"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "acts."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the provisions of the act"
+    },
+    {
+     "role": "sidenote",
+     "text": "1852, ch. 80."
+    },
+    {
+     "role": "body",
+     "text": "entitled “ An act to grant the right of way to all rail and plank roads, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. x. p. 28. and"
+    },
+    {
+     "role": "body",
+     "text": "macadamized turnpikes passing through the public lands belonging to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "1855, ch. 200."
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. x. p. 683."
+    },
+    {
+     "role": "body",
+     "text": "United States,” approved August four, eighteen hundred and fifty-two, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Extended for"
+    },
+    {
+     "role": "body",
+     "text": "of the act extending the same to all of the public lands of the United States,"
+    },
+    {
+     "role": "sidenote",
+     "text": "five years."
+    },
+    {
+     "role": "body",
+     "text": "approved March three, eighteen hundred and fifty-five, be, and the same"
+    },
+    {
+     "role": "body",
+     "text": "are hereby, extended for the term of five years from the fourth day of"
+    },
+    {
+     "role": "body",
+     "text": "August, eighteen hundred and sixty-two."
+    },
+    {
+     "role": "sidenote",
+     "text": "Right of way"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2.   And be it further enacted, That the right of way for a railroad"
+    },
+    {
+     "role": "sidenote",
+     "text": "granted to Ore-"
+    },
+    {
+     "role": "body",
+     "text": "through the public lands of the United States lying in Wasco County in"
+    },
+    {
+     "role": "sidenote",
+     "text": "gon Steam Navi-"
+    },
+    {
+     "role": "body",
+     "text": "the State of Oregon, be, and the same is hereby, granted to the Oregon"
+    },
+    {
+     "role": "sidenote",
+     "text": "gation Company."
+    },
+    {
+     "role": "body",
+     "text": "Steam Navigation Company."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 15, 1862."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 16, 1862."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLXXX. — An Act to prevent Members of Congress and Officers of the Government"
+    },
+    {
+     "role": "sidenote",
+     "text": "1863, ch. 61."
+    },
+    {
+     "role": "body",
+     "text": "of the United States from taking Consideration for procuring Contracts, Office, or Place,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 696."
+    },
+    {
+     "role": "body",
+     "text": "from the United States, and for other Purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Penalty on"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That any member of Congress"
+    },
+    {
+     "role": "sidenote",
+     "text": "members of Con-"
+    },
+    {
+     "role": "body",
+     "text": "or any officer of the government of the United States who shall, directly"
+    },
+    {
+     "role": "sidenote",
+     "text": "gress, &c. for tak-"
+    },
+    {
+     "role": "body",
+     "text": "or indirectly, take, receive, or agree to receive, any money, property, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing consideration"
+    },
+    {
+     "role": "body",
+     "text": "other valuable consideration whatsoever, from any person or persons for"
+    },
+    {
+     "role": "sidenote",
+     "text": "for procuring con-"
+    },
+    {
+     "role": "body",
+     "text": "procuring, or aiding to procure, any contract, office, or place, from the"
+    },
+    {
+     "role": "sidenote",
+     "text": "tracts, &c."
+    },
+    {
+     "role": "body",
+     "text": "government of the United States or any department thereof, or from any"
+    },
+    {
+     "role": "body",
+     "text": "officer of the United States, for any person or persons whatsoever, or for"
+    },
+    {
+     "role": "body",
+     "text": "giving any such contract, office, or place to any person whomsoever, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "On persons who"
+    },
+    {
+     "role": "body",
+     "text": "the person or persons who shall directly or indirectly offer or agree to give,"
+    },
+    {
+     "role": "sidenote",
+     "text": "offer money, &c."
+    },
+    {
+     "role": "body",
+     "text": "or give or bestow any money, property, or other valuable consideration"
+    },
+    {
+     "role": "sidenote",
+     "text": "to members"
+    },
+    {
+     "role": "body",
+     "text": "whatsoever, for the procuring or aiding to procure any contract, office, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "to procure con-"
+    },
+    {
+     "role": "body",
+     "text": "place as aforesaid, and any member of Congress who shall directly or in-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tracts."
+    },
+    {
+     "role": "body",
+     "text": "directly take, receive, or agree to receive any money, property, or other"
+    },
+    {
+     "role": "body",
+     "text": "valuable consideration whatsoever after his election as such member, for"
+    },
+    {
+     "role": "body",
+     "text": "his attention to, services, action, vote, or decision on any question, matter,"
+    },
+    {
+     "role": "body",
+     "text": "cause or proceeding which may then be pending, or may by law or under"
+    },
+    {
+     "role": "body",
+     "text": "the Constitution of the United States be brought before him in his official"
+    },
+    {
+     "role": "body",
+     "text": "capacity, or in his place of trust and profit as such member of Congress,"
+    },
+    {
+     "role": "body",
+     "text": "shall, for every such offence, be liable to indictment as for a misdemeanor"
+    },
+    {
+     "role": "body",
+     "text": "in any court of the United States having jurisdiction thereof, and on con-"
+    },
+    {
+     "role": "body",
+     "text": "viction thereof shall pay a fine of not exceeding ten thousand dollars, and"
+    },
+    {
+     "role": "body",
+     "text": "suffer imprisonment in the penitentiary not exceeding two years, at the"
+    },
+    {
+     "role": "body",
+     "text": "discretion of the court trying the same; and any such contract or agree-"
+    },
+    {
+     "role": "body",
+     "text": "VOL. XII.  PUB. — 73"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2682,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09392,
+   "seconds": 30.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY–SEVENTH CONGRESS.  SESS. II.  CH. 178–180.  1862."
+    },
+    {
+     "role": "page-number",
+     "text": "577"
+    },
+    {
+     "role": "body",
+     "text": "tober next, shall be, and are hereby declared to be, respectively, trans-"
+    },
+    {
+     "role": "body",
+     "text": "ferred, returnable, and continued to the several circuit courts constituted"
+    },
+    {
+     "role": "body",
+     "text": "by this act, to be holden within the said districts, respectively, and shall be"
+    },
+    {
+     "role": "body",
+     "text": "heard, tried, and determined therein, in the same manner as if originally"
+    },
+    {
+     "role": "body",
+     "text": "brought, entered, prosecuted, or had in such circuit courts.  And the said"
+    },
+    {
+     "role": "body",
+     "text": "circuit courts shall be governed by the same laws and regulations as apply"
+    },
+    {
+     "role": "sidenote",
+     "text": "Clerks and"
+    },
+    {
+     "role": "body",
+     "text": "to the other circuit courts of the United States; and the clerks of the said"
+    },
+    {
+     "role": "sidenote",
+     "text": "their fees."
+    },
+    {
+     "role": "body",
+     "text": "courts respectively shall perform the same duties, and shall be entitled to"
+    },
+    {
+     "role": "body",
+     "text": "receive the same fees and emoluments which are by law established for"
+    },
+    {
+     "role": "body",
+     "text": "the clerks of the other circuit courts of the United States."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That all acts and provisions incon-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Repeal of in-"
+    },
+    {
+     "role": "body",
+     "text": "sistent with this act be, and the same are hereby, repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "consistent pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "visions."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 15, 1862."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLXXIX. — An Act to extend the Provisions of the Act of August four, eighteen"
+    },
+    {
+     "role": "sidenote",
+     "text": "July 15, 1862."
+    },
+    {
+     "role": "body",
+     "text": "hundred and fifty-two, entitled “ An Act to grant the Right of Way to all Rail and"
+    },
+    {
+     "role": "body",
+     "text": "Plank Roads, &c.,” for the Term of five Years, and to amend the same."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisions of"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the provisions of the act"
+    },
+    {
+     "role": "sidenote",
+     "text": "acts."
+    },
+    {
+     "role": "sidenote",
+     "text": "1852, ch. 80."
+    },
+    {
+     "role": "body",
+     "text": "entitled “ An act to grant the right of way to all rail and plank roads, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. x. p. 28. and"
+    },
+    {
+     "role": "body",
+     "text": "macadamized turnpikes passing through the public lands belonging to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "1855, ch. 200."
+    },
+    {
+     "role": "body",
+     "text": "United States,” approved August four, eighteen hundred and fifty-two, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. x. p. 683."
+    },
+    {
+     "role": "sidenote",
+     "text": "Extended for"
+    },
+    {
+     "role": "body",
+     "text": "of the act extending the same to all of the public lands of the United States,"
+    },
+    {
+     "role": "sidenote",
+     "text": "five years."
+    },
+    {
+     "role": "body",
+     "text": "approved March three, eighteen hundred and fifty-five, be, and the same"
+    },
+    {
+     "role": "body",
+     "text": "are hereby, extended for the term of five years from the fourth day of"
+    },
+    {
+     "role": "body",
+     "text": "August, eighteen hundred and sixty-two."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2.  And be it further enacted, That the right of way for a railroad"
+    },
+    {
+     "role": "sidenote",
+     "text": "Right of way"
+    },
+    {
+     "role": "body",
+     "text": "through the public lands of the United States lying in Wasco County in"
+    },
+    {
+     "role": "sidenote",
+     "text": "granted to Ore-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gon Steam Navi-"
+    },
+    {
+     "role": "body",
+     "text": "the State of Oregon, be, and the same is hereby, granted to the Oregon"
+    },
+    {
+     "role": "sidenote",
+     "text": "gation Company."
+    },
+    {
+     "role": "body",
+     "text": "Steam Navigation Company."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 15, 1862."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLXXX. — An Act to prevent Members of Congress and Officers of the Government"
+    },
+    {
+     "role": "sidenote",
+     "text": "July 16, 1862."
+    },
+    {
+     "role": "body",
+     "text": "of the United States from taking Consideration for procuring Contracts, Office, or Place,"
+    },
+    {
+     "role": "sidenote",
+     "text": "1863, ch. 61."
+    },
+    {
+     "role": "body",
+     "text": "from the United States, and for other Purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post, p. 696."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That any member of Congress"
+    },
+    {
+     "role": "sidenote",
+     "text": "Penalty on"
+    },
+    {
+     "role": "body",
+     "text": "or any officer of the government of the United States who shall, directly"
+    },
+    {
+     "role": "sidenote",
+     "text": "members of Con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "gress, &c. for tak-"
+    },
+    {
+     "role": "body",
+     "text": "or indirectly, take, receive, or agree to receive, any money, property, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing consideration"
+    },
+    {
+     "role": "body",
+     "text": "other valuable consideration whatsoever, from any person or persons for"
+    },
+    {
+     "role": "sidenote",
+     "text": "for procuring con-"
+    },
+    {
+     "role": "body",
+     "text": "procuring, or aiding to procure, any contract, office, or place, from the"
+    },
+    {
+     "role": "sidenote",
+     "text": "tracts, &c."
+    },
+    {
+     "role": "body",
+     "text": "government of the United States or any department thereof, or from any"
+    },
+    {
+     "role": "body",
+     "text": "officer of the United States, for any person or persons whatsoever, or for"
+    },
+    {
+     "role": "body",
+     "text": "giving any such contract, office, or place to any person whomsoever, and"
+    },
+    {
+     "role": "body",
+     "text": "the person or persons who shall directly or indirectly offer or agree to give,"
+    },
+    {
+     "role": "sidenote",
+     "text": "On persons who"
+    },
+    {
+     "role": "body",
+     "text": "or give or bestow any money, property, or other valuable consideration"
+    },
+    {
+     "role": "sidenote",
+     "text": "offer money, &c."
+    },
+    {
+     "role": "sidenote",
+     "text": "to members"
+    },
+    {
+     "role": "body",
+     "text": "whatsoever, for the procuring or aiding to procure any contract, office, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "to procure con-"
+    },
+    {
+     "role": "body",
+     "text": "place as aforesaid, and any member of Congress who shall directly or in-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tracts."
+    },
+    {
+     "role": "body",
+     "text": "directly take, receive, or agree to receive any money, property, or other"
+    },
+    {
+     "role": "body",
+     "text": "valuable consideration whatsoever after his election as such member, for"
+    },
+    {
+     "role": "body",
+     "text": "his attention to, services, action, vote, or decision on any question, matter,"
+    },
+    {
+     "role": "body",
+     "text": "cause or proceeding which may then be pending, or may by law or under"
+    },
+    {
+     "role": "body",
+     "text": "the Constitution of the United States be brought before him in his official"
+    },
+    {
+     "role": "body",
+     "text": "capacity, or in his place of trust and profit as such member of Congress,"
+    },
+    {
+     "role": "body",
+     "text": "shall, for every such offence, be liable to indictment as for a misdemeanor"
+    },
+    {
+     "role": "body",
+     "text": "in any court of the United States having jurisdiction thereof, and on con-"
+    },
+    {
+     "role": "body",
+     "text": "viction thereof shall pay a fine of not exceeding ten thousand dollars, and"
+    },
+    {
+     "role": "body",
+     "text": "suffer imprisonment in the penitentiary not exceeding two years, at the"
+    },
+    {
+     "role": "body",
+     "text": "discretion of the court trying the same; and any such contract or agree-"
+    },
+    {
+     "role": "body",
+     "text": "VOL. XII.  PUB. — 73"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2682,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09392,
+   "seconds": 31.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13592,
+   "output_tokens": 2823,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.13895,
+  "seconds": 31.9,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "circuit courts shall be governed by the same laws and regulations as apply",
+    "kept": "circuit courts shall be governed by the same laws and regulations as apply",
+    "reason": "The sidenote \"Clerks and\" is set opposite this body line, so the body line comes first here."
+   },
+   {
+    "run": 2,
+    "a": "circuit courts shall be governed by the same laws and regulations as apply",
+    "b": "to the other circuit courts of the United States; and the clerks of the said",
+    "kept": "to the other circuit courts of the United States; and the clerks of the said",
+    "reason": "Following the sidenote \"Clerks and\", the next printed body line is this one."
+   },
+   {
+    "run": 3,
+    "a": "to the other circuit courts of the United States; and the clerks of the said",
+    "b": "",
+    "kept": "",
+    "reason": "This body line was already placed in the preceding run; nothing additional printed here."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "SEC. 4. And be it further enacted, That all acts and provisions incon-",
+    "kept": "SEC. 4. And be it further enacted, That all acts and provisions incon-",
+    "reason": "Sidenote \"Repeal of in-\" is opposite this line, which precedes it in reading order."
+   },
+   {
+    "run": 5,
+    "a": "SEC. 4. And be it further enacted, That all acts and provisions incon-",
+    "b": "sistent with this act be, and the same are hereby, repealed.",
+    "kept": "sistent with this act be, and the same are hereby, repealed.",
+    "reason": "Next body line after the first sidenote line."
+   },
+   {
+    "run": 6,
+    "a": "sistent with this act be, and the same are hereby, repealed.",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing printed here."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "CHAP. CLXXIX. — An Act to extend the Provisions of the Act of August four, eighteen",
+    "kept": "CHAP. CLXXIX. — An Act to extend the Provisions of the Act of August four, eighteen",
+    "reason": "Chapter heading line precedes the date sidenote set opposite it."
+   },
+   {
+    "run": 8,
+    "a": "CHAP. CLXXIX. — An Act to extend the Provisions of the Act of August four, eighteen",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing printed here."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the United",
+    "kept": "Be it enacted by the Senate and House of Representatives of the United",
+    "reason": "Body line precedes the sidenote \"Provisions of\" set opposite it."
+   },
+   {
+    "run": 10,
+    "a": "Be it enacted by the Senate and House of Representatives of the United",
+    "b": "States of America in Congress assembled, That the provisions of the act",
+    "kept": "States of America in Congress assembled, That the provisions of the act",
+    "reason": "Next body line after the sidenote."
+   },
+   {
+    "run": 11,
+    "a": "States of America in Congress assembled, That the provisions of the act",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing printed here."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "United States,” approved August four, eighteen hundred and fifty-two, and",
+    "kept": "United States,” approved August four, eighteen hundred and fifty-two, and",
+    "reason": "This body line stands opposite \"Vol. x. p. 683.\" and follows the \"1855, ch. 200.\" sidenote."
+   },
+   {
+    "run": 13,
+    "a": "United States,” approved August four, eighteen hundred and fifty-two, and",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing printed here."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "SEC. 2.  And be it further enacted, That the right of way for a railroad",
+    "kept": "SEC. 2.  And be it further enacted, That the right of way for a railroad",
+    "reason": "Body line precedes its opposite sidenote \"Right of way\"."
+   },
+   {
+    "run": 15,
+    "a": "SEC. 2.   And be it further enacted, That the right of way for a railroad",
+    "b": "through the public lands of the United States lying in Wasco County in",
+    "kept": "through the public lands of the United States lying in Wasco County in",
+    "reason": "Next body line after the sidenote."
+   },
+   {
+    "run": 16,
+    "a": "through the public lands of the United States lying in Wasco County in",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing printed here."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "CHAP. CLXXX. — An Act to prevent Members of Congress and Officers of the Government",
+    "kept": "CHAP. CLXXX. — An Act to prevent Members of Congress and Officers of the Government",
+    "reason": "Chapter heading precedes the date sidenote opposite it."
+   },
+   {
+    "run": 18,
+    "a": "CHAP. CLXXX. — An Act to prevent Members of Congress and Officers of the Government",
+    "b": "of the United States from taking Consideration for procuring Contracts, Office, or Place,",
+    "kept": "of the United States from taking Consideration for procuring Contracts, Office, or Place,",
+    "reason": "Next heading line after the date sidenote."
+   },
+   {
+    "run": 19,
+    "a": "of the United States from taking Consideration for procuring Contracts, Office, or Place,",
+    "b": "from the United States, and for other Purposes.",
+    "kept": "from the United States, and for other Purposes.",
+    "reason": "Next heading line after the \"1863, ch. 61.\" sidenote."
+   },
+   {
+    "run": 20,
+    "a": "from the United States, and for other Purposes.",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing printed here."
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "States of America in Congress assembled, That any member of Congress",
+    "kept": "States of America in Congress assembled, That any member of Congress",
+    "reason": "Body line precedes the opposite sidenote \"Penalty on\"."
+   },
+   {
+    "run": 22,
+    "a": "States of America in Congress assembled, That any member of Congress",
+    "b": "or any officer of the government of the United States who shall, directly",
+    "kept": "or any officer of the government of the United States who shall, directly",
+    "reason": "Next body line after the sidenote."
+   },
+   {
+    "run": 23,
+    "a": "or any officer of the government of the United States who shall, directly",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing printed here."
+   },
+   {
+    "run": 24,
+    "a": "",
+    "b": "the person or persons who shall directly or indirectly offer or agree to give,",
+    "kept": "the person or persons who shall directly or indirectly offer or agree to give,",
+    "reason": "Body line precedes the opposite sidenote \"On persons who\"."
+   },
+   {
+    "run": 25,
+    "a": "the person or persons who shall directly or indirectly offer or agree to give,",
+    "b": "or give or bestow any money, property, or other valuable consideration",
+    "kept": "or give or bestow any money, property, or other valuable consideration",
+    "reason": "Next body line after the sidenote."
+   },
+   {
+    "run": 26,
+    "a": "or give or bestow any money, property, or other valuable consideration",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "THIRTY–SEVENTH CONGRESS.  SESS. II.  CH. 178–180.  1862."
+  },
+  {
+   "role": "page-number",
+   "text": "577"
+  },
+  {
+   "role": "body",
+   "text": "tober next, shall be, and are hereby declared to be, respectively, trans-"
+  },
+  {
+   "role": "body",
+   "text": "ferred, returnable, and continued to the several circuit courts constituted"
+  },
+  {
+   "role": "body",
+   "text": "by this act, to be holden within the said districts, respectively, and shall be"
+  },
+  {
+   "role": "body",
+   "text": "heard, tried, and determined therein, in the same manner as if originally"
+  },
+  {
+   "role": "body",
+   "text": "brought, entered, prosecuted, or had in such circuit courts.   And the said"
+  },
+  {
+   "role": "body",
+   "text": "circuit courts shall be governed by the same laws and regulations as apply"
+  },
+  {
+   "role": "sidenote",
+   "text": "Clerks and"
+  },
+  {
+   "role": "body",
+   "text": "to the other circuit courts of the United States; and the clerks of the said"
+  },
+  {
+   "role": "sidenote",
+   "text": "their fees."
+  },
+  {
+   "role": "body",
+   "text": "courts respectively shall perform the same duties, and shall be entitled to"
+  },
+  {
+   "role": "body",
+   "text": "receive the same fees and emoluments which are by law established for"
+  },
+  {
+   "role": "body",
+   "text": "the clerks of the other circuit courts of the United States."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. And be it further enacted, That all acts and provisions incon-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Repeal of in-"
+  },
+  {
+   "role": "body",
+   "text": "sistent with this act be, and the same are hereby, repealed."
+  },
+  {
+   "role": "sidenote",
+   "text": "consistent pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "visions."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, July 15, 1862."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CLXXIX. — An Act to extend the Provisions of the Act of August four, eighteen"
+  },
+  {
+   "role": "sidenote",
+   "text": "July 15, 1862."
+  },
+  {
+   "role": "body",
+   "text": "hundred and fifty-two, entitled “ An Act to grant the Right of Way to all Rail and"
+  },
+  {
+   "role": "body",
+   "text": "Plank Roads, &c.,” for the Term of five Years, and to amend the same."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Provisions of"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the provisions of the act"
+  },
+  {
+   "role": "sidenote",
+   "text": "acts."
+  },
+  {
+   "role": "sidenote",
+   "text": "1852, ch. 80."
+  },
+  {
+   "role": "body",
+   "text": "entitled “ An act to grant the right of way to all rail and plank roads, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. x. p. 28. and"
+  },
+  {
+   "role": "body",
+   "text": "macadamized turnpikes passing through the public lands belonging to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "1855, ch. 200."
+  },
+  {
+   "role": "body",
+   "text": "United States,” approved August four, eighteen hundred and fifty-two, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. x. p. 683."
+  },
+  {
+   "role": "sidenote",
+   "text": "Extended for"
+  },
+  {
+   "role": "body",
+   "text": "of the act extending the same to all of the public lands of the United States,"
+  },
+  {
+   "role": "sidenote",
+   "text": "five years."
+  },
+  {
+   "role": "body",
+   "text": "approved March three, eighteen hundred and fifty-five, be, and the same"
+  },
+  {
+   "role": "body",
+   "text": "are hereby, extended for the term of five years from the fourth day of"
+  },
+  {
+   "role": "body",
+   "text": "August, eighteen hundred and sixty-two."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2.  And be it further enacted, That the right of way for a railroad"
+  },
+  {
+   "role": "sidenote",
+   "text": "Right of way"
+  },
+  {
+   "role": "body",
+   "text": "through the public lands of the United States lying in Wasco County in"
+  },
+  {
+   "role": "sidenote",
+   "text": "granted to Ore-"
+  },
+  {
+   "role": "sidenote",
+   "text": "gon Steam Navi-"
+  },
+  {
+   "role": "body",
+   "text": "the State of Oregon, be, and the same is hereby, granted to the Oregon"
+  },
+  {
+   "role": "sidenote",
+   "text": "gation Company."
+  },
+  {
+   "role": "body",
+   "text": "Steam Navigation Company."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, July 15, 1862."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CLXXX. — An Act to prevent Members of Congress and Officers of the Government"
+  },
+  {
+   "role": "sidenote",
+   "text": "July 16, 1862."
+  },
+  {
+   "role": "body",
+   "text": "of the United States from taking Consideration for procuring Contracts, Office, or Place,"
+  },
+  {
+   "role": "sidenote",
+   "text": "1863, ch. 61."
+  },
+  {
+   "role": "body",
+   "text": "from the United States, and for other Purposes."
+  },
+  {
+   "role": "sidenote",
+   "text": "Post, p. 696."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That any member of Congress"
+  },
+  {
+   "role": "sidenote",
+   "text": "Penalty on"
+  },
+  {
+   "role": "body",
+   "text": "or any officer of the government of the United States who shall, directly"
+  },
+  {
+   "role": "sidenote",
+   "text": "members of Con-"
+  },
+  {
+   "role": "sidenote",
+   "text": "gress, &c. for tak-"
+  },
+  {
+   "role": "body",
+   "text": "or indirectly, take, receive, or agree to receive, any money, property, or"
+  },
+  {
+   "role": "sidenote",
+   "text": "ing consideration"
+  },
+  {
+   "role": "body",
+   "text": "other valuable consideration whatsoever, from any person or persons for"
+  },
+  {
+   "role": "sidenote",
+   "text": "for procuring con-"
+  },
+  {
+   "role": "body",
+   "text": "procuring, or aiding to procure, any contract, office, or place, from the"
+  },
+  {
+   "role": "sidenote",
+   "text": "tracts, &c."
+  },
+  {
+   "role": "body",
+   "text": "government of the United States or any department thereof, or from any"
+  },
+  {
+   "role": "body",
+   "text": "officer of the United States, for any person or persons whatsoever, or for"
+  },
+  {
+   "role": "body",
+   "text": "giving any such contract, office, or place to any person whomsoever, and"
+  },
+  {
+   "role": "body",
+   "text": "the person or persons who shall directly or indirectly offer or agree to give,"
+  },
+  {
+   "role": "sidenote",
+   "text": "On persons who"
+  },
+  {
+   "role": "body",
+   "text": "or give or bestow any money, property, or other valuable consideration"
+  },
+  {
+   "role": "sidenote",
+   "text": "offer money, &c."
+  },
+  {
+   "role": "sidenote",
+   "text": "to members"
+  },
+  {
+   "role": "body",
+   "text": "whatsoever, for the procuring or aiding to procure any contract, office, or"
+  },
+  {
+   "role": "sidenote",
+   "text": "to procure con-"
+  },
+  {
+   "role": "body",
+   "text": "place as aforesaid, and any member of Congress who shall directly or in-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tracts."
+  },
+  {
+   "role": "body",
+   "text": "directly take, receive, or agree to receive any money, property, or other"
+  },
+  {
+   "role": "body",
+   "text": "valuable consideration whatsoever after his election as such member, for"
+  },
+  {
+   "role": "body",
+   "text": "his attention to, services, action, vote, or decision on any question, matter,"
+  },
+  {
+   "role": "body",
+   "text": "cause or proceeding which may then be pending, or may by law or under"
+  },
+  {
+   "role": "body",
+   "text": "the Constitution of the United States be brought before him in his official"
+  },
+  {
+   "role": "body",
+   "text": "capacity, or in his place of trust and profit as such member of Congress,"
+  },
+  {
+   "role": "body",
+   "text": "shall, for every such offence, be liable to indictment as for a misdemeanor"
+  },
+  {
+   "role": "body",
+   "text": "in any court of the United States having jurisdiction thereof, and on con-"
+  },
+  {
+   "role": "body",
+   "text": "viction thereof shall pay a fine of not exceeding ten thousand dollars, and"
+  },
+  {
+   "role": "body",
+   "text": "suffer imprisonment in the penitentiary not exceeding two years, at the"
+  },
+  {
+   "role": "body",
+   "text": "discretion of the court trying the same; and any such contract or agree-"
+  },
+  {
+   "role": "body",
+   "text": "VOL. XII.  PUB. — 73"
+  }
+ ],
+ "disagreement_count": 26,
+ "tokens": {
+  "input_tokens": 24191,
+  "output_tokens": 8187,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.32679,
+ "seconds": 93.2,
+ "created": "2026-09-08T11:20:42"
+}

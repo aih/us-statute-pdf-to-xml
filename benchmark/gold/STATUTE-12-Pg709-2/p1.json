@@ -1,0 +1,1118 @@
+{
+ "granule_id": "STATUTE-12-Pg709-2",
+ "package_id": "STATUTE-12",
+ "volume": 12,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to provide Ways and Means for the Support of the Government.",
+ "date_issued": "1863-03-03",
+ "pdf_page": 1,
+ "pdf_pages": 5,
+ "stat_page": "709",
+ "image": "data/gold/STATUTE-12-Pg709-2/p1.png",
+ "image_sha256": "4cd140705d08c7dbb72204c8d3bb81561335f106f0a646dc863868e0fc65e022",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 71, 72, 73.  1863.     709"
+    },
+    {
+     "role": "body",
+     "text": "shall be considered as public documents, and entitled to be franked as"
+    },
+    {
+     "role": "sidenote",
+     "text": "Weight of pack-"
+    },
+    {
+     "role": "body",
+     "text": "such ; and except also seeds, cuttings, roots, and scions, the weight of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "ages of seeds."
+    },
+    {
+     "role": "body",
+     "text": "packages of which may be fixed by regulation of the Postmaster-Gen-"
+    },
+    {
+     "role": "body",
+     "text": "eral."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 43. And be it further enacted, That all publishers of periodicals,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Publishers may"
+    },
+    {
+     "role": "body",
+     "text": "magazines, and newspapers which shall not exceed sixteen ounces in"
+    },
+    {
+     "role": "sidenote",
+     "text": "interchange free"
+    },
+    {
+     "role": "sidenote",
+     "text": "except, &c."
+    },
+    {
+     "role": "body",
+     "text": "weight shall be allowed to interchange their publications reciprocally free"
+    },
+    {
+     "role": "body",
+     "text": "of postage : Provided, That such interchange shall be confined to a single"
+    },
+    {
+     "role": "body",
+     "text": "copy of each publication."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 44. And be it further enacted, That this act shall be in force and"
+    },
+    {
+     "role": "sidenote",
+     "text": "When act to"
+    },
+    {
+     "role": "body",
+     "text": "take effect from and after the thirtieth day of June, eighteen hundred and"
+    },
+    {
+     "role": "sidenote",
+     "text": "take effect."
+    },
+    {
+     "role": "body",
+     "text": "sixty-three."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 45. And be it further enacted, That all acts and parts of acts"
+    },
+    {
+     "role": "sidenote",
+     "text": "Repealing"
+    },
+    {
+     "role": "body",
+     "text": "inconsistent with the provisions of this act are hereby repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "clause."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXII. — An Act to disapprove of the twenty-sixth Section of the Act of the Leg-"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1863."
+    },
+    {
+     "role": "body",
+     "text": "islative Assembly of the Territory of Nevada, and for other Purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That section twenty-six of an"
+    },
+    {
+     "role": "sidenote",
+     "text": "Law of Nevada"
+    },
+    {
+     "role": "body",
+     "text": "act of the Legislative Assembly of the Territory of Nevada entitled “ An"
+    },
+    {
+     "role": "sidenote",
+     "text": "Territory respect-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing corporations"
+    },
+    {
+     "role": "body",
+     "text": "act to provide for the formation of corporations for certain purposes,” ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "disapproved."
+    },
+    {
+     "role": "body",
+     "text": "proved December twenty, eighteen hundred and sixty-two, said section"
+    },
+    {
+     "role": "body",
+     "text": "being as follows : “ Section 26. All corporations heretofore formed under"
+    },
+    {
+     "role": "body",
+     "text": "the provisions of acts of incorporation in other States or Territories, and"
+    },
+    {
+     "role": "body",
+     "text": "holding or owning property within this Territory of such character as"
+    },
+    {
+     "role": "body",
+     "text": "specified in section first of this act, and managed by a board or boards of"
+    },
+    {
+     "role": "body",
+     "text": "trustees or directors, and having their principal place of business outside"
+    },
+    {
+     "role": "body",
+     "text": "the limits of this Territory, are hereby required to remove their places"
+    },
+    {
+     "role": "body",
+     "text": "of business, principal offices, books, and papers, heretofore kept, or neces-"
+    },
+    {
+     "role": "body",
+     "text": "sary for the transaction of such business, to some point to be designated"
+    },
+    {
+     "role": "body",
+     "text": "by said corporation, within the limits of this Territory, within six months"
+    },
+    {
+     "role": "body",
+     "text": "after the passage of this act, or otherwise such corporation or corporations"
+    },
+    {
+     "role": "body",
+     "text": "shall be disregarded in law as a corporation, and the corporators or stock-"
+    },
+    {
+     "role": "body",
+     "text": "holders thereof be treated as tenants in common, or joint owners of such"
+    },
+    {
+     "role": "body",
+     "text": "property so owned or held within this Territory.  Any corporation, by"
+    },
+    {
+     "role": "body",
+     "text": "filing and recording its certificate of incorporation, or a certified copy"
+    },
+    {
+     "role": "body",
+     "text": "thereof, with the secretary of the Territory, and with the clerk of the"
+    },
+    {
+     "role": "body",
+     "text": "county in which such corporation may locate as the principal place of"
+    },
+    {
+     "role": "body",
+     "text": "business, and fully complying with all the provisions of this act, shall be"
+    },
+    {
+     "role": "body",
+     "text": "deemed sufficient to entitle such corporation to all the rights and privileges"
+    },
+    {
+     "role": "body",
+     "text": "under the provisions of this act,” be and the same is hereby disapproved,"
+    },
+    {
+     "role": "body",
+     "text": "and the same is hereby annulled and made void."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That all incorporated companies,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Corporations in"
+    },
+    {
+     "role": "body",
+     "text": "duly organized within any state or territory of the United States, may"
+    },
+    {
+     "role": "sidenote",
+     "text": "Nevada may sue"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "body",
+     "text": "sue and be sued, plead and be impleaded, in the several courts of the Ter-"
+    },
+    {
+     "role": "body",
+     "text": "ritory of Nevada, anything in the laws of said Territory to the contrary"
+    },
+    {
+     "role": "body",
+     "text": "notwithstanding."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXIII. — An Act to provide Ways and Means for the Support of the Gov-"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1863."
+    },
+    {
+     "role": "body",
+     "text": "ernment."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "The Secretary"
+    },
+    {
+     "role": "sidenote",
+     "text": "of Treasury may"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the Treas-"
+    },
+    {
+     "role": "sidenote",
+     "text": "borrow not over"
+    },
+    {
+     "role": "body",
+     "text": "ury be, and he is hereby, authorized to borrow, from time to time, on the"
+    },
+    {
+     "role": "sidenote",
+     "text": "$300,000,000"
+    },
+    {
+     "role": "body",
+     "text": "credit of the United States, a sum not exceeding three hundred millions"
+    },
+    {
+     "role": "sidenote",
+     "text": "for this year, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "$600,000,000"
+    },
+    {
+     "role": "body",
+     "text": "of dollars for the current fiscal year, and six hundred millions for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "for the next."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2352,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08623,
+   "seconds": 29.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 71, 72, 73.  1863.    709"
+    },
+    {
+     "role": "body",
+     "text": "shall be considered as public documents, and entitled to be franked as"
+    },
+    {
+     "role": "sidenote",
+     "text": "Weight of pack-"
+    },
+    {
+     "role": "body",
+     "text": "such ; and except also seeds, cuttings, roots, and scions, the weight of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "ages of seeds."
+    },
+    {
+     "role": "body",
+     "text": "packages of which may be fixed by regulation of the Postmaster-Gen-"
+    },
+    {
+     "role": "body",
+     "text": "eral."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 43. And be it further enacted, That all publishers of periodicals,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Publishers may"
+    },
+    {
+     "role": "body",
+     "text": "magazines, and newspapers which shall not exceed sixteen ounces in"
+    },
+    {
+     "role": "sidenote",
+     "text": "interchange free"
+    },
+    {
+     "role": "body",
+     "text": "weight shall be allowed to interchange their publications reciprocally free"
+    },
+    {
+     "role": "sidenote",
+     "text": "except, &c."
+    },
+    {
+     "role": "body",
+     "text": "of postage : Provided, That such interchange shall be confined to a single"
+    },
+    {
+     "role": "body",
+     "text": "copy of each publication."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 44. And be it further enacted, That this act shall be in force and"
+    },
+    {
+     "role": "sidenote",
+     "text": "When act to"
+    },
+    {
+     "role": "body",
+     "text": "take effect from and after the thirtieth day of June, eighteen hundred and"
+    },
+    {
+     "role": "sidenote",
+     "text": "take effect."
+    },
+    {
+     "role": "body",
+     "text": "sixty-three."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 45. And be it further enacted, That all acts and parts of acts"
+    },
+    {
+     "role": "sidenote",
+     "text": "Repealing"
+    },
+    {
+     "role": "body",
+     "text": "inconsistent with the provisions of this act are hereby repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "clause."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXII. — An Act to disapprove of the twenty-sixth Section of the Act of the Leg-"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1863."
+    },
+    {
+     "role": "body",
+     "text": "islative Assembly of the Territory of Nevada, and for other Purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That section twenty-six of an"
+    },
+    {
+     "role": "sidenote",
+     "text": "Law of Nevada"
+    },
+    {
+     "role": "body",
+     "text": "act of the Legislative Assembly of the Territory of Nevada entitled “ An"
+    },
+    {
+     "role": "sidenote",
+     "text": "Territory respect-"
+    },
+    {
+     "role": "body",
+     "text": "act to provide for the formation of corporations for certain purposes,” ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing corporations"
+    },
+    {
+     "role": "sidenote",
+     "text": "disapproved."
+    },
+    {
+     "role": "body",
+     "text": "proved December twenty, eighteen hundred and sixty-two, said section"
+    },
+    {
+     "role": "body",
+     "text": "being as follows : “ Section 26. All corporations heretofore formed under"
+    },
+    {
+     "role": "body",
+     "text": "the provisions of acts of incorporation in other States or Territories, and"
+    },
+    {
+     "role": "body",
+     "text": "holding or owning property within this Territory of such character as"
+    },
+    {
+     "role": "body",
+     "text": "specified in section first of this act, and managed by a board or boards of"
+    },
+    {
+     "role": "body",
+     "text": "trustees or directors, and having their principal place of business outside"
+    },
+    {
+     "role": "body",
+     "text": "the limits of this Territory, are hereby required to remove their places"
+    },
+    {
+     "role": "body",
+     "text": "of business, principal offices, books, and papers, heretofore kept, or neces-"
+    },
+    {
+     "role": "body",
+     "text": "sary for the transaction of such business, to some point to be designated"
+    },
+    {
+     "role": "body",
+     "text": "by said corporation, within the limits of this Territory, within six months"
+    },
+    {
+     "role": "body",
+     "text": "after the passage of this act, or otherwise such corporation or corporations"
+    },
+    {
+     "role": "body",
+     "text": "shall be disregarded in law as a corporation, and the corporators or stock-"
+    },
+    {
+     "role": "body",
+     "text": "holders thereof be treated as tenants in common, or joint owners of such"
+    },
+    {
+     "role": "body",
+     "text": "property so owned or held within this Territory.  Any corporation, by"
+    },
+    {
+     "role": "body",
+     "text": "filing and recording its certificate of incorporation, or a certified copy"
+    },
+    {
+     "role": "body",
+     "text": "thereof, with the secretary of the Territory, and with the clerk of the"
+    },
+    {
+     "role": "body",
+     "text": "county in which such corporation may locate as the principal place of"
+    },
+    {
+     "role": "body",
+     "text": "business, and fully complying with all the provisions of this act, shall be"
+    },
+    {
+     "role": "body",
+     "text": "deemed sufficient to entitle such corporation to all the rights and privileges"
+    },
+    {
+     "role": "body",
+     "text": "under the provisions of this act,” be and the same is hereby disapproved,"
+    },
+    {
+     "role": "body",
+     "text": "and the same is hereby annulled and made void."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That all incorporated companies,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Corporations in"
+    },
+    {
+     "role": "body",
+     "text": "duly organized within any state or territory of the United States, may"
+    },
+    {
+     "role": "sidenote",
+     "text": "Nevada may sue"
+    },
+    {
+     "role": "body",
+     "text": "sue and be sued, plead and be impleaded, in the several courts of the Ter-"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "body",
+     "text": "ritory of Nevada, anything in the laws of said Territory to the contrary"
+    },
+    {
+     "role": "body",
+     "text": "notwithstanding."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXIII. — An Act to provide Ways and Means for the Support of the Gov-"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1863."
+    },
+    {
+     "role": "body",
+     "text": "ernment."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "The Secretary"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the Treas-"
+    },
+    {
+     "role": "sidenote",
+     "text": "of Treasury may"
+    },
+    {
+     "role": "sidenote",
+     "text": "borrow not over"
+    },
+    {
+     "role": "body",
+     "text": "ury be, and he is hereby, authorized to borrow, from time to time, on the"
+    },
+    {
+     "role": "sidenote",
+     "text": "$300,000,000"
+    },
+    {
+     "role": "body",
+     "text": "credit of the United States, a sum not exceeding three hundred millions"
+    },
+    {
+     "role": "sidenote",
+     "text": "for this year, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "$600,000,000"
+    },
+    {
+     "role": "body",
+     "text": "of dollars for the current fiscal year, and six hundred millions for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "for the next."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2352,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08623,
+   "seconds": 26.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11946,
+   "output_tokens": 1555,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.09902,
+  "seconds": 21.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "weight shall be allowed to interchange their publications reciprocally free",
+    "kept": "",
+    "reason": "Sidenote block \"interchange free / except, &c.\" is set before the body line it aligns with; body line comes after."
+   },
+   {
+    "run": 2,
+    "a": "weight shall be allowed to interchange their publications reciprocally free",
+    "b": "",
+    "kept": "weight shall be allowed to interchange their publications reciprocally free",
+    "reason": "Body line follows the paired sidenote lines, as in A."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "act to provide for the formation of corporations for certain purposes,” ap-",
+    "kept": "",
+    "reason": "Sidenote \"ing corporations\" aligns with this body line and precedes it."
+   },
+   {
+    "run": 4,
+    "a": "act to provide for the formation of corporations for certain purposes,” ap-",
+    "b": "",
+    "kept": "act to provide for the formation of corporations for certain purposes,” ap-",
+    "reason": "Body line printed after sidenote \"ing corporations\", before \"disapproved.\""
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "sue and be sued, plead and be impleaded, in the several courts of the Ter-",
+    "kept": "",
+    "reason": "Sidenote \"&c.\" aligns with this body line and precedes it."
+   },
+   {
+    "run": 6,
+    "a": "sue and be sued, plead and be impleaded, in the several courts of the Ter-",
+    "b": "",
+    "kept": "sue and be sued, plead and be impleaded, in the several courts of the Ter-",
+    "reason": "Body line follows the sidenote block \"Nevada may sue / &c.\""
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "States of America in Congress assembled, That the Secretary of the Treas-",
+    "kept": "",
+    "reason": "Sidenote \"of Treasury may\" aligns with this body line and precedes it."
+   },
+   {
+    "run": 8,
+    "a": "States of America in Congress assembled, That the Secretary of the Treas-",
+    "b": "",
+    "kept": "States of America in Congress assembled, That the Secretary of the Treas-",
+    "reason": "Body line printed after the sidenote \"of Treasury may\"."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 71, 72, 73.  1863.     709"
+  },
+  {
+   "role": "body",
+   "text": "shall be considered as public documents, and entitled to be franked as"
+  },
+  {
+   "role": "sidenote",
+   "text": "Weight of pack-"
+  },
+  {
+   "role": "body",
+   "text": "such ; and except also seeds, cuttings, roots, and scions, the weight of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "ages of seeds."
+  },
+  {
+   "role": "body",
+   "text": "packages of which may be fixed by regulation of the Postmaster-Gen-"
+  },
+  {
+   "role": "body",
+   "text": "eral."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 43. And be it further enacted, That all publishers of periodicals,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Publishers may"
+  },
+  {
+   "role": "body",
+   "text": "magazines, and newspapers which shall not exceed sixteen ounces in"
+  },
+  {
+   "role": "sidenote",
+   "text": "interchange free"
+  },
+  {
+   "role": "sidenote",
+   "text": "except, &c."
+  },
+  {
+   "role": "body",
+   "text": "weight shall be allowed to interchange their publications reciprocally free"
+  },
+  {
+   "role": "body",
+   "text": "of postage : Provided, That such interchange shall be confined to a single"
+  },
+  {
+   "role": "body",
+   "text": "copy of each publication."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 44. And be it further enacted, That this act shall be in force and"
+  },
+  {
+   "role": "sidenote",
+   "text": "When act to"
+  },
+  {
+   "role": "body",
+   "text": "take effect from and after the thirtieth day of June, eighteen hundred and"
+  },
+  {
+   "role": "sidenote",
+   "text": "take effect."
+  },
+  {
+   "role": "body",
+   "text": "sixty-three."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 45. And be it further enacted, That all acts and parts of acts"
+  },
+  {
+   "role": "sidenote",
+   "text": "Repealing"
+  },
+  {
+   "role": "body",
+   "text": "inconsistent with the provisions of this act are hereby repealed."
+  },
+  {
+   "role": "sidenote",
+   "text": "clause."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1863."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LXXII. — An Act to disapprove of the twenty-sixth Section of the Act of the Leg-"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1863."
+  },
+  {
+   "role": "body",
+   "text": "islative Assembly of the Territory of Nevada, and for other Purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That section twenty-six of an"
+  },
+  {
+   "role": "sidenote",
+   "text": "Law of Nevada"
+  },
+  {
+   "role": "body",
+   "text": "act of the Legislative Assembly of the Territory of Nevada entitled “ An"
+  },
+  {
+   "role": "sidenote",
+   "text": "Territory respect-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ing corporations"
+  },
+  {
+   "role": "body",
+   "text": "act to provide for the formation of corporations for certain purposes,” ap-"
+  },
+  {
+   "role": "sidenote",
+   "text": "disapproved."
+  },
+  {
+   "role": "body",
+   "text": "proved December twenty, eighteen hundred and sixty-two, said section"
+  },
+  {
+   "role": "body",
+   "text": "being as follows : “ Section 26. All corporations heretofore formed under"
+  },
+  {
+   "role": "body",
+   "text": "the provisions of acts of incorporation in other States or Territories, and"
+  },
+  {
+   "role": "body",
+   "text": "holding or owning property within this Territory of such character as"
+  },
+  {
+   "role": "body",
+   "text": "specified in section first of this act, and managed by a board or boards of"
+  },
+  {
+   "role": "body",
+   "text": "trustees or directors, and having their principal place of business outside"
+  },
+  {
+   "role": "body",
+   "text": "the limits of this Territory, are hereby required to remove their places"
+  },
+  {
+   "role": "body",
+   "text": "of business, principal offices, books, and papers, heretofore kept, or neces-"
+  },
+  {
+   "role": "body",
+   "text": "sary for the transaction of such business, to some point to be designated"
+  },
+  {
+   "role": "body",
+   "text": "by said corporation, within the limits of this Territory, within six months"
+  },
+  {
+   "role": "body",
+   "text": "after the passage of this act, or otherwise such corporation or corporations"
+  },
+  {
+   "role": "body",
+   "text": "shall be disregarded in law as a corporation, and the corporators or stock-"
+  },
+  {
+   "role": "body",
+   "text": "holders thereof be treated as tenants in common, or joint owners of such"
+  },
+  {
+   "role": "body",
+   "text": "property so owned or held within this Territory.  Any corporation, by"
+  },
+  {
+   "role": "body",
+   "text": "filing and recording its certificate of incorporation, or a certified copy"
+  },
+  {
+   "role": "body",
+   "text": "thereof, with the secretary of the Territory, and with the clerk of the"
+  },
+  {
+   "role": "body",
+   "text": "county in which such corporation may locate as the principal place of"
+  },
+  {
+   "role": "body",
+   "text": "business, and fully complying with all the provisions of this act, shall be"
+  },
+  {
+   "role": "body",
+   "text": "deemed sufficient to entitle such corporation to all the rights and privileges"
+  },
+  {
+   "role": "body",
+   "text": "under the provisions of this act,” be and the same is hereby disapproved,"
+  },
+  {
+   "role": "body",
+   "text": "and the same is hereby annulled and made void."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That all incorporated companies,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Corporations in"
+  },
+  {
+   "role": "body",
+   "text": "duly organized within any state or territory of the United States, may"
+  },
+  {
+   "role": "sidenote",
+   "text": "Nevada may sue"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c."
+  },
+  {
+   "role": "body",
+   "text": "sue and be sued, plead and be impleaded, in the several courts of the Ter-"
+  },
+  {
+   "role": "body",
+   "text": "ritory of Nevada, anything in the laws of said Territory to the contrary"
+  },
+  {
+   "role": "body",
+   "text": "notwithstanding."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1863."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LXXIII. — An Act to provide Ways and Means for the Support of the Gov-"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1863."
+  },
+  {
+   "role": "body",
+   "text": "ernment."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "The Secretary"
+  },
+  {
+   "role": "sidenote",
+   "text": "of Treasury may"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the Secretary of the Treas-"
+  },
+  {
+   "role": "sidenote",
+   "text": "borrow not over"
+  },
+  {
+   "role": "body",
+   "text": "ury be, and he is hereby, authorized to borrow, from time to time, on the"
+  },
+  {
+   "role": "sidenote",
+   "text": "$300,000,000"
+  },
+  {
+   "role": "body",
+   "text": "credit of the United States, a sum not exceeding three hundred millions"
+  },
+  {
+   "role": "sidenote",
+   "text": "for this year, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "$600,000,000"
+  },
+  {
+   "role": "body",
+   "text": "of dollars for the current fiscal year, and six hundred millions for the"
+  },
+  {
+   "role": "sidenote",
+   "text": "for the next."
+  }
+ ],
+ "disagreement_count": 8,
+ "tokens": {
+  "input_tokens": 22769,
+  "output_tokens": 6259,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.27148,
+ "seconds": 77.1,
+ "created": "2026-09-08T12:33:23"
+}

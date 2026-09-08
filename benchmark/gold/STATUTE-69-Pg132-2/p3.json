@@ -1,0 +1,813 @@
+{
+ "granule_id": "STATUTE-69-Pg132-2",
+ "package_id": "STATUTE-69",
+ "volume": 69,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to make retrocession to the Commonwealth of Massachusetts of jurisdiction over certain land in the vicinity of Fort Devens, Mass",
+ "date_issued": "1955-06-15",
+ "pdf_page": 3,
+ "pdf_pages": 3,
+ "stat_page": "134",
+ "image": "data/gold/STATUTE-69-Pg132-2/p3.png",
+ "image_sha256": "8c50f364dc4e2450ae06d9a8b339ebc1027a4abdb6c00993b1306a0dcd470c83",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "134"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 73—JUNE 15, 1955      [69 STAT."
+    },
+    {
+     "role": "body",
+     "text": "6,534.00 feet; thence (partly in Harvard and partly in Lancaster)"
+    },
+    {
+     "role": "body",
+     "text": "south 67 degrees 1 minute 10 seconds west 1,415.90 feet; thence (in"
+    },
+    {
+     "role": "body",
+     "text": "Lancaster) north 47 degrees 47 minutes 4 seconds west 949.51 feet"
+    },
+    {
+     "role": "body",
+     "text": "to a point on the aforesaid westerly boundary of Fort Devens Military"
+    },
+    {
+     "role": "body",
+     "text": "Reservation, on the line between bounds numbered 37 and 38 thereof;"
+    },
+    {
+     "role": "body",
+     "text": "thence by said boundary line north 70 degrees 11 minutes 26 seconds"
+    },
+    {
+     "role": "body",
+     "text": "east 202.26 feet to the said bound numbered 38, and thence north 4"
+    },
+    {
+     "role": "body",
+     "text": "degrees 41 minutes 41 seconds west 503.20 feet to the point of begin-"
+    },
+    {
+     "role": "body",
+     "text": "ning above described, at the aforesaid bound numbered 39."
+    },
+    {
+     "role": "body",
+     "text": "The area of the above-described parcel is 91.20 acres of which 43.77"
+    },
+    {
+     "role": "body",
+     "text": "acres are in Lancaster and 47.43 acres are in Harvard."
+    },
+    {
+     "role": "body",
+     "text": "The above-described parcel is shown on a plan signed by P. H."
+    },
+    {
+     "role": "body",
+     "text": "Kitfield, chief engineer, and entitled, \"The Commonwealth of Massa-"
+    },
+    {
+     "role": "body",
+     "text": "chusetts Plan of Land in the Towns of Lancaster and Harvard, Wor-"
+    },
+    {
+     "role": "body",
+     "text": "cester County, in Which an Easement for Highway Purposes Is To"
+    },
+    {
+     "role": "body",
+     "text": "Be Conveyed to the Commonwealth by the United States of America."
+    },
+    {
+     "role": "body",
+     "text": "Scale: 100 feet to the inch.\"   (The above-described parcel of land"
+    },
+    {
+     "role": "body",
+     "text": "being the same parcel covered by grant from the Secretary of the"
+    },
+    {
+     "role": "body",
+     "text": "Army to the Commonwealth of Massachusetts, dated May 22, 1950,"
+    },
+    {
+     "role": "body",
+     "text": "authorized by section 7 of the Act of Congress approved July 24,"
+    },
+    {
+     "role": "sidenote",
+     "text": "43 USC 931b."
+    },
+    {
+     "role": "body",
+     "text": "1946 (60 Stat. 643)."
+    },
+    {
+     "role": "sidenote",
+     "text": "Effectivity."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The retrocession of jurisdiction herein contained shall take"
+    },
+    {
+     "role": "body",
+     "text": "effect upon acceptance by the Commonwealth of Massachusetts."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 15, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 73                                    CHAPTER 142"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 15, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 4294]"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 640 of title 14, United States Code, concerning the interchange"
+    },
+    {
+     "role": "body",
+     "text": "of supplies between the Armed Forces."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 640 of"
+    },
+    {
+     "role": "sidenote",
+     "text": "63 Stat. 546."
+    },
+    {
+     "role": "body",
+     "text": "title 14, United States Code, is amended by inserting the term \"Air"
+    },
+    {
+     "role": "body",
+     "text": "Force,\" immediately after the term \"Navy,\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 15, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 74                                    CHAPTER 143"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 15, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 4725]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To repeal sections 452 and 462 of the Internal Revenue Code of 1954."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. REPEAL OF SECTIONS 452 AND 462."
+    },
+    {
+     "role": "sidenote",
+     "text": "68A Stat. 152."
+    },
+    {
+     "role": "body",
+     "text": "(a) PREPAID INCOME.—Section 452 of the Internal Revenue Code"
+    },
+    {
+     "role": "body",
+     "text": "of 1954 is hereby repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "68A Stat. 158."
+    },
+    {
+     "role": "body",
+     "text": "(b) RESERVES FOR ESTIMATED EXPENSES, ETC.—Section 462 of the"
+    },
+    {
+     "role": "body",
+     "text": "Internal Revenue Code of 1954 is hereby repealed."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. TECHNICAL AMENDMENTS."
+    },
+    {
+     "role": "body",
+     "text": "The following provisions of the Internal Revenue Code of 1954 are"
+    },
+    {
+     "role": "body",
+     "text": "hereby amended as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "68A Stat. 127."
+    },
+    {
+     "role": "body",
+     "text": "(1) Subsection (c) of section 381 is amended by striking out"
+    },
+    {
+     "role": "body",
+     "text": "paragraph (7) (relating to carryover of prepaid income in certain"
+    },
+    {
+     "role": "body",
+     "text": "corporate acquisitions)."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5186,
+    "output_tokens": 2085,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07844,
+   "seconds": 23.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "134"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 73—JUNE 15, 1955        [69 STAT."
+    },
+    {
+     "role": "body",
+     "text": "6,534.00 feet; thence (partly in Harvard and partly in Lancaster)"
+    },
+    {
+     "role": "body",
+     "text": "south 67 degrees 1 minute 10 seconds west 1,415.90 feet; thence (in"
+    },
+    {
+     "role": "body",
+     "text": "Lancaster) north 47 degrees 47 minutes 4 seconds west 949.51 feet"
+    },
+    {
+     "role": "body",
+     "text": "to a point on the aforesaid westerly boundary of Fort Devens Military"
+    },
+    {
+     "role": "body",
+     "text": "Reservation, on the line between bounds numbered 37 and 38 thereof;"
+    },
+    {
+     "role": "body",
+     "text": "thence by said boundary line north 70 degrees 11 minutes 26 seconds"
+    },
+    {
+     "role": "body",
+     "text": "east 202.26 feet to the said bound numbered 38, and thence north 4"
+    },
+    {
+     "role": "body",
+     "text": "degrees 41 minutes 41 seconds west 503.20 feet to the point of begin-"
+    },
+    {
+     "role": "body",
+     "text": "ning above described, at the aforesaid bound numbered 39."
+    },
+    {
+     "role": "body",
+     "text": "The area of the above-described parcel is 91.20 acres of which 43.77"
+    },
+    {
+     "role": "body",
+     "text": "acres are in Lancaster and 47.43 acres are in Harvard."
+    },
+    {
+     "role": "body",
+     "text": "The above-described parcel is shown on a plan signed by P. H."
+    },
+    {
+     "role": "body",
+     "text": "Kitfield, chief engineer, and entitled, \"The Commonwealth of Massa-"
+    },
+    {
+     "role": "body",
+     "text": "chusetts Plan of Land in the Towns of Lancaster and Harvard, Wor-"
+    },
+    {
+     "role": "body",
+     "text": "cester County, in Which an Easement for Highway Purposes Is To"
+    },
+    {
+     "role": "body",
+     "text": "Be Conveyed to the Commonwealth by the United States of America."
+    },
+    {
+     "role": "body",
+     "text": "Scale: 100 feet to the inch.\"   (The above-described parcel of land"
+    },
+    {
+     "role": "body",
+     "text": "being the same parcel covered by grant from the Secretary of the"
+    },
+    {
+     "role": "body",
+     "text": "Army to the Commonwealth of Massachusetts, dated May 22, 1950,"
+    },
+    {
+     "role": "body",
+     "text": "authorized by section 7 of the Act of Congress approved July 24,"
+    },
+    {
+     "role": "sidenote",
+     "text": "43 USC 931b."
+    },
+    {
+     "role": "body",
+     "text": "1946 (60 Stat. 643)."
+    },
+    {
+     "role": "sidenote",
+     "text": "Effectivity."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The retrocession of jurisdiction herein contained shall take"
+    },
+    {
+     "role": "body",
+     "text": "effect upon acceptance by the Commonwealth of Massachusetts."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 15, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 73                                    CHAPTER 142"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 15, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 4294]"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 640 of title 14, United States Code, concerning the interchange"
+    },
+    {
+     "role": "body",
+     "text": "of supplies between the Armed Forces."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 640 of"
+    },
+    {
+     "role": "sidenote",
+     "text": "63 Stat. 546."
+    },
+    {
+     "role": "body",
+     "text": "title 14, United States Code, is amended by inserting the term \"Air"
+    },
+    {
+     "role": "body",
+     "text": "Force,\" immediately after the term \"Navy,\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 15, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 74                                    CHAPTER 143"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 15, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 4725]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To repeal sections 452 and 462 of the Internal Revenue Code of 1954."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. REPEAL OF SECTIONS 452 AND 462."
+    },
+    {
+     "role": "sidenote",
+     "text": "68A Stat. 152."
+    },
+    {
+     "role": "body",
+     "text": "(a) PREPAID INCOME.—Section 452 of the Internal Revenue Code"
+    },
+    {
+     "role": "body",
+     "text": "of 1954 is hereby repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "68A Stat. 158."
+    },
+    {
+     "role": "body",
+     "text": "(b) RESERVES FOR ESTIMATED EXPENSES, ETC.—Section 462 of the"
+    },
+    {
+     "role": "body",
+     "text": "Internal Revenue Code of 1954 is hereby repealed."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. TECHNICAL AMENDMENTS."
+    },
+    {
+     "role": "body",
+     "text": "The following provisions of the Internal Revenue Code of 1954 are"
+    },
+    {
+     "role": "body",
+     "text": "hereby amended as follows:"
+    },
+    {
+     "role": "sidenote",
+     "text": "68A Stat. 127."
+    },
+    {
+     "role": "body",
+     "text": "(1) Subsection (c) of section 381 is amended by striking out"
+    },
+    {
+     "role": "body",
+     "text": "paragraph (7) (relating to carryover of prepaid income in certain"
+    },
+    {
+     "role": "body",
+     "text": "corporate acquisitions)."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5189,
+    "output_tokens": 2023,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07688,
+   "seconds": 22.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "skipped": "transcriptions agree",
+  "disagreements": [],
+  "cost_usd": 0.0,
+  "usage": {
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "134"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 73—JUNE 15, 1955      [69 STAT."
+  },
+  {
+   "role": "body",
+   "text": "6,534.00 feet; thence (partly in Harvard and partly in Lancaster)"
+  },
+  {
+   "role": "body",
+   "text": "south 67 degrees 1 minute 10 seconds west 1,415.90 feet; thence (in"
+  },
+  {
+   "role": "body",
+   "text": "Lancaster) north 47 degrees 47 minutes 4 seconds west 949.51 feet"
+  },
+  {
+   "role": "body",
+   "text": "to a point on the aforesaid westerly boundary of Fort Devens Military"
+  },
+  {
+   "role": "body",
+   "text": "Reservation, on the line between bounds numbered 37 and 38 thereof;"
+  },
+  {
+   "role": "body",
+   "text": "thence by said boundary line north 70 degrees 11 minutes 26 seconds"
+  },
+  {
+   "role": "body",
+   "text": "east 202.26 feet to the said bound numbered 38, and thence north 4"
+  },
+  {
+   "role": "body",
+   "text": "degrees 41 minutes 41 seconds west 503.20 feet to the point of begin-"
+  },
+  {
+   "role": "body",
+   "text": "ning above described, at the aforesaid bound numbered 39."
+  },
+  {
+   "role": "body",
+   "text": "The area of the above-described parcel is 91.20 acres of which 43.77"
+  },
+  {
+   "role": "body",
+   "text": "acres are in Lancaster and 47.43 acres are in Harvard."
+  },
+  {
+   "role": "body",
+   "text": "The above-described parcel is shown on a plan signed by P. H."
+  },
+  {
+   "role": "body",
+   "text": "Kitfield, chief engineer, and entitled, \"The Commonwealth of Massa-"
+  },
+  {
+   "role": "body",
+   "text": "chusetts Plan of Land in the Towns of Lancaster and Harvard, Wor-"
+  },
+  {
+   "role": "body",
+   "text": "cester County, in Which an Easement for Highway Purposes Is To"
+  },
+  {
+   "role": "body",
+   "text": "Be Conveyed to the Commonwealth by the United States of America."
+  },
+  {
+   "role": "body",
+   "text": "Scale: 100 feet to the inch.\"   (The above-described parcel of land"
+  },
+  {
+   "role": "body",
+   "text": "being the same parcel covered by grant from the Secretary of the"
+  },
+  {
+   "role": "body",
+   "text": "Army to the Commonwealth of Massachusetts, dated May 22, 1950,"
+  },
+  {
+   "role": "body",
+   "text": "authorized by section 7 of the Act of Congress approved July 24,"
+  },
+  {
+   "role": "sidenote",
+   "text": "43 USC 931b."
+  },
+  {
+   "role": "body",
+   "text": "1946 (60 Stat. 643)."
+  },
+  {
+   "role": "sidenote",
+   "text": "Effectivity."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The retrocession of jurisdiction herein contained shall take"
+  },
+  {
+   "role": "body",
+   "text": "effect upon acceptance by the Commonwealth of Massachusetts."
+  },
+  {
+   "role": "body",
+   "text": "Approved June 15, 1955."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 73                                    CHAPTER 142"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 15, 1955"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 4294]"
+  },
+  {
+   "role": "body",
+   "text": "To amend section 640 of title 14, United States Code, concerning the interchange"
+  },
+  {
+   "role": "body",
+   "text": "of supplies between the Armed Forces."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That section 640 of"
+  },
+  {
+   "role": "sidenote",
+   "text": "63 Stat. 546."
+  },
+  {
+   "role": "body",
+   "text": "title 14, United States Code, is amended by inserting the term \"Air"
+  },
+  {
+   "role": "body",
+   "text": "Force,\" immediately after the term \"Navy,\"."
+  },
+  {
+   "role": "body",
+   "text": "Approved June 15, 1955."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 74                                    CHAPTER 143"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 15, 1955"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 4725]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "body",
+   "text": "To repeal sections 452 and 462 of the Internal Revenue Code of 1954."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled,"
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. REPEAL OF SECTIONS 452 AND 462."
+  },
+  {
+   "role": "sidenote",
+   "text": "68A Stat. 152."
+  },
+  {
+   "role": "body",
+   "text": "(a) PREPAID INCOME.—Section 452 of the Internal Revenue Code"
+  },
+  {
+   "role": "body",
+   "text": "of 1954 is hereby repealed."
+  },
+  {
+   "role": "sidenote",
+   "text": "68A Stat. 158."
+  },
+  {
+   "role": "body",
+   "text": "(b) RESERVES FOR ESTIMATED EXPENSES, ETC.—Section 462 of the"
+  },
+  {
+   "role": "body",
+   "text": "Internal Revenue Code of 1954 is hereby repealed."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. TECHNICAL AMENDMENTS."
+  },
+  {
+   "role": "body",
+   "text": "The following provisions of the Internal Revenue Code of 1954 are"
+  },
+  {
+   "role": "body",
+   "text": "hereby amended as follows:"
+  },
+  {
+   "role": "sidenote",
+   "text": "68A Stat. 127."
+  },
+  {
+   "role": "body",
+   "text": "(1) Subsection (c) of section 381 is amended by striking out"
+  },
+  {
+   "role": "body",
+   "text": "paragraph (7) (relating to carryover of prepaid income in certain"
+  },
+  {
+   "role": "body",
+   "text": "corporate acquisitions)."
+  }
+ ],
+ "disagreement_count": 0,
+ "tokens": {
+  "input_tokens": 10375,
+  "output_tokens": 4108,
+  "cache_read_input_tokens": 1490,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.15532,
+ "seconds": 46.2,
+ "created": "2026-09-08T12:24:28"
+}

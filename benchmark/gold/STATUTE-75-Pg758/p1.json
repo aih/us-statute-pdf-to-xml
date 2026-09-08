@@ -1,0 +1,1025 @@
+{
+ "granule_id": "STATUTE-75-Pg758",
+ "package_id": "STATUTE-75",
+ "volume": 75,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend further the Federal Farm LoAn Act and the Farm Credit Act of 1933, as amended, and for other purposes.",
+ "date_issued": "1961-10-03",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "758",
+ "image": "data/gold/STATUTE-75-Pg758/p1.png",
+ "image_sha256": "08f648724a9d77b89a848fa404d71e3d37138b05b82c6a1fe6c57ba1a6539bc7",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "758                         PUBLIC LAW 87-343–OCT. 3, 1961                [75 STAT."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-343"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 3, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1927]"
+    },
+    {
+     "role": "body",
+     "text": "To amend further the Federal Farm Loan Act and the Farm Credit Act of 1933,"
+    },
+    {
+     "role": "body",
+     "text": "as amended, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Federal Farm"
+    },
+    {
+     "role": "sidenote",
+     "text": "Loan Act, amend-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment."
+    },
+    {
+     "role": "sidenote",
+     "text": "39 Stat. 370."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That (a) section 12"
+    },
+    {
+     "role": "body",
+     "text": "of the Federal Farm Loan Act, as amended (12 U.S.C. 771), is"
+    },
+    {
+     "role": "body",
+     "text": "amended—"
+    },
+    {
+     "role": "sidenote",
+     "text": "Restriction on"
+    },
+    {
+     "role": "sidenote",
+     "text": "loans."
+    },
+    {
+     "role": "body",
+     "text": "(1) by substituting \"a fixed number of one or more installments"
+    },
+    {
+     "role": "body",
+     "text": "each year\" for \"a fixed number of annual or semiannual install-"
+    },
+    {
+     "role": "body",
+     "text": "ments\" in paragraph \"Second\" thereof; and"
+    },
+    {
+     "role": "body",
+     "text": "(2) by substituting in the fourth sentence of paragraph"
+    },
+    {
+     "role": "body",
+     "text": "\"Sixth\" thereof the following for all that comes after \"but no"
+    },
+    {
+     "role": "body",
+     "text": "such loan shall be made to a corporation\": \"unless the principal"
+    },
+    {
+     "role": "body",
+     "text": "part of its income is derived from farming operations and unless"
+    },
+    {
+     "role": "body",
+     "text": "owners of stock in the corporation assume personal liability for"
+    },
+    {
+     "role": "body",
+     "text": "the loan to the extent required under rules and regulations pre-"
+    },
+    {
+     "role": "body",
+     "text": "scribed by the Farm Credit Administration.\"."
+    },
+    {
+     "role": "body",
+     "text": "(b) Section 202(c) of the Federal Farm Loan Act, as amended (12"
+    },
+    {
+     "role": "body",
+     "text": "U.S.C., supp. II, sec. 1033), is amended by changing the word \"five\""
+    },
+    {
+     "role": "body",
+     "text": "to the word \"seven\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Farm Credit Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "of 1933, amend-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The Farm Credit Act of 1933, as amended, is amended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by adding the following subsection to section 5 thereof (12"
+    },
+    {
+     "role": "body",
+     "text": "US.C. 1131i):"
+    },
+    {
+     "role": "sidenote",
+     "text": "Revolving fund."
+    },
+    {
+     "role": "body",
+     "text": "\"(f) The revolving funds created by subsections (a) and (e) of this"
+    },
+    {
+     "role": "body",
+     "text": "section are hereby combined into a single revolving fund which shall"
+    },
+    {
+     "role": "body",
+     "text": "be available for all purposes for which both such funds were heretofore"
+    },
+    {
+     "role": "body",
+     "text": "available, and reference in any provision of law to the revolving fund"
+    },
+    {
+     "role": "body",
+     "text": "created by said subsection (a) or said subsection (e) shall be deemed"
+    },
+    {
+     "role": "body",
+     "text": "a reference to the single revolving fund created by this subsection.\";"
+    },
+    {
+     "role": "sidenote",
+     "text": "69 Stat. 663."
+    },
+    {
+     "role": "body",
+     "text": "(2) by changing section 22(a) thereof (12 U.S.C. 1131f(a)) to"
+    },
+    {
+     "role": "body",
+     "text": "read:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Application of"
+    },
+    {
+     "role": "sidenote",
+     "text": "earnings."
+    },
+    {
+     "role": "body",
+     "text": "\"(a) Each production credit association shall, at the end of each fiscal"
+    },
+    {
+     "role": "body",
+     "text": "year, apply the amount of its earnings for such year in excess of"
+    },
+    {
+     "role": "body",
+     "text": "operating expenses (including provision for valuation reserves against"
+    },
+    {
+     "role": "body",
+     "text": "loan assets in an amount equal to one-half of 1 per centum of loans"
+    },
+    {
+     "role": "body",
+     "text": "outstanding at the end of the fiscal year, to the extent that earnings for"
+    },
+    {
+     "role": "body",
+     "text": "the year in excess of other operating expenses permit, until such"
+    },
+    {
+     "role": "body",
+     "text": "reserves equal or exceed 3½ per centum of loans outstanding at the"
+    },
+    {
+     "role": "body",
+     "text": "end of the fiscal year beyond which 3½ per centum further additions"
+    },
+    {
+     "role": "body",
+     "text": "to such reserves are not required but may be made), first, to the restora-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the impairment, if any, of capital; and, second, to the establish-"
+    },
+    {
+     "role": "body",
+     "text": "ment and maintenance of a surplus account, the minimum amount of"
+    },
+    {
+     "role": "body",
+     "text": "which shall be prescribed by the Federal intermediate credit bank.\";"
+    },
+    {
+     "role": "body",
+     "text": "and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Earnings and re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "serves."
+    },
+    {
+     "role": "sidenote",
+     "text": "69 Stat. 658."
+    },
+    {
+     "role": "body",
+     "text": "(3) by adding the following subsection to section 36 thereof (12"
+    },
+    {
+     "role": "body",
+     "text": "U.S.C. 1134l):"
+    },
+    {
+     "role": "body",
+     "text": "\"(d) Notwithstanding any other provision of this Act, in the case"
+    },
+    {
+     "role": "body",
+     "text": "of liquidation or dissolution of any present or former borrower from a"
+    },
+    {
+     "role": "body",
+     "text": "bank for cooperatives, the bank, may, in accordance with rules and"
+    },
+    {
+     "role": "body",
+     "text": "regulations prescribed by the Farm Credit Administration, retire and"
+    },
+    {
+     "role": "body",
+     "text": "cancel any capital stock or allocated surplus and contingency reserves"
+    },
+    {
+     "role": "body",
+     "text": "or other equity interest, in the bank owned by such borrower at the"
+    },
+    {
+     "role": "body",
+     "text": "fair book value thereof, not exceeding par, and, to the extent required,"
+    },
+    {
+     "role": "body",
+     "text": "corresponding shares and allocations or other equity interests held by"
+    },
+    {
+     "role": "body",
+     "text": "the regional bank in the central bank shall be retired.\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved October 3, 1961."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2265,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08406,
+   "seconds": 26.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "758"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 87-343–OCT. 3, 1961"
+    },
+    {
+     "role": "running-head",
+     "text": "[75 STAT."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-343"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 3, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1927]"
+    },
+    {
+     "role": "body",
+     "text": "To amend further the Federal Farm Loan Act and the Farm Credit Act of 1933,"
+    },
+    {
+     "role": "body",
+     "text": "as amended, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Federal Farm"
+    },
+    {
+     "role": "sidenote",
+     "text": "Loan Act, amend-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment."
+    },
+    {
+     "role": "sidenote",
+     "text": "39 Stat. 370."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That (a) section 12"
+    },
+    {
+     "role": "body",
+     "text": "of the Federal Farm Loan Act, as amended (12 U.S.C. 771), is"
+    },
+    {
+     "role": "body",
+     "text": "amended—"
+    },
+    {
+     "role": "sidenote",
+     "text": "Restriction on"
+    },
+    {
+     "role": "sidenote",
+     "text": "loans."
+    },
+    {
+     "role": "body",
+     "text": "(1) by substituting \"a fixed number of one or more installments"
+    },
+    {
+     "role": "body",
+     "text": "each year\" for \"a fixed number of annual or semiannual install-"
+    },
+    {
+     "role": "body",
+     "text": "ments\" in paragraph \"Second\" thereof; and"
+    },
+    {
+     "role": "body",
+     "text": "(2) by substituting in the fourth sentence of paragraph"
+    },
+    {
+     "role": "body",
+     "text": "\"Sixth\" thereof the following for all that comes after \"but no"
+    },
+    {
+     "role": "body",
+     "text": "such loan shall be made to a corporation\": \"unless the principal"
+    },
+    {
+     "role": "body",
+     "text": "part of its income is derived from farming operations and unless"
+    },
+    {
+     "role": "body",
+     "text": "owners of stock in the corporation assume personal liability for"
+    },
+    {
+     "role": "body",
+     "text": "the loan to the extent required under rules and regulations pre-"
+    },
+    {
+     "role": "body",
+     "text": "scribed by the Farm Credit Administration.\"."
+    },
+    {
+     "role": "body",
+     "text": "(b) Section 202(c) of the Federal Farm Loan Act, as amended (12"
+    },
+    {
+     "role": "body",
+     "text": "U.S.C., supp. II, sec. 1033), is amended by changing the word \"five\""
+    },
+    {
+     "role": "body",
+     "text": "to the word \"seven\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Farm Credit Act"
+    },
+    {
+     "role": "sidenote",
+     "text": "of 1933, amend-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The Farm Credit Act of 1933, as amended, is amended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by adding the following subsection to section 5 thereof (12"
+    },
+    {
+     "role": "body",
+     "text": "US.C. 1131i):"
+    },
+    {
+     "role": "sidenote",
+     "text": "Revolving fund."
+    },
+    {
+     "role": "body",
+     "text": "\"(f) The revolving funds created by subsections (a) and (e) of this"
+    },
+    {
+     "role": "body",
+     "text": "section are hereby combined into a single revolving fund which shall"
+    },
+    {
+     "role": "body",
+     "text": "be available for all purposes for which both such funds were heretofore"
+    },
+    {
+     "role": "body",
+     "text": "available, and reference in any provision of law to the revolving fund"
+    },
+    {
+     "role": "body",
+     "text": "created by said subsection (a) or said subsection (e) shall be deemed"
+    },
+    {
+     "role": "body",
+     "text": "a reference to the single revolving fund created by this subsection.\";"
+    },
+    {
+     "role": "sidenote",
+     "text": "69 Stat. 663."
+    },
+    {
+     "role": "body",
+     "text": "(2) by changing section 22(a) thereof (12 U.S.C. 1131f(a)) to"
+    },
+    {
+     "role": "body",
+     "text": "read:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Application of"
+    },
+    {
+     "role": "sidenote",
+     "text": "earnings."
+    },
+    {
+     "role": "body",
+     "text": "\"(a) Each production credit association shall, at the end of each fiscal"
+    },
+    {
+     "role": "body",
+     "text": "year, apply the amount of its earnings for such year in excess of"
+    },
+    {
+     "role": "body",
+     "text": "operating expenses (including provision for valuation reserves against"
+    },
+    {
+     "role": "body",
+     "text": "loan assets in an amount equal to one-half of 1 per centum of loans"
+    },
+    {
+     "role": "body",
+     "text": "outstanding at the end of the fiscal year, to the extent that earnings for"
+    },
+    {
+     "role": "body",
+     "text": "the year in excess of other operating expenses permit, until such"
+    },
+    {
+     "role": "body",
+     "text": "reserves equal or exceed 3½ per centum of loans outstanding at the"
+    },
+    {
+     "role": "body",
+     "text": "end of the fiscal year beyond which 3½ per centum further additions"
+    },
+    {
+     "role": "body",
+     "text": "to such reserves are not required but may be made), first, to the restora-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the impairment, if any, of capital; and, second, to the establish-"
+    },
+    {
+     "role": "body",
+     "text": "ment and maintenance of a surplus account, the minimum amount of"
+    },
+    {
+     "role": "body",
+     "text": "which shall be prescribed by the Federal intermediate credit bank.\";"
+    },
+    {
+     "role": "body",
+     "text": "and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Earnings and re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "serves."
+    },
+    {
+     "role": "sidenote",
+     "text": "69 Stat. 658."
+    },
+    {
+     "role": "body",
+     "text": "(3) by adding the following subsection to section 36 thereof (12"
+    },
+    {
+     "role": "body",
+     "text": "U.S.C. 1134l):"
+    },
+    {
+     "role": "body",
+     "text": "\"(d) Notwithstanding any other provision of this Act, in the case"
+    },
+    {
+     "role": "body",
+     "text": "of liquidation or dissolution of any present or former borrower from a"
+    },
+    {
+     "role": "body",
+     "text": "bank for cooperatives, the bank, may, in accordance with rules and"
+    },
+    {
+     "role": "body",
+     "text": "regulations prescribed by the Farm Credit Administration, retire and"
+    },
+    {
+     "role": "body",
+     "text": "cancel any capital stock or allocated surplus and contingency reserves"
+    },
+    {
+     "role": "body",
+     "text": "or other equity interest, in the bank owned by such borrower at the"
+    },
+    {
+     "role": "body",
+     "text": "fair book value thereof, not exceeding par, and, to the extent required,"
+    },
+    {
+     "role": "body",
+     "text": "corresponding shares and allocations or other equity interests held by"
+    },
+    {
+     "role": "body",
+     "text": "the regional bank in the central bank shall be retired.\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved October 3, 1961."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2234,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08328,
+   "seconds": 27.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11288,
+   "output_tokens": 127,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06003,
+  "seconds": 6.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "758                         PUBLIC LAW 87-343–OCT. 3, 1961                [75 STAT.",
+    "b": "758\nPUBLIC LAW 87-343–OCT. 3, 1961\n[75 STAT.",
+    "kept": "758\nPUBLIC LAW 87-343-OCT. 3, 1961\n[75 STAT.",
+    "reason": "The page number and the running head are separate elements; B's split matches the printed layout."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "758"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 87-343-OCT. 3, 1961"
+  },
+  {
+   "role": "running-head",
+   "text": "[75 STAT."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 87-343"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "October 3, 1961"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 1927]"
+  },
+  {
+   "role": "body",
+   "text": "To amend further the Federal Farm Loan Act and the Farm Credit Act of 1933,"
+  },
+  {
+   "role": "body",
+   "text": "as amended, and for other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Federal Farm"
+  },
+  {
+   "role": "sidenote",
+   "text": "Loan Act, amend-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ment."
+  },
+  {
+   "role": "sidenote",
+   "text": "39 Stat. 370."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That (a) section 12"
+  },
+  {
+   "role": "body",
+   "text": "of the Federal Farm Loan Act, as amended (12 U.S.C. 771), is"
+  },
+  {
+   "role": "body",
+   "text": "amended—"
+  },
+  {
+   "role": "sidenote",
+   "text": "Restriction on"
+  },
+  {
+   "role": "sidenote",
+   "text": "loans."
+  },
+  {
+   "role": "body",
+   "text": "(1) by substituting \"a fixed number of one or more installments"
+  },
+  {
+   "role": "body",
+   "text": "each year\" for \"a fixed number of annual or semiannual install-"
+  },
+  {
+   "role": "body",
+   "text": "ments\" in paragraph \"Second\" thereof; and"
+  },
+  {
+   "role": "body",
+   "text": "(2) by substituting in the fourth sentence of paragraph"
+  },
+  {
+   "role": "body",
+   "text": "\"Sixth\" thereof the following for all that comes after \"but no"
+  },
+  {
+   "role": "body",
+   "text": "such loan shall be made to a corporation\": \"unless the principal"
+  },
+  {
+   "role": "body",
+   "text": "part of its income is derived from farming operations and unless"
+  },
+  {
+   "role": "body",
+   "text": "owners of stock in the corporation assume personal liability for"
+  },
+  {
+   "role": "body",
+   "text": "the loan to the extent required under rules and regulations pre-"
+  },
+  {
+   "role": "body",
+   "text": "scribed by the Farm Credit Administration.\"."
+  },
+  {
+   "role": "body",
+   "text": "(b) Section 202(c) of the Federal Farm Loan Act, as amended (12"
+  },
+  {
+   "role": "body",
+   "text": "U.S.C., supp. II, sec. 1033), is amended by changing the word \"five\""
+  },
+  {
+   "role": "body",
+   "text": "to the word \"seven\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "Farm Credit Act"
+  },
+  {
+   "role": "sidenote",
+   "text": "of 1933, amend-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ment."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The Farm Credit Act of 1933, as amended, is amended—"
+  },
+  {
+   "role": "body",
+   "text": "(1) by adding the following subsection to section 5 thereof (12"
+  },
+  {
+   "role": "body",
+   "text": "US.C. 1131i):"
+  },
+  {
+   "role": "sidenote",
+   "text": "Revolving fund."
+  },
+  {
+   "role": "body",
+   "text": "\"(f) The revolving funds created by subsections (a) and (e) of this"
+  },
+  {
+   "role": "body",
+   "text": "section are hereby combined into a single revolving fund which shall"
+  },
+  {
+   "role": "body",
+   "text": "be available for all purposes for which both such funds were heretofore"
+  },
+  {
+   "role": "body",
+   "text": "available, and reference in any provision of law to the revolving fund"
+  },
+  {
+   "role": "body",
+   "text": "created by said subsection (a) or said subsection (e) shall be deemed"
+  },
+  {
+   "role": "body",
+   "text": "a reference to the single revolving fund created by this subsection.\";"
+  },
+  {
+   "role": "sidenote",
+   "text": "69 Stat. 663."
+  },
+  {
+   "role": "body",
+   "text": "(2) by changing section 22(a) thereof (12 U.S.C. 1131f(a)) to"
+  },
+  {
+   "role": "body",
+   "text": "read:"
+  },
+  {
+   "role": "sidenote",
+   "text": "Application of"
+  },
+  {
+   "role": "sidenote",
+   "text": "earnings."
+  },
+  {
+   "role": "body",
+   "text": "\"(a) Each production credit association shall, at the end of each fiscal"
+  },
+  {
+   "role": "body",
+   "text": "year, apply the amount of its earnings for such year in excess of"
+  },
+  {
+   "role": "body",
+   "text": "operating expenses (including provision for valuation reserves against"
+  },
+  {
+   "role": "body",
+   "text": "loan assets in an amount equal to one-half of 1 per centum of loans"
+  },
+  {
+   "role": "body",
+   "text": "outstanding at the end of the fiscal year, to the extent that earnings for"
+  },
+  {
+   "role": "body",
+   "text": "the year in excess of other operating expenses permit, until such"
+  },
+  {
+   "role": "body",
+   "text": "reserves equal or exceed 3½ per centum of loans outstanding at the"
+  },
+  {
+   "role": "body",
+   "text": "end of the fiscal year beyond which 3½ per centum further additions"
+  },
+  {
+   "role": "body",
+   "text": "to such reserves are not required but may be made), first, to the restora-"
+  },
+  {
+   "role": "body",
+   "text": "tion of the impairment, if any, of capital; and, second, to the establish-"
+  },
+  {
+   "role": "body",
+   "text": "ment and maintenance of a surplus account, the minimum amount of"
+  },
+  {
+   "role": "body",
+   "text": "which shall be prescribed by the Federal intermediate credit bank.\";"
+  },
+  {
+   "role": "body",
+   "text": "and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Earnings and re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "serves."
+  },
+  {
+   "role": "sidenote",
+   "text": "69 Stat. 658."
+  },
+  {
+   "role": "body",
+   "text": "(3) by adding the following subsection to section 36 thereof (12"
+  },
+  {
+   "role": "body",
+   "text": "U.S.C. 1134l):"
+  },
+  {
+   "role": "body",
+   "text": "\"(d) Notwithstanding any other provision of this Act, in the case"
+  },
+  {
+   "role": "body",
+   "text": "of liquidation or dissolution of any present or former borrower from a"
+  },
+  {
+   "role": "body",
+   "text": "bank for cooperatives, the bank, may, in accordance with rules and"
+  },
+  {
+   "role": "body",
+   "text": "regulations prescribed by the Farm Credit Administration, retire and"
+  },
+  {
+   "role": "body",
+   "text": "cancel any capital stock or allocated surplus and contingency reserves"
+  },
+  {
+   "role": "body",
+   "text": "or other equity interest, in the bank owned by such borrower at the"
+  },
+  {
+   "role": "body",
+   "text": "fair book value thereof, not exceeding par, and, to the extent required,"
+  },
+  {
+   "role": "body",
+   "text": "corresponding shares and allocations or other equity interests held by"
+  },
+  {
+   "role": "body",
+   "text": "the regional bank in the central bank shall be retired.\"."
+  },
+  {
+   "role": "body",
+   "text": "Approved October 3, 1961."
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 22111,
+  "output_tokens": 4626,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.22737,
+ "seconds": 60.7,
+ "created": "2026-09-08T11:56:18"
+}

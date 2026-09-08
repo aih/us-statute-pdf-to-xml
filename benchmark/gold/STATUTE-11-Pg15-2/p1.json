@@ -1,0 +1,1180 @@
+{
+ "granule_id": "STATUTE-11-Pg15-2",
+ "package_id": "STATUTE-11",
+ "volume": 11,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act granting Public Lands, in alternate Sections, to the States of Florida and Alabama, to aid in the Construction of certain Railroads in said States.",
+ "date_issued": "1856-05-17",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "15",
+ "image": "data/gold/STATUTE-11-Pg15-2/p1.png",
+ "image_sha256": "907d97f6a561b96c60544256dba4d24b22ddda8171d06198b118736e8f983ceb",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-FOURTH CONGRESS.  SESS. I.  CH. 30, 31.  1856."
+    },
+    {
+     "role": "page-number",
+     "text": "15"
+    },
+    {
+     "role": "sidenote",
+     "text": "Salary of governor of New Mexico."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3.  And be it further enacted, That the provision in the act of"
+    },
+    {
+     "role": "body",
+     "text": "July twenty-seventh, eighteen hundred and fifty-four, entitled \"An act to"
+    },
+    {
+     "role": "sidenote",
+     "text": "1854, ch. 107."
+    },
+    {
+     "role": "body",
+     "text": "increase the salaries of executive and judiciary officers in Oregon, New"
+    },
+    {
+     "role": "body",
+     "text": "Mexico, Washington, Utah, and Minnesota,\" which declares that the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. x. p. 311."
+    },
+    {
+     "role": "body",
+     "text": "salary of the governor of New Mexico be, and the same is hereby, in-"
+    },
+    {
+     "role": "body",
+     "text": "creased to the sum of three thousand dollars, shall be construed by the"
+    },
+    {
+     "role": "body",
+     "text": "accounting officers of the treasury to be the full salary of that officer as"
+    },
+    {
+     "role": "body",
+     "text": "governor and as superintendent of Indian affairs."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 15, 1856."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 16, 1856."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXX. — An Act to provide for at least two Election Precincts in each Ward in the"
+    },
+    {
+     "role": "body",
+     "text": "City of Washington, and for other Purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That it shall be the duty of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Election pre-"
+    },
+    {
+     "role": "body",
+     "text": "city corporation to provide at least two election precincts in each ward,"
+    },
+    {
+     "role": "sidenote",
+     "text": "cincts in Wash-"
+    },
+    {
+     "role": "body",
+     "text": "to appoint commissioners to superintend elections in the same, and to"
+    },
+    {
+     "role": "sidenote",
+     "text": "ington."
+    },
+    {
+     "role": "body",
+     "text": "adopt such other regulations as may be necessary to give full force and"
+    },
+    {
+     "role": "body",
+     "text": "effect to this section."
+    },
+    {
+     "role": "sidenote",
+     "text": "Votes of naturalized citizens."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2.  And whereas, native-born citizens, resident of the city of"
+    },
+    {
+     "role": "body",
+     "text": "Washington, who arrive at the age of twenty-one years between the"
+    },
+    {
+     "role": "body",
+     "text": "thirtieth day of December next preceding the election and the day of"
+    },
+    {
+     "role": "body",
+     "text": "election are not allowed to vote at such election —"
+    },
+    {
+     "role": "body",
+     "text": "Be it further enacted, That no person, being naturalized between said"
+    },
+    {
+     "role": "body",
+     "text": "day of December and the day of the succeeding election, shall be entitled"
+    },
+    {
+     "role": "body",
+     "text": "to vote at such next succeeding election."
+    },
+    {
+     "role": "sidenote",
+     "text": "Polls, when to be opened and closed."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3.  And be it further enacted, That at all elections to be held in"
+    },
+    {
+     "role": "body",
+     "text": "the city of Washington for municipal officers, the polls shall be opened at"
+    },
+    {
+     "role": "body",
+     "text": "seven o'clock A. M. and closed at seven o'clock P. M.; and that all acts,"
+    },
+    {
+     "role": "body",
+     "text": "and parts of acts, inconsistent with this act are hereby repealed."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 16, 1856."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 17, 1856."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXI. — An Act granting Public Lands, in alternate Sections, to the States of"
+    },
+    {
+     "role": "body",
+     "text": "Florida and Alabama, to aid in the Construction of certain Railroads in said States."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That there be and is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "Grant of lands to Florida for railroads."
+    },
+    {
+     "role": "body",
+     "text": "granted to the State of Florida, for the purpose of aiding in the construc-"
+    },
+    {
+     "role": "body",
+     "text": "tion of railroads from St. John's River, at Jacksonville, to the waters of"
+    },
+    {
+     "role": "body",
+     "text": "Escambia Bay, at or near Pensacola; and from Amelia Island, on the"
+    },
+    {
+     "role": "body",
+     "text": "Atlantic, to the waters of Tampa Bay, with a branch to Cedar Key, on"
+    },
+    {
+     "role": "body",
+     "text": "the Gulf of Mexico; and also a railroad from Pensacola to the State line"
+    },
+    {
+     "role": "body",
+     "text": "of Alabama, in the direction of Montgomery, every alternate section of"
+    },
+    {
+     "role": "body",
+     "text": "land designated by odd numbers, for six sections in width on each side"
+    },
+    {
+     "role": "sidenote",
+     "text": "Grant in lieu of sold or pre-empted sections."
+    },
+    {
+     "role": "body",
+     "text": "of each of said roads and branch.  But in case it shall appear that the"
+    },
+    {
+     "role": "body",
+     "text": "United States have, when the lines or routes of said roads and branch are"
+    },
+    {
+     "role": "body",
+     "text": "definitely fixed, sold any sections, or any parts thereof, granted as afore-"
+    },
+    {
+     "role": "body",
+     "text": "said, or that the right of preëmption has attached to the same, then it"
+    },
+    {
+     "role": "body",
+     "text": "shall be lawful for any agent or agents to be appointed by the governor"
+    },
+    {
+     "role": "body",
+     "text": "of said State, to select, subject to the approval of the Secretary of the"
+    },
+    {
+     "role": "body",
+     "text": "Interior, from the lands of the United States nearest to the tiers of sec-"
+    },
+    {
+     "role": "body",
+     "text": "tions above specified, so much land in alternate sections or parts of"
+    },
+    {
+     "role": "body",
+     "text": "sections, as shall be equal to such lands as the United States have sold,"
+    },
+    {
+     "role": "body",
+     "text": "or otherwise appropriated, or to which the rights of preëmption have"
+    },
+    {
+     "role": "body",
+     "text": "attached as aforesaid; which lands (thus selected in lieu of those sold"
+    },
+    {
+     "role": "body",
+     "text": "and to which preëmption rights have attached as aforesaid, together with"
+    },
+    {
+     "role": "body",
+     "text": "the sections and parts of sections designated by odd numbers, as afore-"
+    },
+    {
+     "role": "body",
+     "text": "said, and appropriated as aforesaid,) shall be held by the State of Florida"
+    },
+    {
+     "role": "body",
+     "text": "for the use and purpose aforesaid: Provided, That the land to be so"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 2235,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08387,
+   "seconds": 91.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-FOURTH  CONGRESS.  SESS. I.   CH. 30, 31.  1856."
+    },
+    {
+     "role": "page-number",
+     "text": "15"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3.  And be it further enacted, That the provision in the act of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Salary of"
+    },
+    {
+     "role": "body",
+     "text": "July twenty-seventh, eighteen hundred and fifty-four, entitled \"An act to"
+    },
+    {
+     "role": "sidenote",
+     "text": "governor of New"
+    },
+    {
+     "role": "body",
+     "text": "increase the salaries of executive and judiciary officers in Oregon, New"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mexico."
+    },
+    {
+     "role": "sidenote",
+     "text": "1854, ch. 107."
+    },
+    {
+     "role": "body",
+     "text": "Mexico, Washington, Utah, and Minnesota,\" which declares that the"
+    },
+    {
+     "role": "body",
+     "text": "salary of the governor of New Mexico be, and the same is hereby, in-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. x. p. 311."
+    },
+    {
+     "role": "body",
+     "text": "creased to the sum of three thousand dollars, shall be construed by the"
+    },
+    {
+     "role": "body",
+     "text": "accounting officers of the treasury to be the full salary of that officer as"
+    },
+    {
+     "role": "body",
+     "text": "governor and as superintendent of Indian affairs."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 15, 1856."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXX. — An Act to provide for at least two Election Precincts in each Ward in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "May 16, 1856."
+    },
+    {
+     "role": "body",
+     "text": "City of Washington, and for other Purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That it shall be the duty of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Election pre-"
+    },
+    {
+     "role": "body",
+     "text": "city corporation to provide at least two election precincts in each ward,"
+    },
+    {
+     "role": "sidenote",
+     "text": "cincts in Wash-"
+    },
+    {
+     "role": "body",
+     "text": "to appoint commissioners to superintend elections in the same, and to"
+    },
+    {
+     "role": "sidenote",
+     "text": "ington."
+    },
+    {
+     "role": "body",
+     "text": "adopt such other regulations as may be necessary to give full force and"
+    },
+    {
+     "role": "body",
+     "text": "effect to this section."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2.  And whereas, native-born citizens, resident of the city of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Votes of"
+    },
+    {
+     "role": "body",
+     "text": "Washington, who arrive at the age of twenty-one years between the"
+    },
+    {
+     "role": "sidenote",
+     "text": "naturalized"
+    },
+    {
+     "role": "body",
+     "text": "thirtieth day of December next preceding the election and the day of"
+    },
+    {
+     "role": "sidenote",
+     "text": "citizens."
+    },
+    {
+     "role": "body",
+     "text": "election are not allowed to vote at such election —"
+    },
+    {
+     "role": "body",
+     "text": "Be it further enacted, That no person, being naturalized between said"
+    },
+    {
+     "role": "body",
+     "text": "day of December and the day of the succeeding election, shall be entitled"
+    },
+    {
+     "role": "body",
+     "text": "to vote at such next succeeding election."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3.  And be it further enacted, That at all elections to be held in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Polls, when to"
+    },
+    {
+     "role": "body",
+     "text": "the city of Washington for municipal officers, the polls shall be opened at"
+    },
+    {
+     "role": "sidenote",
+     "text": "be opened and"
+    },
+    {
+     "role": "body",
+     "text": "seven o'clock A. M. and closed at seven o'clock P. M.; and that all acts,"
+    },
+    {
+     "role": "sidenote",
+     "text": "closed."
+    },
+    {
+     "role": "body",
+     "text": "and parts of acts, inconsistent with this act are hereby repealed."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 16, 1856."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXI. — An Act granting Public Lands, in alternate Sections, to the States of"
+    },
+    {
+     "role": "sidenote",
+     "text": "May 17, 1856."
+    },
+    {
+     "role": "body",
+     "text": "Florida and Alabama, to aid in the Construction of certain Railroads in said States."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That there be and is hereby"
+    },
+    {
+     "role": "body",
+     "text": "granted to the State of Florida, for the purpose of aiding in the construc-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Grant of lands"
+    },
+    {
+     "role": "body",
+     "text": "tion of railroads from St. John's River, at Jacksonville, to the waters of"
+    },
+    {
+     "role": "sidenote",
+     "text": "to Florida for"
+    },
+    {
+     "role": "body",
+     "text": "Escambia Bay, at or near Pensacola; and from Amelia Island, on the"
+    },
+    {
+     "role": "sidenote",
+     "text": "railroads."
+    },
+    {
+     "role": "body",
+     "text": "Atlantic, to the waters of Tampa Bay, with a branch to Cedar Key, on"
+    },
+    {
+     "role": "body",
+     "text": "the Gulf of Mexico; and also a railroad from Pensacola to the State line"
+    },
+    {
+     "role": "body",
+     "text": "of Alabama, in the direction of Montgomery, every alternate section of"
+    },
+    {
+     "role": "body",
+     "text": "land designated by odd numbers, for six sections in width on each side"
+    },
+    {
+     "role": "body",
+     "text": "of each of said roads and branch.  But in case it shall appear that the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Grant in lieu"
+    },
+    {
+     "role": "body",
+     "text": "United States have, when the lines or routes of said roads and branch are"
+    },
+    {
+     "role": "sidenote",
+     "text": "of sold or pre-"
+    },
+    {
+     "role": "body",
+     "text": "definitely fixed, sold any sections, or any parts thereof, granted as afore-"
+    },
+    {
+     "role": "sidenote",
+     "text": "empted sections."
+    },
+    {
+     "role": "body",
+     "text": "said, or that the right of preëmption has attached to the same, then it"
+    },
+    {
+     "role": "body",
+     "text": "shall be lawful for any agent or agents to be appointed by the governor"
+    },
+    {
+     "role": "body",
+     "text": "of said State, to select, subject to the approval of the Secretary of the"
+    },
+    {
+     "role": "body",
+     "text": "Interior, from the lands of the United States nearest to the tiers of sec-"
+    },
+    {
+     "role": "body",
+     "text": "tions above specified, so much land in alternate sections or parts of"
+    },
+    {
+     "role": "body",
+     "text": "sections, as shall be equal to such lands as the United States have sold,"
+    },
+    {
+     "role": "body",
+     "text": "or otherwise appropriated, or to which the rights of preëmption have"
+    },
+    {
+     "role": "body",
+     "text": "attached as aforesaid; which lands (thus selected in lieu of those sold"
+    },
+    {
+     "role": "body",
+     "text": "and to which preëmption rights have attached as aforesaid, together with"
+    },
+    {
+     "role": "body",
+     "text": "the sections and parts of sections designated by odd numbers, as afore-"
+    },
+    {
+     "role": "body",
+     "text": "said, and appropriated as aforesaid,) shall be held by the State of Florida"
+    },
+    {
+     "role": "body",
+     "text": "for the use and purpose aforesaid:  Provided, That the land to be so"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 2387,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08766,
+   "seconds": 27.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12860,
+   "output_tokens": 1731,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.10799,
+  "seconds": 81.3,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "Salary of governor of New Mexico.",
+    "b": "",
+    "kept": "",
+    "reason": "The sidenote is printed as three separate short lines beside the body, not one combined line."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "Salary of",
+    "kept": "Salary of",
+    "reason": "First sidenote line aligns with the opening body line."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "governor of New\nincrease the salaries of executive and judiciary officers in Oregon, New\nMexico.",
+    "kept": "governor of New\nincrease the salaries of executive and judiciary officers in Oregon, New\nMexico.",
+    "reason": "Sidenote lines 2 and 3 flank the body line as printed."
+   },
+   {
+    "run": 4,
+    "a": "increase the salaries of executive and judiciary officers in Oregon, New",
+    "b": "",
+    "kept": "",
+    "reason": "That body line is already placed in run 3."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "salary of the governor of New Mexico be, and the same is hereby, in-",
+    "kept": "salary of the governor of New Mexico be, and the same is hereby, in-",
+    "reason": "This body line precedes the 'Vol. x. p. 311.' sidenote, which is set beside it."
+   },
+   {
+    "run": 6,
+    "a": "salary of the governor of New Mexico be, and the same is hereby, in-",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 5."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "CHAP. XXX. — An Act to provide for at least two Election Precincts in each Ward in the",
+    "kept": "CHAP. XXX. — An Act to provide for at least two Election Precincts in each Ward in the",
+    "reason": "Chapter heading's first line stands level with the 'May 16, 1856.' sidenote."
+   },
+   {
+    "run": 8,
+    "a": "CHAP. XXX. — An Act to provide for at least two Election Precincts in each Ward in the",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 7."
+   },
+   {
+    "run": 9,
+    "a": "Votes of naturalized citizens.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote is printed as three separate lines, resolved below."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "Votes of",
+    "kept": "Votes of",
+    "reason": "First line of sidenote aligns with the SEC. 2 body line."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "naturalized",
+    "kept": "naturalized",
+    "reason": "Second sidenote line aligns with the next body line."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "citizens.",
+    "kept": "citizens.",
+    "reason": "Third sidenote line aligns with the following body line."
+   },
+   {
+    "run": 13,
+    "a": "Polls, when to be opened and closed.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote is printed as three separate lines, resolved below."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "Polls, when to",
+    "kept": "Polls, when to",
+    "reason": "First sidenote line beside the SEC. 3 body line."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "be opened and",
+    "kept": "be opened and",
+    "reason": "Second sidenote line beside the next body line."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "closed.",
+    "kept": "closed.",
+    "reason": "Third sidenote line beside the following body line."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "CHAP. XXXI. — An Act granting Public Lands, in alternate Sections, to the States of",
+    "kept": "CHAP. XXXI. — An Act granting Public Lands, in alternate Sections, to the States of",
+    "reason": "Heading line is level with the 'May 17, 1856.' sidenote."
+   },
+   {
+    "run": 18,
+    "a": "CHAP. XXXI. — An Act granting Public Lands, in alternate Sections, to the States of",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 17."
+   },
+   {
+    "run": 19,
+    "a": "Grant of lands to Florida for railroads.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote is printed as three separate lines, resolved below."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "Grant of lands",
+    "kept": "Grant of lands",
+    "reason": "First sidenote line aligns with the 'granted to the State of Florida' line."
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "to Florida for",
+    "kept": "to Florida for",
+    "reason": "Second sidenote line aligns with the next body line."
+   },
+   {
+    "run": 22,
+    "a": "",
+    "b": "railroads.",
+    "kept": "railroads.",
+    "reason": "Third sidenote line aligns with the following body line."
+   },
+   {
+    "run": 23,
+    "a": "Grant in lieu of sold or pre-empted sections.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote is printed as three separate lines, resolved below."
+   },
+   {
+    "run": 24,
+    "a": "",
+    "b": "Grant in lieu",
+    "kept": "Grant in lieu",
+    "reason": "First sidenote line aligns with 'of each of said roads and branch.'"
+   },
+   {
+    "run": 25,
+    "a": "",
+    "b": "of sold or pre-",
+    "kept": "of sold or pre-",
+    "reason": "Second sidenote line aligns with the next body line."
+   },
+   {
+    "run": 26,
+    "a": "",
+    "b": "empted sections.",
+    "kept": "empted sections.",
+    "reason": "Third sidenote line aligns with the following body line."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "THIRTY-FOURTH CONGRESS.  SESS. I.  CH. 30, 31.  1856."
+  },
+  {
+   "role": "page-number",
+   "text": "15"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3.  And be it further enacted, That the provision in the act of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Salary of"
+  },
+  {
+   "role": "body",
+   "text": "July twenty-seventh, eighteen hundred and fifty-four, entitled \"An act to"
+  },
+  {
+   "role": "sidenote",
+   "text": "governor of New"
+  },
+  {
+   "role": "body",
+   "text": "increase the salaries of executive and judiciary officers in Oregon, New"
+  },
+  {
+   "role": "sidenote",
+   "text": "Mexico."
+  },
+  {
+   "role": "sidenote",
+   "text": "1854, ch. 107."
+  },
+  {
+   "role": "body",
+   "text": "Mexico, Washington, Utah, and Minnesota,\" which declares that the"
+  },
+  {
+   "role": "body",
+   "text": "salary of the governor of New Mexico be, and the same is hereby, in-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. x. p. 311."
+  },
+  {
+   "role": "body",
+   "text": "creased to the sum of three thousand dollars, shall be construed by the"
+  },
+  {
+   "role": "body",
+   "text": "accounting officers of the treasury to be the full salary of that officer as"
+  },
+  {
+   "role": "body",
+   "text": "governor and as superintendent of Indian affairs."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, May 15, 1856."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXX. — An Act to provide for at least two Election Precincts in each Ward in the"
+  },
+  {
+   "role": "sidenote",
+   "text": "May 16, 1856."
+  },
+  {
+   "role": "body",
+   "text": "City of Washington, and for other Purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That it shall be the duty of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Election pre-"
+  },
+  {
+   "role": "body",
+   "text": "city corporation to provide at least two election precincts in each ward,"
+  },
+  {
+   "role": "sidenote",
+   "text": "cincts in Wash-"
+  },
+  {
+   "role": "body",
+   "text": "to appoint commissioners to superintend elections in the same, and to"
+  },
+  {
+   "role": "sidenote",
+   "text": "ington."
+  },
+  {
+   "role": "body",
+   "text": "adopt such other regulations as may be necessary to give full force and"
+  },
+  {
+   "role": "body",
+   "text": "effect to this section."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2.  And whereas, native-born citizens, resident of the city of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Votes of"
+  },
+  {
+   "role": "body",
+   "text": "Washington, who arrive at the age of twenty-one years between the"
+  },
+  {
+   "role": "sidenote",
+   "text": "naturalized"
+  },
+  {
+   "role": "body",
+   "text": "thirtieth day of December next preceding the election and the day of"
+  },
+  {
+   "role": "sidenote",
+   "text": "citizens."
+  },
+  {
+   "role": "body",
+   "text": "election are not allowed to vote at such election —"
+  },
+  {
+   "role": "body",
+   "text": "Be it further enacted, That no person, being naturalized between said"
+  },
+  {
+   "role": "body",
+   "text": "day of December and the day of the succeeding election, shall be entitled"
+  },
+  {
+   "role": "body",
+   "text": "to vote at such next succeeding election."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3.  And be it further enacted, That at all elections to be held in"
+  },
+  {
+   "role": "sidenote",
+   "text": "Polls, when to"
+  },
+  {
+   "role": "body",
+   "text": "the city of Washington for municipal officers, the polls shall be opened at"
+  },
+  {
+   "role": "sidenote",
+   "text": "be opened and"
+  },
+  {
+   "role": "body",
+   "text": "seven o'clock A. M. and closed at seven o'clock P. M.; and that all acts,"
+  },
+  {
+   "role": "sidenote",
+   "text": "closed."
+  },
+  {
+   "role": "body",
+   "text": "and parts of acts, inconsistent with this act are hereby repealed."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, May 16, 1856."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXXI. — An Act granting Public Lands, in alternate Sections, to the States of"
+  },
+  {
+   "role": "sidenote",
+   "text": "May 17, 1856."
+  },
+  {
+   "role": "body",
+   "text": "Florida and Alabama, to aid in the Construction of certain Railroads in said States."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That there be and is hereby"
+  },
+  {
+   "role": "body",
+   "text": "granted to the State of Florida, for the purpose of aiding in the construc-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Grant of lands"
+  },
+  {
+   "role": "body",
+   "text": "tion of railroads from St. John's River, at Jacksonville, to the waters of"
+  },
+  {
+   "role": "sidenote",
+   "text": "to Florida for"
+  },
+  {
+   "role": "body",
+   "text": "Escambia Bay, at or near Pensacola; and from Amelia Island, on the"
+  },
+  {
+   "role": "sidenote",
+   "text": "railroads."
+  },
+  {
+   "role": "body",
+   "text": "Atlantic, to the waters of Tampa Bay, with a branch to Cedar Key, on"
+  },
+  {
+   "role": "body",
+   "text": "the Gulf of Mexico; and also a railroad from Pensacola to the State line"
+  },
+  {
+   "role": "body",
+   "text": "of Alabama, in the direction of Montgomery, every alternate section of"
+  },
+  {
+   "role": "body",
+   "text": "land designated by odd numbers, for six sections in width on each side"
+  },
+  {
+   "role": "body",
+   "text": "of each of said roads and branch.  But in case it shall appear that the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Grant in lieu"
+  },
+  {
+   "role": "body",
+   "text": "United States have, when the lines or routes of said roads and branch are"
+  },
+  {
+   "role": "sidenote",
+   "text": "of sold or pre-"
+  },
+  {
+   "role": "body",
+   "text": "definitely fixed, sold any sections, or any parts thereof, granted as afore-"
+  },
+  {
+   "role": "sidenote",
+   "text": "empted sections."
+  },
+  {
+   "role": "body",
+   "text": "said, or that the right of preëmption has attached to the same, then it"
+  },
+  {
+   "role": "body",
+   "text": "shall be lawful for any agent or agents to be appointed by the governor"
+  },
+  {
+   "role": "body",
+   "text": "of said State, to select, subject to the approval of the Secretary of the"
+  },
+  {
+   "role": "body",
+   "text": "Interior, from the lands of the United States nearest to the tiers of sec-"
+  },
+  {
+   "role": "body",
+   "text": "tions above specified, so much land in alternate sections or parts of"
+  },
+  {
+   "role": "body",
+   "text": "sections, as shall be equal to such lands as the United States have sold,"
+  },
+  {
+   "role": "body",
+   "text": "or otherwise appropriated, or to which the rights of preëmption have"
+  },
+  {
+   "role": "body",
+   "text": "attached as aforesaid; which lands (thus selected in lieu of those sold"
+  },
+  {
+   "role": "body",
+   "text": "and to which preëmption rights have attached as aforesaid, together with"
+  },
+  {
+   "role": "body",
+   "text": "the sections and parts of sections designated by odd numbers, as afore-"
+  },
+  {
+   "role": "body",
+   "text": "said, and appropriated as aforesaid,) shall be held by the State of Florida"
+  },
+  {
+   "role": "body",
+   "text": "for the use and purpose aforesaid: Provided, That the land to be so"
+  }
+ ],
+ "disagreement_count": 26,
+ "tokens": {
+  "input_tokens": 23907,
+  "output_tokens": 6353,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.27952,
+ "seconds": 200.9,
+ "created": "2026-09-08T12:25:42"
+}

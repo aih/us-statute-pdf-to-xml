@@ -1,0 +1,1129 @@
+{
+ "granule_id": "STATUTE-36-Pg353-2",
+ "package_id": "STATUTE-36",
+ "volume": 36,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act To authorize the opening of a road along the Anacostia River in the District of Columbia.",
+ "date_issued": "1910-05-10",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "354",
+ "image": "data/gold/STATUTE-36-Pg353-2/p2.png",
+ "image_sha256": "06e26ec66ff417e4d681c35a198d20fb9ca68b41c5be095eea13c363756a1299",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "354                SIXTY-FIRST CONGRESS.   SESS. II.   CHS. 225, 226.    1910."
+    },
+    {
+     "role": "body",
+     "text": "or parcel of ground the jury shall take into consideration the situa-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the said lot, piece, or parcel of ground and the benefits they"
+    },
+    {
+     "role": "body",
+     "text": "may severally receive from the opening of the said public highway"
+    },
+    {
+     "role": "body",
+     "text": "and park."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation for"
+    },
+    {
+     "role": "sidenote",
+     "text": "benefits, etc."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That there is hereby appropriated out of the revenues of"
+    },
+    {
+     "role": "body",
+     "text": "the District of Columbia an amount sufficient to pay the costs and"
+    },
+    {
+     "role": "body",
+     "text": "expenses of the condemnation proceedings taken pursuant hereto and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Repayment."
+    },
+    {
+     "role": "body",
+     "text": "for the payment of amounts awarded as damages, one-half of the said"
+    },
+    {
+     "role": "body",
+     "text": "amount to be repaid to the District of Columbia from the assessments"
+    },
+    {
+     "role": "body",
+     "text": "for benefits and covered into the Treasury to the credit of the revenues"
+    },
+    {
+     "role": "body",
+     "text": "of the District of Columbia."
+    },
+    {
+     "role": "body",
+     "text": "Approved, May 10, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 11, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 2777.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 226.—An Act To establish \"The Glacier National Park\" in the Rocky"
+    },
+    {
+     "role": "body",
+     "text": "Mountains south of the international boundary line, in the State of Montana, and for"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 171.]"
+    },
+    {
+     "role": "body",
+     "text": "other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "The Glacier N a-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tional Park, Mont."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the tract of land in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Land set apart as."
+    },
+    {
+     "role": "body",
+     "text": "State of Montana particularly described by metes and bounds as follows,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Description."
+    },
+    {
+     "role": "body",
+     "text": "to wit: Commencing at a point on the international boundary between"
+    },
+    {
+     "role": "body",
+     "text": "the United States and the Dominion of Canada at the middle of the"
+    },
+    {
+     "role": "body",
+     "text": "Flathead River; thence following southerly along and with the middle"
+    },
+    {
+     "role": "body",
+     "text": "of the Flathead River to its confluence with the Middle Fork of the"
+    },
+    {
+     "role": "body",
+     "text": "Flathead River; thence following the north bank of said Middle Fork"
+    },
+    {
+     "role": "body",
+     "text": "of the Flathead River to where it is crossed by the north boundary of"
+    },
+    {
+     "role": "body",
+     "text": "the right of way of the Great Northern Railroad; thence following the"
+    },
+    {
+     "role": "body",
+     "text": "said right of way to where it intersects the west boundary of the"
+    },
+    {
+     "role": "body",
+     "text": "Blackfeet Indian Reservation; thence northerly along said west bound-"
+    },
+    {
+     "role": "body",
+     "text": "ary to its intersection with the international boundary; thence along"
+    },
+    {
+     "role": "body",
+     "text": "said international boundary to the place of beginning, is hereby reserved"
+    },
+    {
+     "role": "body",
+     "text": "and withdrawn from settlement, occupancy, or disposal under the laws"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, and dedicated and set apart as a public park or"
+    },
+    {
+     "role": "body",
+     "text": "pleasure ground for the benefit and enjoyment of the people of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Removal of tres-"
+    },
+    {
+     "role": "sidenote",
+     "text": "passers."
+    },
+    {
+     "role": "body",
+     "text": "United States under the name of \"The Glacier National Park;\" and all"
+    },
+    {
+     "role": "body",
+     "text": "persons who shall locate or settle upon or occupy the same, or any part"
+    },
+    {
+     "role": "body",
+     "text": "thereof, except as hereinafter provided, shall be considered trespassers"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Valid rights not"
+    },
+    {
+     "role": "sidenote",
+     "text": "affected."
+    },
+    {
+     "role": "body",
+     "text": "and removed therefrom: Provided, That nothing herein contained shall"
+    },
+    {
+     "role": "body",
+     "text": "affect any valid existing claim, location, or entry under the land laws"
+    },
+    {
+     "role": "body",
+     "text": "of the United States or the rights of any such claimant, locator, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "Rights of way for"
+    },
+    {
+     "role": "sidenote",
+     "text": "railways."
+    },
+    {
+     "role": "body",
+     "text": "entryman to the full use and enjoyment of his land: Provided further,"
+    },
+    {
+     "role": "body",
+     "text": "That rights of way through the valleys of the North and Middle forks"
+    },
+    {
+     "role": "body",
+     "text": "of the Flathead River for steam or electric railways may be acquired"
+    },
+    {
+     "role": "body",
+     "text": "within said Glacier National Park under filings or proceedings hereto-"
+    },
+    {
+     "role": "body",
+     "text": "fore or hereafter made or instituted under the laws applicable to the"
+    },
+    {
+     "role": "body",
+     "text": "acquisition of such rights over or upon the unappropriated public"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reclamation proj-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ects."
+    },
+    {
+     "role": "body",
+     "text": "domain of the United States, and that the United States Reclamation"
+    },
+    {
+     "role": "body",
+     "text": "Service may enter upon and utilize for flowage or other purposes any"
+    },
+    {
+     "role": "body",
+     "text": "area within said park which may be necessary for the development and"
+    },
+    {
+     "role": "sidenote",
+     "text": "No indemnity selec-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tions allowed corpora-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tions."
+    },
+    {
+     "role": "body",
+     "text": "maintenance of a government reclamation project: And provided fur-"
+    },
+    {
+     "role": "body",
+     "text": "ther, That no lands within the limits of said park hereby created"
+    },
+    {
+     "role": "body",
+     "text": "belonging to or claimed by any railroad or other corporation now"
+    },
+    {
+     "role": "body",
+     "text": "having or claiming the right of indemnity selection by virtue of any"
+    },
+    {
+     "role": "body",
+     "text": "law or contract whatsoever shall be used as a basis for indemnity selec-"
+    },
+    {
+     "role": "body",
+     "text": "tion in any State or Territory whatsoever for any loss sustained by"
+    },
+    {
+     "role": "body",
+     "text": "reason of the creation of said park."
+    },
+    {
+     "role": "sidenote",
+     "text": "Regulations for pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tection, etc."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That said park shall be under the exclusive control of the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Interior, whose duty it shall be, as soon as practi-"
+    },
+    {
+     "role": "body",
+     "text": "cable, to make and publish such rules and regulations not inconsistent"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5186,
+    "output_tokens": 2361,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08534,
+   "seconds": 26.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "354"
+    },
+    {
+     "role": "running-head",
+     "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 225, 226.   1910."
+    },
+    {
+     "role": "body",
+     "text": "or parcel of ground the jury shall take into consideration the situa-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the said lot, piece, or parcel of ground and the benefits they"
+    },
+    {
+     "role": "body",
+     "text": "may severally receive from the opening of the said public highway"
+    },
+    {
+     "role": "body",
+     "text": "and park."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation for benefits, etc."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That there is hereby appropriated out of the revenues of"
+    },
+    {
+     "role": "body",
+     "text": "the District of Columbia an amount sufficient to pay the costs and"
+    },
+    {
+     "role": "body",
+     "text": "expenses of the condemnation proceedings taken pursuant hereto and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Repayment."
+    },
+    {
+     "role": "body",
+     "text": "for the payment of amounts awarded as damages, one-half of the said"
+    },
+    {
+     "role": "body",
+     "text": "amount to be repaid to the District of Columbia from the assessments"
+    },
+    {
+     "role": "body",
+     "text": "for benefits and covered into the Treasury to the credit of the revenues"
+    },
+    {
+     "role": "body",
+     "text": "of the District of Columbia."
+    },
+    {
+     "role": "body",
+     "text": "Approved, May 10, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 11, 1910."
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 2777.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 171.]"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. 226.—An Act To establish \"The Glacier National Park\" in the Rocky"
+    },
+    {
+     "role": "body",
+     "text": "Mountains south of the international boundary line, in the State of Montana, and for"
+    },
+    {
+     "role": "body",
+     "text": "other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "The Glacier National Park, Mont. Land set apart as. Description."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the tract of land in the"
+    },
+    {
+     "role": "body",
+     "text": "State of Montana particularly described by metes and bounds as follows,"
+    },
+    {
+     "role": "body",
+     "text": "to wit: Commencing at a point on the international boundary between"
+    },
+    {
+     "role": "body",
+     "text": "the United States and the Dominion of Canada at the middle of the"
+    },
+    {
+     "role": "body",
+     "text": "Flathead River; thence following southerly along and with the middle"
+    },
+    {
+     "role": "body",
+     "text": "of the Flathead River to its confluence with the Middle Fork of the"
+    },
+    {
+     "role": "body",
+     "text": "Flathead River; thence following the north bank of said Middle Fork"
+    },
+    {
+     "role": "body",
+     "text": "of the Flathead River to where it is crossed by the north boundary of"
+    },
+    {
+     "role": "body",
+     "text": "the right of way of the Great Northern Railroad; thence following the"
+    },
+    {
+     "role": "body",
+     "text": "said right of way to where it intersects the west boundary of the"
+    },
+    {
+     "role": "body",
+     "text": "Blackfeet Indian Reservation; thence northerly along said west bound-"
+    },
+    {
+     "role": "body",
+     "text": "ary to its intersection with the international boundary; thence along"
+    },
+    {
+     "role": "body",
+     "text": "said international boundary to the place of beginning, is hereby reserved"
+    },
+    {
+     "role": "body",
+     "text": "and withdrawn from settlement, occupancy, or disposal under the laws"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, and dedicated and set apart as a public park or"
+    },
+    {
+     "role": "body",
+     "text": "pleasure ground for the benefit and enjoyment of the people of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Removal of trespassers."
+    },
+    {
+     "role": "body",
+     "text": "United States under the name of \"The Glacier National Park;\" and all"
+    },
+    {
+     "role": "body",
+     "text": "persons who shall locate or settle upon or occupy the same, or any part"
+    },
+    {
+     "role": "body",
+     "text": "thereof, except as hereinafter provided, shall be considered trespassers"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provisos."
+    },
+    {
+     "role": "sidenote",
+     "text": "Valid rights not affected."
+    },
+    {
+     "role": "body",
+     "text": "and removed therefrom: Provided, That nothing herein contained shall"
+    },
+    {
+     "role": "body",
+     "text": "affect any valid existing claim, location, or entry under the land laws"
+    },
+    {
+     "role": "body",
+     "text": "of the United States or the rights of any such claimant, locator, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "Rights of way for railways."
+    },
+    {
+     "role": "body",
+     "text": "entryman to the full use and enjoyment of his land: Provided further,"
+    },
+    {
+     "role": "body",
+     "text": "That rights of way through the valleys of the North and Middle forks"
+    },
+    {
+     "role": "body",
+     "text": "of the Flathead River for steam or electric railways may be acquired"
+    },
+    {
+     "role": "body",
+     "text": "within said Glacier National Park under filings or proceedings hereto-"
+    },
+    {
+     "role": "body",
+     "text": "fore or hereafter made or instituted under the laws applicable to the"
+    },
+    {
+     "role": "body",
+     "text": "acquisition of such rights over or upon the unappropriated public"
+    },
+    {
+     "role": "sidenote",
+     "text": "Reclamation projects."
+    },
+    {
+     "role": "body",
+     "text": "domain of the United States, and that the United States Reclamation"
+    },
+    {
+     "role": "body",
+     "text": "Service may enter upon and utilize for flowage or other purposes any"
+    },
+    {
+     "role": "body",
+     "text": "area within said park which may be necessary for the development and"
+    },
+    {
+     "role": "sidenote",
+     "text": "No indemnity selections allowed corporations."
+    },
+    {
+     "role": "body",
+     "text": "maintenance of a government reclamation project: And provided fur-"
+    },
+    {
+     "role": "body",
+     "text": "ther, That no lands within the limits of said park hereby created"
+    },
+    {
+     "role": "body",
+     "text": "belonging to or claimed by any railroad or other corporation now"
+    },
+    {
+     "role": "body",
+     "text": "having or claiming the right of indemnity selection by virtue of any"
+    },
+    {
+     "role": "body",
+     "text": "law or contract whatsoever shall be used as a basis for indemnity selec-"
+    },
+    {
+     "role": "body",
+     "text": "tion in any State or Territory whatsoever for any loss sustained by"
+    },
+    {
+     "role": "body",
+     "text": "reason of the creation of said park."
+    },
+    {
+     "role": "sidenote",
+     "text": "Regulations for protection, etc."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. That said park shall be under the exclusive control of the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Interior, whose duty it shall be, as soon as practi-"
+    },
+    {
+     "role": "body",
+     "text": "cable, to make and publish such rules and regulations not inconsistent"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5189,
+    "output_tokens": 2194,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08116,
+   "seconds": 33.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12128,
+   "output_tokens": 1452,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.09736,
+  "seconds": 18.6,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "354                SIXTY-FIRST CONGRESS.   SESS. II.   CHS. 225, 226.    1910.",
+    "b": "354\nSIXTY-FIRST CONGRESS.  SESS. II.  CHS. 225, 226.   1910.",
+    "kept": "354\nSIXTY-FIRST CONGRESS.  SESS. II.  CHS. 225, 226.   1910.",
+    "reason": "The folio 354 stands apart at the left margin from the running head."
+   },
+   {
+    "run": 2,
+    "a": "Appropriation for\nbenefits, etc.",
+    "b": "Appropriation for benefits, etc.",
+    "kept": "Appropriation for\nbenefits, etc.",
+    "reason": "Sidenote is printed on two lines."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "[Public, No. 171.]",
+    "kept": "",
+    "reason": "The [Public, No. 171.] sidenote is printed lower, opposite the last line of the chapter heading."
+   },
+   {
+    "run": 4,
+    "a": "[Public, No. 171.]",
+    "b": "",
+    "kept": "[Public, No. 171.]",
+    "reason": "Printed below the rule, aligned with 'other purposes.'"
+   },
+   {
+    "run": 5,
+    "a": "The Glacier N a-\ntional Park, Mont.",
+    "b": "The Glacier National Park, Mont. Land set apart as. Description.",
+    "kept": "The Glacier N a-\ntional Park, Mont.",
+    "reason": "Sidenote printed line by line as shown."
+   },
+   {
+    "run": 6,
+    "a": "Land set apart as.",
+    "b": "",
+    "kept": "Land set apart as.",
+    "reason": "Third line of the sidenote block."
+   },
+   {
+    "run": 7,
+    "a": "Description.",
+    "b": "",
+    "kept": "Description.",
+    "reason": "Fourth line of the sidenote block."
+   },
+   {
+    "run": 8,
+    "a": "Removal of tres-\npassers.",
+    "b": "Removal of trespassers.",
+    "kept": "Removal of tres-\npassers.",
+    "reason": "Two printed lines with end-of-line hyphen."
+   },
+   {
+    "run": 9,
+    "a": "Valid rights not\naffected.",
+    "b": "Valid rights not affected.",
+    "kept": "Valid rights not\naffected.",
+    "reason": "Two printed lines."
+   },
+   {
+    "run": 10,
+    "a": "Rights of way for\nrailways.",
+    "b": "Rights of way for railways.",
+    "kept": "Rights of way for\nrailways.",
+    "reason": "Two printed lines."
+   },
+   {
+    "run": 11,
+    "a": "Reclamation proj-\nects.",
+    "b": "Reclamation projects.",
+    "kept": "Reclamation proj-\nects.",
+    "reason": "Two printed lines with hyphen break."
+   },
+   {
+    "run": 12,
+    "a": "No indemnity selec-\ntions allowed corpora-\ntions.",
+    "b": "No indemnity selections allowed corporations.",
+    "kept": "No indemnity selec-\ntions allowed corpora-\ntions.",
+    "reason": "Three printed lines with hyphen breaks."
+   },
+   {
+    "run": 13,
+    "a": "Regulations for pro-\ntection, etc.",
+    "b": "Regulations for protection, etc.",
+    "kept": "Regulations for pro-\ntection, etc.",
+    "reason": "Two printed lines with hyphen break."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "354"
+  },
+  {
+   "role": "running-head",
+   "text": "SIXTY-FIRST CONGRESS.  SESS. II.  CHS. 225, 226.   1910."
+  },
+  {
+   "role": "body",
+   "text": "or parcel of ground the jury shall take into consideration the situa-"
+  },
+  {
+   "role": "body",
+   "text": "tion of the said lot, piece, or parcel of ground and the benefits they"
+  },
+  {
+   "role": "body",
+   "text": "may severally receive from the opening of the said public highway"
+  },
+  {
+   "role": "body",
+   "text": "and park."
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation for"
+  },
+  {
+   "role": "sidenote",
+   "text": "benefits, etc."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That there is hereby appropriated out of the revenues of"
+  },
+  {
+   "role": "body",
+   "text": "the District of Columbia an amount sufficient to pay the costs and"
+  },
+  {
+   "role": "body",
+   "text": "expenses of the condemnation proceedings taken pursuant hereto and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Repayment."
+  },
+  {
+   "role": "body",
+   "text": "for the payment of amounts awarded as damages, one-half of the said"
+  },
+  {
+   "role": "body",
+   "text": "amount to be repaid to the District of Columbia from the assessments"
+  },
+  {
+   "role": "body",
+   "text": "for benefits and covered into the Treasury to the credit of the revenues"
+  },
+  {
+   "role": "body",
+   "text": "of the District of Columbia."
+  },
+  {
+   "role": "body",
+   "text": "Approved, May 10, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "May 11, 1910."
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 2777.]"
+  },
+  {
+   "role": "body",
+   "text": "CHAP. 226.—An Act To establish \"The Glacier National Park\" in the Rocky"
+  },
+  {
+   "role": "body",
+   "text": "Mountains south of the international boundary line, in the State of Montana, and for"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 171.]"
+  },
+  {
+   "role": "body",
+   "text": "other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "The Glacier N a-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tional Park, Mont."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the tract of land in the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Land set apart as."
+  },
+  {
+   "role": "body",
+   "text": "State of Montana particularly described by metes and bounds as follows,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Description."
+  },
+  {
+   "role": "body",
+   "text": "to wit: Commencing at a point on the international boundary between"
+  },
+  {
+   "role": "body",
+   "text": "the United States and the Dominion of Canada at the middle of the"
+  },
+  {
+   "role": "body",
+   "text": "Flathead River; thence following southerly along and with the middle"
+  },
+  {
+   "role": "body",
+   "text": "of the Flathead River to its confluence with the Middle Fork of the"
+  },
+  {
+   "role": "body",
+   "text": "Flathead River; thence following the north bank of said Middle Fork"
+  },
+  {
+   "role": "body",
+   "text": "of the Flathead River to where it is crossed by the north boundary of"
+  },
+  {
+   "role": "body",
+   "text": "the right of way of the Great Northern Railroad; thence following the"
+  },
+  {
+   "role": "body",
+   "text": "said right of way to where it intersects the west boundary of the"
+  },
+  {
+   "role": "body",
+   "text": "Blackfeet Indian Reservation; thence northerly along said west bound-"
+  },
+  {
+   "role": "body",
+   "text": "ary to its intersection with the international boundary; thence along"
+  },
+  {
+   "role": "body",
+   "text": "said international boundary to the place of beginning, is hereby reserved"
+  },
+  {
+   "role": "body",
+   "text": "and withdrawn from settlement, occupancy, or disposal under the laws"
+  },
+  {
+   "role": "body",
+   "text": "of the United States, and dedicated and set apart as a public park or"
+  },
+  {
+   "role": "body",
+   "text": "pleasure ground for the benefit and enjoyment of the people of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Removal of tres-"
+  },
+  {
+   "role": "sidenote",
+   "text": "passers."
+  },
+  {
+   "role": "body",
+   "text": "United States under the name of \"The Glacier National Park;\" and all"
+  },
+  {
+   "role": "body",
+   "text": "persons who shall locate or settle upon or occupy the same, or any part"
+  },
+  {
+   "role": "body",
+   "text": "thereof, except as hereinafter provided, shall be considered trespassers"
+  },
+  {
+   "role": "sidenote",
+   "text": "Provisos."
+  },
+  {
+   "role": "sidenote",
+   "text": "Valid rights not"
+  },
+  {
+   "role": "sidenote",
+   "text": "affected."
+  },
+  {
+   "role": "body",
+   "text": "and removed therefrom: Provided, That nothing herein contained shall"
+  },
+  {
+   "role": "body",
+   "text": "affect any valid existing claim, location, or entry under the land laws"
+  },
+  {
+   "role": "body",
+   "text": "of the United States or the rights of any such claimant, locator, or"
+  },
+  {
+   "role": "sidenote",
+   "text": "Rights of way for"
+  },
+  {
+   "role": "sidenote",
+   "text": "railways."
+  },
+  {
+   "role": "body",
+   "text": "entryman to the full use and enjoyment of his land: Provided further,"
+  },
+  {
+   "role": "body",
+   "text": "That rights of way through the valleys of the North and Middle forks"
+  },
+  {
+   "role": "body",
+   "text": "of the Flathead River for steam or electric railways may be acquired"
+  },
+  {
+   "role": "body",
+   "text": "within said Glacier National Park under filings or proceedings hereto-"
+  },
+  {
+   "role": "body",
+   "text": "fore or hereafter made or instituted under the laws applicable to the"
+  },
+  {
+   "role": "body",
+   "text": "acquisition of such rights over or upon the unappropriated public"
+  },
+  {
+   "role": "sidenote",
+   "text": "Reclamation proj-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ects."
+  },
+  {
+   "role": "body",
+   "text": "domain of the United States, and that the United States Reclamation"
+  },
+  {
+   "role": "body",
+   "text": "Service may enter upon and utilize for flowage or other purposes any"
+  },
+  {
+   "role": "body",
+   "text": "area within said park which may be necessary for the development and"
+  },
+  {
+   "role": "sidenote",
+   "text": "No indemnity selec-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tions allowed corpora-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tions."
+  },
+  {
+   "role": "body",
+   "text": "maintenance of a government reclamation project: And provided fur-"
+  },
+  {
+   "role": "body",
+   "text": "ther, That no lands within the limits of said park hereby created"
+  },
+  {
+   "role": "body",
+   "text": "belonging to or claimed by any railroad or other corporation now"
+  },
+  {
+   "role": "body",
+   "text": "having or claiming the right of indemnity selection by virtue of any"
+  },
+  {
+   "role": "body",
+   "text": "law or contract whatsoever shall be used as a basis for indemnity selec-"
+  },
+  {
+   "role": "body",
+   "text": "tion in any State or Territory whatsoever for any loss sustained by"
+  },
+  {
+   "role": "body",
+   "text": "reason of the creation of said park."
+  },
+  {
+   "role": "sidenote",
+   "text": "Regulations for pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tection, etc."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. That said park shall be under the exclusive control of the"
+  },
+  {
+   "role": "body",
+   "text": "Secretary of the Interior, whose duty it shall be, as soon as practi-"
+  },
+  {
+   "role": "body",
+   "text": "cable, to make and publish such rules and regulations not inconsistent"
+  }
+ ],
+ "disagreement_count": 13,
+ "tokens": {
+  "input_tokens": 22503,
+  "output_tokens": 6007,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.26386,
+ "seconds": 79.0,
+ "created": "2026-09-08T12:31:08"
+}

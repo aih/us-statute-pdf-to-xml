@@ -1,0 +1,913 @@
+{
+ "granule_id": "STATUTE-75-Pg772-2",
+ "package_id": "STATUTE-75",
+ "volume": 75,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to redesignate the Jefferson Division of the Eastern District of Texas as the Marshall Division.",
+ "date_issued": "1961-10-04",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "772",
+ "image": "data/gold/STATUTE-75-Pg772-2/p1.png",
+ "image_sha256": "5b77cb82c68c48fc2ce4ab1f9a3758b945f06af360fad0609a4407650c23c0b9",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "772"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 87-351–OCT. 4, 1961"
+    },
+    {
+     "role": "running-head",
+     "text": "[75 STAT."
+    },
+    {
+     "role": "body",
+     "text": "deposit shall be applicable to an annuitant (1) whose annuity is based"
+    },
+    {
+     "role": "body",
+     "text": "on an involuntary separation from the service, and (2) who is sepa-"
+    },
+    {
+     "role": "body",
+     "text": "rated, on or after the date of enactment of this sentence, after a period"
+    },
+    {
+     "role": "body",
+     "text": "of reemployment on a full-time basis which began before October 1,"
+    },
+    {
+     "role": "body",
+     "text": "1956.\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Former congres-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sional employees."
+    },
+    {
+     "role": "sidenote",
+     "text": "70 Stat. 752; 74"
+    },
+    {
+     "role": "sidenote",
+     "text": "Stat. 358."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. (a) The first sentence of section 9(b) of the Civil Service"
+    },
+    {
+     "role": "body",
+     "text": "Retirement Act, as amended (5 U.S.C. 2259(b)), is amended by in-"
+    },
+    {
+     "role": "body",
+     "text": "serting \", or former congressional employee,\" immediately following"
+    },
+    {
+     "role": "body",
+     "text": "the words \"congressional employee\" where first appearing in such"
+    },
+    {
+     "role": "body",
+     "text": "sentence."
+    },
+    {
+     "role": "body",
+     "text": "(b). The second sentence of such section 9(b) is amended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by inserting \", or former congressional employee,\" im-"
+    },
+    {
+     "role": "body",
+     "text": "mediately following the words \"congressional employee\" where"
+    },
+    {
+     "role": "body",
+     "text": "first appearing in such sentence;"
+    },
+    {
+     "role": "body",
+     "text": "(2) by inserting the word \"and\" immediately following \"serv-"
+    },
+    {
+     "role": "body",
+     "text": "ice,\" at the end of clause (1) thereof; and"
+    },
+    {
+     "role": "body",
+     "text": "(3) by striking out \", and (3) has served as a congressional"
+    },
+    {
+     "role": "body",
+     "text": "employee during the last eleven months of his civilian service\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. Notwithstanding any other provision of law, annuity bene-"
+    },
+    {
+     "role": "sidenote",
+     "text": "70 Stat. 743."
+    },
+    {
+     "role": "sidenote",
+     "text": "5 USC 2251 note."
+    },
+    {
+     "role": "body",
+     "text": "fits under the Civil Service Retirement Act, as amended, resulting"
+    },
+    {
+     "role": "body",
+     "text": "from the operation of this Act shall be paid from the civil service"
+    },
+    {
+     "role": "body",
+     "text": "retirement and disability fund."
+    },
+    {
+     "role": "body",
+     "text": "Approved October 4, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-351"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 4, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 302]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Act of June 22, 1948, as amended, relating to certain areas within"
+    },
+    {
+     "role": "body",
+     "text": "the Superior National Forest, in the State of Minnesota, and for other"
+    },
+    {
+     "role": "body",
+     "text": "purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Superior National"
+    },
+    {
+     "role": "sidenote",
+     "text": "Forest, Minn."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Act of June"
+    },
+    {
+     "role": "body",
+     "text": "22, 1948, as amended (16 U.S.C. 577c–577h) is amended by deleting the"
+    },
+    {
+     "role": "body",
+     "text": "proviso from section 1 (16 U.S.C. 577c) and by changing the figure"
+    },
+    {
+     "role": "sidenote",
+     "text": "62 Stat. 568; 70"
+    },
+    {
+     "role": "sidenote",
+     "text": "Stat. 328."
+    },
+    {
+     "role": "body",
+     "text": "in section 6 (16 U.S.C 577h) thereof to read $4,500,000.   Funds appro-"
+    },
+    {
+     "role": "body",
+     "text": "priated to carry out the purposes of the Act shall remain available until"
+    },
+    {
+     "role": "body",
+     "text": "expended."
+    },
+    {
+     "role": "body",
+     "text": "Approved October 4, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-352"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 4, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 2102]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To redesignate the Jefferson Division of the Eastern District of Texas as the"
+    },
+    {
+     "role": "body",
+     "text": "Marshall Division."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "District courts."
+    },
+    {
+     "role": "sidenote",
+     "text": "Marshall Divi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sion, Tex."
+    },
+    {
+     "role": "sidenote",
+     "text": "62 Stat. 892."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 124"
+    },
+    {
+     "role": "body",
+     "text": "(c) (5) of title 28, United States Code, is amended to read as follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"(5) The Marshall Division comprises the counties of Camp,"
+    },
+    {
+     "role": "body",
+     "text": "Cass, Harrison, Hopkins, Marion, Morris, and Upshur."
+    },
+    {
+     "role": "body",
+     "text": "\"Court for the Marshall Division shall be held at Marshall.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved October 4, 1961."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2052,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07873,
+   "seconds": 39.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "772"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 87-351–OCT. 4, 1961"
+    },
+    {
+     "role": "running-head",
+     "text": "[75 STAT."
+    },
+    {
+     "role": "body",
+     "text": "deposit shall be applicable to an annuitant (1) whose annuity is based"
+    },
+    {
+     "role": "body",
+     "text": "on an involuntary separation from the service, and (2) who is sepa-"
+    },
+    {
+     "role": "body",
+     "text": "rated, on or after the date of enactment of this sentence, after a period"
+    },
+    {
+     "role": "body",
+     "text": "of reemployment on a full-time basis which began before October 1,"
+    },
+    {
+     "role": "body",
+     "text": "1956.\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Former congres-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sional employees."
+    },
+    {
+     "role": "sidenote",
+     "text": "70 Stat. 752; 74"
+    },
+    {
+     "role": "sidenote",
+     "text": "Stat. 358."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. (a) The first sentence of section 9(b) of the Civil Service"
+    },
+    {
+     "role": "body",
+     "text": "Retirement Act, as amended (5 U.S.C. 2259(b)), is amended by in-"
+    },
+    {
+     "role": "body",
+     "text": "serting \", or former congressional employee,\" immediately following"
+    },
+    {
+     "role": "body",
+     "text": "the words \"congressional employee\" where first appearing in such"
+    },
+    {
+     "role": "body",
+     "text": "sentence."
+    },
+    {
+     "role": "body",
+     "text": "(b). The second sentence of such section 9(b) is amended—"
+    },
+    {
+     "role": "body",
+     "text": "(1) by inserting \", or former congressional employee,\" im-"
+    },
+    {
+     "role": "body",
+     "text": "mediately following the words \"congressional employee\" where"
+    },
+    {
+     "role": "body",
+     "text": "first appearing in such sentence;"
+    },
+    {
+     "role": "body",
+     "text": "(2) by inserting the word \"and\" immediately following \"serv-"
+    },
+    {
+     "role": "body",
+     "text": "ice,\" at the end of clause (1) thereof; and"
+    },
+    {
+     "role": "body",
+     "text": "(3) by striking out \", and (3) has served as a congressional"
+    },
+    {
+     "role": "body",
+     "text": "employee during the last eleven months of his civilian service\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. Notwithstanding any other provision of law, annuity bene-"
+    },
+    {
+     "role": "sidenote",
+     "text": "70 Stat. 743."
+    },
+    {
+     "role": "sidenote",
+     "text": "5 USC 2251 note."
+    },
+    {
+     "role": "body",
+     "text": "fits under the Civil Service Retirement Act, as amended, resulting"
+    },
+    {
+     "role": "body",
+     "text": "from the operation of this Act shall be paid from the civil service"
+    },
+    {
+     "role": "body",
+     "text": "retirement and disability fund."
+    },
+    {
+     "role": "body",
+     "text": "Approved October 4, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-351"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 4, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 302]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Act of June 22, 1948, as amended, relating to certain areas within"
+    },
+    {
+     "role": "body",
+     "text": "the Superior National Forest, in the State of Minnesota, and for other"
+    },
+    {
+     "role": "body",
+     "text": "purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Superior National"
+    },
+    {
+     "role": "sidenote",
+     "text": "Forest, Minn."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Act of June"
+    },
+    {
+     "role": "body",
+     "text": "22, 1948, as amended (16 U.S.C. 577c–577h) is amended by deleting the"
+    },
+    {
+     "role": "body",
+     "text": "proviso from section 1 (16 U.S.C. 577c) and by changing the figure"
+    },
+    {
+     "role": "sidenote",
+     "text": "62 Stat. 568; 70"
+    },
+    {
+     "role": "sidenote",
+     "text": "Stat. 328."
+    },
+    {
+     "role": "body",
+     "text": "in section 6 (16 U.S.C 577h) thereof to read $4,500,000.   Funds appro-"
+    },
+    {
+     "role": "body",
+     "text": "priated to carry out the purposes of the Act shall remain available until"
+    },
+    {
+     "role": "body",
+     "text": "expended."
+    },
+    {
+     "role": "body",
+     "text": "Approved October 4, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-352"
+    },
+    {
+     "role": "sidenote",
+     "text": "October 4, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 2102]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To redesignate the Jefferson Division of the Eastern District of Texas as the"
+    },
+    {
+     "role": "body",
+     "text": "Marshall Division."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "District courts."
+    },
+    {
+     "role": "sidenote",
+     "text": "Marshall Divi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sion, Tex."
+    },
+    {
+     "role": "sidenote",
+     "text": "62 Stat. 892."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That section 124"
+    },
+    {
+     "role": "body",
+     "text": "(c)(5) of title 28, United States Code, is amended to read as follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"(5) The Marshall Division comprises the counties of Camp,"
+    },
+    {
+     "role": "body",
+     "text": "Cass, Harrison, Hopkins, Marion, Morris, and Upshur."
+    },
+    {
+     "role": "body",
+     "text": "\"Court for the Marshall Division shall be held at Marshall.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved October 4, 1961."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 1977,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07685,
+   "seconds": 42.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 10692,
+   "output_tokens": 111,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.05665,
+  "seconds": 120.9,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "(c) (5) of title 28, United States Code, is amended to read as follows:",
+    "b": "(c)(5) of title 28, United States Code, is amended to read as follows:",
+    "kept": "(c) (5) of title 28, United States Code, is amended to read as follows:",
+    "reason": "Image shows a space between \"(c)\" and \"(5)\"."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "772"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 87-351–OCT. 4, 1961"
+  },
+  {
+   "role": "running-head",
+   "text": "[75 STAT."
+  },
+  {
+   "role": "body",
+   "text": "deposit shall be applicable to an annuitant (1) whose annuity is based"
+  },
+  {
+   "role": "body",
+   "text": "on an involuntary separation from the service, and (2) who is sepa-"
+  },
+  {
+   "role": "body",
+   "text": "rated, on or after the date of enactment of this sentence, after a period"
+  },
+  {
+   "role": "body",
+   "text": "of reemployment on a full-time basis which began before October 1,"
+  },
+  {
+   "role": "body",
+   "text": "1956.\"."
+  },
+  {
+   "role": "sidenote",
+   "text": "Former congres-"
+  },
+  {
+   "role": "sidenote",
+   "text": "sional employees."
+  },
+  {
+   "role": "sidenote",
+   "text": "70 Stat. 752; 74"
+  },
+  {
+   "role": "sidenote",
+   "text": "Stat. 358."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 6. (a) The first sentence of section 9(b) of the Civil Service"
+  },
+  {
+   "role": "body",
+   "text": "Retirement Act, as amended (5 U.S.C. 2259(b)), is amended by in-"
+  },
+  {
+   "role": "body",
+   "text": "serting \", or former congressional employee,\" immediately following"
+  },
+  {
+   "role": "body",
+   "text": "the words \"congressional employee\" where first appearing in such"
+  },
+  {
+   "role": "body",
+   "text": "sentence."
+  },
+  {
+   "role": "body",
+   "text": "(b). The second sentence of such section 9(b) is amended—"
+  },
+  {
+   "role": "body",
+   "text": "(1) by inserting \", or former congressional employee,\" im-"
+  },
+  {
+   "role": "body",
+   "text": "mediately following the words \"congressional employee\" where"
+  },
+  {
+   "role": "body",
+   "text": "first appearing in such sentence;"
+  },
+  {
+   "role": "body",
+   "text": "(2) by inserting the word \"and\" immediately following \"serv-"
+  },
+  {
+   "role": "body",
+   "text": "ice,\" at the end of clause (1) thereof; and"
+  },
+  {
+   "role": "body",
+   "text": "(3) by striking out \", and (3) has served as a congressional"
+  },
+  {
+   "role": "body",
+   "text": "employee during the last eleven months of his civilian service\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 7. Notwithstanding any other provision of law, annuity bene-"
+  },
+  {
+   "role": "sidenote",
+   "text": "70 Stat. 743."
+  },
+  {
+   "role": "sidenote",
+   "text": "5 USC 2251 note."
+  },
+  {
+   "role": "body",
+   "text": "fits under the Civil Service Retirement Act, as amended, resulting"
+  },
+  {
+   "role": "body",
+   "text": "from the operation of this Act shall be paid from the civil service"
+  },
+  {
+   "role": "body",
+   "text": "retirement and disability fund."
+  },
+  {
+   "role": "body",
+   "text": "Approved October 4, 1961."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 87-351"
+  },
+  {
+   "role": "sidenote",
+   "text": "October 4, 1961"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 302]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "body",
+   "text": "To amend the Act of June 22, 1948, as amended, relating to certain areas within"
+  },
+  {
+   "role": "body",
+   "text": "the Superior National Forest, in the State of Minnesota, and for other"
+  },
+  {
+   "role": "body",
+   "text": "purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Superior National"
+  },
+  {
+   "role": "sidenote",
+   "text": "Forest, Minn."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Act of June"
+  },
+  {
+   "role": "body",
+   "text": "22, 1948, as amended (16 U.S.C. 577c–577h) is amended by deleting the"
+  },
+  {
+   "role": "body",
+   "text": "proviso from section 1 (16 U.S.C. 577c) and by changing the figure"
+  },
+  {
+   "role": "sidenote",
+   "text": "62 Stat. 568; 70"
+  },
+  {
+   "role": "sidenote",
+   "text": "Stat. 328."
+  },
+  {
+   "role": "body",
+   "text": "in section 6 (16 U.S.C 577h) thereof to read $4,500,000.   Funds appro-"
+  },
+  {
+   "role": "body",
+   "text": "priated to carry out the purposes of the Act shall remain available until"
+  },
+  {
+   "role": "body",
+   "text": "expended."
+  },
+  {
+   "role": "body",
+   "text": "Approved October 4, 1961."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 87-352"
+  },
+  {
+   "role": "sidenote",
+   "text": "October 4, 1961"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 2102]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "body",
+   "text": "To redesignate the Jefferson Division of the Eastern District of Texas as the"
+  },
+  {
+   "role": "body",
+   "text": "Marshall Division."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "District courts."
+  },
+  {
+   "role": "sidenote",
+   "text": "Marshall Divi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "sion, Tex."
+  },
+  {
+   "role": "sidenote",
+   "text": "62 Stat. 892."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That section 124"
+  },
+  {
+   "role": "body",
+   "text": "(c) (5) of title 28, United States Code, is amended to read as follows:"
+  },
+  {
+   "role": "body",
+   "text": "\"(5) The Marshall Division comprises the counties of Camp,"
+  },
+  {
+   "role": "body",
+   "text": "Cass, Harrison, Hopkins, Marion, Morris, and Upshur."
+  },
+  {
+   "role": "body",
+   "text": "\"Court for the Marshall Division shall be held at Marshall.\""
+  },
+  {
+   "role": "body",
+   "text": "Approved October 4, 1961."
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 21515,
+  "output_tokens": 4140,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.21223,
+ "seconds": 203.4,
+ "created": "2026-09-08T12:05:54"
+}

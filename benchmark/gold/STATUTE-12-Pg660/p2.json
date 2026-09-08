@@ -1,0 +1,1386 @@
+{
+ "granule_id": "STATUTE-12-Pg660",
+ "package_id": "STATUTE-12",
+ "volume": 12,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to divide the State of Michigan into two Judicial Districts, and to provide for holding the District and Circuit Courts therein.",
+ "date_issued": "1863-02-24",
+ "pdf_page": 2,
+ "pdf_pages": 3,
+ "stat_page": "661",
+ "image": "data/gold/STATUTE-12-Pg660/p2.png",
+ "image_sha256": "f476ec82a5bbb8cbfa4e2f72ff701504363a08a59c67bb0dd3c085dc21251e38",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 54.  1863."
+    },
+    {
+     "role": "page-number",
+     "text": "661"
+    },
+    {
+     "role": "sidenote",
+     "text": "Eastern district."
+    },
+    {
+     "role": "body",
+     "text": "said district shall be held.  The eastern district shall embrace all the"
+    },
+    {
+     "role": "body",
+     "text": "other territory of the State of Michigan and all other waters of said State"
+    },
+    {
+     "role": "body",
+     "text": "not embraced within the foregoing boundaries of said western district."
+    },
+    {
+     "role": "sidenote",
+     "text": "Place of hold-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing courts."
+    },
+    {
+     "role": "body",
+     "text": "The judicial centre of said eastern district shall be at Detroit, in the county"
+    },
+    {
+     "role": "body",
+     "text": "of Wayne, where the courts of said district shall be held."
+    },
+    {
+     "role": "sidenote",
+     "text": "Terms of courts."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That there shall be two terms of the"
+    },
+    {
+     "role": "body",
+     "text": "circuit and district courts begun and held in each of said districts, to wit :"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 657."
+    },
+    {
+     "role": "body",
+     "text": "At the city of Detroit, for the eastern district, on the first Tuesday in"
+    },
+    {
+     "role": "body",
+     "text": "June, November, and March in each year ; and at the city of Grand Rap-"
+    },
+    {
+     "role": "body",
+     "text": "ids, for the western district, on the third Monday of May and third Mon-"
+    },
+    {
+     "role": "body",
+     "text": "day of October in each year.   And the said courts are hereby authorized"
+    },
+    {
+     "role": "body",
+     "text": "to hold adjourned terms when the business before the courts shall, in the"
+    },
+    {
+     "role": "body",
+     "text": "opinion of the court, require it."
+    },
+    {
+     "role": "sidenote",
+     "text": "Provision for"
+    },
+    {
+     "role": "sidenote",
+     "text": "pending suits and"
+    },
+    {
+     "role": "sidenote",
+     "text": "process."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That all suits and other proceedings,"
+    },
+    {
+     "role": "body",
+     "text": "of whatever name or nature, now pending in the circuit or district courts"
+    },
+    {
+     "role": "body",
+     "text": "of the United States for the district of Michigan, shall be tried and dis-"
+    },
+    {
+     "role": "body",
+     "text": "posed of in the circuit and district courts, respectively, for the eastern dis-"
+    },
+    {
+     "role": "body",
+     "text": "trict of Michigan, in the same manner as the same would have been in"
+    },
+    {
+     "role": "body",
+     "text": "case said State had not been divided into two districts ; and for that pur-"
+    },
+    {
+     "role": "body",
+     "text": "pose the jurisdiction is reserved to said courts in the eastern district ; and"
+    },
+    {
+     "role": "body",
+     "text": "the clerk of the circuit and district courts for the present district of Michi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Records and"
+    },
+    {
+     "role": "sidenote",
+     "text": "files."
+    },
+    {
+     "role": "body",
+     "text": "gan shall remove the records and files of the said circuit and district courts"
+    },
+    {
+     "role": "body",
+     "text": "to the city of Detroit, and do and perform all the duties appertaining to"
+    },
+    {
+     "role": "body",
+     "text": "his office within the eastern district ; and all process and other proceedings"
+    },
+    {
+     "role": "body",
+     "text": "taken or issued, or made returnable to the circuit or district court for the"
+    },
+    {
+     "role": "body",
+     "text": "present district of Michigan, shall be returnable at the next term of the"
+    },
+    {
+     "role": "body",
+     "text": "said courts, respectively, in the eastern district of Michigan."
+    },
+    {
+     "role": "sidenote",
+     "text": "Suits pending"
+    },
+    {
+     "role": "sidenote",
+     "text": "may be removed"
+    },
+    {
+     "role": "sidenote",
+     "text": "to western dis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "trict."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That, upon the application of any"
+    },
+    {
+     "role": "body",
+     "text": "party to any suit now pending which would have been commenced in the"
+    },
+    {
+     "role": "body",
+     "text": "western district if this act had been in force before the commencement of"
+    },
+    {
+     "role": "body",
+     "text": "said suit, the proper court may, and, if all parties consent, shall, order"
+    },
+    {
+     "role": "body",
+     "text": "that the same be removed for further proceedings to the proper court for"
+    },
+    {
+     "role": "body",
+     "text": "the western district ; and thereupon the clerk shall transmit all the pa-"
+    },
+    {
+     "role": "body",
+     "text": "pers in the cause, with a transcript of the order of the removal, to the"
+    },
+    {
+     "role": "body",
+     "text": "clerk of the court to which the said suit shall be removed ; and all fur-"
+    },
+    {
+     "role": "body",
+     "text": "ther proceedings shall be had in said court as if the suit had been origi-"
+    },
+    {
+     "role": "body",
+     "text": "nally commenced therein."
+    },
+    {
+     "role": "sidenote",
+     "text": "Present judge"
+    },
+    {
+     "role": "sidenote",
+     "text": "to hold courts in"
+    },
+    {
+     "role": "sidenote",
+     "text": "eastern district."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That the present judge of the district"
+    },
+    {
+     "role": "body",
+     "text": "of Michigan be, and he is hereby, assigned to hold said courts in the eastern"
+    },
+    {
+     "role": "body",
+     "text": "district of Michigan, and shall exercise the same jurisdiction and perform"
+    },
+    {
+     "role": "body",
+     "text": "the same duties within said district as he now exercises and performs"
+    },
+    {
+     "role": "body",
+     "text": "within his present district."
+    },
+    {
+     "role": "sidenote",
+     "text": "Final process,"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c., returnable to"
+    },
+    {
+     "role": "sidenote",
+     "text": "eastern district."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. And be it further enacted, That final process upon any judg-"
+    },
+    {
+     "role": "body",
+     "text": "ment or decree entered in the circuit or district court of the United States"
+    },
+    {
+     "role": "body",
+     "text": "for the district of Michigan, and all other process for the enforcement of"
+    },
+    {
+     "role": "body",
+     "text": "any order of said courts, respectively, in any cause now pending therein,"
+    },
+    {
+     "role": "body",
+     "text": "except causes removed as hereinbefore provided, shall be issued from and"
+    },
+    {
+     "role": "body",
+     "text": "made returnable to the proper court for the eastern district of Michigan,"
+    },
+    {
+     "role": "body",
+     "text": "and may run and be executed by the marshal of said eastern district in"
+    },
+    {
+     "role": "body",
+     "text": "any part of said State."
+    },
+    {
+     "role": "sidenote",
+     "text": "Judge to be ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "pointed for west-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ern district."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. And be it further enacted, That there be appointed a district"
+    },
+    {
+     "role": "body",
+     "text": "judge for the said western district of Michigan, who shall possess the same"
+    },
+    {
+     "role": "body",
+     "text": "powers and do and perform all such duties in his district as are now"
+    },
+    {
+     "role": "body",
+     "text": "enjoined or in any wise appertaining to the present district judge for the"
+    },
+    {
+     "role": "body",
+     "text": "district of Michigan ; and the district judge of each district shall be en-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay."
+    },
+    {
+     "role": "body",
+     "text": "titled to the same compensation as by law is provided for the present judge"
+    },
+    {
+     "role": "body",
+     "text": "for the district of Michigan."
+    },
+    {
+     "role": "sidenote",
+     "text": "District attorney"
+    },
+    {
+     "role": "sidenote",
+     "text": "and marshal."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 8. And be it further enacted, That there be appointed one person"
+    },
+    {
+     "role": "body",
+     "text": "as district attorney, and one person as marshal for said western district,"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2470,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08862,
+   "seconds": 31.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 54.  1863."
+    },
+    {
+     "role": "page-number",
+     "text": "661"
+    },
+    {
+     "role": "body",
+     "text": "said district shall be held.  The eastern district shall embrace all the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Eastern district."
+    },
+    {
+     "role": "body",
+     "text": "other territory of the State of Michigan and all other waters of said State"
+    },
+    {
+     "role": "body",
+     "text": "not embraced within the foregoing boundaries of said western district."
+    },
+    {
+     "role": "body",
+     "text": "The judicial centre of said eastern district shall be at Detroit, in the county"
+    },
+    {
+     "role": "sidenote",
+     "text": "Place of hold-"
+    },
+    {
+     "role": "body",
+     "text": "of Wayne, where the courts of said district shall be held."
+    },
+    {
+     "role": "sidenote",
+     "text": "ing courts."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That there shall be two terms of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Terms of courts."
+    },
+    {
+     "role": "body",
+     "text": "circuit and district courts begun and held in each of said districts, to wit :"
+    },
+    {
+     "role": "body",
+     "text": "At the city of Detroit, for the eastern district, on the first Tuesday in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 657."
+    },
+    {
+     "role": "body",
+     "text": "June, November, and March in each year ; and at the city of Grand Rap-"
+    },
+    {
+     "role": "body",
+     "text": "ids, for the western district, on the third Monday of May and third Mon-"
+    },
+    {
+     "role": "body",
+     "text": "day of October in each year.  And the said courts are hereby authorized"
+    },
+    {
+     "role": "body",
+     "text": "to hold adjourned terms when the business before the courts shall, in the"
+    },
+    {
+     "role": "body",
+     "text": "opinion of the court, require it."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That all suits and other proceedings,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Provision for"
+    },
+    {
+     "role": "body",
+     "text": "of whatever name or nature, now pending in the circuit or district courts"
+    },
+    {
+     "role": "sidenote",
+     "text": "pending suits and"
+    },
+    {
+     "role": "body",
+     "text": "of the United States for the district of Michigan, shall be tried and dis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "process."
+    },
+    {
+     "role": "body",
+     "text": "posed of in the circuit and district courts, respectively, for the eastern dis-"
+    },
+    {
+     "role": "body",
+     "text": "trict of Michigan, in the same manner as the same would have been in"
+    },
+    {
+     "role": "body",
+     "text": "case said State had not been divided into two districts ; and for that pur-"
+    },
+    {
+     "role": "body",
+     "text": "pose the jurisdiction is reserved to said courts in the eastern district ; and"
+    },
+    {
+     "role": "body",
+     "text": "the clerk of the circuit and district courts for the present district of Michi-"
+    },
+    {
+     "role": "body",
+     "text": "gan shall remove the records and files of the said circuit and district courts"
+    },
+    {
+     "role": "sidenote",
+     "text": "Records and"
+    },
+    {
+     "role": "body",
+     "text": "to the city of Detroit, and do and perform all the duties appertaining to"
+    },
+    {
+     "role": "sidenote",
+     "text": "files."
+    },
+    {
+     "role": "body",
+     "text": "his office within the eastern district ; and all process and other proceedings"
+    },
+    {
+     "role": "body",
+     "text": "taken or issued, or made returnable to the circuit or district court for the"
+    },
+    {
+     "role": "body",
+     "text": "present district of Michigan, shall be returnable at the next term of the"
+    },
+    {
+     "role": "body",
+     "text": "said courts, respectively, in the eastern district of Michigan."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That, upon the application of any"
+    },
+    {
+     "role": "sidenote",
+     "text": "Suits pending"
+    },
+    {
+     "role": "body",
+     "text": "party to any suit now pending which would have been commenced in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "may be removed"
+    },
+    {
+     "role": "body",
+     "text": "western district if this act had been in force before the commencement of"
+    },
+    {
+     "role": "sidenote",
+     "text": "to western dis-"
+    },
+    {
+     "role": "sidenote",
+     "text": "trict."
+    },
+    {
+     "role": "body",
+     "text": "said suit, the proper court may, and, if all parties consent, shall, order"
+    },
+    {
+     "role": "body",
+     "text": "that the same be removed for further proceedings to the proper court for"
+    },
+    {
+     "role": "body",
+     "text": "the western district ; and thereupon the clerk shall transmit all the pa-"
+    },
+    {
+     "role": "body",
+     "text": "pers in the cause, with a transcript of the order of the removal, to the"
+    },
+    {
+     "role": "body",
+     "text": "clerk of the court to which the said suit shall be removed ; and all fur-"
+    },
+    {
+     "role": "body",
+     "text": "ther proceedings shall be had in said court as if the suit had been origi-"
+    },
+    {
+     "role": "body",
+     "text": "nally commenced therein."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That the present judge of the district"
+    },
+    {
+     "role": "sidenote",
+     "text": "Present judge"
+    },
+    {
+     "role": "body",
+     "text": "of Michigan be, and he is hereby, assigned to hold said courts in the eastern"
+    },
+    {
+     "role": "sidenote",
+     "text": "to hold courts in"
+    },
+    {
+     "role": "body",
+     "text": "district of Michigan, and shall exercise the same jurisdiction and perform"
+    },
+    {
+     "role": "sidenote",
+     "text": "eastern district."
+    },
+    {
+     "role": "body",
+     "text": "the same duties within said district as he now exercises and performs"
+    },
+    {
+     "role": "body",
+     "text": "within his present district."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. And be it further enacted, That final process upon any judg-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Final process,"
+    },
+    {
+     "role": "body",
+     "text": "ment or decree entered in the circuit or district court of the United States"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c., returnable to"
+    },
+    {
+     "role": "body",
+     "text": "for the district of Michigan, and all other process for the enforcement of"
+    },
+    {
+     "role": "sidenote",
+     "text": "eastern district."
+    },
+    {
+     "role": "body",
+     "text": "any order of said courts, respectively, in any cause now pending therein,"
+    },
+    {
+     "role": "body",
+     "text": "except causes removed as hereinbefore provided, shall be issued from and"
+    },
+    {
+     "role": "body",
+     "text": "made returnable to the proper court for the eastern district of Michigan,"
+    },
+    {
+     "role": "body",
+     "text": "and may run and be executed by the marshal of said eastern district in"
+    },
+    {
+     "role": "body",
+     "text": "any part of said State."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. And be it further enacted, That there be appointed a district"
+    },
+    {
+     "role": "sidenote",
+     "text": "Judge to be ap-"
+    },
+    {
+     "role": "body",
+     "text": "judge for the said western district of Michigan, who shall possess the same"
+    },
+    {
+     "role": "sidenote",
+     "text": "pointed for west-"
+    },
+    {
+     "role": "body",
+     "text": "powers and do and perform all such duties in his district as are now"
+    },
+    {
+     "role": "sidenote",
+     "text": "ern district."
+    },
+    {
+     "role": "body",
+     "text": "enjoined or in any wise appertaining to the present district judge for the"
+    },
+    {
+     "role": "body",
+     "text": "district of Michigan ; and the district judge of each district shall be en-"
+    },
+    {
+     "role": "body",
+     "text": "titled to the same compensation as by law is provided for the present judge"
+    },
+    {
+     "role": "sidenote",
+     "text": "Pay."
+    },
+    {
+     "role": "body",
+     "text": "for the district of Michigan."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 8. And be it further enacted, That there be appointed one person"
+    },
+    {
+     "role": "sidenote",
+     "text": "District attorney"
+    },
+    {
+     "role": "body",
+     "text": "as district attorney, and one person as marshal for said western district,"
+    },
+    {
+     "role": "sidenote",
+     "text": "and marshal."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2470,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08862,
+   "seconds": 31.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13958,
+   "output_tokens": 3380,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.15471,
+  "seconds": 37.7,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "said district shall be held.  The eastern district shall embrace all the",
+    "kept": "said district shall be held.  The eastern district shall embrace all the",
+    "reason": "Body line is printed at the left, level with the sidenote 'Eastern district.'; reading order takes the body line first."
+   },
+   {
+    "run": 2,
+    "a": "said district shall be held.  The eastern district shall embrace all the",
+    "b": "",
+    "kept": "",
+    "reason": "This body line is already placed in run 1; nothing further printed here."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "The judicial centre of said eastern district shall be at Detroit, in the county",
+    "kept": "The judicial centre of said eastern district shall be at Detroit, in the county",
+    "reason": "This body line is level with sidenote 'Place of hold-', so it precedes it in reading order."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "of Wayne, where the courts of said district shall be held.",
+    "kept": "of Wayne, where the courts of said district shall be held.",
+    "reason": "Printed level with sidenote 'ing courts.'; body line comes first."
+   },
+   {
+    "run": 5,
+    "a": "The judicial centre of said eastern district shall be at Detroit, in the county\nof Wayne, where the courts of said district shall be held.",
+    "b": "SEC. 2. And be it further enacted, That there shall be two terms of the",
+    "kept": "SEC. 2. And be it further enacted, That there shall be two terms of the",
+    "reason": "After 'ing courts.' the next printed line is the Sec. 2 body line, level with 'Terms of courts.'"
+   },
+   {
+    "run": 6,
+    "a": "SEC. 2. And be it further enacted, That there shall be two terms of the",
+    "b": "",
+    "kept": "",
+    "reason": "The Sec. 2 line is already placed in run 5."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "At the city of Detroit, for the eastern district, on the first Tuesday in",
+    "kept": "At the city of Detroit, for the eastern district, on the first Tuesday in",
+    "reason": "This body line is level with the sidenote 'Ante, p. 657.' and precedes it."
+   },
+   {
+    "run": 8,
+    "a": "At the city of Detroit, for the eastern district, on the first Tuesday in",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 7."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "SEC. 3. And be it further enacted, That all suits and other proceedings,",
+    "kept": "SEC. 3. And be it further enacted, That all suits and other proceedings,",
+    "reason": "Body line level with sidenote 'Provision for'; body first."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "of whatever name or nature, now pending in the circuit or district courts",
+    "kept": "of whatever name or nature, now pending in the circuit or district courts",
+    "reason": "Level with 'pending suits and'; body line printed before that sidenote line."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "of the United States for the district of Michigan, shall be tried and dis-",
+    "kept": "of the United States for the district of Michigan, shall be tried and dis-",
+    "reason": "Level with sidenote 'process.'; body line comes first."
+   },
+   {
+    "run": 12,
+    "a": "SEC. 3. And be it further enacted, That all suits and other proceedings,\nof whatever name or nature, now pending in the circuit or district courts\nof the United States for the district of Michigan, shall be tried and dis-",
+    "b": "",
+    "kept": "",
+    "reason": "These three body lines are already placed in runs 9-11."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "gan shall remove the records and files of the said circuit and district courts",
+    "kept": "gan shall remove the records and files of the said circuit and district courts",
+    "reason": "Level with sidenote 'Records and'; body line first."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "to the city of Detroit, and do and perform all the duties appertaining to",
+    "kept": "to the city of Detroit, and do and perform all the duties appertaining to",
+    "reason": "Level with sidenote 'files.'; body line first."
+   },
+   {
+    "run": 15,
+    "a": "gan shall remove the records and files of the said circuit and district courts\nto the city of Detroit, and do and perform all the duties appertaining to",
+    "b": "",
+    "kept": "",
+    "reason": "Both lines already placed in runs 13-14."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "SEC. 4. And be it further enacted, That, upon the application of any",
+    "kept": "SEC. 4. And be it further enacted, That, upon the application of any",
+    "reason": "Level with sidenote 'Suits pending'; body line first."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "party to any suit now pending which would have been commenced in the",
+    "kept": "party to any suit now pending which would have been commenced in the",
+    "reason": "Level with 'may be removed'; body line first."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "western district if this act had been in force before the commencement of",
+    "kept": "western district if this act had been in force before the commencement of",
+    "reason": "Level with 'to western dis-'; body line first."
+   },
+   {
+    "run": 19,
+    "a": "SEC. 4. And be it further enacted, That, upon the application of any\nparty to any suit now pending which would have been commenced in the\nwestern district if this act had been in force before the commencement of",
+    "b": "",
+    "kept": "",
+    "reason": "These body lines are already placed in runs 16-18."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "SEC. 5. And be it further enacted, That the present judge of the district",
+    "kept": "SEC. 5. And be it further enacted, That the present judge of the district",
+    "reason": "Level with sidenote 'Present judge'; body line first."
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "of Michigan be, and he is hereby, assigned to hold said courts in the eastern",
+    "kept": "of Michigan be, and he is hereby, assigned to hold said courts in the eastern",
+    "reason": "Level with 'to hold courts in'; body line first."
+   },
+   {
+    "run": 22,
+    "a": "",
+    "b": "district of Michigan, and shall exercise the same jurisdiction and perform",
+    "kept": "district of Michigan, and shall exercise the same jurisdiction and perform",
+    "reason": "Level with 'eastern district.'; body line first."
+   },
+   {
+    "run": 23,
+    "a": "SEC. 5. And be it further enacted, That the present judge of the district\nof Michigan be, and he is hereby, assigned to hold said courts in the eastern\ndistrict of Michigan, and shall exercise the same jurisdiction and perform",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed in runs 20-22."
+   },
+   {
+    "run": 24,
+    "a": "",
+    "b": "SEC. 6. And be it further enacted, That final process upon any judg-",
+    "kept": "SEC. 6. And be it further enacted, That final process upon any judg-",
+    "reason": "Level with sidenote 'Final process,'; body line first."
+   },
+   {
+    "run": 25,
+    "a": "",
+    "b": "ment or decree entered in the circuit or district court of the United States",
+    "kept": "ment or decree entered in the circuit or district court of the United States",
+    "reason": "Level with '&c., returnable to'; body line first."
+   },
+   {
+    "run": 26,
+    "a": "",
+    "b": "for the district of Michigan, and all other process for the enforcement of",
+    "kept": "for the district of Michigan, and all other process for the enforcement of",
+    "reason": "Level with 'eastern district.'; body line first."
+   },
+   {
+    "run": 27,
+    "a": "SEC. 6. And be it further enacted, That final process upon any judg-\nment or decree entered in the circuit or district court of the United States\nfor the district of Michigan, and all other process for the enforcement of",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed in runs 24-26."
+   },
+   {
+    "run": 28,
+    "a": "",
+    "b": "SEC. 7. And be it further enacted, That there be appointed a district",
+    "kept": "SEC. 7. And be it further enacted, That there be appointed a district",
+    "reason": "Level with sidenote 'Judge to be ap-'; body line first."
+   },
+   {
+    "run": 29,
+    "a": "",
+    "b": "judge for the said western district of Michigan, who shall possess the same",
+    "kept": "judge for the said western district of Michigan, who shall possess the same",
+    "reason": "Level with 'pointed for west-'; body line first."
+   },
+   {
+    "run": 30,
+    "a": "",
+    "b": "powers and do and perform all such duties in his district as are now",
+    "kept": "powers and do and perform all such duties in his district as are now",
+    "reason": "Level with 'ern district.'; body line first."
+   },
+   {
+    "run": 31,
+    "a": "SEC. 7. And be it further enacted, That there be appointed a district\njudge for the said western district of Michigan, who shall possess the same\npowers and do and perform all such duties in his district as are now",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed in runs 28-30."
+   },
+   {
+    "run": 32,
+    "a": "",
+    "b": "titled to the same compensation as by law is provided for the present judge",
+    "kept": "titled to the same compensation as by law is provided for the present judge",
+    "reason": "Level with sidenote 'Pay.'; body line first."
+   },
+   {
+    "run": 33,
+    "a": "titled to the same compensation as by law is provided for the present judge",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed in run 32."
+   },
+   {
+    "run": 34,
+    "a": "",
+    "b": "SEC. 8. And be it further enacted, That there be appointed one person",
+    "kept": "SEC. 8. And be it further enacted, That there be appointed one person",
+    "reason": "Level with sidenote 'District attorney'; body line first."
+   },
+   {
+    "run": 35,
+    "a": "",
+    "b": "as district attorney, and one person as marshal for said western district,",
+    "kept": "as district attorney, and one person as marshal for said western district,",
+    "reason": "Level with sidenote 'and marshal.'; body line first."
+   },
+   {
+    "run": 36,
+    "a": "SEC. 8. And be it further enacted, That there be appointed one person\nas district attorney, and one person as marshal for said western district,",
+    "b": "",
+    "kept": "",
+    "reason": "Already placed in runs 34-35."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 54.  1863."
+  },
+  {
+   "role": "page-number",
+   "text": "661"
+  },
+  {
+   "role": "body",
+   "text": "said district shall be held.  The eastern district shall embrace all the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Eastern district."
+  },
+  {
+   "role": "body",
+   "text": "other territory of the State of Michigan and all other waters of said State"
+  },
+  {
+   "role": "body",
+   "text": "not embraced within the foregoing boundaries of said western district."
+  },
+  {
+   "role": "body",
+   "text": "The judicial centre of said eastern district shall be at Detroit, in the county"
+  },
+  {
+   "role": "sidenote",
+   "text": "Place of hold-"
+  },
+  {
+   "role": "body",
+   "text": "of Wayne, where the courts of said district shall be held."
+  },
+  {
+   "role": "sidenote",
+   "text": "ing courts."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That there shall be two terms of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Terms of courts."
+  },
+  {
+   "role": "body",
+   "text": "circuit and district courts begun and held in each of said districts, to wit :"
+  },
+  {
+   "role": "body",
+   "text": "At the city of Detroit, for the eastern district, on the first Tuesday in"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 657."
+  },
+  {
+   "role": "body",
+   "text": "June, November, and March in each year ; and at the city of Grand Rap-"
+  },
+  {
+   "role": "body",
+   "text": "ids, for the western district, on the third Monday of May and third Mon-"
+  },
+  {
+   "role": "body",
+   "text": "day of October in each year.   And the said courts are hereby authorized"
+  },
+  {
+   "role": "body",
+   "text": "to hold adjourned terms when the business before the courts shall, in the"
+  },
+  {
+   "role": "body",
+   "text": "opinion of the court, require it."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That all suits and other proceedings,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Provision for"
+  },
+  {
+   "role": "body",
+   "text": "of whatever name or nature, now pending in the circuit or district courts"
+  },
+  {
+   "role": "sidenote",
+   "text": "pending suits and"
+  },
+  {
+   "role": "body",
+   "text": "of the United States for the district of Michigan, shall be tried and dis-"
+  },
+  {
+   "role": "sidenote",
+   "text": "process."
+  },
+  {
+   "role": "body",
+   "text": "posed of in the circuit and district courts, respectively, for the eastern dis-"
+  },
+  {
+   "role": "body",
+   "text": "trict of Michigan, in the same manner as the same would have been in"
+  },
+  {
+   "role": "body",
+   "text": "case said State had not been divided into two districts ; and for that pur-"
+  },
+  {
+   "role": "body",
+   "text": "pose the jurisdiction is reserved to said courts in the eastern district ; and"
+  },
+  {
+   "role": "body",
+   "text": "the clerk of the circuit and district courts for the present district of Michi-"
+  },
+  {
+   "role": "body",
+   "text": "gan shall remove the records and files of the said circuit and district courts"
+  },
+  {
+   "role": "sidenote",
+   "text": "Records and"
+  },
+  {
+   "role": "body",
+   "text": "to the city of Detroit, and do and perform all the duties appertaining to"
+  },
+  {
+   "role": "sidenote",
+   "text": "files."
+  },
+  {
+   "role": "body",
+   "text": "his office within the eastern district ; and all process and other proceedings"
+  },
+  {
+   "role": "body",
+   "text": "taken or issued, or made returnable to the circuit or district court for the"
+  },
+  {
+   "role": "body",
+   "text": "present district of Michigan, shall be returnable at the next term of the"
+  },
+  {
+   "role": "body",
+   "text": "said courts, respectively, in the eastern district of Michigan."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. And be it further enacted, That, upon the application of any"
+  },
+  {
+   "role": "sidenote",
+   "text": "Suits pending"
+  },
+  {
+   "role": "body",
+   "text": "party to any suit now pending which would have been commenced in the"
+  },
+  {
+   "role": "sidenote",
+   "text": "may be removed"
+  },
+  {
+   "role": "body",
+   "text": "western district if this act had been in force before the commencement of"
+  },
+  {
+   "role": "sidenote",
+   "text": "to western dis-"
+  },
+  {
+   "role": "sidenote",
+   "text": "trict."
+  },
+  {
+   "role": "body",
+   "text": "said suit, the proper court may, and, if all parties consent, shall, order"
+  },
+  {
+   "role": "body",
+   "text": "that the same be removed for further proceedings to the proper court for"
+  },
+  {
+   "role": "body",
+   "text": "the western district ; and thereupon the clerk shall transmit all the pa-"
+  },
+  {
+   "role": "body",
+   "text": "pers in the cause, with a transcript of the order of the removal, to the"
+  },
+  {
+   "role": "body",
+   "text": "clerk of the court to which the said suit shall be removed ; and all fur-"
+  },
+  {
+   "role": "body",
+   "text": "ther proceedings shall be had in said court as if the suit had been origi-"
+  },
+  {
+   "role": "body",
+   "text": "nally commenced therein."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. And be it further enacted, That the present judge of the district"
+  },
+  {
+   "role": "sidenote",
+   "text": "Present judge"
+  },
+  {
+   "role": "body",
+   "text": "of Michigan be, and he is hereby, assigned to hold said courts in the eastern"
+  },
+  {
+   "role": "sidenote",
+   "text": "to hold courts in"
+  },
+  {
+   "role": "body",
+   "text": "district of Michigan, and shall exercise the same jurisdiction and perform"
+  },
+  {
+   "role": "sidenote",
+   "text": "eastern district."
+  },
+  {
+   "role": "body",
+   "text": "the same duties within said district as he now exercises and performs"
+  },
+  {
+   "role": "body",
+   "text": "within his present district."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 6. And be it further enacted, That final process upon any judg-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Final process,"
+  },
+  {
+   "role": "body",
+   "text": "ment or decree entered in the circuit or district court of the United States"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c., returnable to"
+  },
+  {
+   "role": "body",
+   "text": "for the district of Michigan, and all other process for the enforcement of"
+  },
+  {
+   "role": "sidenote",
+   "text": "eastern district."
+  },
+  {
+   "role": "body",
+   "text": "any order of said courts, respectively, in any cause now pending therein,"
+  },
+  {
+   "role": "body",
+   "text": "except causes removed as hereinbefore provided, shall be issued from and"
+  },
+  {
+   "role": "body",
+   "text": "made returnable to the proper court for the eastern district of Michigan,"
+  },
+  {
+   "role": "body",
+   "text": "and may run and be executed by the marshal of said eastern district in"
+  },
+  {
+   "role": "body",
+   "text": "any part of said State."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 7. And be it further enacted, That there be appointed a district"
+  },
+  {
+   "role": "sidenote",
+   "text": "Judge to be ap-"
+  },
+  {
+   "role": "body",
+   "text": "judge for the said western district of Michigan, who shall possess the same"
+  },
+  {
+   "role": "sidenote",
+   "text": "pointed for west-"
+  },
+  {
+   "role": "body",
+   "text": "powers and do and perform all such duties in his district as are now"
+  },
+  {
+   "role": "sidenote",
+   "text": "ern district."
+  },
+  {
+   "role": "body",
+   "text": "enjoined or in any wise appertaining to the present district judge for the"
+  },
+  {
+   "role": "body",
+   "text": "district of Michigan ; and the district judge of each district shall be en-"
+  },
+  {
+   "role": "body",
+   "text": "titled to the same compensation as by law is provided for the present judge"
+  },
+  {
+   "role": "sidenote",
+   "text": "Pay."
+  },
+  {
+   "role": "body",
+   "text": "for the district of Michigan."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 8. And be it further enacted, That there be appointed one person"
+  },
+  {
+   "role": "sidenote",
+   "text": "District attorney"
+  },
+  {
+   "role": "body",
+   "text": "as district attorney, and one person as marshal for said western district,"
+  },
+  {
+   "role": "sidenote",
+   "text": "and marshal."
+  }
+ ],
+ "disagreement_count": 36,
+ "tokens": {
+  "input_tokens": 24557,
+  "output_tokens": 8320,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.33195,
+ "seconds": 100.0,
+ "created": "2026-09-08T11:59:02"
+}

@@ -9,6 +9,10 @@ era the script picks `--volumes-per-era` volumes at random, fetches their granul
 to the next granule's start page, drops granules longer than `--max-pages`, and samples
 `--per-cell` granules per (era, class). Classes: PUBLICLAW, PRIVATELAW, PROCLAMATION, TREATY,
 HCONRES, SCONRES; a class absent from an era's volumes yields no rows for that cell.
+
+The digital era is restricted to PUBLICLAW and PRIVATELAW (`ERA_CLASSES`): from volume 117 on GovInfo
+groups concurrent resolutions and proclamations differently from the volume USLM, so the splitter has
+no one-to-one reference for the other classes (defect F4 of the 2026-09-07 plan).
 """
 
 from __future__ import annotations
@@ -32,6 +36,15 @@ ERAS = [
     {"name": "digital-2003+", "volumes": [117, 137]},
 ]
 CLASSES = ["PUBLICLAW", "PRIVATELAW", "PROCLAMATION", "TREATY", "HCONRES", "SCONRES"]
+# Classes with a one-to-one ground-truth slice per era; eras absent here allow every class in CLASSES.
+ERA_CLASSES = {"digital-2003+": ["PUBLICLAW", "PRIVATELAW"]}
+
+
+def classes_for_era(era: str, classes: Iterable[str] = CLASSES) -> list[str]:
+    allowed = ERA_CLASSES.get(era)
+    return [c for c in classes if allowed is None or c in allowed]
+
+
 GRANULE_ID = re.compile(r"^STATUTE-(\d+)-Pg([A-Za-z]*)(\d+)(?:-(\d+))?$")
 
 
@@ -101,7 +114,7 @@ def build_sample(listings: dict[int, list[dict]], per_cell: int, max_pages: int,
         est = estimate_pages(granules)
         for g in granules:
             cls = g.get("granuleClass")
-            if cls not in classes or era is None:
+            if era is None or cls not in classes_for_era(era, classes):
                 continue
             pages = est.get(g["granuleId"])
             if pages is None or pages > max_pages:
@@ -113,7 +126,7 @@ def build_sample(listings: dict[int, list[dict]], per_cell: int, max_pages: int,
             })
     sample = []
     for era in [e["name"] for e in ERAS]:
-        for cls in classes:
+        for cls in classes_for_era(era, classes):
             pool = cells.get((era, cls), [])
             pool.sort(key=lambda r: r["granule_id"])
             rng.shuffle(pool)
@@ -122,7 +135,7 @@ def build_sample(listings: dict[int, list[dict]], per_cell: int, max_pages: int,
 
 
 def write_spec(sample: list[dict], path: Path, meta: dict) -> None:
-    spec = {**meta, "eras": ERAS, "classes": CLASSES, "granules": sample}
+    spec = {**meta, "eras": ERAS, "classes": CLASSES, "era_classes": ERA_CLASSES, "granules": sample}
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(yaml.safe_dump(spec, sort_keys=False, allow_unicode=True, width=120), encoding="utf-8")
 

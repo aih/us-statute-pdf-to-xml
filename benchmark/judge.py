@@ -35,12 +35,9 @@ MAX_PDF_BYTES = 30 * 1024 * 1024
 JUDGE_SCHEMA = {
     "type": "object",
     "properties": {
-        "text_score": {"type": "integer", "minimum": 0, "maximum": 100,
-                       "description": "Fidelity of the body text to the PDF: 100 = no missing, added, or misread words."},
-        "structure_score": {"type": "integer", "minimum": 0, "maximum": 100,
-                            "description": "Sections, subsections, paragraphs, headings, and page breaks match the printed law."},
-        "tagging_score": {"type": "integer", "minimum": 0, "maximum": 100,
-                          "description": "USLM element choice and identifier scheme (/us/pl/{congress}/{law}/s{n}/...) are correct."},
+        "text_score": {"type": "integer", "description": "Fidelity of the body text to the PDF, 0 to 100: 100 = no missing, added, or misread words."},
+        "structure_score": {"type": "integer", "description": "0 to 100: sections, subsections, paragraphs, headings, and page breaks match the printed law."},
+        "tagging_score": {"type": "integer", "description": "0 to 100: USLM element choice and identifier scheme (/us/pl/{congress}/{law}/s{n}/...) are correct."},
         "issues": {
             "type": "array",
             "items": {
@@ -187,7 +184,7 @@ class Judge:
         result = JudgeResult(
             model=self.model,
             served_by=served_by,
-            scores={k: int(data[k]) for k in ("text_score", "structure_score", "tagging_score")},
+            scores={k: max(0, min(100, int(data[k]))) for k in ("text_score", "structure_score", "tagging_score")},
             issues=list(data.get("issues", [])),
             summary=data.get("summary", ""),
             input_tokens=usage.input_tokens,

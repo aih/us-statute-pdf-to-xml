@@ -1,0 +1,1271 @@
+{
+ "granule_id": "STATUTE-12-Pg657-3",
+ "package_id": "STATUTE-12",
+ "volume": 12,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to allow the United States to prosecute Appeals and Writs of Error without giving Security.",
+ "date_issued": "1863-02-21",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "658",
+ "image": "data/gold/STATUTE-12-Pg657-3/p2.png",
+ "image_sha256": "8f8e8fa520f5261e6fdfbd9b6f0d1dafad01a29dd8906be41774a319353fb885",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "658    THIRTY-SEVENTH  CONGRESS.  SESS. III.  CH. 51, 52, 53.   1863."
+    },
+    {
+     "role": "body",
+     "text": "fund of the Department under whose direction the proceedings shall have"
+    },
+    {
+     "role": "sidenote",
+     "text": "Repealing clause."
+    },
+    {
+     "role": "body",
+     "text": "been instituted.    All  acts  and  parts  of  acts inconsistent  herewith  are"
+    },
+    {
+     "role": "body",
+     "text": "hereby repealed."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 21, 1863."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 21, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LI. — An Act extending the Time for carrying into Effect the Provisions of the"
+    },
+    {
+     "role": "body",
+     "text": "Third Section of the Act entitled \" An Act relating to Highways in the County of Wash-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1862, ch. 63, § 3."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 383."
+    },
+    {
+     "role": "body",
+     "text": "ington and District of Columbia,\" approved May three, eighteen hundred and sixty-two."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Time extended"
+    },
+    {
+     "role": "sidenote",
+     "text": "to three years."
+    },
+    {
+     "role": "body",
+     "text": "States of America in  Congress assembled, That  the  period  named  in  the"
+    },
+    {
+     "role": "body",
+     "text": "third section of the act entitled \" An act relating to highways in the county"
+    },
+    {
+     "role": "body",
+     "text": "of Washington and District of Columbia,\" approved May three, eighteen"
+    },
+    {
+     "role": "body",
+     "text": "hundred and sixty-two, requiring that the roads designated in said section"
+    },
+    {
+     "role": "body",
+     "text": "shall be surveyed, platted, and recorded within one year from the passage"
+    },
+    {
+     "role": "body",
+     "text": "of  said  act,  be  extended  to  three  years ;  and  the  levy  court  of  said"
+    },
+    {
+     "role": "body",
+     "text": "county of Washington is hereby authorized to cause the survey, platting,"
+    },
+    {
+     "role": "body",
+     "text": "and recording of  such roads, in  each year, as it may deem  proper and"
+    },
+    {
+     "role": "body",
+     "text": "necessary :  Provided, That all of said roads  be  so surveyed, platted, and"
+    },
+    {
+     "role": "body",
+     "text": "recorded within the period of three years."
+    },
+    {
+     "role": "sidenote",
+     "text": "President may"
+    },
+    {
+     "role": "sidenote",
+     "text": "fill vacancies in"
+    },
+    {
+     "role": "sidenote",
+     "text": "levy court."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States be, and he is hereby empowered, by and with the advice and con-"
+    },
+    {
+     "role": "body",
+     "text": "sent of the Senate, to fill any vacancy that may hereafter occur in said"
+    },
+    {
+     "role": "body",
+     "text": "levy court; and all acts or  parts of acts inconsistent with  the above re-"
+    },
+    {
+     "role": "body",
+     "text": "cited act or with this act are hereby repealed."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 21, 1863."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 21, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LII. — An Act to annex a Part of the State of New Jersey to the Collection Dis"
+    },
+    {
+     "role": "body",
+     "text": "trict of New York, and to appoint an Assistant Collector, to reside at Jersey City."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Portions of New"
+    },
+    {
+     "role": "sidenote",
+     "text": "Jersey added to"
+    },
+    {
+     "role": "sidenote",
+     "text": "collection district"
+    },
+    {
+     "role": "sidenote",
+     "text": "of New York."
+    },
+    {
+     "role": "body",
+     "text": "States of America in  Congress assembled, That  all  that  part of  the State"
+    },
+    {
+     "role": "body",
+     "text": "of New Jersey which lies north and east of  Elizabethtown and Staten"
+    },
+    {
+     "role": "body",
+     "text": "Island, comprising the counties of Hudson and Bergen, be, and the same"
+    },
+    {
+     "role": "body",
+     "text": "is hereby, annexed to the collection district of New York ; that an assist-"
+    },
+    {
+     "role": "body",
+     "text": "ant collector, to be  appointed by the President of the United States, shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "Assistant col-"
+    },
+    {
+     "role": "sidenote",
+     "text": "lector at Jersey"
+    },
+    {
+     "role": "sidenote",
+     "text": "city."
+    },
+    {
+     "role": "body",
+     "text": "reside at Jersey City, who shall have power to  enter and clear vessels in"
+    },
+    {
+     "role": "body",
+     "text": "like manner as the collector of  New  York is authorized  by law to do, but"
+    },
+    {
+     "role": "body",
+     "text": "such assistant collector shall, nevertheless, act in conformity to such in-"
+    },
+    {
+     "role": "body",
+     "text": "structions and  regulations  as  he  shall from time to time receive from the"
+    },
+    {
+     "role": "body",
+     "text": "collector of New York ; and  that  the said assistant collector shall receive"
+    },
+    {
+     "role": "sidenote",
+     "text": "Salary."
+    },
+    {
+     "role": "body",
+     "text": "for  his annual salary two thousand dollars in full for all services to be by"
+    },
+    {
+     "role": "body",
+     "text": "him performed, and in lieu of commissions and fees."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 21, 1863."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 21, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LIII. — An Act for the Removal of the Winnebago Indians, and for the Sale of"
+    },
+    {
+     "role": "body",
+     "text": "their Reservation in Minnesota for their Benefit."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "President may"
+    },
+    {
+     "role": "sidenote",
+     "text": "set apart a tract"
+    },
+    {
+     "role": "sidenote",
+     "text": "of land for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Winnebago In-"
+    },
+    {
+     "role": "sidenote",
+     "text": "dians,"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the President of the United"
+    },
+    {
+     "role": "body",
+     "text": "States is authorized to assign to and set apart for the Winnebago Indians a"
+    },
+    {
+     "role": "body",
+     "text": "tract of unoccupied land beyond the limits of any State, in extent at least"
+    },
+    {
+     "role": "body",
+     "text": "equal to their diminished reservation, the same to be well adapted for agri-"
+    },
+    {
+     "role": "body",
+     "text": "cultural  purposes.   And it shall be lawful for the President to take such"
+    },
+    {
+     "role": "sidenote",
+     "text": "and remove"
+    },
+    {
+     "role": "sidenote",
+     "text": "them from Min-"
+    },
+    {
+     "role": "sidenote",
+     "text": "nesota."
+    },
+    {
+     "role": "body",
+     "text": "steps as he may deem proper to effect the peaceful and quiet removal of"
+    },
+    {
+     "role": "body",
+     "text": "the said Indians from the State of Minnesota, and to settle them upon the"
+    },
+    {
+     "role": "body",
+     "text": "lands which may be assigned to them under the provisions of this act."
+    },
+    {
+     "role": "sidenote",
+     "text": "Subdivisions of"
+    },
+    {
+     "role": "sidenote",
+     "text": "present reserva-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion to be ap-"
+    },
+    {
+     "role": "sidenote",
+     "text": "praised."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That, upon the removal of the said"
+    },
+    {
+     "role": "body",
+     "text": "Indians from the reservation where they now reside, it shall be the duty"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2526,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09002,
+   "seconds": 107.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "658    THIRTY-SEVENTH  CONGRESS.  SESS. III.  CH. 51, 52, 53.   1863."
+    },
+    {
+     "role": "body",
+     "text": "fund of the Department under whose direction the proceedings shall have"
+    },
+    {
+     "role": "sidenote",
+     "text": "Repealing clause."
+    },
+    {
+     "role": "body",
+     "text": "been  instituted.    All  acts  and  parts  of  acts  inconsistent  herewith  are"
+    },
+    {
+     "role": "body",
+     "text": "hereby repealed."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 21, 1863."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 21, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LI. — An Act extending the Time for carrying into Effect the Provisions of the"
+    },
+    {
+     "role": "body",
+     "text": "Third Section of the Act entitled “ An Act relating to Highways in the County of Wash-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1862, ch. 63, § 3."
+    },
+    {
+     "role": "body",
+     "text": "ington and District of Columbia,” approved May three, eighteen hundred and sixty-two."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 383."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Time extended"
+    },
+    {
+     "role": "body",
+     "text": "States of America in  Congress assembled, That  the  period  named in  the"
+    },
+    {
+     "role": "sidenote",
+     "text": "to three years."
+    },
+    {
+     "role": "body",
+     "text": "third section of the act entitled “ An act relating to highways in the county"
+    },
+    {
+     "role": "body",
+     "text": "of Washington and District of Columbia,” approved May three, eighteen"
+    },
+    {
+     "role": "body",
+     "text": "hundred and sixty-two, requiring that the roads designated in said section"
+    },
+    {
+     "role": "body",
+     "text": "shall be surveyed, platted, and recorded within one year from the passage"
+    },
+    {
+     "role": "body",
+     "text": "of  said  act,  be  extended  to  three  years ;  and  the  levy  court  of  said"
+    },
+    {
+     "role": "body",
+     "text": "county of Washington is hereby authorized to cause the survey, platting,"
+    },
+    {
+     "role": "body",
+     "text": "and recording of  such roads, in each year, as it may deem  proper and"
+    },
+    {
+     "role": "body",
+     "text": "necessary :  Provided, That all of said roads be  so surveyed, platted, and"
+    },
+    {
+     "role": "body",
+     "text": "recorded within the period of three years."
+    },
+    {
+     "role": "sidenote",
+     "text": "President may"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the President of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "fill vacancies in"
+    },
+    {
+     "role": "body",
+     "text": "States be, and he is hereby empowered, by and with the advice and con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "levy court."
+    },
+    {
+     "role": "body",
+     "text": "sent of the Senate, to fill any vacancy that may hereafter occur in said"
+    },
+    {
+     "role": "body",
+     "text": "levy court; and all acts or parts of acts inconsistent with the above re-"
+    },
+    {
+     "role": "body",
+     "text": "cited act or with this act are hereby repealed."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 21, 1863."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 21, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LII. — An Act to annex a Part of the State of New Jersey to the Collection Dis"
+    },
+    {
+     "role": "body",
+     "text": "trict of New York, and to appoint an Assistant Collector, to reside at Jersey City."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Portions of New"
+    },
+    {
+     "role": "body",
+     "text": "States of America in  Congress assembled, That  all that  part of  the State"
+    },
+    {
+     "role": "sidenote",
+     "text": "Jersey added to"
+    },
+    {
+     "role": "body",
+     "text": "of New Jersey which lies north and east of  Elizabethtown and Staten"
+    },
+    {
+     "role": "sidenote",
+     "text": "collection district"
+    },
+    {
+     "role": "sidenote",
+     "text": "of New York."
+    },
+    {
+     "role": "body",
+     "text": "Island, comprising the counties of Hudson and Bergen, be, and the same"
+    },
+    {
+     "role": "body",
+     "text": "is hereby, annexed to the collection district of New York ; that an assist-"
+    },
+    {
+     "role": "body",
+     "text": "ant collector, to be appointed by the President of the United States, shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "Assistant col-"
+    },
+    {
+     "role": "body",
+     "text": "reside at Jersey City, who shall have power to enter and clear vessels in"
+    },
+    {
+     "role": "sidenote",
+     "text": "lector at Jersey"
+    },
+    {
+     "role": "body",
+     "text": "like manner as the collector of  New York is authorized  by law to do, but"
+    },
+    {
+     "role": "sidenote",
+     "text": "city."
+    },
+    {
+     "role": "body",
+     "text": "such assistant collector shall, nevertheless, act in conformity to such in-"
+    },
+    {
+     "role": "body",
+     "text": "structions and  regulations  as  he  shall from time to time receive from the"
+    },
+    {
+     "role": "body",
+     "text": "collector of New York ; and that the said assistant collector shall receive"
+    },
+    {
+     "role": "sidenote",
+     "text": "Salary."
+    },
+    {
+     "role": "body",
+     "text": "for his annual salary two thousand dollars in full for all services to be by"
+    },
+    {
+     "role": "body",
+     "text": "him performed, and in lieu of commissions and fees."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, February 21, 1863."
+    },
+    {
+     "role": "sidenote",
+     "text": "Feb. 21, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LIII. — An Act for the Removal of the Winnebago Indians, and for the Sale of"
+    },
+    {
+     "role": "body",
+     "text": "their Reservation in Minnesota for their Benefit."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "President may"
+    },
+    {
+     "role": "body",
+     "text": "States of America in  Congress assembled, That the President of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "set apart a tract"
+    },
+    {
+     "role": "body",
+     "text": "States is authorized to assign to and set apart for the Winnebago Indians a"
+    },
+    {
+     "role": "sidenote",
+     "text": "of land for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Winnebago In-"
+    },
+    {
+     "role": "body",
+     "text": "tract of  unoccupied land beyond the limits of  any State, in extent at least"
+    },
+    {
+     "role": "sidenote",
+     "text": "dians,"
+    },
+    {
+     "role": "body",
+     "text": "equal to their diminished reservation, the same to be well adapted for agri-"
+    },
+    {
+     "role": "body",
+     "text": "cultural  purposes.   And it shall be lawful for the President to take such"
+    },
+    {
+     "role": "sidenote",
+     "text": "and remove"
+    },
+    {
+     "role": "body",
+     "text": "steps as he may deem proper to effect the peaceful and quiet removal of"
+    },
+    {
+     "role": "sidenote",
+     "text": "them from Min-"
+    },
+    {
+     "role": "body",
+     "text": "the said Indians from the State of Minnesota, and to settle them upon the"
+    },
+    {
+     "role": "sidenote",
+     "text": "nesota."
+    },
+    {
+     "role": "body",
+     "text": "lands which may be assigned to them under the provisions of this act."
+    },
+    {
+     "role": "sidenote",
+     "text": "Subdivisions of"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That, upon the removal of the said"
+    },
+    {
+     "role": "sidenote",
+     "text": "present reserva-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion to be ap-"
+    },
+    {
+     "role": "body",
+     "text": "Indians from the reservation where they now reside, it shall be the duty"
+    },
+    {
+     "role": "sidenote",
+     "text": "praised."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2517,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08979,
+   "seconds": 99.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13219,
+   "output_tokens": 2131,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.11979,
+  "seconds": 304.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "ington and District of Columbia,” approved May three, eighteen hundred and sixty-two.",
+    "kept": "ington and District of Columbia,” approved May three, eighteen hundred and sixty-two.",
+    "reason": "This body line sits level with the sidenote \"1862, ch. 63, § 3.\" and precedes \"Ante, p. 383.\"; B's interleaved order matches the page."
+   },
+   {
+    "run": 2,
+    "a": "ington and District of Columbia,\" approved May three, eighteen hundred and sixty-two.",
+    "b": "",
+    "kept": "",
+    "reason": "Same line already placed in run 1; A's later placement is a duplicate."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "States of America in  Congress assembled, That  the  period  named in  the",
+    "kept": "States of America in  Congress assembled, That  the  period  named  in  the",
+    "reason": "Body line aligns with sidenote \"Time extended\", before \"to three years.\""
+   },
+   {
+    "run": 4,
+    "a": "States of America in  Congress assembled, That  the  period  named  in  the",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line placed in run 3."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "SEC. 2. And be it further enacted, That the President of the United",
+    "kept": "SEC. 2. And be it further enacted, That the President of the United",
+    "reason": "Line is level with sidenote \"President may\"."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "States be, and he is hereby empowered, by and with the advice and con-",
+    "kept": "States be, and he is hereby empowered, by and with the advice and con-",
+    "reason": "Line is level with sidenote \"fill vacancies in\"."
+   },
+   {
+    "run": 7,
+    "a": "SEC. 2. And be it further enacted, That the President of the United\nStates be, and he is hereby empowered, by and with the advice and con-",
+    "b": "",
+    "kept": "",
+    "reason": "Both lines already placed in runs 5 and 6."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "States of America in  Congress assembled, That  all that  part of  the State",
+    "kept": "States of America in  Congress assembled, That  all  that  part of  the State",
+    "reason": "Line is level with sidenote \"Portions of New\"."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "of New Jersey which lies north and east of  Elizabethtown and Staten",
+    "kept": "of New Jersey which lies north and east of  Elizabethtown and Staten",
+    "reason": "Line is level with sidenote \"Jersey added to\"."
+   },
+   {
+    "run": 10,
+    "a": "States of America in  Congress assembled, That  all  that  part of  the State\nof New Jersey which lies north and east of  Elizabethtown and Staten",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicates of lines placed in runs 8 and 9."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "reside at Jersey City, who shall have power to enter and clear vessels in",
+    "kept": "reside at Jersey City, who shall have power to  enter and clear vessels in",
+    "reason": "Line is level with sidenote \"Assistant col-\"."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "like manner as the collector of  New York is authorized  by law to do, but",
+    "kept": "like manner as the collector of  New  York is authorized  by law to do, but",
+    "reason": "Line is level with sidenote \"lector at Jersey\"."
+   },
+   {
+    "run": 13,
+    "a": "reside at Jersey City, who shall have power to  enter and clear vessels in\nlike manner as the collector of  New  York is authorized  by law to do, but",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicates of lines placed in runs 11 and 12."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "States of America in  Congress assembled, That the President of the United",
+    "kept": "States of America in  Congress assembled, That the President of the United",
+    "reason": "Line is level with sidenote \"President may\"."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "States is authorized to assign to and set apart for the Winnebago Indians a",
+    "kept": "States is authorized to assign to and set apart for the Winnebago Indians a",
+    "reason": "Line is level with sidenote \"set apart a tract\"."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "tract of  unoccupied land beyond the limits of  any State, in extent at least",
+    "kept": "tract of unoccupied land beyond the limits of any State, in extent at least",
+    "reason": "Line is level with sidenote \"Winnebago In-\", after \"of land for the\"."
+   },
+   {
+    "run": 17,
+    "a": "States of America in Congress assembled, That the President of the United\nStates is authorized to assign to and set apart for the Winnebago Indians a\ntract of unoccupied land beyond the limits of any State, in extent at least",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicates of lines placed in runs 14–16."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "steps as he may deem proper to effect the peaceful and quiet removal of",
+    "kept": "steps as he may deem proper to effect the peaceful and quiet removal of",
+    "reason": "Line is level with sidenote \"and remove\"."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "the said Indians from the State of Minnesota, and to settle them upon the",
+    "kept": "the said Indians from the State of Minnesota, and to settle them upon the",
+    "reason": "Line is level with sidenote \"them from Min-\"."
+   },
+   {
+    "run": 20,
+    "a": "steps as he may deem proper to effect the peaceful and quiet removal of\nthe said Indians from the State of Minnesota, and to settle them upon the",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicates of lines placed in runs 18 and 19."
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "SEC. 2. And be it further enacted, That, upon the removal of the said",
+    "kept": "SEC. 2. And be it further enacted, That, upon the removal of the said",
+    "reason": "Line is level with sidenote \"Subdivisions of\"."
+   },
+   {
+    "run": 22,
+    "a": "",
+    "b": "Indians from the reservation where they now reside, it shall be the duty",
+    "kept": "Indians from the reservation where they now reside, it shall be the duty",
+    "reason": "Line is level with sidenote \"tion to be ap-\", before \"praised.\""
+   },
+   {
+    "run": 23,
+    "a": "SEC. 2. And be it further enacted, That, upon the removal of the said\nIndians from the reservation where they now reside, it shall be the duty",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicates of lines placed in runs 21 and 22."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "658    THIRTY-SEVENTH  CONGRESS.  SESS. III.  CH. 51, 52, 53.   1863."
+  },
+  {
+   "role": "body",
+   "text": "fund of the Department under whose direction the proceedings shall have"
+  },
+  {
+   "role": "sidenote",
+   "text": "Repealing clause."
+  },
+  {
+   "role": "body",
+   "text": "been instituted.    All  acts  and  parts  of  acts inconsistent  herewith  are"
+  },
+  {
+   "role": "body",
+   "text": "hereby repealed."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 21, 1863."
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 21, 1863."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LI. — An Act extending the Time for carrying into Effect the Provisions of the"
+  },
+  {
+   "role": "body",
+   "text": "Third Section of the Act entitled \" An Act relating to Highways in the County of Wash-"
+  },
+  {
+   "role": "sidenote",
+   "text": "1862, ch. 63, § 3."
+  },
+  {
+   "role": "body",
+   "text": "ington and District of Columbia,” approved May three, eighteen hundred and sixty-two."
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 383."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Time extended"
+  },
+  {
+   "role": "body",
+   "text": "States of America in  Congress assembled, That  the  period  named  in  the"
+  },
+  {
+   "role": "sidenote",
+   "text": "to three years."
+  },
+  {
+   "role": "body",
+   "text": "third section of the act entitled \" An act relating to highways in the county"
+  },
+  {
+   "role": "body",
+   "text": "of Washington and District of Columbia,\" approved May three, eighteen"
+  },
+  {
+   "role": "body",
+   "text": "hundred and sixty-two, requiring that the roads designated in said section"
+  },
+  {
+   "role": "body",
+   "text": "shall be surveyed, platted, and recorded within one year from the passage"
+  },
+  {
+   "role": "body",
+   "text": "of  said  act,  be  extended  to  three  years ;  and  the  levy  court  of  said"
+  },
+  {
+   "role": "body",
+   "text": "county of Washington is hereby authorized to cause the survey, platting,"
+  },
+  {
+   "role": "body",
+   "text": "and recording of  such roads, in  each year, as it may deem  proper and"
+  },
+  {
+   "role": "body",
+   "text": "necessary :  Provided, That all of said roads  be  so surveyed, platted, and"
+  },
+  {
+   "role": "body",
+   "text": "recorded within the period of three years."
+  },
+  {
+   "role": "sidenote",
+   "text": "President may"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the President of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "fill vacancies in"
+  },
+  {
+   "role": "body",
+   "text": "States be, and he is hereby empowered, by and with the advice and con-"
+  },
+  {
+   "role": "sidenote",
+   "text": "levy court."
+  },
+  {
+   "role": "body",
+   "text": "sent of the Senate, to fill any vacancy that may hereafter occur in said"
+  },
+  {
+   "role": "body",
+   "text": "levy court; and all acts or  parts of acts inconsistent with  the above re-"
+  },
+  {
+   "role": "body",
+   "text": "cited act or with this act are hereby repealed."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 21, 1863."
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 21, 1863."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LII. — An Act to annex a Part of the State of New Jersey to the Collection Dis"
+  },
+  {
+   "role": "body",
+   "text": "trict of New York, and to appoint an Assistant Collector, to reside at Jersey City."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Portions of New"
+  },
+  {
+   "role": "body",
+   "text": "States of America in  Congress assembled, That  all  that  part of  the State"
+  },
+  {
+   "role": "sidenote",
+   "text": "Jersey added to"
+  },
+  {
+   "role": "body",
+   "text": "of New Jersey which lies north and east of  Elizabethtown and Staten"
+  },
+  {
+   "role": "sidenote",
+   "text": "collection district"
+  },
+  {
+   "role": "sidenote",
+   "text": "of New York."
+  },
+  {
+   "role": "body",
+   "text": "Island, comprising the counties of Hudson and Bergen, be, and the same"
+  },
+  {
+   "role": "body",
+   "text": "is hereby, annexed to the collection district of New York ; that an assist-"
+  },
+  {
+   "role": "body",
+   "text": "ant collector, to be  appointed by the President of the United States, shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "Assistant col-"
+  },
+  {
+   "role": "body",
+   "text": "reside at Jersey City, who shall have power to  enter and clear vessels in"
+  },
+  {
+   "role": "sidenote",
+   "text": "lector at Jersey"
+  },
+  {
+   "role": "body",
+   "text": "like manner as the collector of  New  York is authorized  by law to do, but"
+  },
+  {
+   "role": "sidenote",
+   "text": "city."
+  },
+  {
+   "role": "body",
+   "text": "such assistant collector shall, nevertheless, act in conformity to such in-"
+  },
+  {
+   "role": "body",
+   "text": "structions and  regulations  as  he  shall from time to time receive from the"
+  },
+  {
+   "role": "body",
+   "text": "collector of New York ; and  that  the said assistant collector shall receive"
+  },
+  {
+   "role": "sidenote",
+   "text": "Salary."
+  },
+  {
+   "role": "body",
+   "text": "for  his annual salary two thousand dollars in full for all services to be by"
+  },
+  {
+   "role": "body",
+   "text": "him performed, and in lieu of commissions and fees."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, February 21, 1863."
+  },
+  {
+   "role": "sidenote",
+   "text": "Feb. 21, 1863."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LIII. — An Act for the Removal of the Winnebago Indians, and for the Sale of"
+  },
+  {
+   "role": "body",
+   "text": "their Reservation in Minnesota for their Benefit."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "President may"
+  },
+  {
+   "role": "body",
+   "text": "States of America in  Congress assembled, That the President of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "set apart a tract"
+  },
+  {
+   "role": "body",
+   "text": "States is authorized to assign to and set apart for the Winnebago Indians a"
+  },
+  {
+   "role": "sidenote",
+   "text": "of land for the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Winnebago In-"
+  },
+  {
+   "role": "body",
+   "text": "tract of unoccupied land beyond the limits of any State, in extent at least"
+  },
+  {
+   "role": "sidenote",
+   "text": "dians,"
+  },
+  {
+   "role": "body",
+   "text": "equal to their diminished reservation, the same to be well adapted for agri-"
+  },
+  {
+   "role": "body",
+   "text": "cultural  purposes.   And it shall be lawful for the President to take such"
+  },
+  {
+   "role": "sidenote",
+   "text": "and remove"
+  },
+  {
+   "role": "body",
+   "text": "steps as he may deem proper to effect the peaceful and quiet removal of"
+  },
+  {
+   "role": "sidenote",
+   "text": "them from Min-"
+  },
+  {
+   "role": "body",
+   "text": "the said Indians from the State of Minnesota, and to settle them upon the"
+  },
+  {
+   "role": "sidenote",
+   "text": "nesota."
+  },
+  {
+   "role": "body",
+   "text": "lands which may be assigned to them under the provisions of this act."
+  },
+  {
+   "role": "sidenote",
+   "text": "Subdivisions of"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That, upon the removal of the said"
+  },
+  {
+   "role": "sidenote",
+   "text": "present reserva-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tion to be ap-"
+  },
+  {
+   "role": "body",
+   "text": "Indians from the reservation where they now reside, it shall be the duty"
+  },
+  {
+   "role": "sidenote",
+   "text": "praised."
+  }
+ ],
+ "disagreement_count": 23,
+ "tokens": {
+  "input_tokens": 23818,
+  "output_tokens": 7174,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.2996,
+ "seconds": 511.5,
+ "created": "2026-09-08T11:40:57"
+}

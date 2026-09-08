@@ -1,0 +1,1088 @@
+{
+ "granule_id": "STATUTE-1-Pg608-2",
+ "package_id": "STATUTE-1",
+ "volume": 1,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act for allowing an additional compensation to the doorkeepers and assistant doorkeepers of the Senate and House of Representatives, for their services during the present session of Congress.",
+ "date_issued": "1798-07-16",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "608",
+ "image": "data/gold/STATUTE-1-Pg608-2/p1.png",
+ "image_sha256": "31f0d4fba4dbb1856473e465a1967106621ded36b7c21cb5474662ca6ec4b4b6",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "high"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "608          FIFTH CONGRESS.  Sess. II. Ch. 80, 81, 82.   1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "Surplus of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "duties on im-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ports and ton-"
+    },
+    {
+     "role": "sidenote",
+     "text": "nage pledged"
+    },
+    {
+     "role": "sidenote",
+     "text": "for the payment"
+    },
+    {
+     "role": "sidenote",
+     "text": "of principal and"
+    },
+    {
+     "role": "sidenote",
+     "text": "interest."
+    },
+    {
+     "role": "body",
+     "text": "Sec. 2. And be it further enacted, That so much as may be neces-"
+    },
+    {
+     "role": "body",
+     "text": "sary of the surplus of the duties on imports and tonnage, beyond the"
+    },
+    {
+     "role": "body",
+     "text": "permanent appropriations heretofore charged upon them by law, shall be"
+    },
+    {
+     "role": "body",
+     "text": "and hereby is pledged and appropriated for paying the interest of all"
+    },
+    {
+     "role": "body",
+     "text": "such monies as may be borrowed, pursuant to this act, according to the"
+    },
+    {
+     "role": "body",
+     "text": "terms and conditions on which the loan or loans, respectively, may be"
+    },
+    {
+     "role": "body",
+     "text": "effected; and also for paying and discharging the principal sum or sums"
+    },
+    {
+     "role": "body",
+     "text": "of any such loan or loans, according to the terms and conditions to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Permanent"
+    },
+    {
+     "role": "sidenote",
+     "text": "revenues for"
+    },
+    {
+     "role": "sidenote",
+     "text": "making up the"
+    },
+    {
+     "role": "sidenote",
+     "text": "deficiency to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "established."
+    },
+    {
+     "role": "body",
+     "text": "fixed, as aforesaid.  And the faith of the United States shall be and"
+    },
+    {
+     "role": "body",
+     "text": "hereby is pledged, to establish sufficient permanent revenues for making"
+    },
+    {
+     "role": "body",
+     "text": "up any deficiency that may hereafter appear in the provisions for paying"
+    },
+    {
+     "role": "body",
+     "text": "the said interest and principal sums, or any of them, in manner afore-"
+    },
+    {
+     "role": "body",
+     "text": "said."
+    },
+    {
+     "role": "sidenote",
+     "text": "Sums borrow-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed to be paid"
+    },
+    {
+     "role": "sidenote",
+     "text": "into the trea-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sury, &c."
+    },
+    {
+     "role": "body",
+     "text": "Sec. 3. And be it further enacted, That the sums to be borrowed,"
+    },
+    {
+     "role": "body",
+     "text": "pursuant to this act, shall be paid into the treasury of the United States,"
+    },
+    {
+     "role": "body",
+     "text": "and there separately accounted for; and that the same shall be, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the same."
+    },
+    {
+     "role": "body",
+     "text": "hereby are appropriated in manner following:  First, to make up any"
+    },
+    {
+     "role": "body",
+     "text": "deficiency in any appropriation heretofore made by law, or to be made,"
+    },
+    {
+     "role": "body",
+     "text": "during the present session of Congress; and, secondly, to defray the"
+    },
+    {
+     "role": "body",
+     "text": "expenses which may be incurred before the end of the next session of"
+    },
+    {
+     "role": "body",
+     "text": "Congress, by calling into actual service, any part of the militia of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, or by raising, equipping and calling into actual service,"
+    },
+    {
+     "role": "body",
+     "text": "any regular troops, or volunteers, pursuant to authorities vested or to be"
+    },
+    {
+     "role": "body",
+     "text": "vested in the President of the United States, by law."
+    },
+    {
+     "role": "body",
+     "text": "Approved, July 16, 1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "Statute II."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 16, 1798."
+    },
+    {
+     "role": "body",
+     "text": "Chap. LXXX.——An Act to suspend, for a further time, the duties upon the manu-"
+    },
+    {
+     "role": "body",
+     "text": "facture of Snuff within the United States, and the drawbacks upon the exporta-"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "tion thereof."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 426,"
+    },
+    {
+     "role": "sidenote",
+     "text": "495, 509."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That all such parts of any"
+    },
+    {
+     "role": "body",
+     "text": "law or laws heretofore passed, as impose duties upon mills and imple-"
+    },
+    {
+     "role": "body",
+     "text": "ments employed in the manufacture of snuff, or allow drawbacks upon"
+    },
+    {
+     "role": "body",
+     "text": "the exportation of snuff manufactured within the United States, shall be,"
+    },
+    {
+     "role": "body",
+     "text": "and the same hereby are suspended until the end of the first session of"
+    },
+    {
+     "role": "body",
+     "text": "the sixth Congress of the United States."
+    },
+    {
+     "role": "body",
+     "text": "Approved, July 16, 1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "Statute II."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 16, 1798."
+    },
+    {
+     "role": "body",
+     "text": "Chap. LXXXI.—An Act for allowing an additional compensation to the door-"
+    },
+    {
+     "role": "body",
+     "text": "keepers and assistant doorkeepers of the Senate and House of Representatives,"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "for their services during the present session of Congress."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That there be allowed"
+    },
+    {
+     "role": "body",
+     "text": "to James Mathers, doorkeeper of the Senate, and to Thomas Claxton,"
+    },
+    {
+     "role": "body",
+     "text": "doorkeeper of the House of Representatives, each, two hundred and"
+    },
+    {
+     "role": "body",
+     "text": "fifty dollars; and to Cornelius Maxwell, assistant doorkeeper of the Sen-"
+    },
+    {
+     "role": "body",
+     "text": "ate, and to Thomas Dunn, the assistant doorkeeper of the House of"
+    },
+    {
+     "role": "body",
+     "text": "Representatives, each, two hundred and twenty-five dollars, as an addi-"
+    },
+    {
+     "role": "body",
+     "text": "tional compensation for their services during the present session of"
+    },
+    {
+     "role": "body",
+     "text": "Congress."
+    },
+    {
+     "role": "body",
+     "text": "Approved, July 16, 1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "Statute II."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 16, 1798."
+    },
+    {
+     "role": "body",
+     "text": "Chap. LXXXII.—An act to make a further appropriation for the additional"
+    },
+    {
+     "role": "body",
+     "text": "Naval Armament."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "Section 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That the sum"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7664,
+    "output_tokens": 2336,
+    "cache_read_input_tokens": 770,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0971,
+   "seconds": 90.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "608"
+    },
+    {
+     "role": "running-head",
+     "text": "FIFTH CONGRESS.  Sess. II. Ch. 80, 81, 82.   1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "Surplus of the duties on imports and tonnage pledged for the payment of principal and interest."
+    },
+    {
+     "role": "body",
+     "text": "Sec. 2. And be it further enacted, That so much as may be neces-"
+    },
+    {
+     "role": "body",
+     "text": "sary of the surplus of the duties on imports and tonnage, beyond the"
+    },
+    {
+     "role": "body",
+     "text": "permanent appropriations heretofore charged upon them by law, shall be"
+    },
+    {
+     "role": "body",
+     "text": "and hereby is pledged and appropriated for paying the interest of all"
+    },
+    {
+     "role": "body",
+     "text": "such monies as may be borrowed, pursuant to this act, according to the"
+    },
+    {
+     "role": "body",
+     "text": "terms and conditions on which the loan or loans, respectively, may be"
+    },
+    {
+     "role": "body",
+     "text": "effected; and also for paying and discharging the principal sum or sums"
+    },
+    {
+     "role": "body",
+     "text": "of any such loan or loans, according to the terms and conditions to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "Permanent revenues for making up the deficiency to be established."
+    },
+    {
+     "role": "body",
+     "text": "fixed, as aforesaid.   And the faith of the United States shall be and"
+    },
+    {
+     "role": "body",
+     "text": "hereby is pledged, to establish sufficient permanent revenues for making"
+    },
+    {
+     "role": "body",
+     "text": "up any deficiency that may hereafter appear in the provisions for paying"
+    },
+    {
+     "role": "body",
+     "text": "the said interest and principal sums, or any of them, in manner afore-"
+    },
+    {
+     "role": "body",
+     "text": "said."
+    },
+    {
+     "role": "sidenote",
+     "text": "Sums borrowed to be paid into the treasury, &c."
+    },
+    {
+     "role": "body",
+     "text": "Sec. 3. And be it further enacted, That the sums to be borrowed,"
+    },
+    {
+     "role": "body",
+     "text": "pursuant to this act, shall be paid into the treasury of the United States,"
+    },
+    {
+     "role": "body",
+     "text": "and there separately accounted for; and that the same shall be, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation of the same."
+    },
+    {
+     "role": "body",
+     "text": "hereby are appropriated in manner following: First, to make up any"
+    },
+    {
+     "role": "body",
+     "text": "deficiency in any appropriation heretofore made by law, or to be made,"
+    },
+    {
+     "role": "body",
+     "text": "during the present session of Congress; and, secondly, to defray the"
+    },
+    {
+     "role": "body",
+     "text": "expenses which may be incurred before the end of the next session of"
+    },
+    {
+     "role": "body",
+     "text": "Congress, by calling into actual service, any part of the militia of the"
+    },
+    {
+     "role": "body",
+     "text": "United States, or by raising, equipping and calling into actual service,"
+    },
+    {
+     "role": "body",
+     "text": "any regular troops, or volunteers, pursuant to authorities vested or to be"
+    },
+    {
+     "role": "body",
+     "text": "vested in the President of the United States, by law."
+    },
+    {
+     "role": "body",
+     "text": "Approved, July 16, 1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "Statute II."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 16, 1798."
+    },
+    {
+     "role": "body",
+     "text": "Chap.  LXXX.——An Act to suspend, for a further time, the duties upon the manu-"
+    },
+    {
+     "role": "body",
+     "text": "facture of Snuff within the United States, and the drawbacks upon the exporta-"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "tion thereof."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 426, 495, 509."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That all such parts of any"
+    },
+    {
+     "role": "body",
+     "text": "law or laws heretofore passed, as impose duties upon mills and imple-"
+    },
+    {
+     "role": "body",
+     "text": "ments employed in the manufacture of snuff, or allow drawbacks upon"
+    },
+    {
+     "role": "body",
+     "text": "the exportation of snuff manufactured within the United States, shall be,"
+    },
+    {
+     "role": "body",
+     "text": "and the same hereby are suspended until the end of the first session of"
+    },
+    {
+     "role": "body",
+     "text": "the sixth Congress of the United States."
+    },
+    {
+     "role": "body",
+     "text": "Approved, July 16, 1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "Statute II."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 16, 1798."
+    },
+    {
+     "role": "body",
+     "text": "Chap. LXXXI.—An Act for allowing an additional compensation to the door-"
+    },
+    {
+     "role": "body",
+     "text": "keepers and assistant doorkeepers of the Senate and House of Representatives,"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "for their services during the present session of Congress."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That there be allowed"
+    },
+    {
+     "role": "body",
+     "text": "to James Mathers, doorkeeper of the Senate, and to Thomas Claxton,"
+    },
+    {
+     "role": "body",
+     "text": "doorkeeper of the House of Representatives, each, two hundred and"
+    },
+    {
+     "role": "body",
+     "text": "fifty dollars; and to Cornelius Maxwell, assistant doorkeeper of the Sen-"
+    },
+    {
+     "role": "body",
+     "text": "ate, and to Thomas Dunn, the assistant doorkeeper of the House of"
+    },
+    {
+     "role": "body",
+     "text": "Representatives, each, two hundred and twenty-five dollars, as an addi-"
+    },
+    {
+     "role": "body",
+     "text": "tional compensation for their services during the present session of"
+    },
+    {
+     "role": "body",
+     "text": "Congress."
+    },
+    {
+     "role": "body",
+     "text": "Approved, July 16, 1798."
+    },
+    {
+     "role": "sidenote",
+     "text": "Statute II."
+    },
+    {
+     "role": "sidenote",
+     "text": "July 16, 1798."
+    },
+    {
+     "role": "body",
+     "text": "Chap. LXXXII.——An act to make a further appropriation for the additional"
+    },
+    {
+     "role": "body",
+     "text": "Naval Armament."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "Section 1. Be it enacted by the Senate and House of Representatives"
+    },
+    {
+     "role": "body",
+     "text": "of the United States of America in Congress assembled, That the sum"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7667,
+    "output_tokens": 2118,
+    "cache_read_input_tokens": 712,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09164,
+   "seconds": 26.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "disagreements": [
+   {
+    "a": "608          FIFTH CONGRESS.  Sess. II. Ch. 80, 81, 82.   1798.",
+    "b": "FIFTH CONGRESS.  Sess. II. Ch. 80, 81, 82.   1798.",
+    "kept": "FIFTH CONGRESS.  Sess. II. Ch. 80, 81, 82.   1798. (running head) plus separate page-number 608",
+    "reason": "The folio 608 is a distinct element; recorded as a standalone page-number line per ordering rules, not merged into the running head."
+   },
+   {
+    "a": "Surplus of the / duties on im- / ports and ton- / nage pledged / for the payment / of principal and / interest.",
+    "b": "Surplus of the duties on imports and tonnage pledged for the payment of principal and interest.",
+    "kept": "one entry per printed sidenote line (A's split)",
+    "reason": "The marginal note is set on seven separate printed lines; one entry per printed line is required."
+   },
+   {
+    "a": "Permanent / revenues for / making up the / deficiency to be / established.",
+    "b": "Permanent revenues for making up the deficiency to be established.",
+    "kept": "A's line-by-line split",
+    "reason": "Printed as five separate marginal lines."
+   },
+   {
+    "a": "Sums borrow- / ed to be paid / into the trea- / sury, &c.",
+    "b": "Sums borrowed to be paid into the treasury, &c.",
+    "kept": "A's line-by-line split",
+    "reason": "Printed on four lines with end-of-line hyphens."
+   },
+   {
+    "a": "Appropriation / of the same.",
+    "b": "Appropriation of the same.",
+    "kept": "A's two lines",
+    "reason": "Printed on two marginal lines."
+   },
+   {
+    "a": "Ante, p. 426, / 495, 509.",
+    "b": "Ante, p. 426, 495, 509.",
+    "kept": "A's two lines",
+    "reason": "Printed on two marginal lines."
+   },
+   {
+    "a": "hereby are appropriated in manner following:  First, to make up any",
+    "b": "hereby are appropriated in manner following: First, to make up any",
+    "kept": "hereby are appropriated in manner following: First, to make up any",
+    "reason": "Only inter-word spacing differs; single space adopted."
+   },
+   {
+    "a": "Chap. LXXX.——An Act to suspend, for a further time, the duties upon the manu-",
+    "b": "Chap.  LXXX.——An Act to suspend, for a further time, the duties upon the manu-",
+    "kept": "Chap. LXXX.——An Act to suspend, for a further time, the duties upon the manu-",
+    "reason": "Difference is only extra letter-spacing in the printed heading; normalized to single space."
+   },
+   {
+    "a": "Chap. LXXXII.—An act to make a further appropriation for the additional",
+    "b": "Chap. LXXXII.——An act to make a further appropriation for the additional",
+    "kept": "Chap. LXXXII.——An act to make a further appropriation for the additional",
+    "reason": "Image shows a long dash of the same length as in Chap. LXXX."
+   }
+  ],
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11408,
+   "output_tokens": 4203,
+   "cache_read_input_tokens": 885,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.16256,
+  "seconds": 45.6,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "high",
+  "reinserted": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "FIFTH CONGRESS.  Sess. II. Ch. 80, 81, 82.   1798."
+  },
+  {
+   "role": "sidenote",
+   "text": "Surplus of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "duties on im-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ports and ton-"
+  },
+  {
+   "role": "sidenote",
+   "text": "nage pledged"
+  },
+  {
+   "role": "sidenote",
+   "text": "for the payment"
+  },
+  {
+   "role": "sidenote",
+   "text": "of principal and"
+  },
+  {
+   "role": "sidenote",
+   "text": "interest."
+  },
+  {
+   "role": "body",
+   "text": "Sec. 2. And be it further enacted, That so much as may be neces-"
+  },
+  {
+   "role": "body",
+   "text": "sary of the surplus of the duties on imports and tonnage, beyond the"
+  },
+  {
+   "role": "body",
+   "text": "permanent appropriations heretofore charged upon them by law, shall be"
+  },
+  {
+   "role": "body",
+   "text": "and hereby is pledged and appropriated for paying the interest of all"
+  },
+  {
+   "role": "body",
+   "text": "such monies as may be borrowed, pursuant to this act, according to the"
+  },
+  {
+   "role": "body",
+   "text": "terms and conditions on which the loan or loans, respectively, may be"
+  },
+  {
+   "role": "body",
+   "text": "effected; and also for paying and discharging the principal sum or sums"
+  },
+  {
+   "role": "body",
+   "text": "of any such loan or loans, according to the terms and conditions to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "Permanent"
+  },
+  {
+   "role": "sidenote",
+   "text": "revenues for"
+  },
+  {
+   "role": "sidenote",
+   "text": "making up the"
+  },
+  {
+   "role": "sidenote",
+   "text": "deficiency to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "established."
+  },
+  {
+   "role": "body",
+   "text": "fixed, as aforesaid.  And the faith of the United States shall be and"
+  },
+  {
+   "role": "body",
+   "text": "hereby is pledged, to establish sufficient permanent revenues for making"
+  },
+  {
+   "role": "body",
+   "text": "up any deficiency that may hereafter appear in the provisions for paying"
+  },
+  {
+   "role": "body",
+   "text": "the said interest and principal sums, or any of them, in manner afore-"
+  },
+  {
+   "role": "body",
+   "text": "said."
+  },
+  {
+   "role": "sidenote",
+   "text": "Sums borrow-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ed to be paid"
+  },
+  {
+   "role": "sidenote",
+   "text": "into the trea-"
+  },
+  {
+   "role": "sidenote",
+   "text": "sury, &c."
+  },
+  {
+   "role": "body",
+   "text": "Sec. 3. And be it further enacted, That the sums to be borrowed,"
+  },
+  {
+   "role": "body",
+   "text": "pursuant to this act, shall be paid into the treasury of the United States,"
+  },
+  {
+   "role": "body",
+   "text": "and there separately accounted for; and that the same shall be, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation"
+  },
+  {
+   "role": "sidenote",
+   "text": "of the same."
+  },
+  {
+   "role": "body",
+   "text": "hereby are appropriated in manner following: First, to make up any"
+  },
+  {
+   "role": "body",
+   "text": "deficiency in any appropriation heretofore made by law, or to be made,"
+  },
+  {
+   "role": "body",
+   "text": "during the present session of Congress; and, secondly, to defray the"
+  },
+  {
+   "role": "body",
+   "text": "expenses which may be incurred before the end of the next session of"
+  },
+  {
+   "role": "body",
+   "text": "Congress, by calling into actual service, any part of the militia of the"
+  },
+  {
+   "role": "body",
+   "text": "United States, or by raising, equipping and calling into actual service,"
+  },
+  {
+   "role": "body",
+   "text": "any regular troops, or volunteers, pursuant to authorities vested or to be"
+  },
+  {
+   "role": "body",
+   "text": "vested in the President of the United States, by law."
+  },
+  {
+   "role": "body",
+   "text": "Approved, July 16, 1798."
+  },
+  {
+   "role": "sidenote",
+   "text": "Statute II."
+  },
+  {
+   "role": "sidenote",
+   "text": "July 16, 1798."
+  },
+  {
+   "role": "body",
+   "text": "Chap. LXXX.——An Act to suspend, for a further time, the duties upon the manu-"
+  },
+  {
+   "role": "body",
+   "text": "facture of Snuff within the United States, and the drawbacks upon the exporta-"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "tion thereof."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 426,"
+  },
+  {
+   "role": "sidenote",
+   "text": "495, 509."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That all such parts of any"
+  },
+  {
+   "role": "body",
+   "text": "law or laws heretofore passed, as impose duties upon mills and imple-"
+  },
+  {
+   "role": "body",
+   "text": "ments employed in the manufacture of snuff, or allow drawbacks upon"
+  },
+  {
+   "role": "body",
+   "text": "the exportation of snuff manufactured within the United States, shall be,"
+  },
+  {
+   "role": "body",
+   "text": "and the same hereby are suspended until the end of the first session of"
+  },
+  {
+   "role": "body",
+   "text": "the sixth Congress of the United States."
+  },
+  {
+   "role": "body",
+   "text": "Approved, July 16, 1798."
+  },
+  {
+   "role": "sidenote",
+   "text": "Statute II."
+  },
+  {
+   "role": "sidenote",
+   "text": "July 16, 1798."
+  },
+  {
+   "role": "body",
+   "text": "Chap. LXXXI.—An Act for allowing an additional compensation to the door-"
+  },
+  {
+   "role": "body",
+   "text": "keepers and assistant doorkeepers of the Senate and House of Representatives,"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "for their services during the present session of Congress."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That there be allowed"
+  },
+  {
+   "role": "body",
+   "text": "to James Mathers, doorkeeper of the Senate, and to Thomas Claxton,"
+  },
+  {
+   "role": "body",
+   "text": "doorkeeper of the House of Representatives, each, two hundred and"
+  },
+  {
+   "role": "body",
+   "text": "fifty dollars; and to Cornelius Maxwell, assistant doorkeeper of the Sen-"
+  },
+  {
+   "role": "body",
+   "text": "ate, and to Thomas Dunn, the assistant doorkeeper of the House of"
+  },
+  {
+   "role": "body",
+   "text": "Representatives, each, two hundred and twenty-five dollars, as an addi-"
+  },
+  {
+   "role": "body",
+   "text": "tional compensation for their services during the present session of"
+  },
+  {
+   "role": "body",
+   "text": "Congress."
+  },
+  {
+   "role": "body",
+   "text": "Approved, July 16, 1798."
+  },
+  {
+   "role": "sidenote",
+   "text": "Statute II."
+  },
+  {
+   "role": "sidenote",
+   "text": "July 16, 1798."
+  },
+  {
+   "role": "body",
+   "text": "Chap. LXXXII.——An act to make a further appropriation for the additional"
+  },
+  {
+   "role": "body",
+   "text": "Naval Armament."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "Section 1. Be it enacted by the Senate and House of Representatives"
+  },
+  {
+   "role": "body",
+   "text": "of the United States of America in Congress assembled, That the sum"
+  },
+  {
+   "role": "page-number",
+   "text": "608"
+  }
+ ],
+ "disagreement_count": 6,
+ "tokens": {
+  "input_tokens": 26739,
+  "output_tokens": 8657,
+  "cache_read_input_tokens": 2367,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.3513,
+ "seconds": 162.6,
+ "created": "2026-09-08T10:48:33"
+}

@@ -1,0 +1,1120 @@
+{
+ "granule_id": "STATUTE-69-Pg536-2",
+ "package_id": "STATUTE-69",
+ "volume": 69,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend the act of May 28, 1949, to strengthen and improve the organization of the Department of State, and for other purposes",
+ "date_issued": "1955-08-05",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "537",
+ "image": "data/gold/STATUTE-69-Pg536-2/p2.png",
+ "image_sha256": "ba3bf1ab115dc5b58c44275ca45a5c9f1506c3ef4f21e4bcaa477ef3f8737d23",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "69 STAT.]                PUBLIC LAW 251-AUG. 5, 1955"
+    },
+    {
+     "role": "page-number",
+     "text": "537"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. The President may initially fill two of the Deputy Under"
+    },
+    {
+     "role": "body",
+     "text": "Secretary positions established in section 1 of this Act by appointing,"
+    },
+    {
+     "role": "body",
+     "text": "without further advice and consent of the Senate, the two Deputy"
+    },
+    {
+     "role": "body",
+     "text": "Under Secretaries of State who, on the date of the enactment of"
+    },
+    {
+     "role": "body",
+     "text": "this Act, held that designation pursuant to authority contained in"
+    },
+    {
+     "role": "sidenote",
+     "text": "5 USC 151b."
+    },
+    {
+     "role": "body",
+     "text": "section 2 of the Act of May 26, 1949 (63 Stat. 111)."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. Section 412 of the Foreign Service Act of 1946 (60 Stat."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 867."
+    },
+    {
+     "role": "body",
+     "text": "999), as amended (hereinafter referred to as \"such Act\"), is amended"
+    },
+    {
+     "role": "body",
+     "text": "by striking the first sentence of said section and by inserting in lieu"
+    },
+    {
+     "role": "body",
+     "text": "thereof the following: \"There shall be eight classes of Foreign Service"
+    },
+    {
+     "role": "body",
+     "text": "officers, including the classes of career ambassador and of career"
+    },
+    {
+     "role": "body",
+     "text": "minister.  The per annum salary of a career ambassador shall be the"
+    },
+    {
+     "role": "body",
+     "text": "same as that for an Assistant Secretary of State.\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 901."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. Section 501 (a) of such Act is amended by adding the phrase"
+    },
+    {
+     "role": "body",
+     "text": "\"career ambassadors and\" immediately following the word"
+    },
+    {
+     "role": "body",
+     "text": "\"including\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 902."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. Section 502 (a) of such Act is amended by inserting the"
+    },
+    {
+     "role": "body",
+     "text": "phrase \"class of career ambassador and\" immediately following the"
+    },
+    {
+     "role": "body",
+     "text": "phrase \"qualified for appointment to the\", and by adding the following"
+    },
+    {
+     "role": "body",
+     "text": "sentence at the end of said subsection: \"No person shall be appointed"
+    },
+    {
+     "role": "body",
+     "text": "into the class of career ambassador who has not (1) served for at least"
+    },
+    {
+     "role": "body",
+     "text": "fifteen years in a position of responsibility in a Government agency,"
+    },
+    {
+     "role": "body",
+     "text": "or agencies, including at least three years as a career minister; (2)"
+    },
+    {
+     "role": "body",
+     "text": "rendered exceptionally distinguished service to the Government; and"
+    },
+    {
+     "role": "body",
+     "text": "(3) met such other requirements as the Secretary shall prescribe.\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 913."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. Section 518 of such Act is amended by inserting the words"
+    },
+    {
+     "role": "body",
+     "text": "\"career ambassador or\" immediately following the phrase \"to the"
+    },
+    {
+     "role": "body",
+     "text": "class of\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 1001."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 8. Section 631 of such Act is amended by inserting the words"
+    },
+    {
+     "role": "body",
+     "text": "\"a career ambassador or\" immediately after the words \"who is\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 1002."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 9. Section 632 of such Act is amended by inserting the words"
+    },
+    {
+     "role": "body",
+     "text": "\"a career ambassador or\" immediately following the words \"who is"
+    },
+    {
+     "role": "body",
+     "text": "not\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 1071."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 10. (a) Section 811 (a) of such Act is amended by striking out"
+    },
+    {
+     "role": "body",
+     "text": "\"811. (a)\" and inserting \"811.\" in lieu thereof and by striking out the"
+    },
+    {
+     "role": "body",
+     "text": "phrase \"of all participants\" and inserting in lieu thereof the words"
+    },
+    {
+     "role": "body",
+     "text": "\"received by each participant\"."
+    },
+    {
+     "role": "sidenote",
+     "text": "Repeal."
+    },
+    {
+     "role": "body",
+     "text": "(b) Section 811 (b) of such Act is hereby repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 1076."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 11. Section 821 (a) of such Act is amended by striking the"
+    },
+    {
+     "role": "body",
+     "text": "phrase \", not exceeding $13,500 per annum,\" and \"five years next pre-"
+    },
+    {
+     "role": "body",
+     "text": "ceding the date of his retirement\" and inserting the phrase \"highest"
+    },
+    {
+     "role": "body",
+     "text": "five consecutive years of service, for which full contributions have"
+    },
+    {
+     "role": "body",
+     "text": "been made to the fund,\" immediately preceding the phrase \"multiplied"
+    },
+    {
+     "role": "body",
+     "text": "by\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 5, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 251                                    CHAPTER 577"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 5, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 847]"
+    },
+    {
+     "role": "body",
+     "text": "To authorize the construction of two surveying ships for the Coast and Geodetic"
+    },
+    {
+     "role": "body",
+     "text": "Survey, Department of Commerce, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Coast and Geo-"
+    },
+    {
+     "role": "sidenote",
+     "text": "detic Survey."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ships."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That there is hereby"
+    },
+    {
+     "role": "body",
+     "text": "authorized to be constructed for the Department of Commerce two"
+    },
+    {
+     "role": "body",
+     "text": "surveying ships of not over two thousand five hundred displacement"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5186,
+    "output_tokens": 2128,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07951,
+   "seconds": 23.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "69 STAT.]"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 251-AUG. 5, 1955"
+    },
+    {
+     "role": "page-number",
+     "text": "537"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. The President may initially fill two of the Deputy Under"
+    },
+    {
+     "role": "body",
+     "text": "Secretary positions established in section 1 of this Act by appointing,"
+    },
+    {
+     "role": "body",
+     "text": "without further advice and consent of the Senate, the two Deputy"
+    },
+    {
+     "role": "body",
+     "text": "Under Secretaries of State who, on the date of the enactment of"
+    },
+    {
+     "role": "body",
+     "text": "this Act, held that designation pursuant to authority contained in"
+    },
+    {
+     "role": "body",
+     "text": "section 2 of the Act of May 26, 1949 (63 Stat. 111)."
+    },
+    {
+     "role": "sidenote",
+     "text": "5 USC 151b."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. Section 412 of the Foreign Service Act of 1946 (60 Stat."
+    },
+    {
+     "role": "body",
+     "text": "999), as amended (hereinafter referred to as \"such Act\"), is amended"
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 867."
+    },
+    {
+     "role": "body",
+     "text": "by striking the first sentence of said section and by inserting in lieu"
+    },
+    {
+     "role": "body",
+     "text": "thereof the following: \"There shall be eight classes of Foreign Service"
+    },
+    {
+     "role": "body",
+     "text": "officers, including the classes of career ambassador and of career"
+    },
+    {
+     "role": "body",
+     "text": "minister. The per annum salary of a career ambassador shall be the"
+    },
+    {
+     "role": "body",
+     "text": "same as that for an Assistant Secretary of State.\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. Section 501 (a) of such Act is amended by adding the phrase"
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 901."
+    },
+    {
+     "role": "body",
+     "text": "\"career ambassadors and\" immediately following the word"
+    },
+    {
+     "role": "body",
+     "text": "\"including\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. Section 502 (a) of such Act is amended by inserting the"
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 902."
+    },
+    {
+     "role": "body",
+     "text": "phrase \"class of career ambassador and\" immediately following the"
+    },
+    {
+     "role": "body",
+     "text": "phrase \"qualified for appointment to the\", and by adding the following"
+    },
+    {
+     "role": "body",
+     "text": "sentence at the end of said subsection: \"No person shall be appointed"
+    },
+    {
+     "role": "body",
+     "text": "into the class of career ambassador who has not (1) served for at least"
+    },
+    {
+     "role": "body",
+     "text": "fifteen years in a position of responsibility in a Government agency,"
+    },
+    {
+     "role": "body",
+     "text": "or agencies, including at least three years as a career minister; (2)"
+    },
+    {
+     "role": "body",
+     "text": "rendered exceptionally distinguished service to the Government; and"
+    },
+    {
+     "role": "body",
+     "text": "(3) met such other requirements as the Secretary shall prescribe.\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. Section 518 of such Act is amended by inserting the words"
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 913."
+    },
+    {
+     "role": "body",
+     "text": "\"career ambassador or\" immediately following the phrase \"to the"
+    },
+    {
+     "role": "body",
+     "text": "class of\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 8. Section 631 of such Act is amended by inserting the words"
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 1001."
+    },
+    {
+     "role": "body",
+     "text": "\"a career ambassador or\" immediately after the words \"who is\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 9. Section 632 of such Act is amended by inserting the words"
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 1002."
+    },
+    {
+     "role": "body",
+     "text": "\"a career ambassador or\" immediately following the words \"who is"
+    },
+    {
+     "role": "body",
+     "text": "not\"."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 10. (a) Section 811 (a) of such Act is amended by striking out"
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 1071."
+    },
+    {
+     "role": "body",
+     "text": "\"811. (a)\" and inserting \"811.\" in lieu thereof and by striking out the"
+    },
+    {
+     "role": "body",
+     "text": "phrase \"of all participants\" and inserting in lieu thereof the words"
+    },
+    {
+     "role": "body",
+     "text": "\"received by each participant\"."
+    },
+    {
+     "role": "body",
+     "text": "(b) Section 811 (b) of such Act is hereby repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Repeal."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 11. Section 821 (a) of such Act is amended by striking the"
+    },
+    {
+     "role": "sidenote",
+     "text": "22 USC 1076."
+    },
+    {
+     "role": "body",
+     "text": "phrase \", not exceeding $13,500 per annum,\" and \"five years next pre-"
+    },
+    {
+     "role": "body",
+     "text": "ceding the date of his retirement\" and inserting the phrase \"highest"
+    },
+    {
+     "role": "body",
+     "text": "five consecutive years of service, for which full contributions have"
+    },
+    {
+     "role": "body",
+     "text": "been made to the fund,\" immediately preceding the phrase \"multiplied"
+    },
+    {
+     "role": "body",
+     "text": "by\"."
+    },
+    {
+     "role": "body",
+     "text": "Approved August 5, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 251"
+    },
+    {
+     "role": "body",
+     "text": "CHAPTER 577"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To authorize the construction of two surveying ships for the Coast and Geodetic"
+    },
+    {
+     "role": "body",
+     "text": "Survey, Department of Commerce, and for other purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "August 5, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 847]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That there is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "Coast and Geo-"
+    },
+    {
+     "role": "sidenote",
+     "text": "detic Survey."
+    },
+    {
+     "role": "body",
+     "text": "authorized to be constructed for the Department of Commerce two"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ships."
+    },
+    {
+     "role": "body",
+     "text": "surveying ships of not over two thousand five hundred displacement"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5189,
+    "output_tokens": 2109,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07903,
+   "seconds": 23.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12545,
+   "output_tokens": 2557,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.12707,
+  "seconds": 30.5,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "69 STAT.]                PUBLIC LAW 251-AUG. 5, 1955",
+    "b": "69 STAT.]\nPUBLIC LAW 251-AUG. 5, 1955",
+    "kept": "69 STAT.]                PUBLIC LAW 251-AUG. 5, 1955",
+    "reason": "The running head is a single printed line with the volume tag and title separated by space."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "section 2 of the Act of May 26, 1949 (63 Stat. 111).",
+    "kept": "section 2 of the Act of May 26, 1949 (63 Stat. 111).",
+    "reason": "Body line precedes the sidenote aligned with it."
+   },
+   {
+    "run": 3,
+    "a": "section 2 of the Act of May 26, 1949 (63 Stat. 111).",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed before the sidenote."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "999), as amended (hereinafter referred to as \"such Act\"), is amended",
+    "kept": "999), as amended (hereinafter referred to as \"such Act\"), is amended",
+    "reason": "Sidenote 22 USC 867 sits beside this line, which precedes it in reading order."
+   },
+   {
+    "run": 5,
+    "a": "999), as amended (hereinafter referred to as \"such Act\"), is amended",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of line already placed."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "SEC. 5. Section 501 (a) of such Act is amended by adding the phrase",
+    "kept": "SEC. 5. Section 501 (a) of such Act is amended by adding the phrase",
+    "reason": "Sidenote 22 USC 901 aligns with this line, placed after it."
+   },
+   {
+    "run": 7,
+    "a": "SEC. 5. Section 501 (a) of such Act is amended by adding the phrase",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of line already placed."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "SEC. 6. Section 502 (a) of such Act is amended by inserting the",
+    "kept": "SEC. 6. Section 502 (a) of such Act is amended by inserting the",
+    "reason": "Sidenote 22 USC 902 aligns with this line, placed after it."
+   },
+   {
+    "run": 9,
+    "a": "SEC. 6. Section 502 (a) of such Act is amended by inserting the",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of line already placed."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "SEC. 7. Section 518 of such Act is amended by inserting the words",
+    "kept": "SEC. 7. Section 518 of such Act is amended by inserting the words",
+    "reason": "Sidenote 22 USC 913 aligns with this line, placed after it."
+   },
+   {
+    "run": 11,
+    "a": "SEC. 7. Section 518 of such Act is amended by inserting the words",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of line already placed."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "SEC. 8. Section 631 of such Act is amended by inserting the words",
+    "kept": "SEC. 8. Section 631 of such Act is amended by inserting the words",
+    "reason": "Sidenote 22 USC 1001 aligns with this line, placed after it."
+   },
+   {
+    "run": 13,
+    "a": "SEC. 8. Section 631 of such Act is amended by inserting the words",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of line already placed."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "SEC. 9. Section 632 of such Act is amended by inserting the words",
+    "kept": "SEC. 9. Section 632 of such Act is amended by inserting the words",
+    "reason": "Sidenote 22 USC 1002 aligns with this line, placed after it."
+   },
+   {
+    "run": 15,
+    "a": "SEC. 9. Section 632 of such Act is amended by inserting the words",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of line already placed."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "SEC. 10. (a) Section 811 (a) of such Act is amended by striking out",
+    "kept": "SEC. 10. (a) Section 811 (a) of such Act is amended by striking out",
+    "reason": "Sidenote 22 USC 1071 aligns with this line, placed after it."
+   },
+   {
+    "run": 17,
+    "a": "SEC. 10. (a) Section 811 (a) of such Act is amended by striking out",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of line already placed."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "(b) Section 811 (b) of such Act is hereby repealed.",
+    "kept": "(b) Section 811 (b) of such Act is hereby repealed.",
+    "reason": "Sidenote Repeal. aligns with this line, placed after it."
+   },
+   {
+    "run": 19,
+    "a": "(b) Section 811 (b) of such Act is hereby repealed.",
+    "b": "SEC. 11. Section 821 (a) of such Act is amended by striking the",
+    "kept": "SEC. 11. Section 821 (a) of such Act is amended by striking the",
+    "reason": "Next printed body line, aligned with sidenote 22 USC 1076."
+   },
+   {
+    "run": 20,
+    "a": "SEC. 11. Section 821 (a) of such Act is amended by striking the",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of line already placed."
+   },
+   {
+    "run": 21,
+    "a": "Public Law 251                                    CHAPTER 577",
+    "b": "Public Law 251\nCHAPTER 577",
+    "kept": "Public Law 251                                    CHAPTER 577",
+    "reason": "Both items are printed on one line."
+   },
+   {
+    "run": 22,
+    "a": "",
+    "b": "To authorize the construction of two surveying ships for the Coast and Geodetic\nSurvey, Department of Commerce, and for other purposes.",
+    "kept": "To authorize the construction of two surveying ships for the Coast and Geodetic\nSurvey, Department of Commerce, and for other purposes.",
+    "reason": "Title text precedes the date sidenote aligned with it."
+   },
+   {
+    "run": 23,
+    "a": "To authorize the construction of two surveying ships for the Coast and Geodetic\nSurvey, Department of Commerce, and for other purposes.",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of lines already placed."
+   },
+   {
+    "run": 24,
+    "a": "",
+    "b": "United States of America in Congress assembled, That there is hereby",
+    "kept": "United States of America in Congress assembled, That there is hereby",
+    "reason": "Body line precedes the Coast and Geodetic Survey sidenote beside it."
+   },
+   {
+    "run": 25,
+    "a": "",
+    "b": "authorized to be constructed for the Department of Commerce two",
+    "kept": "authorized to be constructed for the Department of Commerce two",
+    "reason": "Body line aligned with the Ships. sidenote that follows."
+   },
+   {
+    "run": 26,
+    "a": "United States of America in Congress assembled, That there is hereby\nauthorized to be constructed for the Department of Commerce two",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicates of lines already placed."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "69 STAT.]                PUBLIC LAW 251-AUG. 5, 1955"
+  },
+  {
+   "role": "page-number",
+   "text": "537"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. The President may initially fill two of the Deputy Under"
+  },
+  {
+   "role": "body",
+   "text": "Secretary positions established in section 1 of this Act by appointing,"
+  },
+  {
+   "role": "body",
+   "text": "without further advice and consent of the Senate, the two Deputy"
+  },
+  {
+   "role": "body",
+   "text": "Under Secretaries of State who, on the date of the enactment of"
+  },
+  {
+   "role": "body",
+   "text": "this Act, held that designation pursuant to authority contained in"
+  },
+  {
+   "role": "body",
+   "text": "section 2 of the Act of May 26, 1949 (63 Stat. 111)."
+  },
+  {
+   "role": "sidenote",
+   "text": "5 USC 151b."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. Section 412 of the Foreign Service Act of 1946 (60 Stat."
+  },
+  {
+   "role": "body",
+   "text": "999), as amended (hereinafter referred to as \"such Act\"), is amended"
+  },
+  {
+   "role": "sidenote",
+   "text": "22 USC 867."
+  },
+  {
+   "role": "body",
+   "text": "by striking the first sentence of said section and by inserting in lieu"
+  },
+  {
+   "role": "body",
+   "text": "thereof the following: \"There shall be eight classes of Foreign Service"
+  },
+  {
+   "role": "body",
+   "text": "officers, including the classes of career ambassador and of career"
+  },
+  {
+   "role": "body",
+   "text": "minister.  The per annum salary of a career ambassador shall be the"
+  },
+  {
+   "role": "body",
+   "text": "same as that for an Assistant Secretary of State.\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. Section 501 (a) of such Act is amended by adding the phrase"
+  },
+  {
+   "role": "sidenote",
+   "text": "22 USC 901."
+  },
+  {
+   "role": "body",
+   "text": "\"career ambassadors and\" immediately following the word"
+  },
+  {
+   "role": "body",
+   "text": "\"including\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 6. Section 502 (a) of such Act is amended by inserting the"
+  },
+  {
+   "role": "sidenote",
+   "text": "22 USC 902."
+  },
+  {
+   "role": "body",
+   "text": "phrase \"class of career ambassador and\" immediately following the"
+  },
+  {
+   "role": "body",
+   "text": "phrase \"qualified for appointment to the\", and by adding the following"
+  },
+  {
+   "role": "body",
+   "text": "sentence at the end of said subsection: \"No person shall be appointed"
+  },
+  {
+   "role": "body",
+   "text": "into the class of career ambassador who has not (1) served for at least"
+  },
+  {
+   "role": "body",
+   "text": "fifteen years in a position of responsibility in a Government agency,"
+  },
+  {
+   "role": "body",
+   "text": "or agencies, including at least three years as a career minister; (2)"
+  },
+  {
+   "role": "body",
+   "text": "rendered exceptionally distinguished service to the Government; and"
+  },
+  {
+   "role": "body",
+   "text": "(3) met such other requirements as the Secretary shall prescribe.\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 7. Section 518 of such Act is amended by inserting the words"
+  },
+  {
+   "role": "sidenote",
+   "text": "22 USC 913."
+  },
+  {
+   "role": "body",
+   "text": "\"career ambassador or\" immediately following the phrase \"to the"
+  },
+  {
+   "role": "body",
+   "text": "class of\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 8. Section 631 of such Act is amended by inserting the words"
+  },
+  {
+   "role": "sidenote",
+   "text": "22 USC 1001."
+  },
+  {
+   "role": "body",
+   "text": "\"a career ambassador or\" immediately after the words \"who is\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 9. Section 632 of such Act is amended by inserting the words"
+  },
+  {
+   "role": "sidenote",
+   "text": "22 USC 1002."
+  },
+  {
+   "role": "body",
+   "text": "\"a career ambassador or\" immediately following the words \"who is"
+  },
+  {
+   "role": "body",
+   "text": "not\"."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 10. (a) Section 811 (a) of such Act is amended by striking out"
+  },
+  {
+   "role": "sidenote",
+   "text": "22 USC 1071."
+  },
+  {
+   "role": "body",
+   "text": "\"811. (a)\" and inserting \"811.\" in lieu thereof and by striking out the"
+  },
+  {
+   "role": "body",
+   "text": "phrase \"of all participants\" and inserting in lieu thereof the words"
+  },
+  {
+   "role": "body",
+   "text": "\"received by each participant\"."
+  },
+  {
+   "role": "body",
+   "text": "(b) Section 811 (b) of such Act is hereby repealed."
+  },
+  {
+   "role": "sidenote",
+   "text": "Repeal."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 11. Section 821 (a) of such Act is amended by striking the"
+  },
+  {
+   "role": "sidenote",
+   "text": "22 USC 1076."
+  },
+  {
+   "role": "body",
+   "text": "phrase \", not exceeding $13,500 per annum,\" and \"five years next pre-"
+  },
+  {
+   "role": "body",
+   "text": "ceding the date of his retirement\" and inserting the phrase \"highest"
+  },
+  {
+   "role": "body",
+   "text": "five consecutive years of service, for which full contributions have"
+  },
+  {
+   "role": "body",
+   "text": "been made to the fund,\" immediately preceding the phrase \"multiplied"
+  },
+  {
+   "role": "body",
+   "text": "by\"."
+  },
+  {
+   "role": "body",
+   "text": "Approved August 5, 1955."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 251                                    CHAPTER 577"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "body",
+   "text": "To authorize the construction of two surveying ships for the Coast and Geodetic"
+  },
+  {
+   "role": "body",
+   "text": "Survey, Department of Commerce, and for other purposes."
+  },
+  {
+   "role": "sidenote",
+   "text": "August 5, 1955"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 847]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That there is hereby"
+  },
+  {
+   "role": "sidenote",
+   "text": "Coast and Geo-"
+  },
+  {
+   "role": "sidenote",
+   "text": "detic Survey."
+  },
+  {
+   "role": "body",
+   "text": "authorized to be constructed for the Department of Commerce two"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ships."
+  },
+  {
+   "role": "body",
+   "text": "surveying ships of not over two thousand five hundred displacement"
+  }
+ ],
+ "disagreement_count": 26,
+ "tokens": {
+  "input_tokens": 22920,
+  "output_tokens": 6794,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.28561,
+ "seconds": 77.8,
+ "created": "2026-09-08T12:33:25"
+}

@@ -1,0 +1,1598 @@
+{
+ "granule_id": "STATUTE-11-Pg337-2",
+ "package_id": "STATUTE-11",
+ "volume": 11,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act making an Appropriation for the Completion of the Military Road from Astoria to Salem, in Oregon Territory.",
+ "date_issued": "1858-06-14",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "337",
+ "image": "data/gold/STATUTE-11-Pg337-2/p1.png",
+ "image_sha256": "fe0927e6ff9276642cc6c97b5536b40d81ca9e78c4bcea98000921fe3783eefc",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-FIFTH CONGRESS.  SESS. I.  CH. 160, 161, 162.  1858."
+    },
+    {
+     "role": "page-number",
+     "text": "337"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLX.—An Act making Appropriations for the Expenses of Collecting the Revenue"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 14, 1858."
+    },
+    {
+     "role": "body",
+     "text": "from Customs."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That there be, and hereby is,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Collection of"
+    },
+    {
+     "role": "body",
+     "text": "appropriated for the expenses of collecting the revenue from customs for"
+    },
+    {
+     "role": "sidenote",
+     "text": "revenue from"
+    },
+    {
+     "role": "body",
+     "text": "each half year, the sum of one million eight hundred thousand dollars,"
+    },
+    {
+     "role": "sidenote",
+     "text": "customs each"
+    },
+    {
+     "role": "body",
+     "text": "payable out of any moneys in the treasury not otherwise appropriated,"
+    },
+    {
+     "role": "sidenote",
+     "text": "half year."
+    },
+    {
+     "role": "body",
+     "text": "together with such sums as may be received from storage, cartage, dray-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Laws author-"
+    },
+    {
+     "role": "body",
+     "text": "age, and labor for said half year."
+    },
+    {
+     "role": "sidenote",
+     "text": "izing the pay-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That from and after the said first"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment of expense"
+    },
+    {
+     "role": "body",
+     "text": "day of July, eighteen hundred and fifty-eight, all laws and parts of laws"
+    },
+    {
+     "role": "sidenote",
+     "text": "of collecting rev-"
+    },
+    {
+     "role": "body",
+     "text": "which authorize the payment of the expenses, or any portion of the ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "enue from cus-"
+    },
+    {
+     "role": "body",
+     "text": "penses of collecting the revenue from customs to any port or ports on the"
+    },
+    {
+     "role": "sidenote",
+     "text": "toms in the Pa-"
+    },
+    {
+     "role": "body",
+     "text": "Pacific coast of the United States out of the accruing revenue, before the"
+    },
+    {
+     "role": "sidenote",
+     "text": "cific ports out of"
+    },
+    {
+     "role": "body",
+     "text": "same is paid into the treasury, shall be, and hereby are, repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "accruing rev-"
+    },
+    {
+     "role": "sidenote",
+     "text": "enue, repealed"
+    },
+    {
+     "role": "sidenote",
+     "text": "from July 1, 1858."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That the Secretary of the Treasury"
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary of"
+    },
+    {
+     "role": "body",
+     "text": "shall report to the next session of Congress, a plan and estimates for re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Treasury to re-"
+    },
+    {
+     "role": "body",
+     "text": "ducing the expenses of the collection of the revenue, in accordance with"
+    },
+    {
+     "role": "sidenote",
+     "text": "port to next ses-"
+    },
+    {
+     "role": "body",
+     "text": "the general recommendations of his last annual report."
+    },
+    {
+     "role": "sidenote",
+     "text": "sion of Congress,"
+    },
+    {
+     "role": "sidenote",
+     "text": "plan, &c. for re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ducing expenses"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That the Secretary of the Treasury"
+    },
+    {
+     "role": "sidenote",
+     "text": "of collecting rev-"
+    },
+    {
+     "role": "body",
+     "text": "be, and he is hereby, authorized, at his discretion, to discontinue all ports"
+    },
+    {
+     "role": "sidenote",
+     "text": "enue."
+    },
+    {
+     "role": "body",
+     "text": "of delivery, the revenue received at each of which does not amount to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary of"
+    },
+    {
+     "role": "body",
+     "text": "sum of ten thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "Treasury may"
+    },
+    {
+     "role": "sidenote",
+     "text": "discontinue ports"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That no collector of the customs,"
+    },
+    {
+     "role": "sidenote",
+     "text": "of delivery, where"
+    },
+    {
+     "role": "body",
+     "text": "deputy collector, naval officer, deputy naval officer, surveyor, deputy sur-"
+    },
+    {
+     "role": "sidenote",
+     "text": "the revenue does"
+    },
+    {
+     "role": "sidenote",
+     "text": "not amount to"
+    },
+    {
+     "role": "sidenote",
+     "text": "$10,000."
+    },
+    {
+     "role": "body",
+     "text": "veyor, general appraiser, superintendent of warehouses, or appraisers, shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "No collector,"
+    },
+    {
+     "role": "body",
+     "text": "receive a compensation more than twenty-five percent. greater than is"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c. shall receive"
+    },
+    {
+     "role": "body",
+     "text": "now paid to the officers and persons engaged in said services at the port"
+    },
+    {
+     "role": "sidenote",
+     "text": "more pay than 25"
+    },
+    {
+     "role": "body",
+     "text": "of New York: Provided, That this section shall not be so construed as to"
+    },
+    {
+     "role": "sidenote",
+     "text": "per cent. greater"
+    },
+    {
+     "role": "body",
+     "text": "increase the compensation of any officer of the customs, or of any person"
+    },
+    {
+     "role": "sidenote",
+     "text": "than such officers"
+    },
+    {
+     "role": "sidenote",
+     "text": "now have at the"
+    },
+    {
+     "role": "body",
+     "text": "engaged in the collection thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "port of N. York."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 14, 1858."
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLXI.—An Act making an Appropriation for the Completion of the Military Road"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 14, 1858."
+    },
+    {
+     "role": "body",
+     "text": "from Astoria to Salem, in Oregon Territory."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the sum of thirty thou-"
+    },
+    {
+     "role": "sidenote",
+     "text": "$30,000 appro-"
+    },
+    {
+     "role": "body",
+     "text": "sand dollars ($30,000) be, and the same is hereby, appropriated for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "priated to com-"
+    },
+    {
+     "role": "body",
+     "text": "completion of the military road from Astoria to Salem, to be completed"
+    },
+    {
+     "role": "sidenote",
+     "text": "plete military"
+    },
+    {
+     "role": "sidenote",
+     "text": "road from As-"
+    },
+    {
+     "role": "body",
+     "text": "under the direction of the Secretary of War."
+    },
+    {
+     "role": "sidenote",
+     "text": "toria to Salem,"
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 14, 1858."
+    },
+    {
+     "role": "sidenote",
+     "text": "O. T."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLXII.—An Act to establish certain Post-Roads."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 14, 1858."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the following be established"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post-roads es-"
+    },
+    {
+     "role": "body",
+     "text": "as post-roads:"
+    },
+    {
+     "role": "sidenote",
+     "text": "tablished in—"
+    },
+    {
+     "role": "body",
+     "text": "ALABAMA."
+    },
+    {
+     "role": "sidenote",
+     "text": "Alabama."
+    },
+    {
+     "role": "body",
+     "text": "From Pine Level, in Montgomery county, via China Grove, Fryer's"
+    },
+    {
+     "role": "body",
+     "text": "Bridge, Monticello, to Pea River, in Pike county."
+    },
+    {
+     "role": "body",
+     "text": "From Jefferson, via Macon, to Brewersville."
+    },
+    {
+     "role": "body",
+     "text": "From Greenville, via Tuluca, Rainersville, to Leon."
+    },
+    {
+     "role": "body",
+     "text": "From Handy Post-Office to Jasper, in Walker county."
+    },
+    {
+     "role": "body",
+     "text": "From Lyonsville, via Nichols' Carlie's, and Gordon's, to Whiteside's,"
+    },
+    {
+     "role": "body",
+     "text": "on the Nashville and Chattanooga railroad."
+    },
+    {
+     "role": "body",
+     "text": "From Larkinsville to Gunter's Landing."
+    },
+    {
+     "role": "body",
+     "text": "From Athens, via Good Springs and Gilbertsboro', to Mount Raszell."
+    },
+    {
+     "role": "body",
+     "text": "From Talladega, via Florence's Ferry, and Coosa Valley, to Crosswell."
+    },
+    {
+     "role": "body",
+     "text": "VOL. XI.—PUB. 43"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2907,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.10011,
+   "seconds": 33.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-FIFTH CONGRESS.  SESS. I.  CH. 160, 161, 162.  1858."
+    },
+    {
+     "role": "page-number",
+     "text": "337"
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLX.—An Act making Appropriations for the Expenses of Collecting the Revenue"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 14, 1858."
+    },
+    {
+     "role": "body",
+     "text": "from Customs."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That there be, and hereby is,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Collection of"
+    },
+    {
+     "role": "body",
+     "text": "appropriated for the expenses of collecting the revenue from customs for"
+    },
+    {
+     "role": "sidenote",
+     "text": "revenue from"
+    },
+    {
+     "role": "body",
+     "text": "each half year, the sum of one million eight hundred thousand dollars,"
+    },
+    {
+     "role": "sidenote",
+     "text": "customs each"
+    },
+    {
+     "role": "sidenote",
+     "text": "half year."
+    },
+    {
+     "role": "body",
+     "text": "payable out of any moneys in the treasury not otherwise appropriated,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Laws author-"
+    },
+    {
+     "role": "body",
+     "text": "together with such sums as may be received from storage, cartage, dray-"
+    },
+    {
+     "role": "sidenote",
+     "text": "izing the pay-"
+    },
+    {
+     "role": "body",
+     "text": "age, and labor for said half year."
+    },
+    {
+     "role": "sidenote",
+     "text": "ment of expense"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That from and after the said first"
+    },
+    {
+     "role": "sidenote",
+     "text": "of collecting rev-"
+    },
+    {
+     "role": "sidenote",
+     "text": "enue from cus-"
+    },
+    {
+     "role": "body",
+     "text": "day of July, eighteen hundred and fifty-eight, all laws and parts of laws"
+    },
+    {
+     "role": "sidenote",
+     "text": "toms in the Pa-"
+    },
+    {
+     "role": "body",
+     "text": "which authorize the payment of the expenses, or any portion of the ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "cific ports out of"
+    },
+    {
+     "role": "sidenote",
+     "text": "accruing rev-"
+    },
+    {
+     "role": "body",
+     "text": "penses of collecting the revenue from customs to any port or ports on the"
+    },
+    {
+     "role": "sidenote",
+     "text": "enue, repealed"
+    },
+    {
+     "role": "body",
+     "text": "Pacific coast of the United States out of the accruing revenue, before the"
+    },
+    {
+     "role": "sidenote",
+     "text": "from July 1, 1858."
+    },
+    {
+     "role": "body",
+     "text": "same is paid into the treasury, shall be, and hereby are, repealed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary of"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That the Secretary of the Treasury"
+    },
+    {
+     "role": "sidenote",
+     "text": "Treasury to re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "port to next ses-"
+    },
+    {
+     "role": "body",
+     "text": "shall report to the next session of Congress, a plan and estimates for re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sion of Congress,"
+    },
+    {
+     "role": "body",
+     "text": "ducing the expenses of the collection of the revenue, in accordance with"
+    },
+    {
+     "role": "sidenote",
+     "text": "plan, &c. for re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ducing expenses"
+    },
+    {
+     "role": "body",
+     "text": "the general recommendations of his last annual report."
+    },
+    {
+     "role": "sidenote",
+     "text": "of collecting rev-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That the Secretary of the Treasury"
+    },
+    {
+     "role": "sidenote",
+     "text": "enue."
+    },
+    {
+     "role": "body",
+     "text": "be, and he is hereby, authorized, at his discretion, to discontinue all ports"
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Treasury may"
+    },
+    {
+     "role": "body",
+     "text": "of delivery, the revenue received at each of which does not amount to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "discontinue ports"
+    },
+    {
+     "role": "body",
+     "text": "sum of ten thousand dollars."
+    },
+    {
+     "role": "sidenote",
+     "text": "of delivery, where"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That no collector of the customs,"
+    },
+    {
+     "role": "sidenote",
+     "text": "the revenue does"
+    },
+    {
+     "role": "sidenote",
+     "text": "not amount to"
+    },
+    {
+     "role": "body",
+     "text": "deputy collector, naval officer, deputy naval officer, surveyor, deputy sur-"
+    },
+    {
+     "role": "sidenote",
+     "text": "$10,000."
+    },
+    {
+     "role": "body",
+     "text": "veyor, general appraiser, superintendent of warehouses, or appraisers, shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "No collector,"
+    },
+    {
+     "role": "body",
+     "text": "receive a compensation more than twenty-five percent. greater than is"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c. shall receive"
+    },
+    {
+     "role": "body",
+     "text": "now paid to the officers and persons engaged in said services at the port"
+    },
+    {
+     "role": "sidenote",
+     "text": "more pay than 25"
+    },
+    {
+     "role": "sidenote",
+     "text": "per cent. greater"
+    },
+    {
+     "role": "body",
+     "text": "of New York : Provided, That this section shall not be so construed as to"
+    },
+    {
+     "role": "sidenote",
+     "text": "than such officers"
+    },
+    {
+     "role": "body",
+     "text": "increase the compensation of any officer of the customs, or of any person"
+    },
+    {
+     "role": "sidenote",
+     "text": "now have at the"
+    },
+    {
+     "role": "sidenote",
+     "text": "port of N. York."
+    },
+    {
+     "role": "body",
+     "text": "engaged in the collection thereof."
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 14, 1858."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLXI.—An Act making an Appropriation for the Completion of the Military Road"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 14, 1858."
+    },
+    {
+     "role": "body",
+     "text": "from Astoria to Salem, in Oregon Territory."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the sum of thirty thou-"
+    },
+    {
+     "role": "sidenote",
+     "text": "$30,000 appro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "priated to com-"
+    },
+    {
+     "role": "body",
+     "text": "sand dollars ($30,000) be, and the same is hereby, appropriated for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "plete military"
+    },
+    {
+     "role": "body",
+     "text": "completion of the military road from Astoria to Salem, to be completed"
+    },
+    {
+     "role": "sidenote",
+     "text": "road from As-"
+    },
+    {
+     "role": "sidenote",
+     "text": "toria to Salem,"
+    },
+    {
+     "role": "body",
+     "text": "under the direction of the Secretary of War."
+    },
+    {
+     "role": "sidenote",
+     "text": "O. T."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 14, 1858."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CLXII.—An Act to establish certain Post-Roads."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 14, 1858."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the following be established"
+    },
+    {
+     "role": "sidenote",
+     "text": "Post-roads es-"
+    },
+    {
+     "role": "body",
+     "text": "as post-roads :"
+    },
+    {
+     "role": "sidenote",
+     "text": "tablished in—"
+    },
+    {
+     "role": "body",
+     "text": "ALABAMA."
+    },
+    {
+     "role": "sidenote",
+     "text": "Alabama."
+    },
+    {
+     "role": "body",
+     "text": "From Pine Level, in Montgomery county, via China Grove, Fryer's"
+    },
+    {
+     "role": "body",
+     "text": "Bridge, Monticello, to Pea River, in Pike county."
+    },
+    {
+     "role": "body",
+     "text": "From Jefferson, via Macon, to Brewersville."
+    },
+    {
+     "role": "body",
+     "text": "From Greenville, via Tuluca, Rainersville, to Leon."
+    },
+    {
+     "role": "body",
+     "text": "From Handy Post-Office to Jasper, in Walker county."
+    },
+    {
+     "role": "body",
+     "text": "From Lyonsville, via Nichols' Carlie's, and Gordon's, to Whiteside's,"
+    },
+    {
+     "role": "body",
+     "text": "on the Nashville and Chattanooga railroad."
+    },
+    {
+     "role": "body",
+     "text": "From Larkinsville to Gunter's Landing."
+    },
+    {
+     "role": "body",
+     "text": "From Athens, via Good Springs and Gilbertsboro', to Mount Raszell."
+    },
+    {
+     "role": "body",
+     "text": "From Talladega, via Florence's Ferry, and Coosa Valley, to Crosswell."
+    },
+    {
+     "role": "body",
+     "text": "VOL. XI.—PUB. 43"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2907,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.1001,
+   "seconds": 30.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 14056,
+   "output_tokens": 6892,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.243,
+  "seconds": 77.0,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "half year.",
+    "kept": "half year.",
+    "reason": "The sidenote 'half year.' stands beside the 'each half year' line, before the 'payable out' body line."
+   },
+   {
+    "run": 2,
+    "a": "half year.",
+    "b": "Laws author-",
+    "kept": "Laws author-",
+    "reason": "'half year.' was already placed above; next sidenote here is 'Laws author-'."
+   },
+   {
+    "run": 3,
+    "a": "Laws author-",
+    "b": "izing the pay-",
+    "kept": "izing the pay-",
+    "reason": "Sidenote sequence continues one line ahead of the body, matching the image."
+   },
+   {
+    "run": 4,
+    "a": "izing the pay-",
+    "b": "ment of expense",
+    "kept": "ment of expense",
+    "reason": "Sidenote aligned with 'age, and labor for said half year.'"
+   },
+   {
+    "run": 5,
+    "a": "ment of expense",
+    "b": "of collecting rev-\nenue from cus-",
+    "kept": "of collecting rev-\nenue from cus-",
+    "reason": "Two smaller sidenote lines fall beside the SEC. 2 body line."
+   },
+   {
+    "run": 6,
+    "a": "of collecting rev-",
+    "b": "toms in the Pa-",
+    "kept": "toms in the Pa-",
+    "reason": "Next sidenote line beside 'day of July...' in the image."
+   },
+   {
+    "run": 7,
+    "a": "enue from cus-",
+    "b": "cific ports out of\naccruing rev-",
+    "kept": "cific ports out of\naccruing rev-",
+    "reason": "Two sidenote lines beside 'which authorize...' line."
+   },
+   {
+    "run": 8,
+    "a": "toms in the Pa-",
+    "b": "enue, repealed",
+    "kept": "enue, repealed",
+    "reason": "Aligned with 'penses of collecting...' line."
+   },
+   {
+    "run": 9,
+    "a": "cific ports out of",
+    "b": "from July 1, 1858.",
+    "kept": "from July 1, 1858.",
+    "reason": "Aligned with 'Pacific coast...' line, closing the sidenote block."
+   },
+   {
+    "run": 10,
+    "a": "accruing rev-\nenue, repealed\nfrom July 1, 1858.",
+    "b": "Secretary of",
+    "kept": "Secretary of",
+    "reason": "New sidenote block begins beside 'same is paid into the treasury' line."
+   },
+   {
+    "run": 11,
+    "a": "Secretary of",
+    "b": "Treasury to re-\nport to next ses-",
+    "kept": "Treasury to re-\nport to next ses-",
+    "reason": "Two sidenote lines beside the SEC. 3 body line."
+   },
+   {
+    "run": 12,
+    "a": "Treasury to re-",
+    "b": "sion of Congress,",
+    "kept": "sion of Congress,",
+    "reason": "Aligned with 'shall report to the next session...' line."
+   },
+   {
+    "run": 13,
+    "a": "port to next ses-\nthe general recommendations of his last annual report.\nsion of Congress,",
+    "b": "",
+    "kept": "",
+    "reason": "A misplaced these lines; nothing stands here in the image."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "the general recommendations of his last annual report.\nof collecting rev-",
+    "kept": "the general recommendations of his last annual report.\nof collecting rev-",
+    "reason": "'of collecting rev-' stands beside 'the general recommendations' line, which follows 'ducing expenses'."
+   },
+   {
+    "run": 15,
+    "a": "of collecting rev-",
+    "b": "enue.",
+    "kept": "enue.",
+    "reason": "'enue.' aligns with the SEC. 4 body line."
+   },
+   {
+    "run": 16,
+    "a": "enue.",
+    "b": "Secretary of\nTreasury may",
+    "kept": "Secretary of\nTreasury may",
+    "reason": "Two sidenote lines beside 'be, and he is hereby, authorized...' line."
+   },
+   {
+    "run": 17,
+    "a": "Secretary of",
+    "b": "discontinue ports",
+    "kept": "discontinue ports",
+    "reason": "Aligned with 'of delivery, the revenue received...' line."
+   },
+   {
+    "run": 18,
+    "a": "Treasury may\ndiscontinue ports",
+    "b": "of delivery, where",
+    "kept": "of delivery, where",
+    "reason": "Aligned with 'sum of ten thousand dollars.' line."
+   },
+   {
+    "run": 19,
+    "a": "of delivery, where\ndeputy collector, naval officer, deputy naval officer, surveyor, deputy sur-",
+    "b": "",
+    "kept": "",
+    "reason": "A placed the body line too early; nothing is printed here."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "deputy collector, naval officer, deputy naval officer, surveyor, deputy sur-",
+    "kept": "deputy collector, naval officer, deputy naval officer, surveyor, deputy sur-",
+    "reason": "This body line follows the sidenotes 'the revenue does / not amount to' and precedes '$10,000.'"
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "per cent. greater",
+    "kept": "per cent. greater",
+    "reason": "Two sidenote lines stand beside 'now paid to the officers...' line."
+   },
+   {
+    "run": 22,
+    "a": "per cent. greater",
+    "b": "than such officers",
+    "kept": "than such officers",
+    "reason": "Aligned with the 'of New York : Provided' line."
+   },
+   {
+    "run": 23,
+    "a": "than such officers",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above; nothing printed here."
+   },
+   {
+    "run": 24,
+    "a": "",
+    "b": "port of N. York.",
+    "kept": "port of N. York.",
+    "reason": "Follows 'now have at the' beside the 'increase the compensation' line."
+   },
+   {
+    "run": 25,
+    "a": "port of N. York.",
+    "b": "Proviso.",
+    "kept": "Proviso.",
+    "reason": "'Proviso.' stands beside 'engaged in the collection thereof.'"
+   },
+   {
+    "run": 26,
+    "a": "Proviso.",
+    "b": "",
+    "kept": "",
+    "reason": "'Proviso.' already placed; nothing printed here."
+   },
+   {
+    "run": 27,
+    "a": "",
+    "b": "priated to com-",
+    "kept": "priated to com-",
+    "reason": "Sidenote line stands beside the 'thirty thou-' body line, before 'sand dollars'."
+   },
+   {
+    "run": 28,
+    "a": "priated to com-",
+    "b": "plete military",
+    "kept": "plete military",
+    "reason": "Aligned with the 'sand dollars ($30,000)' line."
+   },
+   {
+    "run": 29,
+    "a": "plete military",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above; nothing printed here."
+   },
+   {
+    "run": 30,
+    "a": "",
+    "b": "toria to Salem,",
+    "kept": "toria to Salem,",
+    "reason": "Follows 'road from As-' beside the 'completion of the military road' line."
+   },
+   {
+    "run": 31,
+    "a": "toria to Salem,",
+    "b": "O. T.",
+    "kept": "O. T.",
+    "reason": "'O. T.' stands beside 'under the direction of the Secretary of War.'"
+   },
+   {
+    "run": 32,
+    "a": "O. T.",
+    "b": "",
+    "kept": "",
+    "reason": "'O. T.' already placed; nothing printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "THIRTY-FIFTH CONGRESS.  SESS. I.  CH. 160, 161, 162.  1858."
+  },
+  {
+   "role": "page-number",
+   "text": "337"
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CLX.—An Act making Appropriations for the Expenses of Collecting the Revenue"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 14, 1858."
+  },
+  {
+   "role": "body",
+   "text": "from Customs."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That there be, and hereby is,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Collection of"
+  },
+  {
+   "role": "body",
+   "text": "appropriated for the expenses of collecting the revenue from customs for"
+  },
+  {
+   "role": "sidenote",
+   "text": "revenue from"
+  },
+  {
+   "role": "body",
+   "text": "each half year, the sum of one million eight hundred thousand dollars,"
+  },
+  {
+   "role": "sidenote",
+   "text": "customs each"
+  },
+  {
+   "role": "sidenote",
+   "text": "half year."
+  },
+  {
+   "role": "body",
+   "text": "payable out of any moneys in the treasury not otherwise appropriated,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Laws author-"
+  },
+  {
+   "role": "body",
+   "text": "together with such sums as may be received from storage, cartage, dray-"
+  },
+  {
+   "role": "sidenote",
+   "text": "izing the pay-"
+  },
+  {
+   "role": "body",
+   "text": "age, and labor for said half year."
+  },
+  {
+   "role": "sidenote",
+   "text": "ment of expense"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That from and after the said first"
+  },
+  {
+   "role": "sidenote",
+   "text": "of collecting rev-"
+  },
+  {
+   "role": "sidenote",
+   "text": "enue from cus-"
+  },
+  {
+   "role": "body",
+   "text": "day of July, eighteen hundred and fifty-eight, all laws and parts of laws"
+  },
+  {
+   "role": "sidenote",
+   "text": "toms in the Pa-"
+  },
+  {
+   "role": "body",
+   "text": "which authorize the payment of the expenses, or any portion of the ex-"
+  },
+  {
+   "role": "sidenote",
+   "text": "cific ports out of"
+  },
+  {
+   "role": "sidenote",
+   "text": "accruing rev-"
+  },
+  {
+   "role": "body",
+   "text": "penses of collecting the revenue from customs to any port or ports on the"
+  },
+  {
+   "role": "sidenote",
+   "text": "enue, repealed"
+  },
+  {
+   "role": "body",
+   "text": "Pacific coast of the United States out of the accruing revenue, before the"
+  },
+  {
+   "role": "sidenote",
+   "text": "from July 1, 1858."
+  },
+  {
+   "role": "body",
+   "text": "same is paid into the treasury, shall be, and hereby are, repealed."
+  },
+  {
+   "role": "sidenote",
+   "text": "Secretary of"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That the Secretary of the Treasury"
+  },
+  {
+   "role": "sidenote",
+   "text": "Treasury to re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "port to next ses-"
+  },
+  {
+   "role": "body",
+   "text": "shall report to the next session of Congress, a plan and estimates for re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "sion of Congress,"
+  },
+  {
+   "role": "body",
+   "text": "ducing the expenses of the collection of the revenue, in accordance with"
+  },
+  {
+   "role": "sidenote",
+   "text": "plan, &c. for re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ducing expenses"
+  },
+  {
+   "role": "body",
+   "text": "the general recommendations of his last annual report."
+  },
+  {
+   "role": "sidenote",
+   "text": "of collecting rev-"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. And be it further enacted, That the Secretary of the Treasury"
+  },
+  {
+   "role": "sidenote",
+   "text": "enue."
+  },
+  {
+   "role": "body",
+   "text": "be, and he is hereby, authorized, at his discretion, to discontinue all ports"
+  },
+  {
+   "role": "sidenote",
+   "text": "Secretary of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Treasury may"
+  },
+  {
+   "role": "body",
+   "text": "of delivery, the revenue received at each of which does not amount to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "discontinue ports"
+  },
+  {
+   "role": "body",
+   "text": "sum of ten thousand dollars."
+  },
+  {
+   "role": "sidenote",
+   "text": "of delivery, where"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. And be it further enacted, That no collector of the customs,"
+  },
+  {
+   "role": "sidenote",
+   "text": "the revenue does"
+  },
+  {
+   "role": "sidenote",
+   "text": "not amount to"
+  },
+  {
+   "role": "body",
+   "text": "deputy collector, naval officer, deputy naval officer, surveyor, deputy sur-"
+  },
+  {
+   "role": "sidenote",
+   "text": "$10,000."
+  },
+  {
+   "role": "body",
+   "text": "veyor, general appraiser, superintendent of warehouses, or appraisers, shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "No collector,"
+  },
+  {
+   "role": "body",
+   "text": "receive a compensation more than twenty-five percent. greater than is"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c. shall receive"
+  },
+  {
+   "role": "body",
+   "text": "now paid to the officers and persons engaged in said services at the port"
+  },
+  {
+   "role": "sidenote",
+   "text": "more pay than 25"
+  },
+  {
+   "role": "sidenote",
+   "text": "per cent. greater"
+  },
+  {
+   "role": "body",
+   "text": "of New York: Provided, That this section shall not be so construed as to"
+  },
+  {
+   "role": "sidenote",
+   "text": "than such officers"
+  },
+  {
+   "role": "body",
+   "text": "increase the compensation of any officer of the customs, or of any person"
+  },
+  {
+   "role": "sidenote",
+   "text": "now have at the"
+  },
+  {
+   "role": "sidenote",
+   "text": "port of N. York."
+  },
+  {
+   "role": "body",
+   "text": "engaged in the collection thereof."
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, June 14, 1858."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CLXI.—An Act making an Appropriation for the Completion of the Military Road"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 14, 1858."
+  },
+  {
+   "role": "body",
+   "text": "from Astoria to Salem, in Oregon Territory."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the sum of thirty thou-"
+  },
+  {
+   "role": "sidenote",
+   "text": "$30,000 appro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "priated to com-"
+  },
+  {
+   "role": "body",
+   "text": "sand dollars ($30,000) be, and the same is hereby, appropriated for the"
+  },
+  {
+   "role": "sidenote",
+   "text": "plete military"
+  },
+  {
+   "role": "body",
+   "text": "completion of the military road from Astoria to Salem, to be completed"
+  },
+  {
+   "role": "sidenote",
+   "text": "road from As-"
+  },
+  {
+   "role": "sidenote",
+   "text": "toria to Salem,"
+  },
+  {
+   "role": "body",
+   "text": "under the direction of the Secretary of War."
+  },
+  {
+   "role": "sidenote",
+   "text": "O. T."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, June 14, 1858."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CLXII.—An Act to establish certain Post-Roads."
+  },
+  {
+   "role": "sidenote",
+   "text": "June 14, 1858."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the following be established"
+  },
+  {
+   "role": "sidenote",
+   "text": "Post-roads es-"
+  },
+  {
+   "role": "body",
+   "text": "as post-roads:"
+  },
+  {
+   "role": "sidenote",
+   "text": "tablished in—"
+  },
+  {
+   "role": "body",
+   "text": "ALABAMA."
+  },
+  {
+   "role": "sidenote",
+   "text": "Alabama."
+  },
+  {
+   "role": "body",
+   "text": "From Pine Level, in Montgomery county, via China Grove, Fryer's"
+  },
+  {
+   "role": "body",
+   "text": "Bridge, Monticello, to Pea River, in Pike county."
+  },
+  {
+   "role": "body",
+   "text": "From Jefferson, via Macon, to Brewersville."
+  },
+  {
+   "role": "body",
+   "text": "From Greenville, via Tuluca, Rainersville, to Leon."
+  },
+  {
+   "role": "body",
+   "text": "From Handy Post-Office to Jasper, in Walker county."
+  },
+  {
+   "role": "body",
+   "text": "From Lyonsville, via Nichols' Carlie's, and Gordon's, to Whiteside's,"
+  },
+  {
+   "role": "body",
+   "text": "on the Nashville and Chattanooga railroad."
+  },
+  {
+   "role": "body",
+   "text": "From Larkinsville to Gunter's Landing."
+  },
+  {
+   "role": "body",
+   "text": "From Athens, via Good Springs and Gilbertsboro', to Mount Raszell."
+  },
+  {
+   "role": "body",
+   "text": "From Talladega, via Florence's Ferry, and Coosa Valley, to Crosswell."
+  },
+  {
+   "role": "body",
+   "text": "VOL. XI.—PUB. 43"
+  }
+ ],
+ "disagreement_count": 32,
+ "tokens": {
+  "input_tokens": 24879,
+  "output_tokens": 12706,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.44321,
+ "seconds": 141.5,
+ "created": "2026-09-08T11:20:13"
+}

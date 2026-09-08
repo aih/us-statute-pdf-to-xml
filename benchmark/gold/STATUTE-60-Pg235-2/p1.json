@@ -1,0 +1,1150 @@
+{
+ "granule_id": "STATUTE-60-Pg235-2",
+ "package_id": "STATUTE-60",
+ "volume": 60,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT For the relief of the city of San Diego, Texas.",
+ "date_issued": "1946-06-08",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "235",
+ "image": "data/gold/STATUTE-60-Pg235-2/p1.png",
+ "image_sha256": "ef523a3f6e72d5a1edb05f16eea39f833a8243cb61b5f4868e105c56c00a0344",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "60 STAT.]    79TH CONG., 2D SESS.—CHS. 284, 285, 297—JUNE 8, 10, 1946"
+    },
+    {
+     "role": "page-number",
+     "text": "235"
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 284]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 8, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1872]"
+    },
+    {
+     "role": "body",
+     "text": "To provide for the rank of original appointments in the Corps of Civil Engineers"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 399]"
+    },
+    {
+     "role": "body",
+     "text": "of the United States Navy, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "U. S. Navy."
+    },
+    {
+     "role": "sidenote",
+     "text": "Original appoint-"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That hereafter,"
+    },
+    {
+     "role": "sidenote",
+     "text": "ments in Corps of"
+    },
+    {
+     "role": "body",
+     "text": "original appointments as officers in the Corps of Civil Engineers of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Civil Engineers."
+    },
+    {
+     "role": "body",
+     "text": "the United States Navy shall be in the grade of assistant civil engineer"
+    },
+    {
+     "role": "body",
+     "text": "with rank of ensign or of lieutenant (junior grade) in accordance with"
+    },
+    {
+     "role": "body",
+     "text": "such regulations as the Secretary of the Navy may prescribe."
+    },
+    {
+     "role": "sidenote",
+     "text": "Repeal."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The second paragraph under the heading \"Fuel and trans-"
+    },
+    {
+     "role": "sidenote",
+     "text": "39 Stat. 1184."
+    },
+    {
+     "role": "body",
+     "text": "portation\" in chapter 180, Thirty-ninth Statutes at Large, 1168, which"
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C. § 256."
+    },
+    {
+     "role": "body",
+     "text": "is the first paragraph on page 1184, is hereby repealed."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 8, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 285]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 8, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 4418]"
+    },
+    {
+     "role": "body",
+     "text": "For the relief of the city of San Diego, Texas."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 400]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "San Diego, Texas."
+    },
+    {
+     "role": "sidenote",
+     "text": "Settlement of"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Secretary"
+    },
+    {
+     "role": "sidenote",
+     "text": "claims."
+    },
+    {
+     "role": "body",
+     "text": "of the Treasury be, and he is hereby, authorized and directed to pay,"
+    },
+    {
+     "role": "body",
+     "text": "out of any money in the Treasury not otherwise appropriated, to the"
+    },
+    {
+     "role": "body",
+     "text": "city of San Diego, Texas, or its duly authorized agents, the sum of"
+    },
+    {
+     "role": "body",
+     "text": "$13,439.45, in full settlement of all claims against the United States"
+    },
+    {
+     "role": "body",
+     "text": "for the destruction of the water tank, tower, electric fire siren, and"
+    },
+    {
+     "role": "body",
+     "text": "frame garage when said city property was demolished by a plane"
+    },
+    {
+     "role": "body",
+     "text": "piloted by a Navy flier on the 11th day of July 1945: Provided, That"
+    },
+    {
+     "role": "body",
+     "text": "no part of the amount appropriated in this Act in excess of 10 per"
+    },
+    {
+     "role": "body",
+     "text": "centum thereof shall be paid or delivered to or received by any agent"
+    },
+    {
+     "role": "body",
+     "text": "or attorney on account of services rendered in connection with this"
+    },
+    {
+     "role": "body",
+     "text": "claim, and the same shall be unlawful, any contract to the contrary"
+    },
+    {
+     "role": "body",
+     "text": "notwithstanding. Any person violating the provisions of this Act"
+    },
+    {
+     "role": "body",
+     "text": "shall be deemed guilty of a misdemeanor and upon conviction thereof"
+    },
+    {
+     "role": "body",
+     "text": "shall be fined in any sum not exceeding $1,000."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 8, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 297]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 10, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1605]"
+    },
+    {
+     "role": "body",
+     "text": "To reimburse certain Navy and Marine Corps personnel and former Navy and"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 401]"
+    },
+    {
+     "role": "body",
+     "text": "Marine Corps personnel for personal property lost or damaged as the result of"
+    },
+    {
+     "role": "body",
+     "text": "fires which occurred at various Navy and Marine Corps shore activities."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Navy and Marine"
+    },
+    {
+     "role": "sidenote",
+     "text": "Corps personnel and"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Secretary"
+    },
+    {
+     "role": "sidenote",
+     "text": "former personnel."
+    },
+    {
+     "role": "sidenote",
+     "text": "Reimbursement."
+    },
+    {
+     "role": "body",
+     "text": "of the Treasury be, and he is hereby, authorized and directed to pay,"
+    },
+    {
+     "role": "body",
+     "text": "out of any money in the Treasury not otherwise appropriated, such"
+    },
+    {
+     "role": "body",
+     "text": "sum or sums, amounting in the aggregate not to exceed $7,283.87, as"
+    },
+    {
+     "role": "body",
+     "text": "may be required by the Secretary of the Navy to reimburse, under such"
+    },
+    {
+     "role": "body",
+     "text": "regulations as he may prescribe, certain Navy and Marine Corps per-"
+    },
+    {
+     "role": "body",
+     "text": "sonnel and former Navy and Marine Corps personnel for the value"
+    },
+    {
+     "role": "body",
+     "text": "of personal property lost or damaged as the result of fires occurring"
+    },
+    {
+     "role": "body",
+     "text": "in a Quonset hut at naval operating base, Navy 151, on January 9,"
+    },
+    {
+     "role": "body",
+     "text": "1945; in barracks at United States naval air facility, Hitchcock, Texas,"
+    },
+    {
+     "role": "body",
+     "text": "on May 22, 1945; in Quonset hut 38, Patsu four-one, on February 3,"
+    },
+    {
+     "role": "body",
+     "text": "1945; in building 215, Marine Corps air depot, Miramar, San Diego,"
+    },
+    {
+     "role": "body",
+     "text": "California, on March 15, 1945; in Quonset hut at naval air station,"
+    },
+    {
+     "role": "body",
+     "text": "Attu, Alaska, on January 29, 1945; in barracks at naval air station,"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2340,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08593,
+   "seconds": 26.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "60 STAT.]   79TH CONG., 2D SESS.—CHS. 284, 285, 297—JUNE 8, 10, 1946"
+    },
+    {
+     "role": "page-number",
+     "text": "235"
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 284]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 8, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1872]"
+    },
+    {
+     "role": "body",
+     "text": "To provide for the rank of original appointments in the Corps of Civil Engineers"
+    },
+    {
+     "role": "body",
+     "text": "of the United States Navy, and for other purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 399]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That hereafter,"
+    },
+    {
+     "role": "sidenote",
+     "text": "U. S. Navy."
+    },
+    {
+     "role": "sidenote",
+     "text": "Original appoint-"
+    },
+    {
+     "role": "body",
+     "text": "original appointments as officers in the Corps of Civil Engineers of"
+    },
+    {
+     "role": "sidenote",
+     "text": "ments in Corps of"
+    },
+    {
+     "role": "body",
+     "text": "the United States Navy shall be in the grade of assistant civil engineer"
+    },
+    {
+     "role": "sidenote",
+     "text": "Civil Engineers."
+    },
+    {
+     "role": "body",
+     "text": "with rank of ensign or of lieutenant (junior grade) in accordance with"
+    },
+    {
+     "role": "body",
+     "text": "such regulations as the Secretary of the Navy may prescribe."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The second paragraph under the heading “Fuel and trans-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Repeal."
+    },
+    {
+     "role": "sidenote",
+     "text": "39 Stat. 1184."
+    },
+    {
+     "role": "body",
+     "text": "portation” in chapter 180, Thirty-ninth Statutes at Large, 1168, which"
+    },
+    {
+     "role": "sidenote",
+     "text": "34 U. S. C. § 256."
+    },
+    {
+     "role": "body",
+     "text": "is the first paragraph on page 1184, is hereby repealed."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 8, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 285]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 8, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 4418]"
+    },
+    {
+     "role": "body",
+     "text": "For the relief of the city of San Diego, Texas."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 400]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "San Diego, Texas."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Secretary"
+    },
+    {
+     "role": "sidenote",
+     "text": "Settlement of"
+    },
+    {
+     "role": "body",
+     "text": "of the Treasury be, and he is hereby, authorized and directed to pay,"
+    },
+    {
+     "role": "sidenote",
+     "text": "claims."
+    },
+    {
+     "role": "body",
+     "text": "out of any money in the Treasury not otherwise appropriated, to the"
+    },
+    {
+     "role": "body",
+     "text": "city of San Diego, Texas, or its duly authorized agents, the sum of"
+    },
+    {
+     "role": "body",
+     "text": "$13,439.45, in full settlement of all claims against the United States"
+    },
+    {
+     "role": "body",
+     "text": "for the destruction of the water tank, tower, electric fire siren, and"
+    },
+    {
+     "role": "body",
+     "text": "frame garage when said city property was demolished by a plane"
+    },
+    {
+     "role": "body",
+     "text": "piloted by a Navy flier on the 11th day of July 1945: Provided, That"
+    },
+    {
+     "role": "body",
+     "text": "no part of the amount appropriated in this Act in excess of 10 per"
+    },
+    {
+     "role": "body",
+     "text": "centum thereof shall be paid or delivered to or received by any agent"
+    },
+    {
+     "role": "body",
+     "text": "or attorney on account of services rendered in connection with this"
+    },
+    {
+     "role": "body",
+     "text": "claim, and the same shall be unlawful, any contract to the contrary"
+    },
+    {
+     "role": "body",
+     "text": "notwithstanding. Any person violating the provisions of this Act"
+    },
+    {
+     "role": "body",
+     "text": "shall be deemed guilty of a misdemeanor and upon conviction thereof"
+    },
+    {
+     "role": "body",
+     "text": "shall be fined in any sum not exceeding $1,000."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 8, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 297]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 10, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1605]"
+    },
+    {
+     "role": "body",
+     "text": "To reimburse certain Navy and Marine Corps personnel and former Navy and"
+    },
+    {
+     "role": "body",
+     "text": "Marine Corps personnel for personal property lost or damaged as the result of"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 401]"
+    },
+    {
+     "role": "body",
+     "text": "fires which occurred at various Navy and Marine Corps shore activities."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Navy and Marine"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Secretary"
+    },
+    {
+     "role": "sidenote",
+     "text": "Corps personnel and"
+    },
+    {
+     "role": "body",
+     "text": "of the Treasury be, and he is hereby, authorized and directed to pay,"
+    },
+    {
+     "role": "sidenote",
+     "text": "former personnel."
+    },
+    {
+     "role": "sidenote",
+     "text": "Reimbursement."
+    },
+    {
+     "role": "body",
+     "text": "out of any money in the Treasury not otherwise appropriated, such"
+    },
+    {
+     "role": "body",
+     "text": "sum or sums, amounting in the aggregate not to exceed $7,283.87, as"
+    },
+    {
+     "role": "body",
+     "text": "may be required by the Secretary of the Navy to reimburse, under such"
+    },
+    {
+     "role": "body",
+     "text": "regulations as he may prescribe, certain Navy and Marine Corps per-"
+    },
+    {
+     "role": "body",
+     "text": "sonnel and former Navy and Marine Corps personnel for the value"
+    },
+    {
+     "role": "body",
+     "text": "of personal property lost or damaged as the result of fires occurring"
+    },
+    {
+     "role": "body",
+     "text": "in a Quonset hut at naval operating base, Navy 151, on January 9,"
+    },
+    {
+     "role": "body",
+     "text": "1945; in barracks at United States naval air facility, Hitchcock, Texas,"
+    },
+    {
+     "role": "body",
+     "text": "on May 22, 1945; in Quonset hut 38, Patsu four-one, on February 3,"
+    },
+    {
+     "role": "body",
+     "text": "1945; in building 215, Marine Corps air depot, Miramar, San Diego,"
+    },
+    {
+     "role": "body",
+     "text": "California, on March 15, 1945; in Quonset hut at naval air station,"
+    },
+    {
+     "role": "body",
+     "text": "Attu, Alaska, on January 29, 1945; in barracks at naval air station,"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2338,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08588,
+   "seconds": 24.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12452,
+   "output_tokens": 5901,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.2102,
+  "seconds": 71.4,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "of the United States Navy, and for other purposes.",
+    "kept": "",
+    "reason": "The sidenote [Public Law 399] sits slightly above the second title line, so the body line follows it."
+   },
+   {
+    "run": 2,
+    "a": "of the United States Navy, and for other purposes.",
+    "b": "",
+    "kept": "of the United States Navy, and for other purposes.",
+    "reason": "Second title line prints here, after the [Public Law 399] sidenote."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "United States of America in Congress assembled, That hereafter,",
+    "kept": "",
+    "reason": "The sidenote 'U. S. Navy.' aligns with/above this body line, so nothing body-text precedes it here."
+   },
+   {
+    "run": 4,
+    "a": "United States of America in Congress assembled, That hereafter,",
+    "b": "original appointments as officers in the Corps of Civil Engineers of",
+    "kept": "United States of America in Congress assembled, That hereafter,",
+    "reason": "Body text must run in order; this is the next body line after the first two sidenote lines."
+   },
+   {
+    "run": 5,
+    "a": "original appointments as officers in the Corps of Civil Engineers of",
+    "b": "the United States Navy shall be in the grade of assistant civil engineer",
+    "kept": "original appointments as officers in the Corps of Civil Engineers of",
+    "reason": "Next body line in sequence after the sidenote 'ments in Corps of'."
+   },
+   {
+    "run": 6,
+    "a": "the United States Navy shall be in the grade of assistant civil engineer",
+    "b": "",
+    "kept": "the United States Navy shall be in the grade of assistant civil engineer",
+    "reason": "Following body line, printed after the sidenote 'Civil Engineers.'"
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "SEC. 2. The second paragraph under the heading “Fuel and trans-",
+    "kept": "",
+    "reason": "The 'Repeal.' sidenote is set level with/just above the SEC. 2 line; body line follows it."
+   },
+   {
+    "run": 8,
+    "a": "SEC. 2. The second paragraph under the heading \"Fuel and trans-",
+    "b": "",
+    "kept": "SEC. 2. The second paragraph under the heading “Fuel and trans-",
+    "reason": "Line prints here; the page uses curly opening quotation mark."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "United States of America in Congress assembled, That the Secretary",
+    "kept": "",
+    "reason": "Sidenote 'Settlement of' is set slightly above this body line, so it precedes it."
+   },
+   {
+    "run": 10,
+    "a": "United States of America in Congress assembled, That the Secretary",
+    "b": "of the Treasury be, and he is hereby, authorized and directed to pay,",
+    "kept": "United States of America in Congress assembled, That the Secretary",
+    "reason": "Next body line in order, after the sidenote lines."
+   },
+   {
+    "run": 11,
+    "a": "of the Treasury be, and he is hereby, authorized and directed to pay,",
+    "b": "",
+    "kept": "of the Treasury be, and he is hereby, authorized and directed to pay,",
+    "reason": "Body line prints here, after the sidenote 'claims.'"
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "Marine Corps personnel for personal property lost or damaged as the result of",
+    "kept": "",
+    "reason": "[Public Law 401] is set slightly above the second title line, so it precedes it."
+   },
+   {
+    "run": 13,
+    "a": "Marine Corps personnel for personal property lost or damaged as the result of",
+    "b": "",
+    "kept": "Marine Corps personnel for personal property lost or damaged as the result of",
+    "reason": "Second title line prints here, after the [Public Law 401] sidenote."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "United States of America in Congress assembled, That the Secretary",
+    "kept": "",
+    "reason": "The tightly set sidenote lines 'Navy and Marine / Corps personnel and' precede this body line."
+   },
+   {
+    "run": 15,
+    "a": "United States of America in Congress assembled, That the Secretary",
+    "b": "of the Treasury be, and he is hereby, authorized and directed to pay,",
+    "kept": "United States of America in Congress assembled, That the Secretary",
+    "reason": "Next body line in order after those sidenote lines."
+   },
+   {
+    "run": 16,
+    "a": "of the Treasury be, and he is hereby, authorized and directed to pay,",
+    "b": "",
+    "kept": "of the Treasury be, and he is hereby, authorized and directed to pay,",
+    "reason": "Body line prints here, after the sidenotes 'former personnel.' and 'Reimbursement.'"
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "60 STAT.]    79TH CONG., 2D SESS.—CHS. 284, 285, 297—JUNE 8, 10, 1946"
+  },
+  {
+   "role": "page-number",
+   "text": "235"
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 284]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 8, 1946"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 1872]"
+  },
+  {
+   "role": "body",
+   "text": "To provide for the rank of original appointments in the Corps of Civil Engineers"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public Law 399]"
+  },
+  {
+   "role": "body",
+   "text": "of the United States Navy, and for other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "U. S. Navy."
+  },
+  {
+   "role": "sidenote",
+   "text": "Original appoint-"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That hereafter,"
+  },
+  {
+   "role": "sidenote",
+   "text": "ments in Corps of"
+  },
+  {
+   "role": "body",
+   "text": "original appointments as officers in the Corps of Civil Engineers of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Civil Engineers."
+  },
+  {
+   "role": "body",
+   "text": "the United States Navy shall be in the grade of assistant civil engineer"
+  },
+  {
+   "role": "body",
+   "text": "with rank of ensign or of lieutenant (junior grade) in accordance with"
+  },
+  {
+   "role": "body",
+   "text": "such regulations as the Secretary of the Navy may prescribe."
+  },
+  {
+   "role": "sidenote",
+   "text": "Repeal."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The second paragraph under the heading “Fuel and trans-"
+  },
+  {
+   "role": "sidenote",
+   "text": "39 Stat. 1184."
+  },
+  {
+   "role": "body",
+   "text": "portation\" in chapter 180, Thirty-ninth Statutes at Large, 1168, which"
+  },
+  {
+   "role": "sidenote",
+   "text": "34 U. S. C. § 256."
+  },
+  {
+   "role": "body",
+   "text": "is the first paragraph on page 1184, is hereby repealed."
+  },
+  {
+   "role": "body",
+   "text": "Approved June 8, 1946."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 285]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 8, 1946"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 4418]"
+  },
+  {
+   "role": "body",
+   "text": "For the relief of the city of San Diego, Texas."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public Law 400]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "San Diego, Texas."
+  },
+  {
+   "role": "sidenote",
+   "text": "Settlement of"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Secretary"
+  },
+  {
+   "role": "sidenote",
+   "text": "claims."
+  },
+  {
+   "role": "body",
+   "text": "of the Treasury be, and he is hereby, authorized and directed to pay,"
+  },
+  {
+   "role": "body",
+   "text": "out of any money in the Treasury not otherwise appropriated, to the"
+  },
+  {
+   "role": "body",
+   "text": "city of San Diego, Texas, or its duly authorized agents, the sum of"
+  },
+  {
+   "role": "body",
+   "text": "$13,439.45, in full settlement of all claims against the United States"
+  },
+  {
+   "role": "body",
+   "text": "for the destruction of the water tank, tower, electric fire siren, and"
+  },
+  {
+   "role": "body",
+   "text": "frame garage when said city property was demolished by a plane"
+  },
+  {
+   "role": "body",
+   "text": "piloted by a Navy flier on the 11th day of July 1945: Provided, That"
+  },
+  {
+   "role": "body",
+   "text": "no part of the amount appropriated in this Act in excess of 10 per"
+  },
+  {
+   "role": "body",
+   "text": "centum thereof shall be paid or delivered to or received by any agent"
+  },
+  {
+   "role": "body",
+   "text": "or attorney on account of services rendered in connection with this"
+  },
+  {
+   "role": "body",
+   "text": "claim, and the same shall be unlawful, any contract to the contrary"
+  },
+  {
+   "role": "body",
+   "text": "notwithstanding. Any person violating the provisions of this Act"
+  },
+  {
+   "role": "body",
+   "text": "shall be deemed guilty of a misdemeanor and upon conviction thereof"
+  },
+  {
+   "role": "body",
+   "text": "shall be fined in any sum not exceeding $1,000."
+  },
+  {
+   "role": "body",
+   "text": "Approved June 8, 1946."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 297]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 10, 1946"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 1605]"
+  },
+  {
+   "role": "body",
+   "text": "To reimburse certain Navy and Marine Corps personnel and former Navy and"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public Law 401]"
+  },
+  {
+   "role": "body",
+   "text": "Marine Corps personnel for personal property lost or damaged as the result of"
+  },
+  {
+   "role": "body",
+   "text": "fires which occurred at various Navy and Marine Corps shore activities."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Navy and Marine"
+  },
+  {
+   "role": "sidenote",
+   "text": "Corps personnel and"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Secretary"
+  },
+  {
+   "role": "sidenote",
+   "text": "former personnel."
+  },
+  {
+   "role": "sidenote",
+   "text": "Reimbursement."
+  },
+  {
+   "role": "body",
+   "text": "of the Treasury be, and he is hereby, authorized and directed to pay,"
+  },
+  {
+   "role": "body",
+   "text": "out of any money in the Treasury not otherwise appropriated, such"
+  },
+  {
+   "role": "body",
+   "text": "sum or sums, amounting in the aggregate not to exceed $7,283.87, as"
+  },
+  {
+   "role": "body",
+   "text": "may be required by the Secretary of the Navy to reimburse, under such"
+  },
+  {
+   "role": "body",
+   "text": "regulations as he may prescribe, certain Navy and Marine Corps per-"
+  },
+  {
+   "role": "body",
+   "text": "sonnel and former Navy and Marine Corps personnel for the value"
+  },
+  {
+   "role": "body",
+   "text": "of personal property lost or damaged as the result of fires occurring"
+  },
+  {
+   "role": "body",
+   "text": "in a Quonset hut at naval operating base, Navy 151, on January 9,"
+  },
+  {
+   "role": "body",
+   "text": "1945; in barracks at United States naval air facility, Hitchcock, Texas,"
+  },
+  {
+   "role": "body",
+   "text": "on May 22, 1945; in Quonset hut 38, Patsu four-one, on February 3,"
+  },
+  {
+   "role": "body",
+   "text": "1945; in building 215, Marine Corps air depot, Miramar, San Diego,"
+  },
+  {
+   "role": "body",
+   "text": "California, on March 15, 1945; in Quonset hut at naval air station,"
+  },
+  {
+   "role": "body",
+   "text": "Attu, Alaska, on January 29, 1945; in barracks at naval air station,"
+  }
+ ],
+ "disagreement_count": 16,
+ "tokens": {
+  "input_tokens": 23275,
+  "output_tokens": 10579,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.38201,
+ "seconds": 122.6,
+ "created": "2026-09-08T11:55:38"
+}

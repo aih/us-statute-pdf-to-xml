@@ -1,0 +1,977 @@
+{
+ "granule_id": "STATUTE-69-Pg713",
+ "package_id": "STATUTE-69",
+ "volume": 69,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend Public Laws 815 and 874, 81st Congress, which provide for assistance to local educational agencies in areas affected by Federal activities, and for other purposes",
+ "date_issued": "1955-08-12",
+ "pdf_page": 3,
+ "pdf_pages": 3,
+ "stat_page": "715",
+ "image": "data/gold/STATUTE-69-Pg713/p3.png",
+ "image_sha256": "99a0df471c699754c31a813c77dfbf81ed7f3e7aef5e114e599ce9b089b9b6f1",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "69 STAT.]            PUBLIC LAW 383–AUG. 12, 1955                          715"
+    },
+    {
+     "role": "body",
+     "text": "ASSISTANCE UNDER PUBLIC LAW 815 FOR CHILDREN RESIDING ON INDIAN"
+    },
+    {
+     "role": "body",
+     "text": "LAND OUTSIDE SCHOOL DISTRICTS"
+    },
+    {
+     "role": "sidenote",
+     "text": "67 Stat. 526."
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 311."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. (a) Paragraph (1) of section 401 (a) of such Act is"
+    },
+    {
+     "role": "body",
+     "text": "amended by inserting before the semicolon the following: \"or that"
+    },
+    {
+     "role": "body",
+     "text": "the total number of such children who reside on Indian lands located"
+    },
+    {
+     "role": "body",
+     "text": "outside the school district of such agency equals or exceeds 100\"."
+    },
+    {
+     "role": "body",
+     "text": "(b) Such section 401 (a) is further amended by adding at the end"
+    },
+    {
+     "role": "body",
+     "text": "thereof the following: \"Assistance may be furnished under this sub-"
+    },
+    {
+     "role": "body",
+     "text": "section without regard to paragraph (2) (but subject to the other"
+    },
+    {
+     "role": "body",
+     "text": "provisions of this subsection and subsection (c)) to any local educa-"
+    },
+    {
+     "role": "body",
+     "text": "tional agency which provides free public education for children who"
+    },
+    {
+     "role": "body",
+     "text": "reside on Indian lands located outside its school district.  For pur-"
+    },
+    {
+     "role": "body",
+     "text": "poses of this subsection 'Indian lands' means Indian reservations or"
+    },
+    {
+     "role": "body",
+     "text": "other real property referred to in the third sentence of section"
+    },
+    {
+     "role": "body",
+     "text": "210 (1).\"."
+    },
+    {
+     "role": "body",
+     "text": "(c) Section 401 (b) of such Act is amended (1) by striking out"
+    },
+    {
+     "role": "body",
+     "text": "\"the succeeding fiscal year\" and inserting in lieu thereof \"the two"
+    },
+    {
+     "role": "body",
+     "text": "succeeding fiscal years\", and (2) by striking out \"June 30, 1955\" and"
+    },
+    {
+     "role": "body",
+     "text": "inserting in lieu thereof \"June 30, 1956\"."
+    },
+    {
+     "role": "body",
+     "text": "PAYMENTS UNDER PUBLIC LAW 815 TO DISTRICTS UNABLE TO FINANCE"
+    },
+    {
+     "role": "body",
+     "text": "NON-FEDERAL SHARE OF PROJECTS"
+    },
+    {
+     "role": "sidenote",
+     "text": "67 Stat. 525."
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 298."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. Section 308 of such Act is amended by inserting \"(a)\" after"
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 308.\" and by adding at the end of the section the following new"
+    },
+    {
+     "role": "body",
+     "text": "subsection:"
+    },
+    {
+     "role": "body",
+     "text": "\"(b) Where a local educational agency filed an application for"
+    },
+    {
+     "role": "body",
+     "text": "payments under this section before June 30, 1954, and such agency"
+    },
+    {
+     "role": "body",
+     "text": "met all the requirements established for approval of such application"
+    },
+    {
+     "role": "body",
+     "text": "except the 20 per centum requirement as to children countable for"
+    },
+    {
+     "role": "body",
+     "text": "payments under this title (45 C. F. R., 1954 Supp., 107.8 (b) (2)), and"
+    },
+    {
+     "role": "body",
+     "text": "the number of children countable for the purposes of such requirement"
+    },
+    {
+     "role": "body",
+     "text": "was equal to 10 per centum or more of the average daily membership"
+    },
+    {
+     "role": "body",
+     "text": "of such agency for the school year 1953–1954, the Commissioner shall"
+    },
+    {
+     "role": "body",
+     "text": "pay to such agency, out of funds appropriated pursuant to this sub-"
+    },
+    {
+     "role": "body",
+     "text": "section, an amount equal to the amount which would have been reserved"
+    },
+    {
+     "role": "body",
+     "text": "on the basis of such application if such requirement had been met."
+    },
+    {
+     "role": "body",
+     "text": "Payments under this subsection shall be made upon application by the"
+    },
+    {
+     "role": "body",
+     "text": "local educational agency involved, filed with the Commissioner on or"
+    },
+    {
+     "role": "body",
+     "text": "before November 1, 1955, which shall set forth one or more projects"
+    },
+    {
+     "role": "body",
+     "text": "for the construction of minimum school facilities for such agency,"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 275."
+    },
+    {
+     "role": "body",
+     "text": "and shall meet the requirements of section 205 (b) (1) with respect"
+    },
+    {
+     "role": "body",
+     "text": "to such projects.  Upon approval of an application under this sub-"
+    },
+    {
+     "role": "body",
+     "text": "section, payments with respect to each project included in the appli-"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 297, 296."
+    },
+    {
+     "role": "body",
+     "text": "cation shall be made under section 307 as if an application for such"
+    },
+    {
+     "role": "body",
+     "text": "project had been approved under section 306.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved August 12, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 383                                CHAPTER 869"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 12, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 4744]"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Railroad Retirement Act of 1937, as amended, and the Railroad"
+    },
+    {
+     "role": "body",
+     "text": "Unemployment Insurance Act."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Railroad retire-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment and unem-"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That, effective with"
+    },
+    {
+     "role": "sidenote",
+     "text": "ployment insur-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ance."
+    },
+    {
+     "role": "body",
+     "text": "respect to annuities accruing in months following the month of enact-"
+    },
+    {
+     "role": "sidenote",
+     "text": "65 Stat. 683."
+    },
+    {
+     "role": "sidenote",
+     "text": "45 USC 228b(e)."
+    },
+    {
+     "role": "body",
+     "text": "ment hereof, section 2 (e) of the Railroad Retirement Act of 1937, as"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5298,
+    "output_tokens": 2271,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08365,
+   "seconds": 31.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "69 STAT.]                PUBLIC LAW 383–AUG. 12, 1955"
+    },
+    {
+     "role": "page-number",
+     "text": "715"
+    },
+    {
+     "role": "body",
+     "text": "ASSISTANCE UNDER PUBLIC LAW 815 FOR CHILDREN RESIDING ON INDIAN"
+    },
+    {
+     "role": "body",
+     "text": "LAND OUTSIDE SCHOOL DISTRICTS"
+    },
+    {
+     "role": "sidenote",
+     "text": "67 Stat. 526."
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 311."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 6. (a) Paragraph (1) of section 401 (a) of such Act is"
+    },
+    {
+     "role": "body",
+     "text": "amended by inserting before the semicolon the following: \"or that"
+    },
+    {
+     "role": "body",
+     "text": "the total number of such children who reside on Indian lands located"
+    },
+    {
+     "role": "body",
+     "text": "outside the school district of such agency equals or exceeds 100\"."
+    },
+    {
+     "role": "body",
+     "text": "(b) Such section 401 (a) is further amended by adding at the end"
+    },
+    {
+     "role": "body",
+     "text": "thereof the following: \"Assistance may be furnished under this sub-"
+    },
+    {
+     "role": "body",
+     "text": "section without regard to paragraph (2) (but subject to the other"
+    },
+    {
+     "role": "body",
+     "text": "provisions of this subsection and subsection (c)) to any local educa-"
+    },
+    {
+     "role": "body",
+     "text": "tional agency which provides free public education for children who"
+    },
+    {
+     "role": "body",
+     "text": "reside on Indian lands located outside its school district.  For pur-"
+    },
+    {
+     "role": "body",
+     "text": "poses of this subsection 'Indian lands' means Indian reservations or"
+    },
+    {
+     "role": "body",
+     "text": "other real property referred to in the third sentence of section"
+    },
+    {
+     "role": "body",
+     "text": "210 (1).\"."
+    },
+    {
+     "role": "body",
+     "text": "(c) Section 401 (b) of such Act is amended (1) by striking out"
+    },
+    {
+     "role": "body",
+     "text": "\"the succeeding fiscal year\" and inserting in lieu thereof \"the two"
+    },
+    {
+     "role": "body",
+     "text": "succeeding fiscal years\", and (2) by striking out \"June 30, 1955\" and"
+    },
+    {
+     "role": "body",
+     "text": "inserting in lieu thereof \"June 30, 1956\"."
+    },
+    {
+     "role": "body",
+     "text": "PAYMENTS UNDER PUBLIC LAW 815 TO DISTRICTS UNABLE TO FINANCE"
+    },
+    {
+     "role": "body",
+     "text": "NON-FEDERAL SHARE OF PROJECTS"
+    },
+    {
+     "role": "sidenote",
+     "text": "67 Stat. 525."
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 298."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. Section 308 of such Act is amended by inserting \"(a)\" after"
+    },
+    {
+     "role": "body",
+     "text": "\"SEC. 308.\" and by adding at the end of the section the following new"
+    },
+    {
+     "role": "body",
+     "text": "subsection:"
+    },
+    {
+     "role": "body",
+     "text": "\"(b) Where a local educational agency filed an application for"
+    },
+    {
+     "role": "body",
+     "text": "payments under this section before June 30, 1954, and such agency"
+    },
+    {
+     "role": "body",
+     "text": "met all the requirements established for approval of such application"
+    },
+    {
+     "role": "body",
+     "text": "except the 20 per centum requirement as to children countable for"
+    },
+    {
+     "role": "body",
+     "text": "payments under this title (45 C. F. R., 1954 Supp., 107.8 (b) (2)), and"
+    },
+    {
+     "role": "body",
+     "text": "the number of children countable for the purposes of such requirement"
+    },
+    {
+     "role": "body",
+     "text": "was equal to 10 per centum or more of the average daily membership"
+    },
+    {
+     "role": "body",
+     "text": "of such agency for the school year 1953–1954, the Commissioner shall"
+    },
+    {
+     "role": "body",
+     "text": "pay to such agency, out of funds appropriated pursuant to this sub-"
+    },
+    {
+     "role": "body",
+     "text": "section, an amount equal to the amount which would have been reserved"
+    },
+    {
+     "role": "body",
+     "text": "on the basis of such application if such requirement had been met."
+    },
+    {
+     "role": "body",
+     "text": "Payments under this subsection shall be made upon application by the"
+    },
+    {
+     "role": "body",
+     "text": "local educational agency involved, filed with the Commissioner on or"
+    },
+    {
+     "role": "body",
+     "text": "before November 1, 1955, which shall set forth one or more projects"
+    },
+    {
+     "role": "body",
+     "text": "for the construction of minimum school facilities for such agency,"
+    },
+    {
+     "role": "body",
+     "text": "and shall meet the requirements of section 205 (b) (1) with respect"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 275."
+    },
+    {
+     "role": "body",
+     "text": "to such projects.  Upon approval of an application under this sub-"
+    },
+    {
+     "role": "body",
+     "text": "section, payments with respect to each project included in the appli-"
+    },
+    {
+     "role": "body",
+     "text": "cation shall be made under section 307 as if an application for such"
+    },
+    {
+     "role": "sidenote",
+     "text": "20 USC 297, 296."
+    },
+    {
+     "role": "body",
+     "text": "project had been approved under section 306.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved August 12, 1955."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 383                              CHAPTER 869"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "August 12, 1955"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 4744]"
+    },
+    {
+     "role": "body",
+     "text": "To amend the Railroad Retirement Act of 1937, as amended, and the Railroad"
+    },
+    {
+     "role": "body",
+     "text": "Unemployment Insurance Act."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That, effective with"
+    },
+    {
+     "role": "sidenote",
+     "text": "Railroad retire-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment and unem-"
+    },
+    {
+     "role": "body",
+     "text": "respect to annuities accruing in months following the month of enact-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ployment insur-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ance."
+    },
+    {
+     "role": "body",
+     "text": "ment hereof, section 2 (e) of the Railroad Retirement Act of 1937, as"
+    },
+    {
+     "role": "sidenote",
+     "text": "65 Stat. 683."
+    },
+    {
+     "role": "sidenote",
+     "text": "45 USC 228b(e)."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5301,
+    "output_tokens": 2194,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08172,
+   "seconds": 30.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11587,
+   "output_tokens": 1565,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.09748,
+  "seconds": 55.3,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "69 STAT.]            PUBLIC LAW 383–AUG. 12, 1955                          715",
+    "b": "69 STAT.]                PUBLIC LAW 383–AUG. 12, 1955\n715",
+    "kept": "69 STAT.]            PUBLIC LAW 383–AUG. 12, 1955\n715",
+    "reason": "The header carries the running head at left/center and the page number at the right margin; they are treated as separate elements."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "and shall meet the requirements of section 205 (b) (1) with respect",
+    "kept": "",
+    "reason": "The body line appears after the marginal note in reading order, so nothing is printed here."
+   },
+   {
+    "run": 3,
+    "a": "and shall meet the requirements of section 205 (b) (1) with respect",
+    "b": "",
+    "kept": "and shall meet the requirements of section 205 (b) (1) with respect",
+    "reason": "Sidenote '20 USC 275.' is set opposite this body line, which follows it."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "cation shall be made under section 307 as if an application for such",
+    "kept": "",
+    "reason": "The body line follows the marginal note; nothing printed at this point."
+   },
+   {
+    "run": 5,
+    "a": "cation shall be made under section 307 as if an application for such",
+    "b": "",
+    "kept": "cation shall be made under section 307 as if an application for such",
+    "reason": "Sidenote '20 USC 297, 296.' stands opposite this line, which follows it."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "United States of America in Congress assembled, That, effective with",
+    "kept": "",
+    "reason": "The marginal notes 'Railroad retire- / ment and unem-' precede this body line; nothing printed here."
+   },
+   {
+    "run": 7,
+    "a": "United States of America in Congress assembled, That, effective with",
+    "b": "respect to annuities accruing in months following the month of enact-",
+    "kept": "United States of America in Congress assembled, That, effective with",
+    "reason": "This italic enacting-clause line is set opposite the 'Railroad retire-/ment and unem-' sidenote."
+   },
+   {
+    "run": 8,
+    "a": "respect to annuities accruing in months following the month of enact-",
+    "b": "ment hereof, section 2 (e) of the Railroad Retirement Act of 1937, as",
+    "kept": "respect to annuities accruing in months following the month of enact-",
+    "reason": "This line is set opposite 'ployment insur-/ance.' and follows those sidenote lines."
+   },
+   {
+    "run": 9,
+    "a": "ment hereof, section 2 (e) of the Railroad Retirement Act of 1937, as",
+    "b": "",
+    "kept": "ment hereof, section 2 (e) of the Railroad Retirement Act of 1937, as",
+    "reason": "Final body line of the page, opposite the '65 Stat. 683./45 USC 228b(e).' sidenote."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "69 STAT.]            PUBLIC LAW 383–AUG. 12, 1955"
+  },
+  {
+   "role": "page-number",
+   "text": "715"
+  },
+  {
+   "role": "body",
+   "text": "ASSISTANCE UNDER PUBLIC LAW 815 FOR CHILDREN RESIDING ON INDIAN"
+  },
+  {
+   "role": "body",
+   "text": "LAND OUTSIDE SCHOOL DISTRICTS"
+  },
+  {
+   "role": "sidenote",
+   "text": "67 Stat. 526."
+  },
+  {
+   "role": "sidenote",
+   "text": "20 USC 311."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 6. (a) Paragraph (1) of section 401 (a) of such Act is"
+  },
+  {
+   "role": "body",
+   "text": "amended by inserting before the semicolon the following: \"or that"
+  },
+  {
+   "role": "body",
+   "text": "the total number of such children who reside on Indian lands located"
+  },
+  {
+   "role": "body",
+   "text": "outside the school district of such agency equals or exceeds 100\"."
+  },
+  {
+   "role": "body",
+   "text": "(b) Such section 401 (a) is further amended by adding at the end"
+  },
+  {
+   "role": "body",
+   "text": "thereof the following: \"Assistance may be furnished under this sub-"
+  },
+  {
+   "role": "body",
+   "text": "section without regard to paragraph (2) (but subject to the other"
+  },
+  {
+   "role": "body",
+   "text": "provisions of this subsection and subsection (c)) to any local educa-"
+  },
+  {
+   "role": "body",
+   "text": "tional agency which provides free public education for children who"
+  },
+  {
+   "role": "body",
+   "text": "reside on Indian lands located outside its school district.  For pur-"
+  },
+  {
+   "role": "body",
+   "text": "poses of this subsection 'Indian lands' means Indian reservations or"
+  },
+  {
+   "role": "body",
+   "text": "other real property referred to in the third sentence of section"
+  },
+  {
+   "role": "body",
+   "text": "210 (1).\"."
+  },
+  {
+   "role": "body",
+   "text": "(c) Section 401 (b) of such Act is amended (1) by striking out"
+  },
+  {
+   "role": "body",
+   "text": "\"the succeeding fiscal year\" and inserting in lieu thereof \"the two"
+  },
+  {
+   "role": "body",
+   "text": "succeeding fiscal years\", and (2) by striking out \"June 30, 1955\" and"
+  },
+  {
+   "role": "body",
+   "text": "inserting in lieu thereof \"June 30, 1956\"."
+  },
+  {
+   "role": "body",
+   "text": "PAYMENTS UNDER PUBLIC LAW 815 TO DISTRICTS UNABLE TO FINANCE"
+  },
+  {
+   "role": "body",
+   "text": "NON-FEDERAL SHARE OF PROJECTS"
+  },
+  {
+   "role": "sidenote",
+   "text": "67 Stat. 525."
+  },
+  {
+   "role": "sidenote",
+   "text": "20 USC 298."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 7. Section 308 of such Act is amended by inserting \"(a)\" after"
+  },
+  {
+   "role": "body",
+   "text": "\"SEC. 308.\" and by adding at the end of the section the following new"
+  },
+  {
+   "role": "body",
+   "text": "subsection:"
+  },
+  {
+   "role": "body",
+   "text": "\"(b) Where a local educational agency filed an application for"
+  },
+  {
+   "role": "body",
+   "text": "payments under this section before June 30, 1954, and such agency"
+  },
+  {
+   "role": "body",
+   "text": "met all the requirements established for approval of such application"
+  },
+  {
+   "role": "body",
+   "text": "except the 20 per centum requirement as to children countable for"
+  },
+  {
+   "role": "body",
+   "text": "payments under this title (45 C. F. R., 1954 Supp., 107.8 (b) (2)), and"
+  },
+  {
+   "role": "body",
+   "text": "the number of children countable for the purposes of such requirement"
+  },
+  {
+   "role": "body",
+   "text": "was equal to 10 per centum or more of the average daily membership"
+  },
+  {
+   "role": "body",
+   "text": "of such agency for the school year 1953–1954, the Commissioner shall"
+  },
+  {
+   "role": "body",
+   "text": "pay to such agency, out of funds appropriated pursuant to this sub-"
+  },
+  {
+   "role": "body",
+   "text": "section, an amount equal to the amount which would have been reserved"
+  },
+  {
+   "role": "body",
+   "text": "on the basis of such application if such requirement had been met."
+  },
+  {
+   "role": "body",
+   "text": "Payments under this subsection shall be made upon application by the"
+  },
+  {
+   "role": "body",
+   "text": "local educational agency involved, filed with the Commissioner on or"
+  },
+  {
+   "role": "body",
+   "text": "before November 1, 1955, which shall set forth one or more projects"
+  },
+  {
+   "role": "body",
+   "text": "for the construction of minimum school facilities for such agency,"
+  },
+  {
+   "role": "sidenote",
+   "text": "20 USC 275."
+  },
+  {
+   "role": "body",
+   "text": "and shall meet the requirements of section 205 (b) (1) with respect"
+  },
+  {
+   "role": "body",
+   "text": "to such projects.  Upon approval of an application under this sub-"
+  },
+  {
+   "role": "body",
+   "text": "section, payments with respect to each project included in the appli-"
+  },
+  {
+   "role": "sidenote",
+   "text": "20 USC 297, 296."
+  },
+  {
+   "role": "body",
+   "text": "cation shall be made under section 307 as if an application for such"
+  },
+  {
+   "role": "body",
+   "text": "project had been approved under section 306.\""
+  },
+  {
+   "role": "body",
+   "text": "Approved August 12, 1955."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 383                                CHAPTER 869"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "August 12, 1955"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 4744]"
+  },
+  {
+   "role": "body",
+   "text": "To amend the Railroad Retirement Act of 1937, as amended, and the Railroad"
+  },
+  {
+   "role": "body",
+   "text": "Unemployment Insurance Act."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Railroad retire-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ment and unem-"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That, effective with"
+  },
+  {
+   "role": "sidenote",
+   "text": "ployment insur-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ance."
+  },
+  {
+   "role": "body",
+   "text": "respect to annuities accruing in months following the month of enact-"
+  },
+  {
+   "role": "sidenote",
+   "text": "65 Stat. 683."
+  },
+  {
+   "role": "sidenote",
+   "text": "45 USC 228b(e)."
+  },
+  {
+   "role": "body",
+   "text": "ment hereof, section 2 (e) of the Railroad Retirement Act of 1937, as"
+  }
+ ],
+ "disagreement_count": 9,
+ "tokens": {
+  "input_tokens": 22186,
+  "output_tokens": 6030,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.26285,
+ "seconds": 117.3,
+ "created": "2026-09-08T12:02:19"
+}

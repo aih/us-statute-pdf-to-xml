@@ -1,0 +1,909 @@
+{
+ "granule_id": "STATUTE-77-Pg470",
+ "package_id": "STATUTE-77",
+ "volume": 77,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend section 511 (h) of the Merchant Marine Act, 1936, as amended, in order to extend the time for commitment of constructive reserve funds.",
+ "date_issued": "1963-12-23",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "470",
+ "image": "data/gold/STATUTE-77-Pg470/p1.png",
+ "image_sha256": "16e15d46610a61e0a695a347c644e456f00dc064167a34cd53f88c4089c142b1",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "470"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 88-227–DEC. 23, 1963"
+    },
+    {
+     "role": "running-head",
+     "text": "[77 STAT."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-227"
+    },
+    {
+     "role": "sidenote",
+     "text": "December 23, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1698]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 511(h) of the Merchant Marine Act, 1936, as amended, in"
+    },
+    {
+     "role": "body",
+     "text": "order to extend the time for commitment of construction reserve funds."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Merchant Marine"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act, amendment."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the proviso"
+    },
+    {
+     "role": "body",
+     "text": "at the end of section 511(h) of the Merchant Marine Act, 1936, as"
+    },
+    {
+     "role": "sidenote",
+     "text": "Construction re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "serve funds."
+    },
+    {
+     "role": "body",
+     "text": "amended, is amended to read as follows: \"Provided, That until Janu-"
+    },
+    {
+     "role": "sidenote",
+     "text": "76 Stat. 796."
+    },
+    {
+     "role": "body",
+     "text": "ary 1, 1964, in addition to the extensions hereinbefore permitted, fur-"
+    },
+    {
+     "role": "sidenote",
+     "text": "46 USC 1161."
+    },
+    {
+     "role": "body",
+     "text": "ther extensions may be granted ending not later than December 31,"
+    },
+    {
+     "role": "body",
+     "text": "1964.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective date."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The amendment made by the first section of this Act shall"
+    },
+    {
+     "role": "body",
+     "text": "take effect December 31, 1963, or on the date of enactment of this Act,"
+    },
+    {
+     "role": "body",
+     "text": "whichever date first occurs."
+    },
+    {
+     "role": "body",
+     "text": "Approved December 23, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-228"
+    },
+    {
+     "role": "sidenote",
+     "text": "December 23, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1767]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To authorize the Secretary of the Army to convey a certain parcel of land to"
+    },
+    {
+     "role": "body",
+     "text": "the State of Delaware, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Delaware."
+    },
+    {
+     "role": "sidenote",
+     "text": "Land convey-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ance."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Army is authorized and directed to sell and convey to the State"
+    },
+    {
+     "role": "body",
+     "text": "of Delaware, by quitclaim deed, all right, title, and interest of the"
+    },
+    {
+     "role": "body",
+     "text": "United States in and to such federally owned lands of the Fort Miles"
+    },
+    {
+     "role": "body",
+     "text": "Military Reservation, Delaware, which are now declared to be excess to"
+    },
+    {
+     "role": "body",
+     "text": "the needs of the United States, excluding, however, approximately ten"
+    },
+    {
+     "role": "body",
+     "text": "acres located within the town of Lewes, Delaware, known as the off-"
+    },
+    {
+     "role": "body",
+     "text": "post housing area."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The conveyance authorized herein shall be upon the follow-"
+    },
+    {
+     "role": "body",
+     "text": "ing terms and conditions:"
+    },
+    {
+     "role": "body",
+     "text": "(a) That portion of the presently excess lands comprising approxi-"
+    },
+    {
+     "role": "body",
+     "text": "mately one hundred and fifty-five acres, more or less, which was ceded"
+    },
+    {
+     "role": "body",
+     "text": "to the Federal Government by the State of Delaware without cost, shall"
+    },
+    {
+     "role": "body",
+     "text": "be conveyed with the improvements thereon to the State of Delaware"
+    },
+    {
+     "role": "body",
+     "text": "without monetary payment."
+    },
+    {
+     "role": "body",
+     "text": "(b) Such lands, other than described in (a) above, as are presently"
+    },
+    {
+     "role": "body",
+     "text": "excess shall be conveyed with the improvements thereon to the State"
+    },
+    {
+     "role": "body",
+     "text": "of Delaware upon payment to the United States by the State of Dela-"
+    },
+    {
+     "role": "body",
+     "text": "ware of the amount of money determined by the Secretary of the Army"
+    },
+    {
+     "role": "body",
+     "text": "to have been paid by the United States for the acquisition of subject"
+    },
+    {
+     "role": "body",
+     "text": "lands."
+    },
+    {
+     "role": "body",
+     "text": "(c) The lands conveyed shall be used solely for educational and/or"
+    },
+    {
+     "role": "body",
+     "text": "public park and recreational purposes, and if such use shall ever cease,"
+    },
+    {
+     "role": "body",
+     "text": "title to these lands shall revert to, and become the property of the"
+    },
+    {
+     "role": "body",
+     "text": "United States which shall have the right of immediate entry thereon."
+    },
+    {
+     "role": "body",
+     "text": "(d) The State of Delaware shall pay the cost of such surveys as"
+    },
+    {
+     "role": "body",
+     "text": "may be necessary to determine the exact legal description of the real"
+    },
+    {
+     "role": "body",
+     "text": "property to be conveyed."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. The Secretary of the Army shall include in the deed of con-"
+    },
+    {
+     "role": "body",
+     "text": "veyance authorized to be made by this Act a provision authorizing the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of Defense, in any national emergency declared by the"
+    },
+    {
+     "role": "body",
+     "text": "President or the Congress, to enter upon and use without cost to the"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2020,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07793,
+   "seconds": 149.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "470"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 88-227–DEC. 23, 1963"
+    },
+    {
+     "role": "running-head",
+     "text": "[77 STAT."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-227"
+    },
+    {
+     "role": "sidenote",
+     "text": "December 23, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1698]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 511(h) of the Merchant Marine Act, 1936, as amended, in"
+    },
+    {
+     "role": "body",
+     "text": "order to extend the time for commitment of construction reserve funds."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Merchant Marine"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act, amendment."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the proviso"
+    },
+    {
+     "role": "body",
+     "text": "at the end of section 511(h) of the Merchant Marine Act, 1936, as"
+    },
+    {
+     "role": "sidenote",
+     "text": "Construction re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "serve funds."
+    },
+    {
+     "role": "body",
+     "text": "amended, is amended to read as follows: \"Provided, That until Janu-"
+    },
+    {
+     "role": "sidenote",
+     "text": "76 Stat. 796."
+    },
+    {
+     "role": "body",
+     "text": "ary 1, 1964, in addition to the extensions hereinbefore permitted, fur-"
+    },
+    {
+     "role": "sidenote",
+     "text": "46 USC 1161."
+    },
+    {
+     "role": "body",
+     "text": "ther extensions may be granted ending not later than December 31,"
+    },
+    {
+     "role": "body",
+     "text": "1964.\""
+    },
+    {
+     "role": "sidenote",
+     "text": "Effective date."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The amendment made by the first section of this Act shall"
+    },
+    {
+     "role": "body",
+     "text": "take effect December 31, 1963, or on the date of enactment of this Act,"
+    },
+    {
+     "role": "body",
+     "text": "whichever date first occurs."
+    },
+    {
+     "role": "body",
+     "text": "Approved December 23, 1963."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 88-228"
+    },
+    {
+     "role": "sidenote",
+     "text": "December 23, 1963"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 1767]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "body",
+     "text": "To authorize the Secretary of the Army to convey a certain parcel of land to"
+    },
+    {
+     "role": "body",
+     "text": "the State of Delaware, and for other purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Delaware."
+    },
+    {
+     "role": "sidenote",
+     "text": "Land convey-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ance."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Army is authorized and directed to sell and convey to the State"
+    },
+    {
+     "role": "body",
+     "text": "of Delaware, by quitclaim deed, all right, title, and interest of the"
+    },
+    {
+     "role": "body",
+     "text": "United States in and to such federally owned lands of the Fort Miles"
+    },
+    {
+     "role": "body",
+     "text": "Military Reservation, Delaware, which are now declared to be excess to"
+    },
+    {
+     "role": "body",
+     "text": "the needs of the United States, excluding, however, approximately ten"
+    },
+    {
+     "role": "body",
+     "text": "acres located within the town of Lewes, Delaware, known as the off-"
+    },
+    {
+     "role": "body",
+     "text": "post housing area."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The conveyance authorized herein shall be upon the follow-"
+    },
+    {
+     "role": "body",
+     "text": "ing terms and conditions:"
+    },
+    {
+     "role": "body",
+     "text": "(a) That portion of the presently excess lands comprising approxi-"
+    },
+    {
+     "role": "body",
+     "text": "mately one hundred and fifty-five acres, more or less, which was ceded"
+    },
+    {
+     "role": "body",
+     "text": "to the Federal Government by the State of Delaware without cost, shall"
+    },
+    {
+     "role": "body",
+     "text": "be conveyed with the improvements thereon to the State of Delaware"
+    },
+    {
+     "role": "body",
+     "text": "without monetary payment."
+    },
+    {
+     "role": "body",
+     "text": "(b) Such lands, other than described in (a) above, as are presently"
+    },
+    {
+     "role": "body",
+     "text": "excess shall be conveyed with the improvements thereon to the State"
+    },
+    {
+     "role": "body",
+     "text": "of Delaware upon payment to the United States by the State of Dela-"
+    },
+    {
+     "role": "body",
+     "text": "ware of the amount of money determined by the Secretary of the Army"
+    },
+    {
+     "role": "body",
+     "text": "to have been paid by the United States for the acquisition of subject"
+    },
+    {
+     "role": "body",
+     "text": "lands."
+    },
+    {
+     "role": "body",
+     "text": "(c) The lands conveyed shall be used solely for educational and/or"
+    },
+    {
+     "role": "body",
+     "text": "public park and recreational purposes, and if such use shall ever cease,"
+    },
+    {
+     "role": "body",
+     "text": "title to these lands shall revert to, and become the property of the"
+    },
+    {
+     "role": "body",
+     "text": "United States which shall have the right of immediate entry thereon."
+    },
+    {
+     "role": "body",
+     "text": "(d) The State of Delaware shall pay the cost of such surveys as"
+    },
+    {
+     "role": "body",
+     "text": "may be necessary to determine the exact legal description of the real"
+    },
+    {
+     "role": "body",
+     "text": "property to be conveyed."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. The Secretary of the Army shall include in the deed of con-"
+    },
+    {
+     "role": "body",
+     "text": "veyance authorized to be made by this Act a provision authorizing the"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of Defense, in any national emergency declared by the"
+    },
+    {
+     "role": "body",
+     "text": "President or the Congress, to enter upon and use without cost to the"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2034,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07828,
+   "seconds": 85.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "skipped": "transcriptions agree",
+  "disagreements": [],
+  "cost_usd": 0.0,
+  "usage": {
+   "input_tokens": 0,
+   "output_tokens": 0
+  }
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "470"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 88-227–DEC. 23, 1963"
+  },
+  {
+   "role": "running-head",
+   "text": "[77 STAT."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 88-227"
+  },
+  {
+   "role": "sidenote",
+   "text": "December 23, 1963"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 1698]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "body",
+   "text": "To amend section 511(h) of the Merchant Marine Act, 1936, as amended, in"
+  },
+  {
+   "role": "body",
+   "text": "order to extend the time for commitment of construction reserve funds."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Merchant Marine"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act, amendment."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the proviso"
+  },
+  {
+   "role": "body",
+   "text": "at the end of section 511(h) of the Merchant Marine Act, 1936, as"
+  },
+  {
+   "role": "sidenote",
+   "text": "Construction re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "serve funds."
+  },
+  {
+   "role": "body",
+   "text": "amended, is amended to read as follows: \"Provided, That until Janu-"
+  },
+  {
+   "role": "sidenote",
+   "text": "76 Stat. 796."
+  },
+  {
+   "role": "body",
+   "text": "ary 1, 1964, in addition to the extensions hereinbefore permitted, fur-"
+  },
+  {
+   "role": "sidenote",
+   "text": "46 USC 1161."
+  },
+  {
+   "role": "body",
+   "text": "ther extensions may be granted ending not later than December 31,"
+  },
+  {
+   "role": "body",
+   "text": "1964.\""
+  },
+  {
+   "role": "sidenote",
+   "text": "Effective date."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The amendment made by the first section of this Act shall"
+  },
+  {
+   "role": "body",
+   "text": "take effect December 31, 1963, or on the date of enactment of this Act,"
+  },
+  {
+   "role": "body",
+   "text": "whichever date first occurs."
+  },
+  {
+   "role": "body",
+   "text": "Approved December 23, 1963."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 88-228"
+  },
+  {
+   "role": "sidenote",
+   "text": "December 23, 1963"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 1767]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "body",
+   "text": "To authorize the Secretary of the Army to convey a certain parcel of land to"
+  },
+  {
+   "role": "body",
+   "text": "the State of Delaware, and for other purposes."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Delaware."
+  },
+  {
+   "role": "sidenote",
+   "text": "Land convey-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ance."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Secretary"
+  },
+  {
+   "role": "body",
+   "text": "of the Army is authorized and directed to sell and convey to the State"
+  },
+  {
+   "role": "body",
+   "text": "of Delaware, by quitclaim deed, all right, title, and interest of the"
+  },
+  {
+   "role": "body",
+   "text": "United States in and to such federally owned lands of the Fort Miles"
+  },
+  {
+   "role": "body",
+   "text": "Military Reservation, Delaware, which are now declared to be excess to"
+  },
+  {
+   "role": "body",
+   "text": "the needs of the United States, excluding, however, approximately ten"
+  },
+  {
+   "role": "body",
+   "text": "acres located within the town of Lewes, Delaware, known as the off-"
+  },
+  {
+   "role": "body",
+   "text": "post housing area."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The conveyance authorized herein shall be upon the follow-"
+  },
+  {
+   "role": "body",
+   "text": "ing terms and conditions:"
+  },
+  {
+   "role": "body",
+   "text": "(a) That portion of the presently excess lands comprising approxi-"
+  },
+  {
+   "role": "body",
+   "text": "mately one hundred and fifty-five acres, more or less, which was ceded"
+  },
+  {
+   "role": "body",
+   "text": "to the Federal Government by the State of Delaware without cost, shall"
+  },
+  {
+   "role": "body",
+   "text": "be conveyed with the improvements thereon to the State of Delaware"
+  },
+  {
+   "role": "body",
+   "text": "without monetary payment."
+  },
+  {
+   "role": "body",
+   "text": "(b) Such lands, other than described in (a) above, as are presently"
+  },
+  {
+   "role": "body",
+   "text": "excess shall be conveyed with the improvements thereon to the State"
+  },
+  {
+   "role": "body",
+   "text": "of Delaware upon payment to the United States by the State of Dela-"
+  },
+  {
+   "role": "body",
+   "text": "ware of the amount of money determined by the Secretary of the Army"
+  },
+  {
+   "role": "body",
+   "text": "to have been paid by the United States for the acquisition of subject"
+  },
+  {
+   "role": "body",
+   "text": "lands."
+  },
+  {
+   "role": "body",
+   "text": "(c) The lands conveyed shall be used solely for educational and/or"
+  },
+  {
+   "role": "body",
+   "text": "public park and recreational purposes, and if such use shall ever cease,"
+  },
+  {
+   "role": "body",
+   "text": "title to these lands shall revert to, and become the property of the"
+  },
+  {
+   "role": "body",
+   "text": "United States which shall have the right of immediate entry thereon."
+  },
+  {
+   "role": "body",
+   "text": "(d) The State of Delaware shall pay the cost of such surveys as"
+  },
+  {
+   "role": "body",
+   "text": "may be necessary to determine the exact legal description of the real"
+  },
+  {
+   "role": "body",
+   "text": "property to be conveyed."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. The Secretary of the Army shall include in the deed of con-"
+  },
+  {
+   "role": "body",
+   "text": "veyance authorized to be made by this Act a provision authorizing the"
+  },
+  {
+   "role": "body",
+   "text": "Secretary of Defense, in any national emergency declared by the"
+  },
+  {
+   "role": "body",
+   "text": "President or the Congress, to enter upon and use without cost to the"
+  }
+ ],
+ "disagreement_count": 0,
+ "tokens": {
+  "input_tokens": 10823,
+  "output_tokens": 4054,
+  "cache_read_input_tokens": 1490,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.15621,
+ "seconds": 234.3,
+ "created": "2026-09-08T11:43:35"
+}

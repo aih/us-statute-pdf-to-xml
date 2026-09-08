@@ -1,0 +1,1399 @@
+{
+ "granule_id": "STATUTE-12-Pg709-2",
+ "package_id": "STATUTE-12",
+ "volume": 12,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to provide Ways and Means for the Support of the Government.",
+ "date_issued": "1863-03-03",
+ "pdf_page": 5,
+ "pdf_pages": 5,
+ "stat_page": "713",
+ "image": "data/gold/STATUTE-12-Pg709-2/p5.png",
+ "image_sha256": "314e1fee835ead1dfe997606b861b8e422f80ce03582da6c388843cc0a89a33a",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 73, 74.  1863.       713"
+    },
+    {
+     "role": "body",
+     "text": "which should accrue, on the full amount of the fractional note circulation"
+    },
+    {
+     "role": "body",
+     "text": "and on the average amount of all other circulation and of all such depos-"
+    },
+    {
+     "role": "sidenote",
+     "text": "To be under"
+    },
+    {
+     "role": "body",
+     "text": "its, for the six months next preceding.  And there shall be annexed to"
+    },
+    {
+     "role": "sidenote",
+     "text": "oath."
+    },
+    {
+     "role": "body",
+     "text": "every such list or return a declaration, under oath or affirmation, to be"
+    },
+    {
+     "role": "body",
+     "text": "made in form and manner as shall be prescribed by the commissioner of"
+    },
+    {
+     "role": "body",
+     "text": "internal revenue, of the president, or some other proper officer of said"
+    },
+    {
+     "role": "body",
+     "text": "bank, association, corporation, or individual, respectively, that the same"
+    },
+    {
+     "role": "body",
+     "text": "contains a true and faithful account of the duties which have accrued, or"
+    },
+    {
+     "role": "body",
+     "text": "which should accrue, and not accounted for ; and for any default in the"
+    },
+    {
+     "role": "body",
+     "text": "delivery of such list or return, with such declaration annexed, the bank,"
+    },
+    {
+     "role": "body",
+     "text": "association, corporation, or individual making such default, shall forfeit, as"
+    },
+    {
+     "role": "sidenote",
+     "text": "Duties to be"
+    },
+    {
+     "role": "body",
+     "text": "a penalty, the sum of five hundred dollars.  And such bank, association,"
+    },
+    {
+     "role": "sidenote",
+     "text": "paid on rendering"
+    },
+    {
+     "role": "body",
+     "text": "corporation, or individual shall, upon rendering the list or return as afore-"
+    },
+    {
+     "role": "sidenote",
+     "text": "the return."
+    },
+    {
+     "role": "body",
+     "text": "said, pay to the commissioner of internal revenue the amount of the"
+    },
+    {
+     "role": "body",
+     "text": "duties due on such list or return, and in default thereof shall forfeit, as a"
+    },
+    {
+     "role": "sidenote",
+     "text": "Penalty for"
+    },
+    {
+     "role": "body",
+     "text": "penalty, the sum of five hundred dollars ; and in case of neglect or refusal"
+    },
+    {
+     "role": "sidenote",
+     "text": "neglect."
+    },
+    {
+     "role": "body",
+     "text": "to make such list or return as aforesaid, or to pay the duties as aforesaid,"
+    },
+    {
+     "role": "body",
+     "text": "for the space of thirty days after the time when said list should have been"
+    },
+    {
+     "role": "body",
+     "text": "made or rendered, or when said duties shall have become due and paya-"
+    },
+    {
+     "role": "body",
+     "text": "ble, the assessment and collection shall be made according to the general"
+    },
+    {
+     "role": "sidenote",
+     "text": "1862, ch. 119."
+    },
+    {
+     "role": "body",
+     "text": "provisions prescribed in an act entitled \" An act to provide internal rev-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 432."
+    },
+    {
+     "role": "body",
+     "text": "enue to support the Government and to pay interest on the public debt,\""
+    },
+    {
+     "role": "body",
+     "text": "approved July one, eighteen hundred and sixty-two."
+    },
+    {
+     "role": "sidenote",
+     "text": "Penalties of"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 8. And be it further enacted, That, in order to prevent and pun-"
+    },
+    {
+     "role": "sidenote",
+     "text": "former act against"
+    },
+    {
+     "role": "body",
+     "text": "ish counterfeiting and fraudulent alterations of the bonds, notes, and frac-"
+    },
+    {
+     "role": "sidenote",
+     "text": "counterfeiting,"
+    },
+    {
+     "role": "body",
+     "text": "tional currency authorized to be issued by this act, all the provisions of"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c., made appli-"
+    },
+    {
+     "role": "body",
+     "text": "the sixth and seventh sections of the act entitled \" An act to authorize"
+    },
+    {
+     "role": "sidenote",
+     "text": "cable."
+    },
+    {
+     "role": "sidenote",
+     "text": "1862, ch. 33,"
+    },
+    {
+     "role": "body",
+     "text": "the issue of United States notes, and for the redemption or funding"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 6, 7."
+    },
+    {
+     "role": "body",
+     "text": "thereof, and for funding the floating debt of the United States,\" approved"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 347."
+    },
+    {
+     "role": "body",
+     "text": "February twenty-fifth, eighteen hundred and sixty-two, shall, so far as"
+    },
+    {
+     "role": "body",
+     "text": "applicable, apply to the bonds, notes, and fractional currency hereby"
+    },
+    {
+     "role": "body",
+     "text": "authorized to be issued, in like manner as if the said sixth and seventh"
+    },
+    {
+     "role": "body",
+     "text": "sections were hereby adopted as additional sections of this act.  And"
+    },
+    {
+     "role": "body",
+     "text": "the provisions and penalties of said sixth and seventh sections shall ex-"
+    },
+    {
+     "role": "body",
+     "text": "tend and apply to all persons who shall imitate, counterfeit, make, or sell"
+    },
+    {
+     "role": "body",
+     "text": "any paper such as that used, or provided to be used, for the fractional"
+    },
+    {
+     "role": "body",
+     "text": "notes prepared, or to be prepared, in the treasury department building,"
+    },
+    {
+     "role": "body",
+     "text": "and to all officials of the treasury department engaged in engraving and"
+    },
+    {
+     "role": "body",
+     "text": "preparing the bonds, notes, and fractional currency hereby authorized to"
+    },
+    {
+     "role": "body",
+     "text": "be issued, and to all official and unofficial persons in any manner em-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation"
+    },
+    {
+     "role": "body",
+     "text": "ployed under the provisions of this act.  And the sum of six hundred"
+    },
+    {
+     "role": "sidenote",
+     "text": "for expenses of"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars is hereby appropriated, out of any money in the treasury"
+    },
+    {
+     "role": "sidenote",
+     "text": "this act."
+    },
+    {
+     "role": "body",
+     "text": "not otherwise appropriated, to enable the Secretary of the Treasury to"
+    },
+    {
+     "role": "body",
+     "text": "carry this act into effect."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1863."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXIV. — An Act to amend an Act entitled \" An Act to provide Internal Rev-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1862, ch. 119."
+    },
+    {
+     "role": "body",
+     "text": "enue to support the Government and pay Interest on the Public Debt,\" approved July"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 432."
+    },
+    {
+     "role": "body",
+     "text": "first, eighteen hundred and sixty-two, and for other Purposes."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Amendments."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That \" An act to provide in-"
+    },
+    {
+     "role": "body",
+     "text": "ternal revenue to support the Government and pay interest on the public"
+    },
+    {
+     "role": "body",
+     "text": "debt,\" approved July first, eighteen hundred and sixty-two, be, and the"
+    },
+    {
+     "role": "body",
+     "text": "same hereby is, amend[ed] as hereinafter set forth, namely : —"
+    },
+    {
+     "role": "sidenote",
+     "text": "Written notice"
+    },
+    {
+     "role": "body",
+     "text": "That wherever any written notice, or other instrument in writing, is"
+    },
+    {
+     "role": "sidenote",
+     "text": "may be partly in"
+    },
+    {
+     "role": "body",
+     "text": "required, the same shall be lawful if written or partly written and"
+    },
+    {
+     "role": "sidenote",
+     "text": "print."
+    },
+    {
+     "role": "body",
+     "text": "printed."
+    },
+    {
+     "role": "sidenote",
+     "text": "Section 11."
+    },
+    {
+     "role": "body",
+     "text": "That section eleven be, and hereby is, amended so as to authorize"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 435."
+    },
+    {
+     "role": "body",
+     "text": "VOL. XII.  PUB. — 90"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2601,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09246,
+   "seconds": 30.2,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "THIRTY–SEVENTH CONGRESS.  SESS. III.  CH. 73, 74.  1863."
+    },
+    {
+     "role": "page-number",
+     "text": "713"
+    },
+    {
+     "role": "body",
+     "text": "which should accrue, on the full amount of the fractional note circulation"
+    },
+    {
+     "role": "body",
+     "text": "and on the average amount of all other circulation and of all such depos-"
+    },
+    {
+     "role": "body",
+     "text": "its, for the six months next preceding.  And there shall be annexed to"
+    },
+    {
+     "role": "sidenote",
+     "text": "To be under"
+    },
+    {
+     "role": "body",
+     "text": "every such list or return a declaration, under oath or affirmation, to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "oath."
+    },
+    {
+     "role": "body",
+     "text": "made in form and manner as shall be prescribed by the commissioner of"
+    },
+    {
+     "role": "body",
+     "text": "internal revenue, of the president, or some other proper officer of said"
+    },
+    {
+     "role": "body",
+     "text": "bank, association, corporation, or individual, respectively, that the same"
+    },
+    {
+     "role": "body",
+     "text": "contains a true and faithful account of the duties which have accrued, or"
+    },
+    {
+     "role": "body",
+     "text": "which should accrue, and not accounted for ; and for any default in the"
+    },
+    {
+     "role": "body",
+     "text": "delivery of such list or return, with such declaration annexed, the bank,"
+    },
+    {
+     "role": "body",
+     "text": "association, corporation, or individual making such default, shall forfeit, as"
+    },
+    {
+     "role": "body",
+     "text": "a penalty, the sum of five hundred dollars.  And such bank, association,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Duties to be"
+    },
+    {
+     "role": "body",
+     "text": "corporation, or individual shall, upon rendering the list or return as afore-"
+    },
+    {
+     "role": "sidenote",
+     "text": "paid on rendering"
+    },
+    {
+     "role": "body",
+     "text": "said, pay to the commissioner of internal revenue the amount of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "the return."
+    },
+    {
+     "role": "body",
+     "text": "duties due on such list or return, and in default thereof shall forfeit, as a"
+    },
+    {
+     "role": "body",
+     "text": "penalty, the sum of five hundred dollars ; and in case of neglect or refusal"
+    },
+    {
+     "role": "sidenote",
+     "text": "Penalty for"
+    },
+    {
+     "role": "body",
+     "text": "to make such list or return as aforesaid, or to pay the duties as aforesaid,"
+    },
+    {
+     "role": "sidenote",
+     "text": "neglect."
+    },
+    {
+     "role": "body",
+     "text": "for the space of thirty days after the time when said list should have been"
+    },
+    {
+     "role": "body",
+     "text": "made or rendered, or when said duties shall have become due and paya-"
+    },
+    {
+     "role": "body",
+     "text": "ble, the assessment and collection shall be made according to the general"
+    },
+    {
+     "role": "body",
+     "text": "provisions prescribed in an act entitled “ An act to provide internal rev-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1862, ch. 119."
+    },
+    {
+     "role": "body",
+     "text": "enue to support the Government and to pay interest on the public debt,”"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 432."
+    },
+    {
+     "role": "body",
+     "text": "approved July one, eighteen hundred and sixty-two."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 8.  And be it further enacted, That, in order to prevent and pun-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Penalties of"
+    },
+    {
+     "role": "body",
+     "text": "ish counterfeiting and fraudulent alterations of the bonds, notes, and frac-"
+    },
+    {
+     "role": "sidenote",
+     "text": "former act against"
+    },
+    {
+     "role": "body",
+     "text": "tional currency authorized to be issued by this act, all the provisions of"
+    },
+    {
+     "role": "sidenote",
+     "text": "counterfeiting,"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c., made appli-"
+    },
+    {
+     "role": "body",
+     "text": "the sixth and seventh sections of the act entitled  “ An act to authorize"
+    },
+    {
+     "role": "sidenote",
+     "text": "cable."
+    },
+    {
+     "role": "body",
+     "text": "the issue of United States notes, and for the redemption or funding"
+    },
+    {
+     "role": "sidenote",
+     "text": "1862, ch. 33,"
+    },
+    {
+     "role": "body",
+     "text": "thereof, and for funding the floating debt of the United States,” approved"
+    },
+    {
+     "role": "sidenote",
+     "text": "§§ 6, 7."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 347."
+    },
+    {
+     "role": "body",
+     "text": "February twenty-fifth, eighteen hundred and sixty-two, shall, so far as"
+    },
+    {
+     "role": "body",
+     "text": "applicable, apply to the bonds, notes, and fractional currency hereby"
+    },
+    {
+     "role": "body",
+     "text": "authorized to be issued, in like manner as if the said sixth and seventh"
+    },
+    {
+     "role": "body",
+     "text": "sections were hereby adopted as additional sections of this act.  And"
+    },
+    {
+     "role": "body",
+     "text": "the provisions and penalties of said sixth and seventh sections shall ex-"
+    },
+    {
+     "role": "body",
+     "text": "tend and apply to all persons who shall imitate, counterfeit, make, or sell"
+    },
+    {
+     "role": "body",
+     "text": "any paper such as that used, or provided to be used, for the fractional"
+    },
+    {
+     "role": "body",
+     "text": "notes prepared, or to be prepared, in the treasury department building,"
+    },
+    {
+     "role": "body",
+     "text": "and to all officials of the treasury department engaged in engraving and"
+    },
+    {
+     "role": "body",
+     "text": "preparing the bonds, notes, and fractional currency hereby authorized to"
+    },
+    {
+     "role": "body",
+     "text": "be issued, and to all official and unofficial persons in any manner em-"
+    },
+    {
+     "role": "body",
+     "text": "ployed under the provisions of this act.  And the sum of six hundred"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation"
+    },
+    {
+     "role": "body",
+     "text": "thousand dollars is hereby appropriated, out of any money in the treasury"
+    },
+    {
+     "role": "sidenote",
+     "text": "for expenses of"
+    },
+    {
+     "role": "body",
+     "text": "not otherwise appropriated, to enable the Secretary of the Treasury to"
+    },
+    {
+     "role": "sidenote",
+     "text": "this act."
+    },
+    {
+     "role": "body",
+     "text": "carry this act into effect."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1863."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXIV. — An Act to amend an Act entitled “ An Act to provide Internal Rev-"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1863."
+    },
+    {
+     "role": "body",
+     "text": "enue to support the Government and pay Interest on the Public Debt,” approved July"
+    },
+    {
+     "role": "sidenote",
+     "text": "1862, ch. 119."
+    },
+    {
+     "role": "body",
+     "text": "first, eighteen hundred and sixty-two, and for other Purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 432."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That “ An act to provide in-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Amendments."
+    },
+    {
+     "role": "body",
+     "text": "ternal revenue to support the Government and pay interest on the public"
+    },
+    {
+     "role": "body",
+     "text": "debt,” approved July first, eighteen hundred and sixty-two, be, and the"
+    },
+    {
+     "role": "body",
+     "text": "same hereby is, amend[ed] as hereinafter set forth, namely : —"
+    },
+    {
+     "role": "body",
+     "text": "That wherever any written notice, or other instrument in writing, is"
+    },
+    {
+     "role": "sidenote",
+     "text": "Written notice"
+    },
+    {
+     "role": "body",
+     "text": "required, the same shall be lawful if written or partly written and"
+    },
+    {
+     "role": "sidenote",
+     "text": "may be partly in"
+    },
+    {
+     "role": "body",
+     "text": "printed."
+    },
+    {
+     "role": "sidenote",
+     "text": "print."
+    },
+    {
+     "role": "sidenote",
+     "text": "Section 11."
+    },
+    {
+     "role": "body",
+     "text": "That section eleven be, and hereby is, amended so as to authorize"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 435."
+    },
+    {
+     "role": "body",
+     "text": "VOL. XII.  PUB. — 90"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2612,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09273,
+   "seconds": 33.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 14300,
+   "output_tokens": 3635,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.16279,
+  "seconds": 43.9,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 73, 74.  1863.       713",
+    "b": "THIRTY–SEVENTH CONGRESS.  SESS. III.  CH. 73, 74.  1863.\n713",
+    "kept": "THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 73, 74.  1863.\n713",
+    "reason": "Running head and the page number 713 are separate elements at the top of the page."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "its, for the six months next preceding.  And there shall be annexed to",
+    "kept": "its, for the six months next preceding.  And there shall be annexed to",
+    "reason": "This body line precedes the sidenote 'To be under', which is set level with it."
+   },
+   {
+    "run": 3,
+    "a": "its, for the six months next preceding.  And there shall be annexed to",
+    "b": "every such list or return a declaration, under oath or affirmation, to be",
+    "kept": "every such list or return a declaration, under oath or affirmation, to be",
+    "reason": "After the sidenote 'To be under' the next printed body line is this one."
+   },
+   {
+    "run": 4,
+    "a": "every such list or return a declaration, under oath or affirmation, to be",
+    "b": "",
+    "kept": "",
+    "reason": "A repeats a line already placed; nothing additional printed here."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "a penalty, the sum of five hundred dollars.  And such bank, association,",
+    "kept": "a penalty, the sum of five hundred dollars.  And such bank, association,",
+    "reason": "Body line printed level with the sidenote 'Duties to be', which follows it."
+   },
+   {
+    "run": 6,
+    "a": "a penalty, the sum of five hundred dollars.  And such bank, association,",
+    "b": "corporation, or individual shall, upon rendering the list or return as afore-",
+    "kept": "corporation, or individual shall, upon rendering the list or return as afore-",
+    "reason": "Next body line after the sidenote 'Duties to be'."
+   },
+   {
+    "run": 7,
+    "a": "corporation, or individual shall, upon rendering the list or return as afore-",
+    "b": "said, pay to the commissioner of internal revenue the amount of the",
+    "kept": "said, pay to the commissioner of internal revenue the amount of the",
+    "reason": "Next body line after 'paid on rendering'."
+   },
+   {
+    "run": 8,
+    "a": "said, pay to the commissioner of internal revenue the amount of the",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of a line already placed; nothing printed here."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "penalty, the sum of five hundred dollars ; and in case of neglect or refusal",
+    "kept": "penalty, the sum of five hundred dollars ; and in case of neglect or refusal",
+    "reason": "Body line set level with the sidenote 'Penalty for', which follows it."
+   },
+   {
+    "run": 10,
+    "a": "penalty, the sum of five hundred dollars ; and in case of neglect or refusal",
+    "b": "to make such list or return as aforesaid, or to pay the duties as aforesaid,",
+    "kept": "to make such list or return as aforesaid, or to pay the duties as aforesaid,",
+    "reason": "Next body line after 'Penalty for'."
+   },
+   {
+    "run": 11,
+    "a": "to make such list or return as aforesaid, or to pay the duties as aforesaid,",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate line; nothing printed here."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "provisions prescribed in an act entitled “ An act to provide internal rev-",
+    "kept": "provisions prescribed in an act entitled “ An act to provide internal rev-",
+    "reason": "Body line level with sidenote '1862, ch. 119.'; printed with curly quotes."
+   },
+   {
+    "run": 13,
+    "a": "provisions prescribed in an act entitled \" An act to provide internal rev-",
+    "b": "enue to support the Government and to pay interest on the public debt,”",
+    "kept": "enue to support the Government and to pay interest on the public debt,”",
+    "reason": "Next body line after the sidenote; closing curly quote as printed."
+   },
+   {
+    "run": 14,
+    "a": "enue to support the Government and to pay interest on the public debt,\"",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate line; nothing printed here."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "SEC. 8.  And be it further enacted, That, in order to prevent and pun-",
+    "kept": "SEC. 8.  And be it further enacted, That, in order to prevent and pun-",
+    "reason": "Body line level with sidenote 'Penalties of', which follows it."
+   },
+   {
+    "run": 16,
+    "a": "SEC. 8. And be it further enacted, That, in order to prevent and pun-",
+    "b": "ish counterfeiting and fraudulent alterations of the bonds, notes, and frac-",
+    "kept": "ish counterfeiting and fraudulent alterations of the bonds, notes, and frac-",
+    "reason": "Next body line after 'former act against'."
+   },
+   {
+    "run": 17,
+    "a": "ish counterfeiting and fraudulent alterations of the bonds, notes, and frac-",
+    "b": "tional currency authorized to be issued by this act, all the provisions of",
+    "kept": "tional currency authorized to be issued by this act, all the provisions of",
+    "reason": "Next body line after 'counterfeiting,'."
+   },
+   {
+    "run": 18,
+    "a": "tional currency authorized to be issued by this act, all the provisions of",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate line; nothing printed here."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "the issue of United States notes, and for the redemption or funding",
+    "kept": "the issue of United States notes, and for the redemption or funding",
+    "reason": "Body line following the sidenote 'cable.'"
+   },
+   {
+    "run": 20,
+    "a": "the issue of United States notes, and for the redemption or funding",
+    "b": "thereof, and for funding the floating debt of the United States,” approved",
+    "kept": "thereof, and for funding the floating debt of the United States,” approved",
+    "reason": "Next body line after '1862, ch. 33,'; curly closing quote as printed."
+   },
+   {
+    "run": 21,
+    "a": "thereof, and for funding the floating debt of the United States,\" approved",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate line; nothing printed here."
+   },
+   {
+    "run": 22,
+    "a": "",
+    "b": "ployed under the provisions of this act.  And the sum of six hundred",
+    "kept": "ployed under the provisions of this act.  And the sum of six hundred",
+    "reason": "Body line level with sidenote 'Appropriation', which follows it."
+   },
+   {
+    "run": 23,
+    "a": "ployed under the provisions of this act.  And the sum of six hundred",
+    "b": "thousand dollars is hereby appropriated, out of any money in the treasury",
+    "kept": "thousand dollars is hereby appropriated, out of any money in the treasury",
+    "reason": "Next body line after 'Appropriation'."
+   },
+   {
+    "run": 24,
+    "a": "thousand dollars is hereby appropriated, out of any money in the treasury",
+    "b": "not otherwise appropriated, to enable the Secretary of the Treasury to",
+    "kept": "not otherwise appropriated, to enable the Secretary of the Treasury to",
+    "reason": "Next body line after 'for expenses of'."
+   },
+   {
+    "run": 25,
+    "a": "not otherwise appropriated, to enable the Secretary of the Treasury to",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate line; nothing printed here."
+   },
+   {
+    "run": 26,
+    "a": "",
+    "b": "CHAP. LXXIV. — An Act to amend an Act entitled “ An Act to provide Internal Rev-",
+    "kept": "CHAP. LXXIV. — An Act to amend an Act entitled “ An Act to provide Internal Rev-",
+    "reason": "Chapter heading line precedes the sidenote 'March 3, 1863.' set level with it."
+   },
+   {
+    "run": 27,
+    "a": "CHAP. LXXIV. — An Act to amend an Act entitled \" An Act to provide Internal Rev-",
+    "b": "enue to support the Government and pay Interest on the Public Debt,” approved July",
+    "kept": "enue to support the Government and pay Interest on the Public Debt,” approved July",
+    "reason": "Next heading line after 'March 3, 1863.'; curly quote as printed."
+   },
+   {
+    "run": 28,
+    "a": "enue to support the Government and pay Interest on the Public Debt,\" approved July",
+    "b": "first, eighteen hundred and sixty-two, and for other Purposes.",
+    "kept": "first, eighteen hundred and sixty-two, and for other Purposes.",
+    "reason": "Next heading line after '1862, ch. 119.'"
+   },
+   {
+    "run": 29,
+    "a": "first, eighteen hundred and sixty-two, and for other Purposes.",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate line; nothing printed here."
+   },
+   {
+    "run": 30,
+    "a": "",
+    "b": "States of America in Congress assembled, That “ An act to provide in-",
+    "kept": "States of America in Congress assembled, That “ An act to provide in-",
+    "reason": "This body line stands level with the sidenote 'Amendments.', which follows it."
+   },
+   {
+    "run": 31,
+    "a": "States of America in Congress assembled, That \" An act to provide in-",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate line; nothing printed here."
+   },
+   {
+    "run": 32,
+    "a": "",
+    "b": "That wherever any written notice, or other instrument in writing, is",
+    "kept": "That wherever any written notice, or other instrument in writing, is",
+    "reason": "Body line level with sidenote 'Written notice', which follows it."
+   },
+   {
+    "run": 33,
+    "a": "That wherever any written notice, or other instrument in writing, is",
+    "b": "required, the same shall be lawful if written or partly written and",
+    "kept": "required, the same shall be lawful if written or partly written and",
+    "reason": "Next body line after 'Written notice'."
+   },
+   {
+    "run": 34,
+    "a": "required, the same shall be lawful if written or partly written and",
+    "b": "printed.",
+    "kept": "printed.",
+    "reason": "Next body line after 'may be partly in'."
+   },
+   {
+    "run": 35,
+    "a": "printed.",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate line; nothing printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "THIRTY-SEVENTH CONGRESS.  SESS. III.  CH. 73, 74.  1863."
+  },
+  {
+   "role": "page-number",
+   "text": "713"
+  },
+  {
+   "role": "body",
+   "text": "which should accrue, on the full amount of the fractional note circulation"
+  },
+  {
+   "role": "body",
+   "text": "and on the average amount of all other circulation and of all such depos-"
+  },
+  {
+   "role": "body",
+   "text": "its, for the six months next preceding.  And there shall be annexed to"
+  },
+  {
+   "role": "sidenote",
+   "text": "To be under"
+  },
+  {
+   "role": "body",
+   "text": "every such list or return a declaration, under oath or affirmation, to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "oath."
+  },
+  {
+   "role": "body",
+   "text": "made in form and manner as shall be prescribed by the commissioner of"
+  },
+  {
+   "role": "body",
+   "text": "internal revenue, of the president, or some other proper officer of said"
+  },
+  {
+   "role": "body",
+   "text": "bank, association, corporation, or individual, respectively, that the same"
+  },
+  {
+   "role": "body",
+   "text": "contains a true and faithful account of the duties which have accrued, or"
+  },
+  {
+   "role": "body",
+   "text": "which should accrue, and not accounted for ; and for any default in the"
+  },
+  {
+   "role": "body",
+   "text": "delivery of such list or return, with such declaration annexed, the bank,"
+  },
+  {
+   "role": "body",
+   "text": "association, corporation, or individual making such default, shall forfeit, as"
+  },
+  {
+   "role": "body",
+   "text": "a penalty, the sum of five hundred dollars.  And such bank, association,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Duties to be"
+  },
+  {
+   "role": "body",
+   "text": "corporation, or individual shall, upon rendering the list or return as afore-"
+  },
+  {
+   "role": "sidenote",
+   "text": "paid on rendering"
+  },
+  {
+   "role": "body",
+   "text": "said, pay to the commissioner of internal revenue the amount of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "the return."
+  },
+  {
+   "role": "body",
+   "text": "duties due on such list or return, and in default thereof shall forfeit, as a"
+  },
+  {
+   "role": "body",
+   "text": "penalty, the sum of five hundred dollars ; and in case of neglect or refusal"
+  },
+  {
+   "role": "sidenote",
+   "text": "Penalty for"
+  },
+  {
+   "role": "body",
+   "text": "to make such list or return as aforesaid, or to pay the duties as aforesaid,"
+  },
+  {
+   "role": "sidenote",
+   "text": "neglect."
+  },
+  {
+   "role": "body",
+   "text": "for the space of thirty days after the time when said list should have been"
+  },
+  {
+   "role": "body",
+   "text": "made or rendered, or when said duties shall have become due and paya-"
+  },
+  {
+   "role": "body",
+   "text": "ble, the assessment and collection shall be made according to the general"
+  },
+  {
+   "role": "body",
+   "text": "provisions prescribed in an act entitled “ An act to provide internal rev-"
+  },
+  {
+   "role": "sidenote",
+   "text": "1862, ch. 119."
+  },
+  {
+   "role": "body",
+   "text": "enue to support the Government and to pay interest on the public debt,”"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 432."
+  },
+  {
+   "role": "body",
+   "text": "approved July one, eighteen hundred and sixty-two."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 8.  And be it further enacted, That, in order to prevent and pun-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Penalties of"
+  },
+  {
+   "role": "body",
+   "text": "ish counterfeiting and fraudulent alterations of the bonds, notes, and frac-"
+  },
+  {
+   "role": "sidenote",
+   "text": "former act against"
+  },
+  {
+   "role": "body",
+   "text": "tional currency authorized to be issued by this act, all the provisions of"
+  },
+  {
+   "role": "sidenote",
+   "text": "counterfeiting,"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c., made appli-"
+  },
+  {
+   "role": "body",
+   "text": "the sixth and seventh sections of the act entitled \" An act to authorize"
+  },
+  {
+   "role": "sidenote",
+   "text": "cable."
+  },
+  {
+   "role": "body",
+   "text": "the issue of United States notes, and for the redemption or funding"
+  },
+  {
+   "role": "sidenote",
+   "text": "1862, ch. 33,"
+  },
+  {
+   "role": "body",
+   "text": "thereof, and for funding the floating debt of the United States,” approved"
+  },
+  {
+   "role": "sidenote",
+   "text": "§§ 6, 7."
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 347."
+  },
+  {
+   "role": "body",
+   "text": "February twenty-fifth, eighteen hundred and sixty-two, shall, so far as"
+  },
+  {
+   "role": "body",
+   "text": "applicable, apply to the bonds, notes, and fractional currency hereby"
+  },
+  {
+   "role": "body",
+   "text": "authorized to be issued, in like manner as if the said sixth and seventh"
+  },
+  {
+   "role": "body",
+   "text": "sections were hereby adopted as additional sections of this act.  And"
+  },
+  {
+   "role": "body",
+   "text": "the provisions and penalties of said sixth and seventh sections shall ex-"
+  },
+  {
+   "role": "body",
+   "text": "tend and apply to all persons who shall imitate, counterfeit, make, or sell"
+  },
+  {
+   "role": "body",
+   "text": "any paper such as that used, or provided to be used, for the fractional"
+  },
+  {
+   "role": "body",
+   "text": "notes prepared, or to be prepared, in the treasury department building,"
+  },
+  {
+   "role": "body",
+   "text": "and to all officials of the treasury department engaged in engraving and"
+  },
+  {
+   "role": "body",
+   "text": "preparing the bonds, notes, and fractional currency hereby authorized to"
+  },
+  {
+   "role": "body",
+   "text": "be issued, and to all official and unofficial persons in any manner em-"
+  },
+  {
+   "role": "body",
+   "text": "ployed under the provisions of this act.  And the sum of six hundred"
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation"
+  },
+  {
+   "role": "body",
+   "text": "thousand dollars is hereby appropriated, out of any money in the treasury"
+  },
+  {
+   "role": "sidenote",
+   "text": "for expenses of"
+  },
+  {
+   "role": "body",
+   "text": "not otherwise appropriated, to enable the Secretary of the Treasury to"
+  },
+  {
+   "role": "sidenote",
+   "text": "this act."
+  },
+  {
+   "role": "body",
+   "text": "carry this act into effect."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1863."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LXXIV. — An Act to amend an Act entitled “ An Act to provide Internal Rev-"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1863."
+  },
+  {
+   "role": "body",
+   "text": "enue to support the Government and pay Interest on the Public Debt,” approved July"
+  },
+  {
+   "role": "sidenote",
+   "text": "1862, ch. 119."
+  },
+  {
+   "role": "body",
+   "text": "first, eighteen hundred and sixty-two, and for other Purposes."
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 432."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That “ An act to provide in-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Amendments."
+  },
+  {
+   "role": "body",
+   "text": "ternal revenue to support the Government and pay interest on the public"
+  },
+  {
+   "role": "body",
+   "text": "debt,\" approved July first, eighteen hundred and sixty-two, be, and the"
+  },
+  {
+   "role": "body",
+   "text": "same hereby is, amend[ed] as hereinafter set forth, namely : —"
+  },
+  {
+   "role": "body",
+   "text": "That wherever any written notice, or other instrument in writing, is"
+  },
+  {
+   "role": "sidenote",
+   "text": "Written notice"
+  },
+  {
+   "role": "body",
+   "text": "required, the same shall be lawful if written or partly written and"
+  },
+  {
+   "role": "sidenote",
+   "text": "may be partly in"
+  },
+  {
+   "role": "body",
+   "text": "printed."
+  },
+  {
+   "role": "sidenote",
+   "text": "print."
+  },
+  {
+   "role": "sidenote",
+   "text": "Section 11."
+  },
+  {
+   "role": "body",
+   "text": "That section eleven be, and hereby is, amended so as to authorize"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 435."
+  },
+  {
+   "role": "body",
+   "text": "VOL. XII.  PUB. — 90"
+  }
+ ],
+ "disagreement_count": 35,
+ "tokens": {
+  "input_tokens": 25123,
+  "output_tokens": 8848,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.34798,
+ "seconds": 107.5,
+ "created": "2026-09-08T12:34:39"
+}

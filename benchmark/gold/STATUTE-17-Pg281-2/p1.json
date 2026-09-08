@@ -1,0 +1,1285 @@
+{
+ "granule_id": "STATUTE-17-Pg281-2",
+ "package_id": "STATUTE-17",
+ "volume": 17,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act relating to a Site for public Buildings in Harrisburgh, Pennsylvania, and Sacramento, California.",
+ "date_issued": "1872-06-07",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "281",
+ "image": "data/gold/STATUTE-17-Pg281-2/p1.png",
+ "image_sha256": "49841a70f7f8cb6ac11abc64b7594c123b8943ab6f2196e06e9a291761f76481",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FORTY-SECOND CONGRESS.  SESS. II.  CH. 324-327.  1872."
+    },
+    {
+     "role": "page-number",
+     "text": "281"
+    },
+    {
+     "role": "body",
+     "text": "post-office, internal revenue, and other government offices ; and for this"
+    },
+    {
+     "role": "body",
+     "text": "purpose there is hereby appropriated, out of any money in the treasury"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation,"
+    },
+    {
+     "role": "body",
+     "text": "not otherwise appropriated, the sum of one hundred thousand dollars, to"
+    },
+    {
+     "role": "sidenote",
+     "text": "plans, and esti-"
+    },
+    {
+     "role": "body",
+     "text": "be expended under the direction of the Secretary of the Treasury, who"
+    },
+    {
+     "role": "sidenote",
+     "text": "mates"
+    },
+    {
+     "role": "body",
+     "text": "shall cause proper plans and estimates to be made, so that no expenditure"
+    },
+    {
+     "role": "body",
+     "text": "shall be made or authorized for the full completion of said building and"
+    },
+    {
+     "role": "body",
+     "text": "payment for the site thereof beyond the amount herein appropriated :"
+    },
+    {
+     "role": "body",
+     "text": "Provided, That no part of the sum herein appropriated shall be used or"
+    },
+    {
+     "role": "sidenote",
+     "text": "No part to be"
+    },
+    {
+     "role": "body",
+     "text": "expended, until a valid title to the site of said building shall be vested in"
+    },
+    {
+     "role": "sidenote",
+     "text": "expended until,"
+    },
+    {
+     "role": "body",
+     "text": "the United States, and until the State of Arkansas shall duly release and"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "body",
+     "text": "relinquish its jurisdiction over the same, and its right to tax said site and"
+    },
+    {
+     "role": "body",
+     "text": "the property which may be thereon during the time the United States"
+    },
+    {
+     "role": "body",
+     "text": "shall be or remain the owner thereof."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 7, 1872."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 7, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCCXXV. — An Act to quiet the Title to certain Lands in Dakota Territory."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Title of certain"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That it shall be the duty of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Sioux Indians to"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Interior to examine and report to Congress what title or"
+    },
+    {
+     "role": "sidenote",
+     "text": "certain land in"
+    },
+    {
+     "role": "body",
+     "text": "interest the Sisseton and Wahpeton bands of Sioux Indians have to any"
+    },
+    {
+     "role": "sidenote",
+     "text": "Dakota Territory"
+    },
+    {
+     "role": "body",
+     "text": "portion of the land mentioned and particularly described in the second"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be inquired"
+    },
+    {
+     "role": "body",
+     "text": "article of the treaty made and concluded with said bands of Indians on"
+    },
+    {
+     "role": "sidenote",
+     "text": "into."
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. xv. p. 506."
+    },
+    {
+     "role": "body",
+     "text": "the nineteenth day of February, eighteen hundred and sixty-seven, and"
+    },
+    {
+     "role": "body",
+     "text": "afterward amended, ratified, and proclaimed on the second day of May,"
+    },
+    {
+     "role": "body",
+     "text": "of the same year, or by virtue of any other law or treaty whatsoever, ex-"
+    },
+    {
+     "role": "body",
+     "text": "cepting such rights as were secured to said bands of Indians by the third"
+    },
+    {
+     "role": "body",
+     "text": "and fourth articles of said treaty, as a \"permanent reservation ; \" and"
+    },
+    {
+     "role": "sidenote",
+     "text": "Equitable com-"
+    },
+    {
+     "role": "body",
+     "text": "whether any, and, if any, what, compensation ought, in justice and equity,"
+    },
+    {
+     "role": "sidenote",
+     "text": "pensation."
+    },
+    {
+     "role": "body",
+     "text": "to be made to said bands of Indians, respectively, for the extinguishment"
+    },
+    {
+     "role": "body",
+     "text": "of whatever title they may have to said lands."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 7, 1872."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 7, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCCXXVI. — An Act relating to a Site for public Buildings in Harrisburgh,"
+    },
+    {
+     "role": "body",
+     "text": "Pennsylvania, and Sacramento, California."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Examination"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the Treas-"
+    },
+    {
+     "role": "sidenote",
+     "text": "for suitable sites"
+    },
+    {
+     "role": "body",
+     "text": "ury be, and he is hereby, authorized to make an examination, and report"
+    },
+    {
+     "role": "sidenote",
+     "text": "for public build-"
+    },
+    {
+     "role": "body",
+     "text": "to Congress the terms upon which suitable sites can be obtained for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "ings in Harris-"
+    },
+    {
+     "role": "body",
+     "text": "erection of any needed public buildings in Harrisburgh, Pennsylvania, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "burgh, Pa., and"
+    },
+    {
+     "role": "body",
+     "text": "Sacramento, California."
+    },
+    {
+     "role": "sidenote",
+     "text": "Sacramento, Cal."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 7, 1872."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 7, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCCXXVII. — An Act authorizing the First National Bank of Annapolis to"
+    },
+    {
+     "role": "body",
+     "text": "change its Location and Name."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "First National"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the First National Bank"
+    },
+    {
+     "role": "sidenote",
+     "text": "Bank of Annapo-"
+    },
+    {
+     "role": "body",
+     "text": "of Annapolis, now located in the city of Annapolis, and State of Mary-"
+    },
+    {
+     "role": "sidenote",
+     "text": "lis, Md., may"
+    },
+    {
+     "role": "sidenote",
+     "text": "change its loca-"
+    },
+    {
+     "role": "body",
+     "text": "land, is hereby authorized to change its location to the city of Baltimore,"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion to Baltimore."
+    },
+    {
+     "role": "body",
+     "text": "in said State.  Whenever the stockholders representing three-fourths of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proceedings."
+    },
+    {
+     "role": "body",
+     "text": "the capital of said bank, at a meeting called for that purpose, determine"
+    },
+    {
+     "role": "body",
+     "text": "to make such change, the president and the cashier shall execute a cer-"
+    },
+    {
+     "role": "body",
+     "text": "tificate, under the corporate seal of the bank, specifying such determination,"
+    },
+    {
+     "role": "body",
+     "text": "and shall cause the same to be recorded in the office of the comptroller"
+    },
+    {
+     "role": "body",
+     "text": "of the currency, and thereupon such change of location shall be effected,"
+    },
+    {
+     "role": "body",
+     "text": "and the operations of discount and deposit of said bank shall be carried"
+    },
+    {
+     "role": "body",
+     "text": "on in the city of Baltimore."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2487,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08961,
+   "seconds": 26.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FORTY–SECOND CONGRESS.  SESS. II.  CH. 324–327.  1872."
+    },
+    {
+     "role": "page-number",
+     "text": "281"
+    },
+    {
+     "role": "body",
+     "text": "post-office, internal revenue, and other government offices ; and for this"
+    },
+    {
+     "role": "body",
+     "text": "purpose there is hereby appropriated, out of any money in the treasury"
+    },
+    {
+     "role": "body",
+     "text": "not otherwise appropriated, the sum of one hundred thousand dollars, to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation,"
+    },
+    {
+     "role": "body",
+     "text": "be expended under the direction of the Secretary of the Treasury, who"
+    },
+    {
+     "role": "sidenote",
+     "text": "plans, and esti-"
+    },
+    {
+     "role": "body",
+     "text": "shall cause proper plans and estimates to be made, so that no expenditure"
+    },
+    {
+     "role": "sidenote",
+     "text": "mates"
+    },
+    {
+     "role": "body",
+     "text": "shall be made or authorized for the full completion of said building and"
+    },
+    {
+     "role": "body",
+     "text": "payment for the site thereof beyond the amount herein appropriated :"
+    },
+    {
+     "role": "body",
+     "text": "Provided, That no part of the sum herein appropriated shall be used or"
+    },
+    {
+     "role": "body",
+     "text": "expended, until a valid title to the site of said building shall be vested in"
+    },
+    {
+     "role": "sidenote",
+     "text": "No part to be"
+    },
+    {
+     "role": "body",
+     "text": "the United States, and until the State of Arkansas shall duly release and"
+    },
+    {
+     "role": "sidenote",
+     "text": "expended until,"
+    },
+    {
+     "role": "body",
+     "text": "relinquish its jurisdiction over the same, and its right to tax said site and"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "body",
+     "text": "the property which may be thereon during the time the United States"
+    },
+    {
+     "role": "body",
+     "text": "shall be or remain the owner thereof."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 7, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCCXXV. — An Act to quiet the Title to certain Lands in Dakota Territory."
+    },
+    {
+     "role": "sidenote",
+     "text": "June 7, 1872."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That it shall be the duty of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Title of certain"
+    },
+    {
+     "role": "body",
+     "text": "Secretary of the Interior to examine and report to Congress what title or"
+    },
+    {
+     "role": "sidenote",
+     "text": "Sioux Indians to"
+    },
+    {
+     "role": "body",
+     "text": "interest the Sisseton and Wahpeton bands of Sioux Indians have to any"
+    },
+    {
+     "role": "sidenote",
+     "text": "certain land in"
+    },
+    {
+     "role": "sidenote",
+     "text": "Dakota Territory"
+    },
+    {
+     "role": "body",
+     "text": "portion of the land mentioned and particularly described in the second"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be inquired"
+    },
+    {
+     "role": "body",
+     "text": "article of the treaty made and concluded with said bands of Indians on"
+    },
+    {
+     "role": "sidenote",
+     "text": "into."
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. xv. p. 506."
+    },
+    {
+     "role": "body",
+     "text": "the nineteenth day of February, eighteen hundred and sixty-seven, and"
+    },
+    {
+     "role": "body",
+     "text": "afterward amended, ratified, and proclaimed on the second day of May,"
+    },
+    {
+     "role": "body",
+     "text": "of the same year, or by virtue of any other law or treaty whatsoever, ex-"
+    },
+    {
+     "role": "body",
+     "text": "cepting such rights as were secured to said bands of Indians by the third"
+    },
+    {
+     "role": "body",
+     "text": "and fourth articles of said treaty, as a “permanent reservation ; ” and"
+    },
+    {
+     "role": "body",
+     "text": "whether any, and, if any, what, compensation ought, in justice and equity,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Equitable com-"
+    },
+    {
+     "role": "body",
+     "text": "to be made to said bands of Indians, respectively, for the extinguishment"
+    },
+    {
+     "role": "sidenote",
+     "text": "pensation."
+    },
+    {
+     "role": "body",
+     "text": "of whatever title they may have to said lands."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 7, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCCXXVI. — An Act relating to a Site for public Buildings in Harrisburgh,"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 7, 1872."
+    },
+    {
+     "role": "body",
+     "text": "Pennsylvania, and Sacramento, California."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the Treas-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Examination"
+    },
+    {
+     "role": "body",
+     "text": "ury be, and he is hereby, authorized to make an examination, and report"
+    },
+    {
+     "role": "sidenote",
+     "text": "for suitable sites"
+    },
+    {
+     "role": "body",
+     "text": "to Congress the terms upon which suitable sites can be obtained for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "for public build-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ings in Harris-"
+    },
+    {
+     "role": "body",
+     "text": "erection of any needed public buildings in Harrisburgh, Pennsylvania, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "burgh, Pa., and"
+    },
+    {
+     "role": "body",
+     "text": "Sacramento, California."
+    },
+    {
+     "role": "sidenote",
+     "text": "Sacramento, Cal."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, June 7, 1872."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. CCCXXVII. — An Act authorizing the First National Bank of Annapolis to"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 7, 1872."
+    },
+    {
+     "role": "body",
+     "text": "change its Location and Name."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "First National"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the First National Bank"
+    },
+    {
+     "role": "sidenote",
+     "text": "Bank of Annapo-"
+    },
+    {
+     "role": "body",
+     "text": "of Annapolis, now located in the city of Annapolis, and State of Mary-"
+    },
+    {
+     "role": "sidenote",
+     "text": "lis, Md., may"
+    },
+    {
+     "role": "sidenote",
+     "text": "change its loca-"
+    },
+    {
+     "role": "body",
+     "text": "land, is hereby authorized to change its location to the city of Baltimore,"
+    },
+    {
+     "role": "sidenote",
+     "text": "tion to Baltimore."
+    },
+    {
+     "role": "body",
+     "text": "in said State.  Whenever the stockholders representing three-fourths of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proceedings."
+    },
+    {
+     "role": "body",
+     "text": "the capital of said bank, at a meeting called for that purpose, determine"
+    },
+    {
+     "role": "body",
+     "text": "to make such change, the president and the cashier shall execute a cer-"
+    },
+    {
+     "role": "body",
+     "text": "tificate, under the corporate seal of the bank, specifying such determination,"
+    },
+    {
+     "role": "body",
+     "text": "and shall cause the same to be recorded in the office of the comptroller"
+    },
+    {
+     "role": "body",
+     "text": "of the currency, and thereupon such change of location shall be effected,"
+    },
+    {
+     "role": "body",
+     "text": "and the operations of discount and deposit of said bank shall be carried"
+    },
+    {
+     "role": "body",
+     "text": "on in the city of Baltimore."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2442,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08848,
+   "seconds": 34.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13337,
+   "output_tokens": 2467,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.12878,
+  "seconds": 33.1,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "not otherwise appropriated, the sum of one hundred thousand dollars, to",
+    "kept": "not otherwise appropriated, the sum of one hundred thousand dollars, to",
+    "reason": "The body line comes first; the sidenote \"Appropriation,\" sits to its right on the same line."
+   },
+   {
+    "run": 2,
+    "a": "not otherwise appropriated, the sum of one hundred thousand dollars, to",
+    "b": "be expended under the direction of the Secretary of the Treasury, who",
+    "kept": "be expended under the direction of the Secretary of the Treasury, who",
+    "reason": "After the sidenote \"Appropriation,\" the next printed matter is this body line, which aligns with \"plans, and esti-\"."
+   },
+   {
+    "run": 3,
+    "a": "be expended under the direction of the Secretary of the Treasury, who",
+    "b": "shall cause proper plans and estimates to be made, so that no expenditure",
+    "kept": "shall cause proper plans and estimates to be made, so that no expenditure",
+    "reason": "This body line aligns with the sidenote \"mates\", so it precedes it."
+   },
+   {
+    "run": 4,
+    "a": "shall cause proper plans and estimates to be made, so that no expenditure",
+    "b": "",
+    "kept": "",
+    "reason": "That body line was already placed earlier; nothing further printed here."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "expended, until a valid title to the site of said building shall be vested in",
+    "kept": "expended, until a valid title to the site of said building shall be vested in",
+    "reason": "Body line aligns with sidenote \"No part to be\" and is read first."
+   },
+   {
+    "run": 6,
+    "a": "expended, until a valid title to the site of said building shall be vested in",
+    "b": "the United States, and until the State of Arkansas shall duly release and",
+    "kept": "the United States, and until the State of Arkansas shall duly release and",
+    "reason": "This body line aligns with \"expended until,\" and follows the preceding sidenote."
+   },
+   {
+    "run": 7,
+    "a": "the United States, and until the State of Arkansas shall duly release and",
+    "b": "relinquish its jurisdiction over the same, and its right to tax said site and",
+    "kept": "relinquish its jurisdiction over the same, and its right to tax said site and",
+    "reason": "This body line aligns with the sidenote \"&c.\" and precedes it."
+   },
+   {
+    "run": 8,
+    "a": "relinquish its jurisdiction over the same, and its right to tax said site and",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing printed at this point."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "CHAP. CCCXXV. — An Act to quiet the Title to certain Lands in Dakota Territory.",
+    "kept": "CHAP. CCCXXV. — An Act to quiet the Title to certain Lands in Dakota Territory.",
+    "reason": "The chapter heading stands to the left of the date sidenote, so it is read first."
+   },
+   {
+    "run": 10,
+    "a": "CHAP. CCCXXV. — An Act to quiet the Title to certain Lands in Dakota Territory.",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed; nothing printed here."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "States of America in Congress assembled, That it shall be the duty of the",
+    "kept": "States of America in Congress assembled, That it shall be the duty of the",
+    "reason": "Body line aligns with sidenote \"Title of certain\" and precedes it."
+   },
+   {
+    "run": 12,
+    "a": "States of America in Congress assembled, That it shall be the duty of the",
+    "b": "Secretary of the Interior to examine and report to Congress what title or",
+    "kept": "Secretary of the Interior to examine and report to Congress what title or",
+    "reason": "Body line aligns with \"Sioux Indians to\" and follows the previous sidenote."
+   },
+   {
+    "run": 13,
+    "a": "Secretary of the Interior to examine and report to Congress what title or",
+    "b": "interest the Sisseton and Wahpeton bands of Sioux Indians have to any",
+    "kept": "interest the Sisseton and Wahpeton bands of Sioux Indians have to any",
+    "reason": "Body line aligns with \"Dakota Territory\" and follows \"certain land in\"."
+   },
+   {
+    "run": 14,
+    "a": "interest the Sisseton and Wahpeton bands of Sioux Indians have to any",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing printed here."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "whether any, and, if any, what, compensation ought, in justice and equity,",
+    "kept": "whether any, and, if any, what, compensation ought, in justice and equity,",
+    "reason": "Body line aligns with sidenote \"Equitable com-\" and is read first."
+   },
+   {
+    "run": 16,
+    "a": "whether any, and, if any, what, compensation ought, in justice and equity,",
+    "b": "to be made to said bands of Indians, respectively, for the extinguishment",
+    "kept": "to be made to said bands of Indians, respectively, for the extinguishment",
+    "reason": "Body line aligns with \"pensation.\" and follows the previous sidenote."
+   },
+   {
+    "run": 17,
+    "a": "to be made to said bands of Indians, respectively, for the extinguishment",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing printed here."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "CHAP. CCCXXVI. — An Act relating to a Site for public Buildings in Harrisburgh,",
+    "kept": "CHAP. CCCXXVI. — An Act relating to a Site for public Buildings in Harrisburgh,",
+    "reason": "Chapter heading is to the left of the date sidenote, so read first."
+   },
+   {
+    "run": 19,
+    "a": "CHAP. CCCXXVI. — An Act relating to a Site for public Buildings in Harrisburgh,",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed; nothing printed here."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "States of America in Congress assembled, That the Secretary of the Treas-",
+    "kept": "States of America in Congress assembled, That the Secretary of the Treas-",
+    "reason": "Body line aligns with sidenote \"Examination\" and precedes it."
+   },
+   {
+    "run": 21,
+    "a": "States of America in Congress assembled, That the Secretary of the Treas-",
+    "b": "ury be, and he is hereby, authorized to make an examination, and report",
+    "kept": "ury be, and he is hereby, authorized to make an examination, and report",
+    "reason": "Body line aligns with \"for suitable sites\" and follows the previous sidenote."
+   },
+   {
+    "run": 22,
+    "a": "ury be, and he is hereby, authorized to make an examination, and report",
+    "b": "to Congress the terms upon which suitable sites can be obtained for the",
+    "kept": "to Congress the terms upon which suitable sites can be obtained for the",
+    "reason": "Body line aligns with \"for public build-\" and follows it in reading order."
+   },
+   {
+    "run": 23,
+    "a": "to Congress the terms upon which suitable sites can be obtained for the",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed; nothing printed here."
+   },
+   {
+    "run": 24,
+    "a": "",
+    "b": "CHAP. CCCXXVII. — An Act authorizing the First National Bank of Annapolis to",
+    "kept": "CHAP. CCCXXVII. — An Act authorizing the First National Bank of Annapolis to",
+    "reason": "Chapter heading precedes the date sidenote printed to its right."
+   },
+   {
+    "run": 25,
+    "a": "CHAP. CCCXXVII. — An Act authorizing the First National Bank of Annapolis to",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed; nothing printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "FORTY-SECOND CONGRESS.  SESS. II.  CH. 324-327.  1872."
+  },
+  {
+   "role": "page-number",
+   "text": "281"
+  },
+  {
+   "role": "body",
+   "text": "post-office, internal revenue, and other government offices ; and for this"
+  },
+  {
+   "role": "body",
+   "text": "purpose there is hereby appropriated, out of any money in the treasury"
+  },
+  {
+   "role": "body",
+   "text": "not otherwise appropriated, the sum of one hundred thousand dollars, to"
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation,"
+  },
+  {
+   "role": "body",
+   "text": "be expended under the direction of the Secretary of the Treasury, who"
+  },
+  {
+   "role": "sidenote",
+   "text": "plans, and esti-"
+  },
+  {
+   "role": "body",
+   "text": "shall cause proper plans and estimates to be made, so that no expenditure"
+  },
+  {
+   "role": "sidenote",
+   "text": "mates"
+  },
+  {
+   "role": "body",
+   "text": "shall be made or authorized for the full completion of said building and"
+  },
+  {
+   "role": "body",
+   "text": "payment for the site thereof beyond the amount herein appropriated :"
+  },
+  {
+   "role": "body",
+   "text": "Provided, That no part of the sum herein appropriated shall be used or"
+  },
+  {
+   "role": "body",
+   "text": "expended, until a valid title to the site of said building shall be vested in"
+  },
+  {
+   "role": "sidenote",
+   "text": "No part to be"
+  },
+  {
+   "role": "body",
+   "text": "the United States, and until the State of Arkansas shall duly release and"
+  },
+  {
+   "role": "sidenote",
+   "text": "expended until,"
+  },
+  {
+   "role": "body",
+   "text": "relinquish its jurisdiction over the same, and its right to tax said site and"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c."
+  },
+  {
+   "role": "body",
+   "text": "the property which may be thereon during the time the United States"
+  },
+  {
+   "role": "body",
+   "text": "shall be or remain the owner thereof."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, June 7, 1872."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCCXXV. — An Act to quiet the Title to certain Lands in Dakota Territory."
+  },
+  {
+   "role": "sidenote",
+   "text": "June 7, 1872."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That it shall be the duty of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Title of certain"
+  },
+  {
+   "role": "body",
+   "text": "Secretary of the Interior to examine and report to Congress what title or"
+  },
+  {
+   "role": "sidenote",
+   "text": "Sioux Indians to"
+  },
+  {
+   "role": "body",
+   "text": "interest the Sisseton and Wahpeton bands of Sioux Indians have to any"
+  },
+  {
+   "role": "sidenote",
+   "text": "certain land in"
+  },
+  {
+   "role": "sidenote",
+   "text": "Dakota Territory"
+  },
+  {
+   "role": "body",
+   "text": "portion of the land mentioned and particularly described in the second"
+  },
+  {
+   "role": "sidenote",
+   "text": "to be inquired"
+  },
+  {
+   "role": "body",
+   "text": "article of the treaty made and concluded with said bands of Indians on"
+  },
+  {
+   "role": "sidenote",
+   "text": "into."
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. xv. p. 506."
+  },
+  {
+   "role": "body",
+   "text": "the nineteenth day of February, eighteen hundred and sixty-seven, and"
+  },
+  {
+   "role": "body",
+   "text": "afterward amended, ratified, and proclaimed on the second day of May,"
+  },
+  {
+   "role": "body",
+   "text": "of the same year, or by virtue of any other law or treaty whatsoever, ex-"
+  },
+  {
+   "role": "body",
+   "text": "cepting such rights as were secured to said bands of Indians by the third"
+  },
+  {
+   "role": "body",
+   "text": "and fourth articles of said treaty, as a \"permanent reservation ; \" and"
+  },
+  {
+   "role": "body",
+   "text": "whether any, and, if any, what, compensation ought, in justice and equity,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Equitable com-"
+  },
+  {
+   "role": "body",
+   "text": "to be made to said bands of Indians, respectively, for the extinguishment"
+  },
+  {
+   "role": "sidenote",
+   "text": "pensation."
+  },
+  {
+   "role": "body",
+   "text": "of whatever title they may have to said lands."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, June 7, 1872."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCCXXVI. — An Act relating to a Site for public Buildings in Harrisburgh,"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 7, 1872."
+  },
+  {
+   "role": "body",
+   "text": "Pennsylvania, and Sacramento, California."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the Secretary of the Treas-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Examination"
+  },
+  {
+   "role": "body",
+   "text": "ury be, and he is hereby, authorized to make an examination, and report"
+  },
+  {
+   "role": "sidenote",
+   "text": "for suitable sites"
+  },
+  {
+   "role": "body",
+   "text": "to Congress the terms upon which suitable sites can be obtained for the"
+  },
+  {
+   "role": "sidenote",
+   "text": "for public build-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ings in Harris-"
+  },
+  {
+   "role": "body",
+   "text": "erection of any needed public buildings in Harrisburgh, Pennsylvania, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "burgh, Pa., and"
+  },
+  {
+   "role": "body",
+   "text": "Sacramento, California."
+  },
+  {
+   "role": "sidenote",
+   "text": "Sacramento, Cal."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, June 7, 1872."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. CCCXXVII. — An Act authorizing the First National Bank of Annapolis to"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 7, 1872."
+  },
+  {
+   "role": "body",
+   "text": "change its Location and Name."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "First National"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the First National Bank"
+  },
+  {
+   "role": "sidenote",
+   "text": "Bank of Annapo-"
+  },
+  {
+   "role": "body",
+   "text": "of Annapolis, now located in the city of Annapolis, and State of Mary-"
+  },
+  {
+   "role": "sidenote",
+   "text": "lis, Md., may"
+  },
+  {
+   "role": "sidenote",
+   "text": "change its loca-"
+  },
+  {
+   "role": "body",
+   "text": "land, is hereby authorized to change its location to the city of Baltimore,"
+  },
+  {
+   "role": "sidenote",
+   "text": "tion to Baltimore."
+  },
+  {
+   "role": "body",
+   "text": "in said State.  Whenever the stockholders representing three-fourths of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proceedings."
+  },
+  {
+   "role": "body",
+   "text": "the capital of said bank, at a meeting called for that purpose, determine"
+  },
+  {
+   "role": "body",
+   "text": "to make such change, the president and the cashier shall execute a cer-"
+  },
+  {
+   "role": "body",
+   "text": "tificate, under the corporate seal of the bank, specifying such determination,"
+  },
+  {
+   "role": "body",
+   "text": "and shall cause the same to be recorded in the office of the comptroller"
+  },
+  {
+   "role": "body",
+   "text": "of the currency, and thereupon such change of location shall be effected,"
+  },
+  {
+   "role": "body",
+   "text": "and the operations of discount and deposit of said bank shall be carried"
+  },
+  {
+   "role": "body",
+   "text": "on in the city of Baltimore."
+  }
+ ],
+ "disagreement_count": 25,
+ "tokens": {
+  "input_tokens": 24160,
+  "output_tokens": 7396,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.30687,
+ "seconds": 94.6,
+ "created": "2026-09-08T11:59:50"
+}

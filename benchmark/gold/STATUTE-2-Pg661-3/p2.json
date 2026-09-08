@@ -1,0 +1,1066 @@
+{
+ "granule_id": "STATUTE-2-Pg661-3",
+ "package_id": "STATUTE-2",
+ "volume": 2,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act in addition to the act to regulate the laying out and making a road from Cumberland, in the state of Maryland, to the state of Ohio.(a)",
+ "date_issued": "1811-03-03",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "662",
+ "image": "data/gold/STATUTE-2-Pg661-3/p2.png",
+ "image_sha256": "bbcbda1a08abc5926a0082ced244b35364db0117505a4b309c7cdb3a3353bd22",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "high"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "662"
+    },
+    {
+     "role": "running-head",
+     "text": "ELEVENTH CONGRESS.  SESS. III. CH. 46.  1811."
+    },
+    {
+     "role": "body",
+     "text": "as in his opinion shall be deemed expedient: Provided, that no deviation"
+    },
+    {
+     "role": "body",
+     "text": "shall be made from the principal points established on said road between"
+    },
+    {
+     "role": "body",
+     "text": "Cumberland and Brownsville."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1811."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE III."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1811."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLVI.—An Act providing for the final adjustment of claims to lands,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of Feb."
+    },
+    {
+     "role": "sidenote",
+     "text": "15, 1811, ch. 14."
+    },
+    {
+     "role": "body",
+     "text": "and for the sale of the public lands in the territories of Orleans and Louisiana,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of April"
+    },
+    {
+     "role": "sidenote",
+     "text": "25, 1812, ch. 67."
+    },
+    {
+     "role": "body",
+     "text": "and to repeal the act passed for the same purpose, and approved February six-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of May"
+    },
+    {
+     "role": "sidenote",
+     "text": "11, 1820, ch. 86."
+    },
+    {
+     "role": "body",
+     "text": "teenth, one thousand eight hundred and eleven."
+    },
+    {
+     "role": "sidenote",
+     "text": "Allowances"
+    },
+    {
+     "role": "sidenote",
+     "text": "and compen-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sations."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the following allowances"
+    },
+    {
+     "role": "body",
+     "text": "and compensations shall be made to the several officers appointed for the"
+    },
+    {
+     "role": "body",
+     "text": "purpose of ascertaining the rights of persons claiming lands in the terri-"
+    },
+    {
+     "role": "body",
+     "text": "tories of Orleans and Louisiana; which allowances and compensations"
+    },
+    {
+     "role": "body",
+     "text": "shall be in full for all their services, including those rendered since"
+    },
+    {
+     "role": "body",
+     "text": "their salaries respectively ceased; that is to say: To each of the com-"
+    },
+    {
+     "role": "body",
+     "text": "missioners, and to each of the clerks of the boards, fifty cents for each"
+    },
+    {
+     "role": "body",
+     "text": "claim, duly filed according to law, which remained undecided on the"
+    },
+    {
+     "role": "body",
+     "text": "first day of July, one thousand eight hundred and nine, and on which a"
+    },
+    {
+     "role": "body",
+     "text": "decision has been made subsequent to that day, or shall hereafter be"
+    },
+    {
+     "role": "body",
+     "text": "made, whether such decision be in favour of, or against the claim: which"
+    },
+    {
+     "role": "body",
+     "text": "allowance of fifty cents shall be paid at the treasury of the United States,"
+    },
+    {
+     "role": "body",
+     "text": "from time to time, and on receipt of the transcripts of the decisions and"
+    },
+    {
+     "role": "body",
+     "text": "of the reports of claims not finally confirmed, as the same may be trans-"
+    },
+    {
+     "role": "body",
+     "text": "mitted by the boards respectively to the Secretary of the Treasury"
+    },
+    {
+     "role": "body",
+     "text": "according to law.  To each of the said commissioners and clerks a"
+    },
+    {
+     "role": "body",
+     "text": "further allowance of five hundred dollars, to be paid after the comple-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the business of each of the boards respectively to the officers then"
+    },
+    {
+     "role": "body",
+     "text": "in office.  And to each of the translators, at the rate of six hundred"
+    },
+    {
+     "role": "body",
+     "text": "dollars a year, and not to exceed in the whole for each the term of"
+    },
+    {
+     "role": "body",
+     "text": "eighteen months: Provided always, that the above mentioned allowance"
+    },
+    {
+     "role": "body",
+     "text": "of fifty cents for each claim decided upon, shall not be made to any of"
+    },
+    {
+     "role": "body",
+     "text": "the commissioners who may be absent at the time of such decision; the"
+    },
+    {
+     "role": "body",
+     "text": "attendance of each to be certified by the clerk, or by a majority of the"
+    },
+    {
+     "role": "body",
+     "text": "board: And provided also, that no allowance shall be made to any agent"
+    },
+    {
+     "role": "body",
+     "text": "heretofore employed by the Secretary of the Treasury for any period of"
+    },
+    {
+     "role": "body",
+     "text": "time, subsequent to the time when such agent ceased to act, or when"
+    },
+    {
+     "role": "body",
+     "text": "the board ceased to receive evidence."
+    },
+    {
+     "role": "sidenote",
+     "text": "Duties of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "deputy survey-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ors and mode of"
+    },
+    {
+     "role": "sidenote",
+     "text": "survey."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the two principal deputy"
+    },
+    {
+     "role": "body",
+     "text": "surveyors of the territory of Orleans shall, and they are hereby autho-"
+    },
+    {
+     "role": "body",
+     "text": "rized, in surveying and dividing such of the public lands in the said ter-"
+    },
+    {
+     "role": "body",
+     "text": "ritory, which are or may be authorized to be surveyed and divided, as"
+    },
+    {
+     "role": "body",
+     "text": "are adjacent to any river, lake, creek, bayou, or water course, to vary"
+    },
+    {
+     "role": "body",
+     "text": "the mode heretofore prescribed by law, so far as relates to the contents"
+    },
+    {
+     "role": "body",
+     "text": "of the tracts, and to the angles and boundary lines, and to lay out the"
+    },
+    {
+     "role": "body",
+     "text": "same into tracts as far as practicable, of fifty-eight poles in front and"
+    },
+    {
+     "role": "body",
+     "text": "four hundred and sixty-five poles in depth, of such shape, and bounded"
+    },
+    {
+     "role": "body",
+     "text": "by such lines as the nature of the country will render practicable, and"
+    },
+    {
+     "role": "body",
+     "text": "most convenient: Provided however, that such deviations from the ordi-"
+    },
+    {
+     "role": "body",
+     "text": "nary mode of surveying shall be made with the approbation of, and in"
+    },
+    {
+     "role": "body",
+     "text": "conformity with the general instructions which may be given to that"
+    },
+    {
+     "role": "body",
+     "text": "effect, by the surveyor of the public lands south of the state of Tennes-"
+    },
+    {
+     "role": "body",
+     "text": "see."
+    },
+    {
+     "role": "sidenote",
+     "text": "Land-offices"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be establish-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed at New Or-"
+    },
+    {
+     "role": "sidenote",
+     "text": "leans and Ope-"
+    },
+    {
+     "role": "sidenote",
+     "text": "lousas, &c."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That for the disposal of the lands"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, lying in the eastern land district of the territory of"
+    },
+    {
+     "role": "body",
+     "text": "Orleans, a land-office shall be established at New Orleans; and that for"
+    },
+    {
+     "role": "body",
+     "text": "the disposal of the lands of the United States, lying south of Red river, in"
+    },
+    {
+     "role": "body",
+     "text": "the western land district of the territory of Orleans, a land-office shall be"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 2355,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 769
+   },
+   "cost_usd": 0.09129,
+   "seconds": 28.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "662"
+    },
+    {
+     "role": "running-head",
+     "text": "ELEVENTH CONGRESS.  SESS. III. CH. 46.  1811."
+    },
+    {
+     "role": "body",
+     "text": "as in his opinion shall be deemed expedient: Provided, that no deviation"
+    },
+    {
+     "role": "body",
+     "text": "shall be made from the principal points established on said road between"
+    },
+    {
+     "role": "body",
+     "text": "Cumberland and Brownsville."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1811."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE III."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1811."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLVI.—An Act providing for the final adjustment of claims to lands,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of Feb."
+    },
+    {
+     "role": "sidenote",
+     "text": "15, 1811, ch. 14."
+    },
+    {
+     "role": "body",
+     "text": "and for the sale of the public lands in the territories of Orleans and Louisiana,"
+    },
+    {
+     "role": "body",
+     "text": "and to repeal the act passed for the same purpose, and approved February six-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of April"
+    },
+    {
+     "role": "sidenote",
+     "text": "25, 1812, ch. 67."
+    },
+    {
+     "role": "body",
+     "text": "teenth, one thousand eight hundred and eleven."
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of May"
+    },
+    {
+     "role": "sidenote",
+     "text": "11, 1820, ch. 86."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the following allowances"
+    },
+    {
+     "role": "sidenote",
+     "text": "Allowances"
+    },
+    {
+     "role": "sidenote",
+     "text": "and compen-"
+    },
+    {
+     "role": "sidenote",
+     "text": "sations."
+    },
+    {
+     "role": "body",
+     "text": "and compensations shall be made to the several officers appointed for the"
+    },
+    {
+     "role": "body",
+     "text": "purpose of ascertaining the rights of persons claiming lands in the terri-"
+    },
+    {
+     "role": "body",
+     "text": "tories of Orleans and Louisiana; which allowances and compensations"
+    },
+    {
+     "role": "body",
+     "text": "shall be in full for all their services, including those rendered since"
+    },
+    {
+     "role": "body",
+     "text": "their salaries respectively ceased; that is to say: To each of the com-"
+    },
+    {
+     "role": "body",
+     "text": "missioners, and to each of the clerks of the boards, fifty cents for each"
+    },
+    {
+     "role": "body",
+     "text": "claim, duly filed according to law, which remained undecided on the"
+    },
+    {
+     "role": "body",
+     "text": "first day of July, one thousand eight hundred and nine, and on which a"
+    },
+    {
+     "role": "body",
+     "text": "decision has been made subsequent to that day, or shall hereafter be"
+    },
+    {
+     "role": "body",
+     "text": "made, whether such decision be in favour of, or against the claim: which"
+    },
+    {
+     "role": "body",
+     "text": "allowance of fifty cents shall be paid at the treasury of the United States,"
+    },
+    {
+     "role": "body",
+     "text": "from time to time, and on receipt of the transcripts of the decisions and"
+    },
+    {
+     "role": "body",
+     "text": "of the reports of claims not finally confirmed, as the same may be trans-"
+    },
+    {
+     "role": "body",
+     "text": "mitted by the boards respectively to the Secretary of the Treasury"
+    },
+    {
+     "role": "body",
+     "text": "according to law.   To each of the said commissioners and clerks a"
+    },
+    {
+     "role": "body",
+     "text": "further allowance of five hundred dollars, to be paid after the comple-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the business of each of the boards respectively to the officers then"
+    },
+    {
+     "role": "body",
+     "text": "in office.   And to each of the translators, at the rate of six hundred"
+    },
+    {
+     "role": "body",
+     "text": "dollars a year, and not to exceed in the whole for each the term of"
+    },
+    {
+     "role": "body",
+     "text": "eighteen months: Provided always, that the above mentioned allowance"
+    },
+    {
+     "role": "body",
+     "text": "of fifty cents for each claim decided upon, shall not be made to any of"
+    },
+    {
+     "role": "body",
+     "text": "the commissioners who may be absent at the time of such decision; the"
+    },
+    {
+     "role": "body",
+     "text": "attendance of each to be certified by the clerk, or by a majority of the"
+    },
+    {
+     "role": "body",
+     "text": "board : And provided also, that no allowance shall be made to any agent"
+    },
+    {
+     "role": "body",
+     "text": "heretofore employed by the Secretary of the Treasury for any period of"
+    },
+    {
+     "role": "body",
+     "text": "time, subsequent to the time when such agent ceased to act, or when"
+    },
+    {
+     "role": "body",
+     "text": "the board ceased to receive evidence."
+    },
+    {
+     "role": "sidenote",
+     "text": "Duties of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "deputy survey-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ors and mode of"
+    },
+    {
+     "role": "sidenote",
+     "text": "survey."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the two principal deputy"
+    },
+    {
+     "role": "body",
+     "text": "surveyors of the territory of Orleans shall, and they are hereby autho-"
+    },
+    {
+     "role": "body",
+     "text": "rized, in surveying and dividing such of the public lands in the said ter-"
+    },
+    {
+     "role": "body",
+     "text": "ritory, which are or may be authorized to be surveyed and divided, as"
+    },
+    {
+     "role": "body",
+     "text": "are adjacent to any river, lake, creek, bayou, or water course, to vary"
+    },
+    {
+     "role": "body",
+     "text": "the mode heretofore prescribed by law, so far as relates to the contents"
+    },
+    {
+     "role": "body",
+     "text": "of the tracts, and to the angles and boundary lines, and to lay out the"
+    },
+    {
+     "role": "body",
+     "text": "same into tracts as far as practicable, of fifty-eight poles in front and"
+    },
+    {
+     "role": "body",
+     "text": "four hundred and sixty-five poles in depth, of such shape, and bounded"
+    },
+    {
+     "role": "body",
+     "text": "by such lines as the nature of the country will render practicable, and"
+    },
+    {
+     "role": "body",
+     "text": "most convenient: Provided however, that such deviations from the ordi-"
+    },
+    {
+     "role": "body",
+     "text": "nary mode of surveying shall be made with the approbation of, and in"
+    },
+    {
+     "role": "body",
+     "text": "conformity with the general instructions which may be given to that"
+    },
+    {
+     "role": "body",
+     "text": "effect, by the surveyor of the public lands south of the state of Tennes-"
+    },
+    {
+     "role": "body",
+     "text": "see."
+    },
+    {
+     "role": "sidenote",
+     "text": "Land-offices"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be establish-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed at New Or-"
+    },
+    {
+     "role": "sidenote",
+     "text": "leans and Ope-"
+    },
+    {
+     "role": "sidenote",
+     "text": "lousas, &c."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That for the disposal of the lands"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, lying in the eastern land district of the territory of"
+    },
+    {
+     "role": "body",
+     "text": "Orleans, a land-office shall be established at New Orleans; and that for"
+    },
+    {
+     "role": "body",
+     "text": "the disposal of the lands of the United States, lying south of Red river, in"
+    },
+    {
+     "role": "body",
+     "text": "the western land district of the territory of Orleans, a land-office shall be"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 2355,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08686,
+   "seconds": 28.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11876,
+   "output_tokens": 1828,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.1055,
+  "seconds": 23.2,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "high",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "and to repeal the act passed for the same purpose, and approved February six-",
+    "kept": "and to repeal the act passed for the same purpose, and approved February six-",
+    "reason": "This body line (y≈546) sits level with the sidenote \"15, 1811, ch. 14.\" and precedes the \"Act of April\" sidenote, so it belongs here."
+   },
+   {
+    "run": 2,
+    "a": "and to repeal the act passed for the same purpose, and approved February six-",
+    "b": "teenth, one thousand eight hundred and eleven.",
+    "kept": "teenth, one thousand eight hundred and eleven.",
+    "reason": "After the \"Act of April / 25, 1812, ch. 67.\" sidenotes the next body line printed is the \"teenth\" line; the \"and to repeal\" line already appeared above."
+   },
+   {
+    "run": 3,
+    "a": "teenth, one thousand eight hundred and eleven.",
+    "b": "Be it enacted by the Senate and House of Representatives of the United\nStates of America in Congress assembled, That the following allowances",
+    "kept": "Be it enacted by the Senate and House of Representatives of the United\nStates of America in Congress assembled, That the following allowances",
+    "reason": "The \"Act of May / 11, 1820, ch. 86.\" sidenotes stand level with these two body lines, which follow them in reading order."
+   },
+   {
+    "run": 4,
+    "a": "Be it enacted by the Senate and House of Representatives of the United\nStates of America in Congress assembled, That the following allowances",
+    "b": "",
+    "kept": "",
+    "reason": "The \"Be it enacted\" and \"States of America\" lines are printed above, level with the \"Act of May\" sidenotes; nothing new follows the \"Allowances\" sidenote block before \"and compensations shall be made\"."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "662"
+  },
+  {
+   "role": "running-head",
+   "text": "ELEVENTH CONGRESS.  SESS. III. CH. 46.  1811."
+  },
+  {
+   "role": "body",
+   "text": "as in his opinion shall be deemed expedient: Provided, that no deviation"
+  },
+  {
+   "role": "body",
+   "text": "shall be made from the principal points established on said road between"
+  },
+  {
+   "role": "body",
+   "text": "Cumberland and Brownsville."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1811."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE III."
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1811."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XLVI.—An Act providing for the final adjustment of claims to lands,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of Feb."
+  },
+  {
+   "role": "sidenote",
+   "text": "15, 1811, ch. 14."
+  },
+  {
+   "role": "body",
+   "text": "and for the sale of the public lands in the territories of Orleans and Louisiana,"
+  },
+  {
+   "role": "body",
+   "text": "and to repeal the act passed for the same purpose, and approved February six-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of April"
+  },
+  {
+   "role": "sidenote",
+   "text": "25, 1812, ch. 67."
+  },
+  {
+   "role": "body",
+   "text": "teenth, one thousand eight hundred and eleven."
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of May"
+  },
+  {
+   "role": "sidenote",
+   "text": "11, 1820, ch. 86."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the following allowances"
+  },
+  {
+   "role": "sidenote",
+   "text": "Allowances"
+  },
+  {
+   "role": "sidenote",
+   "text": "and compen-"
+  },
+  {
+   "role": "sidenote",
+   "text": "sations."
+  },
+  {
+   "role": "body",
+   "text": "and compensations shall be made to the several officers appointed for the"
+  },
+  {
+   "role": "body",
+   "text": "purpose of ascertaining the rights of persons claiming lands in the terri-"
+  },
+  {
+   "role": "body",
+   "text": "tories of Orleans and Louisiana; which allowances and compensations"
+  },
+  {
+   "role": "body",
+   "text": "shall be in full for all their services, including those rendered since"
+  },
+  {
+   "role": "body",
+   "text": "their salaries respectively ceased; that is to say: To each of the com-"
+  },
+  {
+   "role": "body",
+   "text": "missioners, and to each of the clerks of the boards, fifty cents for each"
+  },
+  {
+   "role": "body",
+   "text": "claim, duly filed according to law, which remained undecided on the"
+  },
+  {
+   "role": "body",
+   "text": "first day of July, one thousand eight hundred and nine, and on which a"
+  },
+  {
+   "role": "body",
+   "text": "decision has been made subsequent to that day, or shall hereafter be"
+  },
+  {
+   "role": "body",
+   "text": "made, whether such decision be in favour of, or against the claim: which"
+  },
+  {
+   "role": "body",
+   "text": "allowance of fifty cents shall be paid at the treasury of the United States,"
+  },
+  {
+   "role": "body",
+   "text": "from time to time, and on receipt of the transcripts of the decisions and"
+  },
+  {
+   "role": "body",
+   "text": "of the reports of claims not finally confirmed, as the same may be trans-"
+  },
+  {
+   "role": "body",
+   "text": "mitted by the boards respectively to the Secretary of the Treasury"
+  },
+  {
+   "role": "body",
+   "text": "according to law.  To each of the said commissioners and clerks a"
+  },
+  {
+   "role": "body",
+   "text": "further allowance of five hundred dollars, to be paid after the comple-"
+  },
+  {
+   "role": "body",
+   "text": "tion of the business of each of the boards respectively to the officers then"
+  },
+  {
+   "role": "body",
+   "text": "in office.  And to each of the translators, at the rate of six hundred"
+  },
+  {
+   "role": "body",
+   "text": "dollars a year, and not to exceed in the whole for each the term of"
+  },
+  {
+   "role": "body",
+   "text": "eighteen months: Provided always, that the above mentioned allowance"
+  },
+  {
+   "role": "body",
+   "text": "of fifty cents for each claim decided upon, shall not be made to any of"
+  },
+  {
+   "role": "body",
+   "text": "the commissioners who may be absent at the time of such decision; the"
+  },
+  {
+   "role": "body",
+   "text": "attendance of each to be certified by the clerk, or by a majority of the"
+  },
+  {
+   "role": "body",
+   "text": "board: And provided also, that no allowance shall be made to any agent"
+  },
+  {
+   "role": "body",
+   "text": "heretofore employed by the Secretary of the Treasury for any period of"
+  },
+  {
+   "role": "body",
+   "text": "time, subsequent to the time when such agent ceased to act, or when"
+  },
+  {
+   "role": "body",
+   "text": "the board ceased to receive evidence."
+  },
+  {
+   "role": "sidenote",
+   "text": "Duties of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "deputy survey-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ors and mode of"
+  },
+  {
+   "role": "sidenote",
+   "text": "survey."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the two principal deputy"
+  },
+  {
+   "role": "body",
+   "text": "surveyors of the territory of Orleans shall, and they are hereby autho-"
+  },
+  {
+   "role": "body",
+   "text": "rized, in surveying and dividing such of the public lands in the said ter-"
+  },
+  {
+   "role": "body",
+   "text": "ritory, which are or may be authorized to be surveyed and divided, as"
+  },
+  {
+   "role": "body",
+   "text": "are adjacent to any river, lake, creek, bayou, or water course, to vary"
+  },
+  {
+   "role": "body",
+   "text": "the mode heretofore prescribed by law, so far as relates to the contents"
+  },
+  {
+   "role": "body",
+   "text": "of the tracts, and to the angles and boundary lines, and to lay out the"
+  },
+  {
+   "role": "body",
+   "text": "same into tracts as far as practicable, of fifty-eight poles in front and"
+  },
+  {
+   "role": "body",
+   "text": "four hundred and sixty-five poles in depth, of such shape, and bounded"
+  },
+  {
+   "role": "body",
+   "text": "by such lines as the nature of the country will render practicable, and"
+  },
+  {
+   "role": "body",
+   "text": "most convenient: Provided however, that such deviations from the ordi-"
+  },
+  {
+   "role": "body",
+   "text": "nary mode of surveying shall be made with the approbation of, and in"
+  },
+  {
+   "role": "body",
+   "text": "conformity with the general instructions which may be given to that"
+  },
+  {
+   "role": "body",
+   "text": "effect, by the surveyor of the public lands south of the state of Tennes-"
+  },
+  {
+   "role": "body",
+   "text": "see."
+  },
+  {
+   "role": "sidenote",
+   "text": "Land-offices"
+  },
+  {
+   "role": "sidenote",
+   "text": "to be establish-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ed at New Or-"
+  },
+  {
+   "role": "sidenote",
+   "text": "leans and Ope-"
+  },
+  {
+   "role": "sidenote",
+   "text": "lousas, &c."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That for the disposal of the lands"
+  },
+  {
+   "role": "body",
+   "text": "of the United States, lying in the eastern land district of the territory of"
+  },
+  {
+   "role": "body",
+   "text": "Orleans, a land-office shall be established at New Orleans; and that for"
+  },
+  {
+   "role": "body",
+   "text": "the disposal of the lands of the United States, lying south of Red river, in"
+  },
+  {
+   "role": "body",
+   "text": "the western land district of the territory of Orleans, a land-office shall be"
+  }
+ ],
+ "disagreement_count": 4,
+ "tokens": {
+  "input_tokens": 22923,
+  "output_tokens": 6538,
+  "cache_read_input_tokens": 1554,
+  "cache_creation_input_tokens": 769
+ },
+ "cost_usd": 0.28365,
+ "seconds": 80.0,
+ "created": "2026-09-08T10:58:04"
+}

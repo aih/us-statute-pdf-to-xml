@@ -1,0 +1,937 @@
+{
+ "granule_id": "STATUTE-75-Pg93",
+ "package_id": "STATUTE-75",
+ "volume": 75,
+ "period": "1951-1975",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend section 4 of the Employment Act of 1946",
+ "date_issued": "1961-06-16",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "93",
+ "image": "data/gold/STATUTE-75-Pg93/p1.png",
+ "image_sha256": "da8fa6ce374e2f90f1bb8a923b7571ed85cd6fc6171acec4f7626a98b91d12f6",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "75 STAT.]                PUBLIC LAW 87-51-JUNE 16, 1961                                    93"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-49"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 16, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 5094]"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 4 of the Employment Act of 1946."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Council of Eco-"
+    },
+    {
+     "role": "sidenote",
+     "text": "nomic Advisers."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That subsection (f),"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "sidenote",
+     "text": "60 Stat. 24."
+    },
+    {
+     "role": "body",
+     "text": "of section 4, of the Employment Act of 1946 (15 U.S.C. 1023(f)), is"
+    },
+    {
+     "role": "body",
+     "text": "hereby amended to read as follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"(f) To enable the Council to exercise its powers, functions, and"
+    },
+    {
+     "role": "body",
+     "text": "duties under this Act, there are authorized to be appropriated such"
+    },
+    {
+     "role": "body",
+     "text": "sums as may be necessary.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved June 16, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-50"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 16, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 133]"
+    },
+    {
+     "role": "body",
+     "text": "Giving the consent of Congress to a compact between the State of Arizona and"
+    },
+    {
+     "role": "body",
+     "text": "the State of Nevada establishing a boundary between those States."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Compact."
+    },
+    {
+     "role": "sidenote",
+     "text": "A r i z o n a and"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the consent"
+    },
+    {
+     "role": "sidenote",
+     "text": "Nevada."
+    },
+    {
+     "role": "body",
+     "text": "of Congress is hereby given to the compact between the States of"
+    },
+    {
+     "role": "body",
+     "text": "Arizona and Nevada as contained in chapter 69, law of the State of"
+    },
+    {
+     "role": "body",
+     "text": "Arizona, 1960 (senate bill numbered 203, twenty-fourth legislature"
+    },
+    {
+     "role": "body",
+     "text": "assembled, approved by the Governor March 24, 1960), and chapter"
+    },
+    {
+     "role": "body",
+     "text": "119, Nevada Revised Statutes 1960 (senate bill numbered 121, passed"
+    },
+    {
+     "role": "body",
+     "text": "by the 1960 legislature of the State of Nevada and approved by the"
+    },
+    {
+     "role": "body",
+     "text": "Governor March 9, 1960) establishing a boundary between the States"
+    },
+    {
+     "role": "body",
+     "text": "of Arizona and Nevada on the Colorado River between the point"
+    },
+    {
+     "role": "body",
+     "text": "where the Nevada-California State line intersects the thirty-fifth"
+    },
+    {
+     "role": "body",
+     "text": "degree of latitude north and Davis Dam."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The right to alter, amend, or repeal this Act is expressly"
+    },
+    {
+     "role": "body",
+     "text": "reserved."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 16, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-51"
+    },
+    {
+     "role": "body",
+     "text": "JOINT RESOLUTION"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 16, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. J. Res. 34]"
+    },
+    {
+     "role": "body",
+     "text": "Designating the week of October 9-15, 1961, as National American Guild of"
+    },
+    {
+     "role": "body",
+     "text": "Variety Artists Week."
+    },
+    {
+     "role": "body",
+     "text": "Whereas for many years performers and artists in the variety field"
+    },
+    {
+     "role": "body",
+     "text": "have circled the globe with their hearts and talents to bring enter-"
+    },
+    {
+     "role": "body",
+     "text": "tainment and joy to all places and under all conditions; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas performers and artists in the variety field have unstintingly"
+    },
+    {
+     "role": "body",
+     "text": "given of their services to the American people in behalf of every"
+    },
+    {
+     "role": "body",
+     "text": "cause regardless of race, creed, or color: Now, therefore, be it"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the week of October"
+    },
+    {
+     "role": "sidenote",
+     "text": "National Ameri-"
+    },
+    {
+     "role": "sidenote",
+     "text": "c a n G u i l d of"
+    },
+    {
+     "role": "body",
+     "text": "9-15, 1961, be designated as National American Guild of Variety"
+    },
+    {
+     "role": "sidenote",
+     "text": "V a r i e t y  Artists"
+    },
+    {
+     "role": "sidenote",
+     "text": "Week."
+    },
+    {
+     "role": "body",
+     "text": "Artists Week, in recognition of the outstanding services of performers"
+    },
+    {
+     "role": "body",
+     "text": "and artists in the variety field to the American people."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 16, 1961."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 1822,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.07298,
+   "seconds": 21.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "75 STAT.]"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAW 87-51—JUNE 16, 1961"
+    },
+    {
+     "role": "page-number",
+     "text": "93"
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-49"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 16, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 5094]"
+    },
+    {
+     "role": "body",
+     "text": "To amend section 4 of the Employment Act of 1946."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That subsection (f),"
+    },
+    {
+     "role": "sidenote",
+     "text": "Council of Eco-"
+    },
+    {
+     "role": "sidenote",
+     "text": "nomic Advisers."
+    },
+    {
+     "role": "body",
+     "text": "of section 4, of the Employment Act of 1946 (15 U.S.C. 1023(f)), is"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "sidenote",
+     "text": "60 Stat. 24."
+    },
+    {
+     "role": "body",
+     "text": "hereby amended to read as follows:"
+    },
+    {
+     "role": "body",
+     "text": "\"(f) To enable the Council to exercise its powers, functions, and"
+    },
+    {
+     "role": "body",
+     "text": "duties under this Act, there are authorized to be appropriated such"
+    },
+    {
+     "role": "body",
+     "text": "sums as may be necessary.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved June 16, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-50"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 16, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. 133]"
+    },
+    {
+     "role": "body",
+     "text": "Giving the consent of Congress to a compact between the State of Arizona and"
+    },
+    {
+     "role": "body",
+     "text": "the State of Nevada establishing a boundary between those States."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the consent"
+    },
+    {
+     "role": "sidenote",
+     "text": "Compact."
+    },
+    {
+     "role": "sidenote",
+     "text": "A r i z o n a and"
+    },
+    {
+     "role": "body",
+     "text": "of Congress is hereby given to the compact between the States of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Nevada."
+    },
+    {
+     "role": "body",
+     "text": "Arizona and Nevada as contained in chapter 69, law of the State of"
+    },
+    {
+     "role": "body",
+     "text": "Arizona, 1960 (senate bill numbered 203, twenty-fourth legislature"
+    },
+    {
+     "role": "body",
+     "text": "assembled, approved by the Governor March 24, 1960), and chapter"
+    },
+    {
+     "role": "body",
+     "text": "119, Nevada Revised Statutes 1960 (senate bill numbered 121, passed"
+    },
+    {
+     "role": "body",
+     "text": "by the 1960 legislature of the State of Nevada and approved by the"
+    },
+    {
+     "role": "body",
+     "text": "Governor March 9, 1960) establishing a boundary between the States"
+    },
+    {
+     "role": "body",
+     "text": "of Arizona and Nevada on the Colorado River between the point"
+    },
+    {
+     "role": "body",
+     "text": "where the Nevada-California State line intersects the thirty-fifth"
+    },
+    {
+     "role": "body",
+     "text": "degree of latitude north and Davis Dam."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The right to alter, amend, or repeal this Act is expressly"
+    },
+    {
+     "role": "body",
+     "text": "reserved."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 16, 1961."
+    },
+    {
+     "role": "body",
+     "text": "Public Law 87-51"
+    },
+    {
+     "role": "body",
+     "text": "JOINT RESOLUTION"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 16, 1961"
+    },
+    {
+     "role": "sidenote",
+     "text": "[S. J. Res. 34]"
+    },
+    {
+     "role": "body",
+     "text": "Designating the week of October 9-15, 1961, as National American Guild of"
+    },
+    {
+     "role": "body",
+     "text": "Variety Artists Week."
+    },
+    {
+     "role": "body",
+     "text": "Whereas for many years performers and artists in the variety field"
+    },
+    {
+     "role": "body",
+     "text": "have circled the globe with their hearts and talents to bring enter-"
+    },
+    {
+     "role": "body",
+     "text": "tainment and joy to all places and under all conditions; and"
+    },
+    {
+     "role": "body",
+     "text": "Whereas performers and artists in the variety field have unstintingly"
+    },
+    {
+     "role": "body",
+     "text": "given of their services to the American people in behalf of every"
+    },
+    {
+     "role": "body",
+     "text": "cause regardless of race, creed, or color: Now, therefore, be it"
+    },
+    {
+     "role": "body",
+     "text": "Resolved by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the week of October"
+    },
+    {
+     "role": "sidenote",
+     "text": "National Ameri-"
+    },
+    {
+     "role": "sidenote",
+     "text": "c a n G u i l d of"
+    },
+    {
+     "role": "body",
+     "text": "9-15, 1961, be designated as National American Guild of Variety"
+    },
+    {
+     "role": "sidenote",
+     "text": "V a r i e t y  Artists"
+    },
+    {
+     "role": "body",
+     "text": "Artists Week, in recognition of the outstanding services of performers"
+    },
+    {
+     "role": "sidenote",
+     "text": "Week."
+    },
+    {
+     "role": "body",
+     "text": "and artists in the variety field to the American people."
+    },
+    {
+     "role": "body",
+     "text": "Approved June 16, 1961."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 1795,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.0723,
+   "seconds": 20.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11062,
+   "output_tokens": 1382,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.09028,
+  "seconds": 18.8,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "75 STAT.]                PUBLIC LAW 87-51-JUNE 16, 1961                                    93",
+    "b": "75 STAT.]\nPUBLIC LAW 87-51—JUNE 16, 1961\n93",
+    "kept": "75 STAT.]\nPUBLIC LAW 87-51—JUNE 16, 1961\n93",
+    "reason": "The head line consists of the stat. cite, the running title, and the page number 93 at the right margin, best recorded as separate elements."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "United States of America in Congress assembled, That subsection (f),",
+    "kept": "United States of America in Congress assembled, That subsection (f),",
+    "reason": "The sidenote 'Council of Eco-/nomic Advisers.' is set beside this line, so the body line precedes it."
+   },
+   {
+    "run": 3,
+    "a": "United States of America in Congress assembled, That subsection (f),",
+    "b": "of section 4, of the Employment Act of 1946 (15 U.S.C. 1023(f)), is",
+    "kept": "of section 4, of the Employment Act of 1946 (15 U.S.C. 1023(f)), is",
+    "reason": "After the Council sidenote comes this body line, aligned with 'Appropriation./60 Stat. 24.'"
+   },
+   {
+    "run": 4,
+    "a": "of section 4, of the Employment Act of 1946 (15 U.S.C. 1023(f)), is",
+    "b": "",
+    "kept": "",
+    "reason": "This line was already placed above; nothing further printed here."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "United States of America in Congress assembled, That the consent",
+    "kept": "United States of America in Congress assembled, That the consent",
+    "reason": "The 'Compact./A r i z o n a and' sidenote is aligned with this line, which precedes it."
+   },
+   {
+    "run": 6,
+    "a": "United States of America in Congress assembled, That the consent",
+    "b": "of Congress is hereby given to the compact between the States of",
+    "kept": "of Congress is hereby given to the compact between the States of",
+    "reason": "This body line is aligned with the sidenote 'Nevada.' and follows the Compact sidenotes."
+   },
+   {
+    "run": 7,
+    "a": "of Congress is hereby given to the compact between the States of",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above; nothing additional printed here."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "Artists Week, in recognition of the outstanding services of performers",
+    "kept": "Artists Week, in recognition of the outstanding services of performers",
+    "reason": "The sidenote 'Week.' is aligned with this line, so the body line comes before it."
+   },
+   {
+    "run": 9,
+    "a": "Artists Week, in recognition of the outstanding services of performers",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above; nothing additional printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "75 STAT.]"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAW 87-51—JUNE 16, 1961"
+  },
+  {
+   "role": "page-number",
+   "text": "93"
+  },
+  {
+   "role": "body",
+   "text": "Public Law 87-49"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 16, 1961"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 5094]"
+  },
+  {
+   "role": "body",
+   "text": "To amend section 4 of the Employment Act of 1946."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That subsection (f),"
+  },
+  {
+   "role": "sidenote",
+   "text": "Council of Eco-"
+  },
+  {
+   "role": "sidenote",
+   "text": "nomic Advisers."
+  },
+  {
+   "role": "body",
+   "text": "of section 4, of the Employment Act of 1946 (15 U.S.C. 1023(f)), is"
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation."
+  },
+  {
+   "role": "sidenote",
+   "text": "60 Stat. 24."
+  },
+  {
+   "role": "body",
+   "text": "hereby amended to read as follows:"
+  },
+  {
+   "role": "body",
+   "text": "\"(f) To enable the Council to exercise its powers, functions, and"
+  },
+  {
+   "role": "body",
+   "text": "duties under this Act, there are authorized to be appropriated such"
+  },
+  {
+   "role": "body",
+   "text": "sums as may be necessary.\""
+  },
+  {
+   "role": "body",
+   "text": "Approved June 16, 1961."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 87-50"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 16, 1961"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. 133]"
+  },
+  {
+   "role": "body",
+   "text": "Giving the consent of Congress to a compact between the State of Arizona and"
+  },
+  {
+   "role": "body",
+   "text": "the State of Nevada establishing a boundary between those States."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the consent"
+  },
+  {
+   "role": "sidenote",
+   "text": "Compact."
+  },
+  {
+   "role": "sidenote",
+   "text": "A r i z o n a and"
+  },
+  {
+   "role": "body",
+   "text": "of Congress is hereby given to the compact between the States of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Nevada."
+  },
+  {
+   "role": "body",
+   "text": "Arizona and Nevada as contained in chapter 69, law of the State of"
+  },
+  {
+   "role": "body",
+   "text": "Arizona, 1960 (senate bill numbered 203, twenty-fourth legislature"
+  },
+  {
+   "role": "body",
+   "text": "assembled, approved by the Governor March 24, 1960), and chapter"
+  },
+  {
+   "role": "body",
+   "text": "119, Nevada Revised Statutes 1960 (senate bill numbered 121, passed"
+  },
+  {
+   "role": "body",
+   "text": "by the 1960 legislature of the State of Nevada and approved by the"
+  },
+  {
+   "role": "body",
+   "text": "Governor March 9, 1960) establishing a boundary between the States"
+  },
+  {
+   "role": "body",
+   "text": "of Arizona and Nevada on the Colorado River between the point"
+  },
+  {
+   "role": "body",
+   "text": "where the Nevada-California State line intersects the thirty-fifth"
+  },
+  {
+   "role": "body",
+   "text": "degree of latitude north and Davis Dam."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The right to alter, amend, or repeal this Act is expressly"
+  },
+  {
+   "role": "body",
+   "text": "reserved."
+  },
+  {
+   "role": "body",
+   "text": "Approved June 16, 1961."
+  },
+  {
+   "role": "body",
+   "text": "Public Law 87-51"
+  },
+  {
+   "role": "body",
+   "text": "JOINT RESOLUTION"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 16, 1961"
+  },
+  {
+   "role": "sidenote",
+   "text": "[S. J. Res. 34]"
+  },
+  {
+   "role": "body",
+   "text": "Designating the week of October 9-15, 1961, as National American Guild of"
+  },
+  {
+   "role": "body",
+   "text": "Variety Artists Week."
+  },
+  {
+   "role": "body",
+   "text": "Whereas for many years performers and artists in the variety field"
+  },
+  {
+   "role": "body",
+   "text": "have circled the globe with their hearts and talents to bring enter-"
+  },
+  {
+   "role": "body",
+   "text": "tainment and joy to all places and under all conditions; and"
+  },
+  {
+   "role": "body",
+   "text": "Whereas performers and artists in the variety field have unstintingly"
+  },
+  {
+   "role": "body",
+   "text": "given of their services to the American people in behalf of every"
+  },
+  {
+   "role": "body",
+   "text": "cause regardless of race, creed, or color: Now, therefore, be it"
+  },
+  {
+   "role": "body",
+   "text": "Resolved by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the week of October"
+  },
+  {
+   "role": "sidenote",
+   "text": "National Ameri-"
+  },
+  {
+   "role": "sidenote",
+   "text": "c a n G u i l d of"
+  },
+  {
+   "role": "body",
+   "text": "9-15, 1961, be designated as National American Guild of Variety"
+  },
+  {
+   "role": "sidenote",
+   "text": "V a r i e t y  Artists"
+  },
+  {
+   "role": "body",
+   "text": "Artists Week, in recognition of the outstanding services of performers"
+  },
+  {
+   "role": "sidenote",
+   "text": "Week."
+  },
+  {
+   "role": "body",
+   "text": "and artists in the variety field to the American people."
+  },
+  {
+   "role": "body",
+   "text": "Approved June 16, 1961."
+  }
+ ],
+ "disagreement_count": 9,
+ "tokens": {
+  "input_tokens": 21885,
+  "output_tokens": 4999,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.23556,
+ "seconds": 60.3,
+ "created": "2026-09-08T12:34:25"
+}

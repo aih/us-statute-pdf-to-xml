@@ -1,0 +1,965 @@
+{
+ "granule_id": "STATUTE-54-Pg240",
+ "package_id": "STATUTE-54",
+ "volume": 54,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To provide for the enlargement of the Coast Guard depot at Seattle, Washington, and for the establishment of a Coast Guard servicing base at or near Chattanooga, Tennessee.",
+ "date_issued": "1940-06-06",
+ "pdf_page": 1,
+ "pdf_pages": 1,
+ "stat_page": "240",
+ "image": "data/gold/STATUTE-54-Pg240/p1.png",
+ "image_sha256": "a99dddef5aa2b816605b9a92d29c725522274d23be568c5419d747d7ed8771f4",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "240                    PUBLIC LAWS—CHS. 249, 250—JUNE 6, 1940            [54 STAT."
+    },
+    {
+     "role": "sidenote",
+     "text": "When no protest filed, procedure."
+    },
+    {
+     "role": "body",
+     "text": "hereinafter provided.  At the expiration of thirty days after receipt"
+    },
+    {
+     "role": "body",
+     "text": "by an officer of notice aforesaid, in the event that no such protest is"
+    },
+    {
+     "role": "body",
+     "text": "filed by him, such officer may upon approval by the President, be"
+    },
+    {
+     "role": "body",
+     "text": "retired from active service with retired pay as prescribed by section 3"
+    },
+    {
+     "role": "body",
+     "text": "hereof, or be placed out of line of promotion, as the case may be,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Disapproval by Commandant of recommendation; effect."
+    },
+    {
+     "role": "body",
+     "text": "as hereinafter provided.  If the Commandant shall disapprove any"
+    },
+    {
+     "role": "body",
+     "text": "recommendation of the Board, the officer concerned shall retain his"
+    },
+    {
+     "role": "body",
+     "text": "status in the Coast Guard to the same extent as if his case had not"
+    },
+    {
+     "role": "sidenote",
+     "text": "Transmittal of approved recommendations to Secretary of the Treasury."
+    },
+    {
+     "role": "body",
+     "text": "been considered by such Board.  Except as hereinbefore provided,"
+    },
+    {
+     "role": "body",
+     "text": "each recommendation of the Board which is finally approved by the"
+    },
+    {
+     "role": "body",
+     "text": "Commandant, together with the proceedings and findings of the"
+    },
+    {
+     "role": "body",
+     "text": "Board, shall be transmitted to the Secretary of the Treasury for fur-"
+    },
+    {
+     "role": "body",
+     "text": "ther review, and if the Secretary shall disapprove any recommenda-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the Board, the officer concerned shall retain his status in the"
+    },
+    {
+     "role": "body",
+     "text": "Coast Guard to the same extent as if his case had not been considered"
+    },
+    {
+     "role": "sidenote",
+     "text": "Recommendations to be laid before the President."
+    },
+    {
+     "role": "body",
+     "text": "by such Board.  Each recommendation of the Board which is not"
+    },
+    {
+     "role": "body",
+     "text": "disapproved by the Secretary shall be laid before the President by"
+    },
+    {
+     "role": "sidenote",
+     "text": "Powers of the President."
+    },
+    {
+     "role": "body",
+     "text": "the Secretary with his recommendation in the case.  The President"
+    },
+    {
+     "role": "body",
+     "text": "may, in any calendar year, pursuant to recommendations so laid"
+    },
+    {
+     "role": "body",
+     "text": "before him:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Lieutenant commanders, placement of limited number out of line of promotion; exception."
+    },
+    {
+     "role": "body",
+     "text": "\"(a) Place out of line of promotion such number of lieutenant"
+    },
+    {
+     "role": "body",
+     "text": "commanders on the active list as will not exceed the whole number"
+    },
+    {
+     "role": "body",
+     "text": "nearest to 2 per centum of the officers in that grade as of January 1"
+    },
+    {
+     "role": "body",
+     "text": "of such year; except that such limitation shall not be construed to"
+    },
+    {
+     "role": "body",
+     "text": "limit the number of lieutenant commanders who may be placed out"
+    },
+    {
+     "role": "body",
+     "text": "of line of promotion, in accordance with regulations prescribed by"
+    },
+    {
+     "role": "body",
+     "text": "the Secretary of the Treasury, for failing to establish their mental,"
+    },
+    {
+     "role": "body",
+     "text": "moral, and professional fitness for promotion."
+    },
+    {
+     "role": "sidenote",
+     "text": "Officers with 30 years' service, retirement of limited number."
+    },
+    {
+     "role": "body",
+     "text": "\"(b) Place upon the retired list such number of commissioned"
+    },
+    {
+     "role": "body",
+     "text": "officers who have thirty or more years of service as will not exceed"
+    },
+    {
+     "role": "body",
+     "text": "the whole number nearest to 5 per centum of the number of officers"
+    },
+    {
+     "role": "body",
+     "text": "falling within that classification on January 1 of such year."
+    },
+    {
+     "role": "sidenote",
+     "text": "Officers out of line of promotion with 10 years' service, retirement."
+    },
+    {
+     "role": "body",
+     "text": "\"(c) Place upon the retired list any officer who has been placed"
+    },
+    {
+     "role": "body",
+     "text": "out of line of promotion and who has ten years or more of com-"
+    },
+    {
+     "role": "body",
+     "text": "missioned service.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved, June 6, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 250]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 6, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 8537]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 557]"
+    },
+    {
+     "role": "body",
+     "text": "To provide for the enlargement of the Coast Guard depot at Seattle, Washington,"
+    },
+    {
+     "role": "body",
+     "text": "and for the establishment of a Coast Guard servicing base at or near"
+    },
+    {
+     "role": "body",
+     "text": "Chattanooga, Tennessee."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Coast Guard."
+    },
+    {
+     "role": "sidenote",
+     "text": "Depot, Seattle, Wash., acquisition of land for."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Treasury is authorized to acquire, at a cost not to exceed $8,500,"
+    },
+    {
+     "role": "body",
+     "text": "by purchase, condemnation, or otherwise such additional land adjacent"
+    },
+    {
+     "role": "body",
+     "text": "to the present Coast Guard depot at the foot of Twenty-seventh"
+    },
+    {
+     "role": "body",
+     "text": "Avenue West, Seattle, Washington, and to make such improvements"
+    },
+    {
+     "role": "body",
+     "text": "thereon as may be necessary for the development of the depot to best"
+    },
+    {
+     "role": "body",
+     "text": "meet the needs of the Coast Guard."
+    },
+    {
+     "role": "sidenote",
+     "text": "Servicing base, Chattanooga, Tenn., acquisition of land for."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The Secretary of the Treasury is authorized to acquire, at a"
+    },
+    {
+     "role": "body",
+     "text": "cost not to exceed $5,000, by purchase, condemnation, or otherwise such"
+    },
+    {
+     "role": "body",
+     "text": "land and to make such improvements thereon as may be necessary for"
+    },
+    {
+     "role": "body",
+     "text": "the establishment of a Coast Guard servicing base in such locality as"
+    },
+    {
+     "role": "body",
+     "text": "the Commandant of the Coast Guard may recommend at or in the"
+    },
+    {
+     "role": "body",
+     "text": "vicinity of Chattanooga, Tennessee."
+    },
+    {
+     "role": "body",
+     "text": "Approved, June 6, 1940."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2219,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08291,
+   "seconds": 34.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "240"
+    },
+    {
+     "role": "running-head",
+     "text": "PUBLIC LAWS—CHS. 249, 250—JUNE 6, 1940"
+    },
+    {
+     "role": "running-head",
+     "text": "[54 STAT."
+    },
+    {
+     "role": "sidenote",
+     "text": "When no protest filed, procedure."
+    },
+    {
+     "role": "body",
+     "text": "hereinafter provided.  At the expiration of thirty days after receipt"
+    },
+    {
+     "role": "body",
+     "text": "by an officer of notice aforesaid, in the event that no such protest is"
+    },
+    {
+     "role": "body",
+     "text": "filed by him, such officer may upon approval by the President, be"
+    },
+    {
+     "role": "body",
+     "text": "retired from active service with retired pay as prescribed by section 3"
+    },
+    {
+     "role": "body",
+     "text": "hereof, or be placed out of line of promotion, as the case may be,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Disapproval by Commandant of recommendation; effect."
+    },
+    {
+     "role": "body",
+     "text": "as hereinafter provided.  If the Commandant shall disapprove any"
+    },
+    {
+     "role": "body",
+     "text": "recommendation of the Board, the officer concerned shall retain his"
+    },
+    {
+     "role": "body",
+     "text": "status in the Coast Guard to the same extent as if his case had not"
+    },
+    {
+     "role": "sidenote",
+     "text": "Transmittal of approved recommendations to Secretary of the Treasury."
+    },
+    {
+     "role": "body",
+     "text": "been considered by such Board.  Except as hereinbefore provided,"
+    },
+    {
+     "role": "body",
+     "text": "each recommendation of the Board which is finally approved by the"
+    },
+    {
+     "role": "body",
+     "text": "Commandant, together with the proceedings and findings of the"
+    },
+    {
+     "role": "body",
+     "text": "Board, shall be transmitted to the Secretary of the Treasury for fur-"
+    },
+    {
+     "role": "body",
+     "text": "ther review, and if the Secretary shall disapprove any recommenda-"
+    },
+    {
+     "role": "body",
+     "text": "tion of the Board, the officer concerned shall retain his status in the"
+    },
+    {
+     "role": "body",
+     "text": "Coast Guard to the same extent as if his case had not been considered"
+    },
+    {
+     "role": "sidenote",
+     "text": "Recommendations to be laid before the President."
+    },
+    {
+     "role": "body",
+     "text": "by such Board.  Each recommendation of the Board which is not"
+    },
+    {
+     "role": "body",
+     "text": "disapproved by the Secretary shall be laid before the President by"
+    },
+    {
+     "role": "sidenote",
+     "text": "Powers of the President."
+    },
+    {
+     "role": "body",
+     "text": "the Secretary with his recommendation in the case.  The President"
+    },
+    {
+     "role": "body",
+     "text": "may, in any calendar year, pursuant to recommendations so laid"
+    },
+    {
+     "role": "body",
+     "text": "before him:"
+    },
+    {
+     "role": "sidenote",
+     "text": "Lieutenant commanders, placement of limited number out of line of promotion; exception."
+    },
+    {
+     "role": "body",
+     "text": "\"(a) Place out of line of promotion such number of lieutenant"
+    },
+    {
+     "role": "body",
+     "text": "commanders on the active list as will not exceed the whole number"
+    },
+    {
+     "role": "body",
+     "text": "nearest to 2 per centum of the officers in that grade as of January 1"
+    },
+    {
+     "role": "body",
+     "text": "of such year; except that such limitation shall not be construed to"
+    },
+    {
+     "role": "body",
+     "text": "limit the number of lieutenant commanders who may be placed out"
+    },
+    {
+     "role": "body",
+     "text": "of line of promotion, in accordance with regulations prescribed by"
+    },
+    {
+     "role": "body",
+     "text": "the Secretary of the Treasury, for failing to establish their mental,"
+    },
+    {
+     "role": "body",
+     "text": "moral, and professional fitness for promotion."
+    },
+    {
+     "role": "sidenote",
+     "text": "Officers with 30 years' service, retirement of limited number."
+    },
+    {
+     "role": "body",
+     "text": "\"(b) Place upon the retired list such number of commissioned"
+    },
+    {
+     "role": "body",
+     "text": "officers who have thirty or more years of service as will not exceed"
+    },
+    {
+     "role": "body",
+     "text": "the whole number nearest to 5 per centum of the number of officers"
+    },
+    {
+     "role": "body",
+     "text": "falling within that classification on January 1 of such year."
+    },
+    {
+     "role": "sidenote",
+     "text": "Officers out of line of promotion with 10 years' service, retirement."
+    },
+    {
+     "role": "body",
+     "text": "\"(c) Place upon the retired list any officer who has been placed"
+    },
+    {
+     "role": "body",
+     "text": "out of line of promotion and who has ten years or more of com-"
+    },
+    {
+     "role": "body",
+     "text": "missioned service.\""
+    },
+    {
+     "role": "body",
+     "text": "Approved, June 6, 1940."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 250]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "June 6, 1940"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 8537]"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public, No. 557]"
+    },
+    {
+     "role": "body",
+     "text": "To provide for the enlargement of the Coast Guard depot at Seattle, Washington,"
+    },
+    {
+     "role": "body",
+     "text": "and for the establishment of a Coast Guard servicing base at or near"
+    },
+    {
+     "role": "body",
+     "text": "Chattanooga, Tennessee."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Coast Guard."
+    },
+    {
+     "role": "sidenote",
+     "text": "Depot, Seattle, Wash., acquisition of land for."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "of the Treasury is authorized to acquire, at a cost not to exceed $8,500,"
+    },
+    {
+     "role": "body",
+     "text": "by purchase, condemnation, or otherwise such additional land adjacent"
+    },
+    {
+     "role": "body",
+     "text": "to the present Coast Guard depot at the foot of Twenty-seventh"
+    },
+    {
+     "role": "body",
+     "text": "Avenue West, Seattle, Washington, and to make such improvements"
+    },
+    {
+     "role": "body",
+     "text": "thereon as may be necessary for the development of the depot to best"
+    },
+    {
+     "role": "body",
+     "text": "meet the needs of the Coast Guard."
+    },
+    {
+     "role": "sidenote",
+     "text": "Servicing base, Chattanooga, Tenn., acquisition of land for."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. The Secretary of the Treasury is authorized to acquire, at a"
+    },
+    {
+     "role": "body",
+     "text": "cost not to exceed $5,000, by purchase, condemnation, or otherwise such"
+    },
+    {
+     "role": "body",
+     "text": "land and to make such improvements thereon as may be necessary for"
+    },
+    {
+     "role": "body",
+     "text": "the establishment of a Coast Guard servicing base in such locality as"
+    },
+    {
+     "role": "body",
+     "text": "the Commandant of the Coast Guard may recommend at or in the"
+    },
+    {
+     "role": "body",
+     "text": "vicinity of Chattanooga, Tennessee."
+    },
+    {
+     "role": "body",
+     "text": "Approved, June 6, 1940."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2298,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08488,
+   "seconds": 38.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 11470,
+   "output_tokens": 174,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.06212,
+  "seconds": 112.1,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "240                    PUBLIC LAWS—CHS. 249, 250—JUNE 6, 1940            [54 STAT.",
+    "b": "240\nPUBLIC LAWS—CHS. 249, 250—JUNE 6, 1940\n[54 STAT.",
+    "kept": "240\nPUBLIC LAWS—CHS. 249, 250—JUNE 6, 1940\n[54 STAT.",
+    "reason": "The head line consists of a folio number at left, the centered running head, and the volume citation at right; separating them reflects the printed page better than one merged line."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "240"
+  },
+  {
+   "role": "running-head",
+   "text": "PUBLIC LAWS—CHS. 249, 250—JUNE 6, 1940"
+  },
+  {
+   "role": "running-head",
+   "text": "[54 STAT."
+  },
+  {
+   "role": "sidenote",
+   "text": "When no protest filed, procedure."
+  },
+  {
+   "role": "body",
+   "text": "hereinafter provided.  At the expiration of thirty days after receipt"
+  },
+  {
+   "role": "body",
+   "text": "by an officer of notice aforesaid, in the event that no such protest is"
+  },
+  {
+   "role": "body",
+   "text": "filed by him, such officer may upon approval by the President, be"
+  },
+  {
+   "role": "body",
+   "text": "retired from active service with retired pay as prescribed by section 3"
+  },
+  {
+   "role": "body",
+   "text": "hereof, or be placed out of line of promotion, as the case may be,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Disapproval by Commandant of recommendation; effect."
+  },
+  {
+   "role": "body",
+   "text": "as hereinafter provided.  If the Commandant shall disapprove any"
+  },
+  {
+   "role": "body",
+   "text": "recommendation of the Board, the officer concerned shall retain his"
+  },
+  {
+   "role": "body",
+   "text": "status in the Coast Guard to the same extent as if his case had not"
+  },
+  {
+   "role": "sidenote",
+   "text": "Transmittal of approved recommendations to Secretary of the Treasury."
+  },
+  {
+   "role": "body",
+   "text": "been considered by such Board.  Except as hereinbefore provided,"
+  },
+  {
+   "role": "body",
+   "text": "each recommendation of the Board which is finally approved by the"
+  },
+  {
+   "role": "body",
+   "text": "Commandant, together with the proceedings and findings of the"
+  },
+  {
+   "role": "body",
+   "text": "Board, shall be transmitted to the Secretary of the Treasury for fur-"
+  },
+  {
+   "role": "body",
+   "text": "ther review, and if the Secretary shall disapprove any recommenda-"
+  },
+  {
+   "role": "body",
+   "text": "tion of the Board, the officer concerned shall retain his status in the"
+  },
+  {
+   "role": "body",
+   "text": "Coast Guard to the same extent as if his case had not been considered"
+  },
+  {
+   "role": "sidenote",
+   "text": "Recommendations to be laid before the President."
+  },
+  {
+   "role": "body",
+   "text": "by such Board.  Each recommendation of the Board which is not"
+  },
+  {
+   "role": "body",
+   "text": "disapproved by the Secretary shall be laid before the President by"
+  },
+  {
+   "role": "sidenote",
+   "text": "Powers of the President."
+  },
+  {
+   "role": "body",
+   "text": "the Secretary with his recommendation in the case.  The President"
+  },
+  {
+   "role": "body",
+   "text": "may, in any calendar year, pursuant to recommendations so laid"
+  },
+  {
+   "role": "body",
+   "text": "before him:"
+  },
+  {
+   "role": "sidenote",
+   "text": "Lieutenant commanders, placement of limited number out of line of promotion; exception."
+  },
+  {
+   "role": "body",
+   "text": "\"(a) Place out of line of promotion such number of lieutenant"
+  },
+  {
+   "role": "body",
+   "text": "commanders on the active list as will not exceed the whole number"
+  },
+  {
+   "role": "body",
+   "text": "nearest to 2 per centum of the officers in that grade as of January 1"
+  },
+  {
+   "role": "body",
+   "text": "of such year; except that such limitation shall not be construed to"
+  },
+  {
+   "role": "body",
+   "text": "limit the number of lieutenant commanders who may be placed out"
+  },
+  {
+   "role": "body",
+   "text": "of line of promotion, in accordance with regulations prescribed by"
+  },
+  {
+   "role": "body",
+   "text": "the Secretary of the Treasury, for failing to establish their mental,"
+  },
+  {
+   "role": "body",
+   "text": "moral, and professional fitness for promotion."
+  },
+  {
+   "role": "sidenote",
+   "text": "Officers with 30 years' service, retirement of limited number."
+  },
+  {
+   "role": "body",
+   "text": "\"(b) Place upon the retired list such number of commissioned"
+  },
+  {
+   "role": "body",
+   "text": "officers who have thirty or more years of service as will not exceed"
+  },
+  {
+   "role": "body",
+   "text": "the whole number nearest to 5 per centum of the number of officers"
+  },
+  {
+   "role": "body",
+   "text": "falling within that classification on January 1 of such year."
+  },
+  {
+   "role": "sidenote",
+   "text": "Officers out of line of promotion with 10 years' service, retirement."
+  },
+  {
+   "role": "body",
+   "text": "\"(c) Place upon the retired list any officer who has been placed"
+  },
+  {
+   "role": "body",
+   "text": "out of line of promotion and who has ten years or more of com-"
+  },
+  {
+   "role": "body",
+   "text": "missioned service.\""
+  },
+  {
+   "role": "body",
+   "text": "Approved, June 6, 1940."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 250]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "June 6, 1940"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 8537]"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public, No. 557]"
+  },
+  {
+   "role": "body",
+   "text": "To provide for the enlargement of the Coast Guard depot at Seattle, Washington,"
+  },
+  {
+   "role": "body",
+   "text": "and for the establishment of a Coast Guard servicing base at or near"
+  },
+  {
+   "role": "body",
+   "text": "Chattanooga, Tennessee."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Coast Guard."
+  },
+  {
+   "role": "sidenote",
+   "text": "Depot, Seattle, Wash., acquisition of land for."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the Secretary"
+  },
+  {
+   "role": "body",
+   "text": "of the Treasury is authorized to acquire, at a cost not to exceed $8,500,"
+  },
+  {
+   "role": "body",
+   "text": "by purchase, condemnation, or otherwise such additional land adjacent"
+  },
+  {
+   "role": "body",
+   "text": "to the present Coast Guard depot at the foot of Twenty-seventh"
+  },
+  {
+   "role": "body",
+   "text": "Avenue West, Seattle, Washington, and to make such improvements"
+  },
+  {
+   "role": "body",
+   "text": "thereon as may be necessary for the development of the depot to best"
+  },
+  {
+   "role": "body",
+   "text": "meet the needs of the Coast Guard."
+  },
+  {
+   "role": "sidenote",
+   "text": "Servicing base, Chattanooga, Tenn., acquisition of land for."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. The Secretary of the Treasury is authorized to acquire, at a"
+  },
+  {
+   "role": "body",
+   "text": "cost not to exceed $5,000, by purchase, condemnation, or otherwise such"
+  },
+  {
+   "role": "body",
+   "text": "land and to make such improvements thereon as may be necessary for"
+  },
+  {
+   "role": "body",
+   "text": "the establishment of a Coast Guard servicing base in such locality as"
+  },
+  {
+   "role": "body",
+   "text": "the Commandant of the Coast Guard may recommend at or in the"
+  },
+  {
+   "role": "body",
+   "text": "vicinity of Chattanooga, Tennessee."
+  },
+  {
+   "role": "body",
+   "text": "Approved, June 6, 1940."
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 22293,
+  "output_tokens": 4691,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.22991,
+ "seconds": 185.7,
+ "created": "2026-09-08T11:31:21"
+}

@@ -1,0 +1,1260 @@
+{
+ "granule_id": "STATUTE-1-Pg450-3",
+ "package_id": "STATUTE-1",
+ "volume": 1,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act making certain provisions in regard to the Circuit Court, for the district of North Carolina.",
+ "date_issued": "1796-03-31",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "451",
+ "image": "data/gold/STATUTE-1-Pg450-3/p2.png",
+ "image_sha256": "0c54f093876a18b854e27e80b44f5b3d3dc03a7acf03389ed0240f67bd2c2d27",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FOURTH CONGRESS.  SESS. I. CH. 11.  1796."
+    },
+    {
+     "role": "page-number",
+     "text": "451"
+    },
+    {
+     "role": "body",
+     "text": "business in June term, one thousand seven hundred and ninety-five; and"
+    },
+    {
+     "role": "body",
+     "text": "no judge attended to hold the said court in November term, in the same"
+    },
+    {
+     "role": "body",
+     "text": "year: in consequence whereof, certain provisions are now become ne-"
+    },
+    {
+     "role": "body",
+     "text": "cessary and expedient to prevent a failure of justice in the said court:"
+    },
+    {
+     "role": "sidenote",
+     "text": "District judge of N. Carolina may order cer- tain process for a jury to attend the circuit court at the next June term."
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it therefore enacted by the Senate and House of Repre-"
+    },
+    {
+     "role": "body",
+     "text": "sentatives of the United States of America in Congress assembled,"
+    },
+    {
+     "role": "body",
+     "text": "That it shall and may be lawful, for the district judge of the state of"
+    },
+    {
+     "role": "body",
+     "text": "North Carolina, to direct the clerk of the said court, to issue such pro-"
+    },
+    {
+     "role": "body",
+     "text": "cess for the purpose of causing persons to be summoned to serve as jury-"
+    },
+    {
+     "role": "body",
+     "text": "men at the said court, at the term to commence the first day of June"
+    },
+    {
+     "role": "body",
+     "text": "next, as has been before issued by the clerk of the said court for the"
+    },
+    {
+     "role": "body",
+     "text": "like purpose returnable to June term, one thousand seven hundred and"
+    },
+    {
+     "role": "body",
+     "text": "ninety-five; that the persons ordered by the said process to be sum-"
+    },
+    {
+     "role": "body",
+     "text": "moned for the said purpose, shall be ordered to be summoned in the"
+    },
+    {
+     "role": "body",
+     "text": "same proportion and from the same counties, as those persons who were"
+    },
+    {
+     "role": "body",
+     "text": "ordered to be summoned for the like purpose by process returnable at"
+    },
+    {
+     "role": "body",
+     "text": "June term, one thousand seven hundred and ninety-five: Provided, that"
+    },
+    {
+     "role": "body",
+     "text": "it shall appear expedient to the said district judge, that a different time"
+    },
+    {
+     "role": "body",
+     "text": "of notice shall be prescribed, than that hitherto prescribed, he may cause"
+    },
+    {
+     "role": "sidenote",
+     "text": "Different time of notice may be given to jurors."
+    },
+    {
+     "role": "body",
+     "text": "such other time of notice to be directed to be given as to him shall"
+    },
+    {
+     "role": "body",
+     "text": "appear most conducive to justice, and convenient to the persons to be"
+    },
+    {
+     "role": "body",
+     "text": "summoned: and the marshal is hereby directed to execute the said pro-"
+    },
+    {
+     "role": "body",
+     "text": "cess so to be issued, and the persons who shall be legally summoned to"
+    },
+    {
+     "role": "body",
+     "text": "attend as jurymen in consequence thereof, are hereby required to attend"
+    },
+    {
+     "role": "body",
+     "text": "the said court, under the like penalties for disobedience as if the said"
+    },
+    {
+     "role": "body",
+     "text": "process had been ordered to be issued by the said court in the ordinary"
+    },
+    {
+     "role": "body",
+     "text": "method of proceeding: And the marshal and the persons who shall"
+    },
+    {
+     "role": "body",
+     "text": "attend as jurymen in virtue of the said process so to be issued, shall be"
+    },
+    {
+     "role": "body",
+     "text": "entitled to the like allowances for their services respectively."
+    },
+    {
+     "role": "sidenote",
+     "text": "No discontin- uance on ac- count of the court not having been held."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That all suits and proceedings, of"
+    },
+    {
+     "role": "body",
+     "text": "what nature or kind soever, which have been commenced in the said"
+    },
+    {
+     "role": "body",
+     "text": "court and not finished, shall be proceeded on at the ensuing term, in"
+    },
+    {
+     "role": "body",
+     "text": "the same manner and to the same effect, as if the said circuit court had"
+    },
+    {
+     "role": "body",
+     "text": "been regularly held for the purpose of business in June and November"
+    },
+    {
+     "role": "body",
+     "text": "terms, one thousand seven hundred and ninety-five, and continuances"
+    },
+    {
+     "role": "body",
+     "text": "had been regularly entered of all suits and proceedings in either or both"
+    },
+    {
+     "role": "body",
+     "text": "of the said terms, in which they were depending, in the usual manner"
+    },
+    {
+     "role": "body",
+     "text": "of proceeding, as the case might be."
+    },
+    {
+     "role": "sidenote",
+     "text": "Process tested in certain terms to be neverthe- less valid."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That all writs and other process"
+    },
+    {
+     "role": "body",
+     "text": "sued out of the clerk's office of the said circuit court, according to the"
+    },
+    {
+     "role": "body",
+     "text": "accustomed method bearing test in November term, one thousand seven"
+    },
+    {
+     "role": "body",
+     "text": "hundred and ninety-four; June term, one thousand seven hundred and"
+    },
+    {
+     "role": "body",
+     "text": "ninety-five, or November term, one thousand seven hundred and ninety-"
+    },
+    {
+     "role": "body",
+     "text": "five, shall be held and deemed of the same validity and effect as if the"
+    },
+    {
+     "role": "body",
+     "text": "respective terms of June and November, one thousand seven hundred"
+    },
+    {
+     "role": "body",
+     "text": "and ninety-five, had been regularly held by a judge or judges competent"
+    },
+    {
+     "role": "body",
+     "text": "to do business and continuances in respect to writs or other process"
+    },
+    {
+     "role": "body",
+     "text": "returnable to the two last mentioned terms had been regularly entered."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 31, 1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "March 31, 1796."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XI.—An Act to continue in force \"An act to ascertain the fees in Admi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Expired.]"
+    },
+    {
+     "role": "body",
+     "text": "rally proceedings in the District Courts of the United States, and for other"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 1, 1793, ch. 20."
+    },
+    {
+     "role": "body",
+     "text": "purposes.\""
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Continued in force two years,"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the act, intituled \"An act"
+    },
+    {
+     "role": "body",
+     "text": "to ascertain the fees in admiralty proceedings in the district courts of"
+    },
+    {
+     "role": "body",
+     "text": "the United States, and for other purposes,\" be, and is hereby continued"
+    },
+    {
+     "role": "body",
+     "text": "in force, for the term of two years from the passing of this act, and from"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2181,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08196,
+   "seconds": 89.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FOURTH CONGRESS.  SESS. I. CH. 11.  1796."
+    },
+    {
+     "role": "page-number",
+     "text": "451"
+    },
+    {
+     "role": "body",
+     "text": "business in June term, one thousand seven hundred and ninety-five; and"
+    },
+    {
+     "role": "body",
+     "text": "no judge attended to hold the said court in November term, in the same"
+    },
+    {
+     "role": "body",
+     "text": "year: in consequence whereof, certain provisions are now become ne-"
+    },
+    {
+     "role": "body",
+     "text": "cessary and expedient to prevent a failure of justice in the said court:"
+    },
+    {
+     "role": "body",
+     "text": "SECTION 1. Be it therefore enacted by the Senate and House of Repre-"
+    },
+    {
+     "role": "sidenote",
+     "text": "District judge"
+    },
+    {
+     "role": "body",
+     "text": "sentatives of the United States of America in Congress assembled,"
+    },
+    {
+     "role": "sidenote",
+     "text": "of N. Carolina"
+    },
+    {
+     "role": "body",
+     "text": "That it shall and may be lawful, for the district judge of the state of"
+    },
+    {
+     "role": "sidenote",
+     "text": "may order cer-"
+    },
+    {
+     "role": "body",
+     "text": "North Carolina, to direct the clerk of the said court, to issue such pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tain process for"
+    },
+    {
+     "role": "body",
+     "text": "cess for the purpose of causing persons to be summoned to serve as jury-"
+    },
+    {
+     "role": "sidenote",
+     "text": "a jury to attend"
+    },
+    {
+     "role": "body",
+     "text": "men at the said court, at the term to commence the first day of June"
+    },
+    {
+     "role": "sidenote",
+     "text": "the circuit court"
+    },
+    {
+     "role": "body",
+     "text": "next, as has been before issued by the clerk of the said court for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "at the next June"
+    },
+    {
+     "role": "body",
+     "text": "like purpose returnable to June term, one thousand seven hundred and"
+    },
+    {
+     "role": "sidenote",
+     "text": "term."
+    },
+    {
+     "role": "body",
+     "text": "ninety-five; that the persons ordered by the said process to be sum-"
+    },
+    {
+     "role": "body",
+     "text": "moned for the said purpose, shall be ordered to be summoned in the"
+    },
+    {
+     "role": "body",
+     "text": "same proportion and from the same counties, as those persons who were"
+    },
+    {
+     "role": "body",
+     "text": "ordered to be summoned for the like purpose by process returnable at"
+    },
+    {
+     "role": "body",
+     "text": "June term, one thousand seven hundred and ninety-five: Provided, that"
+    },
+    {
+     "role": "body",
+     "text": "it shall appear expedient to the said district judge, that a different time"
+    },
+    {
+     "role": "body",
+     "text": "of notice shall be prescribed, than that hitherto prescribed, he may cause"
+    },
+    {
+     "role": "body",
+     "text": "such other time of notice to be directed to be given as to him shall"
+    },
+    {
+     "role": "sidenote",
+     "text": "Different time"
+    },
+    {
+     "role": "body",
+     "text": "appear most conducive to justice, and convenient to the persons to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "of notice may be"
+    },
+    {
+     "role": "body",
+     "text": "summoned: and the marshal is hereby directed to execute the said pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "given to jurors."
+    },
+    {
+     "role": "body",
+     "text": "cess so to be issued, and the persons who shall be legally summoned to"
+    },
+    {
+     "role": "body",
+     "text": "attend as jurymen in consequence thereof, are hereby required to attend"
+    },
+    {
+     "role": "body",
+     "text": "the said court, under the like penalties for disobedience as if the said"
+    },
+    {
+     "role": "body",
+     "text": "process had been ordered to be issued by the said court in the ordinary"
+    },
+    {
+     "role": "body",
+     "text": "method of proceeding: And the marshal and the persons who shall"
+    },
+    {
+     "role": "body",
+     "text": "attend as jurymen in virtue of the said process so to be issued, shall be"
+    },
+    {
+     "role": "body",
+     "text": "entitled to the like allowances for their services respectively."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That all suits and proceedings, of"
+    },
+    {
+     "role": "sidenote",
+     "text": "No discontin-"
+    },
+    {
+     "role": "body",
+     "text": "what nature or kind soever, which have been commenced in the said"
+    },
+    {
+     "role": "sidenote",
+     "text": "uance on ac-"
+    },
+    {
+     "role": "body",
+     "text": "court and not finished, shall be proceeded on at the ensuing term, in"
+    },
+    {
+     "role": "sidenote",
+     "text": "count of the"
+    },
+    {
+     "role": "body",
+     "text": "the same manner and to the same effect, as if the said circuit court had"
+    },
+    {
+     "role": "sidenote",
+     "text": "court not having"
+    },
+    {
+     "role": "body",
+     "text": "been regularly held for the purpose of business in June and November"
+    },
+    {
+     "role": "sidenote",
+     "text": "been held."
+    },
+    {
+     "role": "body",
+     "text": "terms, one thousand seven hundred and ninety-five, and continuances"
+    },
+    {
+     "role": "body",
+     "text": "had been regularly entered of all suits and proceedings in either or both"
+    },
+    {
+     "role": "body",
+     "text": "of the said terms, in which they were depending, in the usual manner"
+    },
+    {
+     "role": "body",
+     "text": "of proceeding, as the case might be."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That all writs and other process"
+    },
+    {
+     "role": "sidenote",
+     "text": "Process tested"
+    },
+    {
+     "role": "body",
+     "text": "sued out of the clerk's office of the said circuit court, according to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "in certain terms"
+    },
+    {
+     "role": "body",
+     "text": "accustomed method bearing test in November term, one thousand seven"
+    },
+    {
+     "role": "sidenote",
+     "text": "to be neverthe-"
+    },
+    {
+     "role": "body",
+     "text": "hundred and ninety-four; June term, one thousand seven hundred and"
+    },
+    {
+     "role": "sidenote",
+     "text": "less valid."
+    },
+    {
+     "role": "body",
+     "text": "ninety-five, or November term, one thousand seven hundred and ninety-"
+    },
+    {
+     "role": "body",
+     "text": "five, shall be held and deemed of the same validity and effect as if the"
+    },
+    {
+     "role": "body",
+     "text": "respective terms of June and November, one thousand seven hundred"
+    },
+    {
+     "role": "body",
+     "text": "and ninety-five, had been regularly held by a judge or judges competent"
+    },
+    {
+     "role": "body",
+     "text": "to do business and continuances in respect to writs or other process"
+    },
+    {
+     "role": "body",
+     "text": "returnable to the two last mentioned terms had been regularly entered."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 31, 1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XI.—An Act to continue in force “An act to ascertain the fees in Admi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 31, 1796."
+    },
+    {
+     "role": "body",
+     "text": "rally proceedings in the District Courts of the United States, and for other"
+    },
+    {
+     "role": "body",
+     "text": "purposes.”"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Expired.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 1, 1793,"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "ch. 20."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the act, intituled “An act"
+    },
+    {
+     "role": "sidenote",
+     "text": "Continued in"
+    },
+    {
+     "role": "body",
+     "text": "to ascertain the fees in admiralty proceedings in the district courts of"
+    },
+    {
+     "role": "sidenote",
+     "text": "force two years,"
+    },
+    {
+     "role": "body",
+     "text": "the United States, and for other purposes,” be, and is hereby continued"
+    },
+    {
+     "role": "body",
+     "text": "in force, for the term of two years from the passing of this act, and from"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2448,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08863,
+   "seconds": 127.5,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12851,
+   "output_tokens": 2037,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.1156,
+  "seconds": 156.7,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "District judge of N. Carolina may order cer- tain process for a jury to attend the circuit court at the next June term.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote is printed as separate short lines beside the body, not one block."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "District judge",
+    "kept": "District judge",
+    "reason": "First sidenote line aligns here."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "of N. Carolina",
+    "kept": "of N. Carolina",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "may order cer-",
+    "kept": "may order cer-",
+    "reason": "Printed sidenote line with hyphen."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "tain process for",
+    "kept": "tain process for",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "a jury to attend",
+    "kept": "a jury to attend",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "the circuit court",
+    "kept": "the circuit court",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "at the next June",
+    "kept": "at the next June",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "term.",
+    "kept": "term.",
+    "reason": "Final sidenote line."
+   },
+   {
+    "run": 10,
+    "a": "Different time of notice may be given to jurors.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote given as separate lines below, not a block."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "Different time",
+    "kept": "Different time",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "of notice may be",
+    "kept": "of notice may be",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "given to jurors.",
+    "kept": "given to jurors.",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 14,
+    "a": "No discontin- uance on ac- count of the court not having been held.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote split into separate lines below."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "No discontin-",
+    "kept": "No discontin-",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "uance on ac-",
+    "kept": "uance on ac-",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "count of the",
+    "kept": "count of the",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "court not having",
+    "kept": "court not having",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "been held.",
+    "kept": "been held.",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 20,
+    "a": "Process tested in certain terms to be neverthe- less valid.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote split into separate lines below."
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "Process tested",
+    "kept": "Process tested",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 22,
+    "a": "",
+    "b": "in certain terms",
+    "kept": "in certain terms",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 23,
+    "a": "",
+    "b": "to be neverthe-",
+    "kept": "to be neverthe-",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 24,
+    "a": "",
+    "b": "less valid.",
+    "kept": "less valid.",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 25,
+    "a": "",
+    "b": "CHAP. XI.—An Act to continue in force “An act to ascertain the fees in Admi-",
+    "kept": "CHAP. XI.—An Act to continue in force “An act to ascertain the fees in Admi-",
+    "reason": "Chapter heading first line stands beside the March 31, 1796 sidenote."
+   },
+   {
+    "run": 26,
+    "a": "CHAP. XI.—An Act to continue in force \"An act to ascertain the fees in Admi-",
+    "b": "rally proceedings in the District Courts of the United States, and for other\npurposes.”",
+    "kept": "rally proceedings in the District Courts of the United States, and for other\npurposes.”",
+    "reason": "Remaining heading lines follow in order."
+   },
+   {
+    "run": 27,
+    "a": "rally proceedings in the District Courts of the United States, and for other\nMarch 1, 1793, ch. 20.\npurposes.\"",
+    "b": "March 1, 1793,",
+    "kept": "March 1, 1793,",
+    "reason": "Sidenote line printed alone; ch. 20. is on the next line."
+   },
+   {
+    "run": 28,
+    "a": "Continued in force two years,",
+    "b": "ch. 20.",
+    "kept": "ch. 20.",
+    "reason": "Separate sidenote line beside the body text."
+   },
+   {
+    "run": 29,
+    "a": "",
+    "b": "Continued in",
+    "kept": "Continued in",
+    "reason": "Printed sidenote line."
+   },
+   {
+    "run": 30,
+    "a": "",
+    "b": "force two years,",
+    "kept": "force two years,",
+    "reason": "Printed sidenote line."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "FOURTH CONGRESS.  SESS. I. CH. 11.  1796."
+  },
+  {
+   "role": "page-number",
+   "text": "451"
+  },
+  {
+   "role": "body",
+   "text": "business in June term, one thousand seven hundred and ninety-five; and"
+  },
+  {
+   "role": "body",
+   "text": "no judge attended to hold the said court in November term, in the same"
+  },
+  {
+   "role": "body",
+   "text": "year: in consequence whereof, certain provisions are now become ne-"
+  },
+  {
+   "role": "body",
+   "text": "cessary and expedient to prevent a failure of justice in the said court:"
+  },
+  {
+   "role": "body",
+   "text": "SECTION 1. Be it therefore enacted by the Senate and House of Repre-"
+  },
+  {
+   "role": "sidenote",
+   "text": "District judge"
+  },
+  {
+   "role": "body",
+   "text": "sentatives of the United States of America in Congress assembled,"
+  },
+  {
+   "role": "sidenote",
+   "text": "of N. Carolina"
+  },
+  {
+   "role": "body",
+   "text": "That it shall and may be lawful, for the district judge of the state of"
+  },
+  {
+   "role": "sidenote",
+   "text": "may order cer-"
+  },
+  {
+   "role": "body",
+   "text": "North Carolina, to direct the clerk of the said court, to issue such pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tain process for"
+  },
+  {
+   "role": "body",
+   "text": "cess for the purpose of causing persons to be summoned to serve as jury-"
+  },
+  {
+   "role": "sidenote",
+   "text": "a jury to attend"
+  },
+  {
+   "role": "body",
+   "text": "men at the said court, at the term to commence the first day of June"
+  },
+  {
+   "role": "sidenote",
+   "text": "the circuit court"
+  },
+  {
+   "role": "body",
+   "text": "next, as has been before issued by the clerk of the said court for the"
+  },
+  {
+   "role": "sidenote",
+   "text": "at the next June"
+  },
+  {
+   "role": "body",
+   "text": "like purpose returnable to June term, one thousand seven hundred and"
+  },
+  {
+   "role": "sidenote",
+   "text": "term."
+  },
+  {
+   "role": "body",
+   "text": "ninety-five; that the persons ordered by the said process to be sum-"
+  },
+  {
+   "role": "body",
+   "text": "moned for the said purpose, shall be ordered to be summoned in the"
+  },
+  {
+   "role": "body",
+   "text": "same proportion and from the same counties, as those persons who were"
+  },
+  {
+   "role": "body",
+   "text": "ordered to be summoned for the like purpose by process returnable at"
+  },
+  {
+   "role": "body",
+   "text": "June term, one thousand seven hundred and ninety-five: Provided, that"
+  },
+  {
+   "role": "body",
+   "text": "it shall appear expedient to the said district judge, that a different time"
+  },
+  {
+   "role": "body",
+   "text": "of notice shall be prescribed, than that hitherto prescribed, he may cause"
+  },
+  {
+   "role": "body",
+   "text": "such other time of notice to be directed to be given as to him shall"
+  },
+  {
+   "role": "sidenote",
+   "text": "Different time"
+  },
+  {
+   "role": "body",
+   "text": "appear most conducive to justice, and convenient to the persons to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "of notice may be"
+  },
+  {
+   "role": "body",
+   "text": "summoned: and the marshal is hereby directed to execute the said pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "given to jurors."
+  },
+  {
+   "role": "body",
+   "text": "cess so to be issued, and the persons who shall be legally summoned to"
+  },
+  {
+   "role": "body",
+   "text": "attend as jurymen in consequence thereof, are hereby required to attend"
+  },
+  {
+   "role": "body",
+   "text": "the said court, under the like penalties for disobedience as if the said"
+  },
+  {
+   "role": "body",
+   "text": "process had been ordered to be issued by the said court in the ordinary"
+  },
+  {
+   "role": "body",
+   "text": "method of proceeding: And the marshal and the persons who shall"
+  },
+  {
+   "role": "body",
+   "text": "attend as jurymen in virtue of the said process so to be issued, shall be"
+  },
+  {
+   "role": "body",
+   "text": "entitled to the like allowances for their services respectively."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That all suits and proceedings, of"
+  },
+  {
+   "role": "sidenote",
+   "text": "No discontin-"
+  },
+  {
+   "role": "body",
+   "text": "what nature or kind soever, which have been commenced in the said"
+  },
+  {
+   "role": "sidenote",
+   "text": "uance on ac-"
+  },
+  {
+   "role": "body",
+   "text": "court and not finished, shall be proceeded on at the ensuing term, in"
+  },
+  {
+   "role": "sidenote",
+   "text": "count of the"
+  },
+  {
+   "role": "body",
+   "text": "the same manner and to the same effect, as if the said circuit court had"
+  },
+  {
+   "role": "sidenote",
+   "text": "court not having"
+  },
+  {
+   "role": "body",
+   "text": "been regularly held for the purpose of business in June and November"
+  },
+  {
+   "role": "sidenote",
+   "text": "been held."
+  },
+  {
+   "role": "body",
+   "text": "terms, one thousand seven hundred and ninety-five, and continuances"
+  },
+  {
+   "role": "body",
+   "text": "had been regularly entered of all suits and proceedings in either or both"
+  },
+  {
+   "role": "body",
+   "text": "of the said terms, in which they were depending, in the usual manner"
+  },
+  {
+   "role": "body",
+   "text": "of proceeding, as the case might be."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That all writs and other process"
+  },
+  {
+   "role": "sidenote",
+   "text": "Process tested"
+  },
+  {
+   "role": "body",
+   "text": "sued out of the clerk's office of the said circuit court, according to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "in certain terms"
+  },
+  {
+   "role": "body",
+   "text": "accustomed method bearing test in November term, one thousand seven"
+  },
+  {
+   "role": "sidenote",
+   "text": "to be neverthe-"
+  },
+  {
+   "role": "body",
+   "text": "hundred and ninety-four; June term, one thousand seven hundred and"
+  },
+  {
+   "role": "sidenote",
+   "text": "less valid."
+  },
+  {
+   "role": "body",
+   "text": "ninety-five, or November term, one thousand seven hundred and ninety-"
+  },
+  {
+   "role": "body",
+   "text": "five, shall be held and deemed of the same validity and effect as if the"
+  },
+  {
+   "role": "body",
+   "text": "respective terms of June and November, one thousand seven hundred"
+  },
+  {
+   "role": "body",
+   "text": "and ninety-five, had been regularly held by a judge or judges competent"
+  },
+  {
+   "role": "body",
+   "text": "to do business and continuances in respect to writs or other process"
+  },
+  {
+   "role": "body",
+   "text": "returnable to the two last mentioned terms had been regularly entered."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 31, 1796."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XI.—An Act to continue in force “An act to ascertain the fees in Admi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 31, 1796."
+  },
+  {
+   "role": "body",
+   "text": "rally proceedings in the District Courts of the United States, and for other"
+  },
+  {
+   "role": "body",
+   "text": "purposes.”"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Expired.]"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 1, 1793,"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "ch. 20."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the act, intituled \"An act"
+  },
+  {
+   "role": "sidenote",
+   "text": "Continued in"
+  },
+  {
+   "role": "body",
+   "text": "to ascertain the fees in admiralty proceedings in the district courts of"
+  },
+  {
+   "role": "sidenote",
+   "text": "force two years,"
+  },
+  {
+   "role": "body",
+   "text": "the United States, and for other purposes,\" be, and is hereby continued"
+  },
+  {
+   "role": "body",
+   "text": "in force, for the term of two years from the passing of this act, and from"
+  }
+ ],
+ "disagreement_count": 30,
+ "tokens": {
+  "input_tokens": 23674,
+  "output_tokens": 6666,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.28619,
+ "seconds": 373.7,
+ "created": "2026-09-08T11:14:12"
+}

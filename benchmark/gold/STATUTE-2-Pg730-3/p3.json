@@ -1,0 +1,1170 @@
+{
+ "granule_id": "STATUTE-2-Pg730-3",
+ "package_id": "STATUTE-2",
+ "volume": 2,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to alter and establish certain Post Roads.",
+ "date_issued": "1812-05-11",
+ "pdf_page": 3,
+ "pdf_pages": 3,
+ "stat_page": "732",
+ "image": "data/gold/STATUTE-2-Pg730-3/p3.png",
+ "image_sha256": "eb340704d0bd6de2856737e3cb4aabeeae1d95a2c646d4a1d5e84686aa98d26c",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "high"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "732                     TWELFTH CONGRESS.  SESS. I. CH. 83.   1812."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post roads es-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tablished."
+    },
+    {
+     "role": "body",
+     "text": "North Carolina.—From Charlotte, by Beattysford, Lincolnton and"
+    },
+    {
+     "role": "body",
+     "text": "Morgan, to Wilkesboro', and to pass by Mountmorin once in every two"
+    },
+    {
+     "role": "body",
+     "text": "routes.   From Staatsville to Salisbury.   The mail from Fayetteville to"
+    },
+    {
+     "role": "body",
+     "text": "Salisbury, shall go by Rockingham, Wardesboro', Allentown and Hen-"
+    },
+    {
+     "role": "body",
+     "text": "derson, to Salisbury, and return by M'Cauley's store, to Fayetteville."
+    },
+    {
+     "role": "body",
+     "text": "South Carolina.—From Charleston, by Giveham's ferry, on Edisto"
+    },
+    {
+     "role": "body",
+     "text": "river; and from thence to Barnwell Courthouse, and by the White"
+    },
+    {
+     "role": "body",
+     "text": "Ponds, to Edgefield Courthouse.   From Wellington to Beckley's store,"
+    },
+    {
+     "role": "body",
+     "text": "being an alteration of the present route past Vienna.   From Coos-"
+    },
+    {
+     "role": "body",
+     "text": "whatchie, by Lower Three Runs, to Augusta in Georgia.   From Dar-"
+    },
+    {
+     "role": "body",
+     "text": "lington Courthouse to Sumpter Courthouse, by Carter's crossing."
+    },
+    {
+     "role": "body",
+     "text": "Georgia.—From Savannah to Louisville.   From Milledgeville, by"
+    },
+    {
+     "role": "body",
+     "text": "Twigs Courthouse, to Pulaski Courthouse.   From Augusta to Camp-"
+    },
+    {
+     "role": "body",
+     "text": "beltown.   From Louisville to Saundersville."
+    },
+    {
+     "role": "body",
+     "text": "Mississippi Territory.—From Fort Stoddert, by Amite Courthouse,"
+    },
+    {
+     "role": "body",
+     "text": "to Pinckneyville.  From Natchez, by Wilkinson Courthouse, to Lake"
+    },
+    {
+     "role": "body",
+     "text": "Ponchartrain."
+    },
+    {
+     "role": "body",
+     "text": "Indiana Territory.—From Laurenceburg, by Madison and Charles-"
+    },
+    {
+     "role": "body",
+     "text": "town, to Jeffersonville.   From Laurenceburg, by Franklin Courthouse,"
+    },
+    {
+     "role": "body",
+     "text": "to Wayne Courthouse."
+    },
+    {
+     "role": "sidenote",
+     "text": "Survey of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "main post route"
+    },
+    {
+     "role": "sidenote",
+     "text": "from Maine to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Georgia to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "made."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That the Postmaster-General"
+    },
+    {
+     "role": "body",
+     "text": "cause a survey to be made of the main post road from Robinstown, in"
+    },
+    {
+     "role": "body",
+     "text": "the district of Maine, to St. Mary's, in Georgia, causing the courses, dis-"
+    },
+    {
+     "role": "body",
+     "text": "tances, and all remarkable objects, to be noted, the latitude to be taken"
+    },
+    {
+     "role": "body",
+     "text": "every noon and evening, and the variation of the compass every evening,"
+    },
+    {
+     "role": "body",
+     "text": "when the weather is fair : and that there be not less than one surveyor,"
+    },
+    {
+     "role": "body",
+     "text": "two chain carriers, and two men with object staves, employed in making"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "the same survey, who shall be sworn to execute the work : Provided,"
+    },
+    {
+     "role": "body",
+     "text": "that the same can be done at an expense not exceeding two dollars per"
+    },
+    {
+     "role": "body",
+     "text": "mile; and the Postmaster-General is hereby authorized to procure pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Limitation of"
+    },
+    {
+     "role": "sidenote",
+     "text": "expense."
+    },
+    {
+     "role": "body",
+     "text": "per instruments for the purpose: Provided, that the expense do not"
+    },
+    {
+     "role": "body",
+     "text": "exceed three hundred dollars, and the expense both of the surveys and"
+    },
+    {
+     "role": "body",
+     "text": "instruments be paid out of the monies, which may be in his hands for"
+    },
+    {
+     "role": "body",
+     "text": "postage."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 11, 1812."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 14, 1812."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXXIII.—An Act for the better regulation of the Ordnance.(a)"
+    },
+    {
+     "role": "sidenote",
+     "text": "Of what offi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "cers the depart-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment to be form-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That there be, and hereby is"
+    },
+    {
+     "role": "body",
+     "text": "established an ordnance department, to consist of a commissary general"
+    },
+    {
+     "role": "sidenote",
+     "text": "Repealed by"
+    },
+    {
+     "role": "sidenote",
+     "text": "act of February"
+    },
+    {
+     "role": "sidenote",
+     "text": "8, 1815, ch. 128."
+    },
+    {
+     "role": "body",
+     "text": "of ordnance, an assistant commissary general, four deputy commissaries,"
+    },
+    {
+     "role": "body",
+     "text": "and as many assistant deputy commissaries as the President of the"
+    },
+    {
+     "role": "body",
+     "text": "United States may think necessary, not exceeding eight."
+    },
+    {
+     "role": "sidenote",
+     "text": "Commissary"
+    },
+    {
+     "role": "sidenote",
+     "text": "general may"
+    },
+    {
+     "role": "sidenote",
+     "text": "employ work-"
+    },
+    {
+     "role": "sidenote",
+     "text": "men."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the commissary general be"
+    },
+    {
+     "role": "body",
+     "text": "authorized, from time to time, to employ as many wheelwrights, carriage-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of August"
+    },
+    {
+     "role": "sidenote",
+     "text": "2, 1813, ch. 36."
+    },
+    {
+     "role": "body",
+     "text": "makers, blacksmiths and labourers, as the public service may in his"
+    },
+    {
+     "role": "body",
+     "text": "judgment require."
+    },
+    {
+     "role": "footnote",
+     "text": "(a) Acts for the regulation of the Ordnance Department :—"
+    },
+    {
+     "role": "footnote",
+     "text": "An act for the better regulation of the ordnance, May 14, 1812, chap. 83."
+    },
+    {
+     "role": "footnote",
+     "text": "Act of August 2, 1813, chap. 49."
+    },
+    {
+     "role": "footnote",
+     "text": "An act for the better organizing, paying, and supplying the army of the United States, March 30, 1814,"
+    },
+    {
+     "role": "footnote",
+     "text": "chap. 37, sec. 16."
+    },
+    {
+     "role": "footnote",
+     "text": "An act for the better regulation of the ordnance department, February 8, 1815, chap. 38."
+    },
+    {
+     "role": "footnote",
+     "text": "An act for organizing the general staff, and making further provision for the army of the United States,"
+    },
+    {
+     "role": "footnote",
+     "text": "April 24, 1816, chap. 69, sec. 11."
+    },
+    {
+     "role": "footnote",
+     "text": "An act to reduce and fix the military peace establishment of the United States, March 2, 1821, chap."
+    },
+    {
+     "role": "footnote",
+     "text": "12, sec. 4."
+    },
+    {
+     "role": "footnote",
+     "text": "An act providing for the organization of the ordnance department, April 5, 1832, chap. 67."
+    },
+    {
+     "role": "footnote",
+     "text": "An act to increase the present military establishment of the United States, and for other purposes,"
+    },
+    {
+     "role": "footnote",
+     "text": "July 5, 1838, chap. 16, sec. 13, 14."
+    },
+    {
+     "role": "footnote",
+     "text": "An act respecting the organization of the army, and for other purposes, August 23, 1842, ch. 186,"
+    },
+    {
+     "role": "footnote",
+     "text": "sec. 5."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5522,
+    "output_tokens": 2687,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09517,
+   "seconds": 31.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "732"
+    },
+    {
+     "role": "running-head",
+     "text": "TWELFTH CONGRESS.  SESS. I. CH. 83.  1812."
+    },
+    {
+     "role": "sidenote",
+     "text": "Post roads es-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tablished."
+    },
+    {
+     "role": "body",
+     "text": "North Carolina.—From Charlotte, by Beattysford, Lincolnton and"
+    },
+    {
+     "role": "body",
+     "text": "Morgan, to Wilkesboro', and to pass by Mountmorin once in every two"
+    },
+    {
+     "role": "body",
+     "text": "routes.  From Staatsville to Salisbury.  The mail from Fayetteville tc"
+    },
+    {
+     "role": "body",
+     "text": "Salisbury, shall go by Rockingham, Wardesboro', Allentown and Hen-"
+    },
+    {
+     "role": "body",
+     "text": "derson, to Salisbury, and return by M'Cauley's store, to Fayetteville."
+    },
+    {
+     "role": "body",
+     "text": "South Carolina.—From Charleston, by Giveham's ferry, on Edisto"
+    },
+    {
+     "role": "body",
+     "text": "river; and from thence to Barnwell Courthouse, and by the White"
+    },
+    {
+     "role": "body",
+     "text": "Ponds, to Edgefield Courthouse.  From Wellington to Beckley's store,"
+    },
+    {
+     "role": "body",
+     "text": "being an alteration of the present route past Vienna.  From Coos-"
+    },
+    {
+     "role": "body",
+     "text": "whatchie, by Lower Three Runs, to Augusta in Georgia.  From Dar-"
+    },
+    {
+     "role": "body",
+     "text": "lington Courthouse to Sumpter Courthouse, by Carter's crossing."
+    },
+    {
+     "role": "body",
+     "text": "Georgia.—From Savannah to Louisville.  From Milledgeville, by"
+    },
+    {
+     "role": "body",
+     "text": "Twigs Courthouse, to Pulaski Courthouse.  From Augusta to Camp-"
+    },
+    {
+     "role": "body",
+     "text": "beltown.  From Louisville to Saundersville."
+    },
+    {
+     "role": "body",
+     "text": "Mississippi Territory.—From Fort Stoddert, by Amite Courthouse,"
+    },
+    {
+     "role": "body",
+     "text": "to Pinckneyville.  From Natchez, by Wilkinson Courthouse, to Lake"
+    },
+    {
+     "role": "body",
+     "text": "Ponchartrain."
+    },
+    {
+     "role": "body",
+     "text": "Indiana Territory.—From Laurenceburg, by Madison and Charles-"
+    },
+    {
+     "role": "body",
+     "text": "town, to Jeffersonville.  From Laurenceburg, by Franklin Courthouse,"
+    },
+    {
+     "role": "body",
+     "text": "to Wayne Courthouse."
+    },
+    {
+     "role": "sidenote",
+     "text": "Survey of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "main post route"
+    },
+    {
+     "role": "sidenote",
+     "text": "from Maine to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Georgia to be"
+    },
+    {
+     "role": "sidenote",
+     "text": "made."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That the Postmaster-General"
+    },
+    {
+     "role": "body",
+     "text": "cause a survey to be made of the main post road from Robinstown, in"
+    },
+    {
+     "role": "body",
+     "text": "the district of Maine, to St. Mary's, in Georgia, causing the courses, dis-"
+    },
+    {
+     "role": "body",
+     "text": "tances, and all remarkable objects, to be noted, the latitude to be taken"
+    },
+    {
+     "role": "body",
+     "text": "every noon and evening, and the variation of the compass every evening,"
+    },
+    {
+     "role": "body",
+     "text": "when the weather is fair: and that there be not less than one surveyor,"
+    },
+    {
+     "role": "body",
+     "text": "two chain carriers, and two men with object staves, employed in making"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "the same survey, who shall be sworn to execute the work : Provided,"
+    },
+    {
+     "role": "body",
+     "text": "that the same can be done at an expense not exceeding two dollars per"
+    },
+    {
+     "role": "body",
+     "text": "mile; and the Postmaster-General is hereby authorized to procure pro-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Limitation of"
+    },
+    {
+     "role": "sidenote",
+     "text": "expense."
+    },
+    {
+     "role": "body",
+     "text": "per instruments for the purpose: Provided, that the expense do not"
+    },
+    {
+     "role": "body",
+     "text": "exceed three hundred dollars, and the expense both of the surveys and"
+    },
+    {
+     "role": "body",
+     "text": "instruments be paid out of the monies, which may be in his hands for"
+    },
+    {
+     "role": "body",
+     "text": "postage."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, May 11, 1812."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "sidenote",
+     "text": "May 14, 1812."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXXXIII.—An Act for the better regulation of the Ordnance.(a)"
+    },
+    {
+     "role": "sidenote",
+     "text": "Of what offi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "cers the depart-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment to be form-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ed."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That there be, and hereby is"
+    },
+    {
+     "role": "body",
+     "text": "established an ordnance department, to consist of a commissary general"
+    },
+    {
+     "role": "sidenote",
+     "text": "Repealed by"
+    },
+    {
+     "role": "sidenote",
+     "text": "act of February"
+    },
+    {
+     "role": "sidenote",
+     "text": "8, 1815, ch. 128."
+    },
+    {
+     "role": "body",
+     "text": "of ordnance, an assistant commissary general, four deputy commissaries,"
+    },
+    {
+     "role": "body",
+     "text": "and as many assistant deputy commissaries as the President of the"
+    },
+    {
+     "role": "body",
+     "text": "United States may think necessary, not exceeding eight."
+    },
+    {
+     "role": "sidenote",
+     "text": "Commissary"
+    },
+    {
+     "role": "sidenote",
+     "text": "general may"
+    },
+    {
+     "role": "sidenote",
+     "text": "employ work-"
+    },
+    {
+     "role": "sidenote",
+     "text": "men."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the commissary general be"
+    },
+    {
+     "role": "body",
+     "text": "authorized, from time to time, to employ as many wheelwrights, carriage-"
+    },
+    {
+     "role": "body",
+     "text": "makers, blacksmiths and labourers, as the public service may in his"
+    },
+    {
+     "role": "sidenote",
+     "text": "Act of August"
+    },
+    {
+     "role": "sidenote",
+     "text": "2, 1813, ch. 36."
+    },
+    {
+     "role": "body",
+     "text": "judgment require."
+    },
+    {
+     "role": "footnote",
+     "text": "(a) Acts for the regulation of the Ordnance Department :—"
+    },
+    {
+     "role": "footnote",
+     "text": "An act for the better regulation of the ordnance, May 14, 1812, chap. 83."
+    },
+    {
+     "role": "footnote",
+     "text": "Act of August 2, 1813, chap. 49."
+    },
+    {
+     "role": "footnote",
+     "text": "An act for the better organizing, paying, and supplying the army of the United States, March 30, 1814,"
+    },
+    {
+     "role": "footnote",
+     "text": "chap. 37, sec. 16."
+    },
+    {
+     "role": "footnote",
+     "text": "An act for the better regulation of the ordnance department, February 8, 1815, chap. 38."
+    },
+    {
+     "role": "footnote",
+     "text": "An act for organizing the general staff, and making further provision for the army of the United States,"
+    },
+    {
+     "role": "footnote",
+     "text": "April 24, 1816, chap. 69, sec. 11."
+    },
+    {
+     "role": "footnote",
+     "text": "An act to reduce and fix the military peace establishment of the United States, March 2, 1821, chap."
+    },
+    {
+     "role": "footnote",
+     "text": "12, sec. 4."
+    },
+    {
+     "role": "footnote",
+     "text": "An act providing for the organization of the ordnance department, April 5, 1832, chap. 67."
+    },
+    {
+     "role": "footnote",
+     "text": "An act to increase the present military establishment of the United States, and for other purposes,"
+    },
+    {
+     "role": "footnote",
+     "text": "July 5, 1838, chap. 16, sec. 13, 14."
+    },
+    {
+     "role": "footnote",
+     "text": "An act respecting the organization of the army, and for other purposes, August 23, 1842, ch. 186,"
+    },
+    {
+     "role": "footnote",
+     "text": "sec. 5."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5525,
+    "output_tokens": 2700,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09549,
+   "seconds": 50.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12507,
+   "output_tokens": 976,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.08735,
+  "seconds": 149.9,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "high",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "732                     TWELFTH CONGRESS.  SESS. I. CH. 83.   1812.",
+    "b": "732\nTWELFTH CONGRESS.  SESS. I. CH. 83.  1812.",
+    "kept": "732\nTWELFTH CONGRESS.  SESS. I. CH. 83.  1812.",
+    "reason": "The folio 732 stands in the outer margin, separate from the centered running head."
+   },
+   {
+    "run": 2,
+    "a": "routes.   From Staatsville to Salisbury.   The mail from Fayetteville to",
+    "b": "routes.  From Staatsville to Salisbury.  The mail from Fayetteville tc",
+    "kept": "routes.  From Staatsville to Salisbury.  The mail from Fayetteville tc",
+    "reason": "The image shows the broken/mis-set type 'tc' at line end, as in B."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "makers, blacksmiths and labourers, as the public service may in his",
+    "kept": "makers, blacksmiths and labourers, as the public service may in his",
+    "reason": "This body line precedes the 'Act of August' sidenote, whose first line sits below it."
+   },
+   {
+    "run": 4,
+    "a": "makers, blacksmiths and labourers, as the public service may in his",
+    "b": "",
+    "kept": "",
+    "reason": "The 'makers, blacksmiths' line occurs earlier (before the sidenote); nothing is printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "page-number",
+   "text": "732"
+  },
+  {
+   "role": "running-head",
+   "text": "TWELFTH CONGRESS.  SESS. I. CH. 83.  1812."
+  },
+  {
+   "role": "sidenote",
+   "text": "Post roads es-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tablished."
+  },
+  {
+   "role": "body",
+   "text": "North Carolina.—From Charlotte, by Beattysford, Lincolnton and"
+  },
+  {
+   "role": "body",
+   "text": "Morgan, to Wilkesboro', and to pass by Mountmorin once in every two"
+  },
+  {
+   "role": "body",
+   "text": "routes.  From Staatsville to Salisbury.  The mail from Fayetteville tc"
+  },
+  {
+   "role": "body",
+   "text": "Salisbury, shall go by Rockingham, Wardesboro', Allentown and Hen-"
+  },
+  {
+   "role": "body",
+   "text": "derson, to Salisbury, and return by M'Cauley's store, to Fayetteville."
+  },
+  {
+   "role": "body",
+   "text": "South Carolina.—From Charleston, by Giveham's ferry, on Edisto"
+  },
+  {
+   "role": "body",
+   "text": "river; and from thence to Barnwell Courthouse, and by the White"
+  },
+  {
+   "role": "body",
+   "text": "Ponds, to Edgefield Courthouse.   From Wellington to Beckley's store,"
+  },
+  {
+   "role": "body",
+   "text": "being an alteration of the present route past Vienna.   From Coos-"
+  },
+  {
+   "role": "body",
+   "text": "whatchie, by Lower Three Runs, to Augusta in Georgia.   From Dar-"
+  },
+  {
+   "role": "body",
+   "text": "lington Courthouse to Sumpter Courthouse, by Carter's crossing."
+  },
+  {
+   "role": "body",
+   "text": "Georgia.—From Savannah to Louisville.   From Milledgeville, by"
+  },
+  {
+   "role": "body",
+   "text": "Twigs Courthouse, to Pulaski Courthouse.   From Augusta to Camp-"
+  },
+  {
+   "role": "body",
+   "text": "beltown.   From Louisville to Saundersville."
+  },
+  {
+   "role": "body",
+   "text": "Mississippi Territory.—From Fort Stoddert, by Amite Courthouse,"
+  },
+  {
+   "role": "body",
+   "text": "to Pinckneyville.  From Natchez, by Wilkinson Courthouse, to Lake"
+  },
+  {
+   "role": "body",
+   "text": "Ponchartrain."
+  },
+  {
+   "role": "body",
+   "text": "Indiana Territory.—From Laurenceburg, by Madison and Charles-"
+  },
+  {
+   "role": "body",
+   "text": "town, to Jeffersonville.   From Laurenceburg, by Franklin Courthouse,"
+  },
+  {
+   "role": "body",
+   "text": "to Wayne Courthouse."
+  },
+  {
+   "role": "sidenote",
+   "text": "Survey of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "main post route"
+  },
+  {
+   "role": "sidenote",
+   "text": "from Maine to"
+  },
+  {
+   "role": "sidenote",
+   "text": "Georgia to be"
+  },
+  {
+   "role": "sidenote",
+   "text": "made."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That the Postmaster-General"
+  },
+  {
+   "role": "body",
+   "text": "cause a survey to be made of the main post road from Robinstown, in"
+  },
+  {
+   "role": "body",
+   "text": "the district of Maine, to St. Mary's, in Georgia, causing the courses, dis-"
+  },
+  {
+   "role": "body",
+   "text": "tances, and all remarkable objects, to be noted, the latitude to be taken"
+  },
+  {
+   "role": "body",
+   "text": "every noon and evening, and the variation of the compass every evening,"
+  },
+  {
+   "role": "body",
+   "text": "when the weather is fair : and that there be not less than one surveyor,"
+  },
+  {
+   "role": "body",
+   "text": "two chain carriers, and two men with object staves, employed in making"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "the same survey, who shall be sworn to execute the work : Provided,"
+  },
+  {
+   "role": "body",
+   "text": "that the same can be done at an expense not exceeding two dollars per"
+  },
+  {
+   "role": "body",
+   "text": "mile; and the Postmaster-General is hereby authorized to procure pro-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Limitation of"
+  },
+  {
+   "role": "sidenote",
+   "text": "expense."
+  },
+  {
+   "role": "body",
+   "text": "per instruments for the purpose: Provided, that the expense do not"
+  },
+  {
+   "role": "body",
+   "text": "exceed three hundred dollars, and the expense both of the surveys and"
+  },
+  {
+   "role": "body",
+   "text": "instruments be paid out of the monies, which may be in his hands for"
+  },
+  {
+   "role": "body",
+   "text": "postage."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, May 11, 1812."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "sidenote",
+   "text": "May 14, 1812."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LXXXIII.—An Act for the better regulation of the Ordnance.(a)"
+  },
+  {
+   "role": "sidenote",
+   "text": "Of what offi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "cers the depart-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ment to be form-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ed."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That there be, and hereby is"
+  },
+  {
+   "role": "body",
+   "text": "established an ordnance department, to consist of a commissary general"
+  },
+  {
+   "role": "sidenote",
+   "text": "Repealed by"
+  },
+  {
+   "role": "sidenote",
+   "text": "act of February"
+  },
+  {
+   "role": "sidenote",
+   "text": "8, 1815, ch. 128."
+  },
+  {
+   "role": "body",
+   "text": "of ordnance, an assistant commissary general, four deputy commissaries,"
+  },
+  {
+   "role": "body",
+   "text": "and as many assistant deputy commissaries as the President of the"
+  },
+  {
+   "role": "body",
+   "text": "United States may think necessary, not exceeding eight."
+  },
+  {
+   "role": "sidenote",
+   "text": "Commissary"
+  },
+  {
+   "role": "sidenote",
+   "text": "general may"
+  },
+  {
+   "role": "sidenote",
+   "text": "employ work-"
+  },
+  {
+   "role": "sidenote",
+   "text": "men."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the commissary general be"
+  },
+  {
+   "role": "body",
+   "text": "authorized, from time to time, to employ as many wheelwrights, carriage-"
+  },
+  {
+   "role": "body",
+   "text": "makers, blacksmiths and labourers, as the public service may in his"
+  },
+  {
+   "role": "sidenote",
+   "text": "Act of August"
+  },
+  {
+   "role": "sidenote",
+   "text": "2, 1813, ch. 36."
+  },
+  {
+   "role": "body",
+   "text": "judgment require."
+  },
+  {
+   "role": "footnote",
+   "text": "(a) Acts for the regulation of the Ordnance Department :—"
+  },
+  {
+   "role": "footnote",
+   "text": "An act for the better regulation of the ordnance, May 14, 1812, chap. 83."
+  },
+  {
+   "role": "footnote",
+   "text": "Act of August 2, 1813, chap. 49."
+  },
+  {
+   "role": "footnote",
+   "text": "An act for the better organizing, paying, and supplying the army of the United States, March 30, 1814,"
+  },
+  {
+   "role": "footnote",
+   "text": "chap. 37, sec. 16."
+  },
+  {
+   "role": "footnote",
+   "text": "An act for the better regulation of the ordnance department, February 8, 1815, chap. 38."
+  },
+  {
+   "role": "footnote",
+   "text": "An act for organizing the general staff, and making further provision for the army of the United States,"
+  },
+  {
+   "role": "footnote",
+   "text": "April 24, 1816, chap. 69, sec. 11."
+  },
+  {
+   "role": "footnote",
+   "text": "An act to reduce and fix the military peace establishment of the United States, March 2, 1821, chap."
+  },
+  {
+   "role": "footnote",
+   "text": "12, sec. 4."
+  },
+  {
+   "role": "footnote",
+   "text": "An act providing for the organization of the ordnance department, April 5, 1832, chap. 67."
+  },
+  {
+   "role": "footnote",
+   "text": "An act to increase the present military establishment of the United States, and for other purposes,"
+  },
+  {
+   "role": "footnote",
+   "text": "July 5, 1838, chap. 16, sec. 13, 14."
+  },
+  {
+   "role": "footnote",
+   "text": "An act respecting the organization of the army, and for other purposes, August 23, 1842, ch. 186,"
+  },
+  {
+   "role": "footnote",
+   "text": "sec. 5."
+  }
+ ],
+ "disagreement_count": 4,
+ "tokens": {
+  "input_tokens": 23554,
+  "output_tokens": 6363,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.27801,
+ "seconds": 231.7,
+ "created": "2026-09-08T11:03:52"
+}

@@ -1,0 +1,1392 @@
+{
+ "granule_id": "STATUTE-1-Pg448-2",
+ "package_id": "STATUTE-1",
+ "volume": 1,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act for allowing compensation to the members of the Senate and House of Representatives of the United States, and to certain officers of both Houses.",
+ "date_issued": "1796-03-10",
+ "pdf_page": 2,
+ "pdf_pages": 2,
+ "stat_page": "449",
+ "image": "data/gold/STATUTE-1-Pg448-2/p2.png",
+ "image_sha256": "aa349840c75c989a2c40927c251eeec3f526ecd3becad5450f40fb71c8e5beae",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FOURTH CONGRESS.  SESS. I. CH. 5.   1796."
+    },
+    {
+     "role": "page-number",
+     "text": "449"
+    },
+    {
+     "role": "body",
+     "text": "the Senate shall be detained by sickness, on his journey to or from any"
+    },
+    {
+     "role": "body",
+     "text": "such session or meeting, or, after his arrival, shall be unable to attend"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "the Senate, he shall be entitled to the same daily allowance: Provided"
+    },
+    {
+     "role": "body",
+     "text": "always, that no Senator shall be allowed a sum exceeding the rate of"
+    },
+    {
+     "role": "body",
+     "text": "six dollars per day, from the end of one such session or meeting, to the"
+    },
+    {
+     "role": "body",
+     "text": "time of his taking a seat in another."
+    },
+    {
+     "role": "sidenote",
+     "text": "Allowance to"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That at each session of Congress,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Representa-"
+    },
+    {
+     "role": "body",
+     "text": "each Representative shall be entitled to receive six dollars for every day"
+    },
+    {
+     "role": "sidenote",
+     "text": "tives."
+    },
+    {
+     "role": "body",
+     "text": "he shall attend the House of Representatives; and shall be allowed, at"
+    },
+    {
+     "role": "body",
+     "text": "the commencement and end of each session, six dollars for every twenty"
+    },
+    {
+     "role": "body",
+     "text": "miles of the estimated distance, by the most usual road, from his place"
+    },
+    {
+     "role": "body",
+     "text": "of residence to the seat of Congress: And in case any Representative"
+    },
+    {
+     "role": "body",
+     "text": "shall be detained by sickness, on his journey to or from the session of"
+    },
+    {
+     "role": "body",
+     "text": "Congress, or, after his arrival, shall be unable to attend the House of"
+    },
+    {
+     "role": "body",
+     "text": "Representatives, he shall be entitled to the daily allowance aforesaid;"
+    },
+    {
+     "role": "body",
+     "text": "and the Speaker of the House of Representatives shall be entitled to"
+    },
+    {
+     "role": "body",
+     "text": "receive, in addition to his compensation as a Representative, six dollars"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "for every day he shall attend the House: Provided always, That no"
+    },
+    {
+     "role": "sidenote",
+     "text": "1812, ch. 127."
+    },
+    {
+     "role": "body",
+     "text": "Representative shall be allowed a sum exceeding the rate of six dollars"
+    },
+    {
+     "role": "body",
+     "text": "per day, from the end of one such session or meeting, to the time of his"
+    },
+    {
+     "role": "body",
+     "text": "taking a seat in another."
+    },
+    {
+     "role": "sidenote",
+     "text": "Allowance to"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That there shall be allowed to"
+    },
+    {
+     "role": "sidenote",
+     "text": "the chaplains;"
+    },
+    {
+     "role": "body",
+     "text": "each chaplain of Congress at the rate of five hundred dollars per annum,"
+    },
+    {
+     "role": "sidenote",
+     "text": "to the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "during the session of Congress; to the Secretary of the Senate, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the Senate"
+    },
+    {
+     "role": "body",
+     "text": "Clerk of the House of Representatives, fifteen hundred dollars per"
+    },
+    {
+     "role": "sidenote",
+     "text": "and the Clerk of"
+    },
+    {
+     "role": "body",
+     "text": "annum, each, to commence from the time of their respective appoint-"
+    },
+    {
+     "role": "sidenote",
+     "text": "the House of"
+    },
+    {
+     "role": "body",
+     "text": "ments; and also a further allowance of two dollars per day to each,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Representa-"
+    },
+    {
+     "role": "body",
+     "text": "during the session of that branch, for which he officiates.  And the said"
+    },
+    {
+     "role": "sidenote",
+     "text": "tives."
+    },
+    {
+     "role": "body",
+     "text": "Secretary and Clerk shall each be allowed (when the President of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "To Clerks;"
+    },
+    {
+     "role": "body",
+     "text": "Senate, or Speaker shall deem it necessary) to employ one principal"
+    },
+    {
+     "role": "sidenote",
+     "text": "1802, ch. 35."
+    },
+    {
+     "role": "body",
+     "text": "Clerk, who shall be paid three dollars per day, and two engrossing"
+    },
+    {
+     "role": "body",
+     "text": "Clerks, who shall be paid two dollars per day, each, during the session,"
+    },
+    {
+     "role": "body",
+     "text": "with the like compensations to such Clerks, respectively, while they"
+    },
+    {
+     "role": "body",
+     "text": "shall be necessarily employed in the recess."
+    },
+    {
+     "role": "sidenote",
+     "text": "to the Serjeant-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That there shall be allowed to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "at-arms."
+    },
+    {
+     "role": "body",
+     "text": "Sergeant-at-arms, the sum of four dollars per day, during every session"
+    },
+    {
+     "role": "body",
+     "text": "of Congress, and while employed on the business of the House."
+    },
+    {
+     "role": "sidenote",
+     "text": "How the said"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That the said compensation,"
+    },
+    {
+     "role": "sidenote",
+     "text": "compensations"
+    },
+    {
+     "role": "body",
+     "text": "which shall be due to the members and officers of the Senate, shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "shall be certi-"
+    },
+    {
+     "role": "body",
+     "text": "certified by the President; and that which shall be due to the members"
+    },
+    {
+     "role": "sidenote",
+     "text": "fied, &c."
+    },
+    {
+     "role": "body",
+     "text": "and officers of the House of Representatives, shall be certified by the"
+    },
+    {
+     "role": "body",
+     "text": "Speaker; and the same shall be passed as public accounts, and paid out"
+    },
+    {
+     "role": "body",
+     "text": "of the public treasury."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 10, 1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. V.—An Act providing relief, for a limited time, in certain cases of invalid"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 10, 1796."
+    },
+    {
+     "role": "body",
+     "text": "Registers."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary of"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Treasury to al-"
+    },
+    {
+     "role": "body",
+     "text": "Treasury be, and he is hereby empowered, to allow to such vessels and"
+    },
+    {
+     "role": "sidenote",
+     "text": "low certain pri-"
+    },
+    {
+     "role": "sidenote",
+     "text": "vileges in cases"
+    },
+    {
+     "role": "body",
+     "text": "their cargoes, whose registers have already, or that may, before the close"
+    },
+    {
+     "role": "sidenote",
+     "text": "of invalid regis-"
+    },
+    {
+     "role": "body",
+     "text": "of the present session of Congress, become invalid, by reason of a non-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ters on certain"
+    },
+    {
+     "role": "sidenote",
+     "text": "conditions."
+    },
+    {
+     "role": "body",
+     "text": "compliance with the terms of the fifth section of the act “concerning"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 287."
+    },
+    {
+     "role": "body",
+     "text": "the registering and recording of ships or vessels,” the same privileges"
+    },
+    {
+     "role": "body",
+     "text": "and benefits, they would have been entitled to, if no such invalidity had"
+    },
+    {
+     "role": "body",
+     "text": "taken place: Provided, it shall appear to him, that such non-compliance"
+    },
+    {
+     "role": "body",
+     "text": "did not proceed from wilful negligence or an intention of fraud: And"
+    },
+    {
+     "role": "body",
+     "text": "provided also, that a new register shall be obtained, in the manner pre-"
+    },
+    {
+     "role": "body",
+     "text": "VOL. I.—57"
+    },
+    {
+     "role": "body",
+     "text": "2 P 2"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2628,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09313,
+   "seconds": 77.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FOURTH CONGRESS.  SESS. I. CH. 5.   1796."
+    },
+    {
+     "role": "page-number",
+     "text": "449"
+    },
+    {
+     "role": "body",
+     "text": "the Senate shall be detained by sickness, on his journey to or from any"
+    },
+    {
+     "role": "body",
+     "text": "such session or meeting, or, after his arrival, shall be unable to attend"
+    },
+    {
+     "role": "body",
+     "text": "the Senate, he shall be entitled to the same daily allowance: Provided"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "always, that no Senator shall be allowed a sum exceeding the rate of"
+    },
+    {
+     "role": "body",
+     "text": "six dollars per day, from the end of one such session or meeting, to the"
+    },
+    {
+     "role": "body",
+     "text": "time of his taking a seat in another."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That at each session of Congress,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Allowance to"
+    },
+    {
+     "role": "body",
+     "text": "each Representative shall be entitled to receive six dollars for every day"
+    },
+    {
+     "role": "sidenote",
+     "text": "Representa-"
+    },
+    {
+     "role": "body",
+     "text": "he shall attend the House of Representatives; and shall be allowed, at"
+    },
+    {
+     "role": "sidenote",
+     "text": "tives."
+    },
+    {
+     "role": "body",
+     "text": "the commencement and end of each session, six dollars for every twenty"
+    },
+    {
+     "role": "body",
+     "text": "miles of the estimated distance, by the most usual road, from his place"
+    },
+    {
+     "role": "body",
+     "text": "of residence to the seat of Congress: And in case any Representative"
+    },
+    {
+     "role": "body",
+     "text": "shall be detained by sickness, on his journey to or from the session of"
+    },
+    {
+     "role": "body",
+     "text": "Congress, or, after his arrival, shall be unable to attend the House of"
+    },
+    {
+     "role": "body",
+     "text": "Representatives, he shall be entitled to the daily allowance aforesaid;"
+    },
+    {
+     "role": "body",
+     "text": "and the Speaker of the House of Representatives shall be entitled to"
+    },
+    {
+     "role": "body",
+     "text": "receive, in addition to his compensation as a Representative, six dollars"
+    },
+    {
+     "role": "body",
+     "text": "for every day he shall attend the House: Provided always, That no"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "Representative shall be allowed a sum exceeding the rate of six dollars"
+    },
+    {
+     "role": "sidenote",
+     "text": "1812, ch. 127."
+    },
+    {
+     "role": "body",
+     "text": "per day, from the end of one such session or meeting, to the time of his"
+    },
+    {
+     "role": "body",
+     "text": "taking a seat in another."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 3. And be it further enacted, That there shall be allowed to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Allowance to"
+    },
+    {
+     "role": "body",
+     "text": "each chaplain of Congress at the rate of five hundred dollars per annum,"
+    },
+    {
+     "role": "sidenote",
+     "text": "the chaplains;"
+    },
+    {
+     "role": "body",
+     "text": "during the session of Congress; to the Secretary of the Senate, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "to the Secretary"
+    },
+    {
+     "role": "body",
+     "text": "Clerk of the House of Representatives, fifteen hundred dollars per"
+    },
+    {
+     "role": "sidenote",
+     "text": "of the Senate"
+    },
+    {
+     "role": "body",
+     "text": "annum, each, to commence from the time of their respective appoint-"
+    },
+    {
+     "role": "sidenote",
+     "text": "and the Clerk of"
+    },
+    {
+     "role": "sidenote",
+     "text": "the House of"
+    },
+    {
+     "role": "body",
+     "text": "ments; and also a further allowance of two dollars per day to each,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Representa-"
+    },
+    {
+     "role": "body",
+     "text": "during the session of that branch, for which he officiates.  And the said"
+    },
+    {
+     "role": "sidenote",
+     "text": "tives."
+    },
+    {
+     "role": "body",
+     "text": "Secretary and Clerk shall each be allowed (when the President of the"
+    },
+    {
+     "role": "body",
+     "text": "Senate, or Speaker shall deem it necessary) to employ one principal"
+    },
+    {
+     "role": "sidenote",
+     "text": "To Clerks;"
+    },
+    {
+     "role": "body",
+     "text": "Clerk, who shall be paid three dollars per day, and two engrossing"
+    },
+    {
+     "role": "sidenote",
+     "text": "1802, ch. 35."
+    },
+    {
+     "role": "body",
+     "text": "Clerks, who shall be paid two dollars per day, each, during the session,"
+    },
+    {
+     "role": "body",
+     "text": "with the like compensations to such Clerks, respectively, while they"
+    },
+    {
+     "role": "body",
+     "text": "shall be necessarily employed in the recess."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. And be it further enacted, That there shall be allowed to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "to the Serjeant-"
+    },
+    {
+     "role": "body",
+     "text": "Sergeant-at-arms, the sum of four dollars per day, during every session"
+    },
+    {
+     "role": "sidenote",
+     "text": "at-arms."
+    },
+    {
+     "role": "body",
+     "text": "of Congress, and while employed on the business of the House."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 5. And be it further enacted, That the said compensation,"
+    },
+    {
+     "role": "sidenote",
+     "text": "How the said"
+    },
+    {
+     "role": "body",
+     "text": "which shall be due to the members and officers of the Senate, shall be"
+    },
+    {
+     "role": "sidenote",
+     "text": "compensations"
+    },
+    {
+     "role": "body",
+     "text": "certified by the President; and that which shall be due to the members"
+    },
+    {
+     "role": "sidenote",
+     "text": "shall be certi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "fied, &c."
+    },
+    {
+     "role": "body",
+     "text": "and officers of the House of Representatives, shall be certified by the"
+    },
+    {
+     "role": "body",
+     "text": "Speaker; and the same shall be passed as public accounts, and paid out"
+    },
+    {
+     "role": "body",
+     "text": "of the public treasury."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 10, 1796."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE I."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. V.—An Act providing relief, for a limited time, in certain cases of invalid"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 10, 1796."
+    },
+    {
+     "role": "body",
+     "text": "Registers."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Secretary of"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Treasury to al-"
+    },
+    {
+     "role": "body",
+     "text": "Treasury be, and he is hereby empowered, to allow to such vessels and"
+    },
+    {
+     "role": "sidenote",
+     "text": "low certain pri-"
+    },
+    {
+     "role": "sidenote",
+     "text": "vileges in cases"
+    },
+    {
+     "role": "body",
+     "text": "their cargoes, whose registers have already, or that may, before the close"
+    },
+    {
+     "role": "sidenote",
+     "text": "of invalid regis-"
+    },
+    {
+     "role": "body",
+     "text": "of the present session of Congress, become invalid, by reason of a non-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ters on certain"
+    },
+    {
+     "role": "sidenote",
+     "text": "conditions."
+    },
+    {
+     "role": "body",
+     "text": "compliance with the terms of the fifth section of the act “concerning"
+    },
+    {
+     "role": "sidenote",
+     "text": "Ante, p. 287."
+    },
+    {
+     "role": "body",
+     "text": "the registering and recording of ships or vessels,” the same privileges"
+    },
+    {
+     "role": "body",
+     "text": "and benefits, they would have been entitled to, if no such invalidity had"
+    },
+    {
+     "role": "body",
+     "text": "taken place: Provided, it shall appear to him, that such non-compliance"
+    },
+    {
+     "role": "body",
+     "text": "did not proceed from wilful negligence or an intention of fraud: And"
+    },
+    {
+     "role": "body",
+     "text": "provided also, that a new register shall be obtained, in the manner pre-"
+    },
+    {
+     "role": "body",
+     "text": "VOL. I.—57                                     2 P 2"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2608,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09263,
+   "seconds": 122.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13559,
+   "output_tokens": 2321,
+   "cache_read_input_tokens": 0,
+   "cache_creation_input_tokens": 833
+  },
+  "cost_usd": 0.13103,
+  "seconds": 43.4,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "the Senate, he shall be entitled to the same daily allowance: Provided",
+    "kept": "the Senate, he shall be entitled to the same daily allowance: Provided",
+    "reason": "Body line precedes the sidenote 'Proviso.' which is set level with it."
+   },
+   {
+    "run": 2,
+    "a": "the Senate, he shall be entitled to the same daily allowance: Provided",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed before the sidenote; not repeated here."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "SEC. 2. And be it further enacted, That at each session of Congress,",
+    "kept": "SEC. 2. And be it further enacted, That at each session of Congress,",
+    "reason": "The sidenote 'Allowance to' is level with this body line, which comes first."
+   },
+   {
+    "run": 4,
+    "a": "SEC. 2. And be it further enacted, That at each session of Congress,",
+    "b": "each Representative shall be entitled to receive six dollars for every day",
+    "kept": "each Representative shall be entitled to receive six dollars for every day",
+    "reason": "Next body line after the sidenote 'Allowance to'."
+   },
+   {
+    "run": 5,
+    "a": "each Representative shall be entitled to receive six dollars for every day",
+    "b": "he shall attend the House of Representatives; and shall be allowed, at",
+    "kept": "he shall attend the House of Representatives; and shall be allowed, at",
+    "reason": "Next body line after the sidenote 'Representa-'."
+   },
+   {
+    "run": 6,
+    "a": "he shall attend the House of Representatives; and shall be allowed, at",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above; nothing additional printed."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "for every day he shall attend the House: Provided always, That no",
+    "kept": "for every day he shall attend the House: Provided always, That no",
+    "reason": "Body line set level with sidenote 'Proviso.', printed first."
+   },
+   {
+    "run": 8,
+    "a": "for every day he shall attend the House: Provided always, That no",
+    "b": "Representative shall be allowed a sum exceeding the rate of six dollars",
+    "kept": "Representative shall be allowed a sum exceeding the rate of six dollars",
+    "reason": "Next body line after the sidenote 'Proviso.'."
+   },
+   {
+    "run": 9,
+    "a": "Representative shall be allowed a sum exceeding the rate of six dollars",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "SEC. 3. And be it further enacted, That there shall be allowed to",
+    "kept": "SEC. 3. And be it further enacted, That there shall be allowed to",
+    "reason": "Body line level with sidenote 'Allowance to'."
+   },
+   {
+    "run": 11,
+    "a": "SEC. 3. And be it further enacted, That there shall be allowed to",
+    "b": "each chaplain of Congress at the rate of five hundred dollars per annum,",
+    "kept": "each chaplain of Congress at the rate of five hundred dollars per annum,",
+    "reason": "Next body line after sidenote 'Allowance to'."
+   },
+   {
+    "run": 12,
+    "a": "each chaplain of Congress at the rate of five hundred dollars per annum,",
+    "b": "during the session of Congress; to the Secretary of the Senate, and",
+    "kept": "during the session of Congress; to the Secretary of the Senate, and",
+    "reason": "Next body line after sidenote 'the chaplains;'."
+   },
+   {
+    "run": 13,
+    "a": "during the session of Congress; to the Secretary of the Senate, and",
+    "b": "Clerk of the House of Representatives, fifteen hundred dollars per",
+    "kept": "Clerk of the House of Representatives, fifteen hundred dollars per",
+    "reason": "Next body line after sidenote 'to the Secretary'."
+   },
+   {
+    "run": 14,
+    "a": "Clerk of the House of Representatives, fifteen hundred dollars per",
+    "b": "annum, each, to commence from the time of their respective appoint-",
+    "kept": "annum, each, to commence from the time of their respective appoint-",
+    "reason": "Next body line after sidenote 'of the Senate'."
+   },
+   {
+    "run": 15,
+    "a": "annum, each, to commence from the time of their respective appoint-",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 16,
+    "a": "",
+    "b": "Senate, or Speaker shall deem it necessary) to employ one principal",
+    "kept": "Senate, or Speaker shall deem it necessary) to employ one principal",
+    "reason": "Body line level with sidenote 'To Clerks;'."
+   },
+   {
+    "run": 17,
+    "a": "Senate, or Speaker shall deem it necessary) to employ one principal",
+    "b": "Clerk, who shall be paid three dollars per day, and two engrossing",
+    "kept": "Clerk, who shall be paid three dollars per day, and two engrossing",
+    "reason": "Next body line after sidenote 'To Clerks;'."
+   },
+   {
+    "run": 18,
+    "a": "Clerk, who shall be paid three dollars per day, and two engrossing",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "SEC. 4. And be it further enacted, That there shall be allowed to the",
+    "kept": "SEC. 4. And be it further enacted, That there shall be allowed to the",
+    "reason": "Body line level with sidenote 'to the Serjeant-'."
+   },
+   {
+    "run": 20,
+    "a": "SEC. 4. And be it further enacted, That there shall be allowed to the",
+    "b": "Sergeant-at-arms, the sum of four dollars per day, during every session",
+    "kept": "Sergeant-at-arms, the sum of four dollars per day, during every session",
+    "reason": "Next body line after that sidenote."
+   },
+   {
+    "run": 21,
+    "a": "Sergeant-at-arms, the sum of four dollars per day, during every session",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 22,
+    "a": "",
+    "b": "SEC. 5. And be it further enacted, That the said compensation,",
+    "kept": "SEC. 5. And be it further enacted, That the said compensation,",
+    "reason": "Body line level with sidenote 'How the said'."
+   },
+   {
+    "run": 23,
+    "a": "SEC. 5. And be it further enacted, That the said compensation,",
+    "b": "which shall be due to the members and officers of the Senate, shall be",
+    "kept": "which shall be due to the members and officers of the Senate, shall be",
+    "reason": "Next body line after sidenote 'How the said'."
+   },
+   {
+    "run": 24,
+    "a": "which shall be due to the members and officers of the Senate, shall be",
+    "b": "certified by the President; and that which shall be due to the members",
+    "kept": "certified by the President; and that which shall be due to the members",
+    "reason": "Next body line after sidenote 'compensations'."
+   },
+   {
+    "run": 25,
+    "a": "certified by the President; and that which shall be due to the members",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed above."
+   },
+   {
+    "run": 26,
+    "a": "VOL. I.—57\n2 P 2",
+    "b": "VOL. I.—57                                     2 P 2",
+    "kept": "VOL. I.—57                                     2 P 2",
+    "reason": "Signature line and volume mark are printed on one line at the foot."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "FOURTH CONGRESS.  SESS. I. CH. 5.   1796."
+  },
+  {
+   "role": "page-number",
+   "text": "449"
+  },
+  {
+   "role": "body",
+   "text": "the Senate shall be detained by sickness, on his journey to or from any"
+  },
+  {
+   "role": "body",
+   "text": "such session or meeting, or, after his arrival, shall be unable to attend"
+  },
+  {
+   "role": "body",
+   "text": "the Senate, he shall be entitled to the same daily allowance: Provided"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "always, that no Senator shall be allowed a sum exceeding the rate of"
+  },
+  {
+   "role": "body",
+   "text": "six dollars per day, from the end of one such session or meeting, to the"
+  },
+  {
+   "role": "body",
+   "text": "time of his taking a seat in another."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That at each session of Congress,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Allowance to"
+  },
+  {
+   "role": "body",
+   "text": "each Representative shall be entitled to receive six dollars for every day"
+  },
+  {
+   "role": "sidenote",
+   "text": "Representa-"
+  },
+  {
+   "role": "body",
+   "text": "he shall attend the House of Representatives; and shall be allowed, at"
+  },
+  {
+   "role": "sidenote",
+   "text": "tives."
+  },
+  {
+   "role": "body",
+   "text": "the commencement and end of each session, six dollars for every twenty"
+  },
+  {
+   "role": "body",
+   "text": "miles of the estimated distance, by the most usual road, from his place"
+  },
+  {
+   "role": "body",
+   "text": "of residence to the seat of Congress: And in case any Representative"
+  },
+  {
+   "role": "body",
+   "text": "shall be detained by sickness, on his journey to or from the session of"
+  },
+  {
+   "role": "body",
+   "text": "Congress, or, after his arrival, shall be unable to attend the House of"
+  },
+  {
+   "role": "body",
+   "text": "Representatives, he shall be entitled to the daily allowance aforesaid;"
+  },
+  {
+   "role": "body",
+   "text": "and the Speaker of the House of Representatives shall be entitled to"
+  },
+  {
+   "role": "body",
+   "text": "receive, in addition to his compensation as a Representative, six dollars"
+  },
+  {
+   "role": "body",
+   "text": "for every day he shall attend the House: Provided always, That no"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "Representative shall be allowed a sum exceeding the rate of six dollars"
+  },
+  {
+   "role": "sidenote",
+   "text": "1812, ch. 127."
+  },
+  {
+   "role": "body",
+   "text": "per day, from the end of one such session or meeting, to the time of his"
+  },
+  {
+   "role": "body",
+   "text": "taking a seat in another."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 3. And be it further enacted, That there shall be allowed to"
+  },
+  {
+   "role": "sidenote",
+   "text": "Allowance to"
+  },
+  {
+   "role": "body",
+   "text": "each chaplain of Congress at the rate of five hundred dollars per annum,"
+  },
+  {
+   "role": "sidenote",
+   "text": "the chaplains;"
+  },
+  {
+   "role": "body",
+   "text": "during the session of Congress; to the Secretary of the Senate, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "to the Secretary"
+  },
+  {
+   "role": "body",
+   "text": "Clerk of the House of Representatives, fifteen hundred dollars per"
+  },
+  {
+   "role": "sidenote",
+   "text": "of the Senate"
+  },
+  {
+   "role": "body",
+   "text": "annum, each, to commence from the time of their respective appoint-"
+  },
+  {
+   "role": "sidenote",
+   "text": "and the Clerk of"
+  },
+  {
+   "role": "sidenote",
+   "text": "the House of"
+  },
+  {
+   "role": "body",
+   "text": "ments; and also a further allowance of two dollars per day to each,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Representa-"
+  },
+  {
+   "role": "body",
+   "text": "during the session of that branch, for which he officiates.  And the said"
+  },
+  {
+   "role": "sidenote",
+   "text": "tives."
+  },
+  {
+   "role": "body",
+   "text": "Secretary and Clerk shall each be allowed (when the President of the"
+  },
+  {
+   "role": "body",
+   "text": "Senate, or Speaker shall deem it necessary) to employ one principal"
+  },
+  {
+   "role": "sidenote",
+   "text": "To Clerks;"
+  },
+  {
+   "role": "body",
+   "text": "Clerk, who shall be paid three dollars per day, and two engrossing"
+  },
+  {
+   "role": "sidenote",
+   "text": "1802, ch. 35."
+  },
+  {
+   "role": "body",
+   "text": "Clerks, who shall be paid two dollars per day, each, during the session,"
+  },
+  {
+   "role": "body",
+   "text": "with the like compensations to such Clerks, respectively, while they"
+  },
+  {
+   "role": "body",
+   "text": "shall be necessarily employed in the recess."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. And be it further enacted, That there shall be allowed to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "to the Serjeant-"
+  },
+  {
+   "role": "body",
+   "text": "Sergeant-at-arms, the sum of four dollars per day, during every session"
+  },
+  {
+   "role": "sidenote",
+   "text": "at-arms."
+  },
+  {
+   "role": "body",
+   "text": "of Congress, and while employed on the business of the House."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 5. And be it further enacted, That the said compensation,"
+  },
+  {
+   "role": "sidenote",
+   "text": "How the said"
+  },
+  {
+   "role": "body",
+   "text": "which shall be due to the members and officers of the Senate, shall be"
+  },
+  {
+   "role": "sidenote",
+   "text": "compensations"
+  },
+  {
+   "role": "body",
+   "text": "certified by the President; and that which shall be due to the members"
+  },
+  {
+   "role": "sidenote",
+   "text": "shall be certi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "fied, &c."
+  },
+  {
+   "role": "body",
+   "text": "and officers of the House of Representatives, shall be certified by the"
+  },
+  {
+   "role": "body",
+   "text": "Speaker; and the same shall be passed as public accounts, and paid out"
+  },
+  {
+   "role": "body",
+   "text": "of the public treasury."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 10, 1796."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE I."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. V.—An Act providing relief, for a limited time, in certain cases of invalid"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 10, 1796."
+  },
+  {
+   "role": "body",
+   "text": "Registers."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Secretary of"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the Secretary of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Treasury to al-"
+  },
+  {
+   "role": "body",
+   "text": "Treasury be, and he is hereby empowered, to allow to such vessels and"
+  },
+  {
+   "role": "sidenote",
+   "text": "low certain pri-"
+  },
+  {
+   "role": "sidenote",
+   "text": "vileges in cases"
+  },
+  {
+   "role": "body",
+   "text": "their cargoes, whose registers have already, or that may, before the close"
+  },
+  {
+   "role": "sidenote",
+   "text": "of invalid regis-"
+  },
+  {
+   "role": "body",
+   "text": "of the present session of Congress, become invalid, by reason of a non-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ters on certain"
+  },
+  {
+   "role": "sidenote",
+   "text": "conditions."
+  },
+  {
+   "role": "body",
+   "text": "compliance with the terms of the fifth section of the act “concerning"
+  },
+  {
+   "role": "sidenote",
+   "text": "Ante, p. 287."
+  },
+  {
+   "role": "body",
+   "text": "the registering and recording of ships or vessels,” the same privileges"
+  },
+  {
+   "role": "body",
+   "text": "and benefits, they would have been entitled to, if no such invalidity had"
+  },
+  {
+   "role": "body",
+   "text": "taken place: Provided, it shall appear to him, that such non-compliance"
+  },
+  {
+   "role": "body",
+   "text": "did not proceed from wilful negligence or an intention of fraud: And"
+  },
+  {
+   "role": "body",
+   "text": "provided also, that a new register shall be obtained, in the manner pre-"
+  },
+  {
+   "role": "body",
+   "text": "VOL. I.—57                                     2 P 2"
+  }
+ ],
+ "disagreement_count": 26,
+ "tokens": {
+  "input_tokens": 24382,
+  "output_tokens": 7557,
+  "cache_read_input_tokens": 1490,
+  "cache_creation_input_tokens": 833
+ },
+ "cost_usd": 0.31679,
+ "seconds": 242.6,
+ "created": "2026-09-08T11:08:16"
+}

@@ -1,0 +1,1403 @@
+{
+ "granule_id": "STATUTE-17-Pg409-3",
+ "package_id": "STATUTE-17",
+ "volume": 17,
+ "period": "1851-1900",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act authorizing the East Chester National Bank of Mount Vernon to change its Location and Name.",
+ "date_issued": "1873-01-11",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "409",
+ "image": "data/gold/STATUTE-17-Pg409-3/p1.png",
+ "image_sha256": "59149e0fb7c8f2ba5c35474524adb8d5eab2aa2b761d18d1acd3ce2c3556ca32",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FORTY–SECOND CONGRESS.  SESS. III.  CH. 25, 32, 33.  1873.        409"
+    },
+    {
+     "role": "sidenote",
+     "text": "Parties may appear personally or by attorney."
+    },
+    {
+     "role": "body",
+     "text": "an amendment, either party may appear and act in person, or by agent"
+    },
+    {
+     "role": "body",
+     "text": "or attorney."
+    },
+    {
+     "role": "sidenote",
+     "text": "Officers taking testimony to send the same when completed, by mail, under seal, to the clerk of the House of Representatives, with indorsement."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. All officers taking testimony to be used in a contested election"
+    },
+    {
+     "role": "body",
+     "text": "case, whether by deposition or otherwise, shall, when the taking of the"
+    },
+    {
+     "role": "body",
+     "text": "same is completed, and without unnecessary delay, certify the same, and"
+    },
+    {
+     "role": "body",
+     "text": "carefully seal and immediately forward the same by mail addressed to the"
+    },
+    {
+     "role": "body",
+     "text": "clerk of the House of Representatives of the United States, Washington,"
+    },
+    {
+     "role": "body",
+     "text": "D. C.; and shall also endorse upon the envelope containing such deposi-"
+    },
+    {
+     "role": "body",
+     "text": "tion or testimony the name of the case in which it is taken, together with"
+    },
+    {
+     "role": "body",
+     "text": "the name of the party in whose behalf it is taken, and shall subscribe such"
+    },
+    {
+     "role": "sidenote",
+     "text": "Depositions, how to be opened, &c."
+    },
+    {
+     "role": "body",
+     "text": "endorsement.   Upon the written request of either party the clerk of the"
+    },
+    {
+     "role": "body",
+     "text": "House of Representatives shall open any deposition at any time after he"
+    },
+    {
+     "role": "sidenote",
+     "text": "Copies."
+    },
+    {
+     "role": "body",
+     "text": "shall have received the same, and he may furnish either party with a"
+    },
+    {
+     "role": "body",
+     "text": "copy thereof."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 10, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 10, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXV. — An Act for the Extension of Time to the Winona and Saint Peter Rail-"
+    },
+    {
+     "role": "body",
+     "text": "road Company for the Completion of its Road."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Time for completion of the Winona and St. Peter Railroad extended."
+    },
+    {
+     "role": "body",
+     "text": "States of America, in Congress assembled, That the time for the completion"
+    },
+    {
+     "role": "body",
+     "text": "of the railroad from Winona, in the State of Minnesota, via Saint Peter,"
+    },
+    {
+     "role": "body",
+     "text": "to a point on the Big Sioux River, south of the forty-fifth parallel of north"
+    },
+    {
+     "role": "body",
+     "text": "latitude, as limited in the act entitled “ An act extending the time for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "1865, ch. 105. Vol. xiii. p. 526."
+    },
+    {
+     "role": "body",
+     "text": "completion of certain land-grant railroads in the States of Iowa and Min-"
+    },
+    {
+     "role": "body",
+     "text": "nesota,” approved March third, eighteen hundred and sixty-five, be extended"
+    },
+    {
+     "role": "body",
+     "text": "for six months from the expiration of the time limited in the said act;"
+    },
+    {
+     "role": "body",
+     "text": "and if completed within said six months, the said railroad shall be enti-"
+    },
+    {
+     "role": "body",
+     "text": "tled to the benefit of the several provisions of said act, in the same"
+    },
+    {
+     "role": "body",
+     "text": "manner as if said road had been fully completed within the time therein"
+    },
+    {
+     "role": "body",
+     "text": "mentioned"
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 10, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 11, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXII. — An Act to release to the State of Indiana the Lands known as the"
+    },
+    {
+     "role": "body",
+     "text": "Bed of Beaver Lake, in Newton County, in said State."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Certain lands in Newton county, Indiana, released to that State."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the lands in Newton county"
+    },
+    {
+     "role": "body",
+     "text": "in the State of Indiana, known as the bed of Beaver Lake, the same"
+    },
+    {
+     "role": "body",
+     "text": "having been drained and reclaimed at the expense of the State of Indi-"
+    },
+    {
+     "role": "body",
+     "text": "ana and its assignees be, and the same are hereby, released and quit-"
+    },
+    {
+     "role": "body",
+     "text": "claimed to the State of Indiana."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 11, 1873."
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 11, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXIII. — An Act authorizing the East Chester National Bank of Mount Ver-"
+    },
+    {
+     "role": "body",
+     "text": "non to change its Location and Name."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "East Chester National Bank of Mount Vernon may change its location and name."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the East Chester National"
+    },
+    {
+     "role": "body",
+     "text": "Bank of Mount Vernon, now located in the village of Mount Vernon,"
+    },
+    {
+     "role": "body",
+     "text": "county of Westchester, and State of New York, is hereby authorized to"
+    },
+    {
+     "role": "body",
+     "text": "change its location to the city of Evansville, county of Vanderburgh, and"
+    },
+    {
+     "role": "body",
+     "text": "State of Indiana.   Whenever the stockholders, representing three-fourths"
+    },
+    {
+     "role": "body",
+     "text": "of the capital of said bank, at a meeting called for that purpose, deter-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proceedings."
+    },
+    {
+     "role": "body",
+     "text": "mine to make such change, the president and cashier shall execute a"
+    },
+    {
+     "role": "body",
+     "text": "certificate under the corporate seal of the bank, specifying such deter-"
+    },
+    {
+     "role": "body",
+     "text": "mination, and shall cause the same to be recorded in the office of the"
+    },
+    {
+     "role": "body",
+     "text": "comptroller of the currency ; and thereupon such change of location shall"
+    },
+    {
+     "role": "body",
+     "text": "be effected, and the operations of discount and deposit of said bank shall be"
+    },
+    {
+     "role": "body",
+     "text": "carried on, and its general business conducted, in the city of Evansville,"
+    },
+    {
+     "role": "body",
+     "text": "Indiana."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2199,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08241,
+   "seconds": 149.3,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "FORTY-SECOND CONGRESS.  SESS. III.  CH. 25, 32, 33.  1873."
+    },
+    {
+     "role": "page-number",
+     "text": "409"
+    },
+    {
+     "role": "body",
+     "text": "an amendment, either party may appear and act in person, or by agent"
+    },
+    {
+     "role": "sidenote",
+     "text": "Parties may ap-"
+    },
+    {
+     "role": "body",
+     "text": "or attorney."
+    },
+    {
+     "role": "sidenote",
+     "text": "pear personally"
+    },
+    {
+     "role": "sidenote",
+     "text": "or by attorney."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 4. All officers taking testimony to be used in a contested election"
+    },
+    {
+     "role": "sidenote",
+     "text": "Officers taking"
+    },
+    {
+     "role": "body",
+     "text": "case, whether by deposition or otherwise, shall, when the taking of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "testimony to send"
+    },
+    {
+     "role": "body",
+     "text": "same is completed, and without unnecessary delay, certify the same, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "the same when"
+    },
+    {
+     "role": "body",
+     "text": "carefully seal and immediately forward the same by mail addressed to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "completed, by"
+    },
+    {
+     "role": "sidenote",
+     "text": "mail, under seal,"
+    },
+    {
+     "role": "body",
+     "text": "clerk of the House of Representatives of the United States, Washington,"
+    },
+    {
+     "role": "sidenote",
+     "text": "to the clerk of"
+    },
+    {
+     "role": "body",
+     "text": "D. C.; and shall also endorse upon the envelope containing such deposi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "the House of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Representatives,"
+    },
+    {
+     "role": "body",
+     "text": "tion or testimony the name of the case in which it is taken, together with"
+    },
+    {
+     "role": "sidenote",
+     "text": "with indorse-"
+    },
+    {
+     "role": "body",
+     "text": "the name of the party in whose behalf it is taken, and shall subscribe such"
+    },
+    {
+     "role": "sidenote",
+     "text": "ment."
+    },
+    {
+     "role": "body",
+     "text": "endorsement.   Upon the written request of either party the clerk of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Depositions,"
+    },
+    {
+     "role": "body",
+     "text": "House of Representatives shall open any deposition at any time after he"
+    },
+    {
+     "role": "sidenote",
+     "text": "how to be opened,"
+    },
+    {
+     "role": "body",
+     "text": "shall have received the same, and he may furnish either party with a"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "sidenote",
+     "text": "Copies."
+    },
+    {
+     "role": "body",
+     "text": "copy thereof."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 10, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXV. —An Act for the Extension of Time to the Winona and Saint Peter Rail-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 10, 1873."
+    },
+    {
+     "role": "body",
+     "text": "road Company for the Completion of its Road."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America, in Congress assembled, That the time for the completion"
+    },
+    {
+     "role": "sidenote",
+     "text": "Time for com-"
+    },
+    {
+     "role": "body",
+     "text": "of the railroad from Winona, in the State of Minnesota, via Saint Peter,"
+    },
+    {
+     "role": "sidenote",
+     "text": "pletion of the"
+    },
+    {
+     "role": "body",
+     "text": "to a point on the Big Sioux River, south of the forty-fifth parallel of north"
+    },
+    {
+     "role": "sidenote",
+     "text": "Winona and St."
+    },
+    {
+     "role": "sidenote",
+     "text": "Peter Railroad"
+    },
+    {
+     "role": "body",
+     "text": "latitude, as limited in the act entitled “An act extending the time for the"
+    },
+    {
+     "role": "sidenote",
+     "text": "extended."
+    },
+    {
+     "role": "body",
+     "text": "completion of certain land-grant railroads in the States of Iowa and Min-"
+    },
+    {
+     "role": "sidenote",
+     "text": "1865, ch. 105."
+    },
+    {
+     "role": "body",
+     "text": "nesota,” approved March third, eighteen hundred and sixty-five, be extended"
+    },
+    {
+     "role": "sidenote",
+     "text": "Vol. xiii. p. 526."
+    },
+    {
+     "role": "body",
+     "text": "for six months from the expiration of the time limited in the said act;"
+    },
+    {
+     "role": "body",
+     "text": "and if completed within said six months, the said railroad shall be enti-"
+    },
+    {
+     "role": "body",
+     "text": "tled to the benefit of the several provisions of said act, in the same"
+    },
+    {
+     "role": "body",
+     "text": "manner as if said road had been fully completed within the time therein"
+    },
+    {
+     "role": "body",
+     "text": "mentioned"
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 10, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXII. — An Act to release to the State of Indiana the Lands known as the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 11, 1873."
+    },
+    {
+     "role": "body",
+     "text": "Bed of Beaver Lake, in Newton County, in said State."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the lands in Newton county"
+    },
+    {
+     "role": "sidenote",
+     "text": "Certain lands"
+    },
+    {
+     "role": "body",
+     "text": "in the State of Indiana, known as the bed of Beaver Lake, the same"
+    },
+    {
+     "role": "sidenote",
+     "text": "in Newton coun-"
+    },
+    {
+     "role": "body",
+     "text": "having been drained and reclaimed at the expense of the State of Indi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ty, Indiana, re-"
+    },
+    {
+     "role": "sidenote",
+     "text": "leased to that"
+    },
+    {
+     "role": "body",
+     "text": "ana and its assignees be, and the same are hereby, released and quit-"
+    },
+    {
+     "role": "sidenote",
+     "text": "State."
+    },
+    {
+     "role": "body",
+     "text": "claimed to the State of Indiana."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, January 11, 1873."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XXXIII. — An Act authorizing the East Chester National Bank of Mount Ver-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Jan. 11, 1873."
+    },
+    {
+     "role": "body",
+     "text": "non to change its Location and Name."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the East Chester National"
+    },
+    {
+     "role": "sidenote",
+     "text": "East Chester"
+    },
+    {
+     "role": "body",
+     "text": "Bank of Mount Vernon, now located in the village of Mount Vernon,"
+    },
+    {
+     "role": "sidenote",
+     "text": "National Bank of"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mount Vernon"
+    },
+    {
+     "role": "body",
+     "text": "county of Westchester, and State of New York, is hereby authorized to"
+    },
+    {
+     "role": "sidenote",
+     "text": "may change its"
+    },
+    {
+     "role": "body",
+     "text": "change its location to the city of Evansville, county of Vanderburgh, and"
+    },
+    {
+     "role": "sidenote",
+     "text": "location and"
+    },
+    {
+     "role": "body",
+     "text": "State of Indiana.   Whenever the stockholders, representing three-fourths"
+    },
+    {
+     "role": "sidenote",
+     "text": "name."
+    },
+    {
+     "role": "body",
+     "text": "of the capital of said bank, at a meeting called for that purpose, deter-"
+    },
+    {
+     "role": "body",
+     "text": "mine to make such change, the president and cashier shall execute a"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proceedings."
+    },
+    {
+     "role": "body",
+     "text": "certificate under the corporate seal of the bank, specifying such deter-"
+    },
+    {
+     "role": "body",
+     "text": "mination, and shall cause the same to be recorded in the office of the"
+    },
+    {
+     "role": "body",
+     "text": "comptroller of the currency ; and thereupon such change of location shall"
+    },
+    {
+     "role": "body",
+     "text": "be effected, and the operations of discount and deposit of said bank shall be"
+    },
+    {
+     "role": "body",
+     "text": "carried on, and its general business conducted, in the city of Evansville,"
+    },
+    {
+     "role": "body",
+     "text": "Indiana."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2628,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.09313,
+   "seconds": 123.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13916,
+   "output_tokens": 2807,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.14017,
+  "seconds": 158.0,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "FORTY–SECOND CONGRESS.  SESS. III.  CH. 25, 32, 33.  1873.        409\nParties may appear personally or by attorney.",
+    "b": "FORTY-SECOND CONGRESS.  SESS. III.  CH. 25, 32, 33.  1873.\n409",
+    "kept": "FORTY-SECOND CONGRESS.  SESS. III.  CH. 25, 32, 33.  1873.\n409",
+    "reason": "Head line and page number are separate elements on the line."
+   },
+   {
+    "run": 2,
+    "a": "",
+    "b": "Parties may ap-",
+    "kept": "Parties may ap-",
+    "reason": "Sidenote printed line by line beside the body."
+   },
+   {
+    "run": 3,
+    "a": "Officers taking testimony to send the same when completed, by mail, under seal, to the clerk of the House of Representatives, with indorsement.",
+    "b": "pear personally\nor by attorney.",
+    "kept": "pear personally\nor by attorney.",
+    "reason": "Continuation lines of the marginal note as printed."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "Officers taking",
+    "kept": "Officers taking",
+    "reason": "Marginal line printed here."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "testimony to send",
+    "kept": "testimony to send",
+    "reason": "Marginal line printed here."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "the same when",
+    "kept": "the same when",
+    "reason": "Marginal line printed here."
+   },
+   {
+    "run": 7,
+    "a": "",
+    "b": "completed, by\nmail, under seal,",
+    "kept": "completed, by\nmail, under seal,",
+    "reason": "Two marginal lines printed here."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "to the clerk of",
+    "kept": "to the clerk of",
+    "reason": "Marginal line printed here."
+   },
+   {
+    "run": 9,
+    "a": "",
+    "b": "the House of\nRepresentatives,",
+    "kept": "the House of\nRepresentatives,",
+    "reason": "Two marginal lines printed here."
+   },
+   {
+    "run": 10,
+    "a": "",
+    "b": "with indorse-",
+    "kept": "with indorse-",
+    "reason": "Marginal line printed here."
+   },
+   {
+    "run": 11,
+    "a": "Depositions, how to be opened, &c.",
+    "b": "ment.",
+    "kept": "ment.",
+    "reason": "Final line of that marginal note."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "Depositions,",
+    "kept": "Depositions,",
+    "reason": "Marginal line printed here."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "how to be opened,\nshall have received the same, and he may furnish either party with a\n&c.",
+    "kept": "how to be opened,\nshall have received the same, and he may furnish either party with a\n&c.",
+    "reason": "Order of marginal lines and body line as printed."
+   },
+   {
+    "run": 14,
+    "a": "shall have received the same, and he may furnish either party with a",
+    "b": "",
+    "kept": "",
+    "reason": "Body line already placed in preceding run."
+   },
+   {
+    "run": 15,
+    "a": "",
+    "b": "CHAP. XXV. —An Act for the Extension of Time to the Winona and Saint Peter Rail-",
+    "kept": "CHAP. XXV. —An Act for the Extension of Time to the Winona and Saint Peter Rail-",
+    "reason": "Chapter heading precedes the date sidenote."
+   },
+   {
+    "run": 16,
+    "a": "CHAP. XXV. — An Act for the Extension of Time to the Winona and Saint Peter Rail-",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed above."
+   },
+   {
+    "run": 17,
+    "a": "Time for completion of the Winona and St. Peter Railroad extended.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote is printed line by line further down, not here."
+   },
+   {
+    "run": 18,
+    "a": "",
+    "b": "Time for com-",
+    "kept": "Time for com-",
+    "reason": "Marginal line printed here."
+   },
+   {
+    "run": 19,
+    "a": "",
+    "b": "pletion of the",
+    "kept": "pletion of the",
+    "reason": "Marginal line printed here."
+   },
+   {
+    "run": 20,
+    "a": "latitude, as limited in the act entitled “ An act extending the time for the\n1865, ch. 105. Vol. xiii. p. 526.",
+    "b": "Winona and St.\nPeter Railroad\nlatitude, as limited in the act entitled “An act extending the time for the\nextended.",
+    "kept": "Winona and St.\nPeter Railroad\nlatitude, as limited in the act entitled “ An act extending the time for the\nextended.",
+    "reason": "Marginal lines flank the body line as printed; quotation mark followed by space."
+   },
+   {
+    "run": 21,
+    "a": "",
+    "b": "1865, ch. 105.",
+    "kept": "1865, ch. 105.",
+    "reason": "Marginal reference line printed here."
+   },
+   {
+    "run": 22,
+    "a": "",
+    "b": "Vol. xiii. p. 526.",
+    "kept": "Vol. xiii. p. 526.",
+    "reason": "Marginal reference line printed here."
+   },
+   {
+    "run": 23,
+    "a": "",
+    "b": "CHAP. XXXII. — An Act to release to the State of Indiana the Lands known as the",
+    "kept": "CHAP. XXXII. — An Act to release to the State of Indiana the Lands known as the",
+    "reason": "Chapter heading precedes the date sidenote."
+   },
+   {
+    "run": 24,
+    "a": "CHAP. XXXII. — An Act to release to the State of Indiana the Lands known as the",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed above."
+   },
+   {
+    "run": 25,
+    "a": "Certain lands in Newton county, Indiana, released to that State.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote printed line by line lower down."
+   },
+   {
+    "run": 26,
+    "a": "",
+    "b": "Certain lands",
+    "kept": "Certain lands",
+    "reason": "Marginal line printed here."
+   },
+   {
+    "run": 27,
+    "a": "",
+    "b": "in Newton coun-",
+    "kept": "in Newton coun-",
+    "reason": "Marginal line printed here."
+   },
+   {
+    "run": 28,
+    "a": "",
+    "b": "ty, Indiana, re-\nleased to that",
+    "kept": "ty, Indiana, re-\nleased to that",
+    "reason": "Two marginal lines printed here."
+   },
+   {
+    "run": 29,
+    "a": "",
+    "b": "State.",
+    "kept": "State.",
+    "reason": "Final marginal line."
+   },
+   {
+    "run": 30,
+    "a": "",
+    "b": "CHAP. XXXIII. — An Act authorizing the East Chester National Bank of Mount Ver-",
+    "kept": "CHAP. XXXIII. — An Act authorizing the East Chester National Bank of Mount Ver-",
+    "reason": "Chapter heading precedes the date sidenote."
+   },
+   {
+    "run": 31,
+    "a": "CHAP. XXXIII. — An Act authorizing the East Chester National Bank of Mount Ver-",
+    "b": "",
+    "kept": "",
+    "reason": "Heading already placed above."
+   },
+   {
+    "run": 32,
+    "a": "East Chester National Bank of Mount Vernon may change its location and name.",
+    "b": "",
+    "kept": "",
+    "reason": "Sidenote printed line by line lower down."
+   },
+   {
+    "run": 33,
+    "a": "",
+    "b": "East Chester",
+    "kept": "East Chester",
+    "reason": "Marginal line printed here."
+   },
+   {
+    "run": 34,
+    "a": "",
+    "b": "National Bank of\nMount Vernon",
+    "kept": "National Bank of\nMount Vernon",
+    "reason": "Two marginal lines printed here."
+   },
+   {
+    "run": 35,
+    "a": "",
+    "b": "may change its",
+    "kept": "may change its",
+    "reason": "Marginal line printed here."
+   },
+   {
+    "run": 36,
+    "a": "",
+    "b": "location and",
+    "kept": "location and",
+    "reason": "Marginal line printed here."
+   },
+   {
+    "run": 37,
+    "a": "",
+    "b": "name.",
+    "kept": "name.",
+    "reason": "Final marginal line."
+   },
+   {
+    "run": 38,
+    "a": "",
+    "b": "mine to make such change, the president and cashier shall execute a",
+    "kept": "mine to make such change, the president and cashier shall execute a",
+    "reason": "Body line precedes the Proceedings sidenote."
+   },
+   {
+    "run": 39,
+    "a": "mine to make such change, the president and cashier shall execute a",
+    "b": "",
+    "kept": "",
+    "reason": "Body line already placed above."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "FORTY-SECOND CONGRESS.  SESS. III.  CH. 25, 32, 33.  1873."
+  },
+  {
+   "role": "page-number",
+   "text": "409"
+  },
+  {
+   "role": "body",
+   "text": "an amendment, either party may appear and act in person, or by agent"
+  },
+  {
+   "role": "sidenote",
+   "text": "Parties may ap-"
+  },
+  {
+   "role": "body",
+   "text": "or attorney."
+  },
+  {
+   "role": "sidenote",
+   "text": "pear personally"
+  },
+  {
+   "role": "sidenote",
+   "text": "or by attorney."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 4. All officers taking testimony to be used in a contested election"
+  },
+  {
+   "role": "sidenote",
+   "text": "Officers taking"
+  },
+  {
+   "role": "body",
+   "text": "case, whether by deposition or otherwise, shall, when the taking of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "testimony to send"
+  },
+  {
+   "role": "body",
+   "text": "same is completed, and without unnecessary delay, certify the same, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "the same when"
+  },
+  {
+   "role": "body",
+   "text": "carefully seal and immediately forward the same by mail addressed to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "completed, by"
+  },
+  {
+   "role": "sidenote",
+   "text": "mail, under seal,"
+  },
+  {
+   "role": "body",
+   "text": "clerk of the House of Representatives of the United States, Washington,"
+  },
+  {
+   "role": "sidenote",
+   "text": "to the clerk of"
+  },
+  {
+   "role": "body",
+   "text": "D. C.; and shall also endorse upon the envelope containing such deposi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "the House of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Representatives,"
+  },
+  {
+   "role": "body",
+   "text": "tion or testimony the name of the case in which it is taken, together with"
+  },
+  {
+   "role": "sidenote",
+   "text": "with indorse-"
+  },
+  {
+   "role": "body",
+   "text": "the name of the party in whose behalf it is taken, and shall subscribe such"
+  },
+  {
+   "role": "sidenote",
+   "text": "ment."
+  },
+  {
+   "role": "body",
+   "text": "endorsement.   Upon the written request of either party the clerk of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Depositions,"
+  },
+  {
+   "role": "body",
+   "text": "House of Representatives shall open any deposition at any time after he"
+  },
+  {
+   "role": "sidenote",
+   "text": "how to be opened,"
+  },
+  {
+   "role": "body",
+   "text": "shall have received the same, and he may furnish either party with a"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c."
+  },
+  {
+   "role": "sidenote",
+   "text": "Copies."
+  },
+  {
+   "role": "body",
+   "text": "copy thereof."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, January 10, 1873."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXV. —An Act for the Extension of Time to the Winona and Saint Peter Rail-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Jan. 10, 1873."
+  },
+  {
+   "role": "body",
+   "text": "road Company for the Completion of its Road."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America, in Congress assembled, That the time for the completion"
+  },
+  {
+   "role": "sidenote",
+   "text": "Time for com-"
+  },
+  {
+   "role": "body",
+   "text": "of the railroad from Winona, in the State of Minnesota, via Saint Peter,"
+  },
+  {
+   "role": "sidenote",
+   "text": "pletion of the"
+  },
+  {
+   "role": "body",
+   "text": "to a point on the Big Sioux River, south of the forty-fifth parallel of north"
+  },
+  {
+   "role": "sidenote",
+   "text": "Winona and St."
+  },
+  {
+   "role": "sidenote",
+   "text": "Peter Railroad"
+  },
+  {
+   "role": "body",
+   "text": "latitude, as limited in the act entitled “ An act extending the time for the"
+  },
+  {
+   "role": "sidenote",
+   "text": "extended."
+  },
+  {
+   "role": "body",
+   "text": "completion of certain land-grant railroads in the States of Iowa and Min-"
+  },
+  {
+   "role": "sidenote",
+   "text": "1865, ch. 105."
+  },
+  {
+   "role": "body",
+   "text": "nesota,” approved March third, eighteen hundred and sixty-five, be extended"
+  },
+  {
+   "role": "sidenote",
+   "text": "Vol. xiii. p. 526."
+  },
+  {
+   "role": "body",
+   "text": "for six months from the expiration of the time limited in the said act;"
+  },
+  {
+   "role": "body",
+   "text": "and if completed within said six months, the said railroad shall be enti-"
+  },
+  {
+   "role": "body",
+   "text": "tled to the benefit of the several provisions of said act, in the same"
+  },
+  {
+   "role": "body",
+   "text": "manner as if said road had been fully completed within the time therein"
+  },
+  {
+   "role": "body",
+   "text": "mentioned"
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, January 10, 1873."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXXII. — An Act to release to the State of Indiana the Lands known as the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Jan. 11, 1873."
+  },
+  {
+   "role": "body",
+   "text": "Bed of Beaver Lake, in Newton County, in said State."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the lands in Newton county"
+  },
+  {
+   "role": "sidenote",
+   "text": "Certain lands"
+  },
+  {
+   "role": "body",
+   "text": "in the State of Indiana, known as the bed of Beaver Lake, the same"
+  },
+  {
+   "role": "sidenote",
+   "text": "in Newton coun-"
+  },
+  {
+   "role": "body",
+   "text": "having been drained and reclaimed at the expense of the State of Indi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ty, Indiana, re-"
+  },
+  {
+   "role": "sidenote",
+   "text": "leased to that"
+  },
+  {
+   "role": "body",
+   "text": "ana and its assignees be, and the same are hereby, released and quit-"
+  },
+  {
+   "role": "sidenote",
+   "text": "State."
+  },
+  {
+   "role": "body",
+   "text": "claimed to the State of Indiana."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, January 11, 1873."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XXXIII. — An Act authorizing the East Chester National Bank of Mount Ver-"
+  },
+  {
+   "role": "sidenote",
+   "text": "Jan. 11, 1873."
+  },
+  {
+   "role": "body",
+   "text": "non to change its Location and Name."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the East Chester National"
+  },
+  {
+   "role": "sidenote",
+   "text": "East Chester"
+  },
+  {
+   "role": "body",
+   "text": "Bank of Mount Vernon, now located in the village of Mount Vernon,"
+  },
+  {
+   "role": "sidenote",
+   "text": "National Bank of"
+  },
+  {
+   "role": "sidenote",
+   "text": "Mount Vernon"
+  },
+  {
+   "role": "body",
+   "text": "county of Westchester, and State of New York, is hereby authorized to"
+  },
+  {
+   "role": "sidenote",
+   "text": "may change its"
+  },
+  {
+   "role": "body",
+   "text": "change its location to the city of Evansville, county of Vanderburgh, and"
+  },
+  {
+   "role": "sidenote",
+   "text": "location and"
+  },
+  {
+   "role": "body",
+   "text": "State of Indiana.   Whenever the stockholders, representing three-fourths"
+  },
+  {
+   "role": "sidenote",
+   "text": "name."
+  },
+  {
+   "role": "body",
+   "text": "of the capital of said bank, at a meeting called for that purpose, deter-"
+  },
+  {
+   "role": "body",
+   "text": "mine to make such change, the president and cashier shall execute a"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proceedings."
+  },
+  {
+   "role": "body",
+   "text": "certificate under the corporate seal of the bank, specifying such deter-"
+  },
+  {
+   "role": "body",
+   "text": "mination, and shall cause the same to be recorded in the office of the"
+  },
+  {
+   "role": "body",
+   "text": "comptroller of the currency ; and thereupon such change of location shall"
+  },
+  {
+   "role": "body",
+   "text": "be effected, and the operations of discount and deposit of said bank shall be"
+  },
+  {
+   "role": "body",
+   "text": "carried on, and its general business conducted, in the city of Evansville,"
+  },
+  {
+   "role": "body",
+   "text": "Indiana."
+  }
+ ],
+ "disagreement_count": 39,
+ "tokens": {
+  "input_tokens": 24739,
+  "output_tokens": 7634,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.31571,
+ "seconds": 430.3,
+ "created": "2026-09-08T12:18:31"
+}

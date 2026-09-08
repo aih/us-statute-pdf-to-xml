@@ -1,0 +1,1084 @@
+{
+ "granule_id": "STATUTE-2-Pg156",
+ "package_id": "STATUTE-2",
+ "volume": 2,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act to amend the Judicial System of the United States.(a)",
+ "date_issued": "1802-04-29",
+ "pdf_page": 7,
+ "pdf_pages": 12,
+ "stat_page": "162",
+ "image": "data/gold/STATUTE-2-Pg156/p7.png",
+ "image_sha256": "9b9a42f5d0ff16d0a75243dc6ee6ac5ef2ff1db0a8647a3c52c0db665ad70fef",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "high"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "162                    SEVENTH CONGRESS.  SESS. I. CH. 31.   1802."
+    },
+    {
+     "role": "sidenote",
+     "text": "North Caroli-"
+    },
+    {
+     "role": "sidenote",
+     "text": "na district di-"
+    },
+    {
+     "role": "sidenote",
+     "text": "vided into three"
+    },
+    {
+     "role": "sidenote",
+     "text": "districts."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7.  And be it further enacted, That the district of North Caro-"
+    },
+    {
+     "role": "body",
+     "text": "lina shall be divided into three districts, one to consist of all that part"
+    },
+    {
+     "role": "body",
+     "text": "thereof which, by the laws of the state of North Carolina, now forms the"
+    },
+    {
+     "role": "body",
+     "text": "districts of Edenton and Halifax, which district shall be called the dis-"
+    },
+    {
+     "role": "footnote",
+     "text": "estate of a testator.  These questions were certified to the supreme court.  Backhouse v. Patton, 5"
+    },
+    {
+     "role": "footnote",
+     "text": "Peters, 160."
+    },
+    {
+     "role": "footnote",
+     "text": "In an action on a bond to the United States, the judges of the circuit court of Maryland were divided"
+    },
+    {
+     "role": "footnote",
+     "text": "in opinion as to the right of the plaintiffs to recover against the defendants as sureties for a debt due to"
+    },
+    {
+     "role": "footnote",
+     "text": "the United States, by the Bank of Somerset.  United States v. Robertson, 5 Peters, 641."
+    },
+    {
+     "role": "footnote",
+     "text": "An action of debt was brought on a promissory note in the circuit court for the district of West Ten-"
+    },
+    {
+     "role": "footnote",
+     "text": "nessee, and the judges of the court were opposed in opinion on questions which arose on the plaintiff's"
+    },
+    {
+     "role": "footnote",
+     "text": "demurrers to the defendant's pleas; and also whether the averment of the citizenship of some of the"
+    },
+    {
+     "role": "footnote",
+     "text": "parties to the suit was sufficient.  A certificate of this division of opinion was, by the direction of the"
+    },
+    {
+     "role": "footnote",
+     "text": "circuit court, made to the supreme court, according to law.  Kirkman v. Hamilton, 6 Peters, 20."
+    },
+    {
+     "role": "footnote",
+     "text": "The judges of the circuit court of North Carolina were opposed in opinion, on a question, whether"
+    },
+    {
+     "role": "footnote",
+     "text": "the priority to which the United States are entitled in case of a general assignment made by a debtor,"
+    },
+    {
+     "role": "footnote",
+     "text": "comprehends a bond for duties executed anterior to the assignment, but not payable until after the same."
+    },
+    {
+     "role": "footnote",
+     "text": "The question was certified to the supreme court.  United States v. The State Bank of North Carolina, 6"
+    },
+    {
+     "role": "footnote",
+     "text": "Peters, 29."
+    },
+    {
+     "role": "footnote",
+     "text": "In this case the defendant was indicted and convicted of robbing the United States' mail, and being"
+    },
+    {
+     "role": "footnote",
+     "text": "pardoned by the President of the United States, a question arose in the circuit court of the United States,"
+    },
+    {
+     "role": "footnote",
+     "text": "whether the defendant should plead the pardon.  On this question the judges of the court were opposed"
+    },
+    {
+     "role": "footnote",
+     "text": "in opinion, and the question was certified to the supreme court, for its decision.  United States v. Wilson,"
+    },
+    {
+     "role": "footnote",
+     "text": "7 Peters, 150."
+    },
+    {
+     "role": "footnote",
+     "text": "This case was submitted to the circuit court, on a statement of facts agreed upon by the counsel of the"
+    },
+    {
+     "role": "footnote",
+     "text": "plaintiff, and the district attorney of the United States.  The whole of the agreed facts were sent up with"
+    },
+    {
+     "role": "footnote",
+     "text": "the record.  Upon the trial and statement of facts in the cause, certain questions had occurred, on which"
+    },
+    {
+     "role": "footnote",
+     "text": "the opinions of the judges were opposed; and the points of disagreement were certified to the supreme"
+    },
+    {
+     "role": "footnote",
+     "text": "court for their decision.  The court decided on all the questions certified, with one exception.  Harris v."
+    },
+    {
+     "role": "footnote",
+     "text": "Elliott, 10 Peters, 25."
+    },
+    {
+     "role": "footnote",
+     "text": "An action of assumpsit was commenced by the plaintiff against the collector of the port of New York,"
+    },
+    {
+     "role": "footnote",
+     "text": "to recover a sum paid to him for duties on certain goods; the goods not being liable, under the law, to"
+    },
+    {
+     "role": "footnote",
+     "text": "the duties charged by the collector.  On the trial of the cause, the judges of the circuit court of the"
+    },
+    {
+     "role": "footnote",
+     "text": "southern district of New York were opposed in opinion, as to the construction of the act of Con-"
+    },
+    {
+     "role": "footnote",
+     "text": "gress, by which the duties were claimed; and being so opposed in opinion, the question as to the"
+    },
+    {
+     "role": "footnote",
+     "text": "construction of the law  was certified to the supreme court for decision.  Elliott v. Swartwout, 10 Peters,"
+    },
+    {
+     "role": "footnote",
+     "text": "137."
+    },
+    {
+     "role": "footnote",
+     "text": "An action of detinue was instituted in the circuit court of West Tennessee, to recover a slave.  Dur-"
+    },
+    {
+     "role": "footnote",
+     "text": "ing the progress of the suit, the defendant died; and his personal representative moved to dismiss"
+    },
+    {
+     "role": "footnote",
+     "text": "the suit, on the ground that it did not survive.  On this motion, the judges of the court were divided"
+    },
+    {
+     "role": "footnote",
+     "text": "in opinion; and the same was certified, for its decision, to the supreme court.  Davis v. Braden, 10"
+    },
+    {
+     "role": "footnote",
+     "text": "Peters, 286."
+    },
+    {
+     "role": "footnote",
+     "text": "A question, whether a plaintiff in ejectment shall be permitted to enlarge the term in the demise, is"
+    },
+    {
+     "role": "footnote",
+     "text": "one within the discretion of the court, to which the motion for the purpose is submitted; and it cannot be"
+    },
+    {
+     "role": "footnote",
+     "text": "certified to the supreme court, if the judges of the circuit court are divided in opinion.  Lanning's Les-"
+    },
+    {
+     "role": "footnote",
+     "text": "see v. Vaughan et al., 10 Peters, 366."
+    },
+    {
+     "role": "footnote",
+     "text": "Questions respecting the practice of the circuit court in equity cases, which depend on the sound dis-"
+    },
+    {
+     "role": "footnote",
+     "text": "cretion of the court, in the application of the rules which regulate the course of equity proceedings, to"
+    },
+    {
+     "role": "footnote",
+     "text": "the circumstances of such particular case; are not questions which can be certified, on a division of"
+    },
+    {
+     "role": "footnote",
+     "text": "opinion of the circuit court.  Packer v. Nixon, 10 Peters, 408."
+    },
+    {
+     "role": "footnote",
+     "text": "The questions certified to the supreme court were, whether, on certain facts which were in evidence"
+    },
+    {
+     "role": "footnote",
+     "text": "in the cause, the deed was admissible in evidence, under the acts of the legislatures of North Carolina"
+    },
+    {
+     "role": "footnote",
+     "text": "and Tennessee; and whether certain evidence, which was given on the trial, did or did not conduce to"
+    },
+    {
+     "role": "footnote",
+     "text": "prove that the defendants purchased under a particular person.  On these questions, the judges of the"
+    },
+    {
+     "role": "footnote",
+     "text": "circuit court of Tennessee were opposed in opinion; and the same were certified, and answered by the"
+    },
+    {
+     "role": "footnote",
+     "text": "supreme court.  Denn, Lessee of Scott v. Reid et al., 10 Peters, 524."
+    },
+    {
+     "role": "footnote",
+     "text": "An action of debt was instituted on an act of the legislature of New York, to recover certain penalties,"
+    },
+    {
+     "role": "footnote",
+     "text": "for bringing into the state of New York certain paupers, in violation of the provisions of the act.  The"
+    },
+    {
+     "role": "footnote",
+     "text": "declaration set out the law of New York, and the breach of its provisions, by the defendant.  The de-"
+    },
+    {
+     "role": "footnote",
+     "text": "fendant demurred to the declaration, and the plaintiff joined in the demurrer.  The judges of the circuit"
+    },
+    {
+     "role": "footnote",
+     "text": "court of the southern district of New York were opposed in opinion on the question; whether the act"
+    },
+    {
+     "role": "footnote",
+     "text": "of the legislature of New York, mentioned in the declaration, assumes to regulate commerce between"
+    },
+    {
+     "role": "footnote",
+     "text": "the port of New York and foreign ports.  This was certified to the supreme court.  City of New York v."
+    },
+    {
+     "role": "footnote",
+     "text": "Milne, 11 Peters, 102."
+    },
+    {
+     "role": "footnote",
+     "text": "The defendant was indicted for forging a bill of the Bank of the United States; and the judges of the"
+    },
+    {
+     "role": "footnote",
+     "text": "circuit court of the United States for the Pennsylvania district, being opposed in opinion, whether the"
+    },
+    {
+     "role": "footnote",
+     "text": "same was a bill of the Bank of the United States, according to the eighteenth section of the act, granting"
+    },
+    {
+     "role": "footnote",
+     "text": "a charter to the bank; the same, with the indictment, was certified to the supreme court for its decision."
+    },
+    {
+     "role": "footnote",
+     "text": "United States v. Brewster, 7 Peters, 164."
+    },
+    {
+     "role": "footnote",
+     "text": "The opinions of the judges of the circuit court of Pennsylvania were opposed in opinion, on a question"
+    },
+    {
+     "role": "footnote",
+     "text": "arising on a demurrer, by the United States, to a plea of autre fois acquit, to an indictment for passing a"
+    },
+    {
+     "role": "footnote",
+     "text": "counterfeit bank note of the Bank of the United States; and the same was certified to the supreme court."
+    },
+    {
+     "role": "footnote",
+     "text": "United States v. Randenbush, 8 Peters, 288."
+    },
+    {
+     "role": "footnote",
+     "text": "The judges of the circuit court of Massachusetts were opposed in opinion on five points which arose"
+    },
+    {
+     "role": "footnote",
+     "text": "on the trial, before a jury, of the cause; and they were, with all the evidence, certified to the supreme"
+    },
+    {
+     "role": "footnote",
+     "text": "court for its decision.  Carrington et al. v. The Merchants' Ins. Co., 8 Peters, 495."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7608,
+    "output_tokens": 3331,
+    "cache_read_input_tokens": 770,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.1217,
+   "seconds": 100.8,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "page-number",
+     "text": "162"
+    },
+    {
+     "role": "running-head",
+     "text": "SEVENTH CONGRESS.  SESS. I. CH. 31.  1802."
+    },
+    {
+     "role": "sidenote",
+     "text": "North Caroli-"
+    },
+    {
+     "role": "sidenote",
+     "text": "na district di-"
+    },
+    {
+     "role": "sidenote",
+     "text": "vided into three"
+    },
+    {
+     "role": "sidenote",
+     "text": "districts."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 7. And be it further enacted, That the district of North Caro-"
+    },
+    {
+     "role": "body",
+     "text": "lina shall be divided into three districts, one to consist of all that part"
+    },
+    {
+     "role": "body",
+     "text": "thereof which, by the laws of the state of North Carolina, now forms the"
+    },
+    {
+     "role": "body",
+     "text": "districts of Edenton and Halifax, which district shall be called the dis-"
+    },
+    {
+     "role": "footnote",
+     "text": "estate of a testator.  These questions were certified to the supreme court.  Backhouse v. Patton, 5"
+    },
+    {
+     "role": "footnote",
+     "text": "Peters, 160."
+    },
+    {
+     "role": "footnote",
+     "text": "In an action on a bond to the United States, the judges of the circuit court of Maryland were divided"
+    },
+    {
+     "role": "footnote",
+     "text": "in opinion as to the right of the plaintiffs to recover against the defendants as sureties for a debt due to"
+    },
+    {
+     "role": "footnote",
+     "text": "the United States, by the Bank of Somerset.  United States v. Robertson, 5 Peters, 641."
+    },
+    {
+     "role": "footnote",
+     "text": "An action of debt was brought on a promissory note in the circuit court for the district of West Ten-"
+    },
+    {
+     "role": "footnote",
+     "text": "nessee, and the judges of the court were opposed in opinion on questions which arose on the plaintiff's"
+    },
+    {
+     "role": "footnote",
+     "text": "demurrers to the defendant's pleas; and also whether the averment of the citizenship of some of the"
+    },
+    {
+     "role": "footnote",
+     "text": "parties to the suit was sufficient.  A certificate of this division of opinion was, by the direction of the"
+    },
+    {
+     "role": "footnote",
+     "text": "circuit court, made to the supreme court, according to law.  Kirkman v. Hamilton, 6 Peters, 20."
+    },
+    {
+     "role": "footnote",
+     "text": "The judges of the circuit court of North Carolina were opposed in opinion, on a question, whether"
+    },
+    {
+     "role": "footnote",
+     "text": "the priority to which the United States are entitled in case of a general assignment made by a debtor,"
+    },
+    {
+     "role": "footnote",
+     "text": "comprehends a bond for duties executed anterior to the assignment, but not payable until after the same."
+    },
+    {
+     "role": "footnote",
+     "text": "The question was certified to the supreme court.  United States v. The State Bank of North Carolina, 6"
+    },
+    {
+     "role": "footnote",
+     "text": "Peters, 29."
+    },
+    {
+     "role": "footnote",
+     "text": "In this case the defendant was indicted and convicted of robbing the United States' mail, and being"
+    },
+    {
+     "role": "footnote",
+     "text": "pardoned by the President of the United States, a question arose in the circuit court of the United States,"
+    },
+    {
+     "role": "footnote",
+     "text": "whether the defendant should plead the pardon.  On this question the judges of the court were opposed"
+    },
+    {
+     "role": "footnote",
+     "text": "in opinion, and the question was certified to the supreme court, for its decision.  United States v. Wilson,"
+    },
+    {
+     "role": "footnote",
+     "text": "7 Peters, 150."
+    },
+    {
+     "role": "footnote",
+     "text": "This case was submitted to the circuit court, on a statement of facts agreed upon by the counsel of the"
+    },
+    {
+     "role": "footnote",
+     "text": "plaintiff, and the district attorney of the United States.  The whole of the agreed facts were sent up with"
+    },
+    {
+     "role": "footnote",
+     "text": "the record.  Upon the trial and statement of facts in the cause, certain questions had occurred, on which"
+    },
+    {
+     "role": "footnote",
+     "text": "the opinions of the judges were opposed; and the points of disagreement were certified to the supreme"
+    },
+    {
+     "role": "footnote",
+     "text": "court for their decision.  The court decided on all the questions certified, with one exception.  Harris v."
+    },
+    {
+     "role": "footnote",
+     "text": "Elliott, 10 Peters, 25."
+    },
+    {
+     "role": "footnote",
+     "text": "An action of assumpsit was commenced by the plaintiff against the collector of the port of New York,"
+    },
+    {
+     "role": "footnote",
+     "text": "to recover a sum paid to him for duties on certain goods; the goods not being liable, under the law, to"
+    },
+    {
+     "role": "footnote",
+     "text": "the duties charged by the collector.  On the trial of the cause, the judges of the circuit court of the"
+    },
+    {
+     "role": "footnote",
+     "text": "southern district of New York were opposed in opinion, as to the construction of the act of Con-"
+    },
+    {
+     "role": "footnote",
+     "text": "gress, by which the duties were claimed; and being so opposed in opinion, the question as to the"
+    },
+    {
+     "role": "footnote",
+     "text": "construction of the law was certified to the supreme court for decision.  Elliott v. Swartwout, 10 Peters,"
+    },
+    {
+     "role": "footnote",
+     "text": "137."
+    },
+    {
+     "role": "footnote",
+     "text": "An action of detinue was instituted in the circuit court of West Tennessee, to recover a slave.  Dur-"
+    },
+    {
+     "role": "footnote",
+     "text": "ing the progress of the suit, the defendant died; and his personal representative moved to dismiss"
+    },
+    {
+     "role": "footnote",
+     "text": "the suit, on the ground that it did not survive.  On this motion, the judges of the court were divided"
+    },
+    {
+     "role": "footnote",
+     "text": "in opinion; and the same was certified, for its decision, to the supreme court.  Davis v. Braden, 10"
+    },
+    {
+     "role": "footnote",
+     "text": "Peters, 286."
+    },
+    {
+     "role": "footnote",
+     "text": "A question, whether a plaintiff in ejectment shall be permitted to enlarge the term in the demise, is"
+    },
+    {
+     "role": "footnote",
+     "text": "one within the discretion of the court, to which the motion for the purpose is submitted; and it cannot be"
+    },
+    {
+     "role": "footnote",
+     "text": "certified to the supreme court, if the judges of the circuit court are divided in opinion.  Lanning's Les-"
+    },
+    {
+     "role": "footnote",
+     "text": "see v. Vaughan et al., 10 Peters, 366."
+    },
+    {
+     "role": "footnote",
+     "text": "Questions respecting the practice of the circuit court in equity cases, which depend on the sound dis-"
+    },
+    {
+     "role": "footnote",
+     "text": "cretion of the court, in the application of the rules which regulate the course of equity proceedings, to"
+    },
+    {
+     "role": "footnote",
+     "text": "the circumstances of such particular case; are not questions which can be certified, on a division of"
+    },
+    {
+     "role": "footnote",
+     "text": "opinion of the circuit court.  Packer v. Nixon, 10 Peters, 408."
+    },
+    {
+     "role": "footnote",
+     "text": "The questions certified to the supreme court were, whether, on certain facts which were in evidence"
+    },
+    {
+     "role": "footnote",
+     "text": "in the cause, the deed was admissible in evidence, under the acts of the legislatures of North Carolina"
+    },
+    {
+     "role": "footnote",
+     "text": "and Tennessee; and whether certain evidence, which was given on the trial, did or did not conduce to"
+    },
+    {
+     "role": "footnote",
+     "text": "prove that the defendants purchased under a particular person.  On these questions, the judges of the"
+    },
+    {
+     "role": "footnote",
+     "text": "circuit court of Tennessee were opposed in opinion; and the same were certified, and answered by the"
+    },
+    {
+     "role": "footnote",
+     "text": "supreme court.  Denn, Lessee of Scott v. Reid et al., 10 Peters, 524."
+    },
+    {
+     "role": "footnote",
+     "text": "An action of debt was instituted on an act of the legislature of New York, to recover certain penalties,"
+    },
+    {
+     "role": "footnote",
+     "text": "for bringing into the state of New York certain paupers, in violation of the provisions of the act.  The"
+    },
+    {
+     "role": "footnote",
+     "text": "declaration set out the law of New York, and the breach of its provisions, by the defendant.  The de-"
+    },
+    {
+     "role": "footnote",
+     "text": "fendant demurred to the declaration, and the plaintiff joined in the demurrer.  The judges of the circuit"
+    },
+    {
+     "role": "footnote",
+     "text": "court of the southern district of New York were opposed in opinion on the question; whether the act"
+    },
+    {
+     "role": "footnote",
+     "text": "of the legislature of New York, mentioned in the declaration, assumes to regulate commerce between"
+    },
+    {
+     "role": "footnote",
+     "text": "the port of New York and foreign ports.  This was certified to the supreme court.  City of New York v."
+    },
+    {
+     "role": "footnote",
+     "text": "Milne, 11 Peters, 102."
+    },
+    {
+     "role": "footnote",
+     "text": "The defendant was indicted for forging a bill of the Bank of the United States; and the judges of the"
+    },
+    {
+     "role": "footnote",
+     "text": "circuit court of the United States for the Pennsylvania district, being opposed in opinion, whether the"
+    },
+    {
+     "role": "footnote",
+     "text": "same was a bill of the Bank of the United States, according to the eighteenth section of the act, granting"
+    },
+    {
+     "role": "footnote",
+     "text": "a charter to the bank; the same, with the indictment, was certified to the supreme court for its decision."
+    },
+    {
+     "role": "footnote",
+     "text": "United States v. Brewster, 7 Peters, 164."
+    },
+    {
+     "role": "footnote",
+     "text": "The opinions of the judges of the circuit court of Pennsylvania were opposed in opinion, on a question"
+    },
+    {
+     "role": "footnote",
+     "text": "arising on a demurrer, by the United States, to a plea of autre fois acquit, to an indictment for passing a"
+    },
+    {
+     "role": "footnote",
+     "text": "counterfeit bank note of the Bank of the United States; and the same was certified to the supreme court."
+    },
+    {
+     "role": "footnote",
+     "text": "United States v. Randenbush, 8 Peters, 288."
+    },
+    {
+     "role": "footnote",
+     "text": "The judges of the circuit court of Massachusetts were opposed in opinion on five points which arose"
+    },
+    {
+     "role": "footnote",
+     "text": "on the trial, before a jury, of the cause; and they were, with all the evidence, certified to the supreme"
+    },
+    {
+     "role": "footnote",
+     "text": "court for its decision.  Carrington et al. v. The Merchants' Ins. Co., 8 Peters, 495."
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 7611,
+    "output_tokens": 3341,
+    "cache_read_input_tokens": 712,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.12194,
+   "seconds": 46.4,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "disagreements": [
+   {
+    "a": "162                    SEVENTH CONGRESS.  SESS. I. CH. 31.   1802.",
+    "b": "162 / SEVENTH CONGRESS.  SESS. I. CH. 31.  1802. (split into page-number + running-head)",
+    "kept": "162                    SEVENTH CONGRESS.  SESS. I. CH. 31.   1802.",
+    "reason": "The page number is printed on the same line as the running head, so it is kept as one running-head line rather than split into a standalone page-number line."
+   },
+   {
+    "a": "SEC. 7.  And be it further enacted, That the district of North Caro-",
+    "b": "SEC. 7. And be it further enacted, That the district of North Caro-",
+    "kept": "SEC. 7. And be it further enacted, That the district of North Caro-",
+    "reason": "Image shows ordinary single word space after 'SEC. 7.' before the italic phrase."
+   },
+   {
+    "a": "construction of the law  was certified to the supreme court for decision.  Elliott v. Swartwout, 10 Peters,",
+    "b": "construction of the law was certified to the supreme court for decision.  Elliott v. Swartwout, 10 Peters,",
+    "kept": "construction of the law  was certified to the supreme court for decision.  Elliott v. Swartwout, 10 Peters,",
+    "reason": "Image shows a visibly wider gap between 'law' and 'was' on this justified line, as in A."
+   }
+  ],
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 13518,
+   "output_tokens": 4557,
+   "cache_read_input_tokens": 885,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.18196,
+  "seconds": 55.1,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "high",
+  "reinserted": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "162                    SEVENTH CONGRESS.  SESS. I. CH. 31.   1802."
+  },
+  {
+   "role": "sidenote",
+   "text": "North Caroli-"
+  },
+  {
+   "role": "sidenote",
+   "text": "na district di-"
+  },
+  {
+   "role": "sidenote",
+   "text": "vided into three"
+  },
+  {
+   "role": "sidenote",
+   "text": "districts."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 7. And be it further enacted, That the district of North Caro-"
+  },
+  {
+   "role": "body",
+   "text": "lina shall be divided into three districts, one to consist of all that part"
+  },
+  {
+   "role": "body",
+   "text": "thereof which, by the laws of the state of North Carolina, now forms the"
+  },
+  {
+   "role": "body",
+   "text": "districts of Edenton and Halifax, which district shall be called the dis-"
+  },
+  {
+   "role": "footnote",
+   "text": "estate of a testator.  These questions were certified to the supreme court.  Backhouse v. Patton, 5"
+  },
+  {
+   "role": "footnote",
+   "text": "Peters, 160."
+  },
+  {
+   "role": "footnote",
+   "text": "In an action on a bond to the United States, the judges of the circuit court of Maryland were divided"
+  },
+  {
+   "role": "footnote",
+   "text": "in opinion as to the right of the plaintiffs to recover against the defendants as sureties for a debt due to"
+  },
+  {
+   "role": "footnote",
+   "text": "the United States, by the Bank of Somerset.  United States v. Robertson, 5 Peters, 641."
+  },
+  {
+   "role": "footnote",
+   "text": "An action of debt was brought on a promissory note in the circuit court for the district of West Ten-"
+  },
+  {
+   "role": "footnote",
+   "text": "nessee, and the judges of the court were opposed in opinion on questions which arose on the plaintiff's"
+  },
+  {
+   "role": "footnote",
+   "text": "demurrers to the defendant's pleas; and also whether the averment of the citizenship of some of the"
+  },
+  {
+   "role": "footnote",
+   "text": "parties to the suit was sufficient.  A certificate of this division of opinion was, by the direction of the"
+  },
+  {
+   "role": "footnote",
+   "text": "circuit court, made to the supreme court, according to law.  Kirkman v. Hamilton, 6 Peters, 20."
+  },
+  {
+   "role": "footnote",
+   "text": "The judges of the circuit court of North Carolina were opposed in opinion, on a question, whether"
+  },
+  {
+   "role": "footnote",
+   "text": "the priority to which the United States are entitled in case of a general assignment made by a debtor,"
+  },
+  {
+   "role": "footnote",
+   "text": "comprehends a bond for duties executed anterior to the assignment, but not payable until after the same."
+  },
+  {
+   "role": "footnote",
+   "text": "The question was certified to the supreme court.  United States v. The State Bank of North Carolina, 6"
+  },
+  {
+   "role": "footnote",
+   "text": "Peters, 29."
+  },
+  {
+   "role": "footnote",
+   "text": "In this case the defendant was indicted and convicted of robbing the United States' mail, and being"
+  },
+  {
+   "role": "footnote",
+   "text": "pardoned by the President of the United States, a question arose in the circuit court of the United States,"
+  },
+  {
+   "role": "footnote",
+   "text": "whether the defendant should plead the pardon.  On this question the judges of the court were opposed"
+  },
+  {
+   "role": "footnote",
+   "text": "in opinion, and the question was certified to the supreme court, for its decision.  United States v. Wilson,"
+  },
+  {
+   "role": "footnote",
+   "text": "7 Peters, 150."
+  },
+  {
+   "role": "footnote",
+   "text": "This case was submitted to the circuit court, on a statement of facts agreed upon by the counsel of the"
+  },
+  {
+   "role": "footnote",
+   "text": "plaintiff, and the district attorney of the United States.  The whole of the agreed facts were sent up with"
+  },
+  {
+   "role": "footnote",
+   "text": "the record.  Upon the trial and statement of facts in the cause, certain questions had occurred, on which"
+  },
+  {
+   "role": "footnote",
+   "text": "the opinions of the judges were opposed; and the points of disagreement were certified to the supreme"
+  },
+  {
+   "role": "footnote",
+   "text": "court for their decision.  The court decided on all the questions certified, with one exception.  Harris v."
+  },
+  {
+   "role": "footnote",
+   "text": "Elliott, 10 Peters, 25."
+  },
+  {
+   "role": "footnote",
+   "text": "An action of assumpsit was commenced by the plaintiff against the collector of the port of New York,"
+  },
+  {
+   "role": "footnote",
+   "text": "to recover a sum paid to him for duties on certain goods; the goods not being liable, under the law, to"
+  },
+  {
+   "role": "footnote",
+   "text": "the duties charged by the collector.  On the trial of the cause, the judges of the circuit court of the"
+  },
+  {
+   "role": "footnote",
+   "text": "southern district of New York were opposed in opinion, as to the construction of the act of Con-"
+  },
+  {
+   "role": "footnote",
+   "text": "gress, by which the duties were claimed; and being so opposed in opinion, the question as to the"
+  },
+  {
+   "role": "footnote",
+   "text": "construction of the law  was certified to the supreme court for decision.  Elliott v. Swartwout, 10 Peters,"
+  },
+  {
+   "role": "footnote",
+   "text": "137."
+  },
+  {
+   "role": "footnote",
+   "text": "An action of detinue was instituted in the circuit court of West Tennessee, to recover a slave.  Dur-"
+  },
+  {
+   "role": "footnote",
+   "text": "ing the progress of the suit, the defendant died; and his personal representative moved to dismiss"
+  },
+  {
+   "role": "footnote",
+   "text": "the suit, on the ground that it did not survive.  On this motion, the judges of the court were divided"
+  },
+  {
+   "role": "footnote",
+   "text": "in opinion; and the same was certified, for its decision, to the supreme court.  Davis v. Braden, 10"
+  },
+  {
+   "role": "footnote",
+   "text": "Peters, 286."
+  },
+  {
+   "role": "footnote",
+   "text": "A question, whether a plaintiff in ejectment shall be permitted to enlarge the term in the demise, is"
+  },
+  {
+   "role": "footnote",
+   "text": "one within the discretion of the court, to which the motion for the purpose is submitted; and it cannot be"
+  },
+  {
+   "role": "footnote",
+   "text": "certified to the supreme court, if the judges of the circuit court are divided in opinion.  Lanning's Les-"
+  },
+  {
+   "role": "footnote",
+   "text": "see v. Vaughan et al., 10 Peters, 366."
+  },
+  {
+   "role": "footnote",
+   "text": "Questions respecting the practice of the circuit court in equity cases, which depend on the sound dis-"
+  },
+  {
+   "role": "footnote",
+   "text": "cretion of the court, in the application of the rules which regulate the course of equity proceedings, to"
+  },
+  {
+   "role": "footnote",
+   "text": "the circumstances of such particular case; are not questions which can be certified, on a division of"
+  },
+  {
+   "role": "footnote",
+   "text": "opinion of the circuit court.  Packer v. Nixon, 10 Peters, 408."
+  },
+  {
+   "role": "footnote",
+   "text": "The questions certified to the supreme court were, whether, on certain facts which were in evidence"
+  },
+  {
+   "role": "footnote",
+   "text": "in the cause, the deed was admissible in evidence, under the acts of the legislatures of North Carolina"
+  },
+  {
+   "role": "footnote",
+   "text": "and Tennessee; and whether certain evidence, which was given on the trial, did or did not conduce to"
+  },
+  {
+   "role": "footnote",
+   "text": "prove that the defendants purchased under a particular person.  On these questions, the judges of the"
+  },
+  {
+   "role": "footnote",
+   "text": "circuit court of Tennessee were opposed in opinion; and the same were certified, and answered by the"
+  },
+  {
+   "role": "footnote",
+   "text": "supreme court.  Denn, Lessee of Scott v. Reid et al., 10 Peters, 524."
+  },
+  {
+   "role": "footnote",
+   "text": "An action of debt was instituted on an act of the legislature of New York, to recover certain penalties,"
+  },
+  {
+   "role": "footnote",
+   "text": "for bringing into the state of New York certain paupers, in violation of the provisions of the act.  The"
+  },
+  {
+   "role": "footnote",
+   "text": "declaration set out the law of New York, and the breach of its provisions, by the defendant.  The de-"
+  },
+  {
+   "role": "footnote",
+   "text": "fendant demurred to the declaration, and the plaintiff joined in the demurrer.  The judges of the circuit"
+  },
+  {
+   "role": "footnote",
+   "text": "court of the southern district of New York were opposed in opinion on the question; whether the act"
+  },
+  {
+   "role": "footnote",
+   "text": "of the legislature of New York, mentioned in the declaration, assumes to regulate commerce between"
+  },
+  {
+   "role": "footnote",
+   "text": "the port of New York and foreign ports.  This was certified to the supreme court.  City of New York v."
+  },
+  {
+   "role": "footnote",
+   "text": "Milne, 11 Peters, 102."
+  },
+  {
+   "role": "footnote",
+   "text": "The defendant was indicted for forging a bill of the Bank of the United States; and the judges of the"
+  },
+  {
+   "role": "footnote",
+   "text": "circuit court of the United States for the Pennsylvania district, being opposed in opinion, whether the"
+  },
+  {
+   "role": "footnote",
+   "text": "same was a bill of the Bank of the United States, according to the eighteenth section of the act, granting"
+  },
+  {
+   "role": "footnote",
+   "text": "a charter to the bank; the same, with the indictment, was certified to the supreme court for its decision."
+  },
+  {
+   "role": "footnote",
+   "text": "United States v. Brewster, 7 Peters, 164."
+  },
+  {
+   "role": "footnote",
+   "text": "The opinions of the judges of the circuit court of Pennsylvania were opposed in opinion, on a question"
+  },
+  {
+   "role": "footnote",
+   "text": "arising on a demurrer, by the United States, to a plea of autre fois acquit, to an indictment for passing a"
+  },
+  {
+   "role": "footnote",
+   "text": "counterfeit bank note of the Bank of the United States; and the same was certified to the supreme court."
+  },
+  {
+   "role": "footnote",
+   "text": "United States v. Randenbush, 8 Peters, 288."
+  },
+  {
+   "role": "footnote",
+   "text": "The judges of the circuit court of Massachusetts were opposed in opinion on five points which arose"
+  },
+  {
+   "role": "footnote",
+   "text": "on the trial, before a jury, of the cause; and they were, with all the evidence, certified to the supreme"
+  },
+  {
+   "role": "footnote",
+   "text": "court for its decision.  Carrington et al. v. The Merchants' Ins. Co., 8 Peters, 495."
+  }
+ ],
+ "disagreement_count": 1,
+ "tokens": {
+  "input_tokens": 28737,
+  "output_tokens": 11229,
+  "cache_read_input_tokens": 2367,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.4256,
+ "seconds": 202.3,
+ "created": "2026-09-08T10:49:13"
+}

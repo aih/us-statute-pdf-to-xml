@@ -1,0 +1,1150 @@
+{
+ "granule_id": "STATUTE-5-Pg491-2",
+ "package_id": "STATUTE-5",
+ "volume": 5,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act confirming certain land claims in Louisiana.",
+ "date_issued": "1842-07-06",
+ "pdf_page": 3,
+ "pdf_pages": 3,
+ "stat_page": "493",
+ "image": "data/gold/STATUTE-5-Pg491-2/p3.png",
+ "image_sha256": "c43a08420ce5657f5a04737f08fa952d58f1150dba57de07ddb9b69ffd168485",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "TWENTY-SEVENTH CONGRESS.  SESS. II. CH. 64.  1842."
+    },
+    {
+     "role": "page-number",
+     "text": "493"
+    },
+    {
+     "role": "body",
+     "text": "office at Opelousas, dated the thirtieth May and sixth June, eighteen"
+    },
+    {
+     "role": "sidenote",
+     "text": "1835, ch. 17."
+    },
+    {
+     "role": "body",
+     "text": "hundred and forty, made under the provisions of the act of eighteen"
+    },
+    {
+     "role": "body",
+     "text": "hundred and thirty-five, aforesaid, be, and the same are hereby, con-"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "firmed : Provided, That the Commissioner of the General Land Office"
+    },
+    {
+     "role": "body",
+     "text": "shall cause a further investigation to be made, and further evidence to"
+    },
+    {
+     "role": "body",
+     "text": "be taken, in relation to claim number one hundred and sixty-one of said"
+    },
+    {
+     "role": "body",
+     "text": "report; and should it appear that the original claimants actually inhab-"
+    },
+    {
+     "role": "body",
+     "text": "ited and cultivated the lands claimed on and prior to the twenty-second"
+    },
+    {
+     "role": "body",
+     "text": "day of February, eighteen hundred and nineteen, then and in that case,"
+    },
+    {
+     "role": "body",
+     "text": "the same shall be confirmed, by and with the approbation of the Secre-"
+    },
+    {
+     "role": "body",
+     "text": "tary of the Treasury."
+    },
+    {
+     "role": "sidenote",
+     "text": "Other claims"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 8. And be it further enacted, That the following claims in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "confirmed."
+    },
+    {
+     "role": "body",
+     "text": "said reports of the register and receiver of the land office at Opelousas"
+    },
+    {
+     "role": "body",
+     "text": "be, and the same are hereby, confirmed, as follows, to wit :  Number"
+    },
+    {
+     "role": "body",
+     "text": "twenty-nine, to the legal representatives of Joseph Maritaurus ; number"
+    },
+    {
+     "role": "body",
+     "text": "forty-six, to the extent contained in a league square ; number forty-nine,"
+    },
+    {
+     "role": "body",
+     "text": "for six hundred and forty acres, to the legal representatives of Bernard"
+    },
+    {
+     "role": "body",
+     "text": "Lacroix ; number fifty-four, to the legal representatives of J. Baptiste"
+    },
+    {
+     "role": "body",
+     "text": "Vallery ; number seventy-eight, for six hundred and forty acres, to One-"
+    },
+    {
+     "role": "body",
+     "text": "zime Guedry, assignee of Nicholas Provost, and six hundred and forty"
+    },
+    {
+     "role": "body",
+     "text": "acres to the legal heirs and representatives of Daniel Guedry and Jean"
+    },
+    {
+     "role": "body",
+     "text": "Mouton, senior ; number ninety-one, for so much as will, with the quan-"
+    },
+    {
+     "role": "body",
+     "text": "tity heretofore confirmed, make the quantity of one league front by the"
+    },
+    {
+     "role": "body",
+     "text": "depth of forty arpens ; number ninety-nine, for six hundred and forty"
+    },
+    {
+     "role": "body",
+     "text": "acres, to embrace the residence and improvements of Hugh Mulhollan on"
+    },
+    {
+     "role": "body",
+     "text": "and previous to the twentieth day of December, eighteen hundred and"
+    },
+    {
+     "role": "body",
+     "text": "three ; number one hundred and fourteen, to the legal representatives"
+    },
+    {
+     "role": "body",
+     "text": "of Andre Dumas ; number one hundred and fifty-four, to the legal repre-"
+    },
+    {
+     "role": "body",
+     "text": "sentatives of Antonio Mora ; number one hundred and fifty-eight, to the"
+    },
+    {
+     "role": "body",
+     "text": "legal representatives of Louis Frizzini ; number one hundred and sixty-"
+    },
+    {
+     "role": "body",
+     "text": "seven, to Jacob Wallace or his legal representatives."
+    },
+    {
+     "role": "sidenote",
+     "text": "Certain provi-"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 9. And be it further enacted, That the provisions of the two"
+    },
+    {
+     "role": "sidenote",
+     "text": "sions of the two"
+    },
+    {
+     "role": "body",
+     "text": "preceding sections of this act, which confirm donation claims situate"
+    },
+    {
+     "role": "sidenote",
+     "text": "preceding sec-"
+    },
+    {
+     "role": "body",
+     "text": "in that part of said land district known as the \" neutral territory,\""
+    },
+    {
+     "role": "sidenote",
+     "text": "tions not to ex-"
+    },
+    {
+     "role": "body",
+     "text": "shall not be regarded as extending to any lands which are held by any"
+    },
+    {
+     "role": "sidenote",
+     "text": "tend to lands"
+    },
+    {
+     "role": "body",
+     "text": "person by virtue of any bona fide French or Spanish grant, warrant, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "held under cer-"
+    },
+    {
+     "role": "body",
+     "text": "order of survey, made prior to the twentieth of December, eighteen"
+    },
+    {
+     "role": "sidenote",
+     "text": "tain French or"
+    },
+    {
+     "role": "body",
+     "text": "hundred and three, heretofore filed, according to law, with any register,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Spanish grants,"
+    },
+    {
+     "role": "body",
+     "text": "or commissioner, or register and receiver of said district : Provided,"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "body",
+     "text": "That the confirmations made by virtue of the two preceding sections"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "shall only operate as a relinquishment of the right of the United States,"
+    },
+    {
+     "role": "body",
+     "text": "and shall not affect the right of third persons, nor preclude a judicial"
+    },
+    {
+     "role": "body",
+     "text": "decision between private claimants for the same land ; and on the pre-"
+    },
+    {
+     "role": "body",
+     "text": "sentation, to the Commissioner of the General Land Office of a plat of"
+    },
+    {
+     "role": "body",
+     "text": "survey, duly approved by the surveyor general of Louisiana, the claim-"
+    },
+    {
+     "role": "body",
+     "text": "ant shall be entitled to a patent."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 6, 1842."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXIV.—An Act making appropriations for the current and contingent ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "July 17, 1842."
+    },
+    {
+     "role": "body",
+     "text": "penses of the Indian Department, and for fulfilling treaty stipulations with the"
+    },
+    {
+     "role": "body",
+     "text": "various Indian tribes, for the year one thousand eight hundred and forty-two."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the following"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropria-"
+    },
+    {
+     "role": "body",
+     "text": "sums be, and they are hereby, appropriated, for the year one thousand"
+    },
+    {
+     "role": "sidenote",
+     "text": "tions."
+    },
+    {
+     "role": "body",
+     "text": "eight hundred and forty-two, for the purpose of paying the current ex-"
+    },
+    {
+     "role": "body",
+     "text": "penses of the Indian department, fulfilling treaty stipulations with the"
+    },
+    {
+     "role": "body",
+     "text": "various Indian tribes, and contingent expenses, to be paid out of any"
+    },
+    {
+     "role": "body",
+     "text": "money in the Treasury not otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "2 R"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2438,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08838,
+   "seconds": 86.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "TWENTY-SEVENTH CONGRESS.  SESS. II.  CH. 64.  1842."
+    },
+    {
+     "role": "page-number",
+     "text": "493"
+    },
+    {
+     "role": "body",
+     "text": "office at Opelousas, dated the thirtieth May and sixth June, eighteen"
+    },
+    {
+     "role": "body",
+     "text": "hundred and forty, made under the provisions of the act of eighteen"
+    },
+    {
+     "role": "sidenote",
+     "text": "1835, ch. 17."
+    },
+    {
+     "role": "body",
+     "text": "hundred and thirty-five, aforesaid, be, and the same are hereby, con-"
+    },
+    {
+     "role": "body",
+     "text": "firmed : Provided, That the Commissioner of the General Land Office"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "shall cause a further investigation to be made, and further evidence to"
+    },
+    {
+     "role": "body",
+     "text": "be taken, in relation to claim number one hundred and sixty-one of said"
+    },
+    {
+     "role": "body",
+     "text": "report; and should it appear that the original claimants actually inhab-"
+    },
+    {
+     "role": "body",
+     "text": "ited and cultivated the lands claimed on and prior to the twenty-second"
+    },
+    {
+     "role": "body",
+     "text": "day of February, eighteen hundred and nineteen, then and in that case,"
+    },
+    {
+     "role": "body",
+     "text": "the same shall be confirmed, by and with the approbation of the Secre-"
+    },
+    {
+     "role": "body",
+     "text": "tary of the Treasury."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 8. And be it further enacted, That the following claims in the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Other claims"
+    },
+    {
+     "role": "body",
+     "text": "said reports of the register and receiver of the land office at Opelousas"
+    },
+    {
+     "role": "sidenote",
+     "text": "confirmed."
+    },
+    {
+     "role": "body",
+     "text": "be, and the same are hereby, confirmed, as follows, to wit :  Number"
+    },
+    {
+     "role": "body",
+     "text": "twenty-nine, to the legal representatives of Joseph Maritaurus ; number"
+    },
+    {
+     "role": "body",
+     "text": "forty-six, to the extent contained in a league square ; number forty-nine,"
+    },
+    {
+     "role": "body",
+     "text": "for six hundred and forty acres, to the legal representatives of Bernard"
+    },
+    {
+     "role": "body",
+     "text": "Lacroix ; number fifty-four, to the legal representatives of J. Baptiste"
+    },
+    {
+     "role": "body",
+     "text": "Vallery ; number seventy-eight, for six hundred and forty acres, to One-"
+    },
+    {
+     "role": "body",
+     "text": "zime Guedry, assignee of Nicholas Provost, and six hundred and forty"
+    },
+    {
+     "role": "body",
+     "text": "acres to the legal heirs and representatives of Daniel Guedry and Jean"
+    },
+    {
+     "role": "body",
+     "text": "Mouton, senior; number ninety-one, for so much as will, with the quan-"
+    },
+    {
+     "role": "body",
+     "text": "tity heretofore confirmed, make the quantity of one league front by the"
+    },
+    {
+     "role": "body",
+     "text": "depth of forty arpens ; number ninety-nine, for six hundred and forty"
+    },
+    {
+     "role": "body",
+     "text": "acres, to embrace the residence and improvements of Hugh Mulhollan on"
+    },
+    {
+     "role": "body",
+     "text": "and previous to the twentieth day of December, eighteen hundred and"
+    },
+    {
+     "role": "body",
+     "text": "three ; number one hundred and fourteen, to the legal representatives"
+    },
+    {
+     "role": "body",
+     "text": "of Andre Dumas ; number one hundred and fifty-four, to the legal repre-"
+    },
+    {
+     "role": "body",
+     "text": "sentatives of Antonio Mora ; number one hundred and fifty-eight, to the"
+    },
+    {
+     "role": "body",
+     "text": "legal representatives of Louis Frizzini ; number one hundred and sixty-"
+    },
+    {
+     "role": "body",
+     "text": "seven, to Jacob Wallace or his legal representatives."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 9. And be it further enacted, That the provisions of the two"
+    },
+    {
+     "role": "sidenote",
+     "text": "Certain provi-"
+    },
+    {
+     "role": "body",
+     "text": "preceding sections of this act, which confirm donation claims situate"
+    },
+    {
+     "role": "sidenote",
+     "text": "sions of the two"
+    },
+    {
+     "role": "body",
+     "text": "in that part of said land district known as the \" neutral territory,\""
+    },
+    {
+     "role": "sidenote",
+     "text": "preceding sec-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tions not to ex-"
+    },
+    {
+     "role": "body",
+     "text": "shall not be regarded as extending to any lands which are held by any"
+    },
+    {
+     "role": "sidenote",
+     "text": "tend to lands"
+    },
+    {
+     "role": "body",
+     "text": "person by virtue of any bona fide French or Spanish grant, warrant, or"
+    },
+    {
+     "role": "sidenote",
+     "text": "held under cer-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tain French or"
+    },
+    {
+     "role": "body",
+     "text": "order of survey, made prior to the twentieth of December, eighteen"
+    },
+    {
+     "role": "sidenote",
+     "text": "Spanish grants,"
+    },
+    {
+     "role": "body",
+     "text": "hundred and three, heretofore filed, according to law, with any register,"
+    },
+    {
+     "role": "sidenote",
+     "text": "&c."
+    },
+    {
+     "role": "body",
+     "text": "or commissioner, or register and receiver of said district : Provided,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Proviso."
+    },
+    {
+     "role": "body",
+     "text": "That the confirmations made by virtue of the two preceding sections"
+    },
+    {
+     "role": "body",
+     "text": "shall only operate as a relinquishment of the right of the United States,"
+    },
+    {
+     "role": "body",
+     "text": "and shall not affect the right of third persons, nor preclude a judicial"
+    },
+    {
+     "role": "body",
+     "text": "decision between private claimants for the same land ; and on the pre-"
+    },
+    {
+     "role": "body",
+     "text": "sentation, to the Commissioner of the General Land Office of a plat of"
+    },
+    {
+     "role": "body",
+     "text": "survey, duly approved by the surveyor general of Louisiana, the claim-"
+    },
+    {
+     "role": "body",
+     "text": "ant shall be entitled to a patent."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, July 6, 1842."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE II."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. LXIV.—An Act making appropriations for the current and contingent ex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "July 17, 1842."
+    },
+    {
+     "role": "body",
+     "text": "penses of the Indian Department, and for fulfilling treaty stipulations with the"
+    },
+    {
+     "role": "body",
+     "text": "various Indian tribes, for the year one thousand eight hundred and forty-two."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That the following"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropria-"
+    },
+    {
+     "role": "body",
+     "text": "sums be, and they are hereby, appropriated, for the year one thousand"
+    },
+    {
+     "role": "sidenote",
+     "text": "tions."
+    },
+    {
+     "role": "body",
+     "text": "eight hundred and forty-two, for the purpose of paying the current ex-"
+    },
+    {
+     "role": "body",
+     "text": "penses of the Indian department, fulfilling treaty stipulations with the"
+    },
+    {
+     "role": "body",
+     "text": "various Indian tribes, and contingent expenses, to be paid out of any"
+    },
+    {
+     "role": "body",
+     "text": "money in the Treasury not otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "2 R"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2438,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08838,
+   "seconds": 99.1,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12514,
+   "output_tokens": 3107,
+   "cache_read_input_tokens": 0,
+   "cache_creation_input_tokens": 833
+  },
+  "cost_usd": 0.14545,
+  "seconds": 71.4,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "hundred and forty, made under the provisions of the act of eighteen",
+    "kept": "hundred and forty, made under the provisions of the act of eighteen",
+    "reason": "The body line comes first in reading order; the sidenote \"1835, ch. 17.\" sits to its right and follows it."
+   },
+   {
+    "run": 2,
+    "a": "hundred and forty, made under the provisions of the act of eighteen",
+    "b": "",
+    "kept": "",
+    "reason": "This body line is already placed in run 1; nothing additional is printed here."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "firmed : Provided, That the Commissioner of the General Land Office",
+    "kept": "firmed : Provided, That the Commissioner of the General Land Office",
+    "reason": "The sidenote \"Proviso.\" aligns with this line and so follows it in reading order."
+   },
+   {
+    "run": 4,
+    "a": "firmed : Provided, That the Commissioner of the General Land Office",
+    "b": "",
+    "kept": "",
+    "reason": "This body line was already placed in run 3."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "SEC. 8. And be it further enacted, That the following claims in the",
+    "kept": "SEC. 8. And be it further enacted, That the following claims in the",
+    "reason": "Sidenote \"Other claims\" is level with this line and follows it."
+   },
+   {
+    "run": 6,
+    "a": "SEC. 8. And be it further enacted, That the following claims in the",
+    "b": "said reports of the register and receiver of the land office at Opelousas",
+    "kept": "said reports of the register and receiver of the land office at Opelousas",
+    "reason": "After the sidenote \"Other claims\" the next printed body line is this one, with \"confirmed.\" beside it."
+   },
+   {
+    "run": 7,
+    "a": "said reports of the register and receiver of the land office at Opelousas",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 6."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "SEC. 9. And be it further enacted, That the provisions of the two",
+    "kept": "SEC. 9. And be it further enacted, That the provisions of the two",
+    "reason": "Sidenote \"Certain provi-\" is level with this line, so the body line precedes it."
+   },
+   {
+    "run": 9,
+    "a": "SEC. 9. And be it further enacted, That the provisions of the two",
+    "b": "preceding sections of this act, which confirm donation claims situate",
+    "kept": "preceding sections of this act, which confirm donation claims situate",
+    "reason": "This line is level with \"sions of the two\" and thus comes before it."
+   },
+   {
+    "run": 10,
+    "a": "preceding sections of this act, which confirm donation claims situate",
+    "b": "in that part of said land district known as the \" neutral territory,\"",
+    "kept": "in that part of said land district known as the \" neutral territory,\"",
+    "reason": "This line precedes the sidenotes \"preceding sec-\" and \"tions not to ex-\" that flank it."
+   },
+   {
+    "run": 11,
+    "a": "in that part of said land district known as the \" neutral territory,\"",
+    "b": "",
+    "kept": "",
+    "reason": "Line already placed in run 10."
+   },
+   {
+    "run": 12,
+    "a": "",
+    "b": "tain French or",
+    "kept": "tain French or",
+    "reason": "The sidenote line stands level with the \"person by virtue\" line, before the next body line."
+   },
+   {
+    "run": 13,
+    "a": "tain French or",
+    "b": "Spanish grants,",
+    "kept": "Spanish grants,",
+    "reason": "Next sidenote line, level with \"order of survey\" body line just above."
+   },
+   {
+    "run": 14,
+    "a": "Spanish grants,",
+    "b": "&c.",
+    "kept": "&c.",
+    "reason": "Final sidenote of that block, level with \"hundred and three\" line."
+   },
+   {
+    "run": 15,
+    "a": "&c.",
+    "b": "Proviso.",
+    "kept": "Proviso.",
+    "reason": "\"Proviso.\" is level with the \"or commissioner ... Provided,\" line and follows it."
+   },
+   {
+    "run": 16,
+    "a": "Proviso.",
+    "b": "",
+    "kept": "",
+    "reason": "The \"Proviso.\" sidenote was already placed in run 15."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "TWENTY-SEVENTH CONGRESS.  SESS. II. CH. 64.  1842."
+  },
+  {
+   "role": "page-number",
+   "text": "493"
+  },
+  {
+   "role": "body",
+   "text": "office at Opelousas, dated the thirtieth May and sixth June, eighteen"
+  },
+  {
+   "role": "body",
+   "text": "hundred and forty, made under the provisions of the act of eighteen"
+  },
+  {
+   "role": "sidenote",
+   "text": "1835, ch. 17."
+  },
+  {
+   "role": "body",
+   "text": "hundred and thirty-five, aforesaid, be, and the same are hereby, con-"
+  },
+  {
+   "role": "body",
+   "text": "firmed : Provided, That the Commissioner of the General Land Office"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "shall cause a further investigation to be made, and further evidence to"
+  },
+  {
+   "role": "body",
+   "text": "be taken, in relation to claim number one hundred and sixty-one of said"
+  },
+  {
+   "role": "body",
+   "text": "report; and should it appear that the original claimants actually inhab-"
+  },
+  {
+   "role": "body",
+   "text": "ited and cultivated the lands claimed on and prior to the twenty-second"
+  },
+  {
+   "role": "body",
+   "text": "day of February, eighteen hundred and nineteen, then and in that case,"
+  },
+  {
+   "role": "body",
+   "text": "the same shall be confirmed, by and with the approbation of the Secre-"
+  },
+  {
+   "role": "body",
+   "text": "tary of the Treasury."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 8. And be it further enacted, That the following claims in the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Other claims"
+  },
+  {
+   "role": "body",
+   "text": "said reports of the register and receiver of the land office at Opelousas"
+  },
+  {
+   "role": "sidenote",
+   "text": "confirmed."
+  },
+  {
+   "role": "body",
+   "text": "be, and the same are hereby, confirmed, as follows, to wit :  Number"
+  },
+  {
+   "role": "body",
+   "text": "twenty-nine, to the legal representatives of Joseph Maritaurus ; number"
+  },
+  {
+   "role": "body",
+   "text": "forty-six, to the extent contained in a league square ; number forty-nine,"
+  },
+  {
+   "role": "body",
+   "text": "for six hundred and forty acres, to the legal representatives of Bernard"
+  },
+  {
+   "role": "body",
+   "text": "Lacroix ; number fifty-four, to the legal representatives of J. Baptiste"
+  },
+  {
+   "role": "body",
+   "text": "Vallery ; number seventy-eight, for six hundred and forty acres, to One-"
+  },
+  {
+   "role": "body",
+   "text": "zime Guedry, assignee of Nicholas Provost, and six hundred and forty"
+  },
+  {
+   "role": "body",
+   "text": "acres to the legal heirs and representatives of Daniel Guedry and Jean"
+  },
+  {
+   "role": "body",
+   "text": "Mouton, senior ; number ninety-one, for so much as will, with the quan-"
+  },
+  {
+   "role": "body",
+   "text": "tity heretofore confirmed, make the quantity of one league front by the"
+  },
+  {
+   "role": "body",
+   "text": "depth of forty arpens ; number ninety-nine, for six hundred and forty"
+  },
+  {
+   "role": "body",
+   "text": "acres, to embrace the residence and improvements of Hugh Mulhollan on"
+  },
+  {
+   "role": "body",
+   "text": "and previous to the twentieth day of December, eighteen hundred and"
+  },
+  {
+   "role": "body",
+   "text": "three ; number one hundred and fourteen, to the legal representatives"
+  },
+  {
+   "role": "body",
+   "text": "of Andre Dumas ; number one hundred and fifty-four, to the legal repre-"
+  },
+  {
+   "role": "body",
+   "text": "sentatives of Antonio Mora ; number one hundred and fifty-eight, to the"
+  },
+  {
+   "role": "body",
+   "text": "legal representatives of Louis Frizzini ; number one hundred and sixty-"
+  },
+  {
+   "role": "body",
+   "text": "seven, to Jacob Wallace or his legal representatives."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 9. And be it further enacted, That the provisions of the two"
+  },
+  {
+   "role": "sidenote",
+   "text": "Certain provi-"
+  },
+  {
+   "role": "body",
+   "text": "preceding sections of this act, which confirm donation claims situate"
+  },
+  {
+   "role": "sidenote",
+   "text": "sions of the two"
+  },
+  {
+   "role": "body",
+   "text": "in that part of said land district known as the \" neutral territory,\""
+  },
+  {
+   "role": "sidenote",
+   "text": "preceding sec-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tions not to ex-"
+  },
+  {
+   "role": "body",
+   "text": "shall not be regarded as extending to any lands which are held by any"
+  },
+  {
+   "role": "sidenote",
+   "text": "tend to lands"
+  },
+  {
+   "role": "body",
+   "text": "person by virtue of any bona fide French or Spanish grant, warrant, or"
+  },
+  {
+   "role": "sidenote",
+   "text": "held under cer-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tain French or"
+  },
+  {
+   "role": "body",
+   "text": "order of survey, made prior to the twentieth of December, eighteen"
+  },
+  {
+   "role": "sidenote",
+   "text": "Spanish grants,"
+  },
+  {
+   "role": "body",
+   "text": "hundred and three, heretofore filed, according to law, with any register,"
+  },
+  {
+   "role": "sidenote",
+   "text": "&c."
+  },
+  {
+   "role": "body",
+   "text": "or commissioner, or register and receiver of said district : Provided,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Proviso."
+  },
+  {
+   "role": "body",
+   "text": "That the confirmations made by virtue of the two preceding sections"
+  },
+  {
+   "role": "body",
+   "text": "shall only operate as a relinquishment of the right of the United States,"
+  },
+  {
+   "role": "body",
+   "text": "and shall not affect the right of third persons, nor preclude a judicial"
+  },
+  {
+   "role": "body",
+   "text": "decision between private claimants for the same land ; and on the pre-"
+  },
+  {
+   "role": "body",
+   "text": "sentation, to the Commissioner of the General Land Office of a plat of"
+  },
+  {
+   "role": "body",
+   "text": "survey, duly approved by the surveyor general of Louisiana, the claim-"
+  },
+  {
+   "role": "body",
+   "text": "ant shall be entitled to a patent."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, July 6, 1842."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE II."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. LXIV.—An Act making appropriations for the current and contingent ex-"
+  },
+  {
+   "role": "sidenote",
+   "text": "July 17, 1842."
+  },
+  {
+   "role": "body",
+   "text": "penses of the Indian Department, and for fulfilling treaty stipulations with the"
+  },
+  {
+   "role": "body",
+   "text": "various Indian tribes, for the year one thousand eight hundred and forty-two."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That the following"
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropria-"
+  },
+  {
+   "role": "body",
+   "text": "sums be, and they are hereby, appropriated, for the year one thousand"
+  },
+  {
+   "role": "sidenote",
+   "text": "tions."
+  },
+  {
+   "role": "body",
+   "text": "eight hundred and forty-two, for the purpose of paying the current ex-"
+  },
+  {
+   "role": "body",
+   "text": "penses of the Indian department, fulfilling treaty stipulations with the"
+  },
+  {
+   "role": "body",
+   "text": "various Indian tribes, and contingent expenses, to be paid out of any"
+  },
+  {
+   "role": "body",
+   "text": "money in the Treasury not otherwise appropriated."
+  },
+  {
+   "role": "body",
+   "text": "2 R"
+  }
+ ],
+ "disagreement_count": 16,
+ "tokens": {
+  "input_tokens": 23337,
+  "output_tokens": 7983,
+  "cache_read_input_tokens": 1490,
+  "cache_creation_input_tokens": 833
+ },
+ "cost_usd": 0.32221,
+ "seconds": 256.6,
+ "created": "2026-09-08T11:08:30"
+}

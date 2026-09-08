@@ -1,0 +1,1100 @@
+{
+ "granule_id": "STATUTE-60-Pg33-2",
+ "package_id": "STATUTE-60",
+ "volume": 60,
+ "period": "1901-1950",
+ "granule_class": "PUBLICLAW",
+ "title": "AN ACT To authorize municipalities and public utility districts in the Territory of Alaska to issue revenue bonds for public-works purposes.",
+ "date_issued": "1946-03-06",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "33",
+ "image": "data/gold/STATUTE-60-Pg33-2/p1.png",
+ "image_sha256": "1b58ccb6f7af93cb53b0456d090c32e9178fef819e9df767e7fdc31740985d90",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "medium"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "60 STAT.]    79TH CONG., 2D SESS.—CHS. 51, 52—MAR. 6, 1946"
+    },
+    {
+     "role": "page-number",
+     "text": "33"
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 51]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 6, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 3444]"
+    },
+    {
+     "role": "body",
+     "text": "To grant the title of public lands to the town of Safford, Arizona, for the use of its"
+    },
+    {
+     "role": "body",
+     "text": "municipal water system."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 311]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Safford, Ariz."
+    },
+    {
+     "role": "sidenote",
+     "text": "Lands for municipal"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That, subject to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "water purposes."
+    },
+    {
+     "role": "body",
+     "text": "conditions and reservations hereinafter specified, there is hereby"
+    },
+    {
+     "role": "body",
+     "text": "granted, and the Secretary of the Interior is authorized and directed"
+    },
+    {
+     "role": "body",
+     "text": "to patent, to the town of Safford, Arizona, for municipal water pur-"
+    },
+    {
+     "role": "body",
+     "text": "poses all the right, title, and interest of the United States in and to"
+    },
+    {
+     "role": "body",
+     "text": "that portion of the public lands of the United States which, after"
+    },
+    {
+     "role": "body",
+     "text": "survey, will be described as follows: Southeast quarter northwest"
+    },
+    {
+     "role": "body",
+     "text": "quarter; southwest quarter northeast quarter; west half southeast"
+    },
+    {
+     "role": "body",
+     "text": "quarter, section 5, township 6 south, range 28 east, of the Gila and"
+    },
+    {
+     "role": "body",
+     "text": "Salt River base and meridian in Graham County, Arizona, containing"
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment."
+    },
+    {
+     "role": "body",
+     "text": "one hundred and sixty acres, more or less: Provided, That, prior to"
+    },
+    {
+     "role": "body",
+     "text": "the issuance of such patent the said town of Safford shall pay the"
+    },
+    {
+     "role": "body",
+     "text": "appraised value of such land, to be determined by the Secretary of the"
+    },
+    {
+     "role": "body",
+     "text": "Interior, which shall not be less than $1.25 per acre: Provided further,"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mineral reservation"
+    },
+    {
+     "role": "body",
+     "text": "That such patent shall contain a reservation to the United States of all"
+    },
+    {
+     "role": "body",
+     "text": "oil, coal, and other mineral deposits that may be found in the land."
+    },
+    {
+     "role": "body",
+     "text": "together with the right to prospect for, mine, and remove the same."
+    },
+    {
+     "role": "body",
+     "text": "Approved March 6, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 52]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 6, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 3580]"
+    },
+    {
+     "role": "body",
+     "text": "To authorize municipalities and public utility districts in the Territory of Alaska"
+    },
+    {
+     "role": "body",
+     "text": "to issue revenue bonds for public-works purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 312]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Alaska."
+    },
+    {
+     "role": "sidenote",
+     "text": "Issuance of bonds"
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That municipal"
+    },
+    {
+     "role": "sidenote",
+     "text": "for public works."
+    },
+    {
+     "role": "body",
+     "text": "corporations and public utility districts in the Territory of Alaska,"
+    },
+    {
+     "role": "body",
+     "text": "acting by and through their governing bodies, are hereby authorized"
+    },
+    {
+     "role": "body",
+     "text": "without other authority than is herein contained to construct, recon-"
+    },
+    {
+     "role": "body",
+     "text": "struct, improve, extend, better, repair, equip, or acquire public works"
+    },
+    {
+     "role": "body",
+     "text": "of permanent character which may be operated upon a revenue-"
+    },
+    {
+     "role": "body",
+     "text": "producing basis, and, upon majority vote of the qualified voters in"
+    },
+    {
+     "role": "body",
+     "text": "such municipal corporation or public utility district, to issue bonds"
+    },
+    {
+     "role": "body",
+     "text": "for such purposes payable solely from unpledged revenue of the pub-"
+    },
+    {
+     "role": "body",
+     "text": "lic works for which such bonds are issued, including future additions"
+    },
+    {
+     "role": "body",
+     "text": "and improvements.  Such public works shall include but not be"
+    },
+    {
+     "role": "body",
+     "text": "limited to water facilities, sewers and sewage-disposal facilities, heat-"
+    },
+    {
+     "role": "body",
+     "text": "ing plants and distribution facilities, gas plants and distribution"
+    },
+    {
+     "role": "body",
+     "text": "facilities, electric power and light plants, and distribution facilities."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Bonds issued under this Act shall bear such date or dates,"
+    },
+    {
+     "role": "body",
+     "text": "may be in such denominations, may mature in such amounts and at"
+    },
+    {
+     "role": "body",
+     "text": "such time or times, may be payable at such place or places, may be"
+    },
+    {
+     "role": "body",
+     "text": "sold at either public or private sale, may be redeemable (either with"
+    },
+    {
+     "role": "body",
+     "text": "or without premium) or nonredeemable, may carry such registration"
+    },
+    {
+     "role": "body",
+     "text": "privileges, and may be executed by such officers and in such manner"
+    },
+    {
+     "role": "sidenote",
+     "text": "Signatures."
+    },
+    {
+     "role": "body",
+     "text": "as shall be prescribed by the governing body.  In case any of the"
+    },
+    {
+     "role": "body",
+     "text": "officers whose signatures appear on the bonds or coupons shall cease"
+    },
+    {
+     "role": "body",
+     "text": "to be such officers before delivery of such bonds, such signatures,"
+    },
+    {
+     "role": "body",
+     "text": "whether manual or facsimile shall, nevertheless, be valid and sufficient"
+    },
+    {
+     "role": "body",
+     "text": "for all purposes, the same as if such officers had remained in office"
+    },
+    {
+     "role": "sidenote",
+     "text": "Interest."
+    },
+    {
+     "role": "body",
+     "text": "until such delivery.  The bonds so issued shall bear interest at a rate"
+    },
+    {
+     "role": "body",
+     "text": "to be fixed by the governing body, not to exceed, however, 6 per centum"
+    },
+    {
+     "role": "body",
+     "text": "per annum, payable annually or semiannually, and shall be sold for"
+    },
+    {
+     "role": "body",
+     "text": "not less than the principal amount thereof plus accrued interest."
+    },
+    {
+     "role": "footnote",
+     "text": "80634°—47—PT. I——3"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2390,
+    "cache_read_input_tokens": 769,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08718,
+   "seconds": 27.6,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "60 STAT.]      79TH CONG., 2D SESS.—CHS. 51, 52—MAR. 6, 1946"
+    },
+    {
+     "role": "page-number",
+     "text": "33"
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 51]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 6, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 3444]"
+    },
+    {
+     "role": "body",
+     "text": "To grant the title of public lands to the town of Safford, Arizona, for the use of its"
+    },
+    {
+     "role": "body",
+     "text": "municipal water system."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 311]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Safford, Ariz."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That, subject to the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Lands for municipal"
+    },
+    {
+     "role": "body",
+     "text": "conditions and reservations hereinafter specified, there is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "water purposes."
+    },
+    {
+     "role": "body",
+     "text": "granted, and the Secretary of the Interior is authorized and directed"
+    },
+    {
+     "role": "body",
+     "text": "to patent, to the town of Safford, Arizona, for municipal water pur-"
+    },
+    {
+     "role": "body",
+     "text": "poses all the right, title, and interest of the United States in and to"
+    },
+    {
+     "role": "body",
+     "text": "that portion of the public lands of the United States which, after"
+    },
+    {
+     "role": "body",
+     "text": "survey, will be described as follows: Southeast quarter northwest"
+    },
+    {
+     "role": "body",
+     "text": "quarter; southwest quarter northeast quarter; west half southeast"
+    },
+    {
+     "role": "body",
+     "text": "quarter, section 5, township 6 south, range 28 east, of the Gila and"
+    },
+    {
+     "role": "body",
+     "text": "Salt River base and meridian in Graham County, Arizona, containing"
+    },
+    {
+     "role": "body",
+     "text": "one hundred and sixty acres, more or less: Provided, That, prior to"
+    },
+    {
+     "role": "sidenote",
+     "text": "Payment."
+    },
+    {
+     "role": "body",
+     "text": "the issuance of such patent the said town of Safford shall pay the"
+    },
+    {
+     "role": "body",
+     "text": "appraised value of such land, to be determined by the Secretary of the"
+    },
+    {
+     "role": "body",
+     "text": "Interior, which shall not be less than $1.25 per acre: Provided further,"
+    },
+    {
+     "role": "body",
+     "text": "That such patent shall contain a reservation to the United States of all"
+    },
+    {
+     "role": "sidenote",
+     "text": "Mineral reservation"
+    },
+    {
+     "role": "body",
+     "text": "oil, coal, and other mineral deposits that may be found in the land."
+    },
+    {
+     "role": "body",
+     "text": "together with the right to prospect for, mine, and remove the same."
+    },
+    {
+     "role": "body",
+     "text": "Approved March 6, 1946."
+    },
+    {
+     "role": "body",
+     "text": "[CHAPTER 52]"
+    },
+    {
+     "role": "body",
+     "text": "AN ACT"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 6, 1946"
+    },
+    {
+     "role": "sidenote",
+     "text": "[H. R. 3580]"
+    },
+    {
+     "role": "body",
+     "text": "To authorize municipalities and public utility districts in the Territory of Alaska"
+    },
+    {
+     "role": "body",
+     "text": "to issue revenue bonds for public-works purposes."
+    },
+    {
+     "role": "sidenote",
+     "text": "[Public Law 312]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Alaska."
+    },
+    {
+     "role": "body",
+     "text": "United States of America in Congress assembled, That municipal"
+    },
+    {
+     "role": "sidenote",
+     "text": "Issuance of bonds"
+    },
+    {
+     "role": "body",
+     "text": "corporations and public utility districts in the Territory of Alaska,"
+    },
+    {
+     "role": "sidenote",
+     "text": "for public works."
+    },
+    {
+     "role": "body",
+     "text": "acting by and through their governing bodies, are hereby authorized"
+    },
+    {
+     "role": "body",
+     "text": "without other authority than is herein contained to construct, recon-"
+    },
+    {
+     "role": "body",
+     "text": "struct, improve, extend, better, repair, equip, or acquire public works"
+    },
+    {
+     "role": "body",
+     "text": "of permanent character which may be operated upon a revenue-"
+    },
+    {
+     "role": "body",
+     "text": "producing basis, and, upon majority vote of the qualified voters in"
+    },
+    {
+     "role": "body",
+     "text": "such municipal corporation or public utility district, to issue bonds"
+    },
+    {
+     "role": "body",
+     "text": "for such purposes payable solely from unpledged revenue of the pub-"
+    },
+    {
+     "role": "body",
+     "text": "lic works for which such bonds are issued, including future additions"
+    },
+    {
+     "role": "body",
+     "text": "and improvements. Such public works shall include but not be"
+    },
+    {
+     "role": "body",
+     "text": "limited to water facilities, sewers and sewage-disposal facilities, heat-"
+    },
+    {
+     "role": "body",
+     "text": "ing plants and distribution facilities, gas plants and distribution"
+    },
+    {
+     "role": "body",
+     "text": "facilities, electric power and light plants, and distribution facilities."
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. Bonds issued under this Act shall bear such date or dates,"
+    },
+    {
+     "role": "body",
+     "text": "may be in such denominations, may mature in such amounts and at"
+    },
+    {
+     "role": "body",
+     "text": "such time or times, may be payable at such place or places, may be"
+    },
+    {
+     "role": "body",
+     "text": "sold at either public or private sale, may be redeemable (either with"
+    },
+    {
+     "role": "body",
+     "text": "or without premium) or nonredeemable, may carry such registration"
+    },
+    {
+     "role": "body",
+     "text": "privileges, and may be executed by such officers and in such manner"
+    },
+    {
+     "role": "body",
+     "text": "as shall be prescribed by the governing body. In case any of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "Signatures."
+    },
+    {
+     "role": "body",
+     "text": "officers whose signatures appear on the bonds or coupons shall cease"
+    },
+    {
+     "role": "body",
+     "text": "to be such officers before delivery of such bonds, such signatures,"
+    },
+    {
+     "role": "body",
+     "text": "whether manual or facsimile shall, nevertheless, be valid and sufficient"
+    },
+    {
+     "role": "body",
+     "text": "for all purposes, the same as if such officers had remained in office"
+    },
+    {
+     "role": "body",
+     "text": "until such delivery. The bonds so issued shall bear interest at a rate"
+    },
+    {
+     "role": "sidenote",
+     "text": "Interest."
+    },
+    {
+     "role": "body",
+     "text": "to be fixed by the governing body, not to exceed, however, 6 per centum"
+    },
+    {
+     "role": "body",
+     "text": "per annum, payable annually or semiannually, and shall be sold for"
+    },
+    {
+     "role": "body",
+     "text": "not less than the principal amount thereof plus accrued interest."
+    },
+    {
+     "role": "footnote",
+     "text": "80634°—47—PT. I——3"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2217,
+    "cache_read_input_tokens": 721,
+    "cache_creation_input_tokens": 0
+   },
+   "cost_usd": 0.08285,
+   "seconds": 24.7,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12003,
+   "output_tokens": 10782,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.32998,
+  "seconds": 154.3,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "medium",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "United States of America in Congress assembled, That, subject to the",
+    "kept": "United States of America in Congress assembled, That, subject to the",
+    "reason": "The sidenote block interleaves by vertical position: \"Safford, Ariz.\" sits at the \"Be it enacted\" line, so the next printed line is this body line, followed by \"Lands for municipal\"."
+   },
+   {
+    "run": 2,
+    "a": "United States of America in Congress assembled, That, subject to the",
+    "b": "conditions and reservations hereinafter specified, there is hereby",
+    "kept": "conditions and reservations hereinafter specified, there is hereby",
+    "reason": "After the sidenote \"Lands for municipal\" (aligned with the preceding body line) the next printed line is this body line; \"water purposes.\" aligns with it and follows."
+   },
+   {
+    "run": 3,
+    "a": "conditions and reservations hereinafter specified, there is hereby",
+    "b": "",
+    "kept": "",
+    "reason": "The \"conditions and reservations\" line was already placed above; nothing further is printed here."
+   },
+   {
+    "run": 4,
+    "a": "",
+    "b": "one hundred and sixty acres, more or less: Provided, That, prior to",
+    "kept": "one hundred and sixty acres, more or less: Provided, That, prior to",
+    "reason": "\"Payment.\" is set level with this line, so the body line precedes the sidenote."
+   },
+   {
+    "run": 5,
+    "a": "one hundred and sixty acres, more or less: Provided, That, prior to",
+    "b": "",
+    "kept": "",
+    "reason": "That body line is already placed before the \"Payment.\" sidenote; nothing printed here."
+   },
+   {
+    "run": 6,
+    "a": "",
+    "b": "That such patent shall contain a reservation to the United States of all",
+    "kept": "",
+    "reason": "\"Mineral reservation\" sits between the \"Interior, which...\" line and the next line, so the body line comes after the sidenote."
+   },
+   {
+    "run": 7,
+    "a": "That such patent shall contain a reservation to the United States of all",
+    "b": "",
+    "kept": "That such patent shall contain a reservation to the United States of all",
+    "reason": "This body line follows the \"Mineral reservation\" sidenote, whose position is level with the preceding line."
+   },
+   {
+    "run": 8,
+    "a": "",
+    "b": "United States of America in Congress assembled, That municipal",
+    "kept": "United States of America in Congress assembled, That municipal",
+    "reason": "\"Alaska.\" is level with the \"Be it enacted\" line, so this body line comes next, before \"Issuance of bonds\"."
+   },
+   {
+    "run": 9,
+    "a": "United States of America in Congress assembled, That municipal",
+    "b": "corporations and public utility districts in the Territory of Alaska,",
+    "kept": "corporations and public utility districts in the Territory of Alaska,",
+    "reason": "After \"Issuance of bonds\" (level with the preceding body line) this body line is printed, with \"for public works.\" level with it."
+   },
+   {
+    "run": 10,
+    "a": "corporations and public utility districts in the Territory of Alaska,",
+    "b": "",
+    "kept": "",
+    "reason": "The \"corporations...\" line is already placed before \"for public works.\"; nothing printed here."
+   },
+   {
+    "run": 11,
+    "a": "",
+    "b": "as shall be prescribed by the governing body. In case any of the",
+    "kept": "as shall be prescribed by the governing body. In case any of the",
+    "reason": "\"Signatures.\" is level with this body line, which therefore precedes the sidenote."
+   },
+   {
+    "run": 12,
+    "a": "as shall be prescribed by the governing body.  In case any of the",
+    "b": "",
+    "kept": "",
+    "reason": "That body line is placed before the \"Signatures.\" sidenote; nothing printed here."
+   },
+   {
+    "run": 13,
+    "a": "",
+    "b": "until such delivery. The bonds so issued shall bear interest at a rate",
+    "kept": "until such delivery. The bonds so issued shall bear interest at a rate",
+    "reason": "\"Interest.\" is level with (slightly below) this body line, so the body line comes first."
+   },
+   {
+    "run": 14,
+    "a": "until such delivery.  The bonds so issued shall bear interest at a rate",
+    "b": "",
+    "kept": "",
+    "reason": "That body line is placed before the \"Interest.\" sidenote; nothing printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "60 STAT.]    79TH CONG., 2D SESS.—CHS. 51, 52—MAR. 6, 1946"
+  },
+  {
+   "role": "page-number",
+   "text": "33"
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 51]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 6, 1946"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 3444]"
+  },
+  {
+   "role": "body",
+   "text": "To grant the title of public lands to the town of Safford, Arizona, for the use of its"
+  },
+  {
+   "role": "body",
+   "text": "municipal water system."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public Law 311]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Safford, Ariz."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That, subject to the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Lands for municipal"
+  },
+  {
+   "role": "body",
+   "text": "conditions and reservations hereinafter specified, there is hereby"
+  },
+  {
+   "role": "sidenote",
+   "text": "water purposes."
+  },
+  {
+   "role": "body",
+   "text": "granted, and the Secretary of the Interior is authorized and directed"
+  },
+  {
+   "role": "body",
+   "text": "to patent, to the town of Safford, Arizona, for municipal water pur-"
+  },
+  {
+   "role": "body",
+   "text": "poses all the right, title, and interest of the United States in and to"
+  },
+  {
+   "role": "body",
+   "text": "that portion of the public lands of the United States which, after"
+  },
+  {
+   "role": "body",
+   "text": "survey, will be described as follows: Southeast quarter northwest"
+  },
+  {
+   "role": "body",
+   "text": "quarter; southwest quarter northeast quarter; west half southeast"
+  },
+  {
+   "role": "body",
+   "text": "quarter, section 5, township 6 south, range 28 east, of the Gila and"
+  },
+  {
+   "role": "body",
+   "text": "Salt River base and meridian in Graham County, Arizona, containing"
+  },
+  {
+   "role": "body",
+   "text": "one hundred and sixty acres, more or less: Provided, That, prior to"
+  },
+  {
+   "role": "sidenote",
+   "text": "Payment."
+  },
+  {
+   "role": "body",
+   "text": "the issuance of such patent the said town of Safford shall pay the"
+  },
+  {
+   "role": "body",
+   "text": "appraised value of such land, to be determined by the Secretary of the"
+  },
+  {
+   "role": "body",
+   "text": "Interior, which shall not be less than $1.25 per acre: Provided further,"
+  },
+  {
+   "role": "sidenote",
+   "text": "Mineral reservation"
+  },
+  {
+   "role": "body",
+   "text": "That such patent shall contain a reservation to the United States of all"
+  },
+  {
+   "role": "body",
+   "text": "oil, coal, and other mineral deposits that may be found in the land."
+  },
+  {
+   "role": "body",
+   "text": "together with the right to prospect for, mine, and remove the same."
+  },
+  {
+   "role": "body",
+   "text": "Approved March 6, 1946."
+  },
+  {
+   "role": "body",
+   "text": "[CHAPTER 52]"
+  },
+  {
+   "role": "body",
+   "text": "AN ACT"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 6, 1946"
+  },
+  {
+   "role": "sidenote",
+   "text": "[H. R. 3580]"
+  },
+  {
+   "role": "body",
+   "text": "To authorize municipalities and public utility districts in the Territory of Alaska"
+  },
+  {
+   "role": "body",
+   "text": "to issue revenue bonds for public-works purposes."
+  },
+  {
+   "role": "sidenote",
+   "text": "[Public Law 312]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Alaska."
+  },
+  {
+   "role": "body",
+   "text": "United States of America in Congress assembled, That municipal"
+  },
+  {
+   "role": "sidenote",
+   "text": "Issuance of bonds"
+  },
+  {
+   "role": "body",
+   "text": "corporations and public utility districts in the Territory of Alaska,"
+  },
+  {
+   "role": "sidenote",
+   "text": "for public works."
+  },
+  {
+   "role": "body",
+   "text": "acting by and through their governing bodies, are hereby authorized"
+  },
+  {
+   "role": "body",
+   "text": "without other authority than is herein contained to construct, recon-"
+  },
+  {
+   "role": "body",
+   "text": "struct, improve, extend, better, repair, equip, or acquire public works"
+  },
+  {
+   "role": "body",
+   "text": "of permanent character which may be operated upon a revenue-"
+  },
+  {
+   "role": "body",
+   "text": "producing basis, and, upon majority vote of the qualified voters in"
+  },
+  {
+   "role": "body",
+   "text": "such municipal corporation or public utility district, to issue bonds"
+  },
+  {
+   "role": "body",
+   "text": "for such purposes payable solely from unpledged revenue of the pub-"
+  },
+  {
+   "role": "body",
+   "text": "lic works for which such bonds are issued, including future additions"
+  },
+  {
+   "role": "body",
+   "text": "and improvements.  Such public works shall include but not be"
+  },
+  {
+   "role": "body",
+   "text": "limited to water facilities, sewers and sewage-disposal facilities, heat-"
+  },
+  {
+   "role": "body",
+   "text": "ing plants and distribution facilities, gas plants and distribution"
+  },
+  {
+   "role": "body",
+   "text": "facilities, electric power and light plants, and distribution facilities."
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. Bonds issued under this Act shall bear such date or dates,"
+  },
+  {
+   "role": "body",
+   "text": "may be in such denominations, may mature in such amounts and at"
+  },
+  {
+   "role": "body",
+   "text": "such time or times, may be payable at such place or places, may be"
+  },
+  {
+   "role": "body",
+   "text": "sold at either public or private sale, may be redeemable (either with"
+  },
+  {
+   "role": "body",
+   "text": "or without premium) or nonredeemable, may carry such registration"
+  },
+  {
+   "role": "body",
+   "text": "privileges, and may be executed by such officers and in such manner"
+  },
+  {
+   "role": "body",
+   "text": "as shall be prescribed by the governing body. In case any of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "Signatures."
+  },
+  {
+   "role": "body",
+   "text": "officers whose signatures appear on the bonds or coupons shall cease"
+  },
+  {
+   "role": "body",
+   "text": "to be such officers before delivery of such bonds, such signatures,"
+  },
+  {
+   "role": "body",
+   "text": "whether manual or facsimile shall, nevertheless, be valid and sufficient"
+  },
+  {
+   "role": "body",
+   "text": "for all purposes, the same as if such officers had remained in office"
+  },
+  {
+   "role": "body",
+   "text": "until such delivery. The bonds so issued shall bear interest at a rate"
+  },
+  {
+   "role": "sidenote",
+   "text": "Interest."
+  },
+  {
+   "role": "body",
+   "text": "to be fixed by the governing body, not to exceed, however, 6 per centum"
+  },
+  {
+   "role": "body",
+   "text": "per annum, payable annually or semiannually, and shall be sold for"
+  },
+  {
+   "role": "body",
+   "text": "not less than the principal amount thereof plus accrued interest."
+  },
+  {
+   "role": "footnote",
+   "text": "80634°—47—PT. I——3"
+  }
+ ],
+ "disagreement_count": 14,
+ "tokens": {
+  "input_tokens": 22826,
+  "output_tokens": 15389,
+  "cache_read_input_tokens": 2323,
+  "cache_creation_input_tokens": 0
+ },
+ "cost_usd": 0.50001,
+ "seconds": 206.6,
+ "created": "2026-09-08T12:03:40"
+}

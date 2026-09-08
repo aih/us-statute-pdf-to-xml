@@ -1,0 +1,1228 @@
+{
+ "granule_id": "STATUTE-2-Pg661-3",
+ "package_id": "STATUTE-2",
+ "volume": 2,
+ "period": "1789-1850",
+ "granule_class": "PUBLICLAW",
+ "title": "An Act in addition to the act to regulate the laying out and making a road from Cumberland, in the state of Maryland, to the state of Ohio.(a)",
+ "date_issued": "1811-03-03",
+ "pdf_page": 1,
+ "pdf_pages": 2,
+ "stat_page": "661",
+ "image": "data/gold/STATUTE-2-Pg661-3/p1.png",
+ "image_sha256": "e8dbc9380812b05c0a36993235a132bbaa408423165a595d389e3595261644f4",
+ "dpi": 300,
+ "api_images": 3,
+ "model": "claude-opus-5",
+ "models": [
+  "claude-opus-5"
+ ],
+ "effort": {
+  "transcription": "medium",
+  "adjudication": "high"
+ },
+ "transcriptions": {
+  "A": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "ELEVENTH CONGRESS.  SESS. III. CH. 43, 44, 45.  1811."
+    },
+    {
+     "role": "page-number",
+     "text": "661"
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE III."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLIII.—An Act making further appropriations to complete the fortifi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1811."
+    },
+    {
+     "role": "body",
+     "text": "cations commenced for the security of the ports and harbors of the United"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That for the purpose of"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "completing the fortifications commenced for the security of the ports,"
+    },
+    {
+     "role": "body",
+     "text": "towns and harbors of the United States, and the territories thereof, there"
+    },
+    {
+     "role": "body",
+     "text": "be, and hereby is appropriated the sum of one hundred and thirty-one"
+    },
+    {
+     "role": "body",
+     "text": "thousand and forty-six dollars and thirty cents, to be paid out of any"
+    },
+    {
+     "role": "body",
+     "text": "monies in the treasury not otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1811."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE III."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLIV.—An Act for allowing a reasonable compensation to the persons"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1811."
+    },
+    {
+     "role": "body",
+     "text": "who have taken an account of the several manufacturing establishments and"
+    },
+    {
+     "role": "body",
+     "text": "manufactures within the United States."
+    },
+    {
+     "role": "sidenote",
+     "text": "Compensation"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "to persons tak-"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing an account"
+    },
+    {
+     "role": "body",
+     "text": "Treasury be, and he hereby is authorized to allow such reasonable com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "of manufactur-"
+    },
+    {
+     "role": "body",
+     "text": "pensation as he shall deem adequate, for the services of each of those"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing establish-"
+    },
+    {
+     "role": "body",
+     "text": "persons who took, under his direction, in pursuance of an act, entituled"
+    },
+    {
+     "role": "sidenote",
+     "text": "ments."
+    },
+    {
+     "role": "body",
+     "text": "“An act further to alter and amend An act providing for the third census"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "or enumeration of the inhabitants of the United States,” an account of"
+    },
+    {
+     "role": "sidenote",
+     "text": "1810, ch. 38."
+    },
+    {
+     "role": "body",
+     "text": "the several manufacturing establishments and manufactures within their"
+    },
+    {
+     "role": "body",
+     "text": "several districts : Provided however, that nothing herein contained shall"
+    },
+    {
+     "role": "body",
+     "text": "authorize the Secretary of the Treasury to expend out of the fund"
+    },
+    {
+     "role": "body",
+     "text": "already appropriated for taking the enumeration of the inhabitants of"
+    },
+    {
+     "role": "body",
+     "text": "the United States, a sum exceeding thirty thousand dollars."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1811."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE III."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLV.—An Act in addition to the act to regulate the laying out and"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1811."
+    },
+    {
+     "role": "body",
+     "text": "making a road from Cumberland, in the state of Maryland, to the state of"
+    },
+    {
+     "role": "body",
+     "text": "Ohio.(a)"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "sidenote",
+     "text": "Additional ap-"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "propriation."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That in addition to the unex-"
+    },
+    {
+     "role": "body",
+     "text": "pended balance of the sum heretofore appropriated for laying out and"
+    },
+    {
+     "role": "body",
+     "text": "making a road from Cumberland in the state of Maryland, to the state"
+    },
+    {
+     "role": "sidenote",
+     "text": "1806, ch. 19."
+    },
+    {
+     "role": "body",
+     "text": "of Ohio, the sum of fifty thousand dollars be, and the same is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "1815, ch. 43."
+    },
+    {
+     "role": "body",
+     "text": "appropriated, to be paid out of any money in the treasury not otherwise"
+    },
+    {
+     "role": "body",
+     "text": "appropriated, and to be expended under the direction of the President"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, in making said road between Cumberland in the"
+    },
+    {
+     "role": "body",
+     "text": "state of Maryland, and Brownsville in the state of Pennsylvania, com-"
+    },
+    {
+     "role": "body",
+     "text": "mencing at Cumberland ; which sum of fifty thousand dollars shall be"
+    },
+    {
+     "role": "body",
+     "text": "replaced out of the fund reserved for laying out and making roads to the"
+    },
+    {
+     "role": "body",
+     "text": "state of Ohio, by virtue of the seventh section of an act passed on the"
+    },
+    {
+     "role": "body",
+     "text": "thirtieth day of April, one thousand eight hundred and two, entituled"
+    },
+    {
+     "role": "body",
+     "text": "“An act to enable the people of the eastern division of the territory"
+    },
+    {
+     "role": "body",
+     "text": "northwest of the river Ohio to form a constitution and state government,"
+    },
+    {
+     "role": "body",
+     "text": "and for the admission of such state into the Union, on an equal footing"
+    },
+    {
+     "role": "body",
+     "text": "with the original states, and for other purposes.”"
+    },
+    {
+     "role": "sidenote",
+     "text": "President may"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the President of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "permit devia-"
+    },
+    {
+     "role": "body",
+     "text": "States be, and he is hereby authorized and empowered to permit such"
+    },
+    {
+     "role": "sidenote",
+     "text": "tions from"
+    },
+    {
+     "role": "body",
+     "text": "deviations from the courses run and established by the commissioners"
+    },
+    {
+     "role": "sidenote",
+     "text": "courses hereto-"
+    },
+    {
+     "role": "body",
+     "text": "under the authority of “An act to regulate the laying out and making a"
+    },
+    {
+     "role": "sidenote",
+     "text": "fore run."
+    },
+    {
+     "role": "body",
+     "text": "road from Cumberland in the state of Maryland, to the state of Ohio,”"
+    },
+    {
+     "role": "footnote",
+     "text": "(a) See act of March 29, 1806, chap. 19, and notes."
+    },
+    {
+     "role": "footnote",
+     "text": "3 K"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5410,
+    "output_tokens": 2331,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 769
+   },
+   "cost_usd": 0.09013,
+   "seconds": 27.0,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  },
+  "B": {
+   "lines": [
+    {
+     "role": "running-head",
+     "text": "ELEVENTH CONGRESS.  SESS. III. CH. 43, 44, 45.  1811."
+    },
+    {
+     "role": "page-number",
+     "text": "661"
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE III."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLIII.—An Act making further appropriations to complete the fortifi-"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1811."
+    },
+    {
+     "role": "body",
+     "text": "cations commenced for the security of the ports and harbors of the United"
+    },
+    {
+     "role": "body",
+     "text": "States."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Appropriation."
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That for the purpose of"
+    },
+    {
+     "role": "body",
+     "text": "completing the fortifications commenced for the security of the ports,"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "towns and harbors of the United States, and the territories thereof, there"
+    },
+    {
+     "role": "body",
+     "text": "be, and hereby is appropriated the sum of one hundred and thirty-one"
+    },
+    {
+     "role": "body",
+     "text": "thousand and forty-six dollars and thirty cents, to be paid out of any"
+    },
+    {
+     "role": "body",
+     "text": "monies in the treasury not otherwise appropriated."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1811."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE III."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLIV.—An Act for allowing a reasonable compensation to the persons"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1811."
+    },
+    {
+     "role": "body",
+     "text": "who have taken an account of the several manufacturing establishments and"
+    },
+    {
+     "role": "body",
+     "text": "manufactures within the United States."
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Compensation"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That the Secretary of the"
+    },
+    {
+     "role": "sidenote",
+     "text": "to persons tak-"
+    },
+    {
+     "role": "body",
+     "text": "Treasury be, and he hereby is authorized to allow such reasonable com-"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing an account"
+    },
+    {
+     "role": "body",
+     "text": "pensation as he shall deem adequate, for the services of each of those"
+    },
+    {
+     "role": "sidenote",
+     "text": "of manufactur-"
+    },
+    {
+     "role": "body",
+     "text": "persons who took, under his direction, in pursuance of an act, entituled"
+    },
+    {
+     "role": "sidenote",
+     "text": "ing establish-"
+    },
+    {
+     "role": "body",
+     "text": "“An act further to alter and amend An act providing for the third census"
+    },
+    {
+     "role": "sidenote",
+     "text": "ments."
+    },
+    {
+     "role": "body",
+     "text": "or enumeration of the inhabitants of the United States,” an account of"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "the several manufacturing establishments and manufactures within their"
+    },
+    {
+     "role": "sidenote",
+     "text": "1810, ch. 38."
+    },
+    {
+     "role": "body",
+     "text": "several districts : Provided however, that nothing herein contained shall"
+    },
+    {
+     "role": "body",
+     "text": "authorize the Secretary of the Treasury to expend out of the fund"
+    },
+    {
+     "role": "body",
+     "text": "already appropriated for taking the enumeration of the inhabitants of"
+    },
+    {
+     "role": "body",
+     "text": "the United States, a sum exceeding thirty thousand dollars."
+    },
+    {
+     "role": "body",
+     "text": "APPROVED, March 3, 1811."
+    },
+    {
+     "role": "sidenote",
+     "text": "STATUTE III."
+    },
+    {
+     "role": "body",
+     "text": "CHAP. XLV.—An Act in addition to the act to regulate the laying out and"
+    },
+    {
+     "role": "sidenote",
+     "text": "March 3, 1811."
+    },
+    {
+     "role": "body",
+     "text": "making a road from Cumberland, in the state of Maryland, to the state of"
+    },
+    {
+     "role": "body",
+     "text": "Ohio.(a)"
+    },
+    {
+     "role": "sidenote",
+     "text": "[Obsolete.]"
+    },
+    {
+     "role": "body",
+     "text": "Be it enacted by the Senate and House of Representatives of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "Additional ap-"
+    },
+    {
+     "role": "body",
+     "text": "States of America in Congress assembled, That in addition to the unex-"
+    },
+    {
+     "role": "sidenote",
+     "text": "propriation."
+    },
+    {
+     "role": "body",
+     "text": "pended balance of the sum heretofore appropriated for laying out and"
+    },
+    {
+     "role": "body",
+     "text": "making a road from Cumberland in the state of Maryland, to the state"
+    },
+    {
+     "role": "body",
+     "text": "of Ohio, the sum of fifty thousand dollars be, and the same is hereby"
+    },
+    {
+     "role": "sidenote",
+     "text": "1806, ch. 19."
+    },
+    {
+     "role": "body",
+     "text": "appropriated, to be paid out of any money in the treasury not otherwise"
+    },
+    {
+     "role": "sidenote",
+     "text": "1815, ch. 43."
+    },
+    {
+     "role": "body",
+     "text": "appropriated, and to be expended under the direction of the President"
+    },
+    {
+     "role": "body",
+     "text": "of the United States, in making said road between Cumberland in the"
+    },
+    {
+     "role": "body",
+     "text": "state of Maryland, and Brownsville in the state of Pennsylvania, com-"
+    },
+    {
+     "role": "body",
+     "text": "mencing at Cumberland; which sum of fifty thousand dollars shall be"
+    },
+    {
+     "role": "body",
+     "text": "replaced out of the fund reserved for laying out and making roads to the"
+    },
+    {
+     "role": "body",
+     "text": "state of Ohio, by virtue of the seventh section of an act passed on the"
+    },
+    {
+     "role": "body",
+     "text": "thirtieth day of April, one thousand eight hundred and two, entituled"
+    },
+    {
+     "role": "body",
+     "text": "“An act to enable the people of the eastern division of the territory"
+    },
+    {
+     "role": "body",
+     "text": "northwest of the river Ohio to form a constitution and state government,"
+    },
+    {
+     "role": "body",
+     "text": "and for the admission of such state into the Union, on an equal footing"
+    },
+    {
+     "role": "body",
+     "text": "with the original states, and for other purposes.”"
+    },
+    {
+     "role": "body",
+     "text": "SEC. 2. And be it further enacted, That the President of the United"
+    },
+    {
+     "role": "sidenote",
+     "text": "President may"
+    },
+    {
+     "role": "body",
+     "text": "States be, and he is hereby authorized and empowered to permit such"
+    },
+    {
+     "role": "sidenote",
+     "text": "permit devia-"
+    },
+    {
+     "role": "sidenote",
+     "text": "tions from"
+    },
+    {
+     "role": "body",
+     "text": "deviations from the courses run and established by the commissioners"
+    },
+    {
+     "role": "sidenote",
+     "text": "courses hereto-"
+    },
+    {
+     "role": "body",
+     "text": "under the authority of “An act to regulate the laying out and making a"
+    },
+    {
+     "role": "sidenote",
+     "text": "fore run."
+    },
+    {
+     "role": "body",
+     "text": "road from Cumberland in the state of Maryland, to the state of Ohio,”"
+    },
+    {
+     "role": "footnote",
+     "text": "(a) See act of March 29, 1806, chap. 19, and notes."
+    },
+    {
+     "role": "footnote",
+     "text": "3 K"
+    }
+   ],
+   "model": "claude-opus-5",
+   "served_by": "claude-opus-5",
+   "usage": {
+    "input_tokens": 5413,
+    "output_tokens": 2330,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 721
+   },
+   "cost_usd": 0.08982,
+   "seconds": 25.9,
+   "stop_reason": "end_turn",
+   "request_id": null,
+   "effort": "medium"
+  }
+ },
+ "adjudication": {
+  "model": "claude-opus-5",
+  "served_by": "claude-opus-5",
+  "usage": {
+   "input_tokens": 12809,
+   "output_tokens": 15636,
+   "cache_read_input_tokens": 833,
+   "cache_creation_input_tokens": 0
+  },
+  "cost_usd": 0.45536,
+  "seconds": 191.7,
+  "stop_reason": "end_turn",
+  "request_id": null,
+  "effort": "high",
+  "disagreements": [
+   {
+    "run": 1,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the United",
+    "kept": "Be it enacted by the Senate and House of Representatives of the United",
+    "reason": "The paragraph's first line stands level with the sidenote \"Appropriation.\"; the body line precedes the marginal note, as in the agreed heading lines."
+   },
+   {
+    "run": 2,
+    "a": "Be it enacted by the Senate and House of Representatives of the United",
+    "b": "",
+    "kept": "",
+    "reason": "This body line was already given in run 1; nothing further is printed here."
+   },
+   {
+    "run": 3,
+    "a": "",
+    "b": "completing the fortifications commenced for the security of the ports,",
+    "kept": "completing the fortifications commenced for the security of the ports,",
+    "reason": "\"[Obsolete.]\" sits level with this body line, so the body line comes first."
+   },
+   {
+    "run": 4,
+    "a": "completing the fortifications commenced for the security of the ports,",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line resolved in run 3; nothing printed here."
+   },
+   {
+    "run": 5,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the United",
+    "kept": "Be it enacted by the Senate and House of Representatives of the United",
+    "reason": "Paragraph opening line is level with the sidenote \"Compensation\" and precedes it."
+   },
+   {
+    "run": 6,
+    "a": "Be it enacted by the Senate and House of Representatives of the United",
+    "b": "States of America in Congress assembled, That the Secretary of the",
+    "kept": "States of America in Congress assembled, That the Secretary of the",
+    "reason": "After the sidenote line \"to persons tak-\"'s anchor line comes this body line; sidenotes follow the body line they align with."
+   },
+   {
+    "run": 7,
+    "a": "States of America in Congress assembled, That the Secretary of the",
+    "b": "Treasury be, and he hereby is authorized to allow such reasonable com-",
+    "kept": "Treasury be, and he hereby is authorized to allow such reasonable com-",
+    "reason": "Next printed body line, aligned with the sidenote \"ing an account\"."
+   },
+   {
+    "run": 8,
+    "a": "Treasury be, and he hereby is authorized to allow such reasonable com-",
+    "b": "pensation as he shall deem adequate, for the services of each of those",
+    "kept": "pensation as he shall deem adequate, for the services of each of those",
+    "reason": "Next printed body line, aligned with \"of manufactur-\"."
+   },
+   {
+    "run": 9,
+    "a": "pensation as he shall deem adequate, for the services of each of those",
+    "b": "persons who took, under his direction, in pursuance of an act, entituled",
+    "kept": "persons who took, under his direction, in pursuance of an act, entituled",
+    "reason": "Next printed body line, aligned with \"ing establish-\"."
+   },
+   {
+    "run": 10,
+    "a": "persons who took, under his direction, in pursuance of an act, entituled",
+    "b": "“An act further to alter and amend An act providing for the third census",
+    "kept": "“An act further to alter and amend An act providing for the third census",
+    "reason": "Next printed body line, aligned with the sidenote \"ments.\"."
+   },
+   {
+    "run": 11,
+    "a": "“An act further to alter and amend An act providing for the third census",
+    "b": "or enumeration of the inhabitants of the United States,” an account of",
+    "kept": "or enumeration of the inhabitants of the United States,” an account of",
+    "reason": "Next printed body line, level with the sidenote \"[Obsolete.]\"."
+   },
+   {
+    "run": 12,
+    "a": "or enumeration of the inhabitants of the United States,” an account of",
+    "b": "the several manufacturing establishments and manufactures within their",
+    "kept": "the several manufacturing establishments and manufactures within their",
+    "reason": "Next printed body line, level with the sidenote \"1810, ch. 38.\"."
+   },
+   {
+    "run": 13,
+    "a": "the several manufacturing establishments and manufactures within their",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line resolved in run 12; nothing printed here."
+   },
+   {
+    "run": 14,
+    "a": "",
+    "b": "Be it enacted by the Senate and House of Representatives of the United",
+    "kept": "Be it enacted by the Senate and House of Representatives of the United",
+    "reason": "Paragraph opening line stands level with \"Additional ap-\" and precedes it."
+   },
+   {
+    "run": 15,
+    "a": "Be it enacted by the Senate and House of Representatives of the United",
+    "b": "States of America in Congress assembled, That in addition to the unex-",
+    "kept": "States of America in Congress assembled, That in addition to the unex-",
+    "reason": "Next printed body line, level with the sidenote \"propriation.\"."
+   },
+   {
+    "run": 16,
+    "a": "States of America in Congress assembled, That in addition to the unex-",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line resolved in run 15; nothing printed here."
+   },
+   {
+    "run": 17,
+    "a": "",
+    "b": "of Ohio, the sum of fifty thousand dollars be, and the same is hereby",
+    "kept": "of Ohio, the sum of fifty thousand dollars be, and the same is hereby",
+    "reason": "This body line is level with the sidenote \"1806, ch. 19.\" and precedes it."
+   },
+   {
+    "run": 18,
+    "a": "of Ohio, the sum of fifty thousand dollars be, and the same is hereby",
+    "b": "appropriated, to be paid out of any money in the treasury not otherwise",
+    "kept": "appropriated, to be paid out of any money in the treasury not otherwise",
+    "reason": "Next printed body line, level with the sidenote \"1815, ch. 43.\"."
+   },
+   {
+    "run": 19,
+    "a": "appropriated, to be paid out of any money in the treasury not otherwise",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line resolved in run 18; nothing printed here."
+   },
+   {
+    "run": 20,
+    "a": "",
+    "b": "SEC. 2. And be it further enacted, That the President of the United",
+    "kept": "SEC. 2. And be it further enacted, That the President of the United",
+    "reason": "The section's first line is level with \"President may\" and precedes it."
+   },
+   {
+    "run": 21,
+    "a": "SEC. 2. And be it further enacted, That the President of the United",
+    "b": "States be, and he is hereby authorized and empowered to permit such",
+    "kept": "States be, and he is hereby authorized and empowered to permit such",
+    "reason": "Next printed body line; the sidenote lines \"permit devia-\" and \"tions from\" follow it."
+   },
+   {
+    "run": 22,
+    "a": "States be, and he is hereby authorized and empowered to permit such",
+    "b": "",
+    "kept": "",
+    "reason": "Duplicate of the line resolved in run 21; nothing printed here."
+   }
+  ],
+  "unresolved": 0
+ },
+ "lines": [
+  {
+   "role": "running-head",
+   "text": "ELEVENTH CONGRESS.  SESS. III. CH. 43, 44, 45.  1811."
+  },
+  {
+   "role": "page-number",
+   "text": "661"
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE III."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XLIII.—An Act making further appropriations to complete the fortifi-"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1811."
+  },
+  {
+   "role": "body",
+   "text": "cations commenced for the security of the ports and harbors of the United"
+  },
+  {
+   "role": "body",
+   "text": "States."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Appropriation."
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That for the purpose of"
+  },
+  {
+   "role": "body",
+   "text": "completing the fortifications commenced for the security of the ports,"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "towns and harbors of the United States, and the territories thereof, there"
+  },
+  {
+   "role": "body",
+   "text": "be, and hereby is appropriated the sum of one hundred and thirty-one"
+  },
+  {
+   "role": "body",
+   "text": "thousand and forty-six dollars and thirty cents, to be paid out of any"
+  },
+  {
+   "role": "body",
+   "text": "monies in the treasury not otherwise appropriated."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1811."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE III."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XLIV.—An Act for allowing a reasonable compensation to the persons"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1811."
+  },
+  {
+   "role": "body",
+   "text": "who have taken an account of the several manufacturing establishments and"
+  },
+  {
+   "role": "body",
+   "text": "manufactures within the United States."
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Compensation"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That the Secretary of the"
+  },
+  {
+   "role": "sidenote",
+   "text": "to persons tak-"
+  },
+  {
+   "role": "body",
+   "text": "Treasury be, and he hereby is authorized to allow such reasonable com-"
+  },
+  {
+   "role": "sidenote",
+   "text": "ing an account"
+  },
+  {
+   "role": "body",
+   "text": "pensation as he shall deem adequate, for the services of each of those"
+  },
+  {
+   "role": "sidenote",
+   "text": "of manufactur-"
+  },
+  {
+   "role": "body",
+   "text": "persons who took, under his direction, in pursuance of an act, entituled"
+  },
+  {
+   "role": "sidenote",
+   "text": "ing establish-"
+  },
+  {
+   "role": "body",
+   "text": "“An act further to alter and amend An act providing for the third census"
+  },
+  {
+   "role": "sidenote",
+   "text": "ments."
+  },
+  {
+   "role": "body",
+   "text": "or enumeration of the inhabitants of the United States,” an account of"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "the several manufacturing establishments and manufactures within their"
+  },
+  {
+   "role": "sidenote",
+   "text": "1810, ch. 38."
+  },
+  {
+   "role": "body",
+   "text": "several districts : Provided however, that nothing herein contained shall"
+  },
+  {
+   "role": "body",
+   "text": "authorize the Secretary of the Treasury to expend out of the fund"
+  },
+  {
+   "role": "body",
+   "text": "already appropriated for taking the enumeration of the inhabitants of"
+  },
+  {
+   "role": "body",
+   "text": "the United States, a sum exceeding thirty thousand dollars."
+  },
+  {
+   "role": "body",
+   "text": "APPROVED, March 3, 1811."
+  },
+  {
+   "role": "sidenote",
+   "text": "STATUTE III."
+  },
+  {
+   "role": "body",
+   "text": "CHAP. XLV.—An Act in addition to the act to regulate the laying out and"
+  },
+  {
+   "role": "sidenote",
+   "text": "March 3, 1811."
+  },
+  {
+   "role": "body",
+   "text": "making a road from Cumberland, in the state of Maryland, to the state of"
+  },
+  {
+   "role": "body",
+   "text": "Ohio.(a)"
+  },
+  {
+   "role": "sidenote",
+   "text": "[Obsolete.]"
+  },
+  {
+   "role": "body",
+   "text": "Be it enacted by the Senate and House of Representatives of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "Additional ap-"
+  },
+  {
+   "role": "body",
+   "text": "States of America in Congress assembled, That in addition to the unex-"
+  },
+  {
+   "role": "sidenote",
+   "text": "propriation."
+  },
+  {
+   "role": "body",
+   "text": "pended balance of the sum heretofore appropriated for laying out and"
+  },
+  {
+   "role": "body",
+   "text": "making a road from Cumberland in the state of Maryland, to the state"
+  },
+  {
+   "role": "body",
+   "text": "of Ohio, the sum of fifty thousand dollars be, and the same is hereby"
+  },
+  {
+   "role": "sidenote",
+   "text": "1806, ch. 19."
+  },
+  {
+   "role": "body",
+   "text": "appropriated, to be paid out of any money in the treasury not otherwise"
+  },
+  {
+   "role": "sidenote",
+   "text": "1815, ch. 43."
+  },
+  {
+   "role": "body",
+   "text": "appropriated, and to be expended under the direction of the President"
+  },
+  {
+   "role": "body",
+   "text": "of the United States, in making said road between Cumberland in the"
+  },
+  {
+   "role": "body",
+   "text": "state of Maryland, and Brownsville in the state of Pennsylvania, com-"
+  },
+  {
+   "role": "body",
+   "text": "mencing at Cumberland ; which sum of fifty thousand dollars shall be"
+  },
+  {
+   "role": "body",
+   "text": "replaced out of the fund reserved for laying out and making roads to the"
+  },
+  {
+   "role": "body",
+   "text": "state of Ohio, by virtue of the seventh section of an act passed on the"
+  },
+  {
+   "role": "body",
+   "text": "thirtieth day of April, one thousand eight hundred and two, entituled"
+  },
+  {
+   "role": "body",
+   "text": "“An act to enable the people of the eastern division of the territory"
+  },
+  {
+   "role": "body",
+   "text": "northwest of the river Ohio to form a constitution and state government,"
+  },
+  {
+   "role": "body",
+   "text": "and for the admission of such state into the Union, on an equal footing"
+  },
+  {
+   "role": "body",
+   "text": "with the original states, and for other purposes.”"
+  },
+  {
+   "role": "body",
+   "text": "SEC. 2. And be it further enacted, That the President of the United"
+  },
+  {
+   "role": "sidenote",
+   "text": "President may"
+  },
+  {
+   "role": "body",
+   "text": "States be, and he is hereby authorized and empowered to permit such"
+  },
+  {
+   "role": "sidenote",
+   "text": "permit devia-"
+  },
+  {
+   "role": "sidenote",
+   "text": "tions from"
+  },
+  {
+   "role": "body",
+   "text": "deviations from the courses run and established by the commissioners"
+  },
+  {
+   "role": "sidenote",
+   "text": "courses hereto-"
+  },
+  {
+   "role": "body",
+   "text": "under the authority of “An act to regulate the laying out and making a"
+  },
+  {
+   "role": "sidenote",
+   "text": "fore run."
+  },
+  {
+   "role": "body",
+   "text": "road from Cumberland in the state of Maryland, to the state of Ohio,”"
+  },
+  {
+   "role": "footnote",
+   "text": "(a) See act of March 29, 1806, chap. 19, and notes."
+  },
+  {
+   "role": "footnote",
+   "text": "3 K"
+  }
+ ],
+ "disagreement_count": 22,
+ "tokens": {
+  "input_tokens": 23632,
+  "output_tokens": 20297,
+  "cache_read_input_tokens": 833,
+  "cache_creation_input_tokens": 1490
+ },
+ "cost_usd": 0.63531,
+ "seconds": 244.6,
+ "created": "2026-09-08T11:00:48"
+}
