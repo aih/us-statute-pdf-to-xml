@@ -362,6 +362,11 @@ def test_transcribe_fixture_page_top():
         pytest.skip("ANTHROPIC_API_KEY not set")
     png = FIXTURES / "STATUTE-72-Pg1751-p1-top.png"
     t = gold.Transcriber()
-    result = t.transcribe(gold.api_images(png), "A")
+    try:
+        result = t.transcribe(gold.api_images(png), "A")
+    except Exception as exc:  # billing or permission errors are not test failures
+        if "credit balance" in str(exc) or "permission" in str(exc).lower():
+            pytest.skip(f"API not usable: {str(exc)[:120]}")
+        raise
     assert result["lines"] and any("Grand Portage" in l["text"] for l in result["lines"])
     assert result["usage"]["input_tokens"] > 0 and result["cost_usd"] > 0
