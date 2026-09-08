@@ -213,7 +213,8 @@ def produce_document(unit: Unit, num_threads: int = 2, dpi: int = profiles.DEFAU
 def convert_unit(unit: Unit, doclang_path: str, xml_path: str, num_threads: int = 2, dpi: int = profiles.DEFAULT_DPI,
                  rebuild: bool = False) -> UnitResult:
     """Runs inside a worker process: produce the DoclingDocument, write JSON, build USLM, validate.
-    With `rebuild`, an existing DoclingDocument JSON is loaded instead of running the profile again."""
+    With `rebuild`, the existing DoclingDocument JSON is loaded instead of running the profile; a missing JSON
+    is a failure, so a rebuild never starts OCR or a model."""
     started = time.monotonic()
     try:
         family = profiles.get_family(unit.profile)
@@ -229,7 +230,9 @@ def convert_unit(unit: Unit, doclang_path: str, xml_path: str, num_threads: int 
                 xml_path=xml_path, pages=int(stats.get("pages") or 0), seconds=time.monotonic() - started, xsd_valid=ok,
                 xsd_errors=errors or None, stats=stats,
             )
-        if rebuild and Path(doclang_path).exists():
+        if rebuild:
+            if not Path(doclang_path).exists():
+                raise FileNotFoundError(f"--rebuild: no DoclingDocument JSON at {doclang_path} for profile {unit.profile}")
             from docling_core.types.doc import DoclingDocument
 
             doc = DoclingDocument.load_from_json(doclang_path)
@@ -372,7 +375,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--workers", type=int, default=None, help="default min(2, cpu_count // 2); about 1.5 GB RAM per worker")
     p.add_argument("--threads", type=int, default=2, help="torch/OMP threads per worker (default 2)")
     p.add_argument("--force", action="store_true", help="convert even when outputs exist")
-    p.add_argument("--rebuild", action="store_true", help="rebuild the USLM from existing DoclingDocument JSON without rerunning the profile")
+    p.add_argument("--rebuild", action="store_true", help="rebuild the USLM from existing DoclingDocument JSON; never runs the profile (missing JSON fails)")
     p.add_argument("--log-dir", default=str(LOG_DIR))
     return p
 

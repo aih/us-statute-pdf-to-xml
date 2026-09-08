@@ -90,8 +90,10 @@ def wrap_pdf(images: list[Path], out: Path, dpi: int) -> Path:
     import img2pdf
 
     out.parent.mkdir(parents=True, exist_ok=True)
+    # PNG pages carry no resolution metadata and img2pdf's `dpi=` does not set the page size, so the page
+    # size is fixed from `dpi` explicitly (a 300 dpi letter page becomes 612 x 792 pt, not 1912 x 2476).
     with open(out, "wb") as f:
-        f.write(img2pdf.convert([str(p) for p in images], dpi=dpi))
+        f.write(img2pdf.convert([str(p) for p in images], layout_fun=img2pdf.get_fixed_dpi_layout_fun((dpi, dpi))))
     return out
 
 

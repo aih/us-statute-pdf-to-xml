@@ -32,4 +32,5 @@ def test_page_one_of_pl_85_910_from_the_text_layer():
     if not PDF.exists():
         pytest.skip(f"{PDF} not downloaded")
     doc = profiles.make_converter("textlayer").convert(str(PDF), page_range=(1, 1)).document
-    assert "Grand Portage" in doc.export_to_text()
+    text = " ".join(getattr(item, "text", "") or "" for item, _ in doc.iterate_items())
+    assert "Grand Portage" in text

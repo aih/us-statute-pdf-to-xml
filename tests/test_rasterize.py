@@ -20,7 +20,7 @@ def small_pdf(tmp_path):
         im.save(p)
         pages.append(str(p))
     pdf = tmp_path / "two.pdf"
-    pdf.write_bytes(img2pdf.convert(pages, dpi=72))
+    pdf.write_bytes(img2pdf.convert(pages, layout_fun=img2pdf.get_fixed_dpi_layout_fun((72, 72))))  # 300 x 400 pt pages
     return pdf
 
 
@@ -47,7 +47,10 @@ def test_rasterize_writes_variants_wrappers_and_manifest(small_pdf, tmp_path):
     # the wrapper has the same page count and can be rendered again
     import pypdfium2 as pdfium
 
-    assert len(pdfium.PdfDocument(str(r.pdfs["clean"]))) == 2
+    wrapped = pdfium.PdfDocument(str(r.pdfs["clean"]))
+    assert len(wrapped) == 2
+    w, h = wrapped[0].get_size()
+    assert abs(w - 300) < 1 and abs(h - 400) < 1  # page size in points equals pixels at 72 dpi
     # a second call reuses the manifest
     again = rasterize.rasterize(small_pdf, "TEST-1", out_root=out_root, dpi=72)
     assert again.images["clean"] == r.images["clean"]

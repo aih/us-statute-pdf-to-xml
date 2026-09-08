@@ -362,6 +362,9 @@ def run(args) -> int:
             profile_arg = None if profile_name == "auto" else profile_name
             units = [u for u in conv.units_from_spec(args.spec, None, profile_arg) if u.unit_id in keep]
             if tier == "A":
+                if profile_name != "auto" and profiles.get_family(profile_name).builds_uslm:
+                    logger.info("tier A: %s builds USLM from another profile's output and takes no page images; skipped", profile_name)
+                    continue
                 if profile_name == "auto":
                     logger.warning("tier A with profile auto runs the digital profile on images; pass --profiles")
                 units = tier_a_units(units, args.variant, entries_by_id)
@@ -379,7 +382,11 @@ def run(args) -> int:
                     failures[key] = "not downloaded"
                     continue
                 if result is None or result.status == "failed" or not result.xml_path:
-                    failures[key] = (result.error if result else "not converted")
+                    err = result.error if result else "not converted"
+                    if err and "--rebuild: no DoclingDocument JSON" in err:
+                        skipped[key] = "no DoclingDocument JSON for this profile (not converted by its runner)"
+                    else:
+                        failures[key] = err
                     continue
                 volume = int(row["package_id"].split("-")[1])
                 gt_dir = splits.get(volume)
@@ -495,7 +502,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--dpi", type=int, default=profiles.DEFAULT_DPI)
     p.add_argument("--workers", type=int, default=None)
     p.add_argument("--force", action="store_true", help="reconvert and recompute metrics")
-    p.add_argument("--rebuild", action="store_true", help="rebuild USLM from existing DoclingDocument JSON (no OCR) and recompute metrics")
+    p.add_argument("--rebuild", action="store_true", help="rebuild USLM from existing DoclingDocument JSON and recompute metrics; never runs a profile (missing JSON fails)")
     p.add_argument("--run-id", default=None)
     p.add_argument("--log-dir", default=str(LOG_DIR))
     return p

@@ -35,6 +35,15 @@ pipeline/
                      Keeps every body item: text before the document start -> preface/p, text after the
                      approval line -> appendix[@role=trailingMatter]; UslmBuilder.stats and warnings
   split_uslm.py      volume USLM -> one USLM document per granule; unpaired.json lists granules without a slice
+  textlayer.py       family `textlayer`: Docling layout over the embedded text layer of scanned granule PDFs (C1)
+  ocr_engines.py     families `tesseract` (psm4, psm6), `rapidocr`, `easyocr` through Docling's OCR options (C2, C3);
+                     model files prefetched under the artifacts path
+  vlm.py             family `vlm:<spec>`: Docling VlmPipeline (granite_docling, glm_ocr, lightonocr, nanonets_ocr2 on
+                     MLX; deepseek_ocr on HF Jobs); `pipeline.vlm run` writes DoclingDocument JSON without a database (C4)
+  claude_ocr.py      family `claude:<model>`: one Claude request per page image, line schema, Batch API,
+                     DoclingDocument adapter with synthetic geometry; usage sidecar per granule (C5)
+  hybrid.py          family `hybrid:<profile>`: GPO slice structure with the candidate's text (difflib per section),
+                     identifiers per the plan's section 7 (C6)
   schemas/           uslm-2.0.17.xsd and its imports (xml.xsd, dc.xsd, xhtml-datatypes-1.xsd, mathml3*.xsd,
                      uslm-table-module-2.0.17.xsd) with schemaLocation rewritten to local files
 benchmark/
@@ -48,6 +57,9 @@ benchmark/
   judge.py           Claude judge: structured output, PDF pages as document blocks, aligned XML segments
   evaluate.py        convert -> metrics -> judge for --profiles and --tier A,B; benchmarks rows (profile, tier);
                      profile-by-era matrix report in data/reports/
+  jobs.py            HF Jobs runner for GPU VLM specs: stage inputs in the dataset repo, submit, status, fetch
+  gold.py            gold set: sample 150 public-law pages by period, transcribe twice with Claude and adjudicate,
+                     benchmark/gold/{granule}/p{n}.json; score a profile and the GPO text against the gold pages
 db/migrations/       001_initial, 002_packages_granules, 003_title_text, 004_granule_pages,
                      005_conversion_benchmark_columns, 006_conversion_stats_profile
 tests/               pytest; fixtures hold real GovInfo MODS, summaries, a PLAW USLM, four Docling outputs, and the
