@@ -142,15 +142,25 @@ def engine_options(engine: str, ollama_url: Optional[str] = None):
     raise ValueError(f"unknown engine {engine!r}; expected mlx, transformers, api_ollama, or auto")
 
 
-def convert_options(variant: VlmVariant, engine: str, ollama_url: Optional[str] = None):
+def convert_options(variant: VlmVariant, engine: str, ollama_url: Optional[str] = None, repo_id: Optional[str] = None):
+    """The preset's VlmConvertOptions for an engine. `repo_id` replaces the checkpoint the preset names for that
+    engine (for example a quantized MLX build); prompt, response format, and limits stay the preset's."""
     from docling.datamodel.pipeline_options import VlmConvertOptions
 
-    return VlmConvertOptions.from_preset(variant.preset, engine_options=engine_options(engine, ollama_url))
+    vc = VlmConvertOptions.from_preset(variant.preset, engine_options=engine_options(engine, ollama_url))
+    if repo_id:
+        from docling.datamodel.stage_model_specs import EngineModelConfig
+
+        et = vc.engine_options.engine_type
+        current = vc.model_spec.engine_overrides.get(et)
+        override = current.model_copy(update={"repo_id": repo_id}) if current is not None else EngineModelConfig(repo_id=repo_id)
+        vc.model_spec = vc.model_spec.model_copy(update={"engine_overrides": {**vc.model_spec.engine_overrides, et: override}})
+    return vc
 
 
-def spec_info(variant: VlmVariant, engine: str) -> dict:
+def spec_info(variant: VlmVariant, engine: str, repo_id: Optional[str] = None) -> dict:
     """Model spec actually used for a variant and engine: preset, repo id, revision, prompt, limits."""
-    vc = convert_options(variant, engine)
+    vc = convert_options(variant, engine, repo_id=repo_id)
     et = vc.engine_options.engine_type
     spec = vc.model_spec
     return {
@@ -158,11 +168,13 @@ def spec_info(variant: VlmVariant, engine: str) -> dict:
         "revision": spec.get_revision(et), "response_format": spec.response_format.value, "scale": vc.scale,
         "max_size": vc.max_size, "max_new_tokens": spec.max_new_tokens, "prompt": spec.prompt,
         "api_params": spec.get_api_params(et) if et.value.startswith("api") else None,
+        "repo_id_override": repo_id or None,
     }
 
 
 def _vlm_options(variant: Optional[str] = None, dpi: int = DEFAULT_DPI, num_threads: int = 2,
-                 artifacts_path: Optional[str] = None, engine: Optional[str] = None, ollama_url: Optional[str] = None):
+                 artifacts_path: Optional[str] = None, engine: Optional[str] = None, ollama_url: Optional[str] = None,
+                 repo_id: Optional[str] = None):
     """VlmPipelineOptions for a variant: the preset's model spec and scale, no stored page images, no OCR stages.
     `dpi` is accepted for the profile interface and not used (the preset's `scale` sets the render resolution)."""
     from docling.datamodel.accelerator_options import AcceleratorOptions
@@ -170,7 +182,7 @@ def _vlm_options(variant: Optional[str] = None, dpi: int = DEFAULT_DPI, num_thre
 
     v = get_variant(variant)
     engine = engine or default_engine(v)
-    opts = VlmPipelineOptions(vlm_options=convert_options(v, engine, ollama_url))
+    opts = VlmPipelineOptions(vlm_options=convert_options(v, engine, ollama_url, repo_id))
     opts.artifacts_path = artifacts_path or os.getenv("DOCLING_ARTIFACTS_PATH") or None
     opts.accelerator_options = AcceleratorOptions(num_threads=num_threads)
     opts.generate_page_images = False
@@ -307,14 +319,15 @@ def sha256_file(path: Path | str) -> str:
     return h.hexdigest()
 
 
-def make_vlm_converter(variant: VlmVariant, engine: str, num_threads: int = 2, ollama_url: Optional[str] = None):
+def make_vlm_converter(variant: VlmVariant, engine: str, num_threads: int = 2, ollama_url: Optional[str] = None,
+                       repo_id: Optional[str] = None):
     """DocumentConverter for a variant and engine; one instance loads the model once and converts many PDFs."""
     from docling.datamodel.base_models import InputFormat
     from docling.datamodel.settings import settings
     from docling.document_converter import DocumentConverter, PdfFormatOption
 
     settings.debug.profile_pipeline_timings = True
-    opts = _vlm_options(variant.name, num_threads=num_threads, engine=engine, ollama_url=ollama_url)
+    opts = _vlm_options(variant.name, num_threads=num_threads, engine=engine, ollama_url=ollama_url, repo_id=repo_id)
     return DocumentConverter(format_options={InputFormat.PDF: PdfFormatOption(pipeline_options=opts, pipeline_cls=_pipeline_cls())})
 
 
@@ -453,7 +466,8 @@ def select_units(entries: list[dict], data_dir: Path = DATA_DIR, granules: Optio
 
 
 def run_units(units: list[VlmUnit], variant: VlmVariant, engine: str, data_dir: Path = DATA_DIR, force: bool = False,
-              num_threads: int = 2, time_budget_s: Optional[float] = None, ollama_url: Optional[str] = None) -> list[VlmTiming]:
+              num_threads: int = 2, time_budget_s: Optional[float] = None, ollama_url: Optional[str] = None,
+              repo_id: Optional[str] = None) -> list[VlmTiming]:
     """Convert units one after another with one converter; skip units whose JSON and sidecar exist unless `force`.
     Stops starting new units once `time_budget_s` of wall time has passed."""
     todo = []
@@ -468,14 +482,14 @@ def run_units(units: list[VlmUnit], variant: VlmVariant, engine: str, data_dir: 
         return results
     logger.info("vlm:%s [%s]: %d unit(s), %d page(s)", variant.name, engine, len(todo), sum(u.pages or 0 for u, _ in todo))
     t_load = time.monotonic()
-    converter = make_vlm_converter(variant, engine, num_threads=num_threads, ollama_url=ollama_url)
+    converter = make_vlm_converter(variant, engine, num_threads=num_threads, ollama_url=ollama_url, repo_id=repo_id)
     started = time.monotonic()
     for u, out in todo:
         if time_budget_s and time.monotonic() - started > time_budget_s:
             logger.warning("time budget reached; %s and later units not started", u.stem)
             break
         doc, timing = convert_pdf(u.pdf, variant, engine, converter, stem=u.stem, granule_id=u.granule_id)
-        timing.spec = spec_info(variant, engine)
+        timing.spec = spec_info(variant, engine, repo_id)
         timing.stats.update({"granule_class": u.granule_class, "era": u.era, "tier": u.tier})
         write_outputs(doc, timing, out)
         results.append(timing)
@@ -572,12 +586,14 @@ def notes_markdown(rows: list[dict]) -> str:
     return "\n".join(lines) + "\n"
 
 
-def append_notes(report: Path, rows: list[dict]) -> None:
+def append_notes(report: Path, rows: list[dict], extra: Optional[str] = None) -> None:
+    """Replace or add the report's `## Notes` section: the timing tables, then `extra` markdown."""
     text = report.read_text(encoding="utf-8")
     marker = "\n## Notes\n"
     if marker in text:
         text = text[: text.index(marker) + 1]
-    report.write_text(text.rstrip("\n") + "\n\n" + notes_markdown(rows), encoding="utf-8")
+    notes = notes_markdown(rows) + (("\n" + extra.strip() + "\n") if extra else "")
+    report.write_text(text.rstrip("\n") + "\n\n" + notes, encoding="utf-8")
 
 
 # ---------------------------------------------------------------------------- CLI
@@ -591,6 +607,7 @@ def build_parser() -> argparse.ArgumentParser:
     r.add_argument("--variant", default=DEFAULT_VARIANT, choices=sorted(VARIANTS))
     r.add_argument("--engine", default=None, help="mlx | transformers | api_ollama | auto (default: per host)")
     r.add_argument("--ollama-url", default=None, help="chat completions URL for api_ollama")
+    r.add_argument("--repo-id", default=None, help="checkpoint replacing the preset's for this engine (e.g. a 4-bit MLX build)")
     r.add_argument("--granule", action="append", default=[], help="granule id from the spec (repeatable)")
     r.add_argument("--classes", default=None, help="comma-separated granule classes to keep")
     r.add_argument("--max-pages", type=int, default=None, help="skip granules whose PDF has more pages")
@@ -619,6 +636,7 @@ def build_parser() -> argparse.ArgumentParser:
     n.add_argument("--report", required=True)
     n.add_argument("--data-dir", default=str(DATA_DIR))
     n.add_argument("--variants", default=None, help="comma-separated (default all)")
+    n.add_argument("--extra", default=None, help="markdown file appended after the tables")
     return p
 
 
@@ -633,9 +651,9 @@ def cmd_run(args) -> int:
         pdf = Path(args.pdf)
         stem = args.stem or pdf.stem
         out = output_path(variant.name, stem, data_dir)
-        converter = make_vlm_converter(variant, engine, num_threads=args.threads, ollama_url=args.ollama_url)
+        converter = make_vlm_converter(variant, engine, num_threads=args.threads, ollama_url=args.ollama_url, repo_id=args.repo_id)
         doc, timing = convert_pdf(pdf, variant, engine, converter, stem=stem, page_range=parse_page_range(args.page_range))
-        timing.spec = spec_info(variant, engine)
+        timing.spec = spec_info(variant, engine, args.repo_id)
         write_outputs(doc, timing, out)
         logger.info("%s: %s, %d page(s) in %.0fs -> %s", stem, timing.status, timing.pages, timing.seconds, out)
         return 0 if timing.status != "failed" else 1
@@ -649,7 +667,8 @@ def cmd_run(args) -> int:
         logger.error("no units selected")
         return 2
     results = run_units(units, variant, engine, data_dir, force=args.force, num_threads=args.threads,
-                        time_budget_s=args.time_budget * 60 if args.time_budget else None, ollama_url=args.ollama_url)
+                        time_budget_s=args.time_budget * 60 if args.time_budget else None, ollama_url=args.ollama_url,
+                        repo_id=args.repo_id)
     ok = [r for r in results if r.status != "failed"]
     pages = sum(r.pages for r in ok)
     secs = sum(r.seconds for r in ok)
@@ -682,7 +701,7 @@ def cmd_spec(args) -> int:
 def cmd_notes(args) -> int:
     variants = [v.strip() for v in args.variants.split(",")] if args.variants else None
     rows = load_timings(Path(args.data_dir), variants)
-    append_notes(Path(args.report), rows)
+    append_notes(Path(args.report), rows, Path(args.extra).read_text(encoding="utf-8") if args.extra else None)
     print(f"{len(rows)} sidecar(s) -> {args.report}")
     return 0
 

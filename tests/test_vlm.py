@@ -49,6 +49,10 @@ def test_spec_mapping_uses_docling_presets():
     assert vlm.spec_info(vlm.get_variant("deepseek_ocr"), "api_ollama")["api_params"]["model"] == "deepseek-ocr:3b"
     with pytest.raises(ValueError):
         vlm.engine_options("vllm-serve")
+    quant = vlm.spec_info(vlm.get_variant("nanonets_ocr2"), "mlx", repo_id="mlx-community/Nanonets-OCR2-3B-4bit")
+    assert quant["repo_id"] == "mlx-community/Nanonets-OCR2-3B-4bit" and quant["repo_id_override"] == quant["repo_id"]
+    assert quant["prompt"] == vlm.spec_info(vlm.get_variant("nanonets_ocr2"), "mlx")["prompt"] and quant["max_new_tokens"] == 15000
+    assert vlm.spec_info(vlm.get_variant("nanonets_ocr2"), "transformers")["repo_id"] == "nanonets/Nanonets-OCR2-3B"  # untouched
 
 
 def test_pipeline_options_and_converter_class():
@@ -131,9 +135,9 @@ def test_write_outputs_and_notes(tmp_path):
     assert len(rows) == 1
     report = tmp_path / "r.md"
     report.write_text("# Benchmark x\n\n| a |\n\n## Notes\n\nold\n")
-    vlm.append_notes(report, rows)
+    vlm.append_notes(report, rows, extra="### Run\n\nextra line\n")
     text = report.read_text()
-    assert text.count("## Notes") == 1 and "old" not in text
+    assert text.count("## Notes") == 1 and "old" not in text and text.endswith("### Run\n\nextra line\n")
     assert "| glm_ocr | mlx | B | scanned-pre-1951 | 1 | 2 | 5.0 | 4.0 | 250 | 1 | 0 | 0 | 3 | mac |" in text
     # failed sidecars do not divide by zero
     failed = vlm.VlmTiming(stem="X", variant="glm_ocr", engine="mlx", status="failed", errors=["boom"])
