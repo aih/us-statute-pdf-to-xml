@@ -778,7 +778,6 @@ def build(args) -> int:
         return 0
 
     transcriber = Transcriber(model=args.model, effort=args.effort, adjudication_effort=args.adjudication_effort)
-    budget = Budget(args.budget, len(planned), spent=existing_cost, done=existing)
     todo = []
     existing = 0
     existing_cost = 0.0
@@ -793,6 +792,7 @@ def build(args) -> int:
                 existing_cost += float(rec.get("cost_usd") or 0.0)
                 continue
         todo.append((p, png, out))
+    budget = Budget(args.budget, len(planned), spent=existing_cost, done=existing)
     logger.info("%d page(s) already built ($%.2f), %d to transcribe with %s (%d in flight, budget $%.0f)",
                 existing, existing_cost, len(todo), args.model, IN_FLIGHT, args.budget)
     if args.fetch_only:
