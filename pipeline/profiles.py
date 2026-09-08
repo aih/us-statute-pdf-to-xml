@@ -35,6 +35,7 @@ FAMILY_MODULES = (
     "pipeline.ocr_engines",
     "pipeline.vlm",
     "pipeline.claude_ocr",
+    "pipeline.hybrid",
 )
 
 
