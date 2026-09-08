@@ -347,3 +347,26 @@ def test_official_title_stops_at_the_enacting_formula_and_is_bounded():
     assert root.findtext(f"{NS}main/{NS}longTitle/{NS}officialTitle") == lines[2] + " " + lines[3]
     assert root.findtext(f"{NS}main/{NS}enactingFormula") == lines[4]
     assert root.find(f"{NS}main/{NS}section") is not None
+
+
+def test_running_heads_in_vlm_markdown_do_not_end_the_document():
+    """LightOnOCR output has synthesized boxes, so the page-2 running head "PUBLIC LAW 85-910—SEPT. 2, 1958"
+    reached the body and the next-document rule moved pages 2 and 3 into trailing matter."""
+    DoclingDocument = pytest.importorskip("docling_core.types.doc").DoclingDocument
+    doc = DoclingDocument.load_from_json(FIXTURES / "STATUTE-72-Pg1751.lightonocr.docling.json")
+    identity = DocIdentity(granule_id="STATUTE-72-Pg1751", package_id="STATUTE-72", volume=72, start_page=1751,
+                           congress=85, law_number=910)
+    pages = uslm.load_pages(doc)
+    assert [it.text for it in pages[1].items if it.kind == "header"] == ["1752", "PUBLIC LAW 85-910—SEPT. 2, 1958", "[72 STAT."]
+    assert [it.text for it in pages[2].items if it.kind == "header"] == ["72 STAT.] PUBLIC LAW 85-910—SEPT. 2, 1958 1753"]
+    tree, stats = uslm.build_uslm_with_stats(doc, identity)
+    assert not any("next document starts" in w for w in stats["warning_log"])
+    assert stats["trailing_items"] == 1 and stats["body_chars"] > 10000  # "16 USC 1." after the approval line
+    ns = {"u": uslm.USLM_NS}
+    assert len(tree.findall(".//u:section", ns)) == 10
+    body_text = " ".join(tree.getroot().find(".//u:main", ns).itertext())
+    assert "Grand Portage National Monument is abandoned" in body_text
+    assert uslm.is_running_head("448 FOURTH CONGRESS. SESS. I. CH. 2, 4. 1796.")
+    assert uslm.is_running_head("SIXTY-SECOND CONGRESS. SESS. II. CHS. 32, 33. 1912.")
+    assert not uslm.is_running_head("Public Law 85-910") and not uslm.is_running_head("AN ACT")
+    assert not uslm.is_running_head("Be it enacted by the Senate and House of Representatives of the United")

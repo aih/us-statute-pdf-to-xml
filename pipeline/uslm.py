@@ -26,7 +26,9 @@ last page ends with the head of the next one. The builder keeps every body item 
 after the law's own "Approved" line go into an `appendix` with role `trailingMatter`, and items that
 match no rule go into the current level as `content`/`p`. `UslmBuilder.stats` reports the character
 counts and the warnings raised on the way; nothing Docling produced is discarded except page
-furniture (running heads after the first, typesetting footers).
+furniture (running heads after the first, typesetting footers). Running heads are found by position on the
+page; a short line among the first three of a page that reads like one (`RE_RUNNING_HEADS`) is treated as a
+running head too, which covers VLM output whose boxes are synthesized and carry no position.
 """
 
 from __future__ import annotations
@@ -86,6 +88,16 @@ RE_LEG_HISTORY = re.compile(r"^LEGISLATIVE\s+HISTORY", re.I)
 RE_STAT_HEAD = re.compile(r"^\d+\s+STAT\.\s*\d*", re.I)
 RE_VERDATE = re.compile(r"^(VerDate|Jkt\s|PO\s0|Frm\s0|Fmt\s\d|Sfmt\s\d|E:\\|PsN:|APPS\d|\d{2}:\d{2}\s\w{3}\s\d{2},\s\d{4}$)")
 RE_PAGE_NUM = re.compile(r"^[\[\(]?\s*\d{1,4}\s*[\]\)]?$")
+# Running heads by their text, for output without page geometry (VLM markdown gets synthesized boxes): "72 STAT.]",
+# "[72 STAT.", "PUBLIC LAW 85-910—SEPT. 2, 1958", "448 FOURTH CONGRESS. SESS. I. CH. 2, 4. 1796.", a bare page number.
+RE_RUNNING_HEADS = (
+    RE_STAT_HEAD,
+    re.compile(r"^\[?\s*\d+\s+STAT\.?\s*\]?$", re.I),
+    re.compile(r"^(?:PUBLIC|PRIVATE)\s+LAW\s+\d+\s*[-–—]\s*\d+\s*[-–—]+\s*[A-Z][A-Za-z]{2,8}\.?\s+\d{1,2},\s+\d{4}", re.I),
+    re.compile(r"^(?:\d{1,4}\s+)?[A-Z][A-Z\-]+\s+CONGRESS\.?\s+SESS\.?", re.I),
+    RE_PAGE_NUM,
+)
+PAGE_TOP_ITEMS = 3  # items at the top of a page, in reading order, checked against RE_RUNNING_HEADS
 
 LEVEL_ORDER = ["section", "subsection", "paragraph", "subparagraph", "clause", "subclause", "item", "subitem"]
 ROMAN = re.compile(r"^(i{1,3}|iv|v|vi{0,3}|ix|x{1,3}|xi{1,3}|xiv|xv)$")
@@ -217,6 +229,14 @@ def classify_items(page: Page) -> None:
         else:
             it.kind = "body"
     page.items.sort(key=lambda it: (-round(it.t / 4), it.l))
+    for it in page.items[:PAGE_TOP_ITEMS]:
+        if it.kind == "body" and is_running_head(it.text):
+            it.kind = "header"
+
+
+def is_running_head(text: str) -> bool:
+    """A short line at the top of a page that reads like a running head."""
+    return len(text) < 80 and "\n" not in text and any(r.match(text) for r in RE_RUNNING_HEADS)
 
 
 # ---------------------------------------------------------------------------- text helpers
