@@ -22,8 +22,8 @@ VOLUME_XML = f"""<?xml version="1.0" encoding="UTF-8"?>
      <main><page identifier="/us/stat/64/3"/><section><content>Text one.</content></section></main></pLaw></component>
    <component><pLaw><meta><dc:title>Second</dc:title><citableAs>64 Stat. 3</citableAs></meta>
      <main><section><content>Text two.</content><page identifier="/us/stat/64/4"/></section></main></pLaw></component>
-   <component><pLaw><meta><dc:title>Third</dc:title><citableAs>64 Stat. 4</citableAs></meta>
-     <main><section><content>Text three.</content></section></main></pLaw></component>
+   <component><pLaw><meta><dc:title>Third</dc:title><citableAs>Public Law 81-3</citableAs><citableAs>64 Stat. 4</citableAs></meta>
+     <main><section><content>Text three.</content></section><page identifier="/us/stat/64/5"/></main></pLaw></component>
   </publicLaws>
   <concurrentResolutions>
    <preface><page identifier="/us/stat/64/a279"/><p>RESOLUTIONS</p></preface>
@@ -110,6 +110,21 @@ def test_split_assigns_ids_and_writes_files(volume_file, tmp_path):
     assert root.findtext(f"{{{USLM}}}meta/{{{USLM}}}citableAs") == "64 Stat. 3"
     index = json.loads((out / "index.json").read_text())
     assert index[1]["granule_id"] == "STATUTE-64-Pg3" and index[1]["start_page"] == "3" and index[1]["matched"] is True
+
+
+def test_f4_unpaired_granules_are_reported(volume_file, tmp_path):
+    """Reproduction of F4: GovInfo lists more resolution granules than the XML has documents, so the
+    group cannot be aligned and those granules get no reference slice."""
+    listing = GRANULES + [{"granuleId": "STATUTE-64-PgA290", "granuleClass": "HCONRES"}]
+    out = tmp_path / "o"
+    report = split_volume(volume_file, out, listing)
+    unpaired = report.unpaired(listing)
+    ids = {u["granule_id"] for u in unpaired}
+    assert "STATUTE-64-PgA290" in ids and all(u["reason"] for u in unpaired)
+    assert {u["granule_class"] for u in unpaired if u["granule_id"] == "STATUTE-64-PgA290"} == {"HCONRES"}
+    written = json.loads((out / "unpaired.json").read_text())
+    assert {u["granule_id"] for u in written} == ids
+    assert "STATUTE-64-Pg3" not in ids  # laws pair one-to-one through citableAs
 
 
 def test_split_without_listing_uses_synthetic_matter_ids(volume_file, tmp_path):

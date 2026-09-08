@@ -31,6 +31,10 @@ classes:
 - TREATY
 - HCONRES
 - SCONRES
+era_classes:
+  digital-2003+:
+  - PUBLICLAW
+  - PRIVATELAW
 granules:
 - granule_id: STATUTE-39-Pg342-2
   package_id: STATUTE-39
@@ -354,75 +358,3 @@ granules:
     War while a member of the Marine Corps
   est_pages: 4
   date_issued: '2018-01-29'
-- granule_id: STATUTE-124-Pg4665
-  package_id: STATUTE-124
-  volume: 124
-  era: digital-2003+
-  granule_class: PROCLAMATION
-  title: Death of Senator Robert C. Byrd, President Pro Tempore of the Senate
-  est_pages: 1
-  date_issued: '2010-06-30'
-- granule_id: STATUTE-132-Pg5703
-  package_id: STATUTE-132
-  volume: 132
-  era: digital-2003+
-  granule_class: PROCLAMATION
-  title: Law Day, U.S.A., 2018
-  est_pages: 1
-  date_issued: '2018-04-30'
-- granule_id: STATUTE-132-Pg5858
-  package_id: STATUTE-132
-  volume: 132
-  era: digital-2003+
-  granule_class: PROCLAMATION
-  title: Gold Star Mother's and Family's Day, 2018
-  est_pages: 1
-  date_issued: '2018-09-28'
-- granule_id: STATUTE-132-Pg5600
-  package_id: STATUTE-132
-  volume: 132
-  era: digital-2003+
-  granule_class: HCONRES
-  title: JOINT SESSION
-  est_pages: 1
-  date_issued: '2018-01-29'
-- granule_id: STATUTE-132-Pg5601-2
-  package_id: STATUTE-132
-  volume: 132
-  era: digital-2003+
-  granule_class: HCONRES
-  title: ENROLLMENT CORRECTIONS--H.R. 1892
-  est_pages: 2
-  date_issued: '2018-02-09'
-- granule_id: STATUTE-132-Pg5607-2
-  package_id: STATUTE-132
-  volume: 132
-  era: digital-2003+
-  granule_class: HCONRES
-  title: 2026 FIFA WORLD CUP--CANADA, MEXICO, AND THE UNITED STATES-- UNITED BID COMMITTEE-- RECOGNITION AND SUPPORT
-  est_pages: 2
-  date_issued: '2018-06-12'
-- granule_id: STATUTE-132-Pg5609-2
-  package_id: STATUTE-132
-  volume: 132
-  era: digital-2003+
-  granule_class: SCONRES
-  title: JOHN SIDNEY MCCAIN III--LYING IN STATE--CAPITOL ROTUNDA AUTHORIZATION
-  est_pages: 1
-  date_issued: '2018-08-28'
-- granule_id: STATUTE-132-Pg5611-2
-  package_id: STATUTE-132
-  volume: 132
-  era: digital-2003+
-  granule_class: SCONRES
-  title: ENROLLMENT CORRECTION--S. 140
-  est_pages: 1
-  date_issued: '2018-11-27'
-- granule_id: STATUTE-132-Pg5611-3
-  package_id: STATUTE-132
-  volume: 132
-  era: digital-2003+
-  granule_class: SCONRES
-  title: GEORGE HERBERT WALKER BUSH-- LYING IN STATE--CAPITOL ROTUNDA AUTHORIZATION
-  est_pages: 1
-  date_issued: '2018-12-03'

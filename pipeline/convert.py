@@ -1,13 +1,15 @@
 """Convert PDFs to DoclingDocument JSON and USLM XML with a pool of Docling workers.
 
-    python -m pipeline.convert --spec benchmark/sample.yaml [--workers 4]        granule PDFs from a sample spec
+    python -m pipeline.convert --spec benchmark/sample.yaml [--workers 2] [--profile scanned:psm6]
     python -m pipeline.convert --plaw PLAW-118publ5 [--plaw ...]                 per-law PDFs from data/pdfs/
     python -m pipeline.convert --pdf path.pdf --profile scanned --page-range 1-20 [--volume 64 --start-page 371]
 
 Unit of work: one granule PDF or one PLAW PDF, optionally restricted to a page range. Each worker
 process creates one DocumentConverter per profile in its initializer and reuses it. Output:
-data/doclang/{id}.json (compact DoclingDocument) and data/generated_xmls/{id}.xml (USLM). A unit is
-skipped when both outputs exist and the input sha256 recorded in `conversions` is unchanged.
+data/doclang/{profile}/{id}.json (compact DoclingDocument) and data/generated_xmls/{profile}/{id}.xml
+(USLM); `conversions.module_used` carries the profile name. A unit is skipped when both outputs exist
+and the input sha256 recorded in `conversions` is unchanged. Profiles whose family has a `converter`
+(pipeline.profiles) bypass Docling and produce the DoclingDocument through that callable.
 """
 
 from __future__ import annotations
@@ -28,14 +30,23 @@ from typing import Optional
 from downloader import db
 from downloader.config import DATA_DIR, LOG_DIR, setup_logging
 from downloader.fetch_granules import load_spec
-from pipeline import uslm
+from pipeline import profiles, uslm
 from pipeline.profiles import profile_for_volume
 
 logger = logging.getLogger("convert")
 
-MODULE = "docling_local"
 DOCLANG_DIR = DATA_DIR / "doclang"
 XML_DIR = DATA_DIR / "generated_xmls"
+
+
+def profile_dirname(profile: str) -> str:
+    """Directory name for a profile: `scanned:psm6` -> `scanned-psm6`."""
+    return profile.replace(":", "-").replace("/", "-")
+
+
+def output_paths(profile: str, stem: str) -> tuple[Path, Path]:
+    d = profile_dirname(profile)
+    return DOCLANG_DIR / d / f"{stem}.json", XML_DIR / d / f"{stem}.xml"
 
 
 @dataclass
@@ -48,12 +59,21 @@ class Unit:
     granule_id: Optional[str] = None
     package_id: Optional[str] = None
     statute_id: Optional[int] = None
+    tag: Optional[str] = None  # input variant, e.g. "A-clean" for a tier A raster; part of the ledger key
 
     @property
     def stem(self) -> str:
+        stem = self.unit_id
         if self.page_range:
-            return f"{self.unit_id}_p{self.page_range[0]}-{self.page_range[1]}"
-        return self.unit_id
+            stem = f"{stem}_p{self.page_range[0]}-{self.page_range[1]}"
+        if self.tag:
+            stem = f"{stem}_{self.tag}"
+        return stem
+
+    @property
+    def module(self) -> str:
+        """conversions.module_used: the profile, plus the input tag when there is one."""
+        return f"{self.profile}@{self.tag}" if self.tag else self.profile
 
 
 @dataclass
@@ -68,6 +88,7 @@ class UnitResult:
     error: Optional[str] = None
     input_sha256: Optional[str] = None
     xsd_errors: Optional[list[str]] = None
+    stats: Optional[dict] = None  # uslm.UslmBuilder.stats: docling_chars, kept_chars, body_chars, warnings, ...
 
 
 def sha256_file(path: Path | str) -> str:
@@ -112,7 +133,7 @@ def previous_success(conn, unit: Unit) -> Optional[dict]:
         cur.execute(
             "SELECT * FROM conversions WHERE COALESCE(granule_id, package_id) = %s AND COALESCE(page_range, '') = %s "
             "AND module_used = %s ORDER BY conversion_date DESC LIMIT 1",
-            (unit.granule_id or unit.package_id, f"{unit.page_range[0]}-{unit.page_range[1]}" if unit.page_range else "", MODULE),
+            (unit.granule_id or unit.package_id, f"{unit.page_range[0]}-{unit.page_range[1]}" if unit.page_range else "", unit.module),
         )
         row = cur.fetchone()
     return dict(row) if row else None
@@ -128,23 +149,26 @@ def should_skip(unit: Unit, sha: str, doclang_path: Path, xml_path: Path, previo
 
 def record(conn, unit: Unit, result: UnitResult) -> None:
     page_range = f"{unit.page_range[0]}-{unit.page_range[1]}" if unit.page_range else None
+    stats = result.stats or {}
     with conn.cursor() as cur:
         cur.execute(
             "DELETE FROM conversions WHERE COALESCE(granule_id, package_id) = %s AND COALESCE(page_range, '') = %s AND module_used = %s",
-            (unit.granule_id or unit.package_id, page_range or "", MODULE),
+            (unit.granule_id or unit.package_id, page_range or "", unit.module),
         )
         cur.execute(
             """
             INSERT INTO conversions (statute_id, module_used, uslm_xml_path, doclang_json_path, status, error_log,
                                      granule_id, package_id, input_path, input_sha256, profile, page_range, pages,
-                                     seconds, xsd_valid)
-            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                                     seconds, xsd_valid, warnings, warning_log, docling_chars, body_chars, kept_chars)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
             """,
             (
-                unit.statute_id, MODULE, result.xml_path, result.doclang_path, result.status,
+                unit.statute_id, unit.module, result.xml_path, result.doclang_path, result.status,
                 (result.error or "") + ("\n".join(result.xsd_errors[:20]) if result.xsd_errors else "") or None,
                 unit.granule_id, unit.package_id, unit.pdf, result.input_sha256, unit.profile, page_range,
                 result.pages, result.seconds, result.xsd_valid,
+                stats.get("warnings"), "\n".join(stats.get("warning_log") or []) or None,
+                stats.get("docling_chars"), stats.get("body_chars"), stats.get("kept_chars"),
             ),
         )
     conn.commit()
@@ -163,35 +187,53 @@ def _init_worker(num_threads: int) -> None:
     logging.getLogger("docling").setLevel(logging.WARNING)
 
 
-def _converter(profile: str, num_threads: int):
+def _converter(profile: str, num_threads: int, dpi: int = profiles.DEFAULT_DPI):
     from pipeline.profiles import make_converter
 
-    if profile not in _CONVERTERS:
-        _CONVERTERS[profile] = make_converter(profile, num_threads=num_threads)
-    return _CONVERTERS[profile]
+    key = (profile, dpi)
+    if key not in _CONVERTERS:
+        _CONVERTERS[key] = make_converter(profile, num_threads=num_threads, dpi=dpi)
+    return _CONVERTERS[key]
 
 
-def convert_unit(unit: Unit, doclang_path: str, xml_path: str, num_threads: int = 2) -> UnitResult:
-    """Runs inside a worker process: Docling convert, write JSON, build USLM, validate."""
-    started = time.monotonic()
-    try:
-        converter = _converter(unit.profile, num_threads)
+def produce_document(unit: Unit, num_threads: int = 2, dpi: int = profiles.DEFAULT_DPI):
+    """DoclingDocument for a unit: through Docling for Docling families, through the family's
+    `converter(pdf, variant, page_range, identity=...)` otherwise."""
+    family = profiles.get_family(unit.profile)
+    _, variant = profiles.parse_profile(unit.profile)
+    if family.is_docling:
+        converter = _converter(unit.profile, num_threads, dpi)
         kwargs = {}
         if unit.page_range:
             kwargs["page_range"] = unit.page_range
-        result = converter.convert(unit.pdf, **kwargs)
-        doc = result.document
-        Path(doclang_path).parent.mkdir(parents=True, exist_ok=True)
-        Path(doclang_path).write_text(json.dumps(doc.export_to_dict(), separators=(",", ":"), ensure_ascii=False), encoding="utf-8")
+        return converter.convert(unit.pdf, **kwargs).document
+    return family.converter(unit.pdf, variant, unit.page_range, identity=unit.identity, dpi=dpi)
+
+
+def convert_unit(unit: Unit, doclang_path: str, xml_path: str, num_threads: int = 2, dpi: int = profiles.DEFAULT_DPI,
+                 rebuild: bool = False) -> UnitResult:
+    """Runs inside a worker process: produce the DoclingDocument, write JSON, build USLM, validate.
+    With `rebuild`, an existing DoclingDocument JSON is loaded instead of running the profile again."""
+    started = time.monotonic()
+    try:
+        if rebuild and Path(doclang_path).exists():
+            from docling_core.types.doc import DoclingDocument
+
+            doc = DoclingDocument.load_from_json(doclang_path)
+        else:
+            doc = produce_document(unit, num_threads, dpi)
+            Path(doclang_path).parent.mkdir(parents=True, exist_ok=True)
+            Path(doclang_path).write_text(json.dumps(doc.export_to_dict(), separators=(",", ":"), ensure_ascii=False), encoding="utf-8")
         identity = uslm.DocIdentity(**unit.identity)
         if unit.page_range and identity.start_page is not None:
             identity.start_page = identity.start_page + unit.page_range[0] - 1
-        tree = uslm.build_uslm(doc, identity)
+        tree, stats = uslm.build_uslm_with_stats(doc, identity)
         uslm.write_uslm(tree, xml_path)
         ok, errors = uslm.validate(tree)
         return UnitResult(
             unit_id=unit.unit_id, status="success", doclang_path=doclang_path, xml_path=xml_path,
             pages=len(doc.pages), seconds=time.monotonic() - started, xsd_valid=ok, xsd_errors=errors or None,
+            stats=stats,
         )
     except Exception as exc:  # recorded in conversions.error_log
         return UnitResult(unit_id=unit.unit_id, status="failed", seconds=time.monotonic() - started, error=f"{type(exc).__name__}: {exc}")
@@ -200,7 +242,8 @@ def convert_unit(unit: Unit, doclang_path: str, xml_path: str, num_threads: int 
 # ---------------------------------------------------------------------------- units
 
 
-def units_from_spec(spec_path: str, page_range: Optional[tuple[int, int]]) -> list[Unit]:
+def units_from_spec(spec_path: str, page_range: Optional[tuple[int, int]], profile: Optional[str] = None) -> list[Unit]:
+    """One unit per downloaded granule of the spec; `profile` overrides the per-volume default."""
     units = []
     with db.connection() as conn, conn.cursor() as cur:
         for entry in load_spec(spec_path):
@@ -213,14 +256,14 @@ def units_from_spec(spec_path: str, page_range: Optional[tuple[int, int]]) -> li
             volume = int(row["package_id"].split("-")[1]) if row["package_id"].startswith("STATUTE-") else None
             identity = uslm.identity_from_granule(row)
             units.append(
-                Unit(unit_id=row["granule_id"], pdf=row["pdf_local_path"], profile=profile_for_volume(volume),
+                Unit(unit_id=row["granule_id"], pdf=row["pdf_local_path"], profile=profile or profile_for_volume(volume),
                      identity=asdict(identity), page_range=page_range, granule_id=row["granule_id"],
                      package_id=row["package_id"])
             )
     return units
 
 
-def units_from_plaw(package_ids: list[str], page_range: Optional[tuple[int, int]]) -> list[Unit]:
+def units_from_plaw(package_ids: list[str], page_range: Optional[tuple[int, int]], profile: Optional[str] = None) -> list[Unit]:
     from downloader.fetch_plaw import pl_number
 
     units = []
@@ -235,7 +278,7 @@ def units_from_plaw(package_ids: list[str], page_range: Optional[tuple[int, int]
             statute = dict(statute) if statute else None
             identity = uslm.identity_from_plaw(package_id, statute)
             units.append(
-                Unit(unit_id=package_id, pdf=str(pdf), profile="digital", identity=asdict(identity),
+                Unit(unit_id=package_id, pdf=str(pdf), profile=profile or "digital", identity=asdict(identity),
                      page_range=page_range, package_id=package_id, statute_id=statute["id"] if statute else None)
             )
     return units
@@ -253,16 +296,18 @@ def unit_from_pdf(pdf: str, profile: Optional[str], page_range, volume: Optional
 # ---------------------------------------------------------------------------- run
 
 
-def run_units(units: list[Unit], workers: int, force: bool, num_threads: int = 2) -> list[UnitResult]:
+def run_units(units: list[Unit], workers: int, force: bool, num_threads: int = 2, dpi: int = profiles.DEFAULT_DPI,
+              rebuild: bool = False) -> list[UnitResult]:
     results: list[UnitResult] = []
     todo: list[tuple[Unit, str, Path, Path]] = []
+    for unit in units:
+        profiles.get_family(unit.profile)  # unknown profiles fail before any work starts
     with db.connection() as conn:
         for unit in units:
             sha = sha256_file(unit.pdf)
-            doclang_path = DOCLANG_DIR / f"{unit.stem}.json"
-            xml_path = XML_DIR / f"{unit.stem}.xml"
+            doclang_path, xml_path = output_paths(unit.profile, unit.stem)
             previous = previous_success(conn, unit)
-            if should_skip(unit, sha, doclang_path, xml_path, previous, force):
+            if should_skip(unit, sha, doclang_path, xml_path, previous, force or rebuild):
                 logger.info("%s: skip (outputs exist, input unchanged)", unit.unit_id)
                 results.append(UnitResult(unit_id=unit.unit_id, status="skipped", doclang_path=str(doclang_path),
                                           xml_path=str(xml_path), xsd_valid=previous.get("xsd_valid") if previous else None))
@@ -274,7 +319,7 @@ def run_units(units: list[Unit], workers: int, force: bool, num_threads: int = 2
     logger.info("converting %d unit(s) with %d worker(s)", len(todo), workers)
     with ProcessPoolExecutor(max_workers=workers, initializer=_init_worker, initargs=(num_threads,)) as pool:
         futures = {
-            pool.submit(convert_unit, unit, str(doclang_path), str(xml_path), num_threads): (unit, sha)
+            pool.submit(convert_unit, unit, str(doclang_path), str(xml_path), num_threads, dpi, rebuild): (unit, sha)
             for unit, sha, doclang_path, xml_path in todo
         }
         for fut in as_completed(futures):
@@ -285,8 +330,11 @@ def run_units(units: list[Unit], workers: int, force: bool, num_threads: int = 2
                 result = UnitResult(unit_id=unit.unit_id, status="failed", error=f"worker: {exc}")
             result.input_sha256 = sha
             if result.status == "success":
-                logger.info("%s: %d pages in %.0fs, xsd_valid=%s%s", unit.unit_id, result.pages, result.seconds,
-                            result.xsd_valid, "" if result.xsd_valid else f" ({(result.xsd_errors or [''])[0][:120]})")
+                st = result.stats or {}
+                logger.info("%s [%s]: %d pages in %.0fs, xsd_valid=%s, kept %s/%s chars, %s warning(s)%s", unit.unit_id,
+                            unit.profile, result.pages, result.seconds, result.xsd_valid, st.get("kept_chars"),
+                            st.get("docling_chars"), st.get("warnings"),
+                            "" if result.xsd_valid else f" ({(result.xsd_errors or [''])[0][:120]})")
             else:
                 logger.error("%s: %s", unit.unit_id, result.error)
             with db.connection() as conn:
@@ -301,7 +349,8 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--spec", help="YAML sample spec with granule ids")
     p.add_argument("--plaw", action="append", default=[], help="PLAW package id (repeatable)")
     p.add_argument("--pdf", help="a single PDF path")
-    p.add_argument("--profile", choices=["scanned", "digital"], help="override the profile for --pdf")
+    p.add_argument("--profile", default=None, help="profile name (family[:variant]); overrides the per-volume default")
+    p.add_argument("--dpi", type=int, default=profiles.DEFAULT_DPI, help="OCR render resolution (default 300)")
     p.add_argument("--volume", type=int, help="Statutes at Large volume for --pdf")
     p.add_argument("--start-page", type=int, help="Statutes at Large page of PDF page 1 for --pdf")
     p.add_argument("--congress", type=int)
@@ -310,6 +359,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--workers", type=int, default=None, help="default min(2, cpu_count // 2); about 1.5 GB RAM per worker")
     p.add_argument("--threads", type=int, default=2, help="torch/OMP threads per worker (default 2)")
     p.add_argument("--force", action="store_true", help="convert even when outputs exist")
+    p.add_argument("--rebuild", action="store_true", help="rebuild the USLM from existing DoclingDocument JSON without rerunning the profile")
     p.add_argument("--log-dir", default=str(LOG_DIR))
     return p
 
@@ -320,16 +370,18 @@ def main(argv: Optional[list[str]] = None) -> int:
     db.init_db()
     page_range = parse_page_range(args.page_range)
     units: list[Unit] = []
+    if args.profile:
+        profiles.get_family(args.profile)
     if args.spec:
-        units += units_from_spec(args.spec, page_range)
+        units += units_from_spec(args.spec, page_range, args.profile)
     if args.plaw:
-        units += units_from_plaw(args.plaw, page_range)
+        units += units_from_plaw(args.plaw, page_range, args.profile)
     if args.pdf:
         units.append(unit_from_pdf(args.pdf, args.profile, page_range, args.volume, args.start_page, args.congress, args.law_number))
     if not units:
         logger.error("nothing to convert (use --spec, --plaw, or --pdf)")
         return 2
-    results = run_units(units, workers_for_container(args.workers), args.force, args.threads)
+    results = run_units(units, workers_for_container(args.workers), args.force, args.threads, args.dpi, args.rebuild)
     ok = sum(r.status == "success" for r in results)
     skipped = sum(r.status == "skipped" for r in results)
     failed = [r for r in results if r.status == "failed"]

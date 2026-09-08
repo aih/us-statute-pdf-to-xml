@@ -76,6 +76,14 @@ class SplitReport:
     def produced_ids(self) -> set[str]:
         return {s.granule_id for s in self.slices if s.granule_id}
 
+    def unpaired(self, granules: Optional[list[dict]] = None) -> list[dict]:
+        """GovInfo granules without a one-to-one slice, and slices without a granule id (F4)."""
+        classes = {g["granuleId"]: g.get("granuleClass") for g in granules or []}
+        out = [{"granule_id": gid, "granule_class": classes.get(gid), "reason": "no slice"} for gid in self.missing]
+        out += [{"granule_id": gid, "granule_class": next((s.granule_class for s in self.slices if s.granule_id == gid), None),
+                 "reason": "slice without a GovInfo granule"} for gid in self.extra]
+        return out
+
     @property
     def missing(self) -> list[str]:
         return sorted(self.expected_ids - self.produced_ids)
@@ -219,7 +227,9 @@ def iter_slices(root: etree._Element) -> list[Slice]:
         if el.tag in DOC_TAGS:
             if any(a.tag in DOC_TAGS for a in el.iterancestors()):
                 continue  # nested document (e.g. quoted) stays inside its parent
-            citable = el.findtext(f"{NS}meta/{NS}citableAs")
+            citations = [c.text or "" for c in el.findall(f"{NS}meta/{NS}citableAs")]
+            # a law carries two citableAs elements ("Public Law 115-119", "132 Stat. 23"); the Stat. one has the page
+            citable = next((c for c in citations if page_from_citation(c)), citations[0] if citations else None)
             start = page_from_citation(citable) or first_marker_before_text(el) or last_page
             title = el.findtext(f"{NS}meta/{DC}title")
             slices.append(
@@ -364,6 +374,8 @@ def split_volume(xml_path: Path | str, out_dir: Path | str, granules: Optional[l
             for s in slices
         ]
         (out_dir / "index.json").write_text(json.dumps(index, indent=1), encoding="utf-8")
+        if granules:
+            (out_dir / "unpaired.json").write_text(json.dumps(report.unpaired(granules), indent=1), encoding="utf-8")
     return report
 
 

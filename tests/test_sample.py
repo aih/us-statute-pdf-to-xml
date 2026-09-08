@@ -53,3 +53,24 @@ def test_write_spec_roundtrip(tmp_path):
     loaded = load_spec(out)
     assert [r["granule_id"] for r in loaded] == [r["granule_id"] for r in rows]
     assert loaded[0]["era"] == "scanned-pre-1951"
+
+
+LISTING_132 = [
+    {"granuleId": "STATUTE-132-Pg1", "granuleClass": "PUBLICLAW", "title": "a"},
+    {"granuleId": "STATUTE-132-Pg5599", "granuleClass": "PRIVATELAW", "title": "b"},
+    {"granuleId": "STATUTE-132-Pg5600", "granuleClass": "HCONRES", "title": "c"},
+    {"granuleId": "STATUTE-132-Pg5601", "granuleClass": "SCONRES", "title": "d"},
+    {"granuleId": "STATUTE-132-Pg5703", "granuleClass": "PROCLAMATION", "title": "e"},
+]
+
+
+def test_f4_digital_era_samples_only_laws():
+    """Reproduction of F4: resolutions and proclamations from volume 117 on have no one-to-one reference."""
+    assert sample.classes_for_era("digital-2003+") == ["PUBLICLAW", "PRIVATELAW"]
+    assert sample.classes_for_era("scanned-pre-1951") == sample.CLASSES
+    rows = sample.build_sample({132: LISTING_132, 64: LISTING_64}, per_cell=5, max_pages=10000, seed=1)
+    digital = {r["granule_class"] for r in rows if r["era"] == "digital-2003+"}
+    assert digital == {"PUBLICLAW", "PRIVATELAW"}
+    assert "STATUTE-132-Pg5600" not in {r["granule_id"] for r in rows}
+    scanned = {r["granule_class"] for r in rows if r["era"] == "scanned-pre-1951"}
+    assert "TREATY" in scanned
