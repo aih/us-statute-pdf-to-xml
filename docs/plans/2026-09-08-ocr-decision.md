@@ -52,7 +52,7 @@ The plan's cost table assumed 200,000 pages; the projections below use 276,763.
 | same | GraniteDocling-258M | 4.3 to 23.2 (repetition loops on 2 of 21 pages) |
 | HF Jobs (GPU) | not measured (token without `job.write`) | |
 | Anthropic API, Batch API, 10 granule batches in flight | `claude-haiku-4-5` 2,320 image tokens per page | $0.0064 per page measured (87 pages, $0.55); batches took 1 to 90 minutes each |
-| same | `claude-sonnet-5` | @@SONNET_COST@@ |
+| same | `claude-sonnet-5` | $0.0313 per page measured streaming (87 pages, $2.72): ten single-granule batches stayed in progress for 40 minutes and were cancelled, so Sonnet ran without `--batch`; about $0.016 per page with it |
 | same | `claude-opus-5` | $0.0376 per page measured (87 pages, $3.27); two of 39 batches failed on a lookup race and a connection error and were resubmitted |
 
 ## 2. Results matrix
@@ -66,7 +66,7 @@ Section recall is the share of reference sections matched by number and first 40
 |---|---|---|---|---|---|---|
 | `vlm:glm_ocr` | C4 GLM-OCR, MLX | 0.003 (0.025) | 0.002 (5) | 0.006 (5) | 0.029 (3) | 0.00 / 0.48 |
 | `claude:claude-haiku-4-5` | C5, Batch API | not run on the gold granules | 0.016 (5) | 0.007 (5) | 0.032 (3) | 0.32 / 0.44 |
-| `claude:claude-sonnet-5` | C5, Batch API | not run on the gold granules | @@SONNET_ROW@@ |
+| `claude:claude-sonnet-5` | C5, Batch API | not run on the gold granules | 0.003 (5) | 0.006 (5) | 0.030 (3) | 0.32 / 0.44 |
 | `claude:claude-opus-5` | C5, Batch API | not run on the gold granules | 0.003 (5) | 0.006 (5) | 0.029 (3) | 0.32 / 0.44 |
 | `textlayer` | C1 vendor text layer | 0.022 (0.064) | 0.012 (5) | 0.075 (5) | 0.046 (3) | 0.32 / 0.44 |
 | `vlm:lightonocr` | C4 LightOnOCR, MLX | not run on the gold granules | 0.015 (5) | 0.053 (5) | 0.048 (3) | 0.00 / 0.48 |
@@ -117,6 +117,7 @@ Mean CER over every row of the sample (all classes; 18 pre-1951, 15 from 1951 to
 | `rapidocr` | 0.245 | 0.097 | 0.079 | 0.076 |
 | `vlm:glm_ocr` (5, 5, 3 rows) | 0.002 | 0.006 | 0.029 | 0.029 |
 | `claude:claude-haiku-4-5` (18, 15, 5 rows) | 0.186 (median 0.048) | 0.019 | 0.039 | |
+| `claude:claude-sonnet-5` (18, 15, 5 rows) | 0.152 (median 0.025) | 0.018 | 0.038 | |
 | `claude:claude-opus-5` (18, 15, 5 rows) | 0.152 (median 0.025) | 0.019 | 0.037 | |
 | `hybrid:claude:claude-opus-5` | 0.101 (median 0.021) | 0.019 | 0.044 | |
 | `hybrid:textlayer` | 0.140 | 0.054 | 0.052 | |
@@ -125,8 +126,9 @@ Mean CER over every row of the sample (all classes; 18 pre-1951, 15 from 1951 to
 Haiku's pre-1951 mean is four rows: the proclamation STATUTE-39-Pg1738 (0.77), the treaties STATUTE-39-Pg1645
 (0.69) and STATUTE-10-Pg954 (0.17), and the concurrent resolutions STATUTE-39-Pg1600-3 and -1603-4 (0.62,
 0.57), the same rows every profile fails on (bilingual columns, garbled headings); its public and private
-laws score 0.019 to 0.023. Opus reads the same rows the same way (0.152 mean, 0.025 median); on the 14
-common laws it matches GLM-OCR (0.003 and 0.006 against 0.002 and 0.006) at $0.0376 per page.
+laws score 0.019 to 0.023. Sonnet and Opus read the same rows the same way (0.152 mean, 0.025 median); on
+the 14 common laws both match GLM-OCR (0.003 and 0.006 against 0.002 and 0.006) at $0.031 and $0.038 per page.
+The three Claude runs cost $6.55 in all.
 
 Checks made on the GLM-OCR result: on STATUTE-72-Pg1751 its text differs from the PDF text layer where the
 text layer has OCR errors (`maintain` against the layer's `maintam`), and its CER against the text layer
@@ -146,7 +148,7 @@ on the available hosts.
 | Candidate | Projected cost | Projected wall time | Excluded |
 |---|---|---|---|
 | C5 `claude-opus-5` | $10,400 with the Batch API ($0.0376 per page measured), $20,800 streaming | | yes, cost; tier B CER equals GLM-OCR's (0.003 and 0.006 on the common laws) |
-| C5 `claude-sonnet-5` | @@SONNET_PROJ@@ | | @@SONNET_EXCL@@ |
+| C5 `claude-sonnet-5` | $8,700 streaming ($0.0313 per page measured), about $4,300 with the Batch API | | yes above $5,000 without the Batch API; tier B CER equals GLM-OCR's and Opus's (0.003 and 0.006) |
 | C5 `claude-haiku-4-5` | $1,770 with the Batch API ($0.0064 per page measured), $3,500 streaming | Batch API turnaround 1 to 90 minutes per batch; no wall-time limit | not by cost; gold CER not measured, tier B behind GLM-OCR by an order of magnitude |
 | C3 EasyOCR | $0 | 196 days at 61 s per page | yes, time and memory |
 | C3 RapidOCR | $0 | 18 days with one worker (memory), 9 with two | borderline; CER behind the text layer in both eras |
