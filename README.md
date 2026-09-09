@@ -189,7 +189,7 @@ own error rate.
 
 | Text source | Gold CER, median (mean) | Tier B CER, laws 1855 to 1950 | Tier B CER, laws 1951 to 2002 | Sidenotes | Cost per page | Seconds per page |
 |---|---|---|---|---|---|---|
-| GLM-OCR (`vlm:glm_ocr`) | 0.003 (0.025) | 0.002 | 0.006 | none emitted | $0 | 11.7 on an M1 Pro, MLX |
+| GLM-OCR (`vlm:glm_ocr`) | 0.003 (0.025) | 0.002 | 0.006 | none emitted | $0 on the Mac, $0.0019 on an L4 | 11.7 on an M1 Pro (MLX), 8.5 on an L4 |
 | `claude-opus-5` (`claude:claude-opus-5`) | not run | 0.003 | 0.006 | emitted | $0.038 (Batch API) | API |
 | `claude-sonnet-5` | not run | 0.003 | 0.006 | emitted | $0.031 streaming | API |
 | `claude-haiku-4-5` | not run | 0.016 | 0.007 | emitted | $0.0064 (Batch API) | API |
@@ -204,8 +204,9 @@ own error rate.
 GLM-OCR is first on the gold set in every period, including 1789 to 1850 (0.009 against 0.040 for the
 text layer), and ties the Claude models on tier B. The Claude models project to $8,700 to $20,800 for the
 276,763 scanned pages and are excluded by the plan's $5,000 limit; Haiku fits the limit and trails GLM-OCR
-by an order of magnitude on tier B. GLM-OCR on the Mac alone takes 37 days for the scanned volumes; the
-GPU route (HF Jobs, `benchmark/jobs.py`) is unmeasured because the HF token lacks the Jobs permission.
+by an order of magnitude on tier B. GLM-OCR takes 11.7 seconds per page on the Mac (37 days for the scanned
+volumes) and 8.5 on an HF Jobs L4 through Docling's transformers engine ($0.0019 per page, 27 days on one
+card); two L4s and the Mac together take about 10 days.
 
 The hybrid assembly lifts section recall from 0.00 to 0.48 for any raw profile to 0.94 to 1.00, and holds
 the tier B CER of its text source (0.002 and 0.003 for GLM-OCR). A `claude-opus-5` judge scored 20

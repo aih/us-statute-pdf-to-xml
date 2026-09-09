@@ -9,8 +9,9 @@ and the WP10 gold set (`benchmark/gold.py`, `data/reports/2026-09-08-wp10-gold.m
 Follow-up on 2026-09-08 (branch `wp10-wp11-followup`, merged here): the Anthropic credits were purchased, so
 the gold set (WP10, `data/reports/2026-09-08-wp10-gold.md`), the Claude transcription profile (C5,
 `data/reports/2026-09-08-wp9c-claude.md`), and the judge pass (WP11, `data/reports/2026-09-08-wp11-judge.md`)
-have measurements. The HF token in `.env` still lacks `job.write` on `dreamproit`, so no GPU job ran; the
-VLM profiles ran on the Mac with MLX and the GPU throughput in section 5 remains an estimate.
+have measurements. On 2026-09-09 (UTC), with a token carrying `job.write` and pre-paid credits on
+`dreamproit`, one HF Jobs run measured GLM-OCR on an L4 (`data/reports/2026-09-09-wp9b-vlm-gpu.md`,
+ledger `data/benchmark-runs/wp9b-vlm-gpu/jobs.json`); section 5 uses that figure.
 
 ## 1. Inputs
 
@@ -50,7 +51,7 @@ The plan's cost table assumed 200,000 pages; the projections below use 276,763.
 | Mac (M1 Pro, 16 GB), MLX, one model at a time | GLM-OCR | 9.6 to 13.4 |
 | same | LightOnOCR-2-1B | 11.3 to 18.0 |
 | same | GraniteDocling-258M | 4.3 to 23.2 (repetition loops on 2 of 21 pages) |
-| HF Jobs (GPU) | not measured (token without `job.write`) | |
+| HF Jobs, one L4 (`l4x1`, $0.80 per hour), GLM-OCR through Docling's transformers engine | job `6aa092b932d5d0c22c5aed8a`: 18 units, 28 pages, 347 s of job time, $0.077 | 8.5 wall (7.7 model) per page; 79 minutes in the hardware queue before it started |
 | Anthropic API, Batch API, 10 granule batches in flight | `claude-haiku-4-5` 2,320 image tokens per page | $0.0064 per page measured (87 pages, $0.55); batches took 1 to 90 minutes each |
 | same | `claude-sonnet-5` | $0.0313 per page measured streaming (87 pages, $2.72): ten single-granule batches stayed in progress for 40 minutes and were cancelled, so Sonnet ran without `--batch`; about $0.016 per page with it |
 | same | `claude-opus-5` | $0.0376 per page measured (87 pages, $3.27); two of 39 batches failed on a lookup race and a connection error and were resubmitted |
@@ -198,17 +199,21 @@ STATUTE-39-Pg1738: CER 0.65 to 3.2 unclipped, against 0.00 to 0.78 for Opus on t
 | Route | Seconds per page | Wall time | Cost |
 |---|---|---|---|
 | GLM-OCR on the Mac, MLX | 11.7 (measured over the 247 gold pages; 9.6 to 13.4 on the sample) | 37 days continuous | $0 |
-| GLM-OCR on one HF Jobs L4 (`benchmark/jobs.py`, $0.80 per hour) | 2 to 5 (estimate; not measured) | 6 to 16 days on one job, half on two | $125 to $310 per job-run |
+| GLM-OCR on one HF Jobs L4 (`benchmark/jobs.py`, $0.80 per hour, transformers engine, one page at a time) | 8.5 (measured on 28 pages) | 27 days on one job, 14 on two | $525 per job-run ($0.0019 per page) |
 | Hybrid assembly in the container | 0.1 to 0.3 (measured) | 1 day, overlapped | $0 |
 | Fallback: text layer in the container, 2 workers | 1.5 per worker (measured) | 2.4 days | $0 |
 | Fallback per-page Tesseract psm6, 2 workers | 4.2 per worker (measured) | 7 days if every page needed it | $0 |
 
-Hosts to use: HF Jobs for GLM-OCR over volumes 65 to 116 first, then 1 to 64 (plan order), with the Mac
-taking a volume at a time in parallel; the container for the hybrid assembly, the fallback profile, and the
-ledger (`conversions`, `reconcile`). Unit of work stays one granule, cut from the Hub volume PDF by the MODS
-page range (WP12).
+Hosts to use: two HF Jobs L4s for GLM-OCR over volumes 65 to 116 first, then 1 to 64 (plan order), with the
+Mac taking a volume at a time in parallel (together 0.32 pages per second: 10 days, about $385 in job time);
+the container for the hybrid assembly, the fallback profile, and the ledger (`conversions`, `reconcile`).
+Unit of work stays one granule, cut from the Hub volume PDF by the MODS page range (WP12).
 
-The GPU figure is the one number the projection depends on. Section 8 lists what is needed to measure it.
+The L4 figure comes from Docling's transformers engine converting one page at a time, the same code path as
+the Mac run with MLX in place of transformers; the L4 is 1.4 times the Mac's rate. The text differs slightly
+between the two engines: tier B CER 0.003 / 0.013 / 0.032 on the L4 against 0.002 / 0.006 / 0.029 on the
+Mac for the same 14 laws. A batched serving engine (vLLM or SGLang) on the same card would raise the
+throughput several-fold and is the lever for a shorter run; it is not measured.
 
 ## 6. Identifier rules for the generated USLM
 
@@ -258,9 +263,9 @@ Findings that recur across granules:
 
 ## 8. Open items
 
-1. An HF token with `job.write` on `dreamproit`. Then `python -m benchmark.jobs submit --variant glm_ocr`
-   on the 14-law subset to measure seconds per page and dollars per page on an L4, which fixes the wall time
-   in section 5. The same run covers DeepSeek-OCR through Ollama.
+1. DeepSeek-OCR through Ollama on HF Jobs (`benchmark.jobs submit --variant deepseek_ocr`): not run.
+   Batched inference for GLM-OCR on the L4 (vLLM or SGLang instead of Docling's transformers engine): not
+   measured; the lever for the wall time in section 5.
 2. Nanonets-OCR2 was not run (7.5 GB download stalled); `--repo-id mlx-community/Nanonets-OCR2-3B-4bit` is
    wired for a rerun.
 3. The tier A rows for the VLM profiles were computed on wrapper PDFs with 1912 x 2476 pt pages (fixed in
@@ -280,6 +285,9 @@ Findings that recur across granules:
 8. GLM-OCR drops a region of the page on about one page in fifteen (10 of 150 gold pages above CER 0.1,
    2 above 0.5; 5 of 21 non-law sample granules). A per-page guard in the hybrid, falling back to the text
    layer when the VLM page text is much shorter than the text layer's, would bound the damage; not built.
+
+Resolved on 2026-09-09: the HF token (Jobs permission on `dreamproit`, pre-paid credits) and the L4
+measurement in section 5.
 
 Resolved on 2026-09-08: Anthropic credits (gold set, C5, judge pass, all in this document); GLM-OCR on
 volumes 1 to 9 (30 gold pages) and on the 25 sample granules the VLM runs had skipped; `pipeline/uslm.py`
