@@ -1,0 +1,58 @@
+{
+ "run_id": "wp9b-vlm-gpu",
+ "repo_id": "dreamproit/us-statutes-at-large",
+ "inputs": {
+  "remote": "benchmark-runs/wp9b-vlm-gpu/inputs",
+  "commit": "https://huggingface.co/datasets/dreamproit/us-statutes-at-large/commit/af7eb9264bb81ffd2cbf84750d75e3d7930790a6",
+  "units": [
+   "STATUTE-39-Pg342-2",
+   "STATUTE-39-Pg354-4",
+   "STATUTE-10-Pg764",
+   "STATUTE-10-Pg826-5",
+   "STATUTE-10-Pg840-3",
+   "STATUTE-72-Pg983-2",
+   "STATUTE-72-Pg1751",
+   "STATUTE-72-PgA13",
+   "STATUTE-72-PgA144-2",
+   "STATUTE-85-Pg844-2",
+   "STATUTE-124-Pg2256",
+   "STATUTE-124-Pg4523",
+   "STATUTE-124-Pg4525",
+   "STATUTE-132-Pg5595",
+   "STATUTE-124-Pg2256_A-clean",
+   "STATUTE-124-Pg4523_A-clean",
+   "STATUTE-124-Pg4525_A-clean",
+   "STATUTE-132-Pg5595_A-clean"
+  ]
+ },
+ "jobs": [
+  {
+   "variant": "glm_ocr",
+   "engine": "transformers",
+   "image": "python:3.12",
+   "flavor": "l4x1",
+   "timeout": "45m",
+   "namespace": "dreamproit",
+   "name": "wp9b-vlm-gpu-vlm-glm-ocr",
+   "job_id": null,
+   "error": "Client error '402 Payment Required' for url 'https://huggingface.co/api/jobs/dreamproit' (Request ID: Root=1-6aa07f54-391af7603b64f9d937c021d1;10218087-7022-4d03-9a70-20c5bb4a1b64)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402\n\nPre-paid credit balance is insufficient - add more credits to your account to use Jobs.",
+   "submitted": "2026-09-08T21:34:12+00:00"
+  },
+  {
+   "variant": "glm_ocr",
+   "engine": "transformers",
+   "image": "python:3.12",
+   "flavor": "l4x1",
+   "timeout": "45m",
+   "namespace": "dreamproit",
+   "name": "wp9b-vlm-gpu-vlm-glm-ocr",
+   "job_id": "6aa092b932d5d0c22c5aed8a",
+   "submitted": "2026-09-08T22:56:57+00:00",
+   "stage": "COMPLETED",
+   "started": "2026-09-09T00:15:47.572000+00:00",
+   "finished": "2026-09-09T00:21:34.586000+00:00",
+   "wall_seconds": 347.014,
+   "estimated_cost_usd": 0.0771
+  }
+ ]
+}
