@@ -168,7 +168,9 @@ is the same file.
 
 ## Benchmark results and the chosen pipeline
 
-Measured on 2026-09-08 (`docs/plans/2026-09-08-ocr-decision.md`; reports under `data/reports/`).
+Measured on 2026-09-08 and 2026-09-09. The decision and every number below are in
+[docs/plans/2026-09-08-ocr-decision.md](docs/plans/2026-09-08-ocr-decision.md); the reports it cites are
+under `data/reports/` and are listed at the end of this section.
 
 Chosen pipeline: `hybrid:vlm:glm_ocr`. The GPO USLM for the granule supplies the document structure,
 sidenotes, and page markers; the body text comes from GLM-OCR (Zhipu, 0.9B parameters) run through
@@ -181,11 +183,42 @@ python -m pipeline.vlm run --spec benchmark/sample.yaml --variant glm_ocr       
 python -m pipeline.convert --spec benchmark/sample.yaml --profile hybrid:vlm:glm_ocr   # container
 ```
 
-Two references. The gold set (`benchmark/gold/`, 150 pages, 30 per period from 1789 to 2002) is each
-page transcribed twice by `claude-opus-5` and adjudicated against the image; CER is measured on the text
-column. Tier B scores a granule against the GPO USLM slice on a 39-granule sample (volumes 10, 39, 72,
-85, 124, 132); the GPO text is itself OCR for volumes 1 to 116, so tier B has a floor near the vendor's
-own error rate.
+### How the pipelines were scored
+
+**Character error rate (CER)** is the Levenshtein edit distance between a pipeline's text and the
+reference text, divided by the length of the reference (`benchmark/metrics.py`). Both texts are
+normalized first: Unicode NFKC, quotation marks and dashes unified, words hyphenated at a line end
+joined, whitespace collapsed. A CER of 0.003 means three characters inserted, deleted, or substituted
+per thousand characters of reference. A gold page holds about 3,200 characters, so 0.003 is roughly ten
+wrong characters on the page. A CER above 1 is possible: it means the pipeline produced far more text
+than the reference span (a page that was not clipped, or a repetition loop). **Word error rate (WER)** is
+the same distance over words and punctuation tokens. **Section recall** is the share of the reference's
+sections found in the output with the same number and the same first 40 characters. Reports give the
+mean and the median over pages or granules; the median is the figure to compare, because a single page
+with a missing region has a CER of 0.3 to 1.0 and moves the mean by itself.
+
+Three references:
+
+- **Gold set** (`benchmark/gold/`, 150 pages, 30 per period from 1789 to 2002, sampled from public
+  laws with a fixed seed). Each page image was transcribed twice by `claude-opus-5` under two different
+  prompts; where the two transcriptions differ, a third call sees both and the image and returns the
+  printed lines for each differing run. CER is measured on the text column (body and footnote lines);
+  marginal notes are scored separately as sidenote CER. The 20 pages in `data/gold/review.md` are for a
+  human spot check. Report: `data/reports/2026-09-08-wp10-gold.md`, with the CER of every page.
+- **Tier B**: the granule's text against the GPO USLM slice for the same granule, on a 39-granule
+  sample (`benchmark/sample.yaml`: volumes 10, 39, 72, 85, 124, 132; laws, resolutions, proclamations,
+  treaties). The generated text is clipped to the span of the reference before scoring, because a
+  granule PDF holds whole pages and the neighbouring laws on them. The GPO text is itself the
+  digitization vendor's OCR for volumes 1 to 116: scored against the gold set it has a median CER of
+  0.011, so tier B cannot separate pipelines below that level and rewards agreement with the vendor's
+  errors. Tier B also measures section recall, identifier precision and recall, and XSD validity.
+- **Tier A**: the same on page rasters of the five born-digital granules, where the USLM is exact.
+
+A **judge pass** sends the granule PDF, the generated USLM, and the largest text differences to
+`claude-opus-5`, which returns text, structure, and tagging scores from 0 to 100 and a list of located
+issues (`benchmark/judge.py`). It is the only measurement of structure quality beyond section counts.
+
+### Results
 
 | Text source | Gold CER, median (mean) | Tier B CER, laws 1855 to 1950 | Tier B CER, laws 1951 to 2002 | Sidenotes | Cost per page | Seconds per page |
 |---|---|---|---|---|---|---|
@@ -201,6 +234,7 @@ own error rate.
 | EasyOCR | not run | 0.819 | 0.810 | | $0 | 61, over 5 GB per page |
 | GPO USLM text (the tier B reference) | 0.011 (0.143) | | | 0.050 CER | | |
 
+The tier B columns are means over the 14 laws every pipeline ran on; the gold column covers 150 pages.
 GLM-OCR is first on the gold set in every period, including 1789 to 1850 (0.009 against 0.040 for the
 text layer), and ties the Claude models on tier B. The Claude models project to $8,700 to $20,800 for the
 276,763 scanned pages and are excluded by the plan's $5,000 limit; Haiku fits the limit and trails GLM-OCR
@@ -208,15 +242,71 @@ by an order of magnitude on tier B. GLM-OCR takes 11.7 seconds per page on the M
 volumes) and 8.5 on an HF Jobs L4 through Docling's transformers engine ($0.0019 per page, 27 days on one
 card); two L4s and the Mac together take about 10 days.
 
-The hybrid assembly lifts section recall from 0.00 to 0.48 for any raw profile to 0.94 to 1.00, and holds
-the tier B CER of its text source (0.002 and 0.003 for GLM-OCR). A `claude-opus-5` judge scored 20
-granules of the hybrid: text 75.1, structure 64.7, tagging 62.6 out of 100 (the 13 laws: 83.5 / 71.5 /
-68.4); its findings are in the decision document, sections 7 and 8.
+### What the accuracy of the chosen pipeline is
 
-Known limits of the chosen text source, recorded as open items: GLM-OCR emits almost no marginal notes
-(the hybrid takes them from the GPO structure), drops a region of the page on about one page in
-fifteen, and on a page it cannot read invents text or repeats a phrase. The per-page guards that would
-catch these are not built.
+Per page, on the gold set (character errors per page for GLM-OCR: median 8, mean 89, 90th percentile
+240, worst page 2,552):
+
+| Text source | Pages at or under 0.5% CER | At or under 1% | At or under 5% | Between 10% and 50% | Over 50% |
+|---|---|---|---|---|---|
+| GLM-OCR | 88 of 150 | 116 | 132 | 8 | 2 |
+| PDF text layer | 23 | 38 | 102 | 26 | 2 |
+| Tesseract | 0 | 0 | 41 | 67 | 21 |
+| GPO USLM text | 42 of 148 | 70 | 106 | 18 | 16 |
+
+The GPO row's 16 pages over 50% are pages where the volume USLM has no page marker and the reference
+text runs into the next page; they say nothing about the vendor's OCR.
+
+Per granule, on the 17 public and private laws of the sample: GLM-OCR has a mean WER of 0.020 (one word
+in 50), the same as `claude-opus-5` (0.023); the text layer 0.289. The assembled output
+(`hybrid:vlm:glm_ocr`) keeps the text source's error rate (WER 0.022) and recovers 0.86 to 1.00 of the
+reference sections against 0.00 to 0.48 for any raw OCR output. The judge scored 20 granules of the
+assembled output: text 75.1, structure 64.7, tagging 62.6 out of 100; on the 13 laws alone 83.5 / 71.5 /
+68.4, on the seven resolutions, proclamations, and treaties lower (STATUTE-39-Pg1738: 18 / 15 / 22).
+
+### Failure modes and how to fix them
+
+1. **Dropped regions.** GLM-OCR leaves out part of a page on 10 of the 150 gold pages (CER over 0.1),
+   two of them most of the page (STATUTE-1-Pg96 p1 and STATUTE-17-Pg466 p1 score 0.55 and 0.66 where
+   the text layer scores 0.089 and 0.010), and on 5 of the 21 non-law sample granules (STATUTE-72-PgB14,
+   -PgB23-3, STATUTE-10-Pg954, -Pg1177-2, STATUTE-39-Pg1738). The model stops early or skips a block; the
+   page STATUTE-1-Pg448-2 p1 starts mid-page with 3,082 characters where the gold has 3,533. Fix: a
+   per-page guard in `pipeline/hybrid.py` that compares the VLM page text with the text layer (length
+   ratio and alignment) and takes the text layer, or a second VLM pass at another resolution, for pages
+   that disagree. Not built. Where: `2026-09-08-wp10-gold.md` per-page table; decision document section 2
+   notes and section 8 item 8.
+2. **Invented text and repetition loops.** On STATUTE-39-Pg1738 page 1739, a map printed over the text,
+   GLM-OCR produced paragraphs that are not on the page; on the treaty STATUTE-10-Pg954 one phrase repeats
+   about 150 times; on STATUTE-39-Pg1645 Spanish column text is spliced into the English articles. CER
+   catches the loop and the splice, not the invention. Fix: a repetition cap on the generated tokens and
+   the same agreement check against the text layer. Not built. Where: `2026-09-08-wp11-judge.md` judge
+   summaries; decision document section 7 finding 6 and section 8 item 7.
+3. **Marginal notes.** GLM-OCR emits almost none (sidenote CER 1.000 on the gold set). The assembled
+   output takes them from the GPO USLM, whose sidenotes score 0.050 against the gold (0.171 for 1789 to
+   1850). Fix options: the Claude profile's sidenote lines, or a second model on the margin crop. Not
+   measured. Where: `2026-09-08-wp10-gold.md` sidenote columns; decision document section 8 item 4.
+4. **Structure and tagging** (from the judge): the text of neighbouring laws on the shared first and
+   last pages is kept in `preface` and `appendix[@role='trailingMatter']`; the unnumbered first section
+   carries no identifier; spaces are lost where the hybrid replaces a run ("Congressassembled"); the
+   first page's marker is missing when it sits in the previous document. These are rule changes in
+   `pipeline/hybrid.py` and `pipeline/uslm.py`. Where: decision document section 7 findings 1 to 5.
+5. **Engine differences.** The same model through Docling's transformers engine on an L4 scores
+   slightly worse than through MLX on the Mac (tier B 0.003 / 0.013 / 0.032 against 0.002 / 0.006 /
+   0.029 on the same 14 laws). Where: `2026-09-09-wp9b-vlm-gpu.md` against `2026-09-08-wp9b-vlm-rebuild.md`.
+
+### Reports
+
+| Report | Content |
+|---|---|
+| `data/reports/2026-09-08-wp8-baseline.md` | the baseline after the benchmark repair (F1 to F4 of the plan) |
+| `data/reports/2026-09-08-wp9-comparison.md` | every profile on the 39-granule sample, by era and by granule |
+| `data/reports/2026-09-08-wp9a-cpu.md`, `-wp9b-vlm.md`, `-wp9c-claude-hybrid.md` | per-family runs with timing, memory, and what did not run |
+| `data/reports/2026-09-08-wp9b-vlm-rebuild.md` | the VLM profiles after the running-head fix |
+| `data/reports/2026-09-08-wp9b-glm-all.md` | GLM-OCR and its hybrid on all 39 granules, including the resolutions and treaties |
+| `data/reports/2026-09-08-wp9c-claude.md` | Claude Haiku, Sonnet, Opus, and the Opus hybrid |
+| `data/reports/2026-09-08-wp10-gold.md` | the gold set: build cost, CER per period, and every page |
+| `data/reports/2026-09-08-wp11-judge.md` | the judge pass: scores per granule and the located issues |
+| `data/reports/2026-09-09-wp9b-vlm-gpu.md` | GLM-OCR on the HF Jobs L4 |
 
 ## Data directories
 
